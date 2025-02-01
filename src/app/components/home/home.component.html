@@ -1,0 +1,20 @@
+<div class="main-container">
+    <div class="main-title">
+        <span class="title">OSCARS Archive</span>
+    </div>
+    <div class="sub-title">
+        <p class="title">The complete list of all the Oscar winners and nominees</p>
+    </div>
+    <div class="years-selector">
+        <button class="arrow" (click)="scrollLeft()">&larr;</button>
+        <div class="years-container" #yearsContainer>
+            <button *ngFor="let year of years" class="year-btn" [class.active]="year === selectedYear"
+                (click)="selectYear(year)">
+                {{ year }}
+            </button>
+        </div>
+        <button class="arrow" (click)="scrollRight()">&rarr;</button>
+    </div>
+
+    <app-year-data [year]="selectedYear"></app-year-data>
+</div>

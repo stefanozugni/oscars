@@ -1,0 +1,6 @@
+<button (click)="toggleTheme()" class="theme-toggle">
+    <span *ngIf="isDarkMode; else sunIcon">☀️</span>
+    <ng-template #sunIcon>🌙</ng-template>
+</button>
+
+<router-outlet></router-outlet>

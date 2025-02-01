@@ -1,0 +1,26 @@
+@font-face {
+    font-family: FuturaPT;
+    src: url(../public/assets/fonts/FuturaCyrillicBook.ttf) format("opentype");
+}
+
+
+:root {
+    --title: #C79F27;
+    --subtitle: #696969;
+    --body: #212529;
+    --background: #ffffff;
+}
+
+.dark-theme {
+    --title: #C79F27;
+    --subtitle: #B0B0B0;
+    --body: #EAEAEA;
+    --background: #232222;
+    --text-color: #ffffff;
+}
+
+body {
+    background-color: var(--background);
+    color: var(--text-color);
+    font-family: FuturaPT, sans-serif;
+}

@@ -1,0 +1,44 @@
+.nominations-container {
+    padding: 1rem;
+
+    .nominations {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .category {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            h2 {
+                font-family: 'FuturaPT';
+                color: var(--title);
+                font-weight: 500;
+                font-size: 6.5vh;
+                margin-top: 1.2rem;
+                margin-bottom: 0.4rem;
+            }
+
+            .category-movies {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                font-family: FuturaPT;
+                font-size: 3.5vh;
+
+                .winner-text {
+                    color: var(--title);
+                    text-decoration: underline;
+                }
+
+                .winner {
+                    color: var(--title);
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+.main-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .main-title {
+        width: 100%;
+        text-align: center;
+
+        .title {
+            font-family: FuturaPT;
+            font-size: 3rem;
+            color: var(--title);
+            margin-top: 0.3rem;
+        }
+    }
+
+    .sub-title {
+        .title {
+            font-family: FuturaPT;
+            font-size: 1rem;
+            color: var(--subtitle);
+            text-align: center;
+        }
+    }
+
+    .years-selector {
+        display: flex;
+        align-items: center;
+        width: 97%;
+        overflow: hidden;
+
+        .arrow {
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+        }
+
+        .years-container {
+            display: flex;
+            overflow-x: auto;
+            white-space: nowrap;
+            flex: 1;
+            scroll-behavior: smooth;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+
+            ::-webkit-scrollbar {
+                display: none;
+            }
+
+            .year-btn {
+                display: inline-block;
+                margin: 0 5px;
+                padding: 10px;
+                cursor: pointer;
+                border: none;
+                background-color: #ffffff;
+                color: var(--subtitle);
+            }
+
+            .year-btn.active {
+                color: var(--title);
+            }
+        }
+    }
+}
