@@ -4,6 +4,8 @@
             <h2>{{ category }}</h2>
             <div class="category-movies">
                 <span *ngFor="let nomination of groupedNominations[category]">
+
+                    <!-- Best Picture con link IMDb -->
                     <a style="text-decoration: none; color: var(--body);"
                         *ngIf="category === 'Best Picture' && nomination.movies.length > 0"
                         [href]="'https://www.imdb.com/title/' + nomination.movies[0].imdb_id + '/'" target="_blank"
@@ -12,11 +14,18 @@
                             {{ nomination.nominees.join(', ') }}
                         </span>
                     </a>
+
+                    <!-- Altre categorie -->
                     <span *ngIf="category !== 'Best Picture'">
-                        <span [ngClass]="{'winner-text': nomination.won}">
+                        <span class="nomination" [ngClass]="{'winner-text': nomination.won}">
                             {{ nomination.nominees.join(', ') }}
                         </span>
+                        <span *ngIf="nomination.movies.length > 0">
+                        </span>
+                        <span class="nomination-movie"><i>{{ nomination.movies[0].title }}</i></span>
                     </span>
+
+                    <!-- Icona vincitore -->
                     <span *ngIf="nomination.won" class="winner">🏆</span>
                 </span>
             </div>

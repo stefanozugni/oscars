@@ -1,0 +1,6 @@
+<button (click)="toggleTheme()" class="theme-toggle">
+    <i class="fa-solid fa-lightbulb" *ngIf="isDarkMode; else darkMode"></i>
+    <ng-template #darkMode>
+        <i class="fa-solid fa-lightbulb"></i>
+    </ng-template>
+</button>

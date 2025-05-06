@@ -38,6 +38,15 @@
                 .winner {
                     color: var(--title);
                 }
+
+                .nomination {
+                    display: flex;
+                    flex-direction: column;
+
+                    .nomination-movie {
+                        color: var(--subtitle);
+                    }
+                }
             }
         }
     }

@@ -3,33 +3,15 @@ import { Component, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { RouterOutlet } from '@angular/router';
 import { LucideAngularModule, Moon, Sun } from 'lucide-angular';
+import { HeaderComponent } from "../header/header.component";
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, CommonModule, FormsModule, LucideAngularModule],
+  imports: [RouterOutlet, CommonModule, FormsModule, LucideAngularModule, HeaderComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
-export class AppComponent implements OnInit {
-  isDarkMode = false;
+export class AppComponent {
 
-  toggleTheme(): void {
-    this.isDarkMode = !this.isDarkMode;
-
-    if (this.isDarkMode) {
-      document.body.classList.add('dark-theme');
-    } else {
-      document.body.classList.remove('dark-theme');
-    }
-    localStorage.setItem('darkMode', this.isDarkMode.toString());
-  }
-
-  ngOnInit(): void {
-    const savedTheme = localStorage.getItem('darkMode');
-    if (savedTheme === 'true') {
-      this.isDarkMode = true;
-      document.body.classList.add('dark-theme');
-    }
-  }
 }
