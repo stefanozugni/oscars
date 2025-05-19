@@ -26,3 +26,12 @@
     background-color: #ffffff;
     color: #121212;
 }
+
+@media screen and (max-width: 500px) {
+    .theme-toggle {
+        bottom: 15px;
+        right: 15px;
+        top: auto;
+    }
+
+}

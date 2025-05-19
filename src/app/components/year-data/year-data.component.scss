@@ -1,25 +1,33 @@
 .nominations-container {
     padding: 1rem;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
 
     .nominations {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        width: 100%;
 
         .category {
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            margin-bottom: 2rem;
+            width: 100%;
+            max-width: 800px;
 
             h2 {
-                font-family: 'FuturaPT';
+                font-family: 'FuturaPT', sans-serif;
                 color: var(--title);
                 font-weight: 500;
-                font-size: 6.5vh;
+                font-size: 2.5rem;
                 margin-top: 1.2rem;
-                margin-bottom: 0.4rem;
+                margin-bottom: 1.5rem;
+                text-align: center;
             }
 
             .category-movies {
@@ -27,8 +35,16 @@
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
-                font-family: FuturaPT;
-                font-size: 3.5vh;
+                font-family: 'FuturaPT', sans-serif;
+                font-size: 1.2rem;
+                text-align: center;
+
+                >span {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    width: 100%;
+                }
 
                 .winner-text {
                     color: var(--title);
@@ -37,14 +53,159 @@
 
                 .winner {
                     color: var(--title);
+                    margin-top: 0.3rem;
+                    font-size: 1.3rem;
                 }
 
                 .nomination {
-                    display: flex;
-                    flex-direction: column;
+                    display: block;
+                    width: 100%;
+                    margin-bottom: 0.3rem;
+                }
 
-                    .nomination-movie {
-                        color: var(--subtitle);
+                .nomination-movie {
+                    color: var(--subtitle);
+                    margin-top: 0.2rem;
+                    display: block;
+                }
+
+                .imdb-link {
+                    display: inline-block;
+                }
+            }
+
+            // Stile specifico per la categoria Best Picture
+            &.best-picture {
+                margin-bottom: 3rem;
+
+                h2 {
+                    font-size: 3rem;
+                    margin-bottom: 2rem;
+                    text-decoration: underline;
+                    text-underline-offset: 0.5rem;
+                }
+
+                .category-movies {
+                    >span {}
+
+                    .imdb-link {
+                        padding: 0.5rem 1rem;
+                        transition: transform 0.2s ease;
+                        border-radius: 8px;
+
+                        &:hover {
+                            transform: scale(1.05);
+                            background-color: rgba(255, 255, 255, 0.05);
+                        }
+
+                        span {
+                            font-size: 1.3em;
+                            font-weight: 500;
+                        }
+                    }
+
+                    .winner {
+                        margin-top: 0.4rem;
+                        font-size: 1.6rem;
+                    }
+                }
+            }
+        }
+    }
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+    .nominations-container {
+        .nominations {
+            .category {
+                h2 {
+                    font-size: 1.8rem;
+                    margin-bottom: 1.2rem;
+                }
+
+                .category-movies {
+                    font-size: 1rem;
+                    padding: 0 1rem;
+
+                    >span {}
+                }
+
+                // Best Picture responsive
+                &.best-picture {
+                    margin-bottom: 2.5rem;
+
+                    h2 {
+                        font-size: 2.2rem;
+                        margin-bottom: 1.5rem;
+                    }
+
+                    .category-movies {
+                        .imdb-link {
+                            padding: 0.4rem 0.8rem;
+
+                            span {
+                                font-size: 1.2em;
+                            }
+                        }
+
+                        .winner {
+                            font-size: 1.4rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .nominations-container {
+        padding: 0.5rem;
+
+        .nominations {
+            .category {
+                h2 {
+                    font-size: 1.5rem;
+                    margin-top: 1rem;
+                    margin-bottom: 1rem;
+                }
+
+                .category-movies {
+                    font-size: 0.9rem;
+
+                    >span {
+                        margin-bottom: 0.3rem;
+                    }
+
+                    .winner {
+                        font-size: 1.1rem;
+                    }
+                }
+
+                // Best Picture responsive per mobile
+                &.best-picture {
+                    margin-bottom: 2rem;
+
+                    h2 {
+                        font-size: 1.8rem;
+                        margin-bottom: 1.2rem;
+                        text-underline-offset: 0.3rem;
+                    }
+
+                    .category-movies {
+                        .imdb-link {
+                            padding: 0.3rem 0.6rem;
+
+                            span {
+                                font-size: 1.1em;
+                                margin-bottom: 0rem;
+                            }
+                        }
+
+                        .winner {
+                            font-size: 1.2rem;
+                        }
                     }
                 }
             }

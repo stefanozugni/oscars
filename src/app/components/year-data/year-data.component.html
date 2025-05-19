@@ -1,6 +1,7 @@
 <div class="nominations-container">
     <div *ngIf="getCategories().length > 0; else noData" class="nominations">
-        <div *ngFor="let category of getCategories()" class="category">
+        <div *ngFor="let category of getCategories()" class="category"
+            [ngClass]="{'best-picture': category === 'Best Picture'}">
             <h2>{{ category }}</h2>
             <div class="category-movies">
                 <span *ngFor="let nomination of groupedNominations[category]">
@@ -8,7 +9,7 @@
                     <!-- Best Picture con link IMDb -->
                     <a style="text-decoration: none; color: var(--body);"
                         *ngIf="category === 'Best Picture' && nomination.movies.length > 0"
-                        [href]="'https://www.imdb.com/title/' + nomination.movies[0].imdb_id + '/'" target="_blank"
+                        [href]="'https://letterboxd.com/imdb/' + nomination.movies[0].imdb_id + '/'" target="_blank"
                         rel="noopener noreferrer" class="imdb-link">
                         <span [ngClass]="{'winner-text': nomination.won}">
                             {{ nomination.nominees.join(', ') }}
