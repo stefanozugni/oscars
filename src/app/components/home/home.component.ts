@@ -16,7 +16,7 @@ export class HomeComponent implements OnInit {
   years: number[] = [];
   selectedYear!: number;
 
-  startYear = 2000;
+  startYear = 1934;
   endYear = new Date().getFullYear();
 
   ngOnInit() {

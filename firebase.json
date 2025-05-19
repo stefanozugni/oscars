@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/oscars",
+    "public": "dist/oscars/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
