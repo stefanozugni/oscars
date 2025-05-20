@@ -12,10 +12,8 @@ import { YearDataComponent } from "../year-data/year-data.component";
 })
 export class HomeComponent implements OnInit {
   @ViewChild('yearsContainer') yearsContainer!: ElementRef;
-
   years: (number | string)[] = [];
   selectedYear!: string | number;
-
   startYear = 1934;
   endYear = new Date().getFullYear();
 
@@ -31,13 +29,13 @@ export class HomeComponent implements OnInit {
       "1928-29",
       "1927-28"
     ];
-    this.years = [...specialYears];
+    
+    this.years = [...this.years, ...specialYears];
     this.selectedYear = this.endYear - 2;
   }
 
   selectYear(year: string | number) {
     this.selectedYear = year;
-    console.log('Selected year:', year);
   }
 
   scrollLeft() {
@@ -53,5 +51,4 @@ export class HomeComponent implements OnInit {
       behavior: 'smooth'
     });
   }
-
 }
