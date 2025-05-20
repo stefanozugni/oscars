@@ -5,6 +5,14 @@
     <div class="sub-title">
         <p class="title">The complete list of all the Oscar winners and nominees</p>
     </div>
+    <div class="link-switch">
+      <img src="assets/imdb.png" alt="IMDb" class="platform-icon" />
+      <label class="switch">
+        <input type="checkbox" [(ngModel)]="isImdb" />
+        <span class="slider round"></span>
+      </label>
+      <img src="assets/letterboxd.png" alt="Letterboxd" class="platform-icon" />
+    </div>
     <div class="years-selector">
         <button class="arrow" (click)="scrollLeft()">&larr;</button>
         <div class="years-container" #yearsContainer>
