@@ -19,7 +19,10 @@ export class HomeComponent implements OnInit {
   startYear = 1934;
   endYear = new Date().getFullYear();
 
-  ngOnInit() {
+  ngOnInit() {    
+    for (let y = this.endYear - 2; y >= this.startYear; y--) {
+      this.years.push(y);
+    }
     const specialYears = [
       "1932-33",
       "1931-32",
@@ -29,10 +32,6 @@ export class HomeComponent implements OnInit {
       "1927-28"
     ];
     this.years = [...specialYears];
-    
-    for (let y = this.endYear - 2; y >= this.startYear; y--) {
-      this.years.push(y);
-    }
     this.selectedYear = this.endYear - 2;
   }
 
