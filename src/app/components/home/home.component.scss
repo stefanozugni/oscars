@@ -27,8 +27,8 @@
         }
     }
 
-  $linkboxd-green: #00d382;
-$imdb-yellow: #f5c518;
+  $linkboxd-green: #f5c518;
+  $imdb-yellow: #00d382;
 
 .link-switch {
   display: flex;
@@ -45,8 +45,8 @@ $imdb-yellow: #f5c518;
   .switch {
     position: relative;
     display: inline-block;
-    width: 50px;
-    height: 26px;
+    width: 45px;
+    height: 20px;
     input {
       opacity: 0;
       width: 0;
