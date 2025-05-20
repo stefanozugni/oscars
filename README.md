@@ -22,6 +22,7 @@ Looking it up on Wikipedia usually means going through several links to find the
 - Instantly view Oscar winners and nominees for any year
 - Clean and responsive UI
 - Simple navigation from a single timeline view
+- Choose on the top of the page your preference between Imdb and Letterboxd: clicking on any film title will open its page
 
 ---
 
