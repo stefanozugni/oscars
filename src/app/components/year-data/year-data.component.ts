@@ -28,7 +28,7 @@ export class YearDataComponent implements OnChanges {
   }
 
   loadDataForYear(): void {
-  this.dataService.getDataByYear(String(this.year)).subscribe({
+  this.dataService.getDataByYear(this.year).subscribe({
     next: (data: Nomination[]) => {
       this.groupedNominations = this.groupByCategory(data);
     },
