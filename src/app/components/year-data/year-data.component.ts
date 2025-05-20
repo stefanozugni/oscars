@@ -17,6 +17,8 @@ interface GroupedNominations {
 })
 export class YearDataComponent implements OnChanges {
   @Input() year!: number | string;
+  @Input() isImdb: boolean = false;
+  
   groupedNominations: GroupedNominations = {};
 
   constructor(private dataService: DataService) { }
