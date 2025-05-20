@@ -16,7 +16,7 @@ export class HomeComponent implements OnInit {
   selectedYear!: string | number;
   startYear = 1934;
   endYear = new Date().getFullYear();
-  isImdb: boolean = false;
+  isImdb: boolean = true;
 
   ngOnInit() {    
     for (let y = this.endYear - 2; y >= this.startYear; y--) {
