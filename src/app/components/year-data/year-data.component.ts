@@ -28,16 +28,16 @@ export class YearDataComponent implements OnChanges {
   }
 
   loadDataForYear(): void {
-    this.dataService.getDataByYear(this.year).subscribe({
-      next: (data: Nomination[]) => {
-        this.groupedNominations = this.groupByCategory(data);
-      },
-      error: err => {
-        console.error(`Errore nel caricamento dei dati per l'anno ${this.year}:`, err);
-        this.groupedNominations = {};
-      }
-    });
-  }
+  this.dataService.getDataByYear(String(this.year)).subscribe({
+    next: (data: Nomination[]) => {
+      this.groupedNominations = this.groupByCategory(data);
+    },
+    error: err => {
+      console.error(`Errore nel caricamento dei dati per l'anno ${this.year}:`, err);
+      this.groupedNominations = {};
+    }
+  });
+}
 
   private groupByCategory(nominations: Nomination[]): GroupedNominations {
     return nominations.reduce((acc: GroupedNominations, nomination) => {
