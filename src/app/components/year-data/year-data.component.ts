@@ -16,7 +16,7 @@ interface GroupedNominations {
   styleUrl: './year-data.component.scss'
 })
 export class YearDataComponent implements OnChanges {
-  @Input() year!: number;
+  @Input() year!: number | string;
   groupedNominations: GroupedNominations = {};
 
   constructor(private dataService: DataService) { }
