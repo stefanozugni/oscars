@@ -13,8 +13,8 @@
           <!-- Film con link dinamico IMDb/Letterboxd -->
           <ng-container *ngIf="nomination.movies && nomination.movies.length > 0 && nomination.movies[0]?.imdb_id">
             <a [href]="isImdb 
-                        ? 'https://www.imdb.com/title/' + nomination.movies[0].imdb_id 
-                        : 'https://letterboxd.com/imdb/' + nomination.movies[0].imdb_id + '/'"
+                        ? 'https://letterboxd.com/imdb/' + nomination.movies[0].imdb_id + '/'
+                        : 'https://www.imdb.com/title/' + nomination.movies[0].imdb_id"  
                target="_blank"
                rel="noopener noreferrer"
                style="text-decoration: none; color: var(--body);">
