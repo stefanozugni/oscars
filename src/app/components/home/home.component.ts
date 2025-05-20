@@ -14,7 +14,7 @@ export class HomeComponent implements OnInit {
   @ViewChild('yearsContainer') yearsContainer!: ElementRef;
 
   years: (number | string)[] = [];
-  selectedYear!: number;
+  selectedYear!: string | number;
 
   startYear = 1934;
   endYear = new Date().getFullYear();
@@ -36,7 +36,7 @@ export class HomeComponent implements OnInit {
     this.selectedYear = this.endYear - 2;
   }
 
-  selectYear(year: number) {
+  selectYear(year: string | number) {
     this.selectedYear = year;
     console.log('Selected year:', year);
   }
