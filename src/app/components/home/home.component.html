@@ -10,7 +10,7 @@
         <div class="years-container" #yearsContainer>
             <button *ngFor="let year of years" class="year-btn" [class.active]="year === selectedYear"
                 (click)="selectYear(year)">
-                {{ year }}
+                {{ year }} 
             </button>
         </div>
         <button class="arrow" (click)="scrollRight()">&rarr;</button>
