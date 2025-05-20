@@ -1,4 +1,4 @@
-# Oscars Archive
+# Oscars Archive ![Angular](https://img.shields.io/badge/Made%20with-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 A simple Angular web app to browse all Academy Awards (Oscars) winners and nominations by year.
 
@@ -7,6 +7,13 @@ It was born out of a personal need: I often watch a movie and wonder _“Did thi
 Looking it up on Wikipedia usually means going through several links to find the right edition and then the right category. This app makes that process faster and more intuitive.
 
 🔗 **Live site**: [oscars-archive.web.app](https://oscars-archive.web.app)
+
+---
+
+## Screenshot
+
+![App screenshot](./screenshot.png)  
+<!-- Replace "screenshot.png" with your image file, or rename accordingly -->
 
 ---
 
