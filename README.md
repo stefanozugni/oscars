@@ -48,3 +48,6 @@ git clone https://github.com/stefanozugni/oscars.git
 cd oscars
 npm install
 ng serve
+```
+
+Then open http://localhost:4200 in your browser.
