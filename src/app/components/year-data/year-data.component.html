@@ -21,7 +21,7 @@
               </a>
             </span>
             <span *ngIf="(!nomination.movies || nomination.movies.length === 0 || !nomination.movies[0]?.imdb_id) && nomination.movies?.[0]?.title" 
-                  class="nomination-movie" [ngClass]="{'winner-text': nomination.won}">
+                  class="nomination" [ngClass]="{'winner-text': nomination.won}">
               <i>{{ nomination.movies[0].title }}</i>
             </span>
           </div>
