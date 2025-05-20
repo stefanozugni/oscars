@@ -1,6 +1,8 @@
 {
   "name": "Oscars Archive",
   "short_name": "Oscars Archive",
+  "theme_color": "#000000",
+  "background_color": "#000000",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
