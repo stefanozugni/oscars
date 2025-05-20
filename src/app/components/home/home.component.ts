@@ -13,13 +13,23 @@ import { YearDataComponent } from "../year-data/year-data.component";
 export class HomeComponent implements OnInit {
   @ViewChild('yearsContainer') yearsContainer!: ElementRef;
 
-  years: number[] = [];
+  years: (number | string)[] = [];
   selectedYear!: number;
 
   startYear = 1934;
   endYear = new Date().getFullYear();
 
   ngOnInit() {
+    const specialYears = [
+      "1932-33",
+      "1931-32",
+      "1930-31",
+      "1929-30",
+      "1928-29",
+      "1927-28"
+    ];
+    this.years = [...specialYears];
+    
     for (let y = this.endYear - 2; y >= this.startYear; y--) {
       this.years.push(y);
     }
