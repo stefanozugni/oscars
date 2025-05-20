@@ -29,6 +29,21 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/assets",
+                "output": "assets"
+              },
+              {
+                "glob": "manifest.webmanifest",
+                "input": "src",
+                "output": "/"
+              },
+              {
+                "glob": "favicon.ico",
+                "input": "src",
+                "output": "/"
               }
             ],
             "styles": [
@@ -88,6 +103,21 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/assets",
+                "output": "assets"
+              },
+              {
+                "glob": "manifest.webmanifest",
+                "input": "src",
+                "output": "/"
+              },
+              {
+                "glob": "favicon.ico",
+                "input": "src",
+                "output": "/"
               }
             ],
             "styles": [
