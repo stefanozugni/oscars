@@ -11,7 +11,7 @@ export class DataService {
     constructor(private http: HttpClient) { }
 
     getDataByYear(year: string | number) : Observable<Nomination[]> {
-        const url = `assets/json/${year}.json`;
+        const url = assets/json/${year}.json;
         return this.http.get<Nomination[]>(url);
     }
 }
