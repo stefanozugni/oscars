@@ -1,1576 +1,1842 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1983",
-    "nominees": [
-      "Terms of Endearment"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1983",
-    "nominees": [
-      "The Big Chill"
-    ],
-    "movies": [
-      {
-        "title": "The Big Chill",
-        "tmdb_id": 12560,
-        "imdb_id": "tt0085244"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1983",
-    "nominees": [
-      "The Dresser"
-    ],
-    "movies": [
-      {
-        "title": "The Dresser",
-        "tmdb_id": 42122,
-        "imdb_id": "tt0085461"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1983",
-    "nominees": [
-      "The Right Stuff"
-    ],
-    "movies": [
-      {
-        "title": "The Right Stuff",
-        "tmdb_id": 9549,
-        "imdb_id": "tt0086197"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1983",
-    "nominees": [
-      "Tender Mercies"
-    ],
-    "movies": [
-      {
-        "title": "Tender Mercies",
-        "tmdb_id": 42121,
-        "imdb_id": "tt0086423"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1983",
-    "nominees": [
-      "Robert Duvall"
-    ],
-    "movies": [
-      {
-        "title": "Tender Mercies",
-        "tmdb_id": 42121,
-        "imdb_id": "tt0086423"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1983",
-    "nominees": [
-      "Michael Caine"
-    ],
-    "movies": [
-      {
-        "title": "Educating Rita",
-        "tmdb_id": 38291,
-        "imdb_id": "tt0085478"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1983",
-    "nominees": [
-      "Tom Conti"
-    ],
-    "movies": [
-      {
-        "title": "Reuben, Reuben",
-        "tmdb_id": 31944,
-        "imdb_id": "tt0084591"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1983",
-    "nominees": [
-      "Tom Courtenay"
-    ],
-    "movies": [
-      {
-        "title": "The Dresser",
-        "tmdb_id": 42122,
-        "imdb_id": "tt0085461"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1983",
-    "nominees": [
-      "Albert Finney"
-    ],
-    "movies": [
-      {
-        "title": "The Dresser",
-        "tmdb_id": 42122,
-        "imdb_id": "tt0085461"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1983",
-    "nominees": [
-      "Shirley MacLaine"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1983",
-    "nominees": [
-      "Jane Alexander"
-    ],
-    "movies": [
-      {
-        "title": "Testament",
-        "tmdb_id": 21259,
-        "imdb_id": "tt0086429"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1983",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "Silkwood",
-        "tmdb_id": 12502,
-        "imdb_id": "tt0086312"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1983",
-    "nominees": [
-      "Julie Walters"
-    ],
-    "movies": [
-      {
-        "title": "Educating Rita",
-        "tmdb_id": 38291,
-        "imdb_id": "tt0085478"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1983",
-    "nominees": [
-      "Debra Winger"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1983",
-    "nominees": [
-      "Jack Nicholson"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1983",
-    "nominees": [
-      "Charles Durning"
-    ],
-    "movies": [
-      {
-        "title": "To Be or Not to Be",
-        "tmdb_id": 22998,
-        "imdb_id": "tt0086450"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1983",
-    "nominees": [
-      "John Lithgow"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1983",
-    "nominees": [
-      "Sam Shepard"
-    ],
-    "movies": [
-      {
-        "title": "The Right Stuff",
-        "tmdb_id": 9549,
-        "imdb_id": "tt0086197"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1983",
-    "nominees": [
-      "Rip Torn"
-    ],
-    "movies": [
-      {
-        "title": "Cross Creek",
-        "tmdb_id": 115332,
-        "imdb_id": "tt0085380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1983",
-    "nominees": [
-      "Linda Hunt"
-    ],
-    "movies": [
-      {
-        "title": "The Year of Living Dangerously",
-        "tmdb_id": 11541,
-        "imdb_id": "tt0086617"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1983",
-    "nominees": [
-      "Cher"
-    ],
-    "movies": [
-      {
-        "title": "Silkwood",
-        "tmdb_id": 12502,
-        "imdb_id": "tt0086312"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1983",
-    "nominees": [
-      "Glenn Close"
-    ],
-    "movies": [
-      {
-        "title": "The Big Chill",
-        "tmdb_id": 12560,
-        "imdb_id": "tt0085244"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1983",
-    "nominees": [
-      "Amy Irving"
-    ],
-    "movies": [
-      {
-        "title": "Yentl",
-        "tmdb_id": 10269,
-        "imdb_id": "tt0086619"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1983",
-    "nominees": [
-      "Alfre Woodard"
-    ],
-    "movies": [
-      {
-        "title": "Cross Creek",
-        "tmdb_id": 115332,
-        "imdb_id": "tt0085380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1983",
-    "nominees": [
-      "James L. Brooks"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1983",
-    "nominees": [
-      "Peter Yates"
-    ],
-    "movies": [
-      {
-        "title": "The Dresser",
-        "tmdb_id": 42122,
-        "imdb_id": "tt0085461"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1983",
-    "nominees": [
-      "Ingmar Bergman"
-    ],
-    "movies": [
-      {
-        "title": "Fanny and Alexander",
-        "tmdb_id": 5961,
-        "imdb_id": "tt0083922"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1983",
-    "nominees": [
-      "Mike Nichols"
-    ],
-    "movies": [
-      {
-        "title": "Silkwood",
-        "tmdb_id": 12502,
-        "imdb_id": "tt0086312"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1983",
-    "nominees": [
-      "Bruce Beresford"
-    ],
-    "movies": [
-      {
-        "title": "Tender Mercies",
-        "tmdb_id": 42121,
-        "imdb_id": "tt0086423"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1983",
-    "nominees": [
-      "James L. Brooks"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1983",
-    "nominees": [
-      "Harold Pinter"
-    ],
-    "movies": [
-      {
-        "title": "Betrayal",
-        "tmdb_id": 139383,
-        "imdb_id": "tt0085234"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1983",
-    "nominees": [
-      "Ronald Harwood"
-    ],
-    "movies": [
-      {
-        "title": "The Dresser",
-        "tmdb_id": 42122,
-        "imdb_id": "tt0085461"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1983",
-    "nominees": [
-      "Willy Russell"
-    ],
-    "movies": [
-      {
-        "title": "Educating Rita",
-        "tmdb_id": 38291,
-        "imdb_id": "tt0085478"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1983",
-    "nominees": [
-      "Julius J. Epstein"
-    ],
-    "movies": [
-      {
-        "title": "Reuben, Reuben",
-        "tmdb_id": 31944,
-        "imdb_id": "tt0084591"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1983",
-    "nominees": [
-      "Horton Foote"
-    ],
-    "movies": [
-      {
-        "title": "Tender Mercies",
-        "tmdb_id": 42121,
-        "imdb_id": "tt0086423"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1983",
-    "nominees": [
-      "Lawrence Kasdan",
-      "Barbara Benedek"
-    ],
-    "movies": [
-      {
-        "title": "The Big Chill",
-        "tmdb_id": 12560,
-        "imdb_id": "tt0085244"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1983",
-    "nominees": [
-      "Ingmar Bergman"
-    ],
-    "movies": [
-      {
-        "title": "Fanny and Alexander",
-        "tmdb_id": 5961,
-        "imdb_id": "tt0083922"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1983",
-    "nominees": [
-      "Nora Ephron",
-      "Alice Arlen"
-    ],
-    "movies": [
-      {
-        "title": "Silkwood",
-        "tmdb_id": 12502,
-        "imdb_id": "tt0086312"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1983",
-    "nominees": [
-      "Lawrence Lasker",
-      "Walter F. Parkes"
-    ],
-    "movies": [
-      {
-        "title": "WarGames",
-        "tmdb_id": 860,
-        "imdb_id": "tt0086567"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1983",
-    "nominees": [
-      "Bill Conti"
-    ],
-    "movies": [
-      {
-        "title": "The Right Stuff",
-        "tmdb_id": 9549,
-        "imdb_id": "tt0086197"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1983",
-    "nominees": [
-      "Leonard Rosenman"
-    ],
-    "movies": [
-      {
-        "title": "Cross Creek",
-        "tmdb_id": 115332,
-        "imdb_id": "tt0085380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1983",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Return of the Jedi",
-        "tmdb_id": 1892,
-        "imdb_id": "tt0086190"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1983",
-    "nominees": [
-      "Michael Gore"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1983",
-    "nominees": [
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "Under Fire",
-        "tmdb_id": 12503,
-        "imdb_id": "tt0086510"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1983",
-    "nominees": [
-      "Michel Legrand",
-      "Alan Bergman",
-      "Marilyn Bergman"
-    ],
-    "movies": [
-      {
-        "title": "Yentl",
-        "tmdb_id": 10269,
-        "imdb_id": "tt0086619"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1983",
-    "nominees": [
-      "Lalo Schifrin"
-    ],
-    "movies": [
-      {
-        "title": "The Sting II",
-        "tmdb_id": 36912,
-        "imdb_id": "tt0086370"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1983",
-    "nominees": [
-      "Elmer Bernstein"
-    ],
-    "movies": [
-      {
-        "title": "Trading Places",
-        "tmdb_id": 1621,
-        "imdb_id": "tt0086465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1983",
-    "nominees": [
-      "Flashdance... What a Feeling"
-    ],
-    "movies": [
-      {
-        "title": "Flashdance",
-        "tmdb_id": 535,
-        "imdb_id": "tt0085549"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1983",
-    "nominees": [
-      "Maniac"
-    ],
-    "movies": [
-      {
-        "title": "Flashdance",
-        "tmdb_id": 535,
-        "imdb_id": "tt0085549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1983",
-    "nominees": [
-      "Over You"
-    ],
-    "movies": [
-      {
-        "title": "Tender Mercies",
-        "tmdb_id": 42121,
-        "imdb_id": "tt0086423"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1983",
-    "nominees": [
-      "Papa",
-      "Can You Hear Me?"
-    ],
-    "movies": [
-      {
-        "title": "Yentl",
-        "tmdb_id": 10269,
-        "imdb_id": "tt0086619"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1983",
-    "nominees": [
-      "The Way He Makes Me Feel"
-    ],
-    "movies": [
-      {
-        "title": "Yentl",
-        "tmdb_id": 10269,
-        "imdb_id": "tt0086619"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1983",
-    "nominees": [
-      "Fanny and Alexander"
-    ],
-    "movies": [
-      {
-        "title": "Fanny and Alexander",
-        "tmdb_id": 5961,
-        "imdb_id": "tt0083922"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1983",
-    "nominees": [
-      "Carmen"
-    ],
-    "movies": [
-      {
-        "title": "Carmen",
-        "tmdb_id": 42106,
-        "imdb_id": "tt0085297"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1983",
-    "nominees": [
-      "Entre Nous"
-    ],
-    "movies": [
-      {
-        "title": "Entre Nous",
-        "tmdb_id": 42108,
-        "imdb_id": "tt0085370"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1983",
-    "nominees": [
-      "The Revolt of Job"
-    ],
-    "movies": [
-      {
-        "title": "The Revolt of Job",
-        "tmdb_id": 42111,
-        "imdb_id": "tt0085767"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1983",
-    "nominees": [
-      "Le Bal"
-    ],
-    "movies": [
-      {
-        "title": "Le Bal",
-        "tmdb_id": 60612,
-        "imdb_id": "tt0085213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1983",
-    "nominees": [
-      "He Makes Me Feel Like Dancin'"
-    ],
-    "movies": [
-      {
-        "title": "He Makes Me Feel Like Dancin'",
-        "tmdb_id": 114520,
-        "imdb_id": "tt0085655"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1983",
-    "nominees": [
-      "Children of Darkness"
-    ],
-    "movies": [
-      {
-        "title": "Children of Darkness",
-        "tmdb_id": 149374,
-        "imdb_id": "tt0085329"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1983",
-    "nominees": [
-      "First Contact"
-    ],
-    "movies": [
-      {
-        "title": "First Contact",
-        "tmdb_id": 136671,
-        "imdb_id": "tt0085544"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1983",
-    "nominees": [
-      "The Profession of Arms"
-    ],
-    "movies": [
-      {
-        "title": "The Profession of Arms",
-        "tmdb_id": 136673,
-        "imdb_id": "tt0086147"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1983",
-    "nominees": [
-      "Seeing Red: Stories of American Communists"
-    ],
-    "movies": [
-      {
-        "title": "Seeing Red: Stories of American Communists",
-        "tmdb_id": 136058,
-        "imdb_id": "tt0086273"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1983",
-    "nominees": [
-      "Flamenco at 5:15"
-    ],
-    "movies": [
-      {
-        "title": "Flamenco at 5:15",
-        "tmdb_id": 244449,
-        "imdb_id": "tt0085548"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1983",
-    "nominees": [
-      "In the Nuclear Shadow: What Can the Children Tell Us?"
-    ],
-    "movies": [
-      {
-        "title": "In the Nuclear Shadow: What Can the Children Tell Us?",
-        "tmdb_id": 244450,
-        "imdb_id": "tt0085722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1983",
-    "nominees": [
-      "Sewing Woman"
-    ],
-    "movies": [
-      {
-        "title": "Sewing Woman",
-        "tmdb_id": 244451,
-        "imdb_id": "tt0086291"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1983",
-    "nominees": [
-      "Spaces: The Architecture of Paul Rudolph"
-    ],
-    "movies": [
-      {
-        "title": "Spaces: The Architecture of Paul Rudolph",
-        "tmdb_id": 244452,
-        "imdb_id": "tt0086347"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1983",
-    "nominees": [
-      "You Are Free"
-    ],
-    "movies": [
-      {
-        "title": "You Are Free",
-        "tmdb_id": 244454,
-        "imdb_id": "tt0085714"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1983",
-    "nominees": [
-      "Sundae in New York"
-    ],
-    "movies": [
-      {
-        "title": "Sundae in New York",
-        "tmdb_id": 210972,
-        "imdb_id": "tt0086388"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1983",
-    "nominees": [
-      "Mickey's Christmas Carol"
-    ],
-    "movies": [
-      {
-        "title": "Mickey's Christmas Carol",
-        "tmdb_id": 14813,
-        "imdb_id": "tt0085936"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1983",
-    "nominees": [
-      "Sound of Sunshine - Sound of Rain"
-    ],
-    "movies": [
-      {
-        "title": "Sound of Sunshine - Sound of Rain",
-        "tmdb_id": 244438,
-        "imdb_id": "tt0086344"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1983",
-    "nominees": [
-      "Boys and Girls"
-    ],
-    "movies": [
-      {
-        "title": "Boys and Girls",
-        "tmdb_id": 244440,
-        "imdb_id": "tt0083688"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1983",
-    "nominees": [
-      "Goodie-Two-Shoes"
-    ],
-    "movies": [
-      {
-        "title": "Goodie-Two-Shoes",
-        "tmdb_id": 244443,
-        "imdb_id": "tt0085613"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1983",
-    "nominees": [
-      "Overnight Sensation"
-    ],
-    "movies": [
-      {
-        "title": "Overnight Sensation",
-        "tmdb_id": 244448,
-        "imdb_id": "tt0086067"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "Anna Asp",
-      "Susanne Lingheim"
-    ],
-    "movies": [
-      {
-        "title": "Fanny and Alexander",
-        "tmdb_id": 5961,
-        "imdb_id": "tt0083922"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "Norman Reynolds",
-      "Fred Hole",
-      "James L. Schoppe",
-      "Michael D. Ford"
-    ],
-    "movies": [
-      {
-        "title": "Return of the Jedi",
-        "tmdb_id": 1892,
-        "imdb_id": "tt0086190"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "Geoffrey Kirkland",
-      "Richard Lawrence",
-      "W. Stewart Campbell",
-      "Jim Poynter",
-      "George R. Nelson",
-      "Peter R. Romero"
-    ],
-    "movies": [
-      {
-        "title": "The Right Stuff",
-        "tmdb_id": 9549,
-        "imdb_id": "tt0086197"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "Polly Platt",
-      "Harold Michelson",
-      "Tom Pedigo",
-      "Anthony Mondell"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "Roy Walker",
-      "Leslie Tomkins",
-      "Tessa Davies"
-    ],
-    "movies": [
-      {
-        "title": "Yentl",
-        "tmdb_id": 10269,
-        "imdb_id": "tt0086619"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1983",
-    "nominees": [
-      "Sven Nykvist"
-    ],
-    "movies": [
-      {
-        "title": "Fanny and Alexander",
-        "tmdb_id": 5961,
-        "imdb_id": "tt0083922"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1983",
-    "nominees": [
-      "Don Peterman"
-    ],
-    "movies": [
-      {
-        "title": "Flashdance",
-        "tmdb_id": 535,
-        "imdb_id": "tt0085549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1983",
-    "nominees": [
-      "Caleb Deschanel"
-    ],
-    "movies": [
-      {
-        "title": "The Right Stuff",
-        "tmdb_id": 9549,
-        "imdb_id": "tt0086197"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1983",
-    "nominees": [
-      "William A. Fraker"
-    ],
-    "movies": [
-      {
-        "title": "WarGames",
-        "tmdb_id": 860,
-        "imdb_id": "tt0086567"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1983",
-    "nominees": [
-      "Gordon Willis"
-    ],
-    "movies": [
-      {
-        "title": "Zelig",
-        "tmdb_id": 11030,
-        "imdb_id": "tt0086637"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1983",
-    "nominees": [
-      "Glenn Farr",
-      "Lisa Fruchtman",
-      "Stephen A. Rotter",
-      "Douglas Stewart",
-      "Tom Rolf"
-    ],
-    "movies": [
-      {
-        "title": "The Right Stuff",
-        "tmdb_id": 9549,
-        "imdb_id": "tt0086197"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1983",
-    "nominees": [
-      "Frank Morris",
-      "Edward Abroms"
-    ],
-    "movies": [
-      {
-        "title": "Blue Thunder",
-        "tmdb_id": 6341,
-        "imdb_id": "tt0085255"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1983",
-    "nominees": [
-      "Bud S. Smith",
-      "Walt Mulconery"
-    ],
-    "movies": [
-      {
-        "title": "Flashdance",
-        "tmdb_id": 535,
-        "imdb_id": "tt0085549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1983",
-    "nominees": [
-      "Sam O'Steen"
-    ],
-    "movies": [
-      {
-        "title": "Silkwood",
-        "tmdb_id": 12502,
-        "imdb_id": "tt0086312"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1983",
-    "nominees": [
-      "Richard Marks"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1983",
-    "nominees": [
-      "Richard Edlund",
-      "Dennis Muren",
-      "Ken Ralston",
-      "Phil Tippett"
-    ],
-    "movies": [
-      {
-        "title": "Return of the Jedi",
-        "tmdb_id": 1892,
-        "imdb_id": "tt0086190"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1983",
-    "nominees": [
-      "Mark Berger",
-      "Tom Scott",
-      "Randy Thom",
-      "David MacMillan"
-    ],
-    "movies": [
-      {
-        "title": "The Right Stuff",
-        "tmdb_id": 9549,
-        "imdb_id": "tt0086197"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1983",
-    "nominees": [
-      "Alan Splet",
-      "Todd Boekelheide",
-      "Randy Thom",
-      "David Parker"
-    ],
-    "movies": [
-      {
-        "title": "Never Cry Wolf",
-        "tmdb_id": 14280,
-        "imdb_id": "tt0086005"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1983",
-    "nominees": [
-      "Ben Burtt",
-      "Gary Summers",
-      "Randy Thom",
-      "Tony Dawe"
-    ],
-    "movies": [
-      {
-        "title": "Return of the Jedi",
-        "tmdb_id": 1892,
-        "imdb_id": "tt0086190"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1983",
-    "nominees": [
-      "Donald O. Mitchell",
-      "Rick Kline",
-      "Kevin O'Connell",
-      "James R. Alexander"
-    ],
-    "movies": [
-      {
-        "title": "Terms of Endearment",
-        "tmdb_id": 11050,
-        "imdb_id": "tt0086425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1983",
-    "nominees": [
-      "Michael J. Kohut",
-      "Carlos Delarios",
-      "Aaron Rochin",
-      "Willie D. Burton"
-    ],
-    "movies": [
-      {
-        "title": "WarGames",
-        "tmdb_id": 860,
-        "imdb_id": "tt0086567"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1983",
-    "nominees": [
-      "Jay Boekelheide"
-    ],
-    "movies": [
-      {
-        "title": "The Right Stuff",
-        "tmdb_id": 9549,
-        "imdb_id": "tt0086197"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1983",
-    "nominees": [
-      "Ben Burtt"
-    ],
-    "movies": [
-      {
-        "title": "Return of the Jedi",
-        "tmdb_id": 1892,
-        "imdb_id": "tt0086190"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "Marik Vos-Lundh"
-    ],
-    "movies": [
-      {
-        "title": "Fanny and Alexander",
-        "tmdb_id": 5961,
-        "imdb_id": "tt0083922"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "Joe I. Tompkins"
-    ],
-    "movies": [
-      {
-        "title": "Cross Creek",
-        "tmdb_id": 115332,
-        "imdb_id": "tt0085380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "William Ware Theiss"
-    ],
-    "movies": [
-      {
-        "title": "Heart Like a Wheel",
-        "tmdb_id": 34599,
-        "imdb_id": "tt0085656"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "Anne-Marie Marchand"
-    ],
-    "movies": [
-      {
-        "title": "The Return of Martin Guerre",
-        "tmdb_id": 4483,
-        "imdb_id": "tt0084589"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1983",
-    "nominees": [
-      "Santo Loquasto"
-    ],
-    "movies": [
-      {
-        "title": "Zelig",
-        "tmdb_id": 11030,
-        "imdb_id": "tt0086637"
-      }
-    ],
-    "won": false
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Educating Rita",
+    "FilmId": "tt0085478",
+    "Name": "Michael Caine",
+    "Nominees": "Michael Caine",
+    "NomineeIds": "nm0000323",
+    "Winner": "",
+    "Detail": "Dr. Frank Bryant",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Reuben, Reuben",
+    "FilmId": "tt0084591",
+    "Name": "Tom Conti",
+    "Nominees": "Tom Conti",
+    "NomineeIds": "nm0002018",
+    "Winner": "",
+    "Detail": "Gowan McGland",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Dresser",
+    "FilmId": "tt0085461",
+    "Name": "Tom Courtenay",
+    "Nominees": "Tom Courtenay",
+    "NomineeIds": "nm0183822",
+    "Winner": "",
+    "Detail": "Norman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Tender Mercies",
+    "FilmId": "tt0086423",
+    "Name": "Robert Duvall",
+    "Nominees": "Robert Duvall",
+    "NomineeIds": "nm0000380",
+    "Winner": "True",
+    "Detail": "Mac Sledge",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Dresser",
+    "FilmId": "tt0085461",
+    "Name": "Albert Finney",
+    "Nominees": "Albert Finney",
+    "NomineeIds": "nm0001215",
+    "Winner": "",
+    "Detail": "Sir",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "To Be or Not to Be",
+    "FilmId": "tt0086450",
+    "Name": "Charles Durning",
+    "Nominees": "Charles Durning",
+    "NomineeIds": "nm0001164",
+    "Winner": "",
+    "Detail": "Col. Erhardt",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "John Lithgow",
+    "Nominees": "John Lithgow",
+    "NomineeIds": "nm0001475",
+    "Winner": "",
+    "Detail": "Sam Burns",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "Jack Nicholson",
+    "Nominees": "Jack Nicholson",
+    "NomineeIds": "nm0000197",
+    "Winner": "True",
+    "Detail": "Garrett Breedlove",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Right Stuff",
+    "FilmId": "tt0086197",
+    "Name": "Sam Shepard",
+    "Nominees": "Sam Shepard",
+    "NomineeIds": "nm0001731",
+    "Winner": "",
+    "Detail": "Chuck Yeager",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Cross Creek",
+    "FilmId": "tt0085380",
+    "Name": "Rip Torn",
+    "Nominees": "Rip Torn",
+    "NomineeIds": "nm0001800",
+    "Winner": "",
+    "Detail": "Marsh Turner",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Testament",
+    "FilmId": "tt0086429",
+    "Name": "Jane Alexander",
+    "Nominees": "Jane Alexander",
+    "NomineeIds": "nm0000737",
+    "Winner": "",
+    "Detail": "Carol Wetherly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "Shirley MacLaine",
+    "Nominees": "Shirley MacLaine",
+    "NomineeIds": "nm0000511",
+    "Winner": "True",
+    "Detail": "Aurora Greenway",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Silkwood",
+    "FilmId": "tt0086312",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Karen Silkwood",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Educating Rita",
+    "FilmId": "tt0085478",
+    "Name": "Julie Walters",
+    "Nominees": "Julie Walters",
+    "NomineeIds": "nm0910278",
+    "Winner": "",
+    "Detail": "Rita",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "Debra Winger",
+    "Nominees": "Debra Winger",
+    "NomineeIds": "nm0000700",
+    "Winner": "",
+    "Detail": "Emma Horton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Silkwood",
+    "FilmId": "tt0086312",
+    "Name": "Cher",
+    "Nominees": "Cher",
+    "NomineeIds": "nm0000333",
+    "Winner": "",
+    "Detail": "Dolly Pelliker",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Big Chill",
+    "FilmId": "tt0085244",
+    "Name": "Glenn Close",
+    "Nominees": "Glenn Close",
+    "NomineeIds": "nm0000335",
+    "Winner": "",
+    "Detail": "Sarah",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Year of Living Dangerously",
+    "FilmId": "tt0086617",
+    "Name": "Linda Hunt",
+    "Nominees": "Linda Hunt",
+    "NomineeIds": "nm0001373",
+    "Winner": "True",
+    "Detail": "Billy Kwan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Yentl",
+    "FilmId": "tt0086619",
+    "Name": "Amy Irving",
+    "Nominees": "Amy Irving",
+    "NomineeIds": "nm0001388",
+    "Winner": "",
+    "Detail": "Hadaas",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Cross Creek",
+    "FilmId": "tt0085380",
+    "Name": "Alfre Woodard",
+    "Nominees": "Alfre Woodard",
+    "NomineeIds": "nm0005569",
+    "Winner": "",
+    "Detail": "Geechee",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Fanny & Alexander",
+    "FilmId": "tt0083922",
+    "Name": "Anna Asp",
+    "Nominees": "Anna Asp",
+    "NomineeIds": "nm0039607",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Return of the Jedi",
+    "FilmId": "tt0086190",
+    "Name": "Art Direction: Norman Reynolds, Fred Hole, James Schoppe; Set Decoration: Michael Ford",
+    "Nominees": "Norman Reynolds|Fred Hole|James Schoppe|Michael Ford",
+    "NomineeIds": "nm0721888|nm0390407|nm0774847|nm0285785",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Right Stuff",
+    "FilmId": "tt0086197",
+    "Name": "Art Direction: Geoffrey Kirkland, Richard J. Lawrence, W. Stewart Campbell, Peter Romero; Set Decoration: Pat Pending, George R. Nelson",
+    "Nominees": "Geoffrey Kirkland|Richard J. Lawrence|W. Stewart Campbell|Peter Romero|Pat Pending|George R. Nelson",
+    "NomineeIds": "nm0456644|nm0492985|nm0132922|nm0739554|nm0694723|nm0625388",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "Art Direction: Polly Platt, Harold Michelson; Set Decoration: Tom Pedigo, Anthony Mondello",
+    "Nominees": "Polly Platt|Harold Michelson|Tom Pedigo|Anthony Mondello",
+    "NomineeIds": "nm0686895|nm0585118|nm0670026|nm0597722",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Yentl",
+    "FilmId": "tt0086619",
+    "Name": "Art Direction: Roy Walker, Leslie Tomkins; Set Decoration: Tessa Davies",
+    "Nominees": "Roy Walker|Leslie Tomkins|Tessa Davies",
+    "NomineeIds": "nm0908178|nm0866777|nm0203995",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Fanny & Alexander",
+    "FilmId": "tt0083922",
+    "Name": "Sven Nykvist",
+    "Nominees": "Sven Nykvist",
+    "NomineeIds": "nm0005815",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Flashdance",
+    "FilmId": "tt0085549",
+    "Name": "Don Peterman",
+    "Nominees": "Don Peterman",
+    "NomineeIds": "nm0676286",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Right Stuff",
+    "FilmId": "tt0086197",
+    "Name": "Caleb Deschanel",
+    "Nominees": "Caleb Deschanel",
+    "NomineeIds": "nm0221042",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "WarGames",
+    "FilmId": "tt0086567",
+    "Name": "William A. Fraker",
+    "Nominees": "William A. Fraker",
+    "NomineeIds": "nm0005710",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Zelig",
+    "FilmId": "tt0086637",
+    "Name": "Gordon Willis",
+    "Nominees": "Gordon Willis",
+    "NomineeIds": "nm0932336",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Cross Creek",
+    "FilmId": "tt0085380",
+    "Name": "Joe I. Tompkins",
+    "Nominees": "Joe I. Tompkins",
+    "NomineeIds": "nm0867001",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Fanny & Alexander",
+    "FilmId": "tt0083922",
+    "Name": "Marik Vos",
+    "Nominees": "Marik Vos",
+    "NomineeIds": "nm0903623",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Heart Like a Wheel",
+    "FilmId": "tt0085656",
+    "Name": "William Ware Theiss",
+    "Nominees": "William Ware Theiss",
+    "NomineeIds": "nm0857377",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Return of Martin Guerre",
+    "FilmId": "tt0084589",
+    "Name": "Anne-Marie Marchand",
+    "Nominees": "Anne-Marie Marchand",
+    "NomineeIds": "nm0545365",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Zelig",
+    "FilmId": "tt0086637",
+    "Name": "Santo Loquasto",
+    "Nominees": "Santo Loquasto",
+    "NomineeIds": "nm0520288",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Dresser",
+    "FilmId": "tt0085461",
+    "Name": "Peter Yates",
+    "Nominees": "Peter Yates",
+    "NomineeIds": "nm0946811",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Fanny & Alexander",
+    "FilmId": "tt0083922",
+    "Name": "Ingmar Bergman",
+    "Nominees": "Ingmar Bergman",
+    "NomineeIds": "nm0000005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Silkwood",
+    "FilmId": "tt0086312",
+    "Name": "Mike Nichols",
+    "Nominees": "Mike Nichols",
+    "NomineeIds": "nm0001566",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Tender Mercies",
+    "FilmId": "tt0086423",
+    "Name": "Bruce Beresford",
+    "Nominees": "Bruce Beresford",
+    "NomineeIds": "nm0000915",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "James L. Brooks",
+    "Nominees": "James L. Brooks",
+    "NomineeIds": "nm0000985",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Children of Darkness",
+    "FilmId": "tt0085329",
+    "Name": "Richard Kotuk and Ara Chekmayan, Producers",
+    "Nominees": "Richard Kotuk|Ara Chekmayan",
+    "NomineeIds": "nm0467855|nm0155020",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "First Contact",
+    "FilmId": "tt0085544",
+    "Name": "Bob Connolly and Robin Anderson, Producers",
+    "Nominees": "Bob Connolly|Robin Anderson",
+    "NomineeIds": "nm0175264|nm0027370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "He Makes Me Feel Like Dancin'",
+    "FilmId": "tt0085655",
+    "Name": "Emile Ardolino, Producer",
+    "Nominees": "Emile Ardolino",
+    "NomineeIds": "nm0001915",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Profession of Arms",
+    "FilmId": "tt0086147",
+    "Name": "Michael Bryans and Tina Viljoen, Producers",
+    "Nominees": "Michael Bryans|Tina Viljoen",
+    "NomineeIds": "nm0117031|nm0897548",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Seeing Red",
+    "FilmId": "tt0086273",
+    "Name": "James Klein and Julia Reichert, Producers",
+    "Nominees": "James Klein|Julia Reichert",
+    "NomineeIds": "nm0458822|nm0717064",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Flamenco at 5:15",
+    "FilmId": "tt0085548",
+    "Name": "Cynthia Scott and Adam Symansky, Producers",
+    "Nominees": "Cynthia Scott|Adam Symansky",
+    "NomineeIds": "nm0778993|nm0843316",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "In the Nuclear Shadow: What Can the Children Tell Us?",
+    "FilmId": "tt0085722",
+    "Name": "Vivienne Verdon-Roe and Eric Thiermann, Producers",
+    "Nominees": "Vivienne Verdon-Roe|Eric Thiermann",
+    "NomineeIds": "nm0893868|nm0858017",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Sewing Woman",
+    "FilmId": "tt0086291",
+    "Name": "Arthur Dong, Producer",
+    "Nominees": "Arthur Dong",
+    "NomineeIds": "nm0232472",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Spaces: The Architecture of Paul Rudolph",
+    "FilmId": "tt0086347",
+    "Name": "Robert Eisenhardt, Producer",
+    "Nominees": "Robert Eisenhardt",
+    "NomineeIds": "nm0252021",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "You Are Free (Ihr Zent Frei)",
+    "FilmId": "tt0085714",
+    "Name": "Dea Brokman and Ilene Landis, Producers",
+    "Nominees": "Dea Brokman|Ilene Landis",
+    "NomineeIds": "nm0111247|nm0484823",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Blue Thunder",
+    "FilmId": "tt0085255",
+    "Name": "Frank Morriss, Edward Abroms",
+    "Nominees": "Frank Morriss|Edward Abroms",
+    "NomineeIds": "nm0607359|nm0002155",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Flashdance",
+    "FilmId": "tt0085549",
+    "Name": "Bud Smith, Walt Mulconery",
+    "Nominees": "Bud Smith|Walt Mulconery",
+    "NomineeIds": "nm0807573|nm0611705",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Right Stuff",
+    "FilmId": "tt0086197",
+    "Name": "Glenn Farr, Lisa Fruchtman, Stephen A. Rotter, Douglas Stewart, Tom Rolf",
+    "Nominees": "Glenn Farr|Lisa Fruchtman|Stephen A. Rotter|Douglas Stewart|Tom Rolf",
+    "NomineeIds": "nm0268021|nm0296636|nm0745450|nm0829339|nm0738196",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Silkwood",
+    "FilmId": "tt0086312",
+    "Name": "Sam O'Steen",
+    "Nominees": "Sam O'Steen",
+    "NomineeIds": "nm0642714",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "Richard Marks",
+    "Nominees": "Richard Marks",
+    "NomineeIds": "nm0548943",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Carmen",
+    "FilmId": "tt0085297",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Entre Nous",
+    "FilmId": "tt0085370",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Fanny & Alexander",
+    "FilmId": "tt0083922",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Job's Revolt",
+    "FilmId": "tt0085767",
+    "Name": "Hungary",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Le Bal",
+    "FilmId": "tt0085213",
+    "Name": "Algeria",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Cross Creek",
+    "FilmId": "tt0085380",
+    "Name": "Leonard Rosenman",
+    "Nominees": "Leonard Rosenman",
+    "NomineeIds": "nm0006260",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Return of the Jedi",
+    "FilmId": "tt0086190",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Right Stuff",
+    "FilmId": "tt0086197",
+    "Name": "Bill Conti",
+    "Nominees": "Bill Conti",
+    "NomineeIds": "nm0006015",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "Michael Gore",
+    "Nominees": "Michael Gore",
+    "NomineeIds": "nm0330759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Under Fire",
+    "FilmId": "tt0086510",
+    "Name": "Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score or Adaptation Score)",
+    "Film": "The Sting II",
+    "FilmId": "tt0086370",
+    "Name": "Adaptation Score by Lalo Schifrin",
+    "Nominees": "Lalo Schifrin",
+    "NomineeIds": "nm0006277",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score or Adaptation Score)",
+    "Film": "Trading Places",
+    "FilmId": "tt0086465",
+    "Name": "Adaptation Score by Elmer Bernstein",
+    "Nominees": "Elmer Bernstein",
+    "NomineeIds": "nm0000930",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score or Adaptation Score)",
+    "Film": "Yentl",
+    "FilmId": "tt0086619",
+    "Name": "Song Score by Michel Legrand, Alan Bergman and Marilyn Bergman",
+    "Nominees": "Michel Legrand|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0006166|nm0074732|nm0004750",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Flashdance",
+    "FilmId": "tt0085549",
+    "Name": "Music by Giorgio Moroder; Lyric by Keith Forsey and Irene Cara",
+    "Nominees": "Giorgio Moroder|Keith Forsey|Irene Cara",
+    "NomineeIds": "nm0002380|nm0286850|nm0001011",
+    "Winner": "True",
+    "Detail": "Flashdance...What A Feeling",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Flashdance",
+    "FilmId": "tt0085549",
+    "Name": "Music and Lyric by Michael Sembello and Dennis Matkosky",
+    "Nominees": "Michael Sembello|Dennis Matkosky",
+    "NomineeIds": "nm0783732|nm0559125",
+    "Winner": "",
+    "Detail": "Maniac",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Tender Mercies",
+    "FilmId": "tt0086423",
+    "Name": "Music and Lyric by Austin Roberts and Bobby Hart",
+    "Nominees": "Austin Roberts|Bobby Hart",
+    "NomineeIds": "nm0731848|nm0366168",
+    "Winner": "",
+    "Detail": "Over You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Yentl",
+    "FilmId": "tt0086619",
+    "Name": "Music by Michel Legrand; Lyric by Alan Bergman and Marilyn Bergman",
+    "Nominees": "Michel Legrand|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0006166|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "Papa, Can You Hear Me?",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Yentl",
+    "FilmId": "tt0086619",
+    "Name": "Music by Michel Legrand; Lyric by Alan Bergman and Marilyn Bergman",
+    "Nominees": "Michel Legrand|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0006166|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "The Way He Makes Me Feel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Big Chill",
+    "FilmId": "tt0085244",
+    "Name": "Michael Shamberg, Producer",
+    "Nominees": "Michael Shamberg",
+    "NomineeIds": "nm0787834",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Dresser",
+    "FilmId": "tt0085461",
+    "Name": "Peter Yates, Producer",
+    "Nominees": "Peter Yates",
+    "NomineeIds": "nm0946811",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Right Stuff",
+    "FilmId": "tt0086197",
+    "Name": "Irwin Winkler and Robert Chartoff, Producers",
+    "Nominees": "Irwin Winkler|Robert Chartoff",
+    "NomineeIds": "nm0005563|nm0153590",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Tender Mercies",
+    "FilmId": "tt0086423",
+    "Name": "Philip S. Hobel, Producer",
+    "Nominees": "Philip S. Hobel",
+    "NomineeIds": "nm0387666",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "James L. Brooks, Producer",
+    "Nominees": "James L. Brooks",
+    "NomineeIds": "nm0000985",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Mickey's Christmas Carol",
+    "FilmId": "tt0085936",
+    "Name": "Burny Mattinson, Producer",
+    "Nominees": "Burny Mattinson",
+    "NomineeIds": "nm0560329",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Sound of Sunshine - Sound of Rain",
+    "FilmId": "tt0086344",
+    "Name": "Eda Godel Hallinan, Producer",
+    "Nominees": "Eda Godel Hallinan",
+    "NomineeIds": "nm0356638",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Sundae in New York",
+    "FilmId": "tt0086388",
+    "Name": "Jimmy Picker, Producer",
+    "Nominees": "Jimmy Picker",
+    "NomineeIds": "nm0681804",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Boys and Girls",
+    "FilmId": "tt0083688",
+    "Name": "Janice L. Platt, Producer",
+    "Nominees": "Janice L. Platt",
+    "NomineeIds": "nm0686864",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Goodie-Two-Shoes",
+    "FilmId": "tt0085613",
+    "Name": "Ian Emes, Producer",
+    "Nominees": "Ian Emes",
+    "NomineeIds": "nm0256357",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Overnight Sensation",
+    "FilmId": "tt0086067",
+    "Name": "Jon N. Bloom, Producer",
+    "Nominees": "Jon N. Bloom",
+    "NomineeIds": "nm0089186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Never Cry Wolf",
+    "FilmId": "tt0086005",
+    "Name": "Alan R. Splet, Todd Boekelheide, Randy Thom, David Parker",
+    "Nominees": "Alan R. Splet|Todd Boekelheide|Randy Thom|David Parker",
+    "NomineeIds": "nm0819263|nm0091250|nm0858378|nm0662188",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Return of the Jedi",
+    "FilmId": "tt0086190",
+    "Name": "Ben Burtt, Gary Summers, Randy Thom, Tony Dawe",
+    "Nominees": "Ben Burtt|Gary Summers|Randy Thom|Tony Dawe",
+    "NomineeIds": "nm0123785|nm0838707|nm0858378|nm0003360",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Right Stuff",
+    "FilmId": "tt0086197",
+    "Name": "Mark Berger, Tom Scott, Randy Thom, David MacMillan",
+    "Nominees": "Mark Berger|Tom Scott|Randy Thom|David MacMillan",
+    "NomineeIds": "nm0074281|nm0779845|nm0858378|nm0533997",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "Donald O. Mitchell, Rick Kline, Kevin O'Connell, Jim Alexander",
+    "Nominees": "Donald O. Mitchell|Rick Kline|Kevin O'Connell|Jim Alexander",
+    "NomineeIds": "nm0593290|nm0459662|nm0640114|nm0018482",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "WarGames",
+    "FilmId": "tt0086567",
+    "Name": "Michael J. Kohut, Carlos de Larios, Aaron Rochin, Willie D. Burton",
+    "Nominees": "Michael J. Kohut|Carlos de Larios|Aaron Rochin|Willie D. Burton",
+    "NomineeIds": "nm0463489|nm0216467|nm0734099|nm0123770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Return of the Jedi",
+    "FilmId": "tt0086190",
+    "Name": "Ben Burtt",
+    "Nominees": "Ben Burtt",
+    "NomineeIds": "nm0123785",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "The Right Stuff",
+    "FilmId": "tt0086197",
+    "Name": "Jay Boekelheide",
+    "Nominees": "Jay Boekelheide",
+    "NomineeIds": "nm0091249",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Betrayal",
+    "FilmId": "tt0085234",
+    "Name": "Harold Pinter",
+    "Nominees": "Harold Pinter",
+    "NomineeIds": "nm0056217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "The Dresser",
+    "FilmId": "tt0085461",
+    "Name": "Ronald Harwood",
+    "Nominees": "Ronald Harwood",
+    "NomineeIds": "nm0367838",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Educating Rita",
+    "FilmId": "tt0085478",
+    "Name": "Willy Russell",
+    "Nominees": "Willy Russell",
+    "NomineeIds": "nm0751516",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Reuben, Reuben",
+    "FilmId": "tt0084591",
+    "Name": "Julius J. Epstein",
+    "Nominees": "Julius J. Epstein",
+    "NomineeIds": "nm0258493",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Terms of Endearment",
+    "FilmId": "tt0086425",
+    "Name": "James L. Brooks",
+    "Nominees": "James L. Brooks",
+    "NomineeIds": "nm0000985",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "The Big Chill",
+    "FilmId": "tt0085244",
+    "Name": "Lawrence Kasdan, Barbara Benedek",
+    "Nominees": "Lawrence Kasdan|Barbara Benedek",
+    "NomineeIds": "nm0001410|nm0070660",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Fanny & Alexander",
+    "FilmId": "tt0083922",
+    "Name": "Ingmar Bergman",
+    "Nominees": "Ingmar Bergman",
+    "NomineeIds": "nm0000005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Silkwood",
+    "FilmId": "tt0086312",
+    "Name": "Nora Ephron, Alice Arlen",
+    "Nominees": "Nora Ephron|Alice Arlen",
+    "NomineeIds": "nm0001188|nm0035146",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Tender Mercies",
+    "FilmId": "tt0086423",
+    "Name": "Horton Foote",
+    "Nominees": "Horton Foote",
+    "NomineeIds": "nm0285210",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "WarGames",
+    "FilmId": "tt0086567",
+    "Name": "Lawrence Lasker, Walter F. Parkes",
+    "Nominees": "Lawrence Lasker|Walter F. Parkes",
+    "NomineeIds": "nm0489623|nm0662748",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Film": "Return of the Jedi",
+    "FilmId": "tt0086190",
+    "Name": "Richard Edlund, Dennis Muren, Ken Ralston, Phil Tippett",
+    "Nominees": "Richard Edlund|Dennis Muren|Ken Ralston|Phil Tippett",
+    "NomineeIds": "nm0249430|nm0613830|nm0707822|nm0864138",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "M. J. Frankovich",
+    "Nominees": "M. J. Frankovich",
+    "NomineeIds": "nm0291622",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hal Roach",
+    "NomineeIds": "nm0730018",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Hal Roach, in recognition of his unparalleled record of distinguished contributions to the motion picture art form."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. John G. Frayne",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Dr. John G. Frayne"
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DR. KURT LARCHE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To DR. KURT LARCHE of OSRAM GmbH for the research and development of xenon short-arc discharge lamps for motion picture projection."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JONATHAN ERLAND|ROGER DORNEY",
+    "NomineeIds": "nm0259510|nm0233913",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JONATHAN ERLAND and ROGER DORNEY of Apogee, Incorporated, for the engineering and development of a reverse bluescreen traveling matte process for special effects photography."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "GERALD L. TURPIN",
+    "NomineeIds": "nm0878045",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To GERALD L. TURPIN of Lightflex International Limited for the design, engineering and development of an on-camera device providing contrast control, sourceless fill light and special effects for motion picture photography."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gunnar P. Michelson",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To GUNNAR P. MICHELSON for the engineering and development of an improved, electronic, high-speed, precision light valve for use in motion picture printing machines."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "WILLIAM G. KROKAUGGER",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To WILLIAM G. KROKAUGGER of Mole-Richardson Company for the design and engineering of a portable, 12,000 watt, lighting-control dimmer for use in motion picture production."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles J. Watson|Larry L. Langrehr|John H. Steiner",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To CHARLES J. WATSON, LARRY L. LANGREHR and JOHN H. STEINER for the development of the BHP (electro-mechanical) fader for use on continuous motion picture contact printers."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ELIZABETH D. DE LA MARE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To ELIZABETH D. DE LA MARE of De La Mare Engineering, Incorporated, for the progressive development and continuous research of special effects pyrotechnics originally designed by Glenn W. De La Mare for motion picture production."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Douglas Fries|John Lacey|Michael Sigrist",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To DOUGLAS FRIES, JOHN LACEY and MICHAEL SIGRIST for the design and engineering of a 35mm reflex conversion camera system for special effects photography."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JACK CASHIN",
+    "NomineeIds": "nm3009827",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JACK CASHIN of Ultra-Stereo Labs, Incorporated, for the engineering and development of a 4-channel, stereophonic, decoding system for optical motion picture sound track reproduction."
+  },
+  {
+    "Ceremony": 56,
+    "Year": 1983,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David J. Degenkolb",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To DAVID J. DEGENKOLB for the design and development of an automated device used in the silver recovery process in motion picture laboratories."
   }
 ]

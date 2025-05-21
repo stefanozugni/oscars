@@ -1,1835 +1,1922 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2020",
-        "nominees": [
-            "Nomadland"
-        ],
-        "movies": [
-            {
-                "title": "Nomadland",
-                "tmdb_id": 581734,
-                "imdb_id": "tt9770150"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2020",
-        "nominees": [
-            "The Father"
-        ],
-        "movies": [
-            {
-                "title": "The Father",
-                "tmdb_id": 600354,
-                "imdb_id": "tt10272386"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2020",
-        "nominees": [
-            "Judas and the Black Messiah"
-        ],
-        "movies": [
-            {
-                "title": "Judas and the Black Messiah",
-                "tmdb_id": 583406,
-                "imdb_id": "tt9784798"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2020",
-        "nominees": [
-            "Mank"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2020",
-        "nominees": [
-            "Minari"
-        ],
-        "movies": [
-            {
-                "title": "Minari",
-                "tmdb_id": 615643,
-                "imdb_id": "tt10633456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2020",
-        "nominees": [
-            "Promising Young Woman"
-        ],
-        "movies": [
-            {
-                "title": "Promising Young Woman",
-                "tmdb_id": 582014,
-                "imdb_id": "tt9620292"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2020",
-        "nominees": [
-            "Sound of Metal"
-        ],
-        "movies": [
-            {
-                "title": "Sound of Metal",
-                "tmdb_id": 502033,
-                "imdb_id": "tt5363618"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2020",
-        "nominees": [
-            "The Trial of the Chicago 7"
-        ],
-        "movies": [
-            {
-                "title": "The Trial of the Chicago 7",
-                "tmdb_id": 556984,
-                "imdb_id": "tt1070874"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2020",
-        "nominees": [
-            "Anthony Hopkins"
-        ],
-        "movies": [
-            {
-                "title": "The Father",
-                "tmdb_id": 600354,
-                "imdb_id": "tt10272386"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2020",
-        "nominees": [
-            "Riz Ahmed"
-        ],
-        "movies": [
-            {
-                "title": "Sound of Metal",
-                "tmdb_id": 502033,
-                "imdb_id": "tt5363618"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2020",
-        "nominees": [
-            "Chadwick Boseman"
-        ],
-        "movies": [
-            {
-                "title": "Ma Rainey's Black Bottom",
-                "tmdb_id": 615667,
-                "imdb_id": "tt10514222"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2020",
-        "nominees": [
-            "Gary Oldman"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2020",
-        "nominees": [
-            "Steven Yeun"
-        ],
-        "movies": [
-            {
-                "title": "Minari",
-                "tmdb_id": 615643,
-                "imdb_id": "tt10633456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2020",
-        "nominees": [
-            "Frances McDormand"
-        ],
-        "movies": [
-            {
-                "title": "Nomadland",
-                "tmdb_id": 581734,
-                "imdb_id": "tt9770150"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2020",
-        "nominees": [
-            "Viola Davis"
-        ],
-        "movies": [
-            {
-                "title": "Ma Rainey's Black Bottom",
-                "tmdb_id": 615667,
-                "imdb_id": "tt10514222"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2020",
-        "nominees": [
-            "Andra Day"
-        ],
-        "movies": [
-            {
-                "title": "The United States vs. Billie Holiday",
-                "tmdb_id": 566076,
-                "imdb_id": "tt8521718"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2020",
-        "nominees": [
-            "Vanessa Kirby"
-        ],
-        "movies": [
-            {
-                "title": "Pieces of a Woman",
-                "tmdb_id": 641662,
-                "imdb_id": "tt11161474"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2020",
-        "nominees": [
-            "Carey Mulligan"
-        ],
-        "movies": [
-            {
-                "title": "Promising Young Woman",
-                "tmdb_id": 582014,
-                "imdb_id": "tt9620292"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2020",
-        "nominees": [
-            "Daniel Kaluuya"
-        ],
-        "movies": [
-            {
-                "title": "Judas and the Black Messiah",
-                "tmdb_id": 583406,
-                "imdb_id": "tt9784798"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2020",
-        "nominees": [
-            "Sacha Baron Cohen"
-        ],
-        "movies": [
-            {
-                "title": "The Trial of the Chicago 7",
-                "tmdb_id": 556984,
-                "imdb_id": "tt1070874"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2020",
-        "nominees": [
-            "Leslie Odom Jr."
-        ],
-        "movies": [
-            {
-                "title": "One Night in Miami...",
-                "tmdb_id": 661914,
-                "imdb_id": "tt10612922"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2020",
-        "nominees": [
-            "Paul Raci"
-        ],
-        "movies": [
-            {
-                "title": "Sound of Metal",
-                "tmdb_id": 502033,
-                "imdb_id": "tt5363618"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2020",
-        "nominees": [
-            "LaKeith Stanfield"
-        ],
-        "movies": [
-            {
-                "title": "Judas and the Black Messiah",
-                "tmdb_id": 583406,
-                "imdb_id": "tt9784798"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2020",
-        "nominees": [
-            "Youn Yuh-jung"
-        ],
-        "movies": [
-            {
-                "title": "Minari",
-                "tmdb_id": 615643,
-                "imdb_id": "tt10633456"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2020",
-        "nominees": [
-            "Maria Bakalova"
-        ],
-        "movies": [
-            {
-                "title": "Borat Subsequent Moviefilm",
-                "tmdb_id": 740985,
-                "imdb_id": "tt13143964"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2020",
-        "nominees": [
-            "Glenn Close"
-        ],
-        "movies": [
-            {
-                "title": "Hillbilly Elegy",
-                "tmdb_id": 592984,
-                "imdb_id": "tt6772802"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2020",
-        "nominees": [
-            "Olivia Colman"
-        ],
-        "movies": [
-            {
-                "title": "The Father",
-                "tmdb_id": 600354,
-                "imdb_id": "tt10272386"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2020",
-        "nominees": [
-            "Amanda Seyfried"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2020",
-        "nominees": [
-            "Chloe Zhao"
-        ],
-        "movies": [
-            {
-                "title": "Nomadland",
-                "tmdb_id": 581734,
-                "imdb_id": "tt9770150"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2020",
-        "nominees": [
-            "Lee Isaac Chung"
-        ],
-        "movies": [
-            {
-                "title": "Minari",
-                "tmdb_id": 615643,
-                "imdb_id": "tt10633456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2020",
-        "nominees": [
-            "Emerald Fennell"
-        ],
-        "movies": [
-            {
-                "title": "Promising Young Woman",
-                "tmdb_id": 582014,
-                "imdb_id": "tt9620292"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2020",
-        "nominees": [
-            "David Fincher"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2020",
-        "nominees": [
-            "Thomas Vinterberg"
-        ],
-        "movies": [
-            {
-                "title": "Another Round",
-                "tmdb_id": 580175,
-                "imdb_id": "tt10288566"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Christopher Hampton",
-            "Florian Zeller"
-        ],
-        "movies": [
-            {
-                "title": "The Father",
-                "tmdb_id": 600354,
-                "imdb_id": "tt10272386"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Sacha Baron Cohen",
-            "Anthony Hines",
-            "Dan Swimer",
-            "Peter Baynham",
-            "Erica Rivinoja",
-            "Dan Mazer",
-            "Jena Friedman",
-            "Lee Kern",
-            "Nina Pedrad"
-        ],
-        "movies": [
-            {
-                "title": "Borat Subsequent Moviefilm",
-                "tmdb_id": 740985,
-                "imdb_id": "tt13143964"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Chloe Zhao"
-        ],
-        "movies": [
-            {
-                "title": "Nomadland",
-                "tmdb_id": 581734,
-                "imdb_id": "tt9770150"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Kemp Powers"
-        ],
-        "movies": [
-            {
-                "title": "One Night in Miami...",
-                "tmdb_id": 661914,
-                "imdb_id": "tt10612922"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Ramin Bahrani"
-        ],
-        "movies": [
-            {
-                "title": "The White Tiger",
-                "tmdb_id": 628534,
-                "imdb_id": "tt6571548"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Emerald Fennell"
-        ],
-        "movies": [
-            {
-                "title": "Promising Young Woman",
-                "tmdb_id": 582014,
-                "imdb_id": "tt9620292"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Will Berson",
-            "Shaka King",
-            "Keith Lucas",
-            "Kenny Lucas"
-        ],
-        "movies": [
-            {
-                "title": "Judas and the Black Messiah",
-                "tmdb_id": 583406,
-                "imdb_id": "tt9784798"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Lee Isaac Chung"
-        ],
-        "movies": [
-            {
-                "title": "Minari",
-                "tmdb_id": 615643,
-                "imdb_id": "tt10633456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Darius Marder",
-            "Abraham Marder",
-            "Derek Cianfrance"
-        ],
-        "movies": [
-            {
-                "title": "Sound of Metal",
-                "tmdb_id": 502033,
-                "imdb_id": "tt5363618"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2020",
-        "nominees": [
-            "Aaron Sorkin"
-        ],
-        "movies": [
-            {
-                "title": "The Trial of the Chicago 7",
-                "tmdb_id": 556984,
-                "imdb_id": "tt1070874"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2020",
-        "nominees": [
-            "Trent Reznor",
-            "Atticus Ross",
-            "Jon Batiste"
-        ],
-        "movies": [
-            {
-                "title": "Soul",
-                "tmdb_id": 508442,
-                "imdb_id": "tt2948372"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2020",
-        "nominees": [
-            "Terence Blanchard"
-        ],
-        "movies": [
-            {
-                "title": "Da 5 Bloods",
-                "tmdb_id": 581859,
-                "imdb_id": "tt9777644"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2020",
-        "nominees": [
-            "Trent Reznor",
-            "Atticus Ross"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2020",
-        "nominees": [
-            "Emile Mosseri"
-        ],
-        "movies": [
-            {
-                "title": "Minari",
-                "tmdb_id": 615643,
-                "imdb_id": "tt10633456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2020",
-        "nominees": [
-            "James Newton Howard"
-        ],
-        "movies": [
-            {
-                "title": "News of the World",
-                "tmdb_id": 581032,
-                "imdb_id": "tt6878306"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2020",
-        "nominees": [
-            "Fight for You"
-        ],
-        "movies": [
-            {
-                "title": "Judas and the Black Messiah",
-                "tmdb_id": 583406,
-                "imdb_id": "tt9784798"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2020",
-        "nominees": [
-            "Hear My Voice"
-        ],
-        "movies": [
-            {
-                "title": "The Trial of the Chicago 7",
-                "tmdb_id": 556984,
-                "imdb_id": "tt1070874"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2020",
-        "nominees": [
-            "Husavik"
-        ],
-        "movies": [
-            {
-                "title": "Eurovision Song Contest: The Story of Fire Saga",
-                "tmdb_id": 531454,
-                "imdb_id": "tt8580274"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2020",
-        "nominees": [
-            "Io Si (Seen)"
-        ],
-        "movies": [
-            {
-                "title": "The Life Ahead",
-                "tmdb_id": 667869,
-                "imdb_id": "tt10627584"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2020",
-        "nominees": [
-            "Speak Now"
-        ],
-        "movies": [
-            {
-                "title": "One Night in Miami...",
-                "tmdb_id": 661914,
-                "imdb_id": "tt10612922"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2020",
-        "nominees": [
-            "Another Round"
-        ],
-        "movies": [
-            {
-                "title": "Another Round",
-                "tmdb_id": 580175,
-                "imdb_id": "tt10288566"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2020",
-        "nominees": [
-            "Better Days"
-        ],
-        "movies": [
-            {
-                "title": "Better Days",
-                "tmdb_id": 575813,
-                "imdb_id": "tt9586294"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2020",
-        "nominees": [
-            "Collective"
-        ],
-        "movies": [
-            {
-                "title": "Collective",
-                "tmdb_id": 618363,
-                "imdb_id": "tt10706602"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2020",
-        "nominees": [
-            "The Man Who Sold His Skin"
-        ],
-        "movies": [
-            {
-                "title": "The Man Who Sold His Skin",
-                "tmdb_id": 669363,
-                "imdb_id": "tt10360862"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2020",
-        "nominees": [
-            "Quo Vadis, Aida?"
-        ],
-        "movies": [
-            {
-                "title": "Quo Vadis, Aida?",
-                "tmdb_id": 728118,
-                "imdb_id": "tt8633462"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2020",
-        "nominees": [
-            "My Octopus Teacher"
-        ],
-        "movies": [
-            {
-                "title": "My Octopus Teacher",
-                "tmdb_id": 682110,
-                "imdb_id": "tt12888462"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2020",
-        "nominees": [
-            "Collective"
-        ],
-        "movies": [
-            {
-                "title": "Collective",
-                "tmdb_id": 618363,
-                "imdb_id": "tt10706602"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2020",
-        "nominees": [
-            "Crip Camp: A Disability Revolution"
-        ],
-        "movies": [
-            {
-                "title": "Crip Camp: A Disability Revolution",
-                "tmdb_id": 653725,
-                "imdb_id": "tt8923484"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2020",
-        "nominees": [
-            "The Mole Agent"
-        ],
-        "movies": [
-            {
-                "title": "The Mole Agent",
-                "tmdb_id": 653756,
-                "imdb_id": "tt11394298"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2020",
-        "nominees": [
-            "Time"
-        ],
-        "movies": [
-            {
-                "title": "Time",
-                "tmdb_id": 653729,
-                "imdb_id": "tt11416746"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2020",
-        "nominees": [
-            "Colette"
-        ],
-        "movies": [
-            {
-                "title": "Colette",
-                "tmdb_id": 741845,
-                "imdb_id": "tt11643154"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2020",
-        "nominees": [
-            "A Concerto Is a Conversation"
-        ],
-        "movies": [
-            {
-                "title": "A Concerto Is a Conversation",
-                "tmdb_id": 776751,
-                "imdb_id": "tt13793326"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2020",
-        "nominees": [
-            "Do Not Split"
-        ],
-        "movies": [
-            {
-                "title": "Do Not Split",
-                "tmdb_id": 655154,
-                "imdb_id": "tt11512676"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2020",
-        "nominees": [
-            "Hunger Ward"
-        ],
-        "movies": [
-            {
-                "title": "Hunger Ward",
-                "tmdb_id": 757697,
-                "imdb_id": "tt12979636"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2020",
-        "nominees": [
-            "A Love Song for Latasha"
-        ],
-        "movies": [
-            {
-                "title": "A Love Song for Latasha",
-                "tmdb_id": 631344,
-                "imdb_id": "tt8993180"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2020",
-        "nominees": [
-            "Soul"
-        ],
-        "movies": [
-            {
-                "title": "Soul",
-                "tmdb_id": 508442,
-                "imdb_id": "tt2948372"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2020",
-        "nominees": [
-            "Onward"
-        ],
-        "movies": [
-            {
-                "title": "Onward",
-                "tmdb_id": 508439,
-                "imdb_id": "tt7146812"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2020",
-        "nominees": [
-            "Over the Moon"
-        ],
-        "movies": [
-            {
-                "title": "Over the Moon",
-                "tmdb_id": 560050,
-                "imdb_id": "tt7488208"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2020",
-        "nominees": [
-            "A Shaun the Sheep Movie: Farmageddon"
-        ],
-        "movies": [
-            {
-                "title": "A Shaun the Sheep Movie: Farmageddon",
-                "tmdb_id": 422803,
-                "imdb_id": "tt6193408"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2020",
-        "nominees": [
-            "Wolfwalkers"
-        ],
-        "movies": [
-            {
-                "title": "Wolfwalkers",
-                "tmdb_id": 441130,
-                "imdb_id": "tt5198068"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2020",
-        "nominees": [
-            "If Anything Happens I Love You"
-        ],
-        "movies": [
-            {
-                "title": "If Anything Happens I Love You",
-                "tmdb_id": 713776,
-                "imdb_id": "tt11768948"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2020",
-        "nominees": [
-            "Burrow"
-        ],
-        "movies": [
-            {
-                "title": "Burrow",
-                "tmdb_id": 747059,
-                "imdb_id": "tt13167288"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2020",
-        "nominees": [
-            "Genius Loci"
-        ],
-        "movies": [
-            {
-                "title": "Genius Loci",
-                "tmdb_id": 663881,
-                "imdb_id": "tt11884670"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2020",
-        "nominees": [
-            "Opera"
-        ],
-        "movies": [
-            {
-                "title": "Opera",
-                "tmdb_id": 750249,
-                "imdb_id": "tt14039636"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2020",
-        "nominees": [
-            "Yes-People"
-        ],
-        "movies": [
-            {
-                "title": "Yes-People",
-                "tmdb_id": 663343,
-                "imdb_id": "tt12706728"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2020",
-        "nominees": [
-            "Two Distant Strangers"
-        ],
-        "movies": [
-            {
-                "title": "Two Distant Strangers",
-                "tmdb_id": 787428,
-                "imdb_id": "tt13472984"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2020",
-        "nominees": [
-            "Feeling Through"
-        ],
-        "movies": [
-            {
-                "title": "Feeling Through",
-                "tmdb_id": 689676,
-                "imdb_id": "tt9280166"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2020",
-        "nominees": [
-            "The Letter Room"
-        ],
-        "movies": [
-            {
-                "title": "The Letter Room",
-                "tmdb_id": 762632,
-                "imdb_id": "tt11962160"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2020",
-        "nominees": [
-            "The Present"
-        ],
-        "movies": [
-            {
-                "title": "The Present",
-                "tmdb_id": 708049,
-                "imdb_id": null
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2020",
-        "nominees": [
-            "White Eye"
-        ],
-        "movies": [
-            {
-                "title": "White Eye",
-                "tmdb_id": 675235,
-                "imdb_id": "tt10538710"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "Donald Graham Burt",
-            "Jan Pascale"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "Peter Feancis",
-            "Cathy Featherstone"
-        ],
-        "movies": [
-            {
-                "title": "The Father",
-                "tmdb_id": 600354,
-                "imdb_id": "tt10272386"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "Mark Ricker",
-            "Karen O'Hara",
-            "Diana Sroughton"
-        ],
-        "movies": [
-            {
-                "title": "Ma Rainey's Black Bottom",
-                "tmdb_id": 615667,
-                "imdb_id": "tt10514222"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "David Crank",
-            "Elizabeth Keenan"
-        ],
-        "movies": [
-            {
-                "title": "News of the World",
-                "tmdb_id": 581032,
-                "imdb_id": "tt6878306"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "Nathan Crowley",
-            "Kathy Lucas"
-        ],
-        "movies": [
-            {
-                "title": "Tenet",
-                "tmdb_id": 577922,
-                "imdb_id": "tt6723592"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2020",
-        "nominees": [
-            "Erik Messerschmidt"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2020",
-        "nominees": [
-            "Sean Bobbitt"
-        ],
-        "movies": [
-            {
-                "title": "Judas and the Black Messiah",
-                "tmdb_id": 583406,
-                "imdb_id": "tt9784798"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2020",
-        "nominees": [
-            "Dariusz Wolski"
-        ],
-        "movies": [
-            {
-                "title": "News of the World",
-                "tmdb_id": 581032,
-                "imdb_id": "tt6878306"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2020",
-        "nominees": [
-            "Joshua James Richards"
-        ],
-        "movies": [
-            {
-                "title": "Nomadland",
-                "tmdb_id": 581734,
-                "imdb_id": "tt9770150"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2020",
-        "nominees": [
-            "Phedon Papamichael"
-        ],
-        "movies": [
-            {
-                "title": "The Trial of the Chicago 7",
-                "tmdb_id": 556984,
-                "imdb_id": "tt1070874"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2020",
-        "nominees": [
-            "Mikkel E. G. Nielsen"
-        ],
-        "movies": [
-            {
-                "title": "Sound of Metal",
-                "tmdb_id": 502033,
-                "imdb_id": "tt5363618"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2020",
-        "nominees": [
-            "Yorgos Lamprinos"
-        ],
-        "movies": [
-            {
-                "title": "The Father",
-                "tmdb_id": 600354,
-                "imdb_id": "tt10272386"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2020",
-        "nominees": [
-            "Chloe Zhao"
-        ],
-        "movies": [
-            {
-                "title": "Nomadland",
-                "tmdb_id": 581734,
-                "imdb_id": "tt9770150"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2020",
-        "nominees": [
-            "Frederic Thorval"
-        ],
-        "movies": [
-            {
-                "title": "Promising Young Woman",
-                "tmdb_id": 582014,
-                "imdb_id": "tt9620292"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2020",
-        "nominees": [
-            "Alan Baumgarten"
-        ],
-        "movies": [
-            {
-                "title": "The Trial of the Chicago 7",
-                "tmdb_id": 556984,
-                "imdb_id": "tt1070874"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2020",
-        "nominees": [
-            "Andrew Jackson",
-            "David Lee",
-            "Andrew Lockley",
-            "Scott Fisher"
-        ],
-        "movies": [
-            {
-                "title": "Tenet",
-                "tmdb_id": 577922,
-                "imdb_id": "tt6723592"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2020",
-        "nominees": [
-            "Matt Sloan",
-            "Genevieve Camailleri",
-            "Matt Everitt",
-            "Brian Cox"
-        ],
-        "movies": [
-            {
-                "title": "Love and Monsters",
-                "tmdb_id": 590223,
-                "imdb_id": "tt2222042"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2020",
-        "nominees": [
-            "Matthew Kasmir",
-            "Christopher Lawren",
-            "Max Solomon",
-            "David Watkins"
-        ],
-        "movies": [
-            {
-                "title": "The Midnight Sky",
-                "tmdb_id": 614911,
-                "imdb_id": "tt10539608"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2020",
-        "nominees": [
-            "Sean Faden",
-            "Anders Langlands",
-            "Seth Maury",
-            "Steven Ingram"
-        ],
-        "movies": [
-            {
-                "title": "Mulan",
-                "tmdb_id": 337401,
-                "imdb_id": "tt4566758"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2020",
-        "nominees": [
-            "Nick Davis",
-            "Greg Fiher",
-            "Ben Jones",
-            "Santiago Colomo Martinez"
-        ],
-        "movies": [
-            {
-                "title": "The One and Only Ivan",
-                "tmdb_id": 508570,
-                "imdb_id": "tt3661394"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2020",
-        "nominees": [
-            "Nicolas Becker",
-            "Jaime Baksht",
-            "Michelle Couttolenc",
-            "Carlos Cortes",
-            "Philip Bladh"
-        ],
-        "movies": [
-            {
-                "title": "Sound of Metal",
-                "tmdb_id": 502033,
-                "imdb_id": "tt5363618"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2020",
-        "nominees": [
-            "Warren Shaw",
-            "Michael Minkler",
-            "Beau Borders",
-            "David Wyman"
-        ],
-        "movies": [
-            {
-                "title": "Greyhound",
-                "tmdb_id": 516486,
-                "imdb_id": "tt6048922"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2020",
-        "nominees": [
-            "Ren Klyce",
-            "Jeremy Molod",
-            "David Parker",
-            "Nathan Nance",
-            "Drew Kunin"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2020",
-        "nominees": [
-            "Oliver Tarney",
-            "MIke Prestwood Smith",
-            "William Miller",
-            "John Pritchett"
-        ],
-        "movies": [
-            {
-                "title": "News of the World",
-                "tmdb_id": 581032,
-                "imdb_id": "tt6878306"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2020",
-        "nominees": [
-            "Ren Klyce",
-            "Coya Elliot",
-            "David Parker"
-        ],
-        "movies": [
-            {
-                "title": "Soul",
-                "tmdb_id": 508442,
-                "imdb_id": "tt2948372"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2020",
-        "nominees": [
-            "Matiki Anoff",
-            "Mia Neal",
-            "Larry M. Cherry"
-        ],
-        "movies": [
-            {
-                "title": "Ma Rainey's Black Bottom",
-                "tmdb_id": 615667,
-                "imdb_id": "tt10514222"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2020",
-        "nominees": [
-            "Marese Langan",
-            "Laura Allen",
-            "Claudia Stolze"
-        ],
-        "movies": [
-            {
-                "title": "Emma.",
-                "tmdb_id": 556678,
-                "imdb_id": "tt9214832"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2020",
-        "nominees": [
-            "Eryn Krueger Mekash",
-            "Patricia Dehaney",
-            "Matthew Mungle"
-        ],
-        "movies": [
-            {
-                "title": "Hillbilly Elegy",
-                "tmdb_id": 592984,
-                "imdb_id": "tt6772802"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2020",
-        "nominees": [
-            "Kimberly Piteri",
-            "Gigi Williams"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2020",
-        "nominees": [
-            "Dalia Colli",
-            "Mark Coulier",
-            "Francesco Pegoretti"
-        ],
-        "movies": [
-            {
-                "title": "Pinocchio",
-                "tmdb_id": 413518,
-                "imdb_id": "tt8333746"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "Ann Roth"
-        ],
-        "movies": [
-            {
-                "title": "Ma Rainey's Black Bottom",
-                "tmdb_id": 615667,
-                "imdb_id": "tt10514222"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "Alexandra Byrne"
-        ],
-        "movies": [
-            {
-                "title": "Emma.",
-                "tmdb_id": 556678,
-                "imdb_id": "tt9214832"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "Trish Summerville"
-        ],
-        "movies": [
-            {
-                "title": "Mank",
-                "tmdb_id": 614560,
-                "imdb_id": "tt10618286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "Bina Daigeler"
-        ],
-        "movies": [
-            {
-                "title": "Mulan",
-                "tmdb_id": 337401,
-                "imdb_id": "tt4566758"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2020",
-        "nominees": [
-            "Massimo Cantini Parrini"
-        ],
-        "movies": [
-            {
-                "title": "Pinocchio",
-                "tmdb_id": 413518,
-                "imdb_id": "tt8333746"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Sound of Metal",
+    "FilmId": "tt5363618",
+    "Name": "Riz Ahmed",
+    "Nominees": "Riz Ahmed",
+    "NomineeIds": "nm1981893",
+    "Winner": "",
+    "Detail": "Ruben",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Ma Rainey's Black Bottom",
+    "FilmId": "tt10514222",
+    "Name": "Chadwick Boseman",
+    "Nominees": "Chadwick Boseman",
+    "NomineeIds": "nm1569276",
+    "Winner": "",
+    "Detail": "Levee",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Father",
+    "FilmId": "tt10272386",
+    "Name": "Anthony Hopkins",
+    "Nominees": "Anthony Hopkins",
+    "NomineeIds": "nm0000164",
+    "Winner": "True",
+    "Detail": "Anthony",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "Gary Oldman",
+    "Nominees": "Gary Oldman",
+    "NomineeIds": "nm0000198",
+    "Winner": "",
+    "Detail": "Herman Mankiewicz",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Minari",
+    "FilmId": "tt10633456",
+    "Name": "Steven Yeun",
+    "Nominees": "Steven Yeun",
+    "NomineeIds": "nm3081796",
+    "Winner": "",
+    "Detail": "Jacob",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Trial of the Chicago 7",
+    "FilmId": "tt1070874",
+    "Name": "Sacha Baron Cohen",
+    "Nominees": "Sacha Baron Cohen",
+    "NomineeIds": "nm0056187",
+    "Winner": "",
+    "Detail": "Abbie Hoffman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Judas and the Black Messiah",
+    "FilmId": "tt9784798",
+    "Name": "Daniel Kaluuya",
+    "Nominees": "Daniel Kaluuya",
+    "NomineeIds": "nm2257207",
+    "Winner": "True",
+    "Detail": "Fred Hampton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "One Night in Miami...",
+    "FilmId": "tt10612922",
+    "Name": "Leslie Odom, Jr.",
+    "Nominees": "Leslie Odom Jr.",
+    "NomineeIds": "nm1502434",
+    "Winner": "",
+    "Detail": "Sam Cooke",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Sound of Metal",
+    "FilmId": "tt5363618",
+    "Name": "Paul Raci",
+    "Nominees": "Paul Raci",
+    "NomineeIds": "nm0705152",
+    "Winner": "",
+    "Detail": "Joe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Judas and the Black Messiah",
+    "FilmId": "tt9784798",
+    "Name": "Lakeith Stanfield",
+    "Nominees": "Lakeith Stanfield",
+    "NomineeIds": "nm3147751",
+    "Winner": "",
+    "Detail": "Bill O’Neal",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Ma Rainey's Black Bottom",
+    "FilmId": "tt10514222",
+    "Name": "Viola Davis",
+    "Nominees": "Viola Davis",
+    "NomineeIds": "nm0205626",
+    "Winner": "",
+    "Detail": "Ma Rainey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The United States vs. Billie Holiday",
+    "FilmId": "tt8521718",
+    "Name": "Andra Day",
+    "Nominees": "Andra Day",
+    "NomineeIds": "nm7363531",
+    "Winner": "",
+    "Detail": "Billie Holiday",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Pieces of a Woman",
+    "FilmId": "tt11161474",
+    "Name": "Vanessa Kirby",
+    "Nominees": "Vanessa Kirby",
+    "NomineeIds": "nm3948952",
+    "Winner": "",
+    "Detail": "Martha",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Nomadland",
+    "FilmId": "tt9770150",
+    "Name": "Frances McDormand",
+    "Nominees": "Frances McDormand",
+    "NomineeIds": "nm0000531",
+    "Winner": "True",
+    "Detail": "Fern",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Promising Young Woman",
+    "FilmId": "tt9620292",
+    "Name": "Carey Mulligan",
+    "Nominees": "Carey Mulligan",
+    "NomineeIds": "nm1659547",
+    "Winner": "",
+    "Detail": "Cassandra",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+    "FilmId": "tt13143964",
+    "Name": "Maria Bakalova",
+    "Nominees": "Maria Bakalova",
+    "NomineeIds": "nm7210025",
+    "Winner": "",
+    "Detail": "Tutar Sagdiyev",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Hillbilly Elegy",
+    "FilmId": "tt6772802",
+    "Name": "Glenn Close",
+    "Nominees": "Glenn Close",
+    "NomineeIds": "nm0000335",
+    "Winner": "",
+    "Detail": "Mamaw",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Father",
+    "FilmId": "tt10272386",
+    "Name": "Olivia Colman",
+    "Nominees": "Olivia Colman",
+    "NomineeIds": "nm1469236",
+    "Winner": "",
+    "Detail": "Anne",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "Amanda Seyfried",
+    "Nominees": "Amanda Seyfried",
+    "NomineeIds": "nm1086543",
+    "Winner": "",
+    "Detail": "Marion Davies",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Minari",
+    "FilmId": "tt10633456",
+    "Name": "Yuh-Jung Youn",
+    "Nominees": "Yuh-Jung Youn",
+    "NomineeIds": "nm0950926",
+    "Winner": "True",
+    "Detail": "Soonja",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Onward",
+    "FilmId": "tt7146812",
+    "Name": "Dan Scanlon and Kori Rae",
+    "Nominees": "Dan Scanlon|Kori Rae",
+    "NomineeIds": "nm0768959|nm0706032",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Over the Moon",
+    "FilmId": "tt7488208",
+    "Name": "Glen Keane, Gennie Rim and Peilin Chou",
+    "Nominees": "Glen Keane|Gennie Rim|Peilin Chou",
+    "NomineeIds": "nm0443855|nm2937345|nm1513657",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "A Shaun the Sheep Movie: Farmageddon",
+    "FilmId": "tt6193408",
+    "Name": "Richard Phelan, Will Becher and Paul Kewley",
+    "Nominees": "Richard Phelan|Will Becher|Paul Kewley",
+    "NomineeIds": "nm4503368|nm2192511|nm1385754",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Soul",
+    "FilmId": "tt2948372",
+    "Name": "Pete Docter and Dana Murray",
+    "Nominees": "Pete Docter|Dana Murray",
+    "NomineeIds": "nm0230032|nm1733918",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Wolfwalkers",
+    "FilmId": "tt5198068",
+    "Name": "Tomm Moore, Ross Stewart, Paul Young and Stéphan Roelants",
+    "Nominees": "Tomm Moore|Ross Stewart|Paul Young|Stéphan Roelants",
+    "NomineeIds": "nm1119079|nm2075487|nm2727721|nm1575263",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Judas and the Black Messiah",
+    "FilmId": "tt9784798",
+    "Name": "Sean Bobbitt",
+    "Nominees": "Sean Bobbitt",
+    "NomineeIds": "nm0090312",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "Erik Messerschmidt",
+    "Nominees": "Erik Messerschmidt",
+    "NomineeIds": "nm0582081",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "News of the World",
+    "FilmId": "tt6878306",
+    "Name": "Dariusz Wolski",
+    "Nominees": "Dariusz Wolski",
+    "NomineeIds": "nm0003011",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Nomadland",
+    "FilmId": "tt9770150",
+    "Name": "Joshua James Richards",
+    "Nominees": "Joshua James Richards",
+    "NomineeIds": "nm4452305",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Trial of the Chicago 7",
+    "FilmId": "tt1070874",
+    "Name": "Phedon Papamichael",
+    "Nominees": "Phedon Papamichael",
+    "NomineeIds": "nm0003659",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Emma",
+    "FilmId": "tt9214832",
+    "Name": "Alexandra Byrne",
+    "Nominees": "Alexandra Byrne",
+    "NomineeIds": "nm0126107",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Ma Rainey's Black Bottom",
+    "FilmId": "tt10514222",
+    "Name": "Ann Roth",
+    "Nominees": "Ann Roth",
+    "NomineeIds": "nm0744778",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "Trish Summerville",
+    "Nominees": "Trish Summerville",
+    "NomineeIds": "nm0838844",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Mulan",
+    "FilmId": "tt4566758",
+    "Name": "Bina Daigeler",
+    "Nominees": "Bina Daigeler",
+    "NomineeIds": "nm0197257",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Pinocchio",
+    "FilmId": "tt8333746",
+    "Name": "Massimo Cantini Parrini",
+    "Nominees": "Massimo Cantini Parrini",
+    "NomineeIds": "nm1964768",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Another Round",
+    "FilmId": "tt10288566",
+    "Name": "Thomas Vinterberg",
+    "Nominees": "Thomas Vinterberg",
+    "NomineeIds": "nm0899121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "David Fincher",
+    "Nominees": "David Fincher",
+    "NomineeIds": "nm0000399",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Minari",
+    "FilmId": "tt10633456",
+    "Name": "Lee Isaac Chung",
+    "Nominees": "Lee Isaac Chung",
+    "NomineeIds": "nm1818032",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Nomadland",
+    "FilmId": "tt9770150",
+    "Name": "Chloé Zhao",
+    "Nominees": "Chloé Zhao",
+    "NomineeIds": "nm2125482",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Promising Young Woman",
+    "FilmId": "tt9620292",
+    "Name": "Emerald Fennell",
+    "Nominees": "Emerald Fennell",
+    "NomineeIds": "nm2193504",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Collective",
+    "FilmId": "tt10706602",
+    "Name": "Alexander Nanau and Bianca Oana",
+    "Nominees": "Alexander Nanau|Bianca Oana",
+    "NomineeIds": "nm1681049|nm4290702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Crip Camp",
+    "FilmId": "tt8923484",
+    "Name": "Nicole Newnham, Jim LeBrecht and Sara Bolder",
+    "Nominees": "Nicole Newnham|Jim LeBrecht|Sara Bolder",
+    "NomineeIds": "nm1011820|nm0495898|nm0092781",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Mole Agent",
+    "FilmId": "tt11394298",
+    "Name": "Maite Alberdi and Marcela Santibáñez",
+    "Nominees": "Maite Alberdi|Marcela Santibáñez",
+    "NomineeIds": "nm3073146|nm5337246",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "My Octopus Teacher",
+    "FilmId": "tt12888462",
+    "Name": "Pippa Ehrlich, James Reed and Craig Foster",
+    "Nominees": "Pippa Ehrlich|James Reed|Craig Foster",
+    "NomineeIds": "nm11813828|nm1624755|nm0287741",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Time",
+    "FilmId": "tt11416746",
+    "Name": "Garrett Bradley, Lauren Domino and Kellen Quinn",
+    "Nominees": "Garrett Bradley|Lauren Domino|Kellen Quinn",
+    "NomineeIds": "nm3797834|nm6156086|nm2062930",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Colette",
+    "FilmId": "tt11643154",
+    "Name": "Anthony Giacchino and Alice Doyard",
+    "Nominees": "Anthony Giacchino|Alice Doyard",
+    "NomineeIds": "nm1818348|nm3550163",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Concerto Is a Conversation",
+    "FilmId": "tt13793326",
+    "Name": "Ben Proudfoot and Kris Bowers",
+    "Nominees": "Ben Proudfoot|Kris Bowers",
+    "NomineeIds": "nm3988897|nm3929283",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Do Not Split",
+    "FilmId": "tt11512676",
+    "Name": "Anders Hammer and Charlotte Cook",
+    "Nominees": "Anders Hammer|Charlotte Cook",
+    "NomineeIds": "nm4108371|nm4085451",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Hunger Ward",
+    "FilmId": "tt12979636",
+    "Name": "Skye Fitzgerald and Michael Scheuerman",
+    "Nominees": "Skye Fitzgerald|Michael Scheuerman",
+    "NomineeIds": "nm1148695|nm11492155",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Love Song for Latasha",
+    "FilmId": "tt8993180",
+    "Name": "Sophia Nahli Allison and Janice Duncan",
+    "Nominees": "Sophia Nahli Allison|Janice Duncan",
+    "NomineeIds": "nm7630871|nm5903832",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Father",
+    "FilmId": "tt10272386",
+    "Name": "Yorgos Lamprinos",
+    "Nominees": "Yorgos Lamprinos",
+    "NomineeIds": "nm2498855",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Nomadland",
+    "FilmId": "tt9770150",
+    "Name": "Chloé Zhao",
+    "Nominees": "Chloé Zhao",
+    "NomineeIds": "nm2125482",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Promising Young Woman",
+    "FilmId": "tt9620292",
+    "Name": "Frédéric Thoraval",
+    "Nominees": "Frédéric Thoraval",
+    "NomineeIds": "nm1754850",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Sound of Metal",
+    "FilmId": "tt5363618",
+    "Name": "Mikkel E. G. Nielsen",
+    "Nominees": "Mikkel E. G. Nielsen",
+    "NomineeIds": "nm1182055",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Trial of the Chicago 7",
+    "FilmId": "tt1070874",
+    "Name": "Alan Baumgarten",
+    "Nominees": "Alan Baumgarten",
+    "NomineeIds": "nm0062328",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Another Round",
+    "FilmId": "tt10288566",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Better Days",
+    "FilmId": "tt9586294",
+    "Name": "Hong Kong",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Collective",
+    "FilmId": "tt10706602",
+    "Name": "Romania",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "The Man Who Sold His Skin",
+    "FilmId": "tt10360862",
+    "Name": "Tunisia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Quo Vadis, Aida?",
+    "FilmId": "tt8633462",
+    "Name": "Bosnia and Herzegovina",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Emma",
+    "FilmId": "tt9214832",
+    "Name": "Marese Langan, Laura Allen and Claudia Stolze",
+    "Nominees": "Marese Langan|Laura Allen|Claudia Stolze",
+    "NomineeIds": "nm0485984|nm8526114|nm0831656",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Hillbilly Elegy",
+    "FilmId": "tt6772802",
+    "Name": "Eryn Krueger Mekash, Matthew Mungle and Patricia Dehaney",
+    "Nominees": "Eryn Krueger Mekash|Matthew Mungle|Patricia Dehaney",
+    "NomineeIds": "nm0472477|nm0612817|nm0214912",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Ma Rainey's Black Bottom",
+    "FilmId": "tt10514222",
+    "Name": "Sergio Lopez-Rivera, Mia Neal and Jamika Wilson",
+    "Nominees": "Sergio Lopez-Rivera|Mia Neal|Jamika Wilson",
+    "NomineeIds": "nm0520236|nm4135648|nm5003080",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "Gigi Williams, Kimberley Spiteri and Colleen LaBaff",
+    "Nominees": "Gigi Williams|Kimberley Spiteri|Colleen LaBaff",
+    "NomineeIds": "nm0930666|nm0819129|nm0479295",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Pinocchio",
+    "FilmId": "tt8333746",
+    "Name": "Mark Coulier, Dalia Colli and Francesco Pegoretti",
+    "Nominees": "Mark Coulier|Dalia Colli|Francesco Pegoretti",
+    "NomineeIds": "nm0183418|nm2252273|nm4687885",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Da 5 Bloods",
+    "FilmId": "tt9777644",
+    "Name": "Terence Blanchard",
+    "Nominees": "Terence Blanchard",
+    "NomineeIds": "nm0005966",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "Trent Reznor and Atticus Ross",
+    "Nominees": "Trent Reznor|Atticus Ross",
+    "NomineeIds": "nm0722153|nm1589604",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Minari",
+    "FilmId": "tt10633456",
+    "Name": "Emile Mosseri",
+    "Nominees": "Emile Mosseri",
+    "NomineeIds": "nm7888676",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "News of the World",
+    "FilmId": "tt6878306",
+    "Name": "James Newton Howard",
+    "Nominees": "James Newton Howard",
+    "NomineeIds": "nm0006133",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Soul",
+    "FilmId": "tt2948372",
+    "Name": "Trent Reznor, Atticus Ross and Jon Batiste",
+    "Nominees": "Trent Reznor|Atticus Ross|Jon Batiste",
+    "NomineeIds": "nm0722153|nm1589604|nm4456022",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Judas and the Black Messiah",
+    "FilmId": "tt9784798",
+    "Name": "Music by H.E.R. and Dernst Emile II; Lyric by H.E.R. and Tiara Thomas",
+    "Nominees": "H.E.R.|Dernst Emile II|Tiara Thomas",
+    "NomineeIds": "nm2878358|nm6299956|nm8454691",
+    "Winner": "True",
+    "Detail": "Fight For You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Trial of the Chicago 7",
+    "FilmId": "tt1070874",
+    "Name": "Music by Daniel Pemberton; Lyric by Daniel Pemberton and Celeste Waite",
+    "Nominees": "Daniel Pemberton|Celeste Waite",
+    "NomineeIds": "nm1207404|nm11203881",
+    "Winner": "",
+    "Detail": "Hear My Voice",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Eurovision Song Contest: The Story of Fire Saga",
+    "FilmId": "tt8580274",
+    "Name": "Music and Lyric by Savan Kotecha, Fat Max Gsus and Rickard Göransson",
+    "Nominees": "Savan Kotecha|Fat Max Gsus|Rickard Göransson",
+    "NomineeIds": "nm4153652|nm12200610|nm7646386",
+    "Winner": "",
+    "Detail": "Husavik",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Life Ahead (La Vita Davanti a Se)",
+    "FilmId": "tt10627584",
+    "Name": "Music by Diane Warren; Lyric by Diane Warren and Laura Pausini",
+    "Nominees": "Diane Warren|Laura Pausini",
+    "NomineeIds": "nm0005534|nm1306128",
+    "Winner": "",
+    "Detail": "Io Sì (Seen)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "One Night in Miami...",
+    "FilmId": "tt10612922",
+    "Name": "Music and Lyric by Leslie Odom, Jr. and Sam Ashworth",
+    "Nominees": "Leslie Odom Jr.|Sam Ashworth",
+    "NomineeIds": "nm1502434|nm3841867",
+    "Winner": "",
+    "Detail": "Speak Now",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Father",
+    "FilmId": "tt10272386",
+    "Name": "David Parfitt, Jean-Louis Livi and Philippe Carcassonne, Producers",
+    "Nominees": "David Parfitt|Jean-Louis Livi|Philippe Carcassonne",
+    "NomineeIds": "nm0661406|nm0515201|nm0136260",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Judas and the Black Messiah",
+    "FilmId": "tt9784798",
+    "Name": "Shaka King, Charles D. King and Ryan Coogler, Producers",
+    "Nominees": "Shaka King|Charles D. King|Ryan Coogler",
+    "NomineeIds": "nm3489851|nm2229798|nm3363032",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "Ceán Chaffin, Eric Roth and Douglas Urbanski, Producers",
+    "Nominees": "Ceán Chaffin|Eric Roth|Douglas Urbanski",
+    "NomineeIds": "nm0149556|nm0744839|nm0881703",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Minari",
+    "FilmId": "tt10633456",
+    "Name": "Christina Oh, Producer",
+    "Nominees": "Christina Oh",
+    "NomineeIds": "nm3567152",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Nomadland",
+    "FilmId": "tt9770150",
+    "Name": "Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers",
+    "Nominees": "Frances McDormand|Peter Spears|Mollye Asher|Dan Janvey|Chloé Zhao",
+    "NomineeIds": "nm0000531|nm0817379|nm2571693|nm1885766|nm2125482",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Promising Young Woman",
+    "FilmId": "tt9620292",
+    "Name": "Ben Browning, Ashley Fox, Emerald Fennell and Josey McNamara, Producers",
+    "Nominees": "Ben Browning|Ashley Fox|Emerald Fennell|Josey McNamara",
+    "NomineeIds": "nm1878845|nm4516779|nm2193504|nm3560755",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Sound of Metal",
+    "FilmId": "tt5363618",
+    "Name": "Bert Hamelinck and Sacha Ben Harroche, Producers",
+    "Nominees": "Bert Hamelinck|Sacha Ben Harroche",
+    "NomineeIds": "nm0353012|nm5289961",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Trial of the Chicago 7",
+    "FilmId": "tt1070874",
+    "Name": "Marc Platt and Stuart Besser, Producers",
+    "Nominees": "Marc Platt|Stuart Besser",
+    "NomineeIds": "nm0686887|nm0078804",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Father",
+    "FilmId": "tt10272386",
+    "Name": "Production Design: Peter Francis; Set Decoration: Cathy Featherstone",
+    "Nominees": "Peter Francis|Cathy Featherstone",
+    "NomineeIds": "nm0290286|nm1570850",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Ma Rainey's Black Bottom",
+    "FilmId": "tt10514222",
+    "Name": "Production Design: Mark Ricker; Set Decoration: Karen O'Hara and Diana Stoughton",
+    "Nominees": "Mark Ricker|Karen O'Hara|Diana Stoughton",
+    "NomineeIds": "nm0725475|nm0641286|nm0832839",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "Production Design: Donald Graham Burt; Set Decoration: Jan Pascale",
+    "Nominees": "Donald Graham Burt|Jan Pascale",
+    "NomineeIds": "nm0123426|nm0664308",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "News of the World",
+    "FilmId": "tt6878306",
+    "Name": "Production Design: David Crank; Set Decoration: Elizabeth Keenan",
+    "Nominees": "David Crank|Elizabeth Keenan",
+    "NomineeIds": "nm0186477|nm1404582",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Tenet",
+    "FilmId": "tt6723592",
+    "Name": "Production Design: Nathan Crowley; Set Decoration: Kathy Lucas",
+    "Nominees": "Nathan Crowley|Kathy Lucas",
+    "NomineeIds": "nm0189769|nm0524205",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Burrow",
+    "FilmId": "tt13167288",
+    "Name": "Madeline Sharafian and Michael Capbarat",
+    "Nominees": "Madeline Sharafian|Michael Capbarat",
+    "NomineeIds": "nm6461347|nm6040099",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Genius Loci",
+    "FilmId": "tt11884670",
+    "Name": "Adrien Mérigeau and Amaury Ovise",
+    "Nominees": "Adrien Mérigeau|Amaury Ovise",
+    "NomineeIds": "nm3352576|nm3856500",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "If Anything Happens I Love You",
+    "FilmId": "tt11768948",
+    "Name": "Will McCormack and Michael Govier",
+    "Nominees": "Will McCormack|Michael Govier",
+    "NomineeIds": "nm0566489|nm1854728",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Opera",
+    "FilmId": "tt14039636",
+    "Name": "Erick Oh",
+    "Nominees": "Erick Oh",
+    "NomineeIds": "nm4014909",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Yes-People",
+    "FilmId": "tt12706728",
+    "Name": "Gísli Darri Halldórsson and Arnar Gunnarsson",
+    "Nominees": "Gísli Darri Halldórsson|Arnar Gunnarsson",
+    "NomineeIds": "nm4496900|nm2727616",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Feeling Through",
+    "FilmId": "tt9280166",
+    "Name": "Doug Roland and Susan Ruzenski",
+    "Nominees": "Doug Roland|Susan Ruzenski",
+    "NomineeIds": "nm3194313|nm10801720",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Letter Room",
+    "FilmId": "tt11962160",
+    "Name": "Elvira Lind and Sofia Sondervan",
+    "Nominees": "Elvira Lind|Sofia Sondervan",
+    "NomineeIds": "nm4895825|nm1001945",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Present",
+    "FilmId": "tt11474480",
+    "Name": "Farah Nabulsi and Ossama Bawardi",
+    "Nominees": "Farah Nabulsi|Ossama Bawardi",
+    "NomineeIds": "nm9048529|nm3050599",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Two Distant Strangers",
+    "FilmId": "tt13472984",
+    "Name": "Travon Free and Martin Desmond Roe",
+    "Nominees": "Travon Free|Martin Desmond Roe",
+    "NomineeIds": "nm3579257|nm1804553",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "White Eye",
+    "FilmId": "tt10538710",
+    "Name": "Tomer Shushan and Shira Hochman",
+    "Nominees": "Tomer Shushan|Shira Hochman",
+    "NomineeIds": "nm8781219|nm6735926",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Greyhound",
+    "FilmId": "tt6048922",
+    "Name": "Warren Shaw, Michael Minkler, Beau Borders and David Wyman",
+    "Nominees": "Warren Shaw|Michael Minkler|Beau Borders|David Wyman",
+    "NomineeIds": "nm0790022|nm0591444|nm0003311|nm1049027",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Mank",
+    "FilmId": "tt10618286",
+    "Name": "Ren Klyce, Jeremy Molod, David Parker, Nathan Nance and Drew Kunin",
+    "Nominees": "Ren Klyce|Jeremy Molod|David Parker|Nathan Nance|Drew Kunin",
+    "NomineeIds": "nm0460274|nm0597199|nm0662188|nm2315737|nm0475168",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "News of the World",
+    "FilmId": "tt6878306",
+    "Name": "Oliver Tarney, Mike Prestwood Smith, William Miller and John Pritchett",
+    "Nominees": "Oliver Tarney|Mike Prestwood Smith|William Miller|John Pritchett",
+    "NomineeIds": "nm0850549|nm0696523|nm7017920|nm0698099",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Soul",
+    "FilmId": "tt2948372",
+    "Name": "Ren Klyce, Coya Elliott and David Parker",
+    "Nominees": "Ren Klyce|Coya Elliott|David Parker",
+    "NomineeIds": "nm0460274|nm0254208|nm0662188",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Sound of Metal",
+    "FilmId": "tt5363618",
+    "Name": "Nicolas Becker, Jaime Baksht, Michellee Couttolenc, Carlos Cortés and Phillip Bladh",
+    "Nominees": "Nicolas Becker|Jaime Baksht|Michellee Couttolenc|Carlos Cortés|Phillip Bladh",
+    "NomineeIds": "nm0065545|nm0049254|nm2499159|nm3997636|nm3835694",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Love and Monsters",
+    "FilmId": "tt2222042",
+    "Name": "Matt Sloan, Genevieve Camilleri, Matt Everitt and Brian Cox",
+    "Nominees": "Matt Sloan|Genevieve Camilleri|Matt Everitt|Brian Cox",
+    "NomineeIds": "nm0805992|nm3784934|nm3051832|nm0184939",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Midnight Sky",
+    "FilmId": "tt10539608",
+    "Name": "Matthew Kasmir, Christopher Lawrence, Max Solomon and David Watkins",
+    "Nominees": "Matthew Kasmir|Christopher Lawrence|Max Solomon|David Watkins",
+    "NomineeIds": "nm0440683|nm1165856|nm1281289|nm0914247",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Mulan",
+    "FilmId": "tt4566758",
+    "Name": "Sean Faden, Anders Langlands, Seth Maury and Steve Ingram",
+    "Nominees": "Sean Faden|Anders Langlands|Seth Maury|Steve Ingram",
+    "NomineeIds": "nm0264915|nm1619365|nm0561295|nm0409032",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The One and Only Ivan",
+    "FilmId": "tt3661394",
+    "Name": "Nick Davis, Greg Fisher, Ben Jones and Santiago Colomo Martinez",
+    "Nominees": "Nick Davis|Greg Fisher|Ben Jones|Santiago Colomo Martinez",
+    "NomineeIds": "nm0002428|nm1049807|nm2932799|nm2979916",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Tenet",
+    "FilmId": "tt6723592",
+    "Name": "Andrew Jackson, David Lee, Andrew Lockley and Scott Fisher",
+    "Nominees": "Andrew Jackson|David Lee|Andrew Lockley|Scott Fisher",
+    "NomineeIds": "nm1886497|nm2814296|nm0516916|nm0279782",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+    "FilmId": "tt13143964",
+    "Name": "Screenplay by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Peter Baynham & Erica Rivinoja & Dan Mazer & Jena Friedman & Lee Kern; Story by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Nina Pedrad",
+    "Nominees": "Sacha Baron Cohen|Anthony Hines|Dan Swimer|Peter Baynham|Erica Rivinoja|Dan Mazer|Jena Friedman|Lee Kern|Nina Pedrad",
+    "NomineeIds": "nm0056187|nm0385630|nm2255631|nm0063165|nm1106214|nm0563243|nm2773070|nm1745272|nm4988577",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Father",
+    "FilmId": "tt10272386",
+    "Name": "Screenplay by Christopher Hampton and Florian Zeller",
+    "Nominees": "Christopher Hampton|Florian Zeller",
+    "NomineeIds": "nm0358960|nm1725469",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Nomadland",
+    "FilmId": "tt9770150",
+    "Name": "Written for the screen by Chloé Zhao",
+    "Nominees": "Chloé Zhao",
+    "NomineeIds": "nm2125482",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "One Night in Miami...",
+    "FilmId": "tt10612922",
+    "Name": "Screenplay by Kemp Powers",
+    "Nominees": "Kemp Powers",
+    "NomineeIds": "nm5358492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The White Tiger",
+    "FilmId": "tt6571548",
+    "Name": "Written for the screen by Ramin Bahrani",
+    "Nominees": "Ramin Bahrani",
+    "NomineeIds": "nm1023919",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Judas and the Black Messiah",
+    "FilmId": "tt9784798",
+    "Name": "Screenplay by Will Berson & Shaka King; Story by Will Berson & Shaka King and Kenny Lucas & Keith Lucas",
+    "Nominees": "Will Berson|Shaka King|Kenny Lucas|Keith Lucas",
+    "NomineeIds": "nm0077768|nm3489851|nm3584219|nm5695570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Minari",
+    "FilmId": "tt10633456",
+    "Name": "Written by Lee Isaac Chung",
+    "Nominees": "Lee Isaac Chung",
+    "NomineeIds": "nm1818032",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Promising Young Woman",
+    "FilmId": "tt9620292",
+    "Name": "Written by Emerald Fennell",
+    "Nominees": "Emerald Fennell",
+    "NomineeIds": "nm2193504",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Sound of Metal",
+    "FilmId": "tt5363618",
+    "Name": "Screenplay by Darius Marder & Abraham Marder; Story by Darius Marder & Derek Cianfrance",
+    "Nominees": "Darius Marder|Abraham Marder|Derek Cianfrance",
+    "NomineeIds": "nm2942187|nm3473150|nm0161834",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Trial of the Chicago 7",
+    "FilmId": "tt1070874",
+    "Name": "Written by Aaron Sorkin",
+    "Nominees": "Aaron Sorkin",
+    "NomineeIds": "nm0815070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Motion Picture & Television Fund",
+    "Nominees": "Motion Picture and Television Fund",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 93,
+    "Year": 2020,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Tyler Perry",
+    "Nominees": "Tyler Perry",
+    "NomineeIds": "nm1347153",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  }
 ]

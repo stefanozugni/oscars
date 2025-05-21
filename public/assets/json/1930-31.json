@@ -1,646 +1,802 @@
 [
-  {
-    "category": "Best Picture",
-    "year": "1930/31",
-    "nominees": [
-      "Cimarron"
-    ],
-    "movies": [
-      {
-        "title": "Cimarron",
-        "tmdb_id": 42861,
-        "imdb_id": "tt0021746"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1930/31",
-    "nominees": [
-      "East Lynne"
-    ],
-    "movies": [
-      {
-        "title": "East Lynne",
-        "tmdb_id": 84277,
-        "imdb_id": "tt0021826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1930/31",
-    "nominees": [
-      "The Front Page"
-    ],
-    "movies": [
-      {
-        "title": "The Front Page",
-        "tmdb_id": 42814,
-        "imdb_id": "tt0021890"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1930/31",
-    "nominees": [
-      "Skippy"
-    ],
-    "movies": [
-      {
-        "title": "Skippy",
-        "tmdb_id": 84295,
-        "imdb_id": "tt0022397"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1930/31",
-    "nominees": [
-      "Trader Horn"
-    ],
-    "movies": [
-      {
-        "title": "Trader Horn",
-        "tmdb_id": 84296,
-        "imdb_id": "tt0022495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1930/31",
-    "nominees": [
-      "Lionel Barrymore"
-    ],
-    "movies": [
-      {
-        "title": "A Free Soul",
-        "tmdb_id": 50600,
-        "imdb_id": "tt0021885"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1930/31",
-    "nominees": [
-      "Jackie Cooper"
-    ],
-    "movies": [
-      {
-        "title": "Skippy",
-        "tmdb_id": 84295,
-        "imdb_id": "tt0022397"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1930/31",
-    "nominees": [
-      "Richard Dix"
-    ],
-    "movies": [
-      {
-        "title": "Cimarron",
-        "tmdb_id": 42861,
-        "imdb_id": "tt0021746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1930/31",
-    "nominees": [
-      "Fredric March"
-    ],
-    "movies": [
-      {
-        "title": "The Royal Family of Broadway",
-        "tmdb_id": 104209,
-        "imdb_id": "tt0021322"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1930/31",
-    "nominees": [
-      "Adolphe Menjou"
-    ],
-    "movies": [
-      {
-        "title": "The Front Page",
-        "tmdb_id": 42814,
-        "imdb_id": "tt0021890"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1930/31",
-    "nominees": [
-      "Marie Dressler"
-    ],
-    "movies": [
-      {
-        "title": "Min and Bill",
-        "tmdb_id": 85505,
-        "imdb_id": "tt0021148"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1930/31",
-    "nominees": [
-      "Marlene Dietrich"
-    ],
-    "movies": [
-      {
-        "title": "Morocco",
-        "tmdb_id": 42641,
-        "imdb_id": "tt0021156"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1930/31",
-    "nominees": [
-      "Irene Dunne"
-    ],
-    "movies": [
-      {
-        "title": "Cimarron",
-        "tmdb_id": 42861,
-        "imdb_id": "tt0021746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1930/31",
-    "nominees": [
-      "Ann Harding"
-    ],
-    "movies": [
-      {
-        "title": "Holiday",
-        "tmdb_id": 104219,
-        "imdb_id": "tt0020985"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1930/31",
-    "nominees": [
-      "Norma Shearer"
-    ],
-    "movies": [
-      {
-        "title": "A Free Soul",
-        "tmdb_id": 50600,
-        "imdb_id": "tt0021885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1930/31",
-    "nominees": [
-      "Norman Taurog"
-    ],
-    "movies": [
-      {
-        "title": "Skippy",
-        "tmdb_id": 84295,
-        "imdb_id": "tt0022397"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1930/31",
-    "nominees": [
-      "Clarence Brown"
-    ],
-    "movies": [
-      {
-        "title": "A Free Soul",
-        "tmdb_id": 50600,
-        "imdb_id": "tt0021885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1930/31",
-    "nominees": [
-      "Lewis Milestone"
-    ],
-    "movies": [
-      {
-        "title": "The Front Page",
-        "tmdb_id": 42814,
-        "imdb_id": "tt0021890"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1930/31",
-    "nominees": [
-      "Wesley Ruggles"
-    ],
-    "movies": [
-      {
-        "title": "Cimarron",
-        "tmdb_id": 42861,
-        "imdb_id": "tt0021746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1930/31",
-    "nominees": [
-      "Josef von Sternberg"
-    ],
-    "movies": [
-      {
-        "title": "Morocco",
-        "tmdb_id": 42641,
-        "imdb_id": "tt0021156"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1930/31",
-    "nominees": [
-      "Howard Eastbrook"
-    ],
-    "movies": [
-      {
-        "title": "Cimarron",
-        "tmdb_id": 42861,
-        "imdb_id": "tt0021746"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1930/31",
-    "nominees": [
-      "Seton I. Miller",
-      "Fred Niblo Jr."
-    ],
-    "movies": [
-      {
-        "title": "The Criminal Code",
-        "tmdb_id": 42815,
-        "imdb_id": "tt0021770"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1930/31",
-    "nominees": [
-      "Horace Jackson"
-    ],
-    "movies": [
-      {
-        "title": "Holiday",
-        "tmdb_id": 104219,
-        "imdb_id": "tt0020985"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1930/31",
-    "nominees": [
-      "Francis Edward Faragoh",
-      "Robert N. Lee"
-    ],
-    "movies": [
-      {
-        "title": "Little Caesar",
-        "tmdb_id": 27899,
-        "imdb_id": "tt0021079"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1930/31",
-    "nominees": [
-      "Joseph L. Mankiewicz",
-      "Sam Mintz"
-    ],
-    "movies": [
-      {
-        "title": "Skippy",
-        "tmdb_id": 84295,
-        "imdb_id": "tt0022397"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1930/31",
-    "nominees": [
-      "John Monk Saunders"
-    ],
-    "movies": [
-      {
-        "title": "The Dawn Patrol",
-        "tmdb_id": 81847,
-        "imdb_id": "tt0020815"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1930/31",
-    "nominees": [
-      "Rowland Brown"
-    ],
-    "movies": [
-      {
-        "title": "The Doorway to Hell",
-        "tmdb_id": 26699,
-        "imdb_id": "tt0020836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1930/31",
-    "nominees": [
-      "Harry d'Arrast",
-      "Douglas Doty",
-      "Donald Stewart"
-    ],
-    "movies": [
-      {
-        "title": "Laughter",
-        "tmdb_id": 166010,
-        "imdb_id": "tt0021053"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1930/31",
-    "nominees": [
-      "John Bright",
-      "Kubec Glasmon"
-    ],
-    "movies": [
-      {
-        "title": "The Public Enemy",
-        "tmdb_id": 17687,
-        "imdb_id": "tt0022286"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1930/31",
-    "nominees": [
-      "Lucien Hubbard",
-      "Joseph Jackson"
-    ],
-    "movies": [
-      {
-        "title": "Smart Money",
-        "tmdb_id": 17966,
-        "imdb_id": "tt0022403"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Max Ree"
-    ],
-    "movies": [
-      {
-        "title": "Cimarron",
-        "tmdb_id": 42861,
-        "imdb_id": "tt0021746"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Stephen Goosson",
-      "Ralph Hammeras"
-    ],
-    "movies": [
-      {
-        "title": "Just Imagine",
-        "tmdb_id": 90395,
-        "imdb_id": "tt0021016"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Hans Dreier"
-    ],
-    "movies": [
-      {
-        "title": "Morocco",
-        "tmdb_id": 42641,
-        "imdb_id": "tt0021156"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Anton Grot"
-    ],
-    "movies": [
-      {
-        "title": "Svengali",
-        "tmdb_id": 45803,
-        "imdb_id": "tt0022454"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Richard Day"
-    ],
-    "movies": [
-      {
-        "title": "Whoopee!",
-        "tmdb_id": 108224,
-        "imdb_id": "tt0021549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Floyd Crosby"
-    ],
-    "movies": [
-      {
-        "title": "Tabu",
-        "tmdb_id": 977,
-        "imdb_id": "tt0022458"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Edward Cronjager"
-    ],
-    "movies": [
-      {
-        "title": "Cimarron",
-        "tmdb_id": 42861,
-        "imdb_id": "tt0021746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Lee Garmes"
-    ],
-    "movies": [
-      {
-        "title": "Morocco",
-        "tmdb_id": 42641,
-        "imdb_id": "tt0021156"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Charles Lang"
-    ],
-    "movies": [
-      {
-        "title": "The Right to Love",
-        "tmdb_id": 173746,
-        "imdb_id": "tt0021301"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1930/31",
-    "nominees": [
-      "Barney McGill"
-    ],
-    "movies": [
-      {
-        "title": "Svengali",
-        "tmdb_id": 45803,
-        "imdb_id": "tt0022454"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1930/31",
-    "nominees": [
-      "Paramount Publix Studio Sound Department"
-    ],
-    "movies": [],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1930/31",
-    "nominees": [
-      "MGM Studio Sound Department"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1930/31",
-    "nominees": [
-      "RKO Radio Studio Sound Department"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1930/31",
-    "nominees": [
-      "Samuel Goldwyn-United Artists Studio Sound Department"
-    ],
-    "movies": [],
-    "won": false
-  }
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "A Free Soul",
+        "FilmId": "tt0021885",
+        "Name": "Lionel Barrymore",
+        "Nominees": "Lionel Barrymore",
+        "NomineeIds": "nm0000859",
+        "Winner": "True",
+        "Detail": "Stephen Ashe",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "Skippy",
+        "FilmId": "tt0022397",
+        "Name": "Jackie Cooper",
+        "Nominees": "Jackie Cooper",
+        "NomineeIds": "nm0178114",
+        "Winner": "",
+        "Detail": "Skippy Skinner",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "Cimarron",
+        "FilmId": "tt0021746",
+        "Name": "Richard Dix",
+        "Nominees": "Richard Dix",
+        "NomineeIds": "nm0228715",
+        "Winner": "",
+        "Detail": "Yancey Cravat",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "The Royal Family of Broadway",
+        "FilmId": "tt0021322",
+        "Name": "Fredric March",
+        "Nominees": "Fredric March",
+        "NomineeIds": "nm0545298",
+        "Winner": "",
+        "Detail": "Tony Cavendish",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "The Front Page",
+        "FilmId": "tt0021890",
+        "Name": "Adolphe Menjou",
+        "Nominees": "Adolphe Menjou",
+        "NomineeIds": "nm0579663",
+        "Winner": "",
+        "Detail": "Walter Burns",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "Morocco",
+        "FilmId": "tt0021156",
+        "Name": "Marlene Dietrich",
+        "Nominees": "Marlene Dietrich",
+        "NomineeIds": "nm0000017",
+        "Winner": "",
+        "Detail": "Amy Jolly",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "Min and Bill",
+        "FilmId": "tt0021148",
+        "Name": "Marie Dressler",
+        "Nominees": "Marie Dressler",
+        "NomineeIds": "nm0237597",
+        "Winner": "True",
+        "Detail": "Min",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "Cimarron",
+        "FilmId": "tt0021746",
+        "Name": "Irene Dunne",
+        "Nominees": "Irene Dunne",
+        "NomineeIds": "nm0002050",
+        "Winner": "",
+        "Detail": "Sabra Cravat",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "Holiday",
+        "FilmId": "tt0020985",
+        "Name": "Ann Harding",
+        "Nominees": "Ann Harding",
+        "NomineeIds": "nm0362267",
+        "Winner": "",
+        "Detail": "Linda Seton",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "A Free Soul",
+        "FilmId": "tt0021885",
+        "Name": "Norma Shearer",
+        "Nominees": "Norma Shearer",
+        "NomineeIds": "nm0790454",
+        "Winner": "",
+        "Detail": "Jan Ashe",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "Cimarron",
+        "FilmId": "tt0021746",
+        "Name": "Max Rée",
+        "Nominees": "Max Rée",
+        "NomineeIds": "nm0753663",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "Just Imagine",
+        "FilmId": "tt0021016",
+        "Name": "Stephen Goosson, Ralph Hammeras",
+        "Nominees": "Stephen Goosson|Ralph Hammeras",
+        "NomineeIds": "nm0329684|nm0358518",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "Morocco",
+        "FilmId": "tt0021156",
+        "Name": "Hans Dreier",
+        "Nominees": "Hans Dreier",
+        "NomineeIds": "nm0237417",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "Svengali",
+        "FilmId": "tt0022454",
+        "Name": "Anton Grot",
+        "Nominees": "Anton Grot",
+        "NomineeIds": "nm0343819",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "Whoopee!",
+        "FilmId": "tt0021549",
+        "Name": "Richard Day",
+        "Nominees": "Richard Day",
+        "NomineeIds": "nm0206554",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Cimarron",
+        "FilmId": "tt0021746",
+        "Name": "Edward Cronjager",
+        "Nominees": "Edward Cronjager",
+        "NomineeIds": "nm0005676",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Morocco",
+        "FilmId": "tt0021156",
+        "Name": "Lee Garmes",
+        "Nominees": "Lee Garmes",
+        "NomineeIds": "nm0005716",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "The Right to Love",
+        "FilmId": "tt0021301",
+        "Name": "Charles Lang",
+        "Nominees": "Charles Lang",
+        "NomineeIds": "nm0485702",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Svengali",
+        "FilmId": "tt0022454",
+        "Name": "Barney \\\"Chick\\\" McGill",
+        "Nominees": "Barney \\\"Chick\\\" McGill",
+        "NomineeIds": "nm0569222",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Tabu",
+        "FilmId": "tt0022458",
+        "Name": "Floyd Crosby",
+        "Nominees": "Floyd Crosby",
+        "NomineeIds": "nm0005677",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "Cimarron",
+        "FilmId": "tt0021746",
+        "Name": "Wesley Ruggles",
+        "Nominees": "Wesley Ruggles",
+        "NomineeIds": "nm0749484",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "A Free Soul",
+        "FilmId": "tt0021885",
+        "Name": "Clarence Brown",
+        "Nominees": "Clarence Brown",
+        "NomineeIds": "nm0113284",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "The Front Page",
+        "FilmId": "tt0021890",
+        "Name": "Lewis Milestone",
+        "Nominees": "Lewis Milestone",
+        "NomineeIds": "nm0587277",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "Morocco",
+        "FilmId": "tt0021156",
+        "Name": "Josef Von Sternberg",
+        "Nominees": "Josef Von Sternberg",
+        "NomineeIds": "nm0903049",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "Skippy",
+        "FilmId": "tt0022397",
+        "Name": "Norman Taurog",
+        "Nominees": "Norman Taurog",
+        "NomineeIds": "nm0851537",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Cimarron",
+        "FilmId": "tt0021746",
+        "Name": "RKO Radio",
+        "Nominees": "RKO Radio",
+        "NomineeIds": "co0041421",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "East Lynne",
+        "FilmId": "tt0021826",
+        "Name": "Fox",
+        "Nominees": "Fox",
+        "NomineeIds": "co0028775",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "The Front Page",
+        "FilmId": "tt0021890",
+        "Name": "The Caddo Company",
+        "Nominees": "The Caddo Company",
+        "NomineeIds": "co0074827",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Skippy",
+        "FilmId": "tt0022397",
+        "Name": "Paramount Publix",
+        "Nominees": "Paramount Publix",
+        "NomineeIds": "co0023400",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Trader Horn",
+        "FilmId": "tt0022495",
+        "Name": "Metro-Goldwyn-Mayer",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Samuel Goldwyn - United Artists Studio Sound Department",
+        "Nominees": "Samuel Goldwyn - United Artists",
+        "NomineeIds": "co0058013",
+        "Winner": "",
+        "Detail": "",
+        "Note": "NOTE: This nomination was not associated with any specific film title.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Metro-Goldwyn-Mayer Studio Sound Department",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "",
+        "Detail": "",
+        "Note": "NOTE: This nomination was not associated with any specific film title.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Paramount Publix Studio Sound Department",
+        "Nominees": "Paramount Publix",
+        "NomineeIds": "co0023400",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "NOTE: This award was not associated with any specific film title.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "",
+        "FilmId": "",
+        "Name": "RKO Radio Studio Sound Department",
+        "Nominees": "RKO Radio",
+        "NomineeIds": "co0041421",
+        "Winner": "",
+        "Detail": "",
+        "Note": "NOTE: This nomination was not associated with any specific film title.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Cimarron",
+        "FilmId": "tt0021746",
+        "Name": "Howard Estabrook",
+        "Nominees": "Howard Estabrook",
+        "NomineeIds": "nm0261455",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "The Criminal Code",
+        "FilmId": "tt0021770",
+        "Name": "Seton I. Miller, Fred Niblo, Jr.",
+        "Nominees": "Seton I. Miller|Fred Niblo Jr.",
+        "NomineeIds": "nm0589316|nm0629240",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Holiday",
+        "FilmId": "tt0020985",
+        "Name": "Horace Jackson",
+        "Nominees": "Horace Jackson",
+        "NomineeIds": "nm0413590",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Little Caesar",
+        "FilmId": "tt0021079",
+        "Name": "Francis Faragoh, Robert N. Lee",
+        "Nominees": "Francis Faragoh|Robert N. Lee",
+        "NomineeIds": "nm0267020|nm0498133",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Skippy",
+        "FilmId": "tt0022397",
+        "Name": "Joseph L. Mankiewicz, Sam Mintz",
+        "Nominees": "Joseph L. Mankiewicz|Sam Mintz",
+        "NomineeIds": "nm0000581|nm0591791",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "The Dawn Patrol",
+        "FilmId": "tt0020815",
+        "Name": "John Monk Saunders",
+        "Nominees": "John Monk Saunders",
+        "NomineeIds": "nm0766850",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "The Doorway to Hell",
+        "FilmId": "tt0020836",
+        "Name": "Rowland Brown",
+        "Nominees": "Rowland Brown",
+        "NomineeIds": "nm0114602",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "Laughter",
+        "FilmId": "tt0021053",
+        "Name": "Harry d'Abbadie d'Arrast, Douglas Doty, Donald Ogden Stewart",
+        "Nominees": "Harry d'Abbadie d'Arrast|Douglas Doty|Donald Ogden Stewart",
+        "NomineeIds": "nm0195496|nm0234608|nm0829330",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "The Public Enemy",
+        "FilmId": "tt0022286",
+        "Name": "John Bright, Kubec Glasmon",
+        "Nominees": "John Bright|Kubec Glasmon",
+        "NomineeIds": "nm0109148|nm0321891",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "Smart Money",
+        "FilmId": "tt0022403",
+        "Name": "Lucien Hubbard, Joseph Jackson",
+        "Nominees": "Lucien Hubbard|Joseph Jackson",
+        "NomineeIds": "nm0399203|nm0413711",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "ELECTRICAL RESEARCH PRODUCTS INC.|RCA-PHOTOPHONE INC.|RKO RADIO PICTURES INC.",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Sound",
+        "Note": "",
+        "Citation": "To ELECTRICAL RESEARCH PRODUCTS, INC., RCA-PHOTOPHONE, INC. and RKO RADIO PICTURES, INC., for noise reduction recording equipment."
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "DuPONT FILM MANUFACTURING CORP.|Eastman Kodak Company",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Film",
+        "Note": "",
+        "Citation": "To DuPONT FILM MANUFACTURING CORP. and EASTMAN KODAK COMPANY for super-sensitive panchromatic film."
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Fox Film Corp.",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Sound",
+        "Note": "",
+        "Citation": "To FOX FILM CORP. for effective use of synchro-projection composite photography."
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Electrical Research Products Inc.",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Sound",
+        "Note": "",
+        "Citation": "To ELECTRICAL RESEARCH PRODUCTS, INC. for moving coil microphone transmitters."
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Rko Radio Pictures",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Sound",
+        "Note": "",
+        "Citation": "To RKO RADIO PICTURES, INC. for reflex type microphone concentrators."
+    },
+    {
+        "Ceremony": 4,
+        "Year": "1930/31",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Rca-Photophone Inc.",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Sound",
+        "Note": "",
+        "Citation": "To RCA-PHOTOPHONE, INC. for ribbon microphone transmitters."
+    }
 ]

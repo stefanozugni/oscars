@@ -1,1904 +1,2322 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2019",
-        "nominees": [
-            "Parasite"
-        ],
-        "movies": [
-            {
-                "title": "Parasite",
-                "tmdb_id": 496243,
-                "imdb_id": "tt6751668"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2019",
-        "nominees": [
-            "1917"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2019",
-        "nominees": [
-            "Ford v Ferrari"
-        ],
-        "movies": [
-            {
-                "title": "Ford v Ferrari",
-                "tmdb_id": 359724,
-                "imdb_id": "tt1950186"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2019",
-        "nominees": [
-            "The Irishman"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2019",
-        "nominees": [
-            "Jojo Rabbit"
-        ],
-        "movies": [
-            {
-                "title": "Jojo Rabbit",
-                "tmdb_id": 515001,
-                "imdb_id": "tt2584384"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2019",
-        "nominees": [
-            "Joker"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2019",
-        "nominees": [
-            "Litte Women"
-        ],
-        "movies": [
-            {
-                "title": "Little Women",
-                "tmdb_id": 331482,
-                "imdb_id": "tt3281548"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2019",
-        "nominees": [
-            "Marriage Story"
-        ],
-        "movies": [
-            {
-                "title": "Marriage Story",
-                "tmdb_id": 492188,
-                "imdb_id": "tt7653254"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2019",
-        "nominees": [
-            "Once Upon a Time... in Hollywood"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2019",
-        "nominees": [
-            "Joaquin Phoenix"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2019",
-        "nominees": [
-            "Antonio Banderas"
-        ],
-        "movies": [
-            {
-                "title": "Pain and Glory",
-                "tmdb_id": 519010,
-                "imdb_id": "tt8291806"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2019",
-        "nominees": [
-            "Leonardo DiCaprio"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2019",
-        "nominees": [
-            "Adam Driver"
-        ],
-        "movies": [
-            {
-                "title": "Marriage Story",
-                "tmdb_id": 492188,
-                "imdb_id": "tt7653254"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2019",
-        "nominees": [
-            "Jonathan Pryce"
-        ],
-        "movies": [
-            {
-                "title": "The Two Popes",
-                "tmdb_id": 551332,
-                "imdb_id": "tt8404614"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2019",
-        "nominees": [
-            "Renee Zellweger"
-        ],
-        "movies": [
-            {
-                "title": "Judy",
-                "tmdb_id": 491283,
-                "imdb_id": "tt7549996"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2019",
-        "nominees": [
-            "Cynthia Erivo"
-        ],
-        "movies": [
-            {
-                "title": "Harriet",
-                "tmdb_id": 506528,
-                "imdb_id": "tt4648786"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2019",
-        "nominees": [
-            "Scarlett Johansson"
-        ],
-        "movies": [
-            {
-                "title": "Marriage Story",
-                "tmdb_id": 492188,
-                "imdb_id": "tt7653254"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2019",
-        "nominees": [
-            "Saoirse Ronan"
-        ],
-        "movies": [
-            {
-                "title": "Little Women",
-                "tmdb_id": 331482,
-                "imdb_id": "tt3281548"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2019",
-        "nominees": [
-            "Charlize Theron"
-        ],
-        "movies": [
-            {
-                "title": "Bombshell",
-                "tmdb_id": 525661,
-                "imdb_id": "tt6394270"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2019",
-        "nominees": [
-            "Brad Pitt"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2019",
-        "nominees": [
-            "Tom Hanks"
-        ],
-        "movies": [
-            {
-                "title": "A Beautiful Day in the Neighborhood",
-                "tmdb_id": 501907,
-                "imdb_id": "tt3224458"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2019",
-        "nominees": [
-            "Anthony Hopkins"
-        ],
-        "movies": [
-            {
-                "title": "The Two Popes",
-                "tmdb_id": 551332,
-                "imdb_id": "tt8404614"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2019",
-        "nominees": [
-            "Al Pacino"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2019",
-        "nominees": [
-            "Joe Pesci"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2019",
-        "nominees": [
-            "Laura Dern"
-        ],
-        "movies": [
-            {
-                "title": "Marriage Story",
-                "tmdb_id": 492188,
-                "imdb_id": "tt7653254"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2019",
-        "nominees": [
-            "Kathy Bates"
-        ],
-        "movies": [
-            {
-                "title": "Richard Jewell",
-                "tmdb_id": 292011,
-                "imdb_id": "tt3513548"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2019",
-        "nominees": [
-            "Scarlett Johansson"
-        ],
-        "movies": [
-            {
-                "title": "Jojo Rabbit",
-                "tmdb_id": 515001,
-                "imdb_id": "tt2584384"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2019",
-        "nominees": [
-            "Florence Pugh"
-        ],
-        "movies": [
-            {
-                "title": "Little Women",
-                "tmdb_id": 331482,
-                "imdb_id": "tt3281548"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2019",
-        "nominees": [
-            "Margot Robbie"
-        ],
-        "movies": [
-            {
-                "title": "Bombshell",
-                "tmdb_id": 525661,
-                "imdb_id": "tt6394270"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2019",
-        "nominees": [
-            "Bong Joon-ho"
-        ],
-        "movies": [
-            {
-                "title": "Parasite",
-                "tmdb_id": 496243,
-                "imdb_id": "tt6751668"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2019",
-        "nominees": [
-            "Martin Scorsese"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2019",
-        "nominees": [
-            "Todd Phillips"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2019",
-        "nominees": [
-            "Quentin Tarantino"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2019",
-        "nominees": [
-            "Sam Mendes"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Taika Waititi"
-        ],
-        "movies": [
-            {
-                "title": "Jojo Rabbit",
-                "tmdb_id": 515001,
-                "imdb_id": "tt2584384"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Steve Zaillian"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Todd Phillips",
-            "Scott Silver"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Greta Gerwig"
-        ],
-        "movies": [
-            {
-                "title": "Little Women",
-                "tmdb_id": 331482,
-                "imdb_id": "tt3281548"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Anthony McCarten"
-        ],
-        "movies": [
-            {
-                "title": "The Two Popes",
-                "tmdb_id": 551332,
-                "imdb_id": "tt8404614"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Bong Joon-ho",
-            "Han Jin-won"
-        ],
-        "movies": [
-            {
-                "title": "Parasite",
-                "tmdb_id": 496243,
-                "imdb_id": "tt6751668"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Noah Baumbach"
-        ],
-        "movies": [
-            {
-                "title": "Marriage Story",
-                "tmdb_id": 492188,
-                "imdb_id": "tt7653254"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Sam Mendes",
-            "Krysty Wilson-Cairns"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Quentin Tarantino"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2019",
-        "nominees": [
-            "Rian Johnson"
-        ],
-        "movies": [
-            {
-                "title": "Knives Out",
-                "tmdb_id": 546554,
-                "imdb_id": "tt8946378"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2019",
-        "nominees": [
-            "Hildur Gudnadottir"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2019",
-        "nominees": [
-            "Alexandre Desplat"
-        ],
-        "movies": [
-            {
-                "title": "Little Women",
-                "tmdb_id": 331482,
-                "imdb_id": "tt3281548"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2019",
-        "nominees": [
-            "Randy Newman"
-        ],
-        "movies": [
-            {
-                "title": "Marriage Story",
-                "tmdb_id": 492188,
-                "imdb_id": "tt7653254"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2019",
-        "nominees": [
-            "Thomas Newman"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2019",
-        "nominees": [
-            "John Williams"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Rise of Skywalker",
-                "tmdb_id": 181812,
-                "imdb_id": "tt2527338"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2019",
-        "nominees": [
-            "(I'm Gonna) Love Me Again"
-        ],
-        "movies": [
-            {
-                "title": "Rocketman",
-                "tmdb_id": 504608,
-                "imdb_id": "tt2066051"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2019",
-        "nominees": [
-            "I Can't Let You Throw Yourself Away"
-        ],
-        "movies": [
-            {
-                "title": "Toy Story 4",
-                "tmdb_id": 301528,
-                "imdb_id": "tt1979376"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2019",
-        "nominees": [
-            "I'm Standing with You"
-        ],
-        "movies": [
-            {
-                "title": "Breakthrough",
-                "tmdb_id": 514439,
-                "imdb_id": "tt7083526"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2019",
-        "nominees": [
-            "Into the Unknown"
-        ],
-        "movies": [
-            {
-                "title": "Frozen II",
-                "tmdb_id": 330457,
-                "imdb_id": "tt4520988"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2019",
-        "nominees": [
-            "Stand Up"
-        ],
-        "movies": [
-            {
-                "title": "Harriet",
-                "tmdb_id": 506528,
-                "imdb_id": "tt4648786"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2019",
-        "nominees": [
-            "Parasite"
-        ],
-        "movies": [
-            {
-                "title": "Parasite",
-                "tmdb_id": 496243,
-                "imdb_id": "tt6751668"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2019",
-        "nominees": [
-            "Corpus Christi"
-        ],
-        "movies": [
-            {
-                "title": "Corpus Christi",
-                "tmdb_id": 471707,
-                "imdb_id": "tt8649186"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2019",
-        "nominees": [
-            "Honeyland"
-        ],
-        "movies": [
-            {
-                "title": "Honeyland",
-                "tmdb_id": 566213,
-                "imdb_id": "tt8991268"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2019",
-        "nominees": [
-            "Les Misérables"
-        ],
-        "movies": [
-            {
-                "title": "Les Misérables",
-                "tmdb_id": 586863,
-                "imdb_id": "tt10199590"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2019",
-        "nominees": [
-            "Pain and Glory"
-        ],
-        "movies": [
-            {
-                "title": "Pain and Glory",
-                "tmdb_id": 519010,
-                "imdb_id": "tt8291806"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2019",
-        "nominees": [
-            "American Factory"
-        ],
-        "movies": [
-            {
-                "title": "American Factory",
-                "tmdb_id": 565716,
-                "imdb_id": "tt9351980"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2019",
-        "nominees": [
-            "The Cave"
-        ],
-        "movies": [
-            {
-                "title": "The Cave",
-                "tmdb_id": 621729,
-                "imdb_id": "tt7178226"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2019",
-        "nominees": [
-            "The Edge of Democracy"
-        ],
-        "movies": [
-            {
-                "title": "The Edge of Democracy",
-                "tmdb_id": 566221,
-                "imdb_id": "tt6016744"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2019",
-        "nominees": [
-            "For Sama"
-        ],
-        "movies": [
-            {
-                "title": "For Sama",
-                "tmdb_id": 576017,
-                "imdb_id": "tt9617456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2019",
-        "nominees": [
-            "Honeyland"
-        ],
-        "movies": [
-            {
-                "title": "Honeyland",
-                "tmdb_id": 566213,
-                "imdb_id": "tt8991268"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2019",
-        "nominees": [
-            "Learning to Skateboard in a Warzone (If You're a Girl)"
-        ],
-        "movies": [
-            {
-                "title": "Learning to Skateboard in a Warzone (If You're a Girl)",
-                "tmdb_id": 612074,
-                "imdb_id": "tt10397932"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2019",
-        "nominees": [
-            "In the Absence"
-        ],
-        "movies": [
-            {
-                "title": "In the Absence",
-                "tmdb_id": 592303,
-                "imdb_id": "tt9464764"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2019",
-        "nominees": [
-            "Life Overtakes Me"
-        ],
-        "movies": [
-            {
-                "title": "Life Overtakes Me",
-                "tmdb_id": 593280,
-                "imdb_id": "tt9204606"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2019",
-        "nominees": [
-            "St. Louis Superman"
-        ],
-        "movies": [
-            {
-                "title": "St. Louis Superman",
-                "tmdb_id": 634767,
-                "imdb_id": "tt10009148"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2019",
-        "nominees": [
-            "Walk Run Cha-Cha"
-        ],
-        "movies": [
-            {
-                "title": "Walk Run Cha-Cha",
-                "tmdb_id": 634772,
-                "imdb_id": "tt10182854"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2019",
-        "nominees": [
-            "Toy Story 4"
-        ],
-        "movies": [
-            {
-                "title": "Toy Story 4",
-                "tmdb_id": 301528,
-                "imdb_id": "tt1979376"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2019",
-        "nominees": [
-            "How to Train Your Dragon: The Hidden World"
-        ],
-        "movies": [
-            {
-                "title": "How to Train Your Dragon: The Hidden World",
-                "tmdb_id": 166428,
-                "imdb_id": "tt2386490"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2019",
-        "nominees": [
-            "I Lost My Body"
-        ],
-        "movies": [
-            {
-                "title": "I Lost My Body",
-                "tmdb_id": 586940,
-                "imdb_id": "tt9806192"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2019",
-        "nominees": [
-            "Klaus"
-        ],
-        "movies": [
-            {
-                "title": "Klaus",
-                "tmdb_id": 508965,
-                "imdb_id": "tt4729430"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2019",
-        "nominees": [
-            "Missing Link"
-        ],
-        "movies": [
-            {
-                "title": "Missing Link",
-                "tmdb_id": 458253,
-                "imdb_id": "tt6348138"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2019",
-        "nominees": [
-            "Hair Love"
-        ],
-        "movies": [
-            {
-                "title": "Hair Love",
-                "tmdb_id": 589739,
-                "imdb_id": "tt7129636"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2019",
-        "nominees": [
-            "Daughter"
-        ],
-        "movies": [
-            {
-                "title": "Daughter",
-                "tmdb_id": 613221,
-                "imdb_id": "tt10923134"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2019",
-        "nominees": [
-            "Kitbull"
-        ],
-        "movies": [
-            {
-                "title": "Kitbull",
-                "tmdb_id": 574074,
-                "imdb_id": "tt9536832"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2019",
-        "nominees": [
-            "Memorable"
-        ],
-        "movies": [
-            {
-                "title": "Memorable",
-                "tmdb_id": 608542,
-                "imdb_id": "tt10499942"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2019",
-        "nominees": [
-            "Sister"
-        ],
-        "movies": [
-            {
-                "title": "Sister",
-                "tmdb_id": 569529,
-                "imdb_id": "tt9032798"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2019",
-        "nominees": [
-            "The Neighbors' Window"
-        ],
-        "movies": [
-            {
-                "title": "The Neighbors' Window",
-                "tmdb_id": 600274,
-                "imdb_id": "tt8163822"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2019",
-        "nominees": [
-            "Nefta Football Club"
-        ],
-        "movies": [
-            {
-                "title": "Nefta Football Club",
-                "tmdb_id": 581465,
-                "imdb_id": "tt8551848"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2019",
-        "nominees": [
-            "Brotherhood"
-        ],
-        "movies": [
-            {
-                "title": "Brotherhood",
-                "tmdb_id": 624405,
-                "imdb_id": "tt7220118"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2019",
-        "nominees": [
-            "Saria"
-        ],
-        "movies": [
-            {
-                "title": "Saria",
-                "tmdb_id": 656190,
-                "imdb_id": "tt11421246"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2019",
-        "nominees": [
-            "A Sister"
-        ],
-        "movies": [
-            {
-                "title": "A Sister",
-                "tmdb_id": 575107,
-                "imdb_id": "tt8767544"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Barbara Ling",
-            "Nancy Haigh"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Bob Shaw",
-            "Regina Graves"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Ra Vincent",
-            "Nora Sopkova"
-        ],
-        "movies": [
-            {
-                "title": "Jojo Rabbit",
-                "tmdb_id": 515001,
-                "imdb_id": "tt2584384"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Dennis Gassner",
-            "Lee Sandales"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Lee Ha-joon",
-            "Cho Won-woo"
-        ],
-        "movies": [
-            {
-                "title": "Parasite",
-                "tmdb_id": 496243,
-                "imdb_id": "tt6751668"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2019",
-        "nominees": [
-            "Roger Deakins"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2019",
-        "nominees": [
-            "Rodrigo Prieto"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2019",
-        "nominees": [
-            "Lawrence Sher"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2019",
-        "nominees": [
-            "Jarin Blaschke"
-        ],
-        "movies": [
-            {
-                "title": "The Lighthouse",
-                "tmdb_id": 503919,
-                "imdb_id": "tt7984734"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2019",
-        "nominees": [
-            "Robert Richardson"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2019",
-        "nominees": [
-            "Andrew Buckland",
-            "Michael McCusker"
-        ],
-        "movies": [
-            {
-                "title": "Ford v Ferrari",
-                "tmdb_id": 359724,
-                "imdb_id": "tt1950186"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2019",
-        "nominees": [
-            "Thelma Schoonmaker"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2019",
-        "nominees": [
-            "Tom Eagles"
-        ],
-        "movies": [
-            {
-                "title": "Jojo Rabbit",
-                "tmdb_id": 515001,
-                "imdb_id": "tt2584384"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2019",
-        "nominees": [
-            "Jeff Groth"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2019",
-        "nominees": [
-            "Yang Jin-mo"
-        ],
-        "movies": [
-            {
-                "title": "Parasite",
-                "tmdb_id": 496243,
-                "imdb_id": "tt6751668"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2019",
-        "nominees": [
-            "Guillaume Rocheron",
-            "Greg Butler",
-            "Dominic Tuohy"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2019",
-        "nominees": [
-            "Dan DeLeeuw",
-            "Matt Aitkem",
-            "Russell Earl",
-            "Dan Sudick"
-        ],
-        "movies": [
-            {
-                "title": "Avengers: Endgame",
-                "tmdb_id": 299534,
-                "imdb_id": "tt4154796"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2019",
-        "nominees": [
-            "Pablo Helman",
-            "Leandro Estebecorena",
-            "Stephane Grabli",
-            "Nelson Sepulveda"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2019",
-        "nominees": [
-            "Robert Legato",
-            "Adam Valdez",
-            "Andrew R. Jones",
-            "Elliot Newman"
-        ],
-        "movies": [
-            {
-                "title": "The Lion King",
-                "tmdb_id": 420818,
-                "imdb_id": "tt6105098"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2019",
-        "nominees": [
-            "Roger Guyett",
-            "Neal Scanlan",
-            "Patrick Tubach",
-            "Dominic Tuohy"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Rise of Skywalker",
-                "tmdb_id": 181812,
-                "imdb_id": "tt2527338"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2019",
-        "nominees": [
-            "Mark Taylor",
-            "Stuart Wilson"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2019",
-        "nominees": [
-            "Gary Rydstrom",
-            "Tom Johnson",
-            "Mark Ulano"
-        ],
-        "movies": [
-            {
-                "title": "Ad Astra",
-                "tmdb_id": 419704,
-                "imdb_id": "tt2935510"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2019",
-        "nominees": [
-            "Tom Ozanich",
-            "Dean Zupancic",
-            "Tod Maitland"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2019",
-        "nominees": [
-            "Paul Massey",
-            "David Giammarco",
-            "Steven A. Morrow"
-        ],
-        "movies": [
-            {
-                "title": "Ford v Ferrari",
-                "tmdb_id": 359724,
-                "imdb_id": "tt1950186"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2019",
-        "nominees": [
-            "Michael Minkler",
-            "Christian P. Minkler",
-            "Mark Ulano"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2019",
-        "nominees": [
-            "Donald Sylvester"
-        ],
-        "movies": [
-            {
-                "title": "Ford v Ferrari",
-                "tmdb_id": 359724,
-                "imdb_id": "tt1950186"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2019",
-        "nominees": [
-            "Oliver Tarney",
-            "Rachael Tate"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2019",
-        "nominees": [
-            "Alan Robert Murray"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2019",
-        "nominees": [
-            "Wylie Stateman"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2019",
-        "nominees": [
-            "Matthew Wood",
-            "David Acord"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Rise of Skywalker",
-                "tmdb_id": 181812,
-                "imdb_id": "tt2527338"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2019",
-        "nominees": [
-            "Kazu Hiro",
-            "Anne Morgan",
-            "Vivian Baker"
-        ],
-        "movies": [
-            {
-                "title": "Bombshell",
-                "tmdb_id": 525661,
-                "imdb_id": "tt6394270"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2019",
-        "nominees": [
-            "Nicki Ledermann",
-            "Kay Georgiou"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2019",
-        "nominees": [
-            "Jeremy Woodhead"
-        ],
-        "movies": [
-            {
-                "title": "Judy",
-                "tmdb_id": 491283,
-                "imdb_id": "tt7549996"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2019",
-        "nominees": [
-            "Paul Gooch",
-            "Arjen Tuiten",
-            "David White"
-        ],
-        "movies": [
-            {
-                "title": "Maleficent: Mistress of Evil",
-                "tmdb_id": 420809,
-                "imdb_id": "tt4777008"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2019",
-        "nominees": [
-            "Naomi Donne",
-            "Tristan Versluis",
-            "Rebecca Cole"
-        ],
-        "movies": [
-            {
-                "title": "1917",
-                "tmdb_id": 530915,
-                "imdb_id": "tt8579674"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Jacqueline Durran"
-        ],
-        "movies": [
-            {
-                "title": "Little Women",
-                "tmdb_id": 331482,
-                "imdb_id": "tt3281548"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Mayes C. Rubeo"
-        ],
-        "movies": [
-            {
-                "title": "Jojo Rabbit",
-                "tmdb_id": 515001,
-                "imdb_id": "tt2584384"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Mark Bridges"
-        ],
-        "movies": [
-            {
-                "title": "Joker",
-                "tmdb_id": 475557,
-                "imdb_id": "tt7286456"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Sandy Powell",
-            "Christopher Peterson"
-        ],
-        "movies": [
-            {
-                "title": "The Irishman",
-                "tmdb_id": 398978,
-                "imdb_id": "tt1302006"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2019",
-        "nominees": [
-            "Arianne Phillips"
-        ],
-        "movies": [
-            {
-                "title": "Once Upon a Time... in Hollywood",
-                "tmdb_id": 466272,
-                "imdb_id": "tt7131622"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Pain and Glory",
+    "FilmId": "tt8291806",
+    "Name": "Antonio Banderas",
+    "Nominees": "Antonio Banderas",
+    "NomineeIds": "nm0000104",
+    "Winner": "",
+    "Detail": "Salvador",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "Leonardo DiCaprio",
+    "Nominees": "Leonardo DiCaprio",
+    "NomineeIds": "nm0000138",
+    "Winner": "",
+    "Detail": "Rick Dalton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Marriage Story",
+    "FilmId": "tt7653254",
+    "Name": "Adam Driver",
+    "Nominees": "Adam Driver",
+    "NomineeIds": "nm3485845",
+    "Winner": "",
+    "Detail": "Charlie Barber",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Joaquin Phoenix",
+    "Nominees": "Joaquin Phoenix",
+    "NomineeIds": "nm0001618",
+    "Winner": "True",
+    "Detail": "Arthur Fleck",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Two Popes",
+    "FilmId": "tt8404614",
+    "Name": "Jonathan Pryce",
+    "Nominees": "Jonathan Pryce",
+    "NomineeIds": "nm0000596",
+    "Winner": "",
+    "Detail": "Cardinal Jorge Bergoglio/Pope Francis",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A Beautiful Day in the Neighborhood",
+    "FilmId": "tt3224458",
+    "Name": "Tom Hanks",
+    "Nominees": "Tom Hanks",
+    "NomineeIds": "nm0000158",
+    "Winner": "",
+    "Detail": "Fred Rogers",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Two Popes",
+    "FilmId": "tt8404614",
+    "Name": "Anthony Hopkins",
+    "Nominees": "Anthony Hopkins",
+    "NomineeIds": "nm0000164",
+    "Winner": "",
+    "Detail": "Cardinal Ratzinger/Pope Benedict",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Al Pacino",
+    "Nominees": "Al Pacino",
+    "NomineeIds": "nm0000199",
+    "Winner": "",
+    "Detail": "Jimmy Hoffa",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Joe Pesci",
+    "Nominees": "Joe Pesci",
+    "NomineeIds": "nm0000582",
+    "Winner": "",
+    "Detail": "Russell Bufalino",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "Brad Pitt",
+    "Nominees": "Brad Pitt",
+    "NomineeIds": "nm0000093",
+    "Winner": "True",
+    "Detail": "Cliff Booth",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Harriet",
+    "FilmId": "tt4648786",
+    "Name": "Cynthia Erivo",
+    "Nominees": "Cynthia Erivo",
+    "NomineeIds": "nm7248827",
+    "Winner": "",
+    "Detail": "Harriet/Minty",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Marriage Story",
+    "FilmId": "tt7653254",
+    "Name": "Scarlett Johansson",
+    "Nominees": "Scarlett Johansson",
+    "NomineeIds": "nm0424060",
+    "Winner": "",
+    "Detail": "Nicole Barber",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Little Women",
+    "FilmId": "tt3281548",
+    "Name": "Saoirse Ronan",
+    "Nominees": "Saoirse Ronan",
+    "NomineeIds": "nm1519680",
+    "Winner": "",
+    "Detail": "Jo March",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Bombshell",
+    "FilmId": "tt6394270",
+    "Name": "Charlize Theron",
+    "Nominees": "Charlize Theron",
+    "NomineeIds": "nm0000234",
+    "Winner": "",
+    "Detail": "Megyn Kelly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Judy",
+    "FilmId": "tt7549996",
+    "Name": "Renée Zellweger",
+    "Nominees": "Renée Zellweger",
+    "NomineeIds": "nm0000250",
+    "Winner": "True",
+    "Detail": "Judy Garland",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Richard Jewell",
+    "FilmId": "tt3513548",
+    "Name": "Kathy Bates",
+    "Nominees": "Kathy Bates",
+    "NomineeIds": "nm0000870",
+    "Winner": "",
+    "Detail": "Bobi Jewell",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Marriage Story",
+    "FilmId": "tt7653254",
+    "Name": "Laura Dern",
+    "Nominees": "Laura Dern",
+    "NomineeIds": "nm0000368",
+    "Winner": "True",
+    "Detail": "Nora Fanshaw",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Jojo Rabbit",
+    "FilmId": "tt2584384",
+    "Name": "Scarlett Johansson",
+    "Nominees": "Scarlett Johansson",
+    "NomineeIds": "nm0424060",
+    "Winner": "",
+    "Detail": "Rosie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Little Women",
+    "FilmId": "tt3281548",
+    "Name": "Florence Pugh",
+    "Nominees": "Florence Pugh",
+    "NomineeIds": "nm6073955",
+    "Winner": "",
+    "Detail": "Amy March",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Bombshell",
+    "FilmId": "tt6394270",
+    "Name": "Margot Robbie",
+    "Nominees": "Margot Robbie",
+    "NomineeIds": "nm3053338",
+    "Winner": "",
+    "Detail": "Kayla Pospisil",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "How to Train Your Dragon: The Hidden World",
+    "FilmId": "tt2386490",
+    "Name": "Dean DeBlois, Bradford Lewis and Bonnie Arnold",
+    "Nominees": "Dean DeBlois|Bradford Lewis|Bonnie Arnold",
+    "NomineeIds": "nm0213450|nm0506977|nm0036366",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "I Lost My Body",
+    "FilmId": "tt9806192",
+    "Name": "Jérémy Clapin and Marc du Pontavice",
+    "Nominees": "Jérémy Clapin|Marc du Pontavice",
+    "NomineeIds": "nm3021346|nm0238941",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Klaus",
+    "FilmId": "tt4729430",
+    "Name": "Sergio Pablos, Jinko Gotoh and Marisa Román",
+    "Nominees": "Sergio Pablos|Jinko Gotoh|Marisa Román",
+    "NomineeIds": "nm0655053|nm1380146|nm9282610",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Missing Link",
+    "FilmId": "tt6348138",
+    "Name": "Chris Butler, Arianne Sutner and Travis Knight",
+    "Nominees": "Chris Butler|Arianne Sutner|Travis Knight",
+    "NomineeIds": "nm2752098|nm1750312|nm1325899",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Toy Story 4",
+    "FilmId": "tt1979376",
+    "Name": "Josh Cooley, Mark Nielsen and Jonas Rivera",
+    "Nominees": "Josh Cooley|Mark Nielsen|Jonas Rivera",
+    "NomineeIds": "nm2155757|nm0630923|nm0729304",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Rodrigo Prieto",
+    "Nominees": "Rodrigo Prieto",
+    "NomineeIds": "nm0006509",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Lawrence Sher",
+    "Nominees": "Lawrence Sher",
+    "NomineeIds": "nm0003394",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Lighthouse",
+    "FilmId": "tt7984734",
+    "Name": "Jarin Blaschke",
+    "Nominees": "Jarin Blaschke",
+    "NomineeIds": "nm1144916",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "Robert Richardson",
+    "Nominees": "Robert Richardson",
+    "NomineeIds": "nm0724744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Sandy Powell and Christopher Peterson",
+    "Nominees": "Sandy Powell|Christopher Peterson",
+    "NomineeIds": "nm0694309|nm1044613",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Jojo Rabbit",
+    "FilmId": "tt2584384",
+    "Name": "Mayes C. Rubeo",
+    "Nominees": "Mayes C. Rubeo",
+    "NomineeIds": "nm0747946",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Mark Bridges",
+    "Nominees": "Mark Bridges",
+    "NomineeIds": "nm0108775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Little Women",
+    "FilmId": "tt3281548",
+    "Name": "Jacqueline Durran",
+    "Nominees": "Jacqueline Durran",
+    "NomineeIds": "nm0244330",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "Arianne Phillips",
+    "Nominees": "Arianne Phillips",
+    "NomineeIds": "nm0680218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Martin Scorsese",
+    "Nominees": "Martin Scorsese",
+    "NomineeIds": "nm0000217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Todd Phillips",
+    "Nominees": "Todd Phillips",
+    "NomineeIds": "nm0680846",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Sam Mendes",
+    "Nominees": "Sam Mendes",
+    "NomineeIds": "nm0005222",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "Quentin Tarantino",
+    "Nominees": "Quentin Tarantino",
+    "NomineeIds": "nm0000233",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Parasite",
+    "FilmId": "tt6751668",
+    "Name": "Bong Joon Ho",
+    "Nominees": "Bong Joon Ho",
+    "NomineeIds": "nm0094435",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "American Factory",
+    "FilmId": "tt9351980",
+    "Name": "Steven Bognar, Julia Reichert and Jeff Reichert",
+    "Nominees": "Steven Bognar|Julia Reichert|Jeff Reichert",
+    "NomineeIds": "nm0091840|nm0717064|nm1630563",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Cave",
+    "FilmId": "tt7178226",
+    "Name": "Feras Fayyad, Kirstine Barfod and Sigrid Dyekjær",
+    "Nominees": "Feras Fayyad|Kirstine Barfod|Sigrid Dyekjær",
+    "NomineeIds": "nm5926047|nm3450798|nm1410710",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Edge of Democracy",
+    "FilmId": "tt6016744",
+    "Name": "Petra Costa, Joanna Natasegara, Shane Boris and Tiago Pavan",
+    "Nominees": "Petra Costa|Joanna Natasegara|Shane Boris|Tiago Pavan",
+    "NomineeIds": "nm3525467|nm3319085|nm3312530|nm6682792",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "For Sama",
+    "FilmId": "tt9617456",
+    "Name": "Waad al-Kateab and Edward Watts",
+    "Nominees": "Waad al-Kateab|Edward Watts",
+    "NomineeIds": "nm10408302|nm3117666",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Honeyland",
+    "FilmId": "tt8991268",
+    "Name": "Ljubo Stefanov, Tamara Kotevska and Atanas Georgiev",
+    "Nominees": "Ljubo Stefanov|Tamara Kotevska|Atanas Georgiev",
+    "NomineeIds": "nm10118100|nm9393813|nm1389493",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "In the Absence",
+    "FilmId": "tt9464764",
+    "Name": "Yi Seung-Jun and Gary Byung-Seok Kam",
+    "Nominees": "Yi Seung-Jun|Gary Byung-Seok Kam",
+    "NomineeIds": "nm3508453|nm4351697",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Learning to Skateboard in a Warzone (If You're a Girl)",
+    "FilmId": "tt10397932",
+    "Name": "Carol Dysinger and Elena Andreicheva",
+    "Nominees": "Carol Dysinger|Elena Andreicheva",
+    "NomineeIds": "nm0246009|nm5073726",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Life Overtakes Me",
+    "FilmId": "tt9204606",
+    "Name": "John Haptas and Kristine Samuelson",
+    "Nominees": "John Haptas|Kristine Samuelson",
+    "NomineeIds": "nm0361635|nm0760552",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "St. Louis Superman",
+    "FilmId": "tt10009148",
+    "Name": "Smriti Mundhra and Sami Khan",
+    "Nominees": "Smriti Mundhra|Sami Khan",
+    "NomineeIds": "nm0612731|nm3172182",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Walk Run Cha-Cha",
+    "FilmId": "tt10182854",
+    "Name": "Laura Nix and Colette Sandstedt",
+    "Nominees": "Laura Nix|Colette Sandstedt",
+    "NomineeIds": "nm0633177|nm1586984",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Ford v Ferrari",
+    "FilmId": "tt1950186",
+    "Name": "Michael McCusker and Andrew Buckland",
+    "Nominees": "Michael McCusker|Andrew Buckland",
+    "NomineeIds": "nm0567331|nm0118202",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Thelma Schoonmaker",
+    "Nominees": "Thelma Schoonmaker",
+    "NomineeIds": "nm0774817",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Jojo Rabbit",
+    "FilmId": "tt2584384",
+    "Name": "Tom Eagles",
+    "Nominees": "Tom Eagles",
+    "NomineeIds": "nm2305414",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Jeff Groth",
+    "Nominees": "Jeff Groth",
+    "NomineeIds": "nm0343846",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Parasite",
+    "FilmId": "tt6751668",
+    "Name": "Yang Jinmo",
+    "Nominees": "Yang Jinmo",
+    "NomineeIds": "nm2185967",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Corpus Christi",
+    "FilmId": "tt8649186",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Honeyland",
+    "FilmId": "tt8991268",
+    "Name": "North Macedonia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Les Misérables",
+    "FilmId": "tt10199590",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Pain and Glory",
+    "FilmId": "tt8291806",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Parasite",
+    "FilmId": "tt6751668",
+    "Name": "South Korea",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Bombshell",
+    "FilmId": "tt6394270",
+    "Name": "Kazu Hiro, Anne Morgan and Vivian Baker",
+    "Nominees": "Kazu Hiro|Anne Morgan|Vivian Baker",
+    "NomineeIds": "nm0875308|nm0604479|nm0049004",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Nicki Ledermann and Kay Georgiou",
+    "Nominees": "Nicki Ledermann|Kay Georgiou",
+    "NomineeIds": "nm0496525|nm0313789",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Judy",
+    "FilmId": "tt7549996",
+    "Name": "Jeremy Woodhead",
+    "Nominees": "Jeremy Woodhead",
+    "NomineeIds": "nm0940291",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Maleficent: Mistress of Evil",
+    "FilmId": "tt4777008",
+    "Name": "Paul Gooch, Arjen Tuiten and David White",
+    "Nominees": "Paul Gooch|Arjen Tuiten|David White",
+    "NomineeIds": "nm0328655|nm1115465|nm0924675",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Naomi Donne, Tristan Versluis and Rebecca Cole",
+    "Nominees": "Naomi Donne|Tristan Versluis|Rebecca Cole",
+    "NomineeIds": "nm0232644|nm1033448|nm1226541",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Hildur Guðnadóttir",
+    "Nominees": "Hildur Guðnadóttir",
+    "NomineeIds": "nm3723390",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Little Women",
+    "FilmId": "tt3281548",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Marriage Story",
+    "FilmId": "tt7653254",
+    "Name": "Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Star Wars: The Rise of Skywalker",
+    "FilmId": "tt2527338",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Toy Story 4",
+    "FilmId": "tt1979376",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "I Can't Let You Throw Yourself Away",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Rocketman",
+    "FilmId": "tt2066051",
+    "Name": "Music by Elton John; Lyric by Bernie Taupin",
+    "Nominees": "Elton John|Bernie Taupin",
+    "NomineeIds": "nm0005056|nm0005479",
+    "Winner": "True",
+    "Detail": "(I'm Gonna) Love Me Again",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Breakthrough",
+    "FilmId": "tt7083526",
+    "Name": "Music and Lyric by Diane Warren",
+    "Nominees": "Diane Warren",
+    "NomineeIds": "nm0005534",
+    "Winner": "",
+    "Detail": "I'm Standing With You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Frozen II",
+    "FilmId": "tt4520988",
+    "Name": "Music and Lyric by Kristen Anderson-Lopez and Robert Lopez",
+    "Nominees": "Kristen Anderson-Lopez|Robert Lopez",
+    "NomineeIds": "nm2844448|nm0520188",
+    "Winner": "",
+    "Detail": "Into The Unknown",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Harriet",
+    "FilmId": "tt4648786",
+    "Name": "Music and Lyric by Joshuah Brian Campbell and Cynthia Erivo",
+    "Nominees": "Joshuah Brian Campbell|Cynthia Erivo",
+    "NomineeIds": "nm11140804|nm7248827",
+    "Winner": "",
+    "Detail": "Stand Up",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Ford v Ferrari",
+    "FilmId": "tt1950186",
+    "Name": "Peter Chernin, Jenno Topping and James Mangold, Producers",
+    "Nominees": "Peter Chernin|Jenno Topping|James Mangold",
+    "NomineeIds": "nm1858656|nm0867768|nm0003506",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Martin Scorsese, Robert De Niro, Jane Rosenthal and Emma Tillinger Koskoff, Producers",
+    "Nominees": "Martin Scorsese|Robert De Niro|Jane Rosenthal|Emma Tillinger Koskoff",
+    "NomineeIds": "nm0000217|nm0000134|nm0742772|nm0863374",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Jojo Rabbit",
+    "FilmId": "tt2584384",
+    "Name": "Carthew Neal, Taika Waititi and Chelsea Winstanley, Producers",
+    "Nominees": "Carthew Neal|Taika Waititi|Chelsea Winstanley",
+    "NomineeIds": "nm2868859|nm0169806|nm4438615",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Todd Phillips, Bradley Cooper and Emma Tillinger Koskoff, Producers",
+    "Nominees": "Todd Phillips|Bradley Cooper|Emma Tillinger Koskoff",
+    "NomineeIds": "nm0680846|nm0177896|nm0863374",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Little Women",
+    "FilmId": "tt3281548",
+    "Name": "Amy Pascal, Producer",
+    "Nominees": "Amy Pascal",
+    "NomineeIds": "nm1166871",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Marriage Story",
+    "FilmId": "tt7653254",
+    "Name": "Noah Baumbach and David Heyman, Producers",
+    "Nominees": "Noah Baumbach|David Heyman",
+    "NomineeIds": "nm0000876|nm0382268",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",
+    "Nominees": "Sam Mendes|Pippa Harris|Jayne-Ann Tenggren|Callum McDougall",
+    "NomineeIds": "nm0005222|nm0365208|nm0854991|nm0568223",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",
+    "Nominees": "David Heyman|Shannon McIntosh|Quentin Tarantino",
+    "NomineeIds": "nm0382268|nm0570690|nm0000233",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Parasite",
+    "FilmId": "tt6751668",
+    "Name": "Kwak Sin Ae and Bong Joon Ho, Producers",
+    "Nominees": "Kwak Sin Ae|Bong Joon Ho",
+    "NomineeIds": "nm10113618|nm0094435",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Production Design: Bob Shaw; Set Decoration: Regina Graves",
+    "Nominees": "Bob Shaw|Regina Graves",
+    "NomineeIds": "nm0004052|nm0336340",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Jojo Rabbit",
+    "FilmId": "tt2584384",
+    "Name": "Production Design: Ra Vincent; Set Decoration: Nora Sopková",
+    "Nominees": "Ra Vincent|Nora Sopková",
+    "NomineeIds": "nm1308151|nm4196495",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Production Design: Dennis Gassner; Set Decoration: Lee Sandales",
+    "Nominees": "Dennis Gassner|Lee Sandales",
+    "NomineeIds": "nm0309357|nm0761227",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "Production Design: Barbara Ling; Set Decoration: Nancy Haigh",
+    "Nominees": "Barbara Ling|Nancy Haigh",
+    "NomineeIds": "nm0512686|nm0354101",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Parasite",
+    "FilmId": "tt6751668",
+    "Name": "Production Design: Lee Ha Jun; Set Decoration: Cho Won Woo",
+    "Nominees": "Lee Ha Jun|Cho Won Woo",
+    "NomineeIds": "nm4342766|nm6657856",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Dcera (Daughter)",
+    "FilmId": "tt10923134",
+    "Name": "Daria Kashcheeva",
+    "Nominees": "Daria Kashcheeva",
+    "NomineeIds": "nm9032521",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Hair Love",
+    "FilmId": "tt7129636",
+    "Name": "Matthew A. Cherry and Karen Rupert Toliver",
+    "Nominees": "Matthew A. Cherry|Karen Rupert Toliver",
+    "NomineeIds": "nm1525794|nm2702123",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Kitbull",
+    "FilmId": "tt9536832",
+    "Name": "Rosana Sullivan and Kathryn Hendrickson",
+    "Nominees": "Rosana Sullivan|Kathryn Hendrickson",
+    "NomineeIds": "nm3300040|nm4144523",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Memorable",
+    "FilmId": "tt10499942",
+    "Name": "Bruno Collet and Jean-François Le Corre",
+    "Nominees": "Bruno Collet|Jean-François Le Corre",
+    "NomineeIds": "nm1170249|nm1803332",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Sister",
+    "FilmId": "tt9032798",
+    "Name": "Siqi Song",
+    "Nominees": "Siqi Song",
+    "NomineeIds": "nm5465317",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Brotherhood",
+    "FilmId": "tt8906678",
+    "Name": "Meryam Joobeur and Maria Gracia Turgeon",
+    "Nominees": "Meryam Joobeur|Maria Gracia Turgeon",
+    "NomineeIds": "nm5084972|nm5637080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Nefta Football Club",
+    "FilmId": "tt8551848",
+    "Name": "Yves Piat and Damien Megherbi",
+    "Nominees": "Yves Piat|Damien Megherbi",
+    "NomineeIds": "nm1166989|nm6628142",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Neighbors' Window",
+    "FilmId": "tt8163822",
+    "Name": "Marshall Curry",
+    "Nominees": "Marshall Curry",
+    "NomineeIds": "nm1903582",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Saria",
+    "FilmId": "tt11421246",
+    "Name": "Bryan Buckley and Matt Lefebvre",
+    "Nominees": "Bryan Buckley|Matt Lefebvre",
+    "NomineeIds": "nm1519252|nm4119897",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "A Sister",
+    "FilmId": "tt8767544",
+    "Name": "Delphine Girard",
+    "Nominees": "Delphine Girard",
+    "NomineeIds": "nm5407860",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Ford v Ferrari",
+    "FilmId": "tt1950186",
+    "Name": "Donald Sylvester",
+    "Nominees": "Donald Sylvester",
+    "NomineeIds": "nm0843219",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Alan Robert Murray",
+    "Nominees": "Alan Robert Murray",
+    "NomineeIds": "nm0614812",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Oliver Tarney and Rachael Tate",
+    "Nominees": "Oliver Tarney|Rachael Tate",
+    "NomineeIds": "nm0850549|nm2655291",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "Wylie Stateman",
+    "Nominees": "Wylie Stateman",
+    "NomineeIds": "nm0823758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Star Wars: The Rise of Skywalker",
+    "FilmId": "tt2527338",
+    "Name": "Matthew Wood and David Acord",
+    "Nominees": "Matthew Wood|David Acord",
+    "NomineeIds": "nm0003214|nm0004198",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Ad Astra",
+    "FilmId": "tt2935510",
+    "Name": "Gary Rydstrom, Tom Johnson and Mark Ulano",
+    "Nominees": "Gary Rydstrom|Tom Johnson|Mark Ulano",
+    "NomineeIds": "nm0003977|nm0426348|nm0880360",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Ford v Ferrari",
+    "FilmId": "tt1950186",
+    "Name": "Paul Massey, David Giammarco and Steven A. Morrow",
+    "Nominees": "Paul Massey|David Giammarco|Steven A. Morrow",
+    "NomineeIds": "nm0557338|nm0316102|nm0607551",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Tom Ozanich, Dean Zupancic and Tod Maitland",
+    "Nominees": "Tom Ozanich|Dean Zupancic|Tod Maitland",
+    "NomineeIds": "nm0654696|nm0958711|nm0537972",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Mark Taylor and Stuart Wilson",
+    "Nominees": "Mark Taylor|Stuart Wilson",
+    "NomineeIds": "nm0852837|nm0934184",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "Michael Minkler, Christian P. Minkler and Mark Ulano",
+    "Nominees": "Michael Minkler|Christian P. Minkler|Mark Ulano",
+    "NomineeIds": "nm0591444|nm0591441|nm0880360",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Avengers: Endgame",
+    "FilmId": "tt4154796",
+    "Name": "Dan DeLeeuw, Russell Earl, Matt Aitken and Dan Sudick",
+    "Nominees": "Dan DeLeeuw|Russell Earl|Matt Aitken|Dan Sudick",
+    "NomineeIds": "nm0216699|nm0247270|nm0014884|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Pablo Helman, Leandro Estebecorena, Nelson Sepulveda-Fauser and Stephane Grabli",
+    "Nominees": "Pablo Helman|Leandro Estebecorena|Nelson Sepulveda-Fauser|Stephane Grabli",
+    "NomineeIds": "nm0375666|nm1739145|nm0784700|nm3148163",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Lion King",
+    "FilmId": "tt6105098",
+    "Name": "Robert Legato, Adam Valdez, Andrew R. Jones and Elliot Newman",
+    "Nominees": "Robert Legato|Adam Valdez|Andrew R. Jones|Elliot Newman",
+    "NomineeIds": "nm0499215|nm0883628|nm1002475|nm1806961",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Guillaume Rocheron, Greg Butler and Dominic Tuohy",
+    "Nominees": "Guillaume Rocheron|Greg Butler|Dominic Tuohy",
+    "NomineeIds": "nm1806981|nm0124935|nm0876716",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Star Wars: The Rise of Skywalker",
+    "FilmId": "tt2527338",
+    "Name": "Roger Guyett, Neal Scanlan, Patrick Tubach and Dominic Tuohy",
+    "Nominees": "Roger Guyett|Neal Scanlan|Patrick Tubach|Dominic Tuohy",
+    "NomineeIds": "nm0004361|nm0768943|nm0875604|nm0876716",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Irishman",
+    "FilmId": "tt1302006",
+    "Name": "Screenplay by Steven Zaillian",
+    "Nominees": "Steven Zaillian",
+    "NomineeIds": "nm0001873",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Jojo Rabbit",
+    "FilmId": "tt2584384",
+    "Name": "Screenplay by Taika Waititi",
+    "Nominees": "Taika Waititi",
+    "NomineeIds": "nm0169806",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Joker",
+    "FilmId": "tt7286456",
+    "Name": "Written by Todd Phillips & Scott Silver",
+    "Nominees": "Todd Phillips|Scott Silver",
+    "NomineeIds": "nm0680846|nm0798788",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Little Women",
+    "FilmId": "tt3281548",
+    "Name": "Written for the screen by Greta Gerwig",
+    "Nominees": "Greta Gerwig",
+    "NomineeIds": "nm1950086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Two Popes",
+    "FilmId": "tt8404614",
+    "Name": "Written by Anthony McCarten",
+    "Nominees": "Anthony McCarten",
+    "NomineeIds": "nm0565026",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Knives Out",
+    "FilmId": "tt8946378",
+    "Name": "Written by Rian Johnson",
+    "Nominees": "Rian Johnson",
+    "NomineeIds": "nm0426059",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Marriage Story",
+    "FilmId": "tt7653254",
+    "Name": "Written by Noah Baumbach",
+    "Nominees": "Noah Baumbach",
+    "NomineeIds": "nm0000876",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": 1917,
+    "FilmId": "tt8579674",
+    "Name": "Written by Sam Mendes & Krysty Wilson-Cairns",
+    "Nominees": "Sam Mendes|Krysty Wilson-Cairns",
+    "NomineeIds": "nm0005222|nm4880670",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Once upon a Time...in Hollywood",
+    "FilmId": "tt7131622",
+    "Name": "Written by Quentin Tarantino",
+    "Nominees": "Quentin Tarantino",
+    "NomineeIds": "nm0000233",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Parasite",
+    "FilmId": "tt6751668",
+    "Name": "Screenplay by Bong Joon Ho, Han Jin Won; Story by Bong Joon Ho",
+    "Nominees": "Bong Joon Ho|Han Jin Won",
+    "NomineeIds": "nm0094435|nm8243301",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Geena Davis",
+    "Nominees": "Geena Davis",
+    "NomineeIds": "nm0000133",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Lynch",
+    "NomineeIds": "nm0000186",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To David Lynch, for fearlessly breaking boundaries in pursuit of his singular cinematic vision."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Wes Studi",
+    "NomineeIds": "nm0836071",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Wes Studi, in recognition of the power and craft he brings to his indelible film portrayals and for his steadfast support of the Native American community."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Lina Wertmüller",
+    "NomineeIds": "nm0921631",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Lina Wertmüller, for her provocative disruption of political and social norms delivered with bravery through her weapon of choice: the camera lens."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Zvi Reznic|Professor Meir Feder|Guy Dorman|Ron Yogev",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "By using novel extensions of digital data transmission and compression algorithms, and data prioritization based on error rate, the Amimon chipset supports the creation of systems with virtually unrestricted camera motion, expanding creative freedom during filming.",
+    "Citation": "To DR. ZVI REZNIC, PROFESSOR MEIR FEDER, GUY DORMAN and RON YOGEV for the development of the Amimon wireless chipset, which enables untethered, high-quality on-set, encrypted digital video monitoring with sub-frame latency."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nicolaas Verheem|Greg Smokler|Ilya Issenin",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Teradek Bolt system features a frame-synchronized back channel for real-time camera control, an error-resilient timecode channel and integrated production metadata, which have led to its widespread adoption in motion picture production.",
+    "Citation": "To NICOLAAS VERHEEM, GREG SMOKLER and ILYA ISSENIN for the development of the ruggedized Teradek Bolt wireless video transmission system for on-set remote monitoring."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ALEXEY LUKIN|IZOTOPE INC.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Featuring spectral processing algorithms enhanced with machine learning, the iZotope RX system is widely favored by motion picture sound professionals for audio repair and enhancement.",
+    "Citation": "To ALEXEY LUKIN and the TEAM OF MATHEMATICIANS, SOFTWARE ENGINEERS, SOUND DESIGNERS AND PRODUCT SPECIALISTS OF IZOTOPE, INC. for the development of the RX audio processing system."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jeff Bloom|GUY McNALLY|Nick Rose|John Ellwood|Jonathan Newland",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Wordfit revolutionized the process of post sync ADR by eliminating the need for manual editing to perfect lip sync. VocALign and Revoice Pro are software tools that together give sound editors unprecedented control over the final performance in replaced dialog. In use for many years, these technologies continue their predominance in the creation and seamless integration of replacement dialog tracks in motion pictures.",
+    "Citation": "To JEFF BLOOM, GUY McNALLY and NICK ROSE for the original concept and engineering of the Wordfit System for automatic ADR synchronization, and to JOHN ELLWOOD and JONATHAN NEWLAND for the engineering and development of VocALign and Revoice Pro."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Sanken Microphone Company Limited",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Sanken's early engineering work in microphone orientation and miniaturization has inspired the current generation of lavalier microphones. The exceptional sound quality and durability of the COS-11 series have made them the predominant lavalier microphones used in motion picture production sound recording.",
+    "Citation": "To SANKEN MICROPHONE COMPANY LIMITED for the original innovation and continuous refinement of the Sanken COS-11 series of miniature lavalier microphones."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Masato Nakashima|Koichi Ueno|Junji Sakuda|Junro Yonemitsu",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "EIZO auto-calibrating SDR monitors increase artists' confidence in facility-wide image reproduction accuracy and reduce disruptions to the creative process and production workflows. They have become indispensable for many major motion picture animation and effects facilities.",
+    "Citation": "To MASATO NAKASHIMA, KOICHI UENO, JUNJI SAKUDA and JUNRO YONEMITSU for the development of the EIZO auto-calibrating SDR monitors that incorporate a built-in sensor, digital uniformity equalizer and accompanying SDK."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Alejandro Arango|Gary Martinez|Robert Derry|Glenn Derry",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Technoprops head-mounted camera system, with its modular and production-proven construction, supports consistent face alignment with improved actor comfort, while at the same time permitting quick reconfiguration and minimizing downtime. This system enables repeatable, accurate and unobstructed capture of an actor's facial movements.",
+    "Citation": "To ALEJANDRO ARANGO, GARY MARTINEZ, ROBERT DERRY and GLENN DERRY for the system design, ergonomics, engineering and workflow integration of the widely adopted Technoprops head-mounted camera system."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Babak Beheshti|Scott Robitille|Ian Kelly|Dejan Momcilovic",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Standard Deviation head-mounted camera system provides a robust method of accurate camera synchronization to the house clock. Combined with practical innovations for usability, it enables multiple head-mounted camera systems to be used in large capture volumes, resulting in adoption by numerous motion picture productions.",
+    "Citation": "To BABAK BEHESHTI and SCOTT ROBITILLE for the development of the compact, stand-alone, phase-accurate genlock synchronization and recording module, and to IAN KELLY and DEJAN MOMCILOVIC for the technical direction and workflow integration, of the Standard Deviation head-mounted camera system."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "SVEN WOOP|CARSTEN BENTHIN|ATTILA T. Á FRA|MANFRED ERNST|INGO WALD",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "For the past decade, the Intel Embree Ray Tracing Library has provided a high-performance, industry-leading, CPU-based ray-geometry intersection framework through well-engineered open source code, supported by a comprehensive set of research publications. It has become an indispensable resource for motion picture production rendering.",
+    "Citation": "To SVEN WOOP and CARSTEN BENTHIN for core development, ATTILA T. ÁFRA for motion picture feature development, and MANFRED ERNST and INGO WALD for early research and technical direction, of the Intel® Embree Ray Tracing Library."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hayley Iben|Mark Meyer|John Anderson|Andrew Witkin",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Taz is a robust, predictable and efficient mass-spring hair simulation system with novel formulations of hair shape, bending springs and hair-to-hair collisions. It has enabled Pixar artists to bring to life animated digital characters with a wide variety of stylized hair, from straight to wavy to curly.",
+    "Citation": "To HAYLEY IBEN, MARK MEYER, JOHN ANDERSON and ANDREW WITKIN for the Taz Hair Simulation System."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Stephen Bowline",
+    "NomineeIds": "nm1384202",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The ILM HairCraft Dynamics System has a physically robust hair-dynamics model that simulates hair by embedding curves in tetrahedral mesh volumes. Its unique spring-based control system has helped ILM artists create a wide range of photorealistic digital characters and digital stunt doubles.",
+    "Citation": "To STEPHEN BOWLINE for the ILM HairCraft Dynamics System."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Kelly Ward Hammel|ALEKA McADAMS|Toby Jones|Maryann Simmons|Andy Milne",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The WDAS Hair Simulation System is a robust, predictable, fast and highly art-directable system built on the mathematics of discrete elastic rods. This has provided Disney artists the flexibility to manipulate hair in hyper-realistic ways to create the strong silhouettes required for character animation and has enabled a wide range of complex hairstyles in animated feature films.",
+    "Citation": "To KELLY WARD HAMMEL, ALEKA McADAMS, TOBY JONES, MARYANN SIMMONS and ANDY MILNE for the Walt Disney Animation Studios Hair Simulation System."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Niall Ryan|Christoph Sprenger|Gilles Daviet",
+    "NomineeIds": "nm2915743|nm1587248|nm5523902",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Synapse Hair Simulation System is a robust, predictable and highly scalable position-based dynamics system with a novel inverse parameter solver. It has helped Weta Digital artists create a wide range of photorealistic digital characters and digital stunt doubles.",
+    "Citation": "To NIALL RYAN, CHRISTOPH SPRENGER and GILLES DAVIET for the Synapse Hair Simulation System."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jens-Jørn Stokholm|Ole Moesmann",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The DPA 4061 and 4071 lavalier microphones exemplify creative design, precise manufacture and meticulous quality control, resulting in consistent performance and exceptional on-set motion picture audio recording.",
+    "Citation": "To JENS-JØRN STOKHOLM and OLE MOESMANN for their innovative development of miniature high-performance DPA lavalier microphones."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Chris Countryman|Omer T. Inan",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Originated by company founder Carl Countryman (1946-2006), these meticulously crafted subminiature microphones are easily concealed. Their spectral response-shaping filters, cable mounting and capsule design contribute to their wide adoption by motion picture production sound mixers.",
+    "Citation": "To CHRIS COUNTRYMAN and OMER T. INAN for their engineering of the subminiature high-performance Countryman Associates lavalier microphones."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fredrik Limsäter|Björn Rydahl|Mattias Lagergren",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "An extensible, efficient and intuitive post-production tracking software system, ftrack Studio has enabled small and large studios alike to efficiently schedule and manage complex digital motion picture animation and visual effects.",
+    "Citation": "To FREDRIK LIMSÄTER, BJÖRN RYDAHL and MATTIAS LAGERGREN for the design, architecture and engineering of ftrack Studio."
+  },
+  {
+    "Ceremony": 92,
+    "Year": 2019,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Don Parker|Matt Daw|Isaac Reuben|Colin Withers|Neil Brandt",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "An extensible, web-based, flexible and scalable system, Shotgun has enabled the efficient management of highly complex visual effects and animation post-production workflows. By facilitating deep integration into a wide variety of facility pipelines, Shotgun has successfully productized the tracking of complex production data on large-scale motion pictures.",
+    "Citation": "To DON PARKER for the product vision and design, MATT DAW for the core architecture, and ISAAC REUBEN, COLIN WITHERS and NEIL BRANDT for the foundational engineering, of the Autodesk Shotgun post-production tracking system."
+  }
 ]

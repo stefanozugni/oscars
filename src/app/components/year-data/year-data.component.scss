@@ -38,6 +38,28 @@
                 font-size: 1.2rem;
                 text-align: center;
 
+                .winner-divider-top {
+                    border: none;
+                    border-top: 1px solid var(--title);
+                    margin: 0.8rem auto 0.4rem auto;
+                    width: 7rem;
+                    opacity: 0.8;
+                }
+
+                .winner-divider-bottom {
+                    border: none;
+                    border-top: 1px solid var(--title);
+                    margin: 0.4rem auto 0.8rem auto;
+                    width: 7rem;
+                    opacity: 0.8;
+                }
+
+                .winner {
+                    color: var(--title);
+                    margin-top: 0.3rem;
+                    font-size: 1.3rem;
+                }
+
                 >span {
                     display: flex;
                     flex-direction: column;
@@ -85,7 +107,20 @@
                 }
 
                 .category-movies {
-                    >span {}
+                    .winner-divider-top {
+                        margin: 1.2rem auto 0.6rem auto;
+                        width: 7rem;
+                    }
+
+                    .winner-divider-bottom {
+                        margin: 0.6rem auto 1.2rem auto;
+                        width: 7rem;
+                    }
+
+                    .winner {
+                        margin-top: 0.4rem;
+                        font-size: 1.6rem;
+                    }
 
                     .imdb-link {
                         padding: 0.5rem 1rem;
@@ -127,7 +162,15 @@
                     font-size: 1rem;
                     padding: 0 1rem;
 
-                    >span {}
+                    .winner-divider-top {
+                        margin: 0.6rem auto 0.3rem auto;
+                        width: 8rem;
+                    }
+
+                    .winner-divider-bottom {
+                        margin: 0.3rem auto 0.6rem auto;
+                        width: 8rem;
+                    }
                 }
 
                 // Best Picture responsive
@@ -140,6 +183,16 @@
                     }
 
                     .category-movies {
+                        .winner-divider-top {
+                            margin: 1rem auto 0.5rem auto;
+                            width: 8rem;
+                        }
+
+                        .winner-divider-bottom {
+                            margin: 0.5rem auto 1rem auto;
+                            width: 8rem;
+                        }
+
                         .imdb-link {
                             padding: 0.4rem 0.8rem;
 
@@ -173,6 +226,16 @@
                 .category-movies {
                     font-size: 0.9rem;
 
+                    .winner-divider-top {
+                        margin: 0.4rem auto 0.2rem auto;
+                        width: 7rem;
+                    }
+
+                    .winner-divider-bottom {
+                        margin: 0.2rem auto 0.4rem auto;
+                        width: 7rem;
+                    }
+
                     >span {
                         margin-bottom: 0.3rem;
                     }
@@ -193,6 +256,17 @@
                     }
 
                     .category-movies {
+
+                        .winner-divider-top {
+                            margin: 0.8rem auto 0.4rem auto;
+                            width: 7rem;
+                        }
+
+                        .winner-divider-bottom {
+                            margin: 0.4rem auto 0.8rem auto;
+                            width: 7rem;
+                        }
+
                         .imdb-link {
                             padding: 0.3rem 0.6rem;
 

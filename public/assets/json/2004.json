@@ -1,1720 +1,2066 @@
 [
   {
-    "category": "Best Picture",
-    "year": "2004",
-    "nominees": [
-      "Million Dollar Baby"
-    ],
-    "movies": [
-      {
-        "title": "Million Dollar Baby",
-        "tmdb_id": 70,
-        "imdb_id": "tt0405159"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "2004",
-    "nominees": [
-      "The Aviator"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2004",
-    "nominees": [
-      "Finding Neverland"
-    ],
-    "movies": [
-      {
-        "title": "Finding Neverland",
-        "tmdb_id": 866,
-        "imdb_id": "tt0308644"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2004",
-    "nominees": [
-      "Ray"
-    ],
-    "movies": [
-      {
-        "title": "Ray",
-        "tmdb_id": 1677,
-        "imdb_id": "tt0350258"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2004",
-    "nominees": [
-      "Sideways"
-    ],
-    "movies": [
-      {
-        "title": "Sideways",
-        "tmdb_id": 9675,
-        "imdb_id": "tt0375063"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2004",
-    "nominees": [
-      "Jamie Foxx"
-    ],
-    "movies": [
-      {
-        "title": "Ray",
-        "tmdb_id": 1677,
-        "imdb_id": "tt0350258"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "2004",
-    "nominees": [
-      "Don Cheadle"
-    ],
-    "movies": [
-      {
-        "title": "Hotel Rwanda",
-        "tmdb_id": 205,
-        "imdb_id": "tt0395169"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2004",
-    "nominees": [
-      "Johnny Depp"
-    ],
-    "movies": [
-      {
-        "title": "Finding Neverland",
-        "tmdb_id": 866,
-        "imdb_id": "tt0308644"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2004",
-    "nominees": [
-      "Leonardo DiCaprio"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2004",
-    "nominees": [
-      "Clint Eastwood"
-    ],
-    "movies": [
-      {
-        "title": "Million Dollar Baby",
-        "tmdb_id": 70,
-        "imdb_id": "tt0405159"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2004",
-    "nominees": [
-      "Hilary Swank"
-    ],
-    "movies": [
-      {
-        "title": "Million Dollar Baby",
-        "tmdb_id": 70,
-        "imdb_id": "tt0405159"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "2004",
-    "nominees": [
-      "Annette Bening"
-    ],
-    "movies": [
-      {
-        "title": "Being Julia",
-        "tmdb_id": 18701,
-        "imdb_id": "tt0340012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2004",
-    "nominees": [
-      "Catalina Sandino Moreno"
-    ],
-    "movies": [
-      {
-        "title": "Maria Full of Grace",
-        "tmdb_id": 436,
-        "imdb_id": "tt0390221"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2004",
-    "nominees": [
-      "Imelda Staunton"
-    ],
-    "movies": [
-      {
-        "title": "Vera Drake",
-        "tmdb_id": 11109,
-        "imdb_id": "tt0383694"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2004",
-    "nominees": [
-      "Kate Winslet"
-    ],
-    "movies": [
-      {
-        "title": "Eternal Sunshine of the Spotless Mind",
-        "tmdb_id": 38,
-        "imdb_id": "tt0338013"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2004",
-    "nominees": [
-      "Morgan Freeman"
-    ],
-    "movies": [
-      {
-        "title": "Million Dollar Baby",
-        "tmdb_id": 70,
-        "imdb_id": "tt0405159"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2004",
-    "nominees": [
-      "Alan Alda"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2004",
-    "nominees": [
-      "Thomas Haden Church"
-    ],
-    "movies": [
-      {
-        "title": "Sideways",
-        "tmdb_id": 9675,
-        "imdb_id": "tt0375063"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2004",
-    "nominees": [
-      "Jamie Foxx"
-    ],
-    "movies": [
-      {
-        "title": "Collateral",
-        "tmdb_id": 1538,
-        "imdb_id": "tt0369339"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2004",
-    "nominees": [
-      "Clive Owen"
-    ],
-    "movies": [
-      {
-        "title": "Closer",
-        "tmdb_id": 2288,
-        "imdb_id": "tt0376541"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2004",
-    "nominees": [
-      "Cate Blanchett"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2004",
-    "nominees": [
-      "Laura Linney"
-    ],
-    "movies": [
-      {
-        "title": "Kinsey",
-        "tmdb_id": 11184,
-        "imdb_id": "tt0362269"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2004",
-    "nominees": [
-      "Virginia Madsen"
-    ],
-    "movies": [
-      {
-        "title": "Sideways",
-        "tmdb_id": 9675,
-        "imdb_id": "tt0375063"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2004",
-    "nominees": [
-      "Sophie Okonedo"
-    ],
-    "movies": [
-      {
-        "title": "Hotel Rwanda",
-        "tmdb_id": 205,
-        "imdb_id": "tt0395169"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2004",
-    "nominees": [
-      "Natalie Portman"
-    ],
-    "movies": [
-      {
-        "title": "Closer",
-        "tmdb_id": 2288,
-        "imdb_id": "tt0376541"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2004",
-    "nominees": [
-      "Clint Eastwood"
-    ],
-    "movies": [
-      {
-        "title": "Million Dollar Baby",
-        "tmdb_id": 70,
-        "imdb_id": "tt0405159"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "2004",
-    "nominees": [
-      "Taylor Hackford"
-    ],
-    "movies": [
-      {
-        "title": "Ray",
-        "tmdb_id": 1677,
-        "imdb_id": "tt0350258"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2004",
-    "nominees": [
-      "Mike Leigh"
-    ],
-    "movies": [
-      {
-        "title": "Vera Drake",
-        "tmdb_id": 11109,
-        "imdb_id": "tt0383694"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2004",
-    "nominees": [
-      "Alexander Payne"
-    ],
-    "movies": [
-      {
-        "title": "Sideways",
-        "tmdb_id": 9675,
-        "imdb_id": "tt0375063"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2004",
-    "nominees": [
-      "Martin Scorsese"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2004",
-    "nominees": [
-      "Alexander Payne",
-      "Jim Taylor"
-    ],
-    "movies": [
-      {
-        "title": "Sideways",
-        "tmdb_id": 9675,
-        "imdb_id": "tt0375063"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2004",
-    "nominees": [
-      "Paul Haggis"
-    ],
-    "movies": [
-      {
-        "title": "Million Dollar Baby",
-        "tmdb_id": 70,
-        "imdb_id": "tt0405159"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2004",
-    "nominees": [
-      "David Magee"
-    ],
-    "movies": [
-      {
-        "title": "Finding Neverland",
-        "tmdb_id": 866,
-        "imdb_id": "tt0308644"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2004",
-    "nominees": [
-      "Jose Rivera"
-    ],
-    "movies": [
-      {
-        "title": "The Motorcycle Diaries",
-        "tmdb_id": 1653,
-        "imdb_id": "tt0318462"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2004",
-    "nominees": [
-      "Ethan Hawke",
-      "Richard Linklater",
-      "Kim Krizan",
-      "Julie Delpy"
-    ],
-    "movies": [
-      {
-        "title": "Before Sunset",
-        "tmdb_id": 80,
-        "imdb_id": "tt0381681"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2004",
-    "nominees": [
-      "Pierre Bismuth",
-      "Michel Gondry",
-      "Charlie Kaufman"
-    ],
-    "movies": [
-      {
-        "title": "Eternal Sunshine of the Spotless Mind",
-        "tmdb_id": 38,
-        "imdb_id": "tt0338013"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2004",
-    "nominees": [
-      "John Logan"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2004",
-    "nominees": [
-      "Terry George",
-      "Keir Pearson"
-    ],
-    "movies": [
-      {
-        "title": "Hotel Rwanda",
-        "tmdb_id": 205,
-        "imdb_id": "tt0395169"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2004",
-    "nominees": [
-      "Brad Bird"
-    ],
-    "movies": [
-      {
-        "title": "The Incredibles",
-        "tmdb_id": 9806,
-        "imdb_id": "tt0317705"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2004",
-    "nominees": [
-      "Mike Leigh"
-    ],
-    "movies": [
-      {
-        "title": "Vera Drake",
-        "tmdb_id": 11109,
-        "imdb_id": "tt0383694"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2004",
-    "nominees": [
-      "Jan A. P. Kaczmarek"
-    ],
-    "movies": [
-      {
-        "title": "Finding Neverland",
-        "tmdb_id": 866,
-        "imdb_id": "tt0308644"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "2004",
-    "nominees": [
-      "James Newton Howard"
-    ],
-    "movies": [
-      {
-        "title": "The Village",
-        "tmdb_id": 6947,
-        "imdb_id": "tt0368447"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2004",
-    "nominees": [
-      "John Debney"
-    ],
-    "movies": [
-      {
-        "title": "The Passion of the Christ",
-        "tmdb_id": 615,
-        "imdb_id": "tt0335345"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2004",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Harry Potter and the Prisoner of Azkaban",
-        "tmdb_id": 673,
-        "imdb_id": "tt0304141"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2004",
-    "nominees": [
-      "Thomas Newman"
-    ],
-    "movies": [
-      {
-        "title": "Lemony Snicket's A Series of Unfortunate Events",
-        "tmdb_id": 11774,
-        "imdb_id": "tt0339291"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2004",
-    "nominees": [
-      "Al otro lado del rio"
-    ],
-    "movies": [
-      {
-        "title": "The Motorcycle Diaries",
-        "tmdb_id": 1653,
-        "imdb_id": "tt0318462"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2004",
-    "nominees": [
-      "Learn to Be Lonely"
-    ],
-    "movies": [
-      {
-        "title": "The Phantom of the Opera",
-        "tmdb_id": 9833,
-        "imdb_id": "tt0293508"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2004",
-    "nominees": [
-      "Believe"
-    ],
-    "movies": [
-      {
-        "title": "The Polar Express",
-        "tmdb_id": 5255,
-        "imdb_id": "tt0338348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2004",
-    "nominees": [
-      "Look to Your Path"
-    ],
-    "movies": [
-      {
-        "title": "The Chorus",
-        "tmdb_id": 5528,
-        "imdb_id": "tt0372824"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2004",
-    "nominees": [
-      "Accidentally in Love"
-    ],
-    "movies": [
-      {
-        "title": "Shrek 2",
-        "tmdb_id": 809,
-        "imdb_id": "tt0298148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2004",
-    "nominees": [
-      "The Sea Inside"
-    ],
-    "movies": [
-      {
-        "title": "The Sea Inside",
-        "tmdb_id": 1913,
-        "imdb_id": "tt0369702"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2004",
-    "nominees": [
-      "As It Is in Heaven"
-    ],
-    "movies": [
-      {
-        "title": "As It Is in Heaven",
-        "tmdb_id": 464,
-        "imdb_id": "tt0382330"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2004",
-    "nominees": [
-      "The Chorus"
-    ],
-    "movies": [
-      {
-        "title": "The Chorus",
-        "tmdb_id": 5528,
-        "imdb_id": "tt0372824"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2004",
-    "nominees": [
-      "Downfall"
-    ],
-    "movies": [
-      {
-        "title": "Downfall",
-        "tmdb_id": 613,
-        "imdb_id": "tt0363163"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2004",
-    "nominees": [
-      "Yesterday"
-    ],
-    "movies": [
-      {
-        "title": "Yesterday",
-        "tmdb_id": 6934,
-        "imdb_id": "tt0419279"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2004",
-    "nominees": [
-      "Born Into Brothels: Calcutta's Red Light Kids"
-    ],
-    "movies": [
-      {
-        "title": "Born Into Brothels: Calcutta's Red Light Kids",
-        "tmdb_id": 1392,
-        "imdb_id": "tt0388789"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2004",
-    "nominees": [
-      "The Story of the Weeping Camel"
-    ],
-    "movies": [
-      {
-        "title": "The Story of the Weeping Camel",
-        "tmdb_id": 1114,
-        "imdb_id": "tt0373861"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2004",
-    "nominees": [
-      "Super Size Me"
-    ],
-    "movies": [
-      {
-        "title": "Super Size Me",
-        "tmdb_id": 9372,
-        "imdb_id": "tt0390521"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2004",
-    "nominees": [
-      "Tupac: Resurrection"
-    ],
-    "movies": [
-      {
-        "title": "Tupac: Resurrection",
-        "tmdb_id": 21525,
-        "imdb_id": "tt0343121"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2004",
-    "nominees": [
-      "Twist of Faith"
-    ],
-    "movies": [
-      {
-        "title": "Twist of Faith",
-        "tmdb_id": 34581,
-        "imdb_id": "tt0436857"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2004",
-    "nominees": [
-      "Mighty Times: The Children's March"
-    ],
-    "movies": [
-      {
-        "title": "Mighty Times: The Children's March",
-        "tmdb_id": 245005,
-        "imdb_id": "tt0443587"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2004",
-    "nominees": [
-      "Autism Is a World"
-    ],
-    "movies": [
-      {
-        "title": "Autism Is a World",
-        "tmdb_id": 245006,
-        "imdb_id": "tt0443434"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2004",
-    "nominees": [
-      "The Children of Leningradsky"
-    ],
-    "movies": [
-      {
-        "title": "The Children of Leningradsky",
-        "tmdb_id": 73856,
-        "imdb_id": "tt0442947"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2004",
-    "nominees": [
-      "Hardwood"
-    ],
-    "movies": [
-      {
-        "title": "Hardwood",
-        "tmdb_id": 245008,
-        "imdb_id": "tt0443531"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2004",
-    "nominees": [
-      "Sister Rose's Passion"
-    ],
-    "movies": [
-      {
-        "title": "Sister Rose's Passion",
-        "tmdb_id": 245009,
-        "imdb_id": "tt0420195"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2004",
-    "nominees": [
-      "The Incredibles"
-    ],
-    "movies": [
-      {
-        "title": "The Incredibles",
-        "tmdb_id": 9806,
-        "imdb_id": "tt0317705"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2004",
-    "nominees": [
-      "Shark Tale"
-    ],
-    "movies": [
-      {
-        "title": "Shark Tale",
-        "tmdb_id": 10555,
-        "imdb_id": "tt0307453"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2004",
-    "nominees": [
-      "Shrek 2"
-    ],
-    "movies": [
-      {
-        "title": "Shrek 2",
-        "tmdb_id": 809,
-        "imdb_id": "tt0298148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2004",
-    "nominees": [
-      "Ryan"
-    ],
-    "movies": [
-      {
-        "title": "Ryan",
-        "tmdb_id": 48329,
-        "imdb_id": "tt0414469"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2004",
-    "nominees": [
-      "Birthday Boy"
-    ],
-    "movies": [
-      {
-        "title": "Birthday Boy",
-        "tmdb_id": 48606,
-        "imdb_id": "tt0435933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2004",
-    "nominees": [
-      "Gopher Broke"
-    ],
-    "movies": [
-      {
-        "title": "Gopher Broke",
-        "tmdb_id": 25223,
-        "imdb_id": "tt0438064"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2004",
-    "nominees": [
-      "Guard Dog"
-    ],
-    "movies": [
-      {
-        "title": "Guard Dog",
-        "tmdb_id": 48331,
-        "imdb_id": "tt0430159"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2004",
-    "nominees": [
-      "Lorenzo"
-    ],
-    "movies": [
-      {
-        "title": "Lorenzo",
-        "tmdb_id": 245003,
-        "imdb_id": "tt0412936"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2004",
-    "nominees": [
-      "Wasp"
-    ],
-    "movies": [
-      {
-        "title": "Wasp",
-        "tmdb_id": 44472,
-        "imdb_id": "tt0388534"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2004",
-    "nominees": [
-      "Everything in This Country Must"
-    ],
-    "movies": [
-      {
-        "title": "Everything in This Country Must",
-        "tmdb_id": 245004,
-        "imdb_id": "tt0443499"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2004",
-    "nominees": [
-      "Little Terrorist"
-    ],
-    "movies": [
-      {
-        "title": "Little Terrorist",
-        "tmdb_id": 72079,
-        "imdb_id": "tt0425200"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2004",
-    "nominees": [
-      "7:35 in the Morning"
-    ],
-    "movies": [
-      {
-        "title": "7:35 in the Morning",
-        "tmdb_id": 152611,
-        "imdb_id": "tt0406501"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2004",
-    "nominees": [
-      "Two Cars, One Night"
-    ],
-    "movies": [
-      {
-        "title": "Two Cars, One Night",
-        "tmdb_id": 51896,
-        "imdb_id": "tt0390579"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Dante Ferretti",
-      "Francesca Lo Schiavo"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Aline Bonetto"
-    ],
-    "movies": [
-      {
-        "title": "A Very Long Engagement",
-        "tmdb_id": 2841,
-        "imdb_id": "tt0344510"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Anthony Pratt",
-      "Celia Bobak"
-    ],
-    "movies": [
-      {
-        "title": "The Phantom of the Opera",
-        "tmdb_id": 9833,
-        "imdb_id": "tt0293508"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Gemma Jackson",
-      "Trisha Edwards"
-    ],
-    "movies": [
-      {
-        "title": "Finding Neverland",
-        "tmdb_id": 866,
-        "imdb_id": "tt0308644"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Rick Heinrichs",
-      "Cheryl Carasik"
-    ],
-    "movies": [
-      {
-        "title": "Lemony Snicket's A Series of Unfortunate Events",
-        "tmdb_id": 11774,
-        "imdb_id": "tt0339291"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2004",
-    "nominees": [
-      "Robert Richardson"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2004",
-    "nominees": [
-      "Bruno Delbonnel"
-    ],
-    "movies": [
-      {
-        "title": "A Very Long Engagement",
-        "tmdb_id": 2841,
-        "imdb_id": "tt0344510"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2004",
-    "nominees": [
-      "Caleb Deschanel"
-    ],
-    "movies": [
-      {
-        "title": "The Passion of the Christ",
-        "tmdb_id": 615,
-        "imdb_id": "tt0335345"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2004",
-    "nominees": [
-      "John Mathieson"
-    ],
-    "movies": [
-      {
-        "title": "The Phantom of the Opera",
-        "tmdb_id": 9833,
-        "imdb_id": "tt0293508"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2004",
-    "nominees": [
-      "Zhao Xiaoding"
-    ],
-    "movies": [
-      {
-        "title": "House of Flying Daggers",
-        "tmdb_id": 9550,
-        "imdb_id": "tt0385004"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2004",
-    "nominees": [
-      "Thelma Schoonmaker"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2004",
-    "nominees": [
-      "Jim Miller",
-      "Paul Rubell"
-    ],
-    "movies": [
-      {
-        "title": "Collateral",
-        "tmdb_id": 1538,
-        "imdb_id": "tt0369339"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2004",
-    "nominees": [
-      "Joel Cox"
-    ],
-    "movies": [
-      {
-        "title": "Million Dollar Baby",
-        "tmdb_id": 70,
-        "imdb_id": "tt0405159"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2004",
-    "nominees": [
-      "Matt Chesse"
-    ],
-    "movies": [
-      {
-        "title": "Finding Neverland",
-        "tmdb_id": 866,
-        "imdb_id": "tt0308644"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2004",
-    "nominees": [
-      "Paul Hirsch"
-    ],
-    "movies": [
-      {
-        "title": "Ray",
-        "tmdb_id": 1677,
-        "imdb_id": "tt0350258"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2004",
-    "nominees": [
-      "John Dykstra",
-      "Scott Stokdyk",
-      "Anthony LaMolinara",
-      "John Frazier"
-    ],
-    "movies": [
-      {
-        "title": "Spider-Man 2",
-        "tmdb_id": 558,
-        "imdb_id": "tt0316654"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2004",
-    "nominees": [
-      "John Nelson",
-      "Andrew R. Jones",
-      "Erik Nash",
-      "Joe Letteri"
-    ],
-    "movies": [
-      {
-        "title": "I, Robot",
-        "tmdb_id": 2048,
-        "imdb_id": "tt0343818"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2004",
-    "nominees": [
-      "Roger Guyett",
-      "Tim Burke",
-      "John Richardson",
-      "William George"
-    ],
-    "movies": [
-      {
-        "title": "Harry Potter and the Prisoner of Azkaban",
-        "tmdb_id": 673,
-        "imdb_id": "tt0304141"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2004",
-    "nominees": [
-      "Scott Millan",
-      "Greg Orloff",
-      "Bob Beemer",
-      "Steve Cantamessa"
-    ],
-    "movies": [
-      {
-        "title": "Ray",
-        "tmdb_id": 1677,
-        "imdb_id": "tt0350258"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2004",
-    "nominees": [
-      "Tom Fleischman",
-      "Petur Liddel"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2004",
-    "nominees": [
-      "Randy Thom",
-      "Gary Rizzo",
-      "Doc Kane"
-    ],
-    "movies": [
-      {
-        "title": "The Incredibles",
-        "tmdb_id": 9806,
-        "imdb_id": "tt0317705"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2004",
-    "nominees": [
-      "Randy Thom",
-      "Tom Johnson",
-      "Dennis S. Sands",
-      "William B. Kaplan"
-    ],
-    "movies": [
-      {
-        "title": "The Polar Express",
-        "tmdb_id": 5255,
-        "imdb_id": "tt0338348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2004",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Jeffrey J. Haboush",
-      "Joseph Geisinger"
-    ],
-    "movies": [
-      {
-        "title": "Spider-Man 2",
-        "tmdb_id": 558,
-        "imdb_id": "tt0316654"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2004",
-    "nominees": [
-      "Michael SIlvers",
-      "Randy Thom"
-    ],
-    "movies": [
-      {
-        "title": "The Incredibles",
-        "tmdb_id": 9806,
-        "imdb_id": "tt0317705"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2004",
-    "nominees": [
-      "Randy Thom",
-      "Dennis Leonard"
-    ],
-    "movies": [
-      {
-        "title": "The Polar Express",
-        "tmdb_id": 5255,
-        "imdb_id": "tt0338348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2004",
-    "nominees": [
-      "Paul N. J. Ottosson"
-    ],
-    "movies": [
-      {
-        "title": "Spider-Man 2",
-        "tmdb_id": 558,
-        "imdb_id": "tt0316654"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2004",
-    "nominees": [
-      "Valli O'Reilly",
-      "Bill Corso"
-    ],
-    "movies": [
-      {
-        "title": "Lemony Snicket's A Series of Unfortunate Events",
-        "tmdb_id": 11774,
-        "imdb_id": "tt0339291"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2004",
-    "nominees": [
-      "Keith Vanderlaan",
-      "Christien Tinsley"
-    ],
-    "movies": [
-      {
-        "title": "The Passion of the Christ",
-        "tmdb_id": 615,
-        "imdb_id": "tt0335345"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2004",
-    "nominees": [
-      "Jo Allen",
-      "Manolo Garcia"
-    ],
-    "movies": [
-      {
-        "title": "The Sea Inside",
-        "tmdb_id": 1913,
-        "imdb_id": "tt0369702"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Sandy Powell"
-    ],
-    "movies": [
-      {
-        "title": "The Aviator",
-        "tmdb_id": 2567,
-        "imdb_id": "tt0338751"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Alexandra Byrne"
-    ],
-    "movies": [
-      {
-        "title": "Finding Neverland",
-        "tmdb_id": 866,
-        "imdb_id": "tt0308644"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Bob Ringwood"
-    ],
-    "movies": [
-      {
-        "title": "Troy",
-        "tmdb_id": 652,
-        "imdb_id": "tt0332452"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Colleen Atwood"
-    ],
-    "movies": [
-      {
-        "title": "Lemony Snicket's A Series of Unfortunate Events",
-        "tmdb_id": 11774,
-        "imdb_id": "tt0339291"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2004",
-    "nominees": [
-      "Sharen Davis"
-    ],
-    "movies": [
-      {
-        "title": "Ray",
-        "tmdb_id": 1677,
-        "imdb_id": "tt0350258"
-      }
-    ],
-    "won": false
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Hotel Rwanda",
+    "FilmId": "tt0395169",
+    "Name": "Don Cheadle",
+    "Nominees": "Don Cheadle",
+    "NomineeIds": "nm0000332",
+    "Winner": "",
+    "Detail": "Paul Rusesabagina",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Finding Neverland",
+    "FilmId": "tt0308644",
+    "Name": "Johnny Depp",
+    "Nominees": "Johnny Depp",
+    "NomineeIds": "nm0000136",
+    "Winner": "",
+    "Detail": "Sir James Matthew Barrie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Leonardo DiCaprio",
+    "Nominees": "Leonardo DiCaprio",
+    "NomineeIds": "nm0000138",
+    "Winner": "",
+    "Detail": "Howard Hughes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Million Dollar Baby",
+    "FilmId": "tt0405159",
+    "Name": "Clint Eastwood",
+    "Nominees": "Clint Eastwood",
+    "NomineeIds": "nm0000142",
+    "Winner": "",
+    "Detail": "Frankie Dunn",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Ray",
+    "FilmId": "tt0350258",
+    "Name": "Jamie Foxx",
+    "Nominees": "Jamie Foxx",
+    "NomineeIds": "nm0004937",
+    "Winner": "True",
+    "Detail": "Ray Charles",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Alan Alda",
+    "Nominees": "Alan Alda",
+    "NomineeIds": "nm0000257",
+    "Winner": "",
+    "Detail": "Senator Ralph Owen Brewster",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Sideways",
+    "FilmId": "tt0375063",
+    "Name": "Thomas Haden Church",
+    "Nominees": "Thomas Haden Church",
+    "NomineeIds": "nm0002006",
+    "Winner": "",
+    "Detail": "Jack",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Collateral",
+    "FilmId": "tt0369339",
+    "Name": "Jamie Foxx",
+    "Nominees": "Jamie Foxx",
+    "NomineeIds": "nm0004937",
+    "Winner": "",
+    "Detail": "Max",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Million Dollar Baby",
+    "FilmId": "tt0405159",
+    "Name": "Morgan Freeman",
+    "Nominees": "Morgan Freeman",
+    "NomineeIds": "nm0000151",
+    "Winner": "True",
+    "Detail": "Eddie Scrap-Iron Dupris",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Closer",
+    "FilmId": "tt0376541",
+    "Name": "Clive Owen",
+    "Nominees": "Clive Owen",
+    "NomineeIds": "nm0654110",
+    "Winner": "",
+    "Detail": "Larry",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Being Julia",
+    "FilmId": "tt0340012",
+    "Name": "Annette Bening",
+    "Nominees": "Annette Bening",
+    "NomineeIds": "nm0000906",
+    "Winner": "",
+    "Detail": "Julia Lambert",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Maria Full of Grace",
+    "FilmId": "tt0390221",
+    "Name": "Catalina Sandino Moreno",
+    "Nominees": "Catalina Sandino Moreno",
+    "NomineeIds": "nm1503432",
+    "Winner": "",
+    "Detail": "Maria",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Vera Drake",
+    "FilmId": "tt0383694",
+    "Name": "Imelda Staunton",
+    "Nominees": "Imelda Staunton",
+    "NomineeIds": "nm0001767",
+    "Winner": "",
+    "Detail": "Vera",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Million Dollar Baby",
+    "FilmId": "tt0405159",
+    "Name": "Hilary Swank",
+    "Nominees": "Hilary Swank",
+    "NomineeIds": "nm0005476",
+    "Winner": "True",
+    "Detail": "Maggie Fitzgerald",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Eternal Sunshine of the Spotless Mind",
+    "FilmId": "tt0338013",
+    "Name": "Kate Winslet",
+    "Nominees": "Kate Winslet",
+    "NomineeIds": "nm0000701",
+    "Winner": "",
+    "Detail": "Clementine Kruczynski",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Cate Blanchett",
+    "Nominees": "Cate Blanchett",
+    "NomineeIds": "nm0000949",
+    "Winner": "True",
+    "Detail": "Katharine Hepburn",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Kinsey",
+    "FilmId": "tt0362269",
+    "Name": "Laura Linney",
+    "Nominees": "Laura Linney",
+    "NomineeIds": "nm0001473",
+    "Winner": "",
+    "Detail": "Clara McMillen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Sideways",
+    "FilmId": "tt0375063",
+    "Name": "Virginia Madsen",
+    "Nominees": "Virginia Madsen",
+    "NomineeIds": "nm0000515",
+    "Winner": "",
+    "Detail": "Maya",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Hotel Rwanda",
+    "FilmId": "tt0395169",
+    "Name": "Sophie Okonedo",
+    "Nominees": "Sophie Okonedo",
+    "NomineeIds": "nm0645683",
+    "Winner": "",
+    "Detail": "Tatiana Rusesabagina",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Closer",
+    "FilmId": "tt0376541",
+    "Name": "Natalie Portman",
+    "Nominees": "Natalie Portman",
+    "NomineeIds": "nm0000204",
+    "Winner": "",
+    "Detail": "Alice",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Incredibles",
+    "FilmId": "tt0317705",
+    "Name": "Brad Bird",
+    "Nominees": "Brad Bird",
+    "NomineeIds": "nm0083348",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Shark Tale",
+    "FilmId": "tt0307453",
+    "Name": "Bill Damaschke",
+    "Nominees": "Bill Damaschke",
+    "NomineeIds": "nm0198632",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Shrek 2",
+    "FilmId": "tt0298148",
+    "Name": "Andrew Adamson",
+    "Nominees": "Andrew Adamson",
+    "NomineeIds": "nm0011470",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+    "Nominees": "Dante Ferretti|Francesca Lo Schiavo",
+    "NomineeIds": "nm0274721|nm0521302",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Finding Neverland",
+    "FilmId": "tt0308644",
+    "Name": "Art Direction: Gemma Jackson; Set Decoration: Trisha Edwards",
+    "Nominees": "Gemma Jackson|Trisha Edwards",
+    "NomineeIds": "nm0413541|nm0250423",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Lemony Snicket's A Series of Unfortunate Events",
+    "FilmId": "tt0339291",
+    "Name": "Art Direction: Rick Heinrichs; Set Decoration: Cheryl Carasik",
+    "Nominees": "Rick Heinrichs|Cheryl Carasik",
+    "NomineeIds": "nm0374511|nm0135974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Phantom of the Opera",
+    "FilmId": "tt0293508",
+    "Name": "Art Direction: Anthony Pratt; Set Decoration: Celia Bobak",
+    "Nominees": "Anthony Pratt|Celia Bobak",
+    "NomineeIds": "nm0695421|nm0090278",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "A Very Long Engagement",
+    "FilmId": "tt0344510",
+    "Name": "Art Direction: Aline Bonetto",
+    "Nominees": "Aline Bonetto",
+    "NomineeIds": "nm0094355",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Robert Richardson",
+    "Nominees": "Robert Richardson",
+    "NomineeIds": "nm0724744",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "House of Flying Daggers",
+    "FilmId": "tt0385004",
+    "Name": "Zhao Xiaoding",
+    "Nominees": "Zhao Xiaoding",
+    "NomineeIds": "nm1618536",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Passion of the Christ",
+    "FilmId": "tt0335345",
+    "Name": "Caleb Deschanel",
+    "Nominees": "Caleb Deschanel",
+    "NomineeIds": "nm0221042",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Phantom of the Opera",
+    "FilmId": "tt0293508",
+    "Name": "John Mathieson",
+    "Nominees": "John Mathieson",
+    "NomineeIds": "nm0558822",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "A Very Long Engagement",
+    "FilmId": "tt0344510",
+    "Name": "Bruno Delbonnel",
+    "Nominees": "Bruno Delbonnel",
+    "NomineeIds": "nm0216632",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Finding Neverland",
+    "FilmId": "tt0308644",
+    "Name": "Alexandra Byrne",
+    "Nominees": "Alexandra Byrne",
+    "NomineeIds": "nm0126107",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Lemony Snicket's A Series of Unfortunate Events",
+    "FilmId": "tt0339291",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Ray",
+    "FilmId": "tt0350258",
+    "Name": "Sharen Davis",
+    "Nominees": "Sharen Davis",
+    "NomineeIds": "nm0205446",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Troy",
+    "FilmId": "tt0332452",
+    "Name": "Bob Ringwood",
+    "Nominees": "Bob Ringwood",
+    "NomineeIds": "nm0727674",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Martin Scorsese",
+    "Nominees": "Martin Scorsese",
+    "NomineeIds": "nm0000217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Million Dollar Baby",
+    "FilmId": "tt0405159",
+    "Name": "Clint Eastwood",
+    "Nominees": "Clint Eastwood",
+    "NomineeIds": "nm0000142",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Ray",
+    "FilmId": "tt0350258",
+    "Name": "Taylor Hackford",
+    "Nominees": "Taylor Hackford",
+    "NomineeIds": "nm0000431",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Sideways",
+    "FilmId": "tt0375063",
+    "Name": "Alexander Payne",
+    "Nominees": "Alexander Payne",
+    "NomineeIds": "nm0668247",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Vera Drake",
+    "FilmId": "tt0383694",
+    "Name": "Mike Leigh",
+    "Nominees": "Mike Leigh",
+    "NomineeIds": "nm0005139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Born into Brothels",
+    "FilmId": "tt0388789",
+    "Name": "Ross Kauffman and Zana Briski",
+    "Nominees": "Ross Kauffman|Zana Briski",
+    "NomineeIds": "nm1502104|nm1498640",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Story of the Weeping Camel",
+    "FilmId": "tt0373861",
+    "Name": "Luigi Falorni and Byambasuren Davaa",
+    "Nominees": "Luigi Falorni|Byambasuren Davaa",
+    "NomineeIds": "nm0266510|nm1389025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Super Size Me",
+    "FilmId": "tt0390521",
+    "Name": "Morgan Spurlock",
+    "Nominees": "Morgan Spurlock",
+    "NomineeIds": "nm1041597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Tupac: Resurrection",
+    "FilmId": "tt0343121",
+    "Name": "Lauren Lazin and Karolyn Ali",
+    "Nominees": "Lauren Lazin|Karolyn Ali",
+    "NomineeIds": "nm1020749|nm0019434",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Twist of Faith",
+    "FilmId": "tt0436857",
+    "Name": "Kirby Dick and Eddie Schmidt",
+    "Nominees": "Kirby Dick|Eddie Schmidt",
+    "NomineeIds": "nm0225269|nm0772907",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Autism Is a World",
+    "FilmId": "tt0443434",
+    "Name": "Gerardine Wurzburg",
+    "Nominees": "Gerardine Wurzburg",
+    "NomineeIds": "nm0943458",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Children of Leningradsky",
+    "FilmId": "tt0442947",
+    "Name": "Hanna Polak and Andrzej Celinski",
+    "Nominees": "Hanna Polak|Andrzej Celinski",
+    "NomineeIds": "nm1847721|nm1840845",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Hardwood",
+    "FilmId": "tt0443531",
+    "Name": "Hubert Davis and Erin Faith Young",
+    "Nominees": "Hubert Davis|Erin Faith Young",
+    "NomineeIds": "nm1788269|nm1789508",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Mighty Times: The Children's March",
+    "FilmId": "tt0443587",
+    "Name": "Robert Hudson and Bobby Houston",
+    "Nominees": "Robert Hudson|Bobby Houston",
+    "NomineeIds": "nm2060739|nm0396884",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Sister Rose's Passion",
+    "FilmId": "tt0420195",
+    "Name": "Oren Jacoby and Steve Kalafer",
+    "Nominees": "Oren Jacoby|Steve Kalafer",
+    "NomineeIds": "nm0415007|nm0435470",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Thelma Schoonmaker",
+    "Nominees": "Thelma Schoonmaker",
+    "NomineeIds": "nm0774817",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Collateral",
+    "FilmId": "tt0369339",
+    "Name": "Jim Miller and Paul Rubell",
+    "Nominees": "Jim Miller|Paul Rubell",
+    "NomineeIds": "nm0588607|nm0747824",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Finding Neverland",
+    "FilmId": "tt0308644",
+    "Name": "Matt Chesse",
+    "Nominees": "Matt Chesse",
+    "NomineeIds": "nm0156276",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Million Dollar Baby",
+    "FilmId": "tt0405159",
+    "Name": "Joel Cox",
+    "Nominees": "Joel Cox",
+    "NomineeIds": "nm0185088",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Ray",
+    "FilmId": "tt0350258",
+    "Name": "Paul Hirsch",
+    "Nominees": "Paul Hirsch",
+    "NomineeIds": "nm0386532",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "As It Is in Heaven",
+    "FilmId": "tt0382330",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Chorus (Les Choristes)",
+    "FilmId": "tt0372824",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Downfall",
+    "FilmId": "tt0363163",
+    "Name": "Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Sea Inside",
+    "FilmId": "tt0369702",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Yesterday",
+    "FilmId": "tt0419279",
+    "Name": "South Africa",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Lemony Snicket's A Series of Unfortunate Events",
+    "FilmId": "tt0339291",
+    "Name": "Valli O'Reilly and Bill Corso",
+    "Nominees": "Valli O'Reilly|Bill Corso",
+    "NomineeIds": "nm0642495|nm0181134",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Passion of the Christ",
+    "FilmId": "tt0335345",
+    "Name": "Keith Vanderlaan and Christien Tinsley",
+    "Nominees": "Keith Vanderlaan|Christien Tinsley",
+    "NomineeIds": "nm0888797|nm0864051",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Sea Inside",
+    "FilmId": "tt0369702",
+    "Name": "Jo Allen and Manuel García",
+    "Nominees": "Jo Allen|Manuel García",
+    "NomineeIds": "nm0020657|nm0306323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Finding Neverland",
+    "FilmId": "tt0308644",
+    "Name": "Jan A.P. Kaczmarek",
+    "Nominees": "Jan A.P. Kaczmarek",
+    "NomineeIds": "nm0434222",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Harry Potter and the Prisoner of Azkaban",
+    "FilmId": "tt0304141",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Lemony Snicket's A Series of Unfortunate Events",
+    "FilmId": "tt0339291",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Passion of the Christ",
+    "FilmId": "tt0335345",
+    "Name": "John Debney",
+    "Nominees": "John Debney",
+    "NomineeIds": "nm0002201",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Village",
+    "FilmId": "tt0368447",
+    "Name": "James Newton Howard",
+    "Nominees": "James Newton Howard",
+    "NomineeIds": "nm0006133",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Shrek 2",
+    "FilmId": "tt0298148",
+    "Name": "Music by Adam Duritz, Charles Gillingham, Jim Bogios, David Immergluck, Matthew Malley and David Bryson; Lyric by Adam Duritz and Daniel Vickrey",
+    "Nominees": "Adam Duritz|Charles Gillingham|Jim Bogios|David Immergluck|Matthew Malley|David Bryson|Daniel Vickrey",
+    "NomineeIds": "nm0244154|nm1818644|nm1513374|nm1786071|nm1789666|nm0117450|nm1786108",
+    "Winner": "",
+    "Detail": "Accidentally In Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Motorcycle Diaries",
+    "FilmId": "tt0318462",
+    "Name": "Music and Lyric by Jorge Drexler",
+    "Nominees": "Jorge Drexler",
+    "NomineeIds": "nm0237779",
+    "Winner": "True",
+    "Detail": "Al Otro Lado Del Río",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Polar Express",
+    "FilmId": "tt0338348",
+    "Name": "Music and Lyric by Glen Ballard and Alan Silvestri",
+    "Nominees": "Glen Ballard|Alan Silvestri",
+    "NomineeIds": "nm0004722|nm0006293",
+    "Winner": "",
+    "Detail": "Believe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Phantom of the Opera",
+    "FilmId": "tt0293508",
+    "Name": "Music by Andrew Lloyd Webber; Lyric by Charles Hart",
+    "Nominees": "Andrew Lloyd Webber|Charles Hart",
+    "NomineeIds": "nm0515908|nm1378865",
+    "Winner": "",
+    "Detail": "Learn To Be Lonely",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Chorus (Les Choristes)",
+    "FilmId": "tt0372824",
+    "Name": "Music by Bruno Coulais; Lyric by Christophe Barratier",
+    "Nominees": "Bruno Coulais|Christophe Barratier",
+    "NomineeIds": "nm0006020|nm0056725",
+    "Winner": "",
+    "Detail": "Look To Your Path (Vois Sur Ton Chemin)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Michael Mann and Graham King, Producers",
+    "Nominees": "Michael Mann|Graham King",
+    "NomineeIds": "nm0000520|nm0454752",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Finding Neverland",
+    "FilmId": "tt0308644",
+    "Name": "Richard N. Gladstein and Nellie Bellflower, Producers",
+    "Nominees": "Richard N. Gladstein|Nellie Bellflower",
+    "NomineeIds": "nm0321621|nm0068935",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Million Dollar Baby",
+    "FilmId": "tt0405159",
+    "Name": "Clint Eastwood, Albert S. Ruddy and Tom Rosenberg, Producers",
+    "Nominees": "Clint Eastwood|Albert S. Ruddy|Tom Rosenberg",
+    "NomineeIds": "nm0000142|nm0748665|nm0742347",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Ray",
+    "FilmId": "tt0350258",
+    "Name": "Taylor Hackford, Stuart Benjamin and Howard Baldwin, Producers",
+    "Nominees": "Taylor Hackford|Stuart Benjamin|Howard Baldwin",
+    "NomineeIds": "nm0000431|nm0071363|nm0049920",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Sideways",
+    "FilmId": "tt0375063",
+    "Name": "Michael London, Producer",
+    "Nominees": "Michael London",
+    "NomineeIds": "nm0518757",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Birthday Boy",
+    "FilmId": "tt0435933",
+    "Name": "Sejong Park and Andrew Gregory",
+    "Nominees": "Sejong Park|Andrew Gregory",
+    "NomineeIds": "nm1818097|nm1818359",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Gopher Broke",
+    "FilmId": "tt0438064",
+    "Name": "Jeff Fowler and Tim Miller",
+    "Nominees": "Jeff Fowler|Tim Miller",
+    "NomineeIds": "nm1733778|nm1783265",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Guard Dog",
+    "FilmId": "tt0430159",
+    "Name": "Bill Plympton",
+    "Nominees": "Bill Plympton",
+    "NomineeIds": "nm0687739",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Lorenzo",
+    "FilmId": "tt0412936",
+    "Name": "Mike Gabriel and Baker Bloodworth",
+    "Nominees": "Mike Gabriel|Baker Bloodworth",
+    "NomineeIds": "nm0300265|nm0089118",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Ryan",
+    "FilmId": "tt0414469",
+    "Name": "Chris Landreth",
+    "Nominees": "Chris Landreth",
+    "NomineeIds": "nm0484996",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Everything in This Country Must",
+    "FilmId": "tt0443499",
+    "Name": "Gary McKendry",
+    "Nominees": "Gary McKendry",
+    "NomineeIds": "nm1834213",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Little Terrorist",
+    "FilmId": "tt0425200",
+    "Name": "Ashvin Kumar",
+    "Nominees": "Ashvin Kumar",
+    "NomineeIds": "nm1464392",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "7:35 in the Morning (7:35 de la Mañana)",
+    "FilmId": "tt0406501",
+    "Name": "Nacho Vigalondo",
+    "Nominees": "Nacho Vigalondo",
+    "NomineeIds": "nm1443023",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Two Cars, One Night",
+    "FilmId": "tt0390579",
+    "Name": "Taika Waititi and Ainsley Gardiner",
+    "Nominees": "Taika Waititi|Ainsley Gardiner",
+    "NomineeIds": "nm0169806|nm1189390",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Wasp",
+    "FilmId": "tt0388534",
+    "Name": "Andrea Arnold",
+    "Nominees": "Andrea Arnold",
+    "NomineeIds": "nm0036349",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Incredibles",
+    "FilmId": "tt0317705",
+    "Name": "Michael Silvers and Randy Thom",
+    "Nominees": "Michael Silvers|Randy Thom",
+    "NomineeIds": "nm0799011|nm0858378",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Polar Express",
+    "FilmId": "tt0338348",
+    "Name": "Randy Thom and Dennis Leonard",
+    "Nominees": "Randy Thom|Dennis Leonard",
+    "NomineeIds": "nm0858378|nm0502607",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Spider-Man 2",
+    "FilmId": "tt0316654",
+    "Name": "Paul N.J. Ottosson",
+    "Nominees": "Paul N.J. Ottosson",
+    "NomineeIds": "nm0653338",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Tom Fleischman and Petur Hliddal",
+    "Nominees": "Tom Fleischman|Petur Hliddal",
+    "NomineeIds": "nm0281530|nm0387213",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Incredibles",
+    "FilmId": "tt0317705",
+    "Name": "Randy Thom, Gary A. Rizzo and Doc Kane",
+    "Nominees": "Randy Thom|Gary A. Rizzo|Doc Kane",
+    "NomineeIds": "nm0858378|nm0729886|nm0437301",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Polar Express",
+    "FilmId": "tt0338348",
+    "Name": "Randy Thom, Tom Johnson, Dennis Sands and William B. Kaplan",
+    "Nominees": "Randy Thom|Tom Johnson|Dennis Sands|William B. Kaplan",
+    "NomineeIds": "nm0858378|nm0426348|nm0762304|nm0438202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Ray",
+    "FilmId": "tt0350258",
+    "Name": "Scott Millan, Greg Orloff, Bob Beemer and Steve Cantamessa",
+    "Nominees": "Scott Millan|Greg Orloff|Bob Beemer|Steve Cantamessa",
+    "NomineeIds": "nm0586793|nm0650088|nm0066446|nm0134483",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Spider-Man 2",
+    "FilmId": "tt0316654",
+    "Name": "Kevin O'Connell, Greg P. Russell, Jeffrey J. Haboush and Joseph Geisinger",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Jeffrey J. Haboush|Joseph Geisinger",
+    "NomineeIds": "nm0640114|nm0751169|nm0352300|nm0312032",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Harry Potter and the Prisoner of Azkaban",
+    "FilmId": "tt0304141",
+    "Name": "Roger Guyett, Tim Burke, John Richardson and Bill George",
+    "Nominees": "Roger Guyett|Tim Burke|John Richardson|Bill George",
+    "NomineeIds": "nm0004361|nm0121888|nm0724624|nm0313357",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "I, Robot",
+    "FilmId": "tt0343818",
+    "Name": "John Nelson, Andrew R. Jones, Erik Nash and Joe Letteri",
+    "Nominees": "John Nelson|Andrew R. Jones|Erik Nash|Joe Letteri",
+    "NomineeIds": "nm0625471|nm1002475|nm0621716|nm0504784",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Spider-Man 2",
+    "FilmId": "tt0316654",
+    "Name": "John Dykstra, Scott Stokdyk, Anthony LaMolinara and John Frazier",
+    "Nominees": "John Dykstra|Scott Stokdyk|Anthony LaMolinara|John Frazier",
+    "NomineeIds": "nm0004375|nm0831282|nm0483608|nm0292594",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Before Sunset",
+    "FilmId": "tt0381681",
+    "Name": "Screenplay by Richard Linklater & Julie Delpy & Ethan Hawke; Story by Richard Linklater & Kim Krizan",
+    "Nominees": "Richard Linklater|Julie Delpy|Ethan Hawke|Kim Krizan",
+    "NomineeIds": "nm0000500|nm0000365|nm0000160|nm0471811",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Finding Neverland",
+    "FilmId": "tt0308644",
+    "Name": "Screenplay by David Magee",
+    "Nominees": "David Magee",
+    "NomineeIds": "nm1341735",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Million Dollar Baby",
+    "FilmId": "tt0405159",
+    "Name": "Screenplay by Paul Haggis",
+    "Nominees": "Paul Haggis",
+    "NomineeIds": "nm0353673",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Motorcycle Diaries",
+    "FilmId": "tt0318462",
+    "Name": "Screenplay by José Rivera",
+    "Nominees": "José Rivera",
+    "NomineeIds": "nm1433580",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Sideways",
+    "FilmId": "tt0375063",
+    "Name": "Screenplay by Alexander Payne & Jim Taylor",
+    "Nominees": "Alexander Payne|Jim Taylor",
+    "NomineeIds": "nm0668247|nm0852591",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Aviator",
+    "FilmId": "tt0338751",
+    "Name": "Written by John Logan",
+    "Nominees": "John Logan",
+    "NomineeIds": "nm0517589",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Eternal Sunshine of the Spotless Mind",
+    "FilmId": "tt0338013",
+    "Name": "Screenplay by Charlie Kaufman; Story by Charlie Kaufman & Michel Gondry & Pierre Bismuth",
+    "Nominees": "Charlie Kaufman|Michel Gondry|Pierre Bismuth",
+    "NomineeIds": "nm0442109|nm0327273|nm1410028",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Hotel Rwanda",
+    "FilmId": "tt0395169",
+    "Name": "Written by Keir Pearson & Terry George",
+    "Nominees": "Keir Pearson|Terry George",
+    "NomineeIds": "nm0669311|nm0313623",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Incredibles",
+    "FilmId": "tt0317705",
+    "Name": "Written by Brad Bird",
+    "Nominees": "Brad Bird",
+    "NomineeIds": "nm0083348",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Vera Drake",
+    "FilmId": "tt0383694",
+    "Name": "Written by Mike Leigh",
+    "Nominees": "Mike Leigh",
+    "NomineeIds": "nm0005139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Roger Mayer",
+    "Nominees": "Roger Mayer",
+    "NomineeIds": "nm0562503",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Sidney Lumet",
+    "NomineeIds": "nm0001486",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Sidney Lumet in recognition of his brilliant services to screenwriters, performers and the art of the motion picture."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Takuo Miyagishima",
+    "NomineeIds": "nm1836710",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Takuo Miyagishima"
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Horst Burbulla",
+    "NomineeIds": "nm1836614",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "With its electronically driven leveling head, adjustable moveable weight carriage, and lightweight, extremely precise telescoping beam elements that allow camera movement during shots, the Technocrane has redefined the state-of-the-art in camera crane technology.",
+    "Citation": "To HORST BURBULLA for the invention and continuing development of the Technocrane telescoping camera crane."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jean-Marie Lavalou|Alain Masseron|David Samuelson",
+    "NomineeIds": "nm0491759|nm0557251|nm1038141",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "The Louma pioneered a remotely-operated camera head combined with a lightweight and portable modular crane. Its design has proved to be the inspiration for numerous subsequent remote camera systems.",
+    "Citation": "To JEAN-MARIE LAVALOU, ALAIN MASSERON and DAVID SAMUELSON for the engineering and development of the Louma Camera Crane and remote system for motion picture production."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "GYULA MESTER|KEITH EDWARDS",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "With its electronically driven leveling head, adjustable moveable weight carriage, and lightweight, extremely precise telescoping beam elements that allow camera movement during shots, the Technocrane has redefined the state-of-the-art in camera crane technology.",
+    "Citation": "To GYULA MESTER (electronic systems design) and KEITH EDWARDS (mechanical engineering) for their significant contributions to and continuing development of the Technocrane telescoping camera crane."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Lindsay Arnold|Guy Griffiths|David Hodson|Charlie Lawrence|David Mann",
+    "NomineeIds": "?|nm0341682|nm0388340|?|nm0542716",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Cineon pioneered a commercial node-graph compositing system establishing a new visual method for direct manipulation of the compositing process, which influenced and defined modern digital compositing workflows.",
+    "Citation": "To LINDSAY ARNOLD, GUY GRIFFITHS, DAVID HODSON, CHARLIE LAWRENCE and DAVID MANN for their development of the Cineon Digital Film Workstation."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Greg Cannom|Wesley Wofford",
+    "NomineeIds": "nm0134148|nm0937366",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "This proprietary modified silicone makeup system allows for the creation of either partial or full-face appliances for motion picture makeup effects that move like real flesh, have translucency similar to skin and will accept standard makeup materials.",
+    "Citation": "To GREG CANNOM and WESLEY WOFFORD for the development of their special modified silicone material for makeup appliances used in motion pictures."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jerry Cotts|Anthony Seaman",
+    "NomineeIds": "nm0183196|?",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "With its large radiating surface and thin profile, this collapsible, self-contained HMI softlight provides a diffuse light to simulate daylight in location interiors, where space is often limited.",
+    "Citation": "To JERRY COTTS for the original concept and design and ANTHONY SEAMAN for the engineering of the Satellight-X HMI Softlight."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steven E. Boze",
+    "NomineeIds": "nm1409527",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "Designed in the early 1990s when digital signal processing was in its early stages, the real-time digital approach of the DNF 001 provided accurate filter response with minimal interaction, allowing noise attenuation with fewer artifacts.",
+    "Citation": "To STEVEN E. BOZE for the design and implementation of the DNF 001 multi-band digital audio noise suppressor."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Christopher Hicks|Dave Betts",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "The Cedar DNS 1000 is specifically designed to reduce background noise from recorded motion picture dialog. With its precise filters it allows the frequency ranges to be altered or even cascaded to pinpoint and reduce the offending noise.",
+    "Citation": "To DR. CHRISTOPHER HICKS and DAVE BETTS for the design and implementation of the Cedar DNS 1000 multi-band digital noise suppressor."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nelson Tyler",
+    "NomineeIds": "nm0878874",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "As a pioneer in this area of motion picture technology, Tyler's 2-axis, hydraulically-powered camera mount successfully eliminates the pitch and roll associated with camera shots taken from a boat in the water.",
+    "Citation": "To NELSON TYLER for the development of the Tyler Gyroplatform boat mount stabilizing device for motion picture photography."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Julian Morris|Michael Birch|Dr. Paul Smyth|Paul Tate",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Vicon Motion Systems developed special-purpose cameras for motion capture with software systems that maximized their impact on the motion picture industry.",
+    "Citation": "To DR. JULIAN MORRIS, MICHAEL BIRCH, DR. PAUL SMYTH and PAUL TATE for the development of the Vicon motion capture technology."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. John O.B. Greaves|Ned Phipps|Antonie J. Van Den Bogert|William Hayes",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Motion Analysis Corporation developed special-purpose cameras for motion capture with software systems that maximized their impact on the motion picture industry.",
+    "Citation": "To DR. JOHN O.B. GREAVES, NED PHIPPS, ANTONIE J. VAN DEN BOGERT and WILLIAM HAYES for the development of the Motion Analysis motion capture technology."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Nels Madsen|Vaughn Cato|Matthew Madden|Bill Lorton",
+    "NomineeIds": "?|nm1401781|nm1402798|nm1402761",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The software solution created by Giant Studios applied a unique biometric approach that has influenced the development of motion capture technology for motion pictures.",
+    "Citation": "To DR. NELS MADSEN, VAUGHN CATO, MATTHEW MADDEN and BILL LORTON for the development of the Giant Studios motion capture technology."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Alan Kapler",
+    "NomineeIds": "nm0438411",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "\\\"Storm\\\" employs an efficient method for directly manipulating volumetric data to create effects such as clouds, water and avalanches with familiar operators inspired by image compositing and painting operations.",
+    "Citation": "To ALAN KAPLER for the design and development of \\\"Storm,\\\" a software toolkit for artistic control of volumetric effects."
+  },
+  {
+    "Ceremony": 77,
+    "Year": 2004,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Arthur Widmer",
+    "NomineeIds": "nm2563224",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Arthur Widmer for his lifetime of achievement in the science and technology of image compositing for motion pictures as exemplified by his significant contributions to the development of the Ultra Violet and the \\\"bluescreen\\\" compositing processes."
   }
 ]

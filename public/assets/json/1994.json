@@ -1,1672 +1,2210 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1994",
-    "nominees": [
-      "Forrest Gump"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1994",
-    "nominees": [
-      "Four Weddings and a Funeral"
-    ],
-    "movies": [
-      {
-        "title": "Four Weddings and a Funeral",
-        "tmdb_id": 712,
-        "imdb_id": "tt0109831"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1994",
-    "nominees": [
-      "Pulp Fiction"
-    ],
-    "movies": [
-      {
-        "title": "Pulp Fiction",
-        "tmdb_id": 680,
-        "imdb_id": "tt0110912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1994",
-    "nominees": [
-      "Quiz Show"
-    ],
-    "movies": [
-      {
-        "title": "Quiz Show",
-        "tmdb_id": 11450,
-        "imdb_id": "tt0110932"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1994",
-    "nominees": [
-      "The Shawshank Redemption"
-    ],
-    "movies": [
-      {
-        "title": "The Shawshank Redemption",
-        "tmdb_id": 278,
-        "imdb_id": "tt0111161"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1994",
-    "nominees": [
-      "Tom Hanks"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1994",
-    "nominees": [
-      "Morgan Freeman"
-    ],
-    "movies": [
-      {
-        "title": "The Shawshank Redemption",
-        "tmdb_id": 278,
-        "imdb_id": "tt0111161"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1994",
-    "nominees": [
-      "Nigel Hawthorne"
-    ],
-    "movies": [
-      {
-        "title": "The Madness of King George",
-        "tmdb_id": 11318,
-        "imdb_id": "tt0110428"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1994",
-    "nominees": [
-      "Paul Newman"
-    ],
-    "movies": [
-      {
-        "title": "Nobody's Fool",
-        "tmdb_id": 11593,
-        "imdb_id": "tt0110684"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1994",
-    "nominees": [
-      "John Travolta"
-    ],
-    "movies": [
-      {
-        "title": "Pulp Fiction",
-        "tmdb_id": 680,
-        "imdb_id": "tt0110912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1994",
-    "nominees": [
-      "Jessica Lange"
-    ],
-    "movies": [
-      {
-        "title": "Blue Sky",
-        "tmdb_id": 57834,
-        "imdb_id": "tt0109306"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1994",
-    "nominees": [
-      "Jodie Foster"
-    ],
-    "movies": [
-      {
-        "title": "Nell",
-        "tmdb_id": 1945,
-        "imdb_id": "tt0110638"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1994",
-    "nominees": [
-      "Miranda Richardson"
-    ],
-    "movies": [
-      {
-        "title": "Tom & Viv",
-        "tmdb_id": 46797,
-        "imdb_id": "tt0111454"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1994",
-    "nominees": [
-      "Winona Ryder"
-    ],
-    "movies": [
-      {
-        "title": "Little Women",
-        "tmdb_id": 9587,
-        "imdb_id": "tt0110367"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1994",
-    "nominees": [
-      "Susan Sarandon"
-    ],
-    "movies": [
-      {
-        "title": "The Client",
-        "tmdb_id": 10731,
-        "imdb_id": "tt0109446"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1994",
-    "nominees": [
-      "Martin Landau"
-    ],
-    "movies": [
-      {
-        "title": "Ed Wood",
-        "tmdb_id": 522,
-        "imdb_id": "tt0109707"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1994",
-    "nominees": [
-      "Samuel L. Jackson"
-    ],
-    "movies": [
-      {
-        "title": "Pulp Fiction",
-        "tmdb_id": 680,
-        "imdb_id": "tt0110912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1994",
-    "nominees": [
-      "Chazz Palminteri"
-    ],
-    "movies": [
-      {
-        "title": "Bullets Over Broadway",
-        "tmdb_id": 11382,
-        "imdb_id": "tt0109348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1994",
-    "nominees": [
-      "Paul Scofield"
-    ],
-    "movies": [
-      {
-        "title": "Quiz Show",
-        "tmdb_id": 11450,
-        "imdb_id": "tt0110932"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1994",
-    "nominees": [
-      "Gary Sinise"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1994",
-    "nominees": [
-      "Dianne Wiest"
-    ],
-    "movies": [
-      {
-        "title": "Bullets Over Broadway",
-        "tmdb_id": 11382,
-        "imdb_id": "tt0109348"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1994",
-    "nominees": [
-      "Rosemary Harris"
-    ],
-    "movies": [
-      {
-        "title": "Tom & Viv",
-        "tmdb_id": 46797,
-        "imdb_id": "tt0111454"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1994",
-    "nominees": [
-      "Helen Mirren"
-    ],
-    "movies": [
-      {
-        "title": "The Madness of King George",
-        "tmdb_id": 11318,
-        "imdb_id": "tt0110428"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1994",
-    "nominees": [
-      "Uma Thurman"
-    ],
-    "movies": [
-      {
-        "title": "Pulp Fiction",
-        "tmdb_id": 680,
-        "imdb_id": "tt0110912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1994",
-    "nominees": [
-      "Jennifer Tilly"
-    ],
-    "movies": [
-      {
-        "title": "Bullets Over Broadway",
-        "tmdb_id": 11382,
-        "imdb_id": "tt0109348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1994",
-    "nominees": [
-      "Robert Zemeckis"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1994",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Bullets Over Broadway",
-        "tmdb_id": 11382,
-        "imdb_id": "tt0109348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1994",
-    "nominees": [
-      "Krzysztof Kieslowski"
-    ],
-    "movies": [
-      {
-        "title": "Three Colors: Red",
-        "tmdb_id": 110,
-        "imdb_id": "tt0111495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1994",
-    "nominees": [
-      "Robert Redford"
-    ],
-    "movies": [
-      {
-        "title": "Quiz Show",
-        "tmdb_id": 11450,
-        "imdb_id": "tt0110932"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1994",
-    "nominees": [
-      "Quentin Tarantino"
-    ],
-    "movies": [
-      {
-        "title": "Pulp Fiction",
-        "tmdb_id": 680,
-        "imdb_id": "tt0110912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Eric Roth"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Alan Bennett"
-    ],
-    "movies": [
-      {
-        "title": "The Madness of King George",
-        "tmdb_id": 11318,
-        "imdb_id": "tt0110428"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Robert Benton"
-    ],
-    "movies": [
-      {
-        "title": "Nobody's Fool",
-        "tmdb_id": 11593,
-        "imdb_id": "tt0110684"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Paul Attanasio"
-    ],
-    "movies": [
-      {
-        "title": "Quiz Show",
-        "tmdb_id": 11450,
-        "imdb_id": "tt0110932"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Frank Darabont"
-    ],
-    "movies": [
-      {
-        "title": "The Shawshank Redemption",
-        "tmdb_id": 278,
-        "imdb_id": "tt0111161"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Quentin Tarantino",
-      "Roger Avary"
-    ],
-    "movies": [
-      {
-        "title": "Pulp Fiction",
-        "tmdb_id": 680,
-        "imdb_id": "tt0110912"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Woody Allen",
-      "Douglas McGrath"
-    ],
-    "movies": [
-      {
-        "title": "Bullets Over Broadway",
-        "tmdb_id": 11382,
-        "imdb_id": "tt0109348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Peter Jackson",
-      "Fran Walsh"
-    ],
-    "movies": [
-      {
-        "title": "Heavenly Creatures",
-        "tmdb_id": 1024,
-        "imdb_id": "tt0110005"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Krzysztof Kieślowski",
-      "Krzysztof Piesiewicz"
-    ],
-    "movies": [
-      {
-        "title": "Three Colors: Red",
-        "tmdb_id": 110,
-        "imdb_id": "tt0111495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1994",
-    "nominees": [
-      "Richard Curtis"
-    ],
-    "movies": [
-      {
-        "title": "Four Weddings and a Funeral",
-        "tmdb_id": 712,
-        "imdb_id": "tt0109831"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1994",
-    "nominees": [
-      "Hans Zimmer"
-    ],
-    "movies": [
-      {
-        "title": "The Lion King",
-        "tmdb_id": 8587,
-        "imdb_id": "tt0110357"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1994",
-    "nominees": [
-      "Alan Silvestri"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1994",
-    "nominees": [
-      "Elliot Goldenthal"
-    ],
-    "movies": [
-      {
-        "title": "Interview with the Vampire",
-        "tmdb_id": 628,
-        "imdb_id": "tt0110148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1994",
-    "nominees": [
-      "Thomas Newman"
-    ],
-    "movies": [
-      {
-        "title": "Little Women",
-        "tmdb_id": 9587,
-        "imdb_id": "tt0110367"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1994",
-    "nominees": [
-      "Thomas Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Shawshank Redemption",
-        "tmdb_id": 278,
-        "imdb_id": "tt0111161"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1994",
-    "nominees": [
-      "Can You Feel the Love Tonight"
-    ],
-    "movies": [
-      {
-        "title": "The Lion King",
-        "tmdb_id": 8587,
-        "imdb_id": "tt0110357"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1994",
-    "nominees": [
-      "Look What Love Has Done"
-    ],
-    "movies": [
-      {
-        "title": "Junior",
-        "tmdb_id": 6280,
-        "imdb_id": "tt0110216"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1994",
-    "nominees": [
-      "Circle of Life"
-    ],
-    "movies": [
-      {
-        "title": "The Lion King",
-        "tmdb_id": 8587,
-        "imdb_id": "tt0110357"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1994",
-    "nominees": [
-      "Hakuna Matata"
-    ],
-    "movies": [
-      {
-        "title": "The Lion King",
-        "tmdb_id": 8587,
-        "imdb_id": "tt0110357"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1994",
-    "nominees": [
-      "Make Up Your Mind"
-    ],
-    "movies": [
-      {
-        "title": "The Paper",
-        "tmdb_id": 12280,
-        "imdb_id": "tt0110771"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1994",
-    "nominees": [
-      "Burnt by the Sun"
-    ],
-    "movies": [
-      {
-        "title": "Burnt by the Sun",
-        "tmdb_id": 50797,
-        "imdb_id": "tt0111579"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1994",
-    "nominees": [
-      "Before the Rain"
-    ],
-    "movies": [
-      {
-        "title": "Before the Rain",
-        "tmdb_id": 19155,
-        "imdb_id": "tt0110882"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1994",
-    "nominees": [
-      "Eat Drink Man Woman"
-    ],
-    "movies": [
-      {
-        "title": "Eat Drink Man Woman",
-        "tmdb_id": 10451,
-        "imdb_id": "tt0111797"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1994",
-    "nominees": [
-      "Farinelli"
-    ],
-    "movies": [
-      {
-        "title": "Farinelli",
-        "tmdb_id": 10954,
-        "imdb_id": "tt0109771"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1994",
-    "nominees": [
-      "Strawberry and Chocolate"
-    ],
-    "movies": [
-      {
-        "title": "Strawberry and Chocolate",
-        "tmdb_id": 12527,
-        "imdb_id": "tt0106966"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1994",
-    "nominees": [
-      "Maya Lin: A Strong Clear Vision"
-    ],
-    "movies": [
-      {
-        "title": "Maya Lin: A Strong Clear Vision",
-        "tmdb_id": 85778,
-        "imdb_id": "tt0110480"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1994",
-    "nominees": [
-      "Complaints of a Dutiful Daughter"
-    ],
-    "movies": [
-      {
-        "title": "Complaints of a Dutiful Daughter",
-        "tmdb_id": 136520,
-        "imdb_id": "tt0109465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1994",
-    "nominees": [
-      "D-Day Remembered"
-    ],
-    "movies": [
-      {
-        "title": "D-Day Remembered",
-        "tmdb_id": 325180,
-        "imdb_id": "tt0109519"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1994",
-    "nominees": [
-      "Freedom on My Mind"
-    ],
-    "movies": [
-      {
-        "title": "Freedom on My Mind",
-        "tmdb_id": 133434,
-        "imdb_id": "tt0109839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1994",
-    "nominees": [
-      "A Great Day in Harlem"
-    ],
-    "movies": [
-      {
-        "title": "A Great Day in Harlem",
-        "tmdb_id": 124472,
-        "imdb_id": "tt0109934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1994",
-    "nominees": [
-      "A Time for Justice"
-    ],
-    "movies": [
-      {
-        "title": "A Time for Justice",
-        "tmdb_id": 244878,
-        "imdb_id": "tt0111436"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1994",
-    "nominees": [
-      "Blues Highway"
-    ],
-    "movies": [
-      {
-        "title": "Blues Highway",
-        "tmdb_id": 244879,
-        "imdb_id": "tt0109308"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1994",
-    "nominees": [
-      "89mm od Europy"
-    ],
-    "movies": [
-      {
-        "title": "89 mm from Europe",
-        "tmdb_id": 244883,
-        "imdb_id": "tt0109023"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1994",
-    "nominees": [
-      "School of the Americas Assassins"
-    ],
-    "movies": [
-      {
-        "title": "School of the Americas Assassins",
-        "tmdb_id": 244884,
-        "imdb_id": "tt0111088"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1994",
-    "nominees": [
-      "Straight from the Heart"
-    ],
-    "movies": [
-      {
-        "title": "Straight from the Heart",
-        "tmdb_id": 244886,
-        "imdb_id": "tt0111295"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1994",
-    "nominees": [
-      "Bob's Birthday"
-    ],
-    "movies": [
-      {
-        "title": "Bob's Birthday",
-        "tmdb_id": 48273,
-        "imdb_id": "tt0106446"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1994",
-    "nominees": [
-      "The Big Story"
-    ],
-    "movies": [
-      {
-        "title": "The Big Story",
-        "tmdb_id": 48506,
-        "imdb_id": "tt0109270"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1994",
-    "nominees": [
-      "The Janitor"
-    ],
-    "movies": [
-      {
-        "title": "The Janitor",
-        "tmdb_id": 244870,
-        "imdb_id": "tt0110183"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1994",
-    "nominees": [
-      "The Monk and the Fish"
-    ],
-    "movies": [
-      {
-        "title": "The Monk and the Fish",
-        "tmdb_id": 48486,
-        "imdb_id": "tt0110547"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1994",
-    "nominees": [
-      "Triangle"
-    ],
-    "movies": [
-      {
-        "title": "Triangle",
-        "tmdb_id": 214153,
-        "imdb_id": "tt0111489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1994",
-    "nominees": [
-      "Franz Kafka's It's a Wonderful Life",
-      "Trevor"
-    ],
-    "movies": [
-      {
-        "title": "Franz Kafka's It's a Wonderful Life",
-        "tmdb_id": 47981,
-        "imdb_id": "tt0106961"
-      },
-      {
-        "title": "Trevor",
-        "tmdb_id": 113454,
-        "imdb_id": "tt0111486"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1994",
-    "nominees": [
-      "Kangaroo Court"
-    ],
-    "movies": [
-      {
-        "title": "Kangaroo Court",
-        "tmdb_id": 244871,
-        "imdb_id": "tt0110239"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1994",
-    "nominees": [
-      "On Hope"
-    ],
-    "movies": [
-      {
-        "title": "On Hope",
-        "tmdb_id": 244873,
-        "imdb_id": "tt0110726"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1994",
-    "nominees": [
-      "Syrup"
-    ],
-    "movies": [
-      {
-        "title": "Syrup",
-        "tmdb_id": 244877,
-        "imdb_id": "tt0111338"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "Ken Adam",
-      "Carolyn Scott"
-    ],
-    "movies": [
-      {
-        "title": "The Madness of King George",
-        "tmdb_id": 11318,
-        "imdb_id": "tt0110428"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "Santo Loquasto",
-      "Susan Bode"
-    ],
-    "movies": [
-      {
-        "title": "Bullets Over Broadway",
-        "tmdb_id": 11382,
-        "imdb_id": "tt0109348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "Rick Cater",
-      "Nancy Haigh"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "Dante Ferretti",
-      "Francesca Lo Schiavo"
-    ],
-    "movies": [
-      {
-        "title": "Interview with the Vampire",
-        "tmdb_id": 628,
-        "imdb_id": "tt0110148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "Lilly Kilvert",
-      "Dorree Cooper"
-    ],
-    "movies": [
-      {
-        "title": "Legends of the Fall",
-        "tmdb_id": 4476,
-        "imdb_id": "tt0110322"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1994",
-    "nominees": [
-      "John Toll"
-    ],
-    "movies": [
-      {
-        "title": "Legends of the Fall",
-        "tmdb_id": 4476,
-        "imdb_id": "tt0110322"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1994",
-    "nominees": [
-      "Don Burgess"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1994",
-    "nominees": [
-      "Roger Deakins"
-    ],
-    "movies": [
-      {
-        "title": "The Shawshank Redemption",
-        "tmdb_id": 278,
-        "imdb_id": "tt0111161"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1994",
-    "nominees": [
-      "Piotr Sobociński"
-    ],
-    "movies": [
-      {
-        "title": "Three Colors: Red",
-        "tmdb_id": 110,
-        "imdb_id": "tt0111495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1994",
-    "nominees": [
-      "Owen Roizman"
-    ],
-    "movies": [
-      {
-        "title": "Wyatt Earp",
-        "tmdb_id": 12160,
-        "imdb_id": "tt0111756"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1994",
-    "nominees": [
-      "Arthur Schmidt"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1994",
-    "nominees": [
-      "Frederick Marx",
-      "Steve James",
-      "William Haugse"
-    ],
-    "movies": [
-      {
-        "title": "Hoop Dreams",
-        "tmdb_id": 14275,
-        "imdb_id": "tt0110057"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1994",
-    "nominees": [
-      "John Wright"
-    ],
-    "movies": [
-      {
-        "title": "Speed",
-        "tmdb_id": 1637,
-        "imdb_id": "tt0111257"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1994",
-    "nominees": [
-      "Richard Francis-Bruce"
-    ],
-    "movies": [
-      {
-        "title": "The Shawshank Redemption",
-        "tmdb_id": 278,
-        "imdb_id": "tt0111161"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1994",
-    "nominees": [
-      "Sally Menke"
-    ],
-    "movies": [
-      {
-        "title": "Pulp Fiction",
-        "tmdb_id": 680,
-        "imdb_id": "tt0110912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1994",
-    "nominees": [
-      "Ken Ralston",
-      "George Murphy",
-      "Stephen Rosenbaum",
-      "Allen Hall"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1994",
-    "nominees": [
-      "John Bruno",
-      "Thomas L. Fisher",
-      "Jacques Stroweis",
-      "Patrick McClung"
-    ],
-    "movies": [
-      {
-        "title": "True Lies",
-        "tmdb_id": 36955,
-        "imdb_id": "tt0111503"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1994",
-    "nominees": [
-      "Scott Squires",
-      "Steve 'Spaz' Williams",
-      "Tom Bertino",
-      "John Farhat"
-    ],
-    "movies": [
-      {
-        "title": "The Mask",
-        "tmdb_id": 854,
-        "imdb_id": "tt0110475"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1994",
-    "nominees": [
-      "Gregg Landaker",
-      "Steve Maslow",
-      "Bob Beemer",
-      "David MacMillan"
-    ],
-    "movies": [
-      {
-        "title": "Speed",
-        "tmdb_id": 1637,
-        "imdb_id": "tt0111257"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1994",
-    "nominees": [
-      "Donald O. Mitchell",
-      "Michael Herbick",
-      "Frank A. Montano",
-      "Art Rochester"
-    ],
-    "movies": [
-      {
-        "title": "Clear and Present Danger",
-        "tmdb_id": 9331,
-        "imdb_id": "tt0109444"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1994",
-    "nominees": [
-      "Randy Thom",
-      "Tom Johnson",
-      "Dennis S. Sands",
-      "William B. Kaplan"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1994",
-    "nominees": [
-      "Paul Massey",
-      "David E. Campbell",
-      "Chris David",
-      "Douglas Ganton"
-    ],
-    "movies": [
-      {
-        "title": "Legends of the Fall",
-        "tmdb_id": 4476,
-        "imdb_id": "tt0110322"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1994",
-    "nominees": [
-      "Robert J. Litt",
-      "Elliot Tyson",
-      "Michael Herbick",
-      "Willie D. Burton"
-    ],
-    "movies": [
-      {
-        "title": "The Shawshank Redemption",
-        "tmdb_id": 278,
-        "imdb_id": "tt0111161"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1994",
-    "nominees": [
-      "Stephen Hunter Flick"
-    ],
-    "movies": [
-      {
-        "title": "Speed",
-        "tmdb_id": 1637,
-        "imdb_id": "tt0111257"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1994",
-    "nominees": [
-      "Bruce Stambler",
-      "John Leveque"
-    ],
-    "movies": [
-      {
-        "title": "Clear and Present Danger",
-        "tmdb_id": 9331,
-        "imdb_id": "tt0109444"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1994",
-    "nominees": [
-      "Gloria Borders",
-      "Randy Thom"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1994",
-    "nominees": [
-      "Rick Baker",
-      "Ve Neill",
-      "Yolanda Toussieng"
-    ],
-    "movies": [
-      {
-        "title": "Ed Wood",
-        "tmdb_id": 522,
-        "imdb_id": "tt0109707"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1994",
-    "nominees": [
-      "Daniel Parker",
-      "Paul Engelen",
-      "Carol Hemming"
-    ],
-    "movies": [
-      {
-        "title": "Mary Shelley's Frankenstein",
-        "tmdb_id": 3036,
-        "imdb_id": "tt0109836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1994",
-    "nominees": [
-      "Daniel Striepeke",
-      "Hallie D'Amore",
-      "Judith A. Cory"
-    ],
-    "movies": [
-      {
-        "title": "Forrest Gump",
-        "tmdb_id": 13,
-        "imdb_id": "tt0109830"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "Tim Chappel",
-      "Lizzy Gardiner"
-    ],
-    "movies": [
-      {
-        "title": "The Adventures of Priscilla, Queen of the Desert",
-        "tmdb_id": 2759,
-        "imdb_id": "tt0109045"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "April Ferry"
-    ],
-    "movies": [
-      {
-        "title": "Maverick",
-        "tmdb_id": 9359,
-        "imdb_id": "tt0110478"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "Colleen Atwood"
-    ],
-    "movies": [
-      {
-        "title": "Little Women",
-        "tmdb_id": 9587,
-        "imdb_id": "tt0110367"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "Jeffrey Kurland"
-    ],
-    "movies": [
-      {
-        "title": "Bullets Over Broadway",
-        "tmdb_id": 11382,
-        "imdb_id": "tt0109348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1994",
-    "nominees": [
-      "Moidele Bickel"
-    ],
-    "movies": [
-      {
-        "title": "Queen Margot",
-        "tmdb_id": 10452,
-        "imdb_id": "tt0110963"
-      }
-    ],
-    "won": false
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Shawshank Redemption",
+    "FilmId": "tt0111161",
+    "Name": "Morgan Freeman",
+    "Nominees": "Morgan Freeman",
+    "NomineeIds": "nm0000151",
+    "Winner": "",
+    "Detail": "Red",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Tom Hanks",
+    "Nominees": "Tom Hanks",
+    "NomineeIds": "nm0000158",
+    "Winner": "True",
+    "Detail": "Forrest Gump",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Madness of King George",
+    "FilmId": "tt0110428",
+    "Name": "Nigel Hawthorne",
+    "Nominees": "Nigel Hawthorne",
+    "NomineeIds": "nm0001329",
+    "Winner": "",
+    "Detail": "King George III",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Nobody's Fool",
+    "FilmId": "tt0110684",
+    "Name": "Paul Newman",
+    "Nominees": "Paul Newman",
+    "NomineeIds": "nm0000056",
+    "Winner": "",
+    "Detail": "Sully",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Pulp Fiction",
+    "FilmId": "tt0110912",
+    "Name": "John Travolta",
+    "Nominees": "John Travolta",
+    "NomineeIds": "nm0000237",
+    "Winner": "",
+    "Detail": "Vincent Vega",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Pulp Fiction",
+    "FilmId": "tt0110912",
+    "Name": "Samuel L. Jackson",
+    "Nominees": "Samuel L. Jackson",
+    "NomineeIds": "nm0000168",
+    "Winner": "",
+    "Detail": "Jules Winnfield",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Ed Wood",
+    "FilmId": "tt0109707",
+    "Name": "Martin Landau",
+    "Nominees": "Martin Landau",
+    "NomineeIds": "nm0001445",
+    "Winner": "True",
+    "Detail": "Bela Lugosi",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Bullets over Broadway",
+    "FilmId": "tt0109348",
+    "Name": "Chazz Palminteri",
+    "Nominees": "Chazz Palminteri",
+    "NomineeIds": "nm0001590",
+    "Winner": "",
+    "Detail": "Cheech",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Quiz Show",
+    "FilmId": "tt0110932",
+    "Name": "Paul Scofield",
+    "Nominees": "Paul Scofield",
+    "NomineeIds": "nm0006890",
+    "Winner": "",
+    "Detail": "Mark Van Doren",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Gary Sinise",
+    "Nominees": "Gary Sinise",
+    "NomineeIds": "nm0000641",
+    "Winner": "",
+    "Detail": "Lieutenant Dan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Nell",
+    "FilmId": "tt0110638",
+    "Name": "Jodie Foster",
+    "Nominees": "Jodie Foster",
+    "NomineeIds": "nm0000149",
+    "Winner": "",
+    "Detail": "Nell",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Blue Sky",
+    "FilmId": "tt0109306",
+    "Name": "Jessica Lange",
+    "Nominees": "Jessica Lange",
+    "NomineeIds": "nm0001448",
+    "Winner": "True",
+    "Detail": "Carly Marshall",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Tom & Viv",
+    "FilmId": "tt0111454",
+    "Name": "Miranda Richardson",
+    "Nominees": "Miranda Richardson",
+    "NomineeIds": "nm0001669",
+    "Winner": "",
+    "Detail": "Viv",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Little Women",
+    "FilmId": "tt0110367",
+    "Name": "Winona Ryder",
+    "Nominees": "Winona Ryder",
+    "NomineeIds": "nm0000213",
+    "Winner": "",
+    "Detail": "Jo March",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Client",
+    "FilmId": "tt0109446",
+    "Name": "Susan Sarandon",
+    "Nominees": "Susan Sarandon",
+    "NomineeIds": "nm0000215",
+    "Winner": "",
+    "Detail": "Reggie Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Tom & Viv",
+    "FilmId": "tt0111454",
+    "Name": "Rosemary Harris",
+    "Nominees": "Rosemary Harris",
+    "NomineeIds": "nm0365281",
+    "Winner": "",
+    "Detail": "Rose Haigh-Wood",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Madness of King George",
+    "FilmId": "tt0110428",
+    "Name": "Helen Mirren",
+    "Nominees": "Helen Mirren",
+    "NomineeIds": "nm0000545",
+    "Winner": "",
+    "Detail": "Queen Charlotte",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Pulp Fiction",
+    "FilmId": "tt0110912",
+    "Name": "Uma Thurman",
+    "Nominees": "Uma Thurman",
+    "NomineeIds": "nm0000235",
+    "Winner": "",
+    "Detail": "Mia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Bullets over Broadway",
+    "FilmId": "tt0109348",
+    "Name": "Jennifer Tilly",
+    "Nominees": "Jennifer Tilly",
+    "NomineeIds": "nm0000236",
+    "Winner": "",
+    "Detail": "Olive Neal",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Bullets over Broadway",
+    "FilmId": "tt0109348",
+    "Name": "Dianne Wiest",
+    "Nominees": "Dianne Wiest",
+    "NomineeIds": "nm0001848",
+    "Winner": "True",
+    "Detail": "Helen Sinclair",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Bullets over Broadway",
+    "FilmId": "tt0109348",
+    "Name": "Art Direction: Santo Loquasto; Set Decoration: Susan Bode",
+    "Nominees": "Santo Loquasto|Susan Bode",
+    "NomineeIds": "nm0520288|nm0090833",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Art Direction: Rick Carter; Set Decoration: Nancy Haigh",
+    "Nominees": "Rick Carter|Nancy Haigh",
+    "NomineeIds": "nm0141437|nm0354101",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Interview with the Vampire",
+    "FilmId": "tt0110148",
+    "Name": "Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+    "Nominees": "Dante Ferretti|Francesca Lo Schiavo",
+    "NomineeIds": "nm0274721|nm0521302",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Legends of the Fall",
+    "FilmId": "tt0110322",
+    "Name": "Art Direction: Lilly Kilvert; Set Decoration: Dorree Cooper",
+    "Nominees": "Lilly Kilvert|Dorree Cooper",
+    "NomineeIds": "nm0453344|nm0177991",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Madness of King George",
+    "FilmId": "tt0110428",
+    "Name": "Art Direction: Ken Adam; Set Decoration: Carolyn Scott",
+    "Nominees": "Ken Adam|Carolyn Scott",
+    "NomineeIds": "nm0010553|nm0778942",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Don Burgess",
+    "Nominees": "Don Burgess",
+    "NomineeIds": "nm0121281",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Legends of the Fall",
+    "FilmId": "tt0110322",
+    "Name": "John Toll",
+    "Nominees": "John Toll",
+    "NomineeIds": "nm0001799",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Red",
+    "FilmId": "tt0111495",
+    "Name": "Piotr Sobocinski",
+    "Nominees": "Piotr Sobocinski",
+    "NomineeIds": "nm0811834",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Shawshank Redemption",
+    "FilmId": "tt0111161",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Wyatt Earp",
+    "FilmId": "tt0111756",
+    "Name": "Owen Roizman",
+    "Nominees": "Owen Roizman",
+    "NomineeIds": "nm0005845",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Adventures of Priscilla, Queen of the Desert",
+    "FilmId": "tt0109045",
+    "Name": "Lizzy Gardiner, Tim Chappel",
+    "Nominees": "Lizzy Gardiner|Tim Chappel",
+    "NomineeIds": "nm0306773|nm0152579",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Bullets over Broadway",
+    "FilmId": "tt0109348",
+    "Name": "Jeffrey Kurland",
+    "Nominees": "Jeffrey Kurland",
+    "NomineeIds": "nm0475794",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Little Women",
+    "FilmId": "tt0110367",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Maverick",
+    "FilmId": "tt0110478",
+    "Name": "April Ferry",
+    "Nominees": "April Ferry",
+    "NomineeIds": "nm0275067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Queen Margot",
+    "FilmId": "tt0110963",
+    "Name": "Moidele Bickel",
+    "Nominees": "Moidele Bickel",
+    "NomineeIds": "nm0081001",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Bullets over Broadway",
+    "FilmId": "tt0109348",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Robert Zemeckis",
+    "Nominees": "Robert Zemeckis",
+    "NomineeIds": "nm0000709",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Pulp Fiction",
+    "FilmId": "tt0110912",
+    "Name": "Quentin Tarantino",
+    "Nominees": "Quentin Tarantino",
+    "NomineeIds": "nm0000233",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Quiz Show",
+    "FilmId": "tt0110932",
+    "Name": "Robert Redford",
+    "Nominees": "Robert Redford",
+    "NomineeIds": "nm0000602",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Red",
+    "FilmId": "tt0111495",
+    "Name": "Krzysztof Kieslowski",
+    "Nominees": "Krzysztof Kieslowski",
+    "NomineeIds": "nm0001425",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Complaints of a Dutiful Daughter",
+    "FilmId": "tt0109465",
+    "Name": "Deborah Hoffmann",
+    "Nominees": "Deborah Hoffmann",
+    "NomineeIds": "nm0389161",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "D-Day Remembered",
+    "FilmId": "tt0094416",
+    "Name": "Charles Guggenheim",
+    "Nominees": "Charles Guggenheim",
+    "NomineeIds": "nm0346549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Freedom on My Mind",
+    "FilmId": "tt0109839",
+    "Name": "Connie Field, Marilyn Mulford",
+    "Nominees": "Connie Field|Marilyn Mulford",
+    "NomineeIds": "nm0275908|nm0611796",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "A Great Day in Harlem",
+    "FilmId": "tt0109934",
+    "Name": "Jean Bach",
+    "Nominees": "Jean Bach",
+    "NomineeIds": "nm0045321",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Maya Lin: A Strong Clear Vision",
+    "FilmId": "tt0110480",
+    "Name": "Freida Lee Mock, Terry Sanders",
+    "Nominees": "Freida Lee Mock|Terry Sanders",
+    "NomineeIds": "nm0595131|nm0761739",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Blues Highway",
+    "FilmId": "tt0109308",
+    "Name": "Vince DiPersio, Bill Guttentag",
+    "Nominees": "Vince DiPersio|Bill Guttentag",
+    "NomineeIds": "nm0228122|nm0349702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "89mm od Europy (89mm from Europe)",
+    "FilmId": "tt0109023",
+    "Name": "Marcel Lozinski",
+    "Nominees": "Marcel Lozinski",
+    "NomineeIds": "nm0523656",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "School of Assassins",
+    "FilmId": "tt0111088",
+    "Name": "Robert Richter",
+    "Nominees": "Robert Richter",
+    "NomineeIds": "nm0724905",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Straight from the Heart",
+    "FilmId": "tt0111295",
+    "Name": "Dee Mosbacher, Frances Reid",
+    "Nominees": "Dee Mosbacher|Frances Reid",
+    "NomineeIds": "nm0608224|nm0717266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Time for Justice",
+    "FilmId": "tt0111436",
+    "Name": "Charles Guggenheim",
+    "Nominees": "Charles Guggenheim",
+    "NomineeIds": "nm0346549",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Arthur Schmidt",
+    "Nominees": "Arthur Schmidt",
+    "NomineeIds": "nm0772831",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Hoop Dreams",
+    "FilmId": "tt0110057",
+    "Name": "Frederick Marx, Steve James, Bill Haugse",
+    "Nominees": "Frederick Marx|Steve James|Bill Haugse",
+    "NomineeIds": "nm0555610|nm0416945|nm0369368",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Pulp Fiction",
+    "FilmId": "tt0110912",
+    "Name": "Sally Menke",
+    "Nominees": "Sally Menke",
+    "NomineeIds": "nm0579673",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Shawshank Redemption",
+    "FilmId": "tt0111161",
+    "Name": "Richard Francis-Bruce",
+    "Nominees": "Richard Francis-Bruce",
+    "NomineeIds": "nm0290358",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Speed",
+    "FilmId": "tt0111257",
+    "Name": "John Wright",
+    "Nominees": "John Wright",
+    "NomineeIds": "nm0942510",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Before the Rain",
+    "FilmId": "tt0110882",
+    "Name": "The Former Yugoslav Republic of Macedonia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Burnt by the Sun",
+    "FilmId": "tt0111579",
+    "Name": "Russia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Eat Drink Man Woman",
+    "FilmId": "tt0111797",
+    "Name": "Taiwan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Farinelli: Il Castrato",
+    "FilmId": "tt0109771",
+    "Name": "Belgium",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Strawberry and Chocolate",
+    "FilmId": "tt0106966",
+    "Name": "Cuba",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Ed Wood",
+    "FilmId": "tt0109707",
+    "Name": "Rick Baker, Ve Neill, Yolanda Toussieng",
+    "Nominees": "Rick Baker|Ve Neill|Yolanda Toussieng",
+    "NomineeIds": "nm0000711|nm0624763|nm0869758",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Daniel C. Striepeke, Hallie D'Amore, Judith A. Cory",
+    "Nominees": "Daniel C. Striepeke|Hallie D'Amore|Judith A. Cory",
+    "NomineeIds": "nm0834475|nm0195180|nm0181677",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Mary Shelley's Frankenstein",
+    "FilmId": "tt0109836",
+    "Name": "Daniel Parker, Paul Engelen, Carol Hemming",
+    "Nominees": "Daniel Parker|Paul Engelen|Carol Hemming",
+    "NomineeIds": "nm0662173|nm0257204|nm0376080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Alan Silvestri",
+    "Nominees": "Alan Silvestri",
+    "NomineeIds": "nm0006293",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Interview with the Vampire",
+    "FilmId": "tt0110148",
+    "Name": "Elliot Goldenthal",
+    "Nominees": "Elliot Goldenthal",
+    "NomineeIds": "nm0006106",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Lion King",
+    "FilmId": "tt0110357",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Little Women",
+    "FilmId": "tt0110367",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Shawshank Redemption",
+    "FilmId": "tt0111161",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Lion King",
+    "FilmId": "tt0110357",
+    "Name": "Music by Elton John; Lyric by Tim Rice",
+    "Nominees": "Elton John|Tim Rice",
+    "NomineeIds": "nm0005056|nm0005358",
+    "Winner": "True",
+    "Detail": "Can You Feel The Love Tonight",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Lion King",
+    "FilmId": "tt0110357",
+    "Name": "Music by Elton John; Lyric by Tim Rice",
+    "Nominees": "Elton John|Tim Rice",
+    "NomineeIds": "nm0005056|nm0005358",
+    "Winner": "",
+    "Detail": "Circle Of Life",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Lion King",
+    "FilmId": "tt0110357",
+    "Name": "Music by Elton John; Lyric by Tim Rice",
+    "Nominees": "Elton John|Tim Rice",
+    "NomineeIds": "nm0005056|nm0005358",
+    "Winner": "",
+    "Detail": "Hakuna Matata",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Junior",
+    "FilmId": "tt0110216",
+    "Name": "Music and Lyric by Carole Bayer Sager, James Newton Howard, James Ingram and Patty Smyth",
+    "Nominees": "Carole Bayer Sager|James Newton Howard|James Ingram|Patty Smyth",
+    "NomineeIds": "nm0004728|nm0006133|nm0408986|nm0810796",
+    "Winner": "",
+    "Detail": "Look What Love Has Done",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Paper",
+    "FilmId": "tt0110771",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "Make Up Your Mind",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Wendy Finerman, Steve Tisch and Steve Starkey, Producers",
+    "Nominees": "Wendy Finerman|Steve Tisch|Steve Starkey",
+    "NomineeIds": "nm0277704|nm0005494|nm0823330",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Four Weddings and a Funeral",
+    "FilmId": "tt0109831",
+    "Name": "Duncan Kenworthy, Producer",
+    "Nominees": "Duncan Kenworthy",
+    "NomineeIds": "nm0448953",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Pulp Fiction",
+    "FilmId": "tt0110912",
+    "Name": "Lawrence Bender, Producer",
+    "Nominees": "Lawrence Bender",
+    "NomineeIds": "nm0004744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Quiz Show",
+    "FilmId": "tt0110932",
+    "Name": "Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik, Producers",
+    "Nominees": "Robert Redford|Michael Jacobs|Julian Krainin|Michael Nozik",
+    "NomineeIds": "nm0000602|nm0414551|nm0469313|nm0637602",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Shawshank Redemption",
+    "FilmId": "tt0111161",
+    "Name": "Niki Marvin, Producer",
+    "Nominees": "Niki Marvin",
+    "NomineeIds": "nm0555550",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Big Story",
+    "FilmId": "tt0109270",
+    "Name": "Tim Watts, David Stoten",
+    "Nominees": "Tim Watts|David Stoten",
+    "NomineeIds": "nm0915243|nm0832770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Bob's Birthday",
+    "FilmId": "tt0106446",
+    "Name": "Alison Snowden, David Fine",
+    "Nominees": "Alison Snowden|David Fine",
+    "NomineeIds": "nm0811345|nm0277599",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Janitor",
+    "FilmId": "tt0110183",
+    "Name": "Vanessa Schwartz",
+    "Nominees": "Vanessa Schwartz",
+    "NomineeIds": "nm0777474",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Monk and the Fish",
+    "FilmId": "tt0110547",
+    "Name": "Michael Dudok de Wit",
+    "Nominees": "Michael Dudok de Wit",
+    "NomineeIds": "nm0240196",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Triangle",
+    "FilmId": "tt0111489",
+    "Name": "Erica Russell",
+    "Nominees": "Erica Russell",
+    "NomineeIds": "nm0751133",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Franz Kafka's It's a Wonderful Life",
+    "FilmId": "tt0106961",
+    "Name": "Peter Capaldi, Ruth Kenley-Letts",
+    "Nominees": "Peter Capaldi|Ruth Kenley-Letts",
+    "NomineeIds": "nm0134922|nm0447807",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: A tie. The other winning film in this category was Trevor.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Kangaroo Court",
+    "FilmId": "tt0110239",
+    "Name": "Sean Astin, Christine Astin",
+    "Nominees": "Sean Astin|Christine Astin",
+    "NomineeIds": "nm0000276|nm0040013",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "On Hope",
+    "FilmId": "tt0110726",
+    "Name": "JoBeth Williams, Michele McGuire",
+    "Nominees": "JoBeth Williams|Michele McGuire",
+    "NomineeIds": "nm0001851|nm0570266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Syrup",
+    "FilmId": "tt0111338",
+    "Name": "Paul Unwin, Nick Vivian",
+    "Nominees": "Paul Unwin|Nick Vivian",
+    "NomineeIds": "nm0881391|nm0900327",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Trevor",
+    "FilmId": "tt0111486",
+    "Name": "Peggy Rajski, Randy Stone",
+    "Nominees": "Peggy Rajski|Randy Stone",
+    "NomineeIds": "nm0707475|nm0832114",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: A tie. The other winning film in this category was Franz Kafka's It's a Wonderful Life.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Clear and Present Danger",
+    "FilmId": "tt0109444",
+    "Name": "Donald O. Mitchell, Michael Herbick, Frank A. Montaño, Arthur Rochester",
+    "Nominees": "Donald O. Mitchell|Michael Herbick|Frank A. Montaño|Arthur Rochester",
+    "NomineeIds": "nm0593290|nm0378655|nm0599057|nm0734053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",
+    "Nominees": "Randy Thom|Tom Johnson|Dennis Sands|William B. Kaplan",
+    "NomineeIds": "nm0858378|nm0426348|nm0762304|nm0438202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Legends of the Fall",
+    "FilmId": "tt0110322",
+    "Name": "Paul Massey, David Campbell, Christopher David, Douglas Ganton",
+    "Nominees": "Paul Massey|David Campbell|Christopher David|Douglas Ganton",
+    "NomineeIds": "nm0557338|nm0132372|nm0202845|nm0304618",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Shawshank Redemption",
+    "FilmId": "tt0111161",
+    "Name": "Robert J. Litt, Elliot Tyson, Michael Herbick, Willie Burton",
+    "Nominees": "Robert J. Litt|Elliot Tyson|Michael Herbick|Willie Burton",
+    "NomineeIds": "nm0514448|nm0006525|nm0378655|nm0123770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Speed",
+    "FilmId": "tt0111257",
+    "Name": "Gregg Landaker, Steve Maslow, Bob Beemer, David R. B. MacMillan",
+    "Nominees": "Gregg Landaker|Steve Maslow|Bob Beemer|David R. B. MacMillan",
+    "NomineeIds": "nm0484414|nm0556541|nm0066446|nm0533997",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Clear and Present Danger",
+    "FilmId": "tt0109444",
+    "Name": "Bruce Stambler, John Leveque",
+    "Nominees": "Bruce Stambler|John Leveque",
+    "NomineeIds": "nm0821801|nm0505311",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Gloria S. Borders, Randy Thom",
+    "Nominees": "Gloria S. Borders|Randy Thom",
+    "NomineeIds": "nm0096187|nm0858378",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Speed",
+    "FilmId": "tt0111257",
+    "Name": "Stephen Hunter Flick",
+    "Nominees": "Stephen Hunter Flick",
+    "NomineeIds": "nm0282276",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Ken Ralston, George Murphy, Stephen Rosenbaum, Allen Hall",
+    "Nominees": "Ken Ralston|George Murphy|Stephen Rosenbaum|Allen Hall",
+    "NomineeIds": "nm0707822|nm0614279|nm0742155|nm0355292",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Mask",
+    "FilmId": "tt0110475",
+    "Name": "Scott Squires, Steve Williams, Tom Bertino, Jon Farhat",
+    "Nominees": "Scott Squires|Steve Williams|Tom Bertino|Jon Farhat",
+    "NomineeIds": "nm0820140|nm0931727|nm0078129|nm0267331",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "True Lies",
+    "FilmId": "tt0111503",
+    "Name": "John Bruno, Thomas L. Fisher, Jacques Stroweis, Patrick McClung",
+    "Nominees": "John Bruno|Thomas L. Fisher|Jacques Stroweis|Patrick McClung",
+    "NomineeIds": "nm0116497|nm0279812|nm0835215|nm0565957",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Forrest Gump",
+    "FilmId": "tt0109830",
+    "Name": "Eric Roth",
+    "Nominees": "Eric Roth",
+    "NomineeIds": "nm0744839",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Madness of King George",
+    "FilmId": "tt0110428",
+    "Name": "Alan Bennett",
+    "Nominees": "Alan Bennett",
+    "NomineeIds": "nm0003141",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Nobody's Fool",
+    "FilmId": "tt0110684",
+    "Name": "Robert Benton",
+    "Nominees": "Robert Benton",
+    "NomineeIds": "nm0000914",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Quiz Show",
+    "FilmId": "tt0110932",
+    "Name": "Paul Attanasio",
+    "Nominees": "Paul Attanasio",
+    "NomineeIds": "nm0001921",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Shawshank Redemption",
+    "FilmId": "tt0111161",
+    "Name": "Frank Darabont",
+    "Nominees": "Frank Darabont",
+    "NomineeIds": "nm0001104",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Bullets over Broadway",
+    "FilmId": "tt0109348",
+    "Name": "Woody Allen, Douglas McGrath",
+    "Nominees": "Woody Allen|Douglas McGrath",
+    "NomineeIds": "nm0000095|nm0569790",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Four Weddings and a Funeral",
+    "FilmId": "tt0109831",
+    "Name": "Richard Curtis",
+    "Nominees": "Richard Curtis",
+    "NomineeIds": "nm0193485",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Heavenly Creatures",
+    "FilmId": "tt0110005",
+    "Name": "Frances Walsh, Peter Jackson",
+    "Nominees": "Frances Walsh|Peter Jackson",
+    "NomineeIds": "nm0909638|nm0001392",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Pulp Fiction",
+    "FilmId": "tt0110912",
+    "Name": "Screenplay by Quentin Tarantino; Stories by Quentin Tarantino & Roger Avary",
+    "Nominees": "Quentin Tarantino|Roger Avary",
+    "NomineeIds": "nm0000233|nm0000812",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Red",
+    "FilmId": "tt0111495",
+    "Name": "Krzysztof Piesiewicz, Krzysztof Kieslowski",
+    "Nominees": "Krzysztof Piesiewicz|Krzysztof Kieslowski",
+    "NomineeIds": "nm0682830|nm0001425",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Quincy Jones",
+    "Nominees": "Quincy Jones",
+    "NomineeIds": "nm0005065",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Michelangelo Antonioni",
+    "NomineeIds": "nm0000774",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Michelangelo Antonioni in recognition of his place as one of the cinema's master visual stylists."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Clint Eastwood",
+    "Nominees": "Clint Eastwood",
+    "NomineeIds": "nm0000142",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Petro Vlahos|Paul Vlahos",
+    "NomineeIds": "nm1468620|nm1466687",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To PETRO VLAHOS and PAUL VLAHOS for the conception and development of the Ultimatte Electronic Blue Screen Compositing Process for motion pictures."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eastman Kodak Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To the EASTMAN KODAK COMPANY for the development of the Eastman EXR Color Intermediate Film 5244."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "GARY DEMOS|DAN CAMERON|DAVID DiFRANCESCO|GARY STARKWEATHER|SCOTT SQUIRES",
+    "NomineeIds": "nm1164179|?|nm0226457|?|nm0820140",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To GARY DEMOS and DAN CAMERON of Information International, DAVID DiFRANCESCO and GARY STARKWEATHER of Pixar, and SCOTT SQUIRES of Industrial Light & Magic for their pioneering work in the field of film input scanning."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ray Feeney|WILL McCOWN|BILL BISHOP|LES DITTERT",
+    "NomineeIds": "nm2990419|nm1639904|nm0083993|nm0228545",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To RAY FEENEY, WILL McCOWN and BILL BISHOP of RFX, Inc. and LES DITTERT of Pacific Data Images for their development work with area array CCD (Charge Coupled Device) film input scanning systems."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "LINCOLN HU|MICHAEL MacKENZIE|GLENN KENNEL|MIKE DAVIS",
+    "NomineeIds": "nm0398894|nm0533371|?|nm0205165",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To LINCOLN HU and MICHAEL MacKENZIE of Industrial Light & Magic and GLENN KENNEL and MIKE DAVIS of Eastman Kodak for their joint development work on a linear array CCD (Charge Coupled Device) film input scanning system."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Iain Neil|Al Saiki|Panavision International",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To IAIN NEIL for the optical design, AL SAIKI for the mechanical design, and PANAVISION INTERNATIONAL L.P. for the development of the Panavision 11:1 Primo Zoom Lens for motion picture photography."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JAMES KETCHAM",
+    "NomineeIds": "nm0450478",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JAMES KETCHAM of JSK Engineering for the concept and design of the MC211 micro processor based motion controller for synchronizing sprocketed film with time-code based machines."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "William J. Warner|Eric C. Peters|Michael E. Phillips|Tom A. Ohanian|Patrick D. O'Connor|Joe H. Rice",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Editorial and Pre-production",
+    "Note": "",
+    "Citation": "To WILLIAM J. WARNER and ERIC C. PETERS for the concept, MICHAEL E. PHILLIPS and TOM A. OHANIAN for the system design, and PATRICK D. O'CONNOR and JOE H. RICE for the engineering of the Avid Film Composer for motion picture editing."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Paul Bamborough|Nick Pollack|Arthur Wright|Neil Harris|DUNCAN MacLEAN",
+    "NomineeIds": "nm2504780|nm2024575|?|?|?",
+    "Winner": "True",
+    "Detail": "Editorial and Pre-production",
+    "Note": "",
+    "Citation": "To PAUL BAMBOROUGH for the concept, NICK POLLACK and ARTHUR WRIGHT for the hardware development, and NEIL HARRIS and DUNCAN MacLEAN for the software development of The Lightworks Editor for motion picture editing."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "George Sauve|Bill Bishop|Arpag Dadourian|Ray Feeney|Richard Patterson",
+    "NomineeIds": "?|nm0083993|?|nm2990419|nm0666370",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To GEORGE SAUVE, BILL BISHOP, ARPAG DADOURIAN, RAY FEENEY and RICHARD PATTERSON for the Cinefusion software implementation of the Ultimatte Blue Screen Compositing Technology."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "B. RUSSELL HESSEY|Vincent T. Kelton|George Jackman",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To B. RUSSELL HESSEY of Special Effects Spectacular, Inc. and VINCENT T. KELTON for the hardware design and GEORGE JACKMAN of De La Mare Engineering, Inc. for the pyrotechnic development which together comprise the non-gun safety blank firing system."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Frieder Hochheim|Gary Swink|Dr. Joe Zhou|Don Northrop",
+    "NomineeIds": "nm0387807|nm0842724|?|?",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To FRIEDER HOCHHEIM, GARY SWINK, DR. JOE ZHOU and DON NORTHROP for the development of the Kino Flo Portable, Flicker Free, High Output Fluorescent Lighting System for motion picture set illumination."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "EMMANUEL PREVINAIRE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To EMMANUEL PREVINAIRE of Flying-Cam for his pioneering concept and for the development of mounting a motion picture camera on a remotely-controlled miniature helicopter."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JACQUES SAX",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JACQUES SAX of Sonosax for the design and development of the Sonosax SX-S portable audio mixer."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CLAY DAVIS|JOHN CARTER",
+    "NomineeIds": "?|nm2319194",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To CLAY DAVIS and JOHN CARTER of Todd-AO for the pioneering effort of computer controlled list management style ADR (Automated Dialogue Replacement)."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Stephen W. Potter|JOHN B. ASMAN|CHARLES PELL|RICHARD LARSON",
+    "NomineeIds": "nm2629157|nm0039548|nm2631385|?",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To STEPHEN W. POTTER, JOHN B. ASMAN, CHARLES PELL and RICHARD LARSON of LarTec Systems for the advancement and refinement of the computer controlled list management style ADR (Automated Dialogue Replacement) system via the LarTec ADR System that has established itself as a standard of the industry."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Audio Tracks Inc.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To AUDIO TRACKS, INC. for the design and development of the ADE (Advanced Data Encoding) System which creates an encoded timecode track and database during the initial transfer of the production sound \\\"dailies.\\"
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "COLIN BROAD",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To COLIN BROAD of CB Electronics for the design and development of the EDL (Edit Decision List) Lister which creates an encoded timecode track and database during the initial transfer of the production sound \\\"dailies.\\"
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DIETER STURM",
+    "NomineeIds": "nm1308827",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To DIETER STURM of Sturm's Special Effects Int'l for the creation and development of the Bio-Snow 2 Flake."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David A. Addleman|Lloyd A. Addleman",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To DAVID A. ADDLEMAN and LLOYD A. ADDLEMAN for the development of the Cyberware 3030 3D Digitizer."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mark R. Schneider|Herbert R. Jones|Christopher D. Conover|John R.B. Brown",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To MARK R. SCHNEIDER, HERBERT R. JONES, CHRISTOPHER D. CONOVER and JOHN R.B. BROWN for the development of the Polhemus 3 Space Digitizing System."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jack C. Smith|Michael Crichton|Emil Safier",
+    "NomineeIds": "?|nm0000341|nm0755873",
+    "Winner": "True",
+    "Detail": "Editorial and Pre-production",
+    "Note": "",
+    "Citation": "To JACK C. SMITH, MICHAEL CRICHTON and EMIL SAFIER for pioneering computerized motion picture budgeting and scheduling."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "STEPHEN GREENFIELD|CHRIS HUNTLEY",
+    "NomineeIds": "nm0339022|?",
+    "Winner": "True",
+    "Detail": "Editorial and Pre-production",
+    "Note": "",
+    "Citation": "To STEPHEN GREENFIELD and CHRIS HUNTLEY of Screenplay Systems for development of the \\\"Scriptor\\\" software."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ART FRITZEN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To ART FRITZEN of the California Fritzen Propeller Company as the designer and sole manufacturer of the Eight-Bladed Ritter Fan Propellers."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "MIKE BOUDRY",
+    "NomineeIds": "nm0064456",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To DR. MIKE BOUDRY of the Computer Film Company for his pioneering work in the field of film input scanning."
+  },
+  {
+    "Ceremony": 67,
+    "Year": 1994,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John A. Bonner",
+    "NomineeIds": "nm0094911",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To John A. Bonner in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

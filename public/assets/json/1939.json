@@ -1,2075 +1,2418 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "Gone with the Wind"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "Dark Victory"
-    ],
-    "movies": [
-      {
-        "title": "Dark Victory",
-        "tmdb_id": 27972,
-        "imdb_id": "tt0031210"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "Goodbye, Mr. Chips"
-    ],
-    "movies": [
-      {
-        "title": "Goodbye, Mr. Chips",
-        "tmdb_id": 42852,
-        "imdb_id": "tt0031385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "Love Affair"
-    ],
-    "movies": [
-      {
-        "title": "Love Affair",
-        "tmdb_id": 43739,
-        "imdb_id": "tt0031593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "Mr. Smith Goes to Washington"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "Ninotchka"
-    ],
-    "movies": [
-      {
-        "title": "Ninotchka",
-        "tmdb_id": 1859,
-        "imdb_id": "tt0031725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "Of Mice and Men"
-    ],
-    "movies": [
-      {
-        "title": "Of Mice and Men",
-        "tmdb_id": 51802,
-        "imdb_id": "tt0031742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "Stagecoach"
-    ],
-    "movies": [
-      {
-        "title": "Stagecoach",
-        "tmdb_id": 995,
-        "imdb_id": "tt0031971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "The Wizard of Oz"
-    ],
-    "movies": [
-      {
-        "title": "The Wizard of Oz",
-        "tmdb_id": 630,
-        "imdb_id": "tt0032138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1939",
-    "nominees": [
-      "Wuthering Heights"
-    ],
-    "movies": [
-      {
-        "title": "Wuthering Heights",
-        "tmdb_id": 3084,
-        "imdb_id": "tt0032145"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1939",
-    "nominees": [
-      "Robert Donat"
-    ],
-    "movies": [
-      {
-        "title": "Goodbye, Mr. Chips",
-        "tmdb_id": 42852,
-        "imdb_id": "tt0031385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1939",
-    "nominees": [
-      "Clark Gable"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1939",
-    "nominees": [
-      "Laurence Olivier"
-    ],
-    "movies": [
-      {
-        "title": "Wuthering Heights",
-        "tmdb_id": 3084,
-        "imdb_id": "tt0032145"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1939",
-    "nominees": [
-      "Mickey Rooney"
-    ],
-    "movies": [
-      {
-        "title": "Babes in Arms",
-        "tmdb_id": 32610,
-        "imdb_id": "tt0031066"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1939",
-    "nominees": [
-      "James Stewart"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1939",
-    "nominees": [
-      "Vivien Leigh"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1939",
-    "nominees": [
-      "Bette Davis"
-    ],
-    "movies": [
-      {
-        "title": "Dark Victory",
-        "tmdb_id": 27972,
-        "imdb_id": "tt0031210"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1939",
-    "nominees": [
-      "Irene Dunne"
-    ],
-    "movies": [
-      {
-        "title": "Love Affair",
-        "tmdb_id": 43739,
-        "imdb_id": "tt0031593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1939",
-    "nominees": [
-      "Greta Garbo"
-    ],
-    "movies": [
-      {
-        "title": "Ninotchka",
-        "tmdb_id": 1859,
-        "imdb_id": "tt0031725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1939",
-    "nominees": [
-      "Greer Garson"
-    ],
-    "movies": [
-      {
-        "title": "Goodbye, Mr. Chips",
-        "tmdb_id": 42852,
-        "imdb_id": "tt0031385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1939",
-    "nominees": [
-      "Thomas Mitchell"
-    ],
-    "movies": [
-      {
-        "title": "Stagecoach",
-        "tmdb_id": 995,
-        "imdb_id": "tt0031971"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1939",
-    "nominees": [
-      "Brian Aherne"
-    ],
-    "movies": [
-      {
-        "title": "Juarez",
-        "tmdb_id": 78318,
-        "imdb_id": "tt0031516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1939",
-    "nominees": [
-      "Harry Carey"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1939",
-    "nominees": [
-      "Brian Donlevy"
-    ],
-    "movies": [
-      {
-        "title": "Beau Geste",
-        "tmdb_id": 36851,
-        "imdb_id": "tt0031088"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1939",
-    "nominees": [
-      "Claude Rains"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1939",
-    "nominees": [
-      "Hattie McDaniel"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1939",
-    "nominees": [
-      "Olivia de Havilland"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1939",
-    "nominees": [
-      "Geraldine Fitzgerald"
-    ],
-    "movies": [
-      {
-        "title": "Wuthering Heights",
-        "tmdb_id": 3084,
-        "imdb_id": "tt0032145"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1939",
-    "nominees": [
-      "Edna May Oliver"
-    ],
-    "movies": [
-      {
-        "title": "Drums Along the Mohawk",
-        "tmdb_id": 73194,
-        "imdb_id": "tt0031252"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1939",
-    "nominees": [
-      "Maria Ouspenskaya"
-    ],
-    "movies": [
-      {
-        "title": "Love Affair",
-        "tmdb_id": 43739,
-        "imdb_id": "tt0031593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1939",
-    "nominees": [
-      "Victor Fleming"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1939",
-    "nominees": [
-      "Frank Capra"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1939",
-    "nominees": [
-      "John Ford"
-    ],
-    "movies": [
-      {
-        "title": "Stagecoach",
-        "tmdb_id": 995,
-        "imdb_id": "tt0031971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1939",
-    "nominees": [
-      "Sam Wood"
-    ],
-    "movies": [
-      {
-        "title": "Goodbye, Mr. Chips",
-        "tmdb_id": 42852,
-        "imdb_id": "tt0031385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1939",
-    "nominees": [
-      "William Wyler"
-    ],
-    "movies": [
-      {
-        "title": "Wuthering Heights",
-        "tmdb_id": 3084,
-        "imdb_id": "tt0032145"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1939",
-    "nominees": [
-      "Sidney Howard"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1939",
-    "nominees": [
-      "Charles Brackett",
-      "Billy Wilder",
-      "Walter Reisch"
-    ],
-    "movies": [
-      {
-        "title": "Ninotchka",
-        "tmdb_id": 1859,
-        "imdb_id": "tt0031725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1939",
-    "nominees": [
-      "Sidney Buchman"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1939",
-    "nominees": [
-      "Ben Hecht",
-      "Charles MacArthur"
-    ],
-    "movies": [
-      {
-        "title": "Wuthering Heights",
-        "tmdb_id": 3084,
-        "imdb_id": "tt0032145"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1939",
-    "nominees": [
-      "Eric Maschwitz",
-      "Claudine West",
-      "R.C. Sheriff"
-    ],
-    "movies": [
-      {
-        "title": "Goodbye, Mr. Chips",
-        "tmdb_id": 42852,
-        "imdb_id": "tt0031385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1939",
-    "nominees": [
-      "Lewis R. Foster"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1939",
-    "nominees": [
-      "Mildred Cram",
-      "Leo McCarey"
-    ],
-    "movies": [
-      {
-        "title": "Love Affair",
-        "tmdb_id": 43739,
-        "imdb_id": "tt0031593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1939",
-    "nominees": [
-      "Felix Jackson"
-    ],
-    "movies": [
-      {
-        "title": "Bachelor Mother",
-        "tmdb_id": 36488,
-        "imdb_id": "tt0031067"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1939",
-    "nominees": [
-      "Melchior Lengyel"
-    ],
-    "movies": [
-      {
-        "title": "Ninotchka",
-        "tmdb_id": 1859,
-        "imdb_id": "tt0031725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1939",
-    "nominees": [
-      "Lamar Trotti"
-    ],
-    "movies": [
-      {
-        "title": "Young Mr. Lincoln",
-        "tmdb_id": 43838,
-        "imdb_id": "tt0032155"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Herbert Stothart"
-    ],
-    "movies": [
-      {
-        "title": "The Wizard of Oz",
-        "tmdb_id": 630,
-        "imdb_id": "tt0032138"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Anthony Collins"
-    ],
-    "movies": [
-      {
-        "title": "Nurse Edith Cavell",
-        "tmdb_id": 218326,
-        "imdb_id": "tt0031737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Aaron Copland"
-    ],
-    "movies": [
-      {
-        "title": "Of Mice and Men",
-        "tmdb_id": 51802,
-        "imdb_id": "tt0031742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Lud Gluskin",
-      "Lucien Moraweck"
-    ],
-    "movies": [
-      {
-        "title": "The Man in the Iron Mask",
-        "tmdb_id": 43836,
-        "imdb_id": "tt0031619"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Werner Janssen"
-    ],
-    "movies": [
-      {
-        "title": "Eternally Yours",
-        "tmdb_id": 76382,
-        "imdb_id": "tt0031282"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Rains Came",
-        "tmdb_id": 115109,
-        "imdb_id": "tt0031835"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "Wuthering Heights",
-        "tmdb_id": 3084,
-        "imdb_id": "tt0032145"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "Dark Victory",
-        "tmdb_id": 27972,
-        "imdb_id": "tt0031210"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Golden Boy",
-        "tmdb_id": 43529,
-        "imdb_id": "tt0031377"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Gulliver's Travels",
-        "tmdb_id": 42518,
-        "imdb_id": "tt0031397"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1939",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Man of Conquest",
-        "tmdb_id": 192939,
-        "imdb_id": "tt0031620"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Richard Hageman",
-      "W. Franke Harling",
-      "John Leipold",
-      "Leo Shuken"
-    ],
-    "movies": [
-      {
-        "title": "Stagecoach",
-        "tmdb_id": 995,
-        "imdb_id": "tt0031971"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Phil Boutelje",
-      "Arthur Lange"
-    ],
-    "movies": [
-      {
-        "title": "The Great Victor Herbert",
-        "tmdb_id": 218321,
-        "imdb_id": "tt0031393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Aaron Copland"
-    ],
-    "movies": [
-      {
-        "title": "Of Mice and Men",
-        "tmdb_id": 51802,
-        "imdb_id": "tt0031742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Roger Edens",
-      "George E. Stoll"
-    ],
-    "movies": [
-      {
-        "title": "Babes in Arms",
-        "tmdb_id": 32610,
-        "imdb_id": "tt0031066"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Cy Feuer"
-    ],
-    "movies": [
-      {
-        "title": "She Married a Cop",
-        "tmdb_id": 218323,
-        "imdb_id": "tt0031921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Lou Forbes"
-    ],
-    "movies": [
-      {
-        "title": "Intermezzo: A Love Story",
-        "tmdb_id": 31868,
-        "imdb_id": "tt0031491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Erich Wolfgang Korngold"
-    ],
-    "movies": [
-      {
-        "title": "The Private Lives of Elizabeth and Essex",
-        "tmdb_id": 16902,
-        "imdb_id": "tt0031826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Hunchback of Notre Dame",
-        "tmdb_id": 31685,
-        "imdb_id": "tt0031455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "They Shall Have Music",
-        "tmdb_id": 130841,
-        "imdb_id": "tt0032023"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Charles Previn"
-    ],
-    "movies": [
-      {
-        "title": "First Love",
-        "tmdb_id": 61645,
-        "imdb_id": "tt0031311"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Louis Silvers"
-    ],
-    "movies": [
-      {
-        "title": "Swanee River",
-        "tmdb_id": 118328,
-        "imdb_id": "tt0031996"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Dimitri Tiomkin"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1939",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Way Down South",
-        "tmdb_id": 151857,
-        "imdb_id": "tt0032114"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1939",
-    "nominees": [
-      "Over the Rainbow"
-    ],
-    "movies": [
-      {
-        "title": "The Wizard of Oz",
-        "tmdb_id": 630,
-        "imdb_id": "tt0032138"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1939",
-    "nominees": [
-      "Faithful Forever"
-    ],
-    "movies": [
-      {
-        "title": "Gulliver's Travels",
-        "tmdb_id": 42518,
-        "imdb_id": "tt0031397"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1939",
-    "nominees": [
-      "I Poured My Heart Into a Song"
-    ],
-    "movies": [
-      {
-        "title": "Second Fiddle",
-        "tmdb_id": 43835,
-        "imdb_id": "tt0031907"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1939",
-    "nominees": [
-      "Wishing"
-    ],
-    "movies": [
-      {
-        "title": "Love Affair",
-        "tmdb_id": 43739,
-        "imdb_id": "tt0031593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1939",
-    "nominees": [
-      "The Ugly Duckling"
-    ],
-    "movies": [
-      {
-        "title": "The Ugly Duckling",
-        "tmdb_id": 418956,
-        "imdb_id": "tt0032071"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1939",
-    "nominees": [
-      "Detouring America"
-    ],
-    "movies": [
-      {
-        "title": "Detouring America",
-        "tmdb_id": 187326,
-        "imdb_id": "tt0031227"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1939",
-    "nominees": [
-      "Peace on Earth"
-    ],
-    "movies": [
-      {
-        "title": "Peace on Earth",
-        "tmdb_id": 46242,
-        "imdb_id": "tt0031790"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1939",
-    "nominees": [
-      "The Pointer"
-    ],
-    "movies": [
-      {
-        "title": "The Pointer",
-        "tmdb_id": 67599,
-        "imdb_id": "tt0031803"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1939",
-    "nominees": [
-      "Busy Little Bears"
-    ],
-    "movies": [
-      {
-        "title": "Busy Little Bears",
-        "tmdb_id": 235657,
-        "imdb_id": "tt0031128"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1939",
-    "nominees": [
-      "Information Please: Series 1, No. 1"
-    ],
-    "movies": [
-      {
-        "title": "Information Please: Series 1, No. 1",
-        "tmdb_id": 235658,
-        "imdb_id": "tt0031484"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1939",
-    "nominees": [
-      "Prophet Without Honor"
-    ],
-    "movies": [
-      {
-        "title": "Prophet Without Honor",
-        "tmdb_id": 235659,
-        "imdb_id": "tt0031827"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1939",
-    "nominees": [
-      "Sword Fishing"
-    ],
-    "movies": [
-      {
-        "title": "Sword Fishing",
-        "tmdb_id": 235660,
-        "imdb_id": "tt0032000"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1939",
-    "nominees": [
-      "Sons of Liberty"
-    ],
-    "movies": [
-      {
-        "title": "Sons of Liberty",
-        "tmdb_id": 130204,
-        "imdb_id": "tt0031953"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1939",
-    "nominees": [
-      "Drunk Driving"
-    ],
-    "movies": [
-      {
-        "title": "Drunk Driving",
-        "tmdb_id": 235654,
-        "imdb_id": "tt0031253"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1939",
-    "nominees": [
-      "Five Times Five"
-    ],
-    "movies": [
-      {
-        "title": "Five Times Five",
-        "tmdb_id": 235656,
-        "imdb_id": "tt0031316"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Lyle Wheeler"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Lionel Banks"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "James Basevi"
-    ],
-    "movies": [
-      {
-        "title": "Wuthering Heights",
-        "tmdb_id": 3084,
-        "imdb_id": "tt0032145"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "William S. Darling",
-      "George Dudley"
-    ],
-    "movies": [
-      {
-        "title": "The Rains Came",
-        "tmdb_id": 115109,
-        "imdb_id": "tt0031835"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Hans Dreier",
-      "Robert Odell"
-    ],
-    "movies": [
-      {
-        "title": "Beau Geste",
-        "tmdb_id": 36851,
-        "imdb_id": "tt0031088"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Cedric Gibbons",
-      "William Horning"
-    ],
-    "movies": [
-      {
-        "title": "The Wizard of Oz",
-        "tmdb_id": 630,
-        "imdb_id": "tt0032138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Anton Grot"
-    ],
-    "movies": [
-      {
-        "title": "The Private Lives of Elizabeth and Essex",
-        "tmdb_id": 16902,
-        "imdb_id": "tt0031826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Charles D. Hall"
-    ],
-    "movies": [
-      {
-        "title": "Captain Fury",
-        "tmdb_id": 151935,
-        "imdb_id": "tt0031137"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "John Victor Mackay"
-    ],
-    "movies": [
-      {
-        "title": "Man of Conquest",
-        "tmdb_id": 192939,
-        "imdb_id": "tt0031620"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Jack Otterson",
-      "Martin Obzina"
-    ],
-    "movies": [
-      {
-        "title": "First Love",
-        "tmdb_id": 61645,
-        "imdb_id": "tt0031311"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Van Nest Polglase",
-      "Alfred Herman"
-    ],
-    "movies": [
-      {
-        "title": "Love Affair",
-        "tmdb_id": 43739,
-        "imdb_id": "tt0031593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Alexander Toluboff"
-    ],
-    "movies": [
-      {
-        "title": "Stagecoach",
-        "tmdb_id": 995,
-        "imdb_id": "tt0031971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Gregg Toland"
-    ],
-    "movies": [
-      {
-        "title": "Wuthering Heights",
-        "tmdb_id": 3084,
-        "imdb_id": "tt0032145"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Joseph H. August"
-    ],
-    "movies": [
-      {
-        "title": "Gunga Din",
-        "tmdb_id": 24965,
-        "imdb_id": "tt0031398"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Norbert Brodine"
-    ],
-    "movies": [
-      {
-        "title": "Lady of the Tropics",
-        "tmdb_id": 111316,
-        "imdb_id": "tt0031549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Tony Gaudio"
-    ],
-    "movies": [
-      {
-        "title": "Juarez",
-        "tmdb_id": 78318,
-        "imdb_id": "tt0031516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Bert Glennon"
-    ],
-    "movies": [
-      {
-        "title": "Stagecoach",
-        "tmdb_id": 995,
-        "imdb_id": "tt0031971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Arthur Charles Miller"
-    ],
-    "movies": [
-      {
-        "title": "The Rains Came",
-        "tmdb_id": 115109,
-        "imdb_id": "tt0031835"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Victor Milner"
-    ],
-    "movies": [
-      {
-        "title": "The Great Victor Herbert",
-        "tmdb_id": 218321,
-        "imdb_id": "tt0031393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Gregg Toland"
-    ],
-    "movies": [
-      {
-        "title": "Intermezzo: A Love Story",
-        "tmdb_id": 31868,
-        "imdb_id": "tt0031491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Joseph Valentine"
-    ],
-    "movies": [
-      {
-        "title": "First Love",
-        "tmdb_id": 61645,
-        "imdb_id": "tt0031311"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1939",
-    "nominees": [
-      "Joseph Walker"
-    ],
-    "movies": [
-      {
-        "title": "Only Angels Have Wings",
-        "tmdb_id": 43832,
-        "imdb_id": "tt0031762"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1939",
-    "nominees": [
-      "Ernest Haller",
-      "Ray Rennahan"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1939",
-    "nominees": [
-      "Georges Perinal",
-      "Osmond Borradaile"
-    ],
-    "movies": [
-      {
-        "title": "The Four Feathers",
-        "tmdb_id": 10568,
-        "imdb_id": "tt0031334"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1939",
-    "nominees": [
-      "Sol Polito",
-      "W. Howard Greene"
-    ],
-    "movies": [
-      {
-        "title": "The Private Lives of Elizabeth and Essex",
-        "tmdb_id": 16902,
-        "imdb_id": "tt0031826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1939",
-    "nominees": [
-      "Ray Rennahan",
-      "Bert Glennon"
-    ],
-    "movies": [
-      {
-        "title": "Drums Along the Mohawk",
-        "tmdb_id": 73194,
-        "imdb_id": "tt0031252"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1939",
-    "nominees": [
-      "Hal Rosson"
-    ],
-    "movies": [
-      {
-        "title": "The Wizard of Oz",
-        "tmdb_id": 630,
-        "imdb_id": "tt0032138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1939",
-    "nominees": [
-      "William V. Skall",
-      "Bernard Knowles"
-    ],
-    "movies": [
-      {
-        "title": "The Mikado",
-        "tmdb_id": 68201,
-        "imdb_id": "tt0031650"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1939",
-    "nominees": [
-      "Hal C. Kern",
-      "James E. Newcom"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1939",
-    "nominees": [
-      "Charles Frend"
-    ],
-    "movies": [
-      {
-        "title": "Goodbye, Mr. Chips",
-        "tmdb_id": 42852,
-        "imdb_id": "tt0031385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1939",
-    "nominees": [
-      "Gene Havlick",
-      "Al Clark"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1939",
-    "nominees": [
-      "Otho Lovering",
-      "Dorothy Spencer"
-    ],
-    "movies": [
-      {
-        "title": "Stagecoach",
-        "tmdb_id": 995,
-        "imdb_id": "tt0031971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1939",
-    "nominees": [
-      "Barbara McLean"
-    ],
-    "movies": [
-      {
-        "title": "The Rains Came",
-        "tmdb_id": 115109,
-        "imdb_id": "tt0031835"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1939",
-    "nominees": [
-      "E. H. Hansen",
-      "Fred Sersen"
-    ],
-    "movies": [
-      {
-        "title": "The Rains Came",
-        "tmdb_id": 115109,
-        "imdb_id": "tt0031835"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1939",
-    "nominees": [
-      "Jack Cosgrove",
-      "Fred Albin",
-      "Arthur Johns"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1939",
-    "nominees": [
-      "Roy Davidson",
-      "Edwin C. Hahn"
-    ],
-    "movies": [
-      {
-        "title": "Only Angels Have Wings",
-        "tmdb_id": 43832,
-        "imdb_id": "tt0031762"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1939",
-    "nominees": [
-      "Farciot Edouart",
-      "Gordon Jennings",
-      "Loren Ryder"
-    ],
-    "movies": [
-      {
-        "title": "Union Pacific",
-        "tmdb_id": 43837,
-        "imdb_id": "tt0032080"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1939",
-    "nominees": [
-      "A. Arnold Gillespie",
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "The Wizard of Oz",
-        "tmdb_id": 630,
-        "imdb_id": "tt0032138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1939",
-    "nominees": [
-      "Byron Haskin",
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "The Private Lives of Elizabeth and Essex",
-        "tmdb_id": 16902,
-        "imdb_id": "tt0031826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1939",
-    "nominees": [
-      "Roy Seawright"
-    ],
-    "movies": [
-      {
-        "title": "Topper Takes a Trip",
-        "tmdb_id": 54430,
-        "imdb_id": "tt0032043"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "Bernard B. Brown"
-    ],
-    "movies": [
-      {
-        "title": "When Tomorrow Comes",
-        "tmdb_id": 165917,
-        "imdb_id": "tt0032124"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "Balalaika",
-        "tmdb_id": 127570,
-        "imdb_id": "tt0031074"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "Gone with the Wind",
-        "tmdb_id": 770,
-        "imdb_id": "tt0031381"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "A.W. Watkins"
-    ],
-    "movies": [
-      {
-        "title": "Goodbye, Mr. Chips",
-        "tmdb_id": 42852,
-        "imdb_id": "tt0031385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "Loren L. Ryder"
-    ],
-    "movies": [
-      {
-        "title": "The Great Victor Herbert",
-        "tmdb_id": 218321,
-        "imdb_id": "tt0031393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "John Aalberg"
-    ],
-    "movies": [
-      {
-        "title": "The Hunchback of Notre Dame",
-        "tmdb_id": 31685,
-        "imdb_id": "tt0031455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "Charles L. Lootens"
-    ],
-    "movies": [
-      {
-        "title": "Man of Conquest",
-        "tmdb_id": 192939,
-        "imdb_id": "tt0031620"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "John Livadary"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Smith Goes to Washington",
-        "tmdb_id": 3083,
-        "imdb_id": "tt0031679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "Elmer Raguse"
-    ],
-    "movies": [
-      {
-        "title": "Of Mice and Men",
-        "tmdb_id": 51802,
-        "imdb_id": "tt0031742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "The Private Lives of Elizabeth and Essex",
-        "tmdb_id": 16902,
-        "imdb_id": "tt0031826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1939",
-    "nominees": [
-      "E.H. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "The Rains Came",
-        "tmdb_id": 115109,
-        "imdb_id": "tt0031835"
-      }
-    ],
-    "won": false
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Goodbye, Mr. Chips",
+    "FilmId": "tt0031385",
+    "Name": "Robert Donat",
+    "Nominees": "Robert Donat",
+    "NomineeIds": "nm0232196",
+    "Winner": "True",
+    "Detail": "Mr. Chips",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Clark Gable",
+    "Nominees": "Clark Gable",
+    "NomineeIds": "nm0000022",
+    "Winner": "",
+    "Detail": "Rhett Butler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Wuthering Heights",
+    "FilmId": "tt0032145",
+    "Name": "Laurence Olivier",
+    "Nominees": "Laurence Olivier",
+    "NomineeIds": "nm0000059",
+    "Winner": "",
+    "Detail": "Heathcliff",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Babes in Arms",
+    "FilmId": "tt0031066",
+    "Name": "Mickey Rooney",
+    "Nominees": "Mickey Rooney",
+    "NomineeIds": "nm0001682",
+    "Winner": "",
+    "Detail": "Mickey Moran",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "James Stewart",
+    "Nominees": "James Stewart",
+    "NomineeIds": "nm0000071",
+    "Winner": "",
+    "Detail": "Jefferson Smith",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Juarez",
+    "FilmId": "tt0031516",
+    "Name": "Brian Aherne",
+    "Nominees": "Brian Aherne",
+    "NomineeIds": "nm0000731",
+    "Winner": "",
+    "Detail": "Emperor Maximilian von Habsburg",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Harry Carey",
+    "Nominees": "Harry Carey",
+    "NomineeIds": "nm0002503",
+    "Winner": "",
+    "Detail": "President of the Senate",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Beau Geste",
+    "FilmId": "tt0031088",
+    "Name": "Brian Donlevy",
+    "Nominees": "Brian Donlevy",
+    "NomineeIds": "nm0002046",
+    "Winner": "",
+    "Detail": "Sergeant Markoff",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Stagecoach",
+    "FilmId": "tt0031971",
+    "Name": "Thomas Mitchell",
+    "Nominees": "Thomas Mitchell",
+    "NomineeIds": "nm0593775",
+    "Winner": "True",
+    "Detail": "Dr. Josiah Boone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Claude Rains",
+    "Nominees": "Claude Rains",
+    "NomineeIds": "nm0001647",
+    "Winner": "",
+    "Detail": "Senator Joseph Paine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Dark Victory",
+    "FilmId": "tt0031210",
+    "Name": "Bette Davis",
+    "Nominees": "Bette Davis",
+    "NomineeIds": "nm0000012",
+    "Winner": "",
+    "Detail": "Judith Traherne",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Love Affair",
+    "FilmId": "tt0031593",
+    "Name": "Irene Dunne",
+    "Nominees": "Irene Dunne",
+    "NomineeIds": "nm0002050",
+    "Winner": "",
+    "Detail": "Terry McKay",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Ninotchka",
+    "FilmId": "tt0031725",
+    "Name": "Greta Garbo",
+    "Nominees": "Greta Garbo",
+    "NomineeIds": "nm0001256",
+    "Winner": "",
+    "Detail": "Lena Yakushova (Ninotchka)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Goodbye, Mr. Chips",
+    "FilmId": "tt0031385",
+    "Name": "Greer Garson",
+    "Nominees": "Greer Garson",
+    "NomineeIds": "nm0002093",
+    "Winner": "",
+    "Detail": "Katherine Chipping",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Vivien Leigh",
+    "Nominees": "Vivien Leigh",
+    "NomineeIds": "nm0000046",
+    "Winner": "True",
+    "Detail": "Scarlett O'Hara",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Olivia de Havilland",
+    "Nominees": "Olivia de Havilland",
+    "NomineeIds": "nm0000014",
+    "Winner": "",
+    "Detail": "Melanie Hamilton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Wuthering Heights",
+    "FilmId": "tt0032145",
+    "Name": "Geraldine Fitzgerald",
+    "Nominees": "Geraldine Fitzgerald",
+    "NomineeIds": "nm0280242",
+    "Winner": "",
+    "Detail": "Isabella",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Hattie McDaniel",
+    "Nominees": "Hattie McDaniel",
+    "NomineeIds": "nm0567408",
+    "Winner": "True",
+    "Detail": "Mammy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Drums along the Mohawk",
+    "FilmId": "tt0031252",
+    "Name": "Edna May Oliver",
+    "Nominees": "Edna May Oliver",
+    "NomineeIds": "nm0646829",
+    "Winner": "",
+    "Detail": "Sarah McKlennar",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Love Affair",
+    "FilmId": "tt0031593",
+    "Name": "Maria Ouspenskaya",
+    "Nominees": "Maria Ouspenskaya",
+    "NomineeIds": "nm0653642",
+    "Winner": "",
+    "Detail": "Grandmother, Mme. Marnay",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Beau Geste",
+    "FilmId": "tt0031088",
+    "Name": "Hans Dreier, Robert Odell",
+    "Nominees": "Hans Dreier|Robert Odell",
+    "NomineeIds": "nm0237417|nm0643987",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Captain Fury",
+    "FilmId": "tt0031137",
+    "Name": "Charles D. Hall",
+    "Nominees": "Charles D. Hall",
+    "NomineeIds": "nm0355405",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "First Love",
+    "FilmId": "tt0031311",
+    "Name": "Jack Otterson, Martin Obzina",
+    "Nominees": "Jack Otterson|Martin Obzina",
+    "NomineeIds": "nm0653163|nm0643578",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Lyle Wheeler",
+    "Nominees": "Lyle Wheeler",
+    "NomineeIds": "nm0923907",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Love Affair",
+    "FilmId": "tt0031593",
+    "Name": "Van Nest Polglase, Al Herman",
+    "Nominees": "Van Nest Polglase|Al Herman",
+    "NomineeIds": "nm0689026|nm0379094",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Man of Conquest",
+    "FilmId": "tt0031620",
+    "Name": "John Victor Mackay",
+    "Nominees": "John Victor Mackay",
+    "NomineeIds": "nm0533179",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Lionel Banks",
+    "Nominees": "Lionel Banks",
+    "NomineeIds": "nm0052206",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Private Lives of Elizabeth and Essex",
+    "FilmId": "tt0031826",
+    "Name": "Anton Grot",
+    "Nominees": "Anton Grot",
+    "NomineeIds": "nm0343819",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Rains Came",
+    "FilmId": "tt0031835",
+    "Name": "William Darling, George Dudley",
+    "Nominees": "William Darling|George Dudley",
+    "NomineeIds": "nm0201419|nm1839682",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Stagecoach",
+    "FilmId": "tt0031971",
+    "Name": "Alexander Toluboff",
+    "Nominees": "Alexander Toluboff",
+    "NomineeIds": "nm0866266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Wizard of Oz",
+    "FilmId": "tt0032138",
+    "Name": "Cedric Gibbons, William A. Horning",
+    "Nominees": "Cedric Gibbons|William A. Horning",
+    "NomineeIds": "nm0316539|nm0395178",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Wuthering Heights",
+    "FilmId": "tt0032145",
+    "Name": "James Basevi",
+    "Nominees": "James Basevi",
+    "NomineeIds": "nm0059730",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "First Love",
+    "FilmId": "tt0031311",
+    "Name": "Joseph Valentine",
+    "Nominees": "Joseph Valentine",
+    "NomineeIds": "nm0884252",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Stagecoach and Wuthering Heights) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Great Victor Herbert",
+    "FilmId": "tt0031393",
+    "Name": "Victor Milner",
+    "Nominees": "Victor Milner",
+    "NomineeIds": "nm0005800",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Stagecoach and Wuthering Heights) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Gunga Din",
+    "FilmId": "tt0031398",
+    "Name": "Joseph H. August",
+    "Nominees": "Joseph H. August",
+    "NomineeIds": "nm0005641",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Stagecoach and Wuthering Heights) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Intermezzo",
+    "FilmId": "tt0031491",
+    "Name": "Gregg Toland",
+    "Nominees": "Gregg Toland",
+    "NomineeIds": "nm0005904",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Stagecoach and Wuthering Heights) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Juarez",
+    "FilmId": "tt0031516",
+    "Name": "Tony Gaudio",
+    "Nominees": "Tony Gaudio",
+    "NomineeIds": "nm0309974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Stagecoach and Wuthering Heights) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Lady of the Tropics",
+    "FilmId": "tt0031549",
+    "Name": "George Folsey",
+    "Nominees": "George Folsey",
+    "NomineeIds": "nm0005706",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Stagecoach and Wuthering Heights) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Of Mice and Men",
+    "FilmId": "tt0031742",
+    "Name": "Norbert Brodine",
+    "Nominees": "Norbert Brodine",
+    "NomineeIds": "nm0005661",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Stagecoach and Wuthering Heights) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Only Angels Have Wings",
+    "FilmId": "tt0031762",
+    "Name": "Joseph Walker",
+    "Nominees": "Joseph Walker",
+    "NomineeIds": "nm0907900",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Stagecoach and Wuthering Heights) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Rains Came",
+    "FilmId": "tt0031835",
+    "Name": "Arthur Miller",
+    "Nominees": "Arthur Miller",
+    "NomineeIds": "nm0587926",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Stagecoach and Wuthering Heights) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Stagecoach",
+    "FilmId": "tt0031971",
+    "Name": "Bert Glennon",
+    "Nominees": "Bert Glennon",
+    "NomineeIds": "nm0322688",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Wuthering Heights",
+    "FilmId": "tt0032145",
+    "Name": "Gregg Toland",
+    "Nominees": "Gregg Toland",
+    "NomineeIds": "nm0005904",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Drums along the Mohawk",
+    "FilmId": "tt0031252",
+    "Name": "Ray Rennahan, Bert Glennon",
+    "Nominees": "Ray Rennahan|Bert Glennon",
+    "NomineeIds": "nm0005840|nm0322688",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Gone with the Wind and The Private Lives of Elizabeth and Essex) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Four Feathers",
+    "FilmId": "tt0031334",
+    "Name": "Georges Perinal, Osmond Borradaile",
+    "Nominees": "Georges Perinal|Osmond Borradaile",
+    "NomineeIds": "nm0005838|nm0097306",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Gone with the Wind and The Private Lives of Elizabeth and Essex) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Ernest Haller, Ray Rennahan",
+    "Nominees": "Ernest Haller|Ray Rennahan",
+    "NomineeIds": "nm0005735|nm0005840",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Mikado",
+    "FilmId": "tt0031650",
+    "Name": "William V. Skall, Bernard Knowles",
+    "Nominees": "William V. Skall|Bernard Knowles",
+    "NomineeIds": "nm0005877|nm0461497",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Gone with the Wind and The Private Lives of Elizabeth and Essex) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Private Lives of Elizabeth and Essex",
+    "FilmId": "tt0031826",
+    "Name": "Sol Polito, W. Howard Greene",
+    "Nominees": "Sol Polito|W. Howard Greene",
+    "NomineeIds": "nm0005835|nm0338946",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Wizard of Oz",
+    "FilmId": "tt0032138",
+    "Name": "Hal Rosson",
+    "Nominees": "Hal Rosson",
+    "NomineeIds": "nm0005849",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of submissions/nominees from the studios from which the two official nominees (Gone with the Wind and The Private Lives of Elizabeth and Essex) would be selected.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Victor Fleming",
+    "Nominees": "Victor Fleming",
+    "NomineeIds": "nm0281808",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Goodbye, Mr. Chips",
+    "FilmId": "tt0031385",
+    "Name": "Sam Wood",
+    "Nominees": "Sam Wood",
+    "NomineeIds": "nm0939992",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Frank Capra",
+    "Nominees": "Frank Capra",
+    "NomineeIds": "nm0001008",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Stagecoach",
+    "FilmId": "tt0031971",
+    "Name": "John Ford",
+    "Nominees": "John Ford",
+    "NomineeIds": "nm0000406",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Wuthering Heights",
+    "FilmId": "tt0032145",
+    "Name": "William Wyler",
+    "Nominees": "William Wyler",
+    "NomineeIds": "nm0943758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Hal C. Kern, James E. Newcom",
+    "Nominees": "Hal C. Kern|James E. Newcom",
+    "NomineeIds": "nm0449456|nm0627727",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Goodbye, Mr. Chips",
+    "FilmId": "tt0031385",
+    "Name": "Charles Frend",
+    "Nominees": "Charles Frend",
+    "NomineeIds": "nm0294243",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Gene Havlick, Al Clark",
+    "Nominees": "Gene Havlick|Al Clark",
+    "NomineeIds": "nm0369879|nm0163617",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Rains Came",
+    "FilmId": "tt0031835",
+    "Name": "Barbara McLean",
+    "Nominees": "Barbara McLean",
+    "NomineeIds": "nm0572492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Stagecoach",
+    "FilmId": "tt0031971",
+    "Name": "Otho Lovering, Dorothy Spencer",
+    "Nominees": "Otho Lovering|Dorothy Spencer",
+    "NomineeIds": "nm0522635|nm0817929",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Dark Victory",
+    "FilmId": "tt0031210",
+    "Name": "Max Steiner",
+    "Nominees": "Max Steiner",
+    "NomineeIds": "nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Eternally Yours",
+    "FilmId": "tt0031282",
+    "Name": "Werner Janssen",
+    "Nominees": "Werner Janssen",
+    "NomineeIds": "nm0418205",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Golden Boy",
+    "FilmId": "tt0031377",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Max Steiner",
+    "Nominees": "Max Steiner",
+    "NomineeIds": "nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Gulliver's Travels",
+    "FilmId": "tt0031397",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Man in the Iron Mask",
+    "FilmId": "tt0031619",
+    "Name": "Lud Gluskin, Lucien Moraweck",
+    "Nominees": "Lud Gluskin|Lucien Moraweck",
+    "NomineeIds": "nm0323302|nm0603188",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Man of Conquest",
+    "FilmId": "tt0031620",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Nurse Edith Cavell",
+    "FilmId": "tt0031737",
+    "Name": "Anthony Collins",
+    "Nominees": "Anthony Collins",
+    "NomineeIds": "nm0172141",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Of Mice and Men",
+    "FilmId": "tt0031742",
+    "Name": "Aaron Copland",
+    "Nominees": "Aaron Copland",
+    "NomineeIds": "nm0178716",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Rains Came",
+    "FilmId": "tt0031835",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Wizard of Oz",
+    "FilmId": "tt0032138",
+    "Name": "Herbert Stothart",
+    "Nominees": "Herbert Stothart",
+    "NomineeIds": "nm0006307",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Wuthering Heights",
+    "FilmId": "tt0032145",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Babes in Arms",
+    "FilmId": "tt0031066",
+    "Name": "George E. Stoll, Roger Edens",
+    "Nominees": "George E. Stoll|Roger Edens",
+    "NomineeIds": "nm0006303|nm0249136",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "First Love",
+    "FilmId": "tt0031311",
+    "Name": "Charles Previn",
+    "Nominees": "Charles Previn",
+    "NomineeIds": "nm0006239",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "The Great Victor Herbert",
+    "FilmId": "tt0031393",
+    "Name": "Phil Boutelje, Arthur Lange",
+    "Nominees": "Phil Boutelje|Arthur Lange",
+    "NomineeIds": "nm0100287|nm0486075",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "The Hunchback of Notre Dame",
+    "FilmId": "tt0031455",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Intermezzo",
+    "FilmId": "tt0031491",
+    "Name": "Lou Forbes",
+    "Nominees": "Lou Forbes",
+    "NomineeIds": "nm0006078",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Dimitri Tiomkin",
+    "Nominees": "Dimitri Tiomkin",
+    "NomineeIds": "nm0006323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Of Mice and Men",
+    "FilmId": "tt0031742",
+    "Name": "Aaron Copland",
+    "Nominees": "Aaron Copland",
+    "NomineeIds": "nm0178716",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "The Private Lives of Elizabeth and Essex",
+    "FilmId": "tt0031826",
+    "Name": "Erich Wolfgang Korngold",
+    "Nominees": "Erich Wolfgang Korngold",
+    "NomineeIds": "nm0006157",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "She Married a Cop",
+    "FilmId": "tt0031921",
+    "Name": "Cy Feuer",
+    "Nominees": "Cy Feuer",
+    "NomineeIds": "nm0006074",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Stagecoach",
+    "FilmId": "tt0031971",
+    "Name": "Richard Hageman, Frank Harling, John Leipold, Leo Shuken",
+    "Nominees": "Richard Hageman|Frank Harling|John Leipold|Leo Shuken",
+    "NomineeIds": "nm0006119|nm0006123|nm0500506|nm0795640",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Swanee River",
+    "FilmId": "tt0031996",
+    "Name": "Louis Silvers",
+    "Nominees": "Louis Silvers",
+    "NomineeIds": "nm0799007",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "They Shall Have Music",
+    "FilmId": "tt0032023",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Way Down South",
+    "FilmId": "tt0032114",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Gulliver's Travels",
+    "FilmId": "tt0031397",
+    "Name": "Music by Ralph Rainger; Lyrics by Leo Robin",
+    "Nominees": "Ralph Rainger|Leo Robin",
+    "NomineeIds": "nm0006247|nm0732209",
+    "Winner": "",
+    "Detail": "Faithful Forever",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Second Fiddle",
+    "FilmId": "tt0031907",
+    "Name": "Music and Lyrics by Irving Berlin",
+    "Nominees": "Irving Berlin",
+    "NomineeIds": "nm0000927",
+    "Winner": "",
+    "Detail": "I Poured My Heart Into A Song",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Wizard of Oz",
+    "FilmId": "tt0032138",
+    "Name": "Music by Harold Arlen; Lyrics by E. Y. Harburg",
+    "Nominees": "Harold Arlen|E. Y. Harburg",
+    "NomineeIds": "nm0002182|nm0361971",
+    "Winner": "True",
+    "Detail": "Over The Rainbow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Love Affair",
+    "FilmId": "tt0031593",
+    "Name": "Music and Lyrics by Buddy de Sylva",
+    "Nominees": "Buddy de Sylva",
+    "NomineeIds": "nm0221865",
+    "Winner": "",
+    "Detail": "Wishing",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Dark Victory",
+    "FilmId": "tt0031210",
+    "Name": "Warner Bros.-First National",
+    "Nominees": "Warner Bros.|First National",
+    "NomineeIds": "co0080422|co0041460",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Selznick International Pictures",
+    "Nominees": "Selznick International Pictures",
+    "NomineeIds": "co0130901",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Goodbye, Mr. Chips",
+    "FilmId": "tt0031385",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Love Affair",
+    "FilmId": "tt0031593",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Columbia",
+    "Nominees": "Columbia",
+    "NomineeIds": "co0050868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Ninotchka",
+    "FilmId": "tt0031725",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Of Mice and Men",
+    "FilmId": "tt0031742",
+    "Name": "Hal Roach (production company)",
+    "Nominees": "Hal Roach (production company)",
+    "NomineeIds": "co0075561",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Stagecoach",
+    "FilmId": "tt0031971",
+    "Name": "Walter Wanger (production company)",
+    "Nominees": "Walter Wanger (production company)",
+    "NomineeIds": "co0035064",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Wizard of Oz",
+    "FilmId": "tt0032138",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Wuthering Heights",
+    "FilmId": "tt0032145",
+    "Name": "Samuel Goldwyn Productions",
+    "Nominees": "Samuel Goldwyn Productions",
+    "NomineeIds": "co0058013",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Detouring America",
+    "FilmId": "tt0031227",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Peace on Earth",
+    "FilmId": "tt0031790",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Pointer",
+    "FilmId": "tt0031803",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Ugly Duckling",
+    "FilmId": "tt0032071",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Busy Little Bears",
+    "FilmId": "tt0031128",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Information Please",
+    "FilmId": "tt0031484",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Prophet without Honor",
+    "FilmId": "tt0031827",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Sword Fishing",
+    "FilmId": "tt0032000",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Drunk Driving",
+    "FilmId": "tt0031253",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Five Times Five",
+    "FilmId": "tt0031316",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Sons of Liberty",
+    "FilmId": "tt0031953",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Balalaika",
+    "FilmId": "tt0031074",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Douglas Shearer",
+    "NomineeIds": "co0007143|nm0790428",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+    "Nominees": "Samuel Goldwyn|Thomas T. Moulton",
+    "NomineeIds": "co0058013|nm0609771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Goodbye, Mr. Chips",
+    "FilmId": "tt0031385",
+    "Name": "Denham Studio Sound Department, A. W. Watkins, Sound Director",
+    "Nominees": "Denham|A. W. Watkins",
+    "NomineeIds": "?|nm0914249",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Great Victor Herbert",
+    "FilmId": "tt0031393",
+    "Name": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+    "Nominees": "Paramount|Loren L. Ryder",
+    "NomineeIds": "co0023400|nm0753122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Hunchback of Notre Dame",
+    "FilmId": "tt0031455",
+    "Name": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+    "Nominees": "RKO Radio|John Aalberg",
+    "NomineeIds": "co0041421|nm0007356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Man of Conquest",
+    "FilmId": "tt0031620",
+    "Name": "Republic Studio Sound Department, Charles L. Lootens, Sound Director",
+    "Nominees": "Republic|Charles L. Lootens",
+    "NomineeIds": "co0020540|nm0519780",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Columbia Studio Sound Department, John Livadary, Sound Director",
+    "Nominees": "Columbia|John Livadary",
+    "NomineeIds": "co0050868|nm0515093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Of Mice and Men",
+    "FilmId": "tt0031742",
+    "Name": "Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",
+    "Nominees": "Hal Roach|Elmer A. Raguse",
+    "NomineeIds": "co0075561|nm0706649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Private Lives of Elizabeth and Essex",
+    "FilmId": "tt0031826",
+    "Name": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+    "Nominees": "Warner Bros.|Nathan Levinson",
+    "NomineeIds": "co0080422|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Rains Came",
+    "FilmId": "tt0031835",
+    "Name": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+    "Nominees": "20th Century-Fox|E. H. Hansen",
+    "NomineeIds": "co0028775|nm0360770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "When Tomorrow Comes",
+    "FilmId": "tt0032124",
+    "Name": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+    "Nominees": "Universal|Bernard B. Brown",
+    "NomineeIds": "co0005073|nm0113094",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "John R. Cosgrove, Fred Albin, Arthur Johns",
+    "Nominees": "John R. Cosgrove|Fred Albin|Arthur Johns",
+    "NomineeIds": "nm0181832|nm0016825|nm0424284",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Only Angels Have Wings",
+    "FilmId": "tt0031762",
+    "Name": "Roy Davidson, Edwin C. Hahn",
+    "Nominees": "Roy Davidson|Edwin C. Hahn",
+    "NomineeIds": "nm0203482|nm0353894",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Private Lives of Elizabeth and Essex",
+    "FilmId": "tt0031826",
+    "Name": "Byron Haskin, Nathan Levinson",
+    "Nominees": "Byron Haskin|Nathan Levinson",
+    "NomineeIds": "nm0005738|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Rains Came",
+    "FilmId": "tt0031835",
+    "Name": "Fred Sersen, E. H. Hansen",
+    "Nominees": "Fred Sersen|E. H. Hansen",
+    "NomineeIds": "nm0785731|nm0360770",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Topper Takes a Trip",
+    "FilmId": "tt0032043",
+    "Name": "Roy Seawright",
+    "Nominees": "Roy Seawright",
+    "NomineeIds": "nm0780880",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Union Pacific",
+    "FilmId": "tt0032080",
+    "Name": "Farciot Edouart, Gordon Jennings, Loren Ryder",
+    "Nominees": "Farciot Edouart|Gordon Jennings|Loren Ryder",
+    "NomineeIds": "nm0249643|nm0421157|nm0753122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Wizard of Oz",
+    "FilmId": "tt0032138",
+    "Name": "A. Arnold Gillespie, Douglas Shearer",
+    "Nominees": "A. Arnold Gillespie|Douglas Shearer",
+    "NomineeIds": "nm0318901|nm0790428",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Bachelor Mother",
+    "FilmId": "tt0031067",
+    "Name": "Felix Jackson",
+    "Nominees": "Felix Jackson",
+    "NomineeIds": "nm0413519",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Love Affair",
+    "FilmId": "tt0031593",
+    "Name": "Mildred Cram, Leo McCarey",
+    "Nominees": "Mildred Cram|Leo McCarey",
+    "NomineeIds": "nm0186118|nm0564970",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Lewis R. Foster",
+    "Nominees": "Lewis R. Foster",
+    "NomineeIds": "nm0287931",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Ninotchka",
+    "FilmId": "tt0031725",
+    "Name": "Melchior Lengyel",
+    "Nominees": "Melchior Lengyel",
+    "NomineeIds": "nm0501872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Young Mr. Lincoln",
+    "FilmId": "tt0032155",
+    "Name": "Lamar Trotti",
+    "Nominees": "Lamar Trotti",
+    "NomineeIds": "nm0873707",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "Sidney Howard",
+    "Nominees": "Sidney Howard",
+    "NomineeIds": "nm0397608",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Goodbye, Mr. Chips",
+    "FilmId": "tt0031385",
+    "Name": "R. C. Sherriff, Claudine West, Eric Maschwitz",
+    "Nominees": "R. C. Sherriff|Claudine West|Eric Maschwitz",
+    "NomineeIds": "nm0792670|nm0921995|nm0556178",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Mr. Smith Goes to Washington",
+    "FilmId": "tt0031679",
+    "Name": "Sidney Buchman",
+    "Nominees": "Sidney Buchman",
+    "NomineeIds": "nm0118227",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Ninotchka",
+    "FilmId": "tt0031725",
+    "Name": "Charles Brackett, Billy Wilder, Walter Reisch",
+    "Nominees": "Charles Brackett|Billy Wilder|Walter Reisch",
+    "NomineeIds": "nm0102818|nm0000697|nm0281556",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Wuthering Heights",
+    "FilmId": "tt0032145",
+    "Name": "Charles MacArthur, Ben Hecht",
+    "Nominees": "Charles MacArthur|Ben Hecht",
+    "NomineeIds": "nm0531269|nm0372942",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Douglas Fairbanks",
+    "NomineeIds": "nm0001196",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Douglas Fairbanks (Commemorative Award) - recognizing the unique and outstanding contribution of Douglas Fairbanks, first President of the Academy, to the international development of the motion picture."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Motion Picture Relief Fund|Jean Hersholt|Ralph Morgan|Ralph Block|Conrad Nagel",
+    "NomineeIds": "?|nm0380965|nm0604960|nm0088759|nm0619261",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To The Motion Picture Relief Fund - acknowledging the outstanding services to the industry during the past year of the Motion Picture Relief Fund and its progressive leadership. Presented to Jean Hersholt, President; Ralph Morgan, Chairman of the Executive Committee; Ralph Block, First Vice-President; and Conrad Nagel."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Judy Garland",
+    "NomineeIds": "nm0000023",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Judy Garland for her outstanding performance as a screen juvenile during the past year."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "",
+    "Nominees": "William Cameron Menzies",
+    "NomineeIds": "nm0580017",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To William Cameron Menzies for outstanding achievement in the use of color for the enhancement of dramatic mood in the production of Gone with the Wind."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "the Technicolor Company",
+    "NomineeIds": "co0065861",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To the Technicolor Company for its contributions in successfully bringing three-color feature production to the screen."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "David O. Selznick",
+    "Nominees": "David O. Selznick",
+    "NomineeIds": "nm0006388",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "GEORGE ANDERSON",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To GEORGE ANDERSON of Warner Bros. Studio for an improved positive head for sun arcs."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JOHN ARNOLD",
+    "NomineeIds": "nm0036507",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To JOHN ARNOLD of Metro-Goldwyn-Mayer Studio for the M-G-M mobile camera crane."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thomas T. Moulton|Fred Albin|Samuel Goldwyn Studio",
+    "NomineeIds": "nm0609771|nm0016825|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To THOMAS T. MOULTON, FRED ALBIN and the SOUND DEPARTMENT OF THE SAMUEL GOLDWYN STUDIO for the origination and application of the Delta db test to sound recording in motion pictures."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Farciot Edouart|JOSEPH E. ROBBINS|WILLIAM RUDOLPH|PARAMOUNT PICTURES INC.",
+    "NomineeIds": "nm0249643|?|?|?",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To FARCIOT EDOUART, JOSEPH E. ROBBINS, WILLIAM RUDOLPH and PARAMOUNT PICTURES, INC. for the design and construction of a quiet portable treadmill."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "EMERY HUSE|RALPH B. ATKINSON",
+    "NomineeIds": "?|nm2124730",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To EMERY HUSE and RALPH B. ATKINSON of the Eastman Kodak Company for their specifications for chemical analysis of photographic developers and fixing baths."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "HAROLD NYE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To HAROLD NYE of Warner Bros. Studio for a miniature incandescent spot lamp."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "A. J. TONDREAU",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To A. J. TONDREAU of Warner Bros. Studio for the design and manufacture of an improved sound track printer."
+  },
+  {
+    "Ceremony": 12,
+    "Year": 1939,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "Gone with the Wind",
+    "FilmId": "tt0031381",
+    "Name": "",
+    "Nominees": "F. R. ABBOTT|HALLER BELT|ALAN COOK|the BAUSCH & LOMB OPTICAL COMPANY|The MITCHELL CAMERA COMPANY|MOLE-RICHARDSON COMPANY|CHARLES HANDLEY|DAVID JOY|the NATIONAL CARBON COMPANY|WINTON HOCH|TECHNICOLOR MOTION PICTURE CORP.|DON MUSGRAVE|SELZNICK INTERNATIONAL PICTURES INC.",
+    "NomineeIds": "nm1226743|nm1226921|nm1226718|co0051159|?|?|nm1227736|nm1290592|?|nm0005743|?|?|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "For important contributions in cooperative development of new improved Process Projection Equipment: F. R. ABBOTT, HALLER BELT, ALAN COOK and the BAUSCH & LOMB OPTICAL COMPANY for faster projection lenses; The MITCHELL CAMERA COMPANY for a new type process projection head; MOLE-RICHARDSON COMPANY for a new type automatically controlled projection arc lamp; CHARLES HANDLEY, DAVID JOY and the NATIONAL CARBON COMPANY for improved and more stable high-intensity carbons; WINTON HOCH and the TECHNICOLOR MOTION PICTURE CORP. for an auxiliary optical system; DON MUSGRAVE and SELZNICK INTERNATIONAL PICTURES, INC. for pioneering in the use of coordinated equipment in the production, Gone with the Wind."
   }
 ]

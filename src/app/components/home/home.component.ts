@@ -18,7 +18,7 @@ export class HomeComponent implements OnInit {
   endYear = new Date().getFullYear();
   isImdb: boolean = false;
 
-  ngOnInit() {    
+  ngOnInit() {
     for (let y = this.endYear - 2; y >= this.startYear; y--) {
       this.years.push(y);
     }
@@ -30,7 +30,7 @@ export class HomeComponent implements OnInit {
       "1928-29",
       "1927-28"
     ];
-    
+
     this.years = [...this.years, ...specialYears];
     this.selectedYear = this.endYear - 2;
   }

@@ -1,1856 +1,2162 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "The King's Speech"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "127 Hours"
-        ],
-        "movies": [
-            {
-                "title": "127 Hours",
-                "tmdb_id": 44115,
-                "imdb_id": "tt1542344"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "Black Swan"
-        ],
-        "movies": [
-            {
-                "title": "Black Swan",
-                "tmdb_id": 44214,
-                "imdb_id": "tt0947798"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "The Fighter"
-        ],
-        "movies": [
-            {
-                "title": "The Fighter",
-                "tmdb_id": 45317,
-                "imdb_id": "tt0964517"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "Inception"
-        ],
-        "movies": [
-            {
-                "title": "Inception",
-                "tmdb_id": 27205,
-                "imdb_id": "tt1375666"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "The Kids are Alright"
-        ],
-        "movies": [
-            {
-                "title": "The Kids Are All Right",
-                "tmdb_id": 39781,
-                "imdb_id": "tt0842926"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "The Social Network"
-        ],
-        "movies": [
-            {
-                "title": "The Social Network",
-                "tmdb_id": 37799,
-                "imdb_id": "tt1285016"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "Toy Story 3"
-        ],
-        "movies": [
-            {
-                "title": "Toy Story 3",
-                "tmdb_id": 10193,
-                "imdb_id": "tt0435761"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "True Grit"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2010",
-        "nominees": [
-            "Winter's Bone"
-        ],
-        "movies": [
-            {
-                "title": "Winter's Bone",
-                "tmdb_id": 39013,
-                "imdb_id": "tt1399683"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2010",
-        "nominees": [
-            "Colin Firth"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2010",
-        "nominees": [
-            "Javier Bardem"
-        ],
-        "movies": [
-            {
-                "title": "Biutiful",
-                "tmdb_id": 45958,
-                "imdb_id": "tt1164999"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2010",
-        "nominees": [
-            "Jeff Bridges"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2010",
-        "nominees": [
-            "Jesse Eisenberg"
-        ],
-        "movies": [
-            {
-                "title": "The Social Network",
-                "tmdb_id": 37799,
-                "imdb_id": "tt1285016"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2010",
-        "nominees": [
-            "James Franco"
-        ],
-        "movies": [
-            {
-                "title": "127 Hours",
-                "tmdb_id": 44115,
-                "imdb_id": "tt1542344"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2010",
-        "nominees": [
-            "Natalie Portman"
-        ],
-        "movies": [
-            {
-                "title": "Black Swan",
-                "tmdb_id": 44214,
-                "imdb_id": "tt0947798"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2010",
-        "nominees": [
-            "Annette Bening"
-        ],
-        "movies": [
-            {
-                "title": "The Kids Are All Right",
-                "tmdb_id": 39781,
-                "imdb_id": "tt0842926"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2010",
-        "nominees": [
-            "Nicole Kidman"
-        ],
-        "movies": [
-            {
-                "title": "Rabbit Hole",
-                "tmdb_id": 27585,
-                "imdb_id": "tt0935075"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2010",
-        "nominees": [
-            "Jennifer Lawrence"
-        ],
-        "movies": [
-            {
-                "title": "Winter's Bone",
-                "tmdb_id": 39013,
-                "imdb_id": "tt1399683"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2010",
-        "nominees": [
-            "Michelle Williams"
-        ],
-        "movies": [
-            {
-                "title": "Blue Valentine",
-                "tmdb_id": 46705,
-                "imdb_id": "tt1120985"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2010",
-        "nominees": [
-            "Christian Bale"
-        ],
-        "movies": [
-            {
-                "title": "The Fighter",
-                "tmdb_id": 45317,
-                "imdb_id": "tt0964517"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2010",
-        "nominees": [
-            "John Hawkes"
-        ],
-        "movies": [
-            {
-                "title": "Winter's Bone",
-                "tmdb_id": 39013,
-                "imdb_id": "tt1399683"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2010",
-        "nominees": [
-            "Jeremy Renner"
-        ],
-        "movies": [
-            {
-                "title": "The Town",
-                "tmdb_id": 23168,
-                "imdb_id": "tt0840361"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2010",
-        "nominees": [
-            "Mark Ruffalo"
-        ],
-        "movies": [
-            {
-                "title": "The Kids Are All Right",
-                "tmdb_id": 39781,
-                "imdb_id": "tt0842926"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2010",
-        "nominees": [
-            "Geoffrey Rush"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2010",
-        "nominees": [
-            "Melissa Leo"
-        ],
-        "movies": [
-            {
-                "title": "The Fighter",
-                "tmdb_id": 45317,
-                "imdb_id": "tt0964517"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2010",
-        "nominees": [
-            "Amy Adams"
-        ],
-        "movies": [
-            {
-                "title": "The Fighter",
-                "tmdb_id": 45317,
-                "imdb_id": "tt0964517"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2010",
-        "nominees": [
-            "Helena Bonham Carter"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2010",
-        "nominees": [
-            "Hailee Steinfeld"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2010",
-        "nominees": [
-            "Jacki Weaver"
-        ],
-        "movies": [
-            {
-                "title": "Animal Kingdom",
-                "tmdb_id": 44629,
-                "imdb_id": "tt1313092"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2010",
-        "nominees": [
-            "Tom Hooper"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2010",
-        "nominees": [
-            "Darren Aronofsky"
-        ],
-        "movies": [
-            {
-                "title": "Black Swan",
-                "tmdb_id": 44214,
-                "imdb_id": "tt0947798"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2010",
-        "nominees": [
-            "Ethan Coen",
-            "Joel Coen"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2010",
-        "nominees": [
-            "David Fincher"
-        ],
-        "movies": [
-            {
-                "title": "The Social Network",
-                "tmdb_id": 37799,
-                "imdb_id": "tt1285016"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2010",
-        "nominees": [
-            "David O. Russell"
-        ],
-        "movies": [
-            {
-                "title": "The Fighter",
-                "tmdb_id": 45317,
-                "imdb_id": "tt0964517"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2010",
-        "nominees": [
-            "Aaron Sorkin"
-        ],
-        "movies": [
-            {
-                "title": "The Social Network",
-                "tmdb_id": 37799,
-                "imdb_id": "tt1285016"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2010",
-        "nominees": [
-            "Danny Boyle",
-            "Simon Beaufoy"
-        ],
-        "movies": [
-            {
-                "title": "127 Hours",
-                "tmdb_id": 44115,
-                "imdb_id": "tt1542344"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2010",
-        "nominees": [
-            "Michael Arndt",
-            "John Lasseter",
-            "Andrew Stanton",
-            "Lee Unkrich"
-        ],
-        "movies": [
-            {
-                "title": "Toy Story 3",
-                "tmdb_id": 10193,
-                "imdb_id": "tt0435761"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2010",
-        "nominees": [
-            "Ethan Coen",
-            "Joel Coen"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2010",
-        "nominees": [
-            "Debra Granik",
-            "Anne Rosellini"
-        ],
-        "movies": [
-            {
-                "title": "Winter's Bone",
-                "tmdb_id": 39013,
-                "imdb_id": "tt1399683"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2010",
-        "nominees": [
-            "David Seidler"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2010",
-        "nominees": [
-            "Mike Leigh"
-        ],
-        "movies": [
-            {
-                "title": "Another Year",
-                "tmdb_id": 44009,
-                "imdb_id": "tt1431181"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2010",
-        "nominees": [
-            "Scott Silver",
-            "Paul Tamasy",
-            "Eric Johnson",
-            "Keith Dorrington"
-        ],
-        "movies": [
-            {
-                "title": "The Fighter",
-                "tmdb_id": 45317,
-                "imdb_id": "tt0964517"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2010",
-        "nominees": [
-            "Christopher Nolan"
-        ],
-        "movies": [
-            {
-                "title": "Inception",
-                "tmdb_id": 27205,
-                "imdb_id": "tt1375666"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2010",
-        "nominees": [
-            "Lisa Cholodenko",
-            "Stuart Blumberg"
-        ],
-        "movies": [
-            {
-                "title": "The Kids Are All Right",
-                "tmdb_id": 39781,
-                "imdb_id": "tt0842926"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2010",
-        "nominees": [
-            "Trent Reznor",
-            "Atticus Ross"
-        ],
-        "movies": [
-            {
-                "title": "The Social Network",
-                "tmdb_id": 37799,
-                "imdb_id": "tt1285016"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2010",
-        "nominees": [
-            "A.R. Rahman"
-        ],
-        "movies": [
-            {
-                "title": "127 Hours",
-                "tmdb_id": 44115,
-                "imdb_id": "tt1542344"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2010",
-        "nominees": [
-            "John Powell"
-        ],
-        "movies": [
-            {
-                "title": "How to Train Your Dragon",
-                "tmdb_id": 10191,
-                "imdb_id": "tt0892769"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2010",
-        "nominees": [
-            "Hans Zimmer"
-        ],
-        "movies": [
-            {
-                "title": "Inception",
-                "tmdb_id": 27205,
-                "imdb_id": "tt1375666"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2010",
-        "nominees": [
-            "Alexandre Desplat"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2010",
-        "nominees": [
-            "We Belong Together"
-        ],
-        "movies": [
-            {
-                "title": "Toy Story 3",
-                "tmdb_id": 10193,
-                "imdb_id": "tt0435761"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2010",
-        "nominees": [
-            "Coming Home"
-        ],
-        "movies": [
-            {
-                "title": "Country Strong",
-                "tmdb_id": 45272,
-                "imdb_id": "tt1555064"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2010",
-        "nominees": [
-            "I See the Light"
-        ],
-        "movies": [
-            {
-                "title": "Tangled",
-                "tmdb_id": 38757,
-                "imdb_id": "tt0398286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2010",
-        "nominees": [
-            "If I Rise"
-        ],
-        "movies": [
-            {
-                "title": "127 Hours",
-                "tmdb_id": 44115,
-                "imdb_id": "tt1542344"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2010",
-        "nominees": [
-            "In a Better World"
-        ],
-        "movies": [
-            {
-                "title": "In a Better World",
-                "tmdb_id": 44716,
-                "imdb_id": "tt1340107"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2010",
-        "nominees": [
-            "Biutiful"
-        ],
-        "movies": [
-            {
-                "title": "Biutiful",
-                "tmdb_id": 45958,
-                "imdb_id": "tt1164999"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2010",
-        "nominees": [
-            "Dogtooth"
-        ],
-        "movies": [
-            {
-                "title": "Dogtooth",
-                "tmdb_id": 38810,
-                "imdb_id": "tt1379182"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2010",
-        "nominees": [
-            "Incendies"
-        ],
-        "movies": [
-            {
-                "title": "Incendies",
-                "tmdb_id": 46738,
-                "imdb_id": "tt1255953"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2010",
-        "nominees": [
-            "Outside the Law"
-        ],
-        "movies": [
-            {
-                "title": "Outside the Law",
-                "tmdb_id": 47904,
-                "imdb_id": "tt1229381"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2010",
-        "nominees": [
-            "Inside Job"
-        ],
-        "movies": [
-            {
-                "title": "Inside Job",
-                "tmdb_id": 44639,
-                "imdb_id": "tt1645089"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2010",
-        "nominees": [
-            "Exit Through the Gift Shop"
-        ],
-        "movies": [
-            {
-                "title": "Exit Through the Gift Shop",
-                "tmdb_id": 39452,
-                "imdb_id": "tt1587707"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2010",
-        "nominees": [
-            "Gasland"
-        ],
-        "movies": [
-            {
-                "title": "Gasland",
-                "tmdb_id": 40663,
-                "imdb_id": "tt1558250"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2010",
-        "nominees": [
-            "Restrepo"
-        ],
-        "movies": [
-            {
-                "title": "Restrepo",
-                "tmdb_id": 39312,
-                "imdb_id": "tt1559549"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2010",
-        "nominees": [
-            "Waste Land"
-        ],
-        "movies": [
-            {
-                "title": "Waste Land",
-                "tmdb_id": 46689,
-                "imdb_id": "tt1268204"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2010",
-        "nominees": [
-            "Strangers No More"
-        ],
-        "movies": [
-            {
-                "title": "Strangers No More",
-                "tmdb_id": 113366,
-                "imdb_id": "tt1754549"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2010",
-        "nominees": [
-            "Killing in the Name"
-        ],
-        "movies": [
-            {
-                "title": "Killing in the Name",
-                "tmdb_id": 128602,
-                "imdb_id": "tt1684897"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2010",
-        "nominees": [
-            "Poster Girl"
-        ],
-        "movies": [
-            {
-                "title": "Poster Girl",
-                "tmdb_id": 82421,
-                "imdb_id": "tt1505384"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2010",
-        "nominees": [
-            "Sun Come Up"
-        ],
-        "movies": [
-            {
-                "title": "Sun Come Up",
-                "tmdb_id": 193504,
-                "imdb_id": "tt1621975"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2010",
-        "nominees": [
-            "The Warriors of Qiugang"
-        ],
-        "movies": [
-            {
-                "title": "The Warriors of Qiugang",
-                "tmdb_id": 245038,
-                "imdb_id": "tt1744887"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2010",
-        "nominees": [
-            "Toy Story 3"
-        ],
-        "movies": [
-            {
-                "title": "Toy Story 3",
-                "tmdb_id": 10193,
-                "imdb_id": "tt0435761"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2010",
-        "nominees": [
-            "How to Train Your Dragon"
-        ],
-        "movies": [
-            {
-                "title": "How to Train Your Dragon",
-                "tmdb_id": 10191,
-                "imdb_id": "tt0892769"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2010",
-        "nominees": [
-            "The Illusionist"
-        ],
-        "movies": [
-            {
-                "title": "The Illusionist",
-                "tmdb_id": 41201,
-                "imdb_id": "tt0775489"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2010",
-        "nominees": [
-            "The Lost Thing"
-        ],
-        "movies": [
-            {
-                "title": "The Lost Thing",
-                "tmdb_id": 58515,
-                "imdb_id": "tt1669698"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2010",
-        "nominees": [
-            "Day & Night"
-        ],
-        "movies": [
-            {
-                "title": "Day & Night",
-                "tmdb_id": 40619,
-                "imdb_id": "tt1620446"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2010",
-        "nominees": [
-            "The Gruffalo"
-        ],
-        "movies": [
-            {
-                "title": "The Gruffalo",
-                "tmdb_id": 28118,
-                "imdb_id": "tt1461418"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2010",
-        "nominees": [
-            "Let's Pollute"
-        ],
-        "movies": [
-            {
-                "title": "Let's Pollute",
-                "tmdb_id": 159523,
-                "imdb_id": "tt1470652"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2010",
-        "nominees": [
-            "Madagascar, a Journey Diary"
-        ],
-        "movies": [
-            {
-                "title": "Madagascar, a Journey Diary",
-                "tmdb_id": 150298,
-                "imdb_id": "tt1590114"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2010",
-        "nominees": [
-            "God of Love"
-        ],
-        "movies": [
-            {
-                "title": "God of Love",
-                "tmdb_id": 58763,
-                "imdb_id": "tt1631323"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2010",
-        "nominees": [
-            "The Confession"
-        ],
-        "movies": [
-            {
-                "title": "The Confession",
-                "tmdb_id": 132239,
-                "imdb_id": "tt1687903"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2010",
-        "nominees": [
-            "The Crush"
-        ],
-        "movies": [
-            {
-                "title": "The Crush",
-                "tmdb_id": 159518,
-                "imdb_id": "tt1509756"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2010",
-        "nominees": [
-            "Na Wewe"
-        ],
-        "movies": [
-            {
-                "title": "Na Wewe",
-                "tmdb_id": 95468,
-                "imdb_id": "tt1764508"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2010",
-        "nominees": [
-            "Wish 143"
-        ],
-        "movies": [
-            {
-                "title": "Wish 143",
-                "tmdb_id": 159508,
-                "imdb_id": "tt1518330"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Robert Stromberg",
-            "Karen O'Hara"
-        ],
-        "movies": [
-            {
-                "title": "Alice in Wonderland",
-                "tmdb_id": 12155,
-                "imdb_id": "tt1014759"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Stuart Craig",
-            "Stephenie McMillan"
-        ],
-        "movies": [
-            {
-                "title": "Harry Potter and the Deathly Hallows: Part 1",
-                "tmdb_id": 12444,
-                "imdb_id": "tt0926084"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Guy Hendrix Dyas",
-            "Larry Dias",
-            "Doug Mowat"
-        ],
-        "movies": [
-            {
-                "title": "Inception",
-                "tmdb_id": 27205,
-                "imdb_id": "tt1375666"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Eve Stewart",
-            "Judy Farr"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Jess Gonchor",
-            "Nancy Haigh"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2010",
-        "nominees": [
-            "Wally Pfister"
-        ],
-        "movies": [
-            {
-                "title": "Inception",
-                "tmdb_id": 27205,
-                "imdb_id": "tt1375666"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2010",
-        "nominees": [
-            "Matthew Libatique"
-        ],
-        "movies": [
-            {
-                "title": "Black Swan",
-                "tmdb_id": 44214,
-                "imdb_id": "tt0947798"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2010",
-        "nominees": [
-            "Danny Cohen"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2010",
-        "nominees": [
-            "Jeff Cronenweth"
-        ],
-        "movies": [
-            {
-                "title": "The Social Network",
-                "tmdb_id": 37799,
-                "imdb_id": "tt1285016"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2010",
-        "nominees": [
-            "Roger Deakins"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2010",
-        "nominees": [
-            "Angus Wall",
-            "Kirk Baxter"
-        ],
-        "movies": [
-            {
-                "title": "The Social Network",
-                "tmdb_id": 37799,
-                "imdb_id": "tt1285016"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2010",
-        "nominees": [
-            "Jon Harris"
-        ],
-        "movies": [
-            {
-                "title": "127 Hours",
-                "tmdb_id": 44115,
-                "imdb_id": "tt1542344"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2010",
-        "nominees": [
-            "Andrew Weisblum"
-        ],
-        "movies": [
-            {
-                "title": "Black Swan",
-                "tmdb_id": 44214,
-                "imdb_id": "tt0947798"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2010",
-        "nominees": [
-            "Pamela Martin"
-        ],
-        "movies": [
-            {
-                "title": "The Fighter",
-                "tmdb_id": 45317,
-                "imdb_id": "tt0964517"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2010",
-        "nominees": [
-            "Tariq Anwar"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2010",
-        "nominees": [
-            "Paul Franklin",
-            "Chris Corbould",
-            "Andrew Lockley",
-            "Peter Bebb"
-        ],
-        "movies": [
-            {
-                "title": "Inception",
-                "tmdb_id": 27205,
-                "imdb_id": "tt1375666"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2010",
-        "nominees": [
-            "Ken Ralston",
-            "David Schaub",
-            "Carey Villegas",
-            "Sean Phillips"
-        ],
-        "movies": [
-            {
-                "title": "Alice in Wonderland",
-                "tmdb_id": 12155,
-                "imdb_id": "tt1014759"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2010",
-        "nominees": [
-            "Tim Burke",
-            "John Richardson",
-            "Christian Manz",
-            "Nicolas Aithadi"
-        ],
-        "movies": [
-            {
-                "title": "Harry Potter and the Deathly Hallows: Part 1",
-                "tmdb_id": 12444,
-                "imdb_id": "tt0926084"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2010",
-        "nominees": [
-            "Michael Owens",
-            "Michael Owens",
-            "Bryan Grill",
-            "Stephan Trojanski",
-            "Joe Farrell"
-        ],
-        "movies": [
-            {
-                "title": "Hereafter",
-                "tmdb_id": 44603,
-                "imdb_id": "tt1212419"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2010",
-        "nominees": [
-            "Janek Sirrs",
-            "Ben Snow",
-            "Ged Wright",
-            "Daniel Sudick"
-        ],
-        "movies": [
-            {
-                "title": "Iron Man 2",
-                "tmdb_id": 10138,
-                "imdb_id": "tt1228705"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2010",
-        "nominees": [
-            "Lora Hirschberg",
-            "Gary Rizzo",
-            "Ed Novick"
-        ],
-        "movies": [
-            {
-                "title": "Inception",
-                "tmdb_id": 27205,
-                "imdb_id": "tt1375666"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2010",
-        "nominees": [
-            "Paul Hamblin",
-            "Martin Jensen",
-            "John Midgley"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2010",
-        "nominees": [
-            "Jeffrey J. Haboush",
-            "Greg P. Russell",
-            "Scott Millan",
-            "William Sarokin"
-        ],
-        "movies": [
-            {
-                "title": "Salt",
-                "tmdb_id": 27576,
-                "imdb_id": "tt0944835"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2010",
-        "nominees": [
-            "Ren Klyce",
-            "David Parker",
-            "Michael Semanick",
-            "Mark Weingarten"
-        ],
-        "movies": [
-            {
-                "title": "The Social Network",
-                "tmdb_id": 37799,
-                "imdb_id": "tt1285016"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2010",
-        "nominees": [
-            "Skip Lievsay",
-            "Craig Berkey",
-            "Greg Orloff",
-            "Peter Kurland"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2010",
-        "nominees": [
-            "Richard King"
-        ],
-        "movies": [
-            {
-                "title": "Inception",
-                "tmdb_id": 27205,
-                "imdb_id": "tt1375666"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2010",
-        "nominees": [
-            "Tom Myers",
-            "Michael Silvers"
-        ],
-        "movies": [
-            {
-                "title": "Toy Story 3",
-                "tmdb_id": 10193,
-                "imdb_id": "tt0435761"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2010",
-        "nominees": [
-            "Gwendolyn Yates Whittle",
-            "Addison Teague"
-        ],
-        "movies": [
-            {
-                "title": "TRON: Legacy",
-                "tmdb_id": 20526,
-                "imdb_id": "tt1104001"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2010",
-        "nominees": [
-            "Skip Lievsay",
-            "Craig Berkey"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2010",
-        "nominees": [
-            "Mark P. Stoeckinger"
-        ],
-        "movies": [
-            {
-                "title": "Unstoppable",
-                "tmdb_id": 44048,
-                "imdb_id": "tt0477080"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2010",
-        "nominees": [
-            "Rick Baker",
-            "Dave Elsey"
-        ],
-        "movies": [
-            {
-                "title": "The Wolfman",
-                "tmdb_id": 7978,
-                "imdb_id": "tt0780653"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2010",
-        "nominees": [
-            "Adrien Morot"
-        ],
-        "movies": [
-            {
-                "title": "Barney's Version",
-                "tmdb_id": 46829,
-                "imdb_id": "tt1423894"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2010",
-        "nominees": [
-            "Edouard F. Henriques",
-            "Gregory Funk",
-            "Yolanda Toussieng"
-        ],
-        "movies": [
-            {
-                "title": "The Way Back",
-                "tmdb_id": 49009,
-                "imdb_id": "tt1023114"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Colleen Atwood"
-        ],
-        "movies": [
-            {
-                "title": "Alice in Wonderland",
-                "tmdb_id": 12155,
-                "imdb_id": "tt1014759"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Antonella Cannarozzi"
-        ],
-        "movies": [
-            {
-                "title": "I Am Love",
-                "tmdb_id": 41110,
-                "imdb_id": "tt1226236"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Jenny Beavan"
-        ],
-        "movies": [
-            {
-                "title": "The King's Speech",
-                "tmdb_id": 45269,
-                "imdb_id": "tt1504320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Sandy Powell"
-        ],
-        "movies": [
-            {
-                "title": "The Tempest",
-                "tmdb_id": 44638,
-                "imdb_id": "tt1274300"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2010",
-        "nominees": [
-            "Mary Zophres"
-        ],
-        "movies": [
-            {
-                "title": "True Grit",
-                "tmdb_id": 44264,
-                "imdb_id": "tt1403865"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Biutiful",
+    "FilmId": "tt1164999",
+    "Name": "Javier Bardem",
+    "Nominees": "Javier Bardem",
+    "NomineeIds": "nm0000849",
+    "Winner": "",
+    "Detail": "Uxbal",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Jeff Bridges",
+    "Nominees": "Jeff Bridges",
+    "NomineeIds": "nm0000313",
+    "Winner": "",
+    "Detail": "Rooster Cogburn",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Social Network",
+    "FilmId": "tt1285016",
+    "Name": "Jesse Eisenberg",
+    "Nominees": "Jesse Eisenberg",
+    "NomineeIds": "nm0251986",
+    "Winner": "",
+    "Detail": "Mark Zuckerberg",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Colin Firth",
+    "Nominees": "Colin Firth",
+    "NomineeIds": "nm0000147",
+    "Winner": "True",
+    "Detail": "King George VI",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "127 Hours",
+    "FilmId": "tt1542344",
+    "Name": "James Franco",
+    "Nominees": "James Franco",
+    "NomineeIds": "nm0290556",
+    "Winner": "",
+    "Detail": "Aron Ralston",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Fighter",
+    "FilmId": "tt0964517",
+    "Name": "Christian Bale",
+    "Nominees": "Christian Bale",
+    "NomineeIds": "nm0000288",
+    "Winner": "True",
+    "Detail": "Dicky Eklund",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Winter's Bone",
+    "FilmId": "tt1399683",
+    "Name": "John Hawkes",
+    "Nominees": "John Hawkes",
+    "NomineeIds": "nm0370035",
+    "Winner": "",
+    "Detail": "Teardrop",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Town",
+    "FilmId": "tt0840361",
+    "Name": "Jeremy Renner",
+    "Nominees": "Jeremy Renner",
+    "NomineeIds": "nm0719637",
+    "Winner": "",
+    "Detail": "James Coughlin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Kids Are All Right",
+    "FilmId": "tt0842926",
+    "Name": "Mark Ruffalo",
+    "Nominees": "Mark Ruffalo",
+    "NomineeIds": "nm0749263",
+    "Winner": "",
+    "Detail": "Paul",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Geoffrey Rush",
+    "Nominees": "Geoffrey Rush",
+    "NomineeIds": "nm0001691",
+    "Winner": "",
+    "Detail": "Lionel Logue",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Kids Are All Right",
+    "FilmId": "tt0842926",
+    "Name": "Annette Bening",
+    "Nominees": "Annette Bening",
+    "NomineeIds": "nm0000906",
+    "Winner": "",
+    "Detail": "Nic",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Rabbit Hole",
+    "FilmId": "tt0935075",
+    "Name": "Nicole Kidman",
+    "Nominees": "Nicole Kidman",
+    "NomineeIds": "nm0000173",
+    "Winner": "",
+    "Detail": "Becca",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Winter's Bone",
+    "FilmId": "tt1399683",
+    "Name": "Jennifer Lawrence",
+    "Nominees": "Jennifer Lawrence",
+    "NomineeIds": "nm2225369",
+    "Winner": "",
+    "Detail": "Ree",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Black Swan",
+    "FilmId": "tt0947798",
+    "Name": "Natalie Portman",
+    "Nominees": "Natalie Portman",
+    "NomineeIds": "nm0000204",
+    "Winner": "True",
+    "Detail": "Nina Sayers/The Swan Queen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Blue Valentine",
+    "FilmId": "tt1120985",
+    "Name": "Michelle Williams",
+    "Nominees": "Michelle Williams",
+    "NomineeIds": "nm0931329",
+    "Winner": "",
+    "Detail": "Cindy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Fighter",
+    "FilmId": "tt0964517",
+    "Name": "Amy Adams",
+    "Nominees": "Amy Adams",
+    "NomineeIds": "nm0010736",
+    "Winner": "",
+    "Detail": "Charlene Fleming",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Helena Bonham Carter",
+    "Nominees": "Helena Bonham Carter",
+    "NomineeIds": "nm0000307",
+    "Winner": "",
+    "Detail": "Queen Elizabeth",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Fighter",
+    "FilmId": "tt0964517",
+    "Name": "Melissa Leo",
+    "Nominees": "Melissa Leo",
+    "NomineeIds": "nm0502425",
+    "Winner": "True",
+    "Detail": "Alice Ward",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Hailee Steinfeld",
+    "Nominees": "Hailee Steinfeld",
+    "NomineeIds": "nm2794962",
+    "Winner": "",
+    "Detail": "Mattie Ross",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Animal Kingdom",
+    "FilmId": "tt1313092",
+    "Name": "Jacki Weaver",
+    "Nominees": "Jacki Weaver",
+    "NomineeIds": "nm0915865",
+    "Winner": "",
+    "Detail": "Janine 'Smurf' Cody",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "How to Train Your Dragon",
+    "FilmId": "tt0892769",
+    "Name": "Chris Sanders and Dean DeBlois",
+    "Nominees": "Chris Sanders|Dean DeBlois",
+    "NomineeIds": "nm0761498|nm0213450",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Illusionist",
+    "FilmId": "tt0775489",
+    "Name": "Sylvain Chomet",
+    "Nominees": "Sylvain Chomet",
+    "NomineeIds": "nm0158984",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Toy Story 3",
+    "FilmId": "tt0435761",
+    "Name": "Lee Unkrich",
+    "Nominees": "Lee Unkrich",
+    "NomineeIds": "nm0881279",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Alice in Wonderland",
+    "FilmId": "tt1014759",
+    "Name": "Production Design: Robert Stromberg; Set Decoration: Karen O'Hara",
+    "Nominees": "Robert Stromberg|Karen O'Hara",
+    "NomineeIds": "nm0834902|nm0641286",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Harry Potter and the Deathly Hallows Part 1",
+    "FilmId": "tt0926084",
+    "Name": "Production Design: Stuart Craig; Set Decoration: Stephenie McMillan",
+    "Nominees": "Stuart Craig|Stephenie McMillan",
+    "NomineeIds": "nm0186023|nm0573328",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Inception",
+    "FilmId": "tt1375666",
+    "Name": "Production Design: Guy Hendrix Dyas; Set Decoration: Larry Dias and Doug Mowat",
+    "Nominees": "Guy Hendrix Dyas|Larry Dias|Doug Mowat",
+    "NomineeIds": "nm0245596|nm0224878|nm0610245",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Production Design: Eve Stewart; Set Decoration: Judy Farr",
+    "Nominees": "Eve Stewart|Judy Farr",
+    "NomineeIds": "nm0829378|nm0268035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Production Design: Jess Gonchor; Set Decoration: Nancy Haigh",
+    "Nominees": "Jess Gonchor|Nancy Haigh",
+    "NomineeIds": "nm0327211|nm0354101",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Black Swan",
+    "FilmId": "tt0947798",
+    "Name": "Matthew Libatique",
+    "Nominees": "Matthew Libatique",
+    "NomineeIds": "nm0508732",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Inception",
+    "FilmId": "tt1375666",
+    "Name": "Wally Pfister",
+    "Nominees": "Wally Pfister",
+    "NomineeIds": "nm0002892",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Danny Cohen",
+    "Nominees": "Danny Cohen",
+    "NomineeIds": "nm0169299",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Social Network",
+    "FilmId": "tt1285016",
+    "Name": "Jeff Cronenweth",
+    "Nominees": "Jeff Cronenweth",
+    "NomineeIds": "nm0188729",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Alice in Wonderland",
+    "FilmId": "tt1014759",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "I Am Love",
+    "FilmId": "tt1226236",
+    "Name": "Antonella Cannarozzi",
+    "Nominees": "Antonella Cannarozzi",
+    "NomineeIds": "nm0134050",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Jenny Beavan",
+    "Nominees": "Jenny Beavan",
+    "NomineeIds": "nm0064746",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Tempest",
+    "FilmId": "tt1274300",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Mary Zophres",
+    "Nominees": "Mary Zophres",
+    "NomineeIds": "nm0957861",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Black Swan",
+    "FilmId": "tt0947798",
+    "Name": "Darren Aronofsky",
+    "Nominees": "Darren Aronofsky",
+    "NomineeIds": "nm0004716",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Fighter",
+    "FilmId": "tt0964517",
+    "Name": "David O. Russell",
+    "Nominees": "David O. Russell",
+    "NomineeIds": "nm0751102",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Tom Hooper",
+    "Nominees": "Tom Hooper",
+    "NomineeIds": "nm0393799",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Social Network",
+    "FilmId": "tt1285016",
+    "Name": "David Fincher",
+    "Nominees": "David Fincher",
+    "NomineeIds": "nm0000399",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Joel Coen and Ethan Coen",
+    "Nominees": "Joel Coen|Ethan Coen",
+    "NomineeIds": "nm0001054|nm0001053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Exit through the Gift Shop",
+    "FilmId": "tt1587707",
+    "Name": "Banksy and Jaimie D'Cruz",
+    "Nominees": "Banksy|Jaimie D'Cruz",
+    "NomineeIds": "nm2612991|nm3261008",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Gasland",
+    "FilmId": "tt1558250",
+    "Name": "Josh Fox and Trish Adlesic",
+    "Nominees": "Josh Fox|Trish Adlesic",
+    "NomineeIds": "nm1068198|nm0012267",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Inside Job",
+    "FilmId": "tt1645089",
+    "Name": "Charles Ferguson and Audrey Marrs",
+    "Nominees": "Charles Ferguson|Audrey Marrs",
+    "NomineeIds": "nm2480587|nm2513737",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Restrepo",
+    "FilmId": "tt1559549",
+    "Name": "Tim Hetherington and Sebastian Junger",
+    "Nominees": "Tim Hetherington|Sebastian Junger",
+    "NomineeIds": "nm1770672|nm0432631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Waste Land",
+    "FilmId": "tt1268204",
+    "Name": "Lucy Walker and Angus Aynsley",
+    "Nominees": "Lucy Walker|Angus Aynsley",
+    "NomineeIds": "nm1013671|nm2376154",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Killing in the Name",
+    "FilmId": "tt1684897",
+    "Name": "Jed Rothstein",
+    "Nominees": "Jed Rothstein",
+    "NomineeIds": "nm1160206",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Poster Girl",
+    "FilmId": "tt1505384",
+    "Name": "Sara Nesson and Mitchell W. Block",
+    "Nominees": "Sara Nesson|Mitchell W. Block",
+    "NomineeIds": "nm3257331|nm0088753",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Strangers No More",
+    "FilmId": "tt1754549",
+    "Name": "Karen Goodman and Kirk Simon",
+    "Nominees": "Karen Goodman|Kirk Simon",
+    "NomineeIds": "nm0329139|nm0800232",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Sun Come Up",
+    "FilmId": "tt1621975",
+    "Name": "Jennifer Redfearn and Tim Metzger",
+    "Nominees": "Jennifer Redfearn|Tim Metzger",
+    "NomineeIds": "nm2503646|nm0582758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Warriors of Qiugang",
+    "FilmId": "tt1744887",
+    "Name": "Ruby Yang and Thomas Lennon",
+    "Nominees": "Ruby Yang|Thomas Lennon",
+    "NomineeIds": "nm0002548|nm0502072",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Black Swan",
+    "FilmId": "tt0947798",
+    "Name": "Andrew Weisblum",
+    "Nominees": "Andrew Weisblum",
+    "NomineeIds": "nm0918733",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Fighter",
+    "FilmId": "tt0964517",
+    "Name": "Pamela Martin",
+    "Nominees": "Pamela Martin",
+    "NomineeIds": "nm0552862",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Tariq Anwar",
+    "Nominees": "Tariq Anwar",
+    "NomineeIds": "nm0031697",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "127 Hours",
+    "FilmId": "tt1542344",
+    "Name": "Jon Harris",
+    "Nominees": "Jon Harris",
+    "NomineeIds": "nm1154184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Social Network",
+    "FilmId": "tt1285016",
+    "Name": "Angus Wall and Kirk Baxter",
+    "Nominees": "Angus Wall|Kirk Baxter",
+    "NomineeIds": "nm0908370|nm0062775",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Biutiful",
+    "FilmId": "tt1164999",
+    "Name": "Mexico",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Dogtooth",
+    "FilmId": "tt1379182",
+    "Name": "Greece",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "In a Better World",
+    "FilmId": "tt1340107",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Incendies",
+    "FilmId": "tt1255953",
+    "Name": "Canada",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Outside the Law (Hors-la-loi)",
+    "FilmId": "tt1229381",
+    "Name": "Algeria",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Barney's Version",
+    "FilmId": "tt1423894",
+    "Name": "Adrien Morot",
+    "Nominees": "Adrien Morot",
+    "NomineeIds": "nm0606110",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Way Back",
+    "FilmId": "tt1023114",
+    "Name": "Edouard F. Henriques, Gregory Funk and Yolanda Toussieng",
+    "Nominees": "Edouard F. Henriques|Gregory Funk|Yolanda Toussieng",
+    "NomineeIds": "nm0377667|nm0298727|nm0869758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Wolfman",
+    "FilmId": "tt0780653",
+    "Name": "Rick Baker and Dave Elsey",
+    "Nominees": "Rick Baker|Dave Elsey",
+    "NomineeIds": "nm0000711|nm0255642",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "How to Train Your Dragon",
+    "FilmId": "tt0892769",
+    "Name": "John Powell",
+    "Nominees": "John Powell",
+    "NomineeIds": "nm0694173",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Inception",
+    "FilmId": "tt1375666",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "127 Hours",
+    "FilmId": "tt1542344",
+    "Name": "A.R. Rahman",
+    "Nominees": "A.R. Rahman",
+    "NomineeIds": "nm0006246",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Social Network",
+    "FilmId": "tt1285016",
+    "Name": "Trent Reznor and Atticus Ross",
+    "Nominees": "Trent Reznor|Atticus Ross",
+    "NomineeIds": "nm0722153|nm1589604",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Country Strong",
+    "FilmId": "tt1555064",
+    "Name": "Music and Lyric by Tom Douglas, Troy Verges and Hillary Lindsey",
+    "Nominees": "Tom Douglas|Troy Verges|Hillary Lindsey",
+    "NomineeIds": "nm2762412|nm1525422|nm4269992",
+    "Winner": "",
+    "Detail": "Coming Home",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Tangled",
+    "FilmId": "tt0398286",
+    "Name": "Music by Alan Menken; Lyric by Glenn Slater",
+    "Nominees": "Alan Menken|Glenn Slater",
+    "NomineeIds": "nm0579678|nm1637698",
+    "Winner": "",
+    "Detail": "I See The Light",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "127 Hours",
+    "FilmId": "tt1542344",
+    "Name": "Music by A.R. Rahman; Lyric by Dido and Rollo Armstrong",
+    "Nominees": "A.R. Rahman|Dido|Rollo Armstrong",
+    "NomineeIds": "nm0006246|nm0225824|nm1926821",
+    "Winner": "",
+    "Detail": "If I Rise",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Toy Story 3",
+    "FilmId": "tt0435761",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "True",
+    "Detail": "We Belong Together",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Black Swan",
+    "FilmId": "tt0947798",
+    "Name": "Mike Medavoy, Brian Oliver and Scott Franklin, Producers",
+    "Nominees": "Mike Medavoy|Brian Oliver|Scott Franklin",
+    "NomineeIds": "nm0005219|nm1003922|nm0291542",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Fighter",
+    "FilmId": "tt0964517",
+    "Name": "David Hoberman, Todd Lieberman and Mark Wahlberg, Producers",
+    "Nominees": "David Hoberman|Todd Lieberman|Mark Wahlberg",
+    "NomineeIds": "nm0387674|nm0509414|nm0000242",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Inception",
+    "FilmId": "tt1375666",
+    "Name": "Emma Thomas and Christopher Nolan, Producers",
+    "Nominees": "Emma Thomas|Christopher Nolan",
+    "NomineeIds": "nm0858799|nm0634240",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Kids Are All Right",
+    "FilmId": "tt0842926",
+    "Name": "Gary Gilbert, Jeffrey Levy-Hinte and Celine Rattray, Producers",
+    "Nominees": "Gary Gilbert|Jeffrey Levy-Hinte|Celine Rattray",
+    "NomineeIds": "nm1344784|nm0506664|nm1488027",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Iain Canning, Emile Sherman and Gareth Unwin, Producers",
+    "Nominees": "Iain Canning|Emile Sherman|Gareth Unwin",
+    "NomineeIds": "nm2096617|nm0792431|nm1060902",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "127 Hours",
+    "FilmId": "tt1542344",
+    "Name": "Christian Colson, Danny Boyle and John Smithson, Producers",
+    "Nominees": "Christian Colson|Danny Boyle|John Smithson",
+    "NomineeIds": "nm1384503|nm0000965|nm0810478",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Social Network",
+    "FilmId": "tt1285016",
+    "Name": "Scott Rudin, Dana Brunetti, Michael De Luca and Ceán Chaffin, Producers",
+    "Nominees": "Scott Rudin|Dana Brunetti|Michael De Luca|Ceán Chaffin",
+    "NomineeIds": "nm0748784|nm0116232|nm0006894|nm0149556",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Toy Story 3",
+    "FilmId": "tt0435761",
+    "Name": "Darla K. Anderson, Producer",
+    "Nominees": "Darla K. Anderson",
+    "NomineeIds": "nm0026565",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Scott Rudin, Ethan Coen and Joel Coen, Producers",
+    "Nominees": "Scott Rudin|Ethan Coen|Joel Coen",
+    "NomineeIds": "nm0748784|nm0001053|nm0001054",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Winter's Bone",
+    "FilmId": "tt1399683",
+    "Name": "Anne Rosellini and Alix Madigan-Yorkin, Producers",
+    "Nominees": "Anne Rosellini|Alix Madigan-Yorkin",
+    "NomineeIds": "nm1367893|nm0534893",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Day & Night",
+    "FilmId": "tt1620446",
+    "Name": "Teddy Newton",
+    "Nominees": "Teddy Newton",
+    "NomineeIds": "nm0628599",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Gruffalo",
+    "FilmId": "tt1461418",
+    "Name": "Jakob Schuh and Max Lang",
+    "Nominees": "Jakob Schuh|Max Lang",
+    "NomineeIds": "nm2104164|nm3495071",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Let's Pollute",
+    "FilmId": "tt1470652",
+    "Name": "Geefwee Boedoe",
+    "Nominees": "Geefwee Boedoe",
+    "NomineeIds": "nm0091161",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Lost Thing",
+    "FilmId": "tt1669698",
+    "Name": "Shaun Tan and Andrew Ruhemann",
+    "Nominees": "Shaun Tan|Andrew Ruhemann",
+    "NomineeIds": "nm1316810|nm0749509",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Madagascar, carnet de voyage (Madagascar, a Journey Diary)",
+    "FilmId": "tt1590114",
+    "Name": "Bastien Dubois",
+    "Nominees": "Bastien Dubois",
+    "NomineeIds": "nm3777126",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Confession",
+    "FilmId": "tt1687903",
+    "Name": "Tanel Toom",
+    "Nominees": "Tanel Toom",
+    "NomineeIds": "nm1823803",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Crush",
+    "FilmId": "tt1509756",
+    "Name": "Michael Creagh",
+    "Nominees": "Michael Creagh",
+    "NomineeIds": "nm1739260",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "God of Love",
+    "FilmId": "tt1631323",
+    "Name": "Luke Matheny",
+    "Nominees": "Luke Matheny",
+    "NomineeIds": "nm1487468",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Na Wewe",
+    "FilmId": "tt1764508",
+    "Name": "Ivan Goldschmidt",
+    "Nominees": "Ivan Goldschmidt",
+    "NomineeIds": "nm0326006",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Wish 143",
+    "FilmId": "tt1518330",
+    "Name": "Ian Barnes and Samantha Waite",
+    "Nominees": "Ian Barnes|Samantha Waite",
+    "NomineeIds": "nm1357838|nm1639314",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Inception",
+    "FilmId": "tt1375666",
+    "Name": "Richard King",
+    "Nominees": "Richard King",
+    "NomineeIds": "nm0455185",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Toy Story 3",
+    "FilmId": "tt0435761",
+    "Name": "Tom Myers and Michael Silvers",
+    "Nominees": "Tom Myers|Michael Silvers",
+    "NomineeIds": "nm0616878|nm0799011",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Tron: Legacy",
+    "FilmId": "tt1104001",
+    "Name": "Gwendolyn Yates Whittle and Addison Teague",
+    "Nominees": "Gwendolyn Yates Whittle|Addison Teague",
+    "NomineeIds": "nm0946705|nm0853529",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Skip Lievsay and Craig Berkey",
+    "Nominees": "Skip Lievsay|Craig Berkey",
+    "NomineeIds": "nm0509792|nm0075389",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Unstoppable",
+    "FilmId": "tt0477080",
+    "Name": "Mark P. Stoeckinger",
+    "Nominees": "Mark P. Stoeckinger",
+    "NomineeIds": "nm0831057",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Inception",
+    "FilmId": "tt1375666",
+    "Name": "Lora Hirschberg, Gary A. Rizzo and Ed Novick",
+    "Nominees": "Lora Hirschberg|Gary A. Rizzo|Ed Novick",
+    "NomineeIds": "nm0386567|nm0729886|nm0637085",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Paul Hamblin, Martin Jensen and John Midgley",
+    "Nominees": "Paul Hamblin|Martin Jensen|John Midgley",
+    "NomineeIds": "nm0357413|nm1259646|nm0585611",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Salt",
+    "FilmId": "tt0944835",
+    "Name": "Jeffrey J. Haboush, Greg P. Russell, Scott Millan and William Sarokin",
+    "Nominees": "Jeffrey J. Haboush|Greg P. Russell|Scott Millan|William Sarokin",
+    "NomineeIds": "nm0352300|nm0751169|nm0586793|nm0765458",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Social Network",
+    "FilmId": "tt1285016",
+    "Name": "Ren Klyce, David Parker, Michael Semanick and Mark Weingarten",
+    "Nominees": "Ren Klyce|David Parker|Michael Semanick|Mark Weingarten",
+    "NomineeIds": "nm0460274|nm0662188|nm0783713|nm0918319",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Skip Lievsay, Craig Berkey, Greg Orloff and Peter F. Kurland",
+    "Nominees": "Skip Lievsay|Craig Berkey|Greg Orloff|Peter F. Kurland",
+    "NomineeIds": "nm0509792|nm0075389|nm0650088|nm0004212",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Alice in Wonderland",
+    "FilmId": "tt1014759",
+    "Name": "Ken Ralston, David Schaub, Carey Villegas and Sean Phillips",
+    "Nominees": "Ken Ralston|David Schaub|Carey Villegas|Sean Phillips",
+    "NomineeIds": "nm0707822|nm0770258|nm0898211|nm1237052",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Harry Potter and the Deathly Hallows Part 1",
+    "FilmId": "tt0926084",
+    "Name": "Tim Burke, John Richardson, Christian Manz and Nicolas Aithadi",
+    "Nominees": "Tim Burke|John Richardson|Christian Manz|Nicolas Aithadi",
+    "NomineeIds": "nm0121888|nm0724624|nm1114640|nm1212365",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Hereafter",
+    "FilmId": "tt1212419",
+    "Name": "Michael Owens, Bryan Grill, Stephan Trojansky and Joe Farrell",
+    "Nominees": "Michael Owens|Bryan Grill|Stephan Trojansky|Joe Farrell",
+    "NomineeIds": "nm0654424|nm0341985|nm1176756|nm1062239",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Inception",
+    "FilmId": "tt1375666",
+    "Name": "Paul Franklin, Chris Corbould, Andrew Lockley and Peter Bebb",
+    "Nominees": "Paul Franklin|Chris Corbould|Andrew Lockley|Peter Bebb",
+    "NomineeIds": "nm0291518|nm0179269|nm0516916|nm0064825",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Iron Man 2",
+    "FilmId": "tt1228705",
+    "Name": "Janek Sirrs, Ben Snow, Ged Wright and Daniel Sudick",
+    "Nominees": "Janek Sirrs|Ben Snow|Ged Wright|Daniel Sudick",
+    "NomineeIds": "nm0802938|nm0811240|nm2261997|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "127 Hours",
+    "FilmId": "tt1542344",
+    "Name": "Screenplay by Danny Boyle & Simon Beaufoy",
+    "Nominees": "Danny Boyle|Simon Beaufoy",
+    "NomineeIds": "nm0000965|nm0064479",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Social Network",
+    "FilmId": "tt1285016",
+    "Name": "Screenplay by Aaron Sorkin",
+    "Nominees": "Aaron Sorkin",
+    "NomineeIds": "nm0815070",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Toy Story 3",
+    "FilmId": "tt0435761",
+    "Name": "Screenplay by Michael Arndt; Story by John Lasseter, Andrew Stanton and Lee Unkrich",
+    "Nominees": "Michael Arndt|John Lasseter|Andrew Stanton|Lee Unkrich",
+    "NomineeIds": "nm1578335|nm0005124|nm0004056|nm0881279",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "True Grit",
+    "FilmId": "tt1403865",
+    "Name": "Written for the screen by Joel Coen & Ethan Coen",
+    "Nominees": "Joel Coen|Ethan Coen",
+    "NomineeIds": "nm0001054|nm0001053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Winter's Bone",
+    "FilmId": "tt1399683",
+    "Name": "Adapted for the screen by Debra Granik & Anne Rosellini",
+    "Nominees": "Debra Granik|Anne Rosellini",
+    "NomineeIds": "nm0335138|nm1367893",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Another Year",
+    "FilmId": "tt1431181",
+    "Name": "Written by Mike Leigh",
+    "Nominees": "Mike Leigh",
+    "NomineeIds": "nm0005139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Fighter",
+    "FilmId": "tt0964517",
+    "Name": "Screenplay by Scott Silver and Paul Tamasy & Eric Johnson; Story by Keith Dorrington & Paul Tamasy & Eric Johnson",
+    "Nominees": "Scott Silver|Paul Tamasy|Eric Johnson|Keith Dorrington",
+    "NomineeIds": "nm0798788|nm0848496|nm2053216|nm2565612",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Inception",
+    "FilmId": "tt1375666",
+    "Name": "Written by Christopher Nolan",
+    "Nominees": "Christopher Nolan",
+    "NomineeIds": "nm0634240",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Kids Are All Right",
+    "FilmId": "tt0842926",
+    "Name": "Written by Lisa Cholodenko & Stuart Blumberg",
+    "Nominees": "Lisa Cholodenko|Stuart Blumberg",
+    "NomineeIds": "nm0158966|nm0089742",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The King's Speech",
+    "FilmId": "tt1504320",
+    "Name": "Screenplay by David Seidler",
+    "Nominees": "David Seidler",
+    "NomineeIds": "nm0782436",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Kevin Brownlow",
+    "NomineeIds": "nm0002206",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Kevin Brownlow for the wise and devoted chronicling of the cinematic parade."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jean-Luc Godard",
+    "NomineeIds": "nm0000419",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Jean-Luc Godard for passion. For confrontation. For a new kind of cinema."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eli Wallach",
+    "NomineeIds": "nm0908919",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Eli Wallach for a lifetime's worth of indelible screen characters."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Francis Ford Coppola",
+    "Nominees": "Francis Ford Coppola",
+    "NomineeIds": "nm0000338",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Mark Sagar",
+    "NomineeIds": "nm0755993",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Dr. Sagar's work led to a method for transforming facial motion capture data into an expression-based, editable character animation system that has been used in motion pictures with a high volume of digital characters.",
+    "Citation": "To DR. MARK SAGAR for his early and continuing development of influential facial motion retargeting solutions."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mark Noel|John Frazier",
+    "NomineeIds": "nm0633888|nm0292594",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "The NAC System allows full-size cars, aircraft and other heavy props to be flown on wires with unprecedented freedom of motion and a high degree of safety, on-set and in real time. The intuitive control system responds to the motion of the operator's hand, permitting the recording and playback of all axes of motion simultaneously, which may be edited and refined for playback in subsequent takes.",
+    "Citation": "To MARK NOEL for the design, engineering, and development, and to JOHN FRAZIER for his contributions to the design and safety features, of the NAC Servo Winch System."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James Rodnunsky|ALEX MacDONALD|Mark Chapman",
+    "NomineeIds": "nm0734951|nm1223275|nm1839441",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "The evolution of the Cablecam technology has made it possible to move a camera safely and accurately anywhere through a three-dimensional space.",
+    "Citation": "To JAMES RODNUNSKY, ALEX MacDONALD and MARK CHAPMAN for the development of the Cablecam 3-D volumetric suspended cable camera technologies."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Tim Drnec|Ben Britten Smith|Matt Davis",
+    "NomineeIds": "nm0238151|nm1413522|nm1491690",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "The evolution of the Spydercam technology has made it possible to move a camera safely and accurately anywhere through a three-dimensional space.",
+    "Citation": "To TIM DRNEC, BEN BRITTEN SMITH and MATT DAVIS for the development of the Spydercam 3-D volumetric suspended cable camera technologies."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Greg Ercolano",
+    "NomineeIds": "nm0258704",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Mr. Ercolano's work has been influential across the industry, and has enabled scalable render farms at numerous studios.",
+    "Citation": "To GREG ERCOLANO for the design and engineering of a series of software systems culminating in the Rush render queue management system."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David M. Laur",
+    "NomineeIds": "nm0490987",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This system was the first robust, scalable, widely adopted commercial solution for queue management in the motion picture industry. Its user interface and support for multi-machine assignment influenced the design of modern day queue management tools.",
+    "Citation": "To DAVID M. LAUR for the development of the Alfred render queue management system."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Chris Allen|Gautham Krishnamurti|Mark A. Brown|Lance Kimes",
+    "NomineeIds": "nm0020371|nm0471474|nm0114207|nm0453945",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Queue was one of the first systems that allowed for statistical analysis and process introspection, providing a framework for the efficient use of render farms.",
+    "Citation": "To CHRIS ALLEN, GAUTHAM KRISHNAMURTI, MARK A. BROWN and LANCE KIMES for the development of Queue, a robust, scalable approach to render queue management."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Florian Kainz",
+    "NomineeIds": "nm0435090",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "ObaQ has scaled from managing a few hundred processors in 1997 to many thousands today, with minimal changes to the original design.",
+    "Citation": "To FLORIAN KAINZ for the design and development of the robust, highly scalable distributed architecture of the ObaQ render queue management system."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eric Tabellion|Arnauld Lamorlette",
+    "NomineeIds": "nm1657341|nm1431879",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This important step in the evolution of global illumination techniques, first used on the motion picture \\\"Shrek 2,\\\" was shared with the industry in their technical paper \\\"An Approximate Global Illumination System for Computer Generated Films.\\",
+    "Citation": "To ERIC TABELLION and ARNAULD LAMORLETTE for the creation of a computer graphics bounce lighting methodology that is practical at feature film scale."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Tony Clark|Alan Rogers|Neil Wilson|RORY McGREGOR",
+    "NomineeIds": "nm0164571|nm2186245|nm2767632|nm0570024",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "Easy to use, cineSync has become a widely accepted solution for remote production collaboration.",
+    "Citation": "To TONY CLARK, ALAN ROGERS, NEIL WILSON and RORY McGREGOR for the software design and continued development of cineSync, a tool for remote collaboration and review of visual effects."
+  },
+  {
+    "Ceremony": 83,
+    "Year": 2010,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Denny Clairmont",
+    "NomineeIds": "nm1076245",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Denny Clairmont in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  }
 ]

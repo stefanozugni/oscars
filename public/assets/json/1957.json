@@ -1,1451 +1,1682 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1957",
-    "nominees": [
-      "The Bridge on the River Kwai"
-    ],
-    "movies": [
-      {
-        "title": "The Bridge on the River Kwai",
-        "tmdb_id": 826,
-        "imdb_id": "tt0050212"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1957",
-    "nominees": [
-      "12 Angry Men"
-    ],
-    "movies": [
-      {
-        "title": "12 Angry Men",
-        "tmdb_id": 389,
-        "imdb_id": "tt0050083"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1957",
-    "nominees": [
-      "Peyton Place"
-    ],
-    "movies": [
-      {
-        "title": "Peyton Place",
-        "tmdb_id": 43236,
-        "imdb_id": "tt0050839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1957",
-    "nominees": [
-      "Sayonara"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1957",
-    "nominees": [
-      "Witness for the Prosecution"
-    ],
-    "movies": [
-      {
-        "title": "Witness for the Prosecution",
-        "tmdb_id": 37257,
-        "imdb_id": "tt0051201"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1957",
-    "nominees": [
-      "Alec Guinness"
-    ],
-    "movies": [
-      {
-        "title": "The Bridge on the River Kwai",
-        "tmdb_id": 826,
-        "imdb_id": "tt0050212"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1957",
-    "nominees": [
-      "Marlon Brando"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1957",
-    "nominees": [
-      "Anthony Franciosa"
-    ],
-    "movies": [
-      {
-        "title": "A Hatful of Rain",
-        "tmdb_id": 37086,
-        "imdb_id": "tt0050487"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1957",
-    "nominees": [
-      "Charles Laughton"
-    ],
-    "movies": [
-      {
-        "title": "Witness for the Prosecution",
-        "tmdb_id": 37257,
-        "imdb_id": "tt0051201"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1957",
-    "nominees": [
-      "Anthony Quinn"
-    ],
-    "movies": [
-      {
-        "title": "Wild Is the Wind",
-        "tmdb_id": 93528,
-        "imdb_id": "tt0051193"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1957",
-    "nominees": [
-      "Joanne Woodward"
-    ],
-    "movies": [
-      {
-        "title": "The Three Faces of Eve",
-        "tmdb_id": 28285,
-        "imdb_id": "tt0051077"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1957",
-    "nominees": [
-      "Deborah Kerr"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Knows, Mr. Allison",
-        "tmdb_id": 37103,
-        "imdb_id": "tt0050490"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1957",
-    "nominees": [
-      "Anna Magnani"
-    ],
-    "movies": [
-      {
-        "title": "Wild Is the Wind",
-        "tmdb_id": 93528,
-        "imdb_id": "tt0051193"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1957",
-    "nominees": [
-      "Elizabeth Taylor"
-    ],
-    "movies": [
-      {
-        "title": "Raintree County",
-        "tmdb_id": 65488,
-        "imdb_id": "tt0050882"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1957",
-    "nominees": [
-      "Lana Turner"
-    ],
-    "movies": [
-      {
-        "title": "Peyton Place",
-        "tmdb_id": 43236,
-        "imdb_id": "tt0050839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1957",
-    "nominees": [
-      "Red Buttons"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1957",
-    "nominees": [
-      "Vittorio De Sica"
-    ],
-    "movies": [
-      {
-        "title": "A Farewell to Arms",
-        "tmdb_id": 80255,
-        "imdb_id": "tt0050379"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1957",
-    "nominees": [
-      "Sessue Hayakawa"
-    ],
-    "movies": [
-      {
-        "title": "The Bridge on the River Kwai",
-        "tmdb_id": 826,
-        "imdb_id": "tt0050212"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1957",
-    "nominees": [
-      "Arthur Kennedy"
-    ],
-    "movies": [
-      {
-        "title": "Peyton Place",
-        "tmdb_id": 43236,
-        "imdb_id": "tt0050839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1957",
-    "nominees": [
-      "Russ Tamblyn"
-    ],
-    "movies": [
-      {
-        "title": "Peyton Place",
-        "tmdb_id": 43236,
-        "imdb_id": "tt0050839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1957",
-    "nominees": [
-      "Miyoshi Umeki"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1957",
-    "nominees": [
-      "Carolyn Jones"
-    ],
-    "movies": [
-      {
-        "title": "The Bachelor Party",
-        "tmdb_id": 185263,
-        "imdb_id": "tt0050156"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1957",
-    "nominees": [
-      "Elsa Lanchester"
-    ],
-    "movies": [
-      {
-        "title": "Witness for the Prosecution",
-        "tmdb_id": 37257,
-        "imdb_id": "tt0051201"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1957",
-    "nominees": [
-      "Hope Lange"
-    ],
-    "movies": [
-      {
-        "title": "Peyton Place",
-        "tmdb_id": 43236,
-        "imdb_id": "tt0050839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1957",
-    "nominees": [
-      "Diane Varsi"
-    ],
-    "movies": [
-      {
-        "title": "Peyton Place",
-        "tmdb_id": 43236,
-        "imdb_id": "tt0050839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1957",
-    "nominees": [
-      "David Lean"
-    ],
-    "movies": [
-      {
-        "title": "The Bridge on the River Kwai",
-        "tmdb_id": 826,
-        "imdb_id": "tt0050212"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1957",
-    "nominees": [
-      "Sidney Lumet"
-    ],
-    "movies": [
-      {
-        "title": "12 Angry Men",
-        "tmdb_id": 389,
-        "imdb_id": "tt0050083"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1957",
-    "nominees": [
-      "Billy Wilder"
-    ],
-    "movies": [
-      {
-        "title": "Witness for the Prosecution",
-        "tmdb_id": 37257,
-        "imdb_id": "tt0051201"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1957",
-    "nominees": [
-      "Joshua Logan"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1957",
-    "nominees": [
-      "Mark Robson"
-    ],
-    "movies": [
-      {
-        "title": "Peyton Place",
-        "tmdb_id": 43236,
-        "imdb_id": "tt0050839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1957",
-    "nominees": [
-      "Pierre Boulle (Michael Wilson",
-      "Carl Foreman)"
-    ],
-    "movies": [
-      {
-        "title": "The Bridge on the River Kwai",
-        "tmdb_id": 826,
-        "imdb_id": "tt0050212"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1957",
-    "nominees": [
-      "Reginald Rose"
-    ],
-    "movies": [
-      {
-        "title": "12 Angry Men",
-        "tmdb_id": 389,
-        "imdb_id": "tt0050083"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1957",
-    "nominees": [
-      "John Michael Hayes"
-    ],
-    "movies": [
-      {
-        "title": "Peyton Place",
-        "tmdb_id": 43236,
-        "imdb_id": "tt0050839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1957",
-    "nominees": [
-      "Paul Osborn"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1957",
-    "nominees": [
-      "John Lee Mahin",
-      "John Huston"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Knows, Mr. Allison",
-        "tmdb_id": 37103,
-        "imdb_id": "tt0050490"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1957",
-    "nominees": [
-      "George Wells"
-    ],
-    "movies": [
-      {
-        "title": "Designing Woman",
-        "tmdb_id": 33668,
-        "imdb_id": "tt0050306"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1957",
-    "nominees": [
-      "Federico Fellini",
-      "Ennio Flaiano",
-      "Tullio Pinelli"
-    ],
-    "movies": [
-      {
-        "title": "I Vitelloni",
-        "tmdb_id": 12548,
-        "imdb_id": "tt0046521"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1957",
-    "nominees": [
-      "Leonard Gershe"
-    ],
-    "movies": [
-      {
-        "title": "Funny Face",
-        "tmdb_id": 13320,
-        "imdb_id": "tt0050419"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1957",
-    "nominees": [
-      "Ralph Wheelwright",
-      "R. Wright Campbell",
-      "Ivan Goff",
-      "Ben Roberts"
-    ],
-    "movies": [
-      {
-        "title": "Man of a Thousand Faces",
-        "tmdb_id": 43234,
-        "imdb_id": "tt0050681"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1957",
-    "nominees": [
-      "Barney Slater",
-      "Joel Kane",
-      "Dudley Nichols"
-    ],
-    "movies": [
-      {
-        "title": "The Tin Star",
-        "tmdb_id": 30054,
-        "imdb_id": "tt0051087"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1957",
-    "nominees": [
-      "Malcolm Arnold"
-    ],
-    "movies": [
-      {
-        "title": "The Bridge on the River Kwai",
-        "tmdb_id": 826,
-        "imdb_id": "tt0050212"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1957",
-    "nominees": [
-      "Hugo Friedhofer"
-    ],
-    "movies": [
-      {
-        "title": "An Affair to Remember",
-        "tmdb_id": 8356,
-        "imdb_id": "tt0050105"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1957",
-    "nominees": [
-      "Hugo Friedhofer"
-    ],
-    "movies": [
-      {
-        "title": "Boy on a Dolphin",
-        "tmdb_id": 37596,
-        "imdb_id": "tt0050208"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1957",
-    "nominees": [
-      "Paul J. Smith"
-    ],
-    "movies": [
-      {
-        "title": "Perri",
-        "tmdb_id": 162139,
-        "imdb_id": "tt0050837"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1957",
-    "nominees": [
-      "Johnny Green"
-    ],
-    "movies": [
-      {
-        "title": "Raintree County",
-        "tmdb_id": 65488,
-        "imdb_id": "tt0050882"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1957",
-    "nominees": [
-      "All the Way"
-    ],
-    "movies": [
-      {
-        "title": "The Joker Is Wild",
-        "tmdb_id": 133792,
-        "imdb_id": "tt0050569"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1957",
-    "nominees": [
-      "An Affair to Remember"
-    ],
-    "movies": [
-      {
-        "title": "An Affair to Remember",
-        "tmdb_id": 8356,
-        "imdb_id": "tt0050105"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1957",
-    "nominees": [
-      "April Love"
-    ],
-    "movies": [
-      {
-        "title": "April Love",
-        "tmdb_id": 106833,
-        "imdb_id": "tt0050135"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1957",
-    "nominees": [
-      "Wild Is the Wind"
-    ],
-    "movies": [
-      {
-        "title": "Wild Is the Wind",
-        "tmdb_id": 93528,
-        "imdb_id": "tt0051193"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1957",
-    "nominees": [
-      "Tammy"
-    ],
-    "movies": [
-      {
-        "title": "Tammy and the Bachelor",
-        "tmdb_id": 43240,
-        "imdb_id": "tt0051051"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1957",
-    "nominees": [
-      "Nights of Cabiria"
-    ],
-    "movies": [
-      {
-        "title": "Nights of Cabiria",
-        "tmdb_id": 19426,
-        "imdb_id": "tt0050783"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1957",
-    "nominees": [
-      "The Devil Strikes at Night"
-    ],
-    "movies": [
-      {
-        "title": "The Devil Strikes at Night",
-        "tmdb_id": 103396,
-        "imdb_id": "tt0050746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1957",
-    "nominees": [
-      "The Gates of Paris"
-    ],
-    "movies": [
-      {
-        "title": "The Gates of Paris",
-        "tmdb_id": 67555,
-        "imdb_id": "tt0050850"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1957",
-    "nominees": [
-      "Mother India"
-    ],
-    "movies": [
-      {
-        "title": "Mother India",
-        "tmdb_id": 917,
-        "imdb_id": "tt0050188"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1957",
-    "nominees": [
-      "Nine Lives"
-    ],
-    "movies": [
-      {
-        "title": "Nine Lives",
-        "tmdb_id": 20372,
-        "imdb_id": "tt0050762"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1957",
-    "nominees": [
-      "Albert Schweitzer"
-    ],
-    "movies": [
-      {
-        "title": "Albert Schweitzer",
-        "tmdb_id": 114502,
-        "imdb_id": "tt0050109"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1957",
-    "nominees": [
-      "On the Bowery"
-    ],
-    "movies": [
-      {
-        "title": "On the Bowery",
-        "tmdb_id": 88051,
-        "imdb_id": "tt0050800"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1957",
-    "nominees": [
-      "Torero!"
-    ],
-    "movies": [
-      {
-        "title": "Torero!",
-        "tmdb_id": 116498,
-        "imdb_id": "tt0051099"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1957",
-    "nominees": [
-      "Birds Anonymous"
-    ],
-    "movies": [
-      {
-        "title": "Birds Anonymous",
-        "tmdb_id": 100395,
-        "imdb_id": "tt0050194"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1957",
-    "nominees": [
-      "One Droopy Knight"
-    ],
-    "movies": [
-      {
-        "title": "One Droopy Knight",
-        "tmdb_id": 144239,
-        "imdb_id": "tt0050802"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1957",
-    "nominees": [
-      "Tabasco Road"
-    ],
-    "movies": [
-      {
-        "title": "Tabasco Road",
-        "tmdb_id": 188755,
-        "imdb_id": "tt0051044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1957",
-    "nominees": [
-      "Trees and Jamaica Daddy"
-    ],
-    "movies": [
-      {
-        "title": "Trees and Jamaica Daddy",
-        "tmdb_id": 243165,
-        "imdb_id": "tt0051108"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1957",
-    "nominees": [
-      "The Truth About Mother Goose"
-    ],
-    "movies": [
-      {
-        "title": "The Truth About Mother Goose",
-        "tmdb_id": 97884,
-        "imdb_id": "tt0051115"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1957",
-    "nominees": [
-      "The Wetback Hound"
-    ],
-    "movies": [
-      {
-        "title": "The Wetback Hound",
-        "tmdb_id": 243161,
-        "imdb_id": "tt0051187"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1957",
-    "nominees": [
-      "A Chairy Tale"
-    ],
-    "movies": [
-      {
-        "title": "A Chairy Tale",
-        "tmdb_id": 148176,
-        "imdb_id": "tt0050534"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1957",
-    "nominees": [
-      "City of Gold"
-    ],
-    "movies": [
-      {
-        "title": "City of Gold",
-        "tmdb_id": 128441,
-        "imdb_id": "tt0050255"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1957",
-    "nominees": [
-      "Foothold on Antarctica"
-    ],
-    "movies": [
-      {
-        "title": "Foothold on Antarctica",
-        "tmdb_id": 243162,
-        "imdb_id": "tt0050403"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1957",
-    "nominees": [
-      "Portugal"
-    ],
-    "movies": [
-      {
-        "title": "Portugal",
-        "tmdb_id": 243164,
-        "imdb_id": "tt0050851"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "Ted Haworth",
-      "Robert Priestley"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "Hal Pereira",
-      "George Davis",
-      "Samuel M. Comer",
-      "Ray Moyer"
-    ],
-    "movies": [
-      {
-        "title": "Funny Face",
-        "tmdb_id": 13320,
-        "imdb_id": "tt0050419"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "William A Horning",
-      "Urie McCleary",
-      "Edwin B. Willis",
-      "Hugh Hunt"
-    ],
-    "movies": [
-      {
-        "title": "Raintree County",
-        "tmdb_id": 65488,
-        "imdb_id": "tt0050882"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "William A. Horning",
-      "Gene Allen",
-      "Edwin B. Willis",
-      "Richard Pefferle"
-    ],
-    "movies": [
-      {
-        "title": "Les Girls",
-        "tmdb_id": 43232,
-        "imdb_id": "tt0050631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "Walter Holscher",
-      "William Kiernan",
-      "Louis Diage"
-    ],
-    "movies": [
-      {
-        "title": "Pal Joey",
-        "tmdb_id": 33734,
-        "imdb_id": "tt0050815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1957",
-    "nominees": [
-      "Jack Hildyard"
-    ],
-    "movies": [
-      {
-        "title": "The Bridge on the River Kwai",
-        "tmdb_id": 826,
-        "imdb_id": "tt0050212"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1957",
-    "nominees": [
-      "William C. Mellor"
-    ],
-    "movies": [
-      {
-        "title": "Peyton Place",
-        "tmdb_id": 43236,
-        "imdb_id": "tt0050839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1957",
-    "nominees": [
-      "Ray June"
-    ],
-    "movies": [
-      {
-        "title": "Funny Face",
-        "tmdb_id": 13320,
-        "imdb_id": "tt0050419"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1957",
-    "nominees": [
-      "Milton Krasner"
-    ],
-    "movies": [
-      {
-        "title": "An Affair to Remember",
-        "tmdb_id": 8356,
-        "imdb_id": "tt0050105"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1957",
-    "nominees": [
-      "Ellsworth Fredericks"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1957",
-    "nominees": [
-      "Peter Taylor"
-    ],
-    "movies": [
-      {
-        "title": "The Bridge on the River Kwai",
-        "tmdb_id": 826,
-        "imdb_id": "tt0050212"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1957",
-    "nominees": [
-      "Arthur P. Schmidt",
-      "Philip W. Anderson"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1957",
-    "nominees": [
-      "Viola Lawrence",
-      "Jerome Thoms"
-    ],
-    "movies": [
-      {
-        "title": "Pal Joey",
-        "tmdb_id": 33734,
-        "imdb_id": "tt0050815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1957",
-    "nominees": [
-      "Daniel Mandell"
-    ],
-    "movies": [
-      {
-        "title": "Witness for the Prosecution",
-        "tmdb_id": 37257,
-        "imdb_id": "tt0051201"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1957",
-    "nominees": [
-      "Warren Low"
-    ],
-    "movies": [
-      {
-        "title": "Gunfight at the O.K. Corral",
-        "tmdb_id": 22201,
-        "imdb_id": "tt0050468"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1957",
-    "nominees": [
-      "Walter Rossi"
-    ],
-    "movies": [
-      {
-        "title": "The Enemy Below",
-        "tmdb_id": 15876,
-        "imdb_id": "tt0050356"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1957",
-    "nominees": [
-      "Louis Lichtenfeld"
-    ],
-    "movies": [
-      {
-        "title": "The Spirit of St. Louis",
-        "tmdb_id": 18776,
-        "imdb_id": "tt0051003"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1957",
-    "nominees": [
-      "George Groves"
-    ],
-    "movies": [
-      {
-        "title": "Sayonara",
-        "tmdb_id": 40885,
-        "imdb_id": "tt0050933"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1957",
-    "nominees": [
-      "George Dutton"
-    ],
-    "movies": [
-      {
-        "title": "Gunfight at the O.K. Corral",
-        "tmdb_id": 22201,
-        "imdb_id": "tt0050468"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1957",
-    "nominees": [
-      "Wesley C. Miller"
-    ],
-    "movies": [
-      {
-        "title": "Les Girls",
-        "tmdb_id": 43232,
-        "imdb_id": "tt0050631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1957",
-    "nominees": [
-      "John P. Livadary"
-    ],
-    "movies": [
-      {
-        "title": "Pal Joey",
-        "tmdb_id": 33734,
-        "imdb_id": "tt0050815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1957",
-    "nominees": [
-      "Gordon E. Sawyer"
-    ],
-    "movies": [
-      {
-        "title": "Witness for the Prosecution",
-        "tmdb_id": 37257,
-        "imdb_id": "tt0051201"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "Orry-Kelly"
-    ],
-    "movies": [
-      {
-        "title": "Les Girls",
-        "tmdb_id": 43232,
-        "imdb_id": "tt0050631"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "Charles LeMaire"
-    ],
-    "movies": [
-      {
-        "title": "An Affair to Remember",
-        "tmdb_id": 8356,
-        "imdb_id": "tt0050105"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "Edith Head",
-      "Hubert de Givenchy"
-    ],
-    "movies": [
-      {
-        "title": "Funny Face",
-        "tmdb_id": 13320,
-        "imdb_id": "tt0050419"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "Jean Louis"
-    ],
-    "movies": [
-      {
-        "title": "Pal Joey",
-        "tmdb_id": 33734,
-        "imdb_id": "tt0050815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1957",
-    "nominees": [
-      "Walter Plunkett"
-    ],
-    "movies": [
-      {
-        "title": "Raintree County",
-        "tmdb_id": 65488,
-        "imdb_id": "tt0050882"
-      }
-    ],
-    "won": false
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "Marlon Brando",
+    "Nominees": "Marlon Brando",
+    "NomineeIds": "nm0000008",
+    "Winner": "",
+    "Detail": "Major Lloyd Gruver",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "A Hatful of Rain",
+    "FilmId": "tt0050487",
+    "Name": "Anthony Franciosa",
+    "Nominees": "Anthony Franciosa",
+    "NomineeIds": "nm0290047",
+    "Winner": "",
+    "Detail": "Polo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Bridge on the River Kwai",
+    "FilmId": "tt0050212",
+    "Name": "Alec Guinness",
+    "Nominees": "Alec Guinness",
+    "NomineeIds": "nm0000027",
+    "Winner": "True",
+    "Detail": "Colonel Nicholson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Witness for the Prosecution",
+    "FilmId": "tt0051201",
+    "Name": "Charles Laughton",
+    "Nominees": "Charles Laughton",
+    "NomineeIds": "nm0001452",
+    "Winner": "",
+    "Detail": "Sir Wilfrid Robarts",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Wild Is the Wind",
+    "FilmId": "tt0051193",
+    "Name": "Anthony Quinn",
+    "Nominees": "Anthony Quinn",
+    "NomineeIds": "nm0000063",
+    "Winner": "",
+    "Detail": "Gino",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "Red Buttons",
+    "Nominees": "Red Buttons",
+    "NomineeIds": "nm0000999",
+    "Winner": "True",
+    "Detail": "Joe Kelly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A Farewell to Arms",
+    "FilmId": "tt0050379",
+    "Name": "Vittorio De Sica",
+    "Nominees": "Vittorio De Sica",
+    "NomineeIds": "nm0001120",
+    "Winner": "",
+    "Detail": "Major Alessandro Rinaldi",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Bridge on the River Kwai",
+    "FilmId": "tt0050212",
+    "Name": "Sessue Hayakawa",
+    "Nominees": "Sessue Hayakawa",
+    "NomineeIds": "nm0370564",
+    "Winner": "",
+    "Detail": "Saito",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Peyton Place",
+    "FilmId": "tt0050839",
+    "Name": "Arthur Kennedy",
+    "Nominees": "Arthur Kennedy",
+    "NomineeIds": "nm0447913",
+    "Winner": "",
+    "Detail": "Lucas Cross",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Peyton Place",
+    "FilmId": "tt0050839",
+    "Name": "Russ Tamblyn",
+    "Nominees": "Russ Tamblyn",
+    "NomineeIds": "nm0848560",
+    "Winner": "",
+    "Detail": "Norman Page",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Heaven Knows, Mr. Allison",
+    "FilmId": "tt0050490",
+    "Name": "Deborah Kerr",
+    "Nominees": "Deborah Kerr",
+    "NomineeIds": "nm0000039",
+    "Winner": "",
+    "Detail": "Sister Angela",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Wild Is the Wind",
+    "FilmId": "tt0051193",
+    "Name": "Anna Magnani",
+    "Nominees": "Anna Magnani",
+    "NomineeIds": "nm0536167",
+    "Winner": "",
+    "Detail": "Gioia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Raintree County",
+    "FilmId": "tt0050882",
+    "Name": "Elizabeth Taylor",
+    "Nominees": "Elizabeth Taylor",
+    "NomineeIds": "nm0000072",
+    "Winner": "",
+    "Detail": "Susanna Drake",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Peyton Place",
+    "FilmId": "tt0050839",
+    "Name": "Lana Turner",
+    "Nominees": "Lana Turner",
+    "NomineeIds": "nm0001805",
+    "Winner": "",
+    "Detail": "Constance MacKenzie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Three Faces of Eve",
+    "FilmId": "tt0051077",
+    "Name": "Joanne Woodward",
+    "Nominees": "Joanne Woodward",
+    "NomineeIds": "nm0940946",
+    "Winner": "True",
+    "Detail": "Eve White/Eve Black/Jane",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Bachelor Party",
+    "FilmId": "tt0050156",
+    "Name": "Carolyn Jones",
+    "Nominees": "Carolyn Jones",
+    "NomineeIds": "nm0427700",
+    "Winner": "",
+    "Detail": "The Existentialist",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Witness for the Prosecution",
+    "FilmId": "tt0051201",
+    "Name": "Elsa Lanchester",
+    "Nominees": "Elsa Lanchester",
+    "NomineeIds": "nm0006471",
+    "Winner": "",
+    "Detail": "Miss Plimsoll",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Peyton Place",
+    "FilmId": "tt0050839",
+    "Name": "Hope Lange",
+    "Nominees": "Hope Lange",
+    "NomineeIds": "nm0486136",
+    "Winner": "",
+    "Detail": "Selena Cross",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "Miyoshi Umeki",
+    "Nominees": "Miyoshi Umeki",
+    "NomineeIds": "nm0880855",
+    "Winner": "True",
+    "Detail": "Katsumi",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Peyton Place",
+    "FilmId": "tt0050839",
+    "Name": "Diane Varsi",
+    "Nominees": "Diane Varsi",
+    "NomineeIds": "nm0890215",
+    "Winner": "",
+    "Detail": "Allison MacKenzie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Funny Face",
+    "FilmId": "tt0050419",
+    "Name": "Art Direction: Hal Pereira, George W. Davis; Set Decoration: Sam Comer, Ray Moyer",
+    "Nominees": "Hal Pereira|George W. Davis|Sam Comer|Ray Moyer",
+    "NomineeIds": "nm0673134|nm0204649|nm0173754|nm0610455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Les Girls",
+    "FilmId": "tt0050631",
+    "Name": "Art Direction: William A. Horning, Gene Allen; Set Decoration: Edwin B. Willis, Richard Pefferle",
+    "Nominees": "William A. Horning|Gene Allen|Edwin B. Willis|Richard Pefferle",
+    "NomineeIds": "nm0395178|nm0020537|nm0932320|nm0670385",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Pal Joey",
+    "FilmId": "tt0050815",
+    "Name": "Art Direction: Walter Holscher; Set Decoration: William Kiernan, Louis Diage",
+    "Nominees": "Walter Holscher|William Kiernan|Louis Diage",
+    "NomineeIds": "nm0392269|nm0452599|nm0224448",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Raintree County",
+    "FilmId": "tt0050882",
+    "Name": "Art Direction: William A. Horning, Urie McCleary; Set Decoration: Edwin B. Willis, Hugh Hunt",
+    "Nominees": "William A. Horning|Urie McCleary|Edwin B. Willis|Hugh Hunt",
+    "NomineeIds": "nm0395178|nm0565720|nm0932320|nm0402474",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "Art Direction: Ted Haworth; Set Decoration: Robert Priestley",
+    "Nominees": "Ted Haworth|Robert Priestley",
+    "NomineeIds": "nm0370385|nm0697369",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "An Affair to Remember",
+    "FilmId": "tt0050105",
+    "Name": "Milton Krasner",
+    "Nominees": "Milton Krasner",
+    "NomineeIds": "nm0005762",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Bridge on the River Kwai",
+    "FilmId": "tt0050212",
+    "Name": "Jack Hildyard",
+    "Nominees": "Jack Hildyard",
+    "NomineeIds": "nm0005742",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Funny Face",
+    "FilmId": "tt0050419",
+    "Name": "Ray June",
+    "Nominees": "Ray June",
+    "NomineeIds": "nm0432482",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Peyton Place",
+    "FilmId": "tt0050839",
+    "Name": "William Mellor",
+    "Nominees": "William Mellor",
+    "NomineeIds": "nm0005794",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "Ellsworth Fredricks",
+    "Nominees": "Ellsworth Fredricks",
+    "NomineeIds": "nm0005712",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "An Affair to Remember",
+    "FilmId": "tt0050105",
+    "Name": "Charles LeMaire",
+    "Nominees": "Charles LeMaire",
+    "NomineeIds": "nm0494406",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Funny Face",
+    "FilmId": "tt0050419",
+    "Name": "Edith Head, Hubert de Givenchy",
+    "Nominees": "Edith Head|Hubert de Givenchy",
+    "NomineeIds": "nm0372128|nm0321436",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Les Girls",
+    "FilmId": "tt0050631",
+    "Name": "Orry-Kelly",
+    "Nominees": "Orry-Kelly",
+    "NomineeIds": "nm0650673",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Pal Joey",
+    "FilmId": "tt0050815",
+    "Name": "Jean Louis",
+    "Nominees": "Jean Louis",
+    "NomineeIds": "nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Raintree County",
+    "FilmId": "tt0050882",
+    "Name": "Walter Plunkett",
+    "Nominees": "Walter Plunkett",
+    "NomineeIds": "nm0687703",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Bridge on the River Kwai",
+    "FilmId": "tt0050212",
+    "Name": "David Lean",
+    "Nominees": "David Lean",
+    "NomineeIds": "nm0000180",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Peyton Place",
+    "FilmId": "tt0050839",
+    "Name": "Mark Robson",
+    "Nominees": "Mark Robson",
+    "NomineeIds": "nm0733476",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "Joshua Logan",
+    "Nominees": "Joshua Logan",
+    "NomineeIds": "nm0517597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "12 Angry Men",
+    "FilmId": "tt0050083",
+    "Name": "Sidney Lumet",
+    "Nominees": "Sidney Lumet",
+    "NomineeIds": "nm0001486",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Witness for the Prosecution",
+    "FilmId": "tt0051201",
+    "Name": "Billy Wilder",
+    "Nominees": "Billy Wilder",
+    "NomineeIds": "nm0000697",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Albert Schweitzer",
+    "FilmId": "tt0050109",
+    "Name": "Jerome Hill, Producer",
+    "Nominees": "Jerome Hill",
+    "NomineeIds": "nm0384377",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "On the Bowery",
+    "FilmId": "tt0050800",
+    "Name": "Lionel Rogosin, Producer",
+    "Nominees": "Lionel Rogosin",
+    "NomineeIds": "nm0737369",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Torero!",
+    "FilmId": "tt0051099",
+    "Name": "Manuel Barbachano Ponce, Producer",
+    "Nominees": "Manuel Barbachano Ponce",
+    "NomineeIds": "nm0053168",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Bridge on the River Kwai",
+    "FilmId": "tt0050212",
+    "Name": "Peter Taylor",
+    "Nominees": "Peter Taylor",
+    "NomineeIds": "nm0852999",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Gunfight at the O.K. Corral",
+    "FilmId": "tt0050468",
+    "Name": "Warren Low",
+    "Nominees": "Warren Low",
+    "NomineeIds": "nm0522848",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Pal Joey",
+    "FilmId": "tt0050815",
+    "Name": "Viola Lawrence, Jerome Thoms",
+    "Nominees": "Viola Lawrence|Jerome Thoms",
+    "NomineeIds": "nm0493072|nm0860870",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "Arthur P. Schmidt, Philip W. Anderson",
+    "Nominees": "Arthur P. Schmidt|Philip W. Anderson",
+    "NomineeIds": "nm0772834|nm0027294",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Witness for the Prosecution",
+    "FilmId": "tt0051201",
+    "Name": "Daniel Mandell",
+    "Nominees": "Daniel Mandell",
+    "NomineeIds": "nm0541721",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Devil Came at Night",
+    "FilmId": "tt0050746",
+    "Name": "West Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Gates of Paris",
+    "FilmId": "tt0050850",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Mother India",
+    "FilmId": "tt0050188",
+    "Name": "India",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Nights of Cabiria",
+    "FilmId": "tt0050783",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Nine Lives",
+    "FilmId": "tt0050762",
+    "Name": "Norway",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "An Affair to Remember",
+    "FilmId": "tt0050105",
+    "Name": "Hugo Friedhofer",
+    "Nominees": "Hugo Friedhofer",
+    "NomineeIds": "nm0006087",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Boy on a Dolphin",
+    "FilmId": "tt0050208",
+    "Name": "Hugo Friedhofer",
+    "Nominees": "Hugo Friedhofer",
+    "NomineeIds": "nm0006087",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "The Bridge on the River Kwai",
+    "FilmId": "tt0050212",
+    "Name": "Malcolm Arnold",
+    "Nominees": "Malcolm Arnold",
+    "NomineeIds": "nm0002185",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Perri",
+    "FilmId": "tt0050837",
+    "Name": "Paul Smith",
+    "Nominees": "Paul Smith",
+    "NomineeIds": "nm1345229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Raintree County",
+    "FilmId": "tt0050882",
+    "Name": "Johnny Green",
+    "Nominees": "Johnny Green",
+    "NomineeIds": "nm0338004",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "An Affair to Remember",
+    "FilmId": "tt0050105",
+    "Name": "Music by Harry Warren; Lyrics by Harold Adamson and Leo McCarey",
+    "Nominees": "Harry Warren|Harold Adamson|Leo McCarey",
+    "NomineeIds": "nm0912851|nm0011488|nm0564970",
+    "Winner": "",
+    "Detail": "An Affair To Remember",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Joker Is Wild",
+    "FilmId": "tt0050569",
+    "Name": "Music by James Van Heusen; Lyrics by Sammy Cahn",
+    "Nominees": "James Van Heusen|Sammy Cahn",
+    "NomineeIds": "nm0006329|nm0005991",
+    "Winner": "True",
+    "Detail": "All The Way",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "April Love",
+    "FilmId": "tt0050135",
+    "Name": "Music by Sammy Fain; Lyrics by Paul Francis Webster",
+    "Nominees": "Sammy Fain|Paul Francis Webster",
+    "NomineeIds": "nm0006066|nm0916990",
+    "Winner": "",
+    "Detail": "April Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Tammy and the Bachelor",
+    "FilmId": "tt0051051",
+    "Name": "Music and Lyrics by Ray Evans and Jay Livingston",
+    "Nominees": "Ray Evans|Jay Livingston",
+    "NomineeIds": "nm0263143|nm0515254",
+    "Winner": "",
+    "Detail": "Tammy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Wild Is the Wind",
+    "FilmId": "tt0051193",
+    "Name": "Music by Dimitri Tiomkin; Lyrics by Ned Washington",
+    "Nominees": "Dimitri Tiomkin|Ned Washington",
+    "NomineeIds": "nm0006323|nm0913513",
+    "Winner": "",
+    "Detail": "Wild Is The Wind",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Bridge on the River Kwai",
+    "FilmId": "tt0050212",
+    "Name": "Sam Spiegel, Producer",
+    "Nominees": "Sam Spiegel",
+    "NomineeIds": "nm0818545",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Peyton Place",
+    "FilmId": "tt0050839",
+    "Name": "Jerry Wald, Producer",
+    "Nominees": "Jerry Wald",
+    "NomineeIds": "nm0907003",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "William Goetz, Producer",
+    "Nominees": "William Goetz",
+    "NomineeIds": "nm0324544",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "12 Angry Men",
+    "FilmId": "tt0050083",
+    "Name": "Henry Fonda and Reginald Rose, Producers",
+    "Nominees": "Henry Fonda|Reginald Rose",
+    "NomineeIds": "nm0000020|nm0741627",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Witness for the Prosecution",
+    "FilmId": "tt0051201",
+    "Name": "Arthur Hornblow, Jr., Producer",
+    "Nominees": "Arthur Hornblow Jr.",
+    "NomineeIds": "nm0394967",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Birds Anonymous",
+    "FilmId": "tt0050194",
+    "Name": "Edward Selzer, Producer",
+    "Nominees": "Edward Selzer",
+    "NomineeIds": "nm0783666",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "One Droopy Knight",
+    "FilmId": "tt0050802",
+    "Name": "William Hanna and Joseph Barbera, Producers",
+    "Nominees": "William Hanna|Joseph Barbera",
+    "NomineeIds": "nm0360253|nm0053484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Tabasco Road",
+    "FilmId": "tt0051044",
+    "Name": "Edward Selzer, Producer",
+    "Nominees": "Edward Selzer",
+    "NomineeIds": "nm0783666",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Trees and Jamaica Daddy",
+    "FilmId": "tt0051108",
+    "Name": "Stephen Bosustow, Producer",
+    "Nominees": "Stephen Bosustow",
+    "NomineeIds": "nm0098322",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Truth about Mother Goose",
+    "FilmId": "tt0051115",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "A Chairy Tale",
+    "FilmId": "tt0050534",
+    "Name": "Norman McLaren, Producer",
+    "Nominees": "Norman McLaren",
+    "NomineeIds": "nm0572235",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "City of Gold",
+    "FilmId": "tt0050255",
+    "Name": "Tom Daly, Producer",
+    "Nominees": "Tom Daly",
+    "NomineeIds": "nm0198514",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Foothold on Antarctica",
+    "FilmId": "tt0050403",
+    "Name": "James Carr, Producer",
+    "Nominees": "James Carr",
+    "NomineeIds": "nm0139729",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Portugal",
+    "FilmId": "tt0050851",
+    "Name": "Ben Sharpsteen, Producer",
+    "Nominees": "Ben Sharpsteen",
+    "NomineeIds": "nm0789313",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "The Wetback Hound",
+    "FilmId": "tt0051187",
+    "Name": "Larry Lansburgh, Producer",
+    "Nominees": "Larry Lansburgh",
+    "NomineeIds": "nm0487047",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Gunfight at the O.K. Corral",
+    "FilmId": "tt0050468",
+    "Name": "Paramount Studio Sound Department, George Dutton, Sound Director",
+    "Nominees": "Paramount|George Dutton",
+    "NomineeIds": "co0023400|nm0244931",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Les Girls",
+    "FilmId": "tt0050631",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Dr. Wesley C. Miller, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Dr. Wesley C. Miller",
+    "NomineeIds": "co0007143|nm0589506",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Pal Joey",
+    "FilmId": "tt0050815",
+    "Name": "Columbia Studio Sound Department, John P. Livadary, Sound Director",
+    "Nominees": "Columbia|John P. Livadary",
+    "NomineeIds": "co0050868|nm0515093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "Warner Bros. Studio Sound Department, George Groves, Sound Director",
+    "Nominees": "Warner Bros.|George Groves",
+    "NomineeIds": "co0080422|nm0344060",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Witness for the Prosecution",
+    "FilmId": "tt0051201",
+    "Name": "Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",
+    "Nominees": "Samuel Goldwyn|Gordon E. Sawyer",
+    "NomineeIds": "co0058013|nm0768167",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Enemy Below",
+    "FilmId": "tt0050356",
+    "Name": "Audible Effects by Walter Rossi",
+    "Nominees": "Walter Rossi",
+    "NomineeIds": "nm0744346",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Spirit of St. Louis",
+    "FilmId": "tt0051003",
+    "Name": "Visual Effects by Louis Lichtenfield",
+    "Nominees": "Louis Lichtenfield",
+    "NomineeIds": "nm0509020",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Bridge on the River Kwai",
+    "FilmId": "tt0050212",
+    "Name": "Michael Wilson, Carl Foreman, Pierre Boulle",
+    "Nominees": "Michael Wilson|Carl Foreman|Pierre Boulle",
+    "NomineeIds": "nm0933858|nm0286025|nm0099541",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: Though Pierre Boulle received official screen credit, it was commonly known that blacklisted writers, Michael Wilson and Carl Foreman, wrote the screenplay based on Mr. Boulle's novel (translated from the French). The Board of Governors, on December 11, 1984, voted posthumous Oscars to Wilson and Foreman and Academy records have been updated.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Heaven Knows, Mr. Allison",
+    "FilmId": "tt0050490",
+    "Name": "John Lee Mahin, John Huston",
+    "Nominees": "John Lee Mahin|John Huston",
+    "NomineeIds": "nm0536941|nm0001379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Peyton Place",
+    "FilmId": "tt0050839",
+    "Name": "John Michael Hayes",
+    "Nominees": "John Michael Hayes",
+    "NomineeIds": "nm0371088",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Sayonara",
+    "FilmId": "tt0050933",
+    "Name": "Paul Osborn",
+    "Nominees": "Paul Osborn",
+    "NomineeIds": "nm0651585",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "12 Angry Men",
+    "FilmId": "tt0050083",
+    "Name": "Reginald Rose",
+    "Nominees": "Reginald Rose",
+    "NomineeIds": "nm0741627",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Designing Woman",
+    "FilmId": "tt0050306",
+    "Name": "George Wells",
+    "Nominees": "George Wells",
+    "NomineeIds": "nm0920216",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Funny Face",
+    "FilmId": "tt0050419",
+    "Name": "Leonard Gershe",
+    "Nominees": "Leonard Gershe",
+    "NomineeIds": "nm0314826",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Man of a Thousand Faces",
+    "FilmId": "tt0050681",
+    "Name": "Story by Ralph Wheelwright; Screenplay by R. Wright Campbell, Ivan Goff, Ben Roberts",
+    "Nominees": "Ralph Wheelwright|R. Wright Campbell|Ivan Goff|Ben Roberts",
+    "NomineeIds": "nm0924000|nm0132790|nm0324578|nm0730850",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "The Tin Star",
+    "FilmId": "tt0051087",
+    "Name": "Story by Barney Slater, Joel Kane; Screenplay by Dudley Nichols",
+    "Nominees": "Barney Slater|Joel Kane|Dudley Nichols",
+    "NomineeIds": "nm0805340|nm0437352|nm0629580",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Vitelloni",
+    "FilmId": "tt0046521",
+    "Name": "Story by Federico Fellini, Ennio Flaiano, Tullio Pinelli; Screenplay by Federico Fellini, Ennio Flaiano",
+    "Nominees": "Federico Fellini|Ennio Flaiano|Tullio Pinelli",
+    "NomineeIds": "nm0000019|nm0280919|nm0684083",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Samuel Goldwyn",
+    "Nominees": "Samuel Goldwyn",
+    "NomineeIds": "nm0326418",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles Brackett",
+    "NomineeIds": "nm0102818",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Charles Brackett for outstanding service to the Academy."
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "B.B. Kahane",
+    "NomineeIds": "nm0434690",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To B.B. Kahane for distinguished service to the motion picture industry."
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gilbert M. (\\\"Broncho Billy\\\") Anderson",
+    "NomineeIds": "nm0001908",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Gilbert M. (\\\"Broncho Billy\\\") Anderson, motion picture pioneer, for his contributions to the development of motion pictures as entertainment."
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Society of Motion Picture and Television Engineers",
+    "NomineeIds": "co0328276",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To The Society of Motion Picture and Television Engineers for their contributions to the advancement of the motion picture industry."
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "the TODD-AO CORP.|WESTREX CORP.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To the TODD-AO CORP. and WESTREX CORP. for developing a method of producing and exhibiting wide-film motion pictures known as the Todd-AO System."
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Motion Picture Research Council",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To THE MOTION PICTURE RESEARCH COUNCIL for the design and development of a high efficiency projection screen for drive-in theatres."
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "SOCIÉTÉ D'OPTIQUE ET DE MECANIQUE DE HAUTE PRECISION",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To the SOCIÉTÉ D'OPTIQUE ET DE MECANIQUE DE HAUTE PRECISION for the development of a high speed vari-focal photographic lens."
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Harlan L. Baumbach|LORAND WARGO|HOWARD M. LITTLE|the UNICORN ENGINEERING CORP.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To HARLAN L. BAUMBACH, LORAND WARGO, HOWARD M. LITTLE and the UNICORN ENGINEERING CORP. for the development of an Automatic Printer Light Selector."
+  },
+  {
+    "Ceremony": 30,
+    "Year": 1957,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles E. Sutter|WILLIAM B. SMITH|PARAMOUNT PICTURES CORP.|GENERAL CABLE CORP.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To CHARLES E. SUTTER, WILLIAM B. SMITH, PARAMOUNT PICTURES CORP. and GENERAL CABLE CORP. for the engineering and application to studio use of aluminum lightweight electrical cable and connectors."
   }
 ]

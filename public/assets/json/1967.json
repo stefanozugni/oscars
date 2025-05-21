@@ -1,1617 +1,1810 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1967",
-    "nominees": [
-      "In the Heat of the Night"
-    ],
-    "movies": [
-      {
-        "title": "In the Heat of the Night",
-        "tmdb_id": 10633,
-        "imdb_id": "tt0061811"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1967",
-    "nominees": [
-      "Bonnie and Clyde"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1967",
-    "nominees": [
-      "Doctor Dolittle"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Dolittle",
-        "tmdb_id": 16081,
-        "imdb_id": "tt0061584"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1967",
-    "nominees": [
-      "The Graduate"
-    ],
-    "movies": [
-      {
-        "title": "The Graduate",
-        "tmdb_id": 37247,
-        "imdb_id": "tt0061722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1967",
-    "nominees": [
-      "Guess Who's Coming to Dinner"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1967",
-    "nominees": [
-      "Rod Steiger"
-    ],
-    "movies": [
-      {
-        "title": "In the Heat of the Night",
-        "tmdb_id": 10633,
-        "imdb_id": "tt0061811"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1967",
-    "nominees": [
-      "Warren Beatty"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1967",
-    "nominees": [
-      "Dustin Hoffman"
-    ],
-    "movies": [
-      {
-        "title": "The Graduate",
-        "tmdb_id": 37247,
-        "imdb_id": "tt0061722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1967",
-    "nominees": [
-      "Paul Newman"
-    ],
-    "movies": [
-      {
-        "title": "Cool Hand Luke",
-        "tmdb_id": 903,
-        "imdb_id": "tt0061512"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1967",
-    "nominees": [
-      "Spencer Tracy"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1967",
-    "nominees": [
-      "Katharine Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1967",
-    "nominees": [
-      "Anne Bancroft"
-    ],
-    "movies": [
-      {
-        "title": "The Graduate",
-        "tmdb_id": 37247,
-        "imdb_id": "tt0061722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1967",
-    "nominees": [
-      "Faye Dunaway"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1967",
-    "nominees": [
-      "Edith Evans"
-    ],
-    "movies": [
-      {
-        "title": "The Whisperers",
-        "tmdb_id": 70635,
-        "imdb_id": "tt0061180"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1967",
-    "nominees": [
-      "Audrey Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "Wait Until Dark",
-        "tmdb_id": 11206,
-        "imdb_id": "tt0062467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1967",
-    "nominees": [
-      "George Kennedy"
-    ],
-    "movies": [
-      {
-        "title": "Cool Hand Luke",
-        "tmdb_id": 903,
-        "imdb_id": "tt0061512"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1967",
-    "nominees": [
-      "John Cassavetes"
-    ],
-    "movies": [
-      {
-        "title": "The Dirty Dozen",
-        "tmdb_id": 1654,
-        "imdb_id": "tt0061578"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1967",
-    "nominees": [
-      "Gene Hackman"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1967",
-    "nominees": [
-      "Cecil Kellaway"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1967",
-    "nominees": [
-      "MIchael J. Pollard"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1967",
-    "nominees": [
-      "Estelle Parsons"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1967",
-    "nominees": [
-      "Carol Channing"
-    ],
-    "movies": [
-      {
-        "title": "Thoroughly Modern Millie",
-        "tmdb_id": 32489,
-        "imdb_id": "tt0062362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1967",
-    "nominees": [
-      "Mildred Natwick"
-    ],
-    "movies": [
-      {
-        "title": "Barefoot in the Park",
-        "tmdb_id": 17887,
-        "imdb_id": "tt0061385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1967",
-    "nominees": [
-      "Beah Richards"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1967",
-    "nominees": [
-      "Katharine Ross"
-    ],
-    "movies": [
-      {
-        "title": "The Graduate",
-        "tmdb_id": 37247,
-        "imdb_id": "tt0061722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1967",
-    "nominees": [
-      "Mike Nichols"
-    ],
-    "movies": [
-      {
-        "title": "The Graduate",
-        "tmdb_id": 37247,
-        "imdb_id": "tt0061722"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1967",
-    "nominees": [
-      "Richard Brooks"
-    ],
-    "movies": [
-      {
-        "title": "In Cold Blood",
-        "tmdb_id": 18900,
-        "imdb_id": "tt0061809"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1967",
-    "nominees": [
-      "Norman Jewison"
-    ],
-    "movies": [
-      {
-        "title": "In the Heat of the Night",
-        "tmdb_id": 10633,
-        "imdb_id": "tt0061811"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1967",
-    "nominees": [
-      "Stanley Kramer"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1967",
-    "nominees": [
-      "Arthur Penn"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1967",
-    "nominees": [
-      "Stirling Silliphant"
-    ],
-    "movies": [
-      {
-        "title": "In the Heat of the Night",
-        "tmdb_id": 10633,
-        "imdb_id": "tt0061811"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1967",
-    "nominees": [
-      "Donn Pearce",
-      "Frank Pierson"
-    ],
-    "movies": [
-      {
-        "title": "Cool Hand Luke",
-        "tmdb_id": 903,
-        "imdb_id": "tt0061512"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1967",
-    "nominees": [
-      "Buck Henry",
-      "Calder Willingham"
-    ],
-    "movies": [
-      {
-        "title": "The Graduate",
-        "tmdb_id": 37247,
-        "imdb_id": "tt0061722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1967",
-    "nominees": [
-      "Richard Brooks"
-    ],
-    "movies": [
-      {
-        "title": "In Cold Blood",
-        "tmdb_id": 18900,
-        "imdb_id": "tt0061809"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1967",
-    "nominees": [
-      "Joseph Strick",
-      "Fred Haines"
-    ],
-    "movies": [
-      {
-        "title": "Ulysses",
-        "tmdb_id": 119183,
-        "imdb_id": "tt0062414"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1967",
-    "nominees": [
-      "William Rose"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1967",
-    "nominees": [
-      "David Newman",
-      "Robert Benton"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1967",
-    "nominees": [
-      "Robert Kaufman",
-      "Norman Lear"
-    ],
-    "movies": [
-      {
-        "title": "Divorce American Style",
-        "tmdb_id": 102057,
-        "imdb_id": "tt0061581"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1967",
-    "nominees": [
-      "Jorge Semprun"
-    ],
-    "movies": [
-      {
-        "title": "The War Is Over",
-        "tmdb_id": 4781,
-        "imdb_id": "tt0060481"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1967",
-    "nominees": [
-      "Frederic Raphael"
-    ],
-    "movies": [
-      {
-        "title": "Two for the Road",
-        "tmdb_id": 5767,
-        "imdb_id": "tt0062407"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1967",
-    "nominees": [
-      "Elmer Bernstein"
-    ],
-    "movies": [
-      {
-        "title": "Thoroughly Modern Millie",
-        "tmdb_id": 32489,
-        "imdb_id": "tt0062362"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1967",
-    "nominees": [
-      "Lalo Schifrin"
-    ],
-    "movies": [
-      {
-        "title": "Cool Hand Luke",
-        "tmdb_id": 903,
-        "imdb_id": "tt0061512"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1967",
-    "nominees": [
-      "Leslie Bricusse"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Dolittle",
-        "tmdb_id": 16081,
-        "imdb_id": "tt0061584"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1967",
-    "nominees": [
-      "Richard Rodney Bennett"
-    ],
-    "movies": [
-      {
-        "title": "Far from the Madding Crowd",
-        "tmdb_id": 3469,
-        "imdb_id": "tt0061648"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1967",
-    "nominees": [
-      "Quincy Jones"
-    ],
-    "movies": [
-      {
-        "title": "In Cold Blood",
-        "tmdb_id": 18900,
-        "imdb_id": "tt0061809"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1967",
-    "nominees": [
-      "Alfred Newman",
-      "Ken Darby"
-    ],
-    "movies": [
-      {
-        "title": "Camelot",
-        "tmdb_id": 18978,
-        "imdb_id": "tt0061439"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1967",
-    "nominees": [
-      "Lionel Newman",
-      "Alexander Courage"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Dolittle",
-        "tmdb_id": 16081,
-        "imdb_id": "tt0061584"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1967",
-    "nominees": [
-      "Frank De Vol"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1967",
-    "nominees": [
-      "Andre Previn",
-      "Joseph Gershenson"
-    ],
-    "movies": [
-      {
-        "title": "Thoroughly Modern Millie",
-        "tmdb_id": 32489,
-        "imdb_id": "tt0062362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1967",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Valley of the Dolls",
-        "tmdb_id": 3055,
-        "imdb_id": "tt0062430"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1967",
-    "nominees": [
-      "Talk to the Animals"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Dolittle",
-        "tmdb_id": 16081,
-        "imdb_id": "tt0061584"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1967",
-    "nominees": [
-      "The Bare Necessities"
-    ],
-    "movies": [
-      {
-        "title": "The Jungle Book",
-        "tmdb_id": 9325,
-        "imdb_id": "tt0061852"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1967",
-    "nominees": [
-      "The Eyes of Love"
-    ],
-    "movies": [
-      {
-        "title": "Banning",
-        "tmdb_id": 84511,
-        "imdb_id": "tt0061383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1967",
-    "nominees": [
-      "The Look of Love"
-    ],
-    "movies": [
-      {
-        "title": "Casino Royale",
-        "tmdb_id": 12208,
-        "imdb_id": "tt0061452"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1967",
-    "nominees": [
-      "Thoroughly Modern Millie"
-    ],
-    "movies": [
-      {
-        "title": "Thoroughly Modern Millie",
-        "tmdb_id": 32489,
-        "imdb_id": "tt0062362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1967",
-    "nominees": [
-      "Closely Watched Trains"
-    ],
-    "movies": [
-      {
-        "title": "Closely Watched Trains",
-        "tmdb_id": 789,
-        "imdb_id": "tt0060802"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1967",
-    "nominees": [
-      "Bewitched Love"
-    ],
-    "movies": [
-      {
-        "title": "Bewitched Love",
-        "tmdb_id": 202771,
-        "imdb_id": "tt0061350"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1967",
-    "nominees": [
-      "I Even Met Happy Gypsies"
-    ],
-    "movies": [
-      {
-        "title": "I Even Met Happy Gypsies",
-        "tmdb_id": 59088,
-        "imdb_id": "tt0062277"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1967",
-    "nominees": [
-      "Live for Life"
-    ],
-    "movies": [
-      {
-        "title": "Live for Life",
-        "tmdb_id": 76295,
-        "imdb_id": "tt0062452"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1967",
-    "nominees": [
-      "Portrait of Chieko"
-    ],
-    "movies": [
-      {
-        "title": "Portrait of Chieko",
-        "tmdb_id": 202773,
-        "imdb_id": "tt0061471"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1967",
-    "nominees": [
-      "The Anderson Platoon"
-    ],
-    "movies": [
-      {
-        "title": "The Anderson Platoon",
-        "tmdb_id": 66569,
-        "imdb_id": "tt0062244"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1967",
-    "nominees": [
-      "Festival"
-    ],
-    "movies": [
-      {
-        "title": "Festival",
-        "tmdb_id": 16247,
-        "imdb_id": "tt0061658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1967",
-    "nominees": [
-      "Harvest"
-    ],
-    "movies": [
-      {
-        "title": "Harvest",
-        "tmdb_id": 149302,
-        "imdb_id": "tt0061750"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1967",
-    "nominees": [
-      "A King's Story"
-    ],
-    "movies": [
-      {
-        "title": "A King's Story",
-        "tmdb_id": 149304,
-        "imdb_id": "tt0059359"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1967",
-    "nominees": [
-      "A Time for Burning"
-    ],
-    "movies": [
-      {
-        "title": "A Time for Burning",
-        "tmdb_id": 149306,
-        "imdb_id": "tt0062372"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1967",
-    "nominees": [
-      "The Redwoods"
-    ],
-    "movies": [
-      {
-        "title": "The Redwoods",
-        "tmdb_id": 243314,
-        "imdb_id": "tt0062184"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1967",
-    "nominees": [
-      "Monument to the Dream"
-    ],
-    "movies": [
-      {
-        "title": "Monument to the Dream",
-        "tmdb_id": 243315,
-        "imdb_id": "tt0061990"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1967",
-    "nominees": [
-      "A Place to Stand"
-    ],
-    "movies": [
-      {
-        "title": "A Place to Stand",
-        "tmdb_id": 243307,
-        "imdb_id": "tt0062131"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1967",
-    "nominees": [
-      "See You at the Pillar"
-    ],
-    "movies": [
-      {
-        "title": "See You at the Pillar",
-        "tmdb_id": 243316,
-        "imdb_id": "tt0062246"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1967",
-    "nominees": [
-      "While I Run This Race"
-    ],
-    "movies": [
-      {
-        "title": "While I Run This Race",
-        "tmdb_id": 243317,
-        "imdb_id": "tt0062489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1967",
-    "nominees": [
-      "The Box"
-    ],
-    "movies": [
-      {
-        "title": "The Box",
-        "tmdb_id": 205704,
-        "imdb_id": "tt0061421"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1967",
-    "nominees": [
-      "Hypothèse Beta"
-    ],
-    "movies": [
-      {
-        "title": "Hypothèse Beta",
-        "tmdb_id": 243310,
-        "imdb_id": "tt0061798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1967",
-    "nominees": [
-      "What on Earth!"
-    ],
-    "movies": [
-      {
-        "title": "What on Earth!",
-        "tmdb_id": 243312,
-        "imdb_id": "tt0062353"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1967",
-    "nominees": [
-      "A Place to Stand"
-    ],
-    "movies": [
-      {
-        "title": "A Place to Stand",
-        "tmdb_id": 243307,
-        "imdb_id": "tt0062131"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1967",
-    "nominees": [
-      "Paddle to the Sea"
-    ],
-    "movies": [
-      {
-        "title": "Paddle to the Sea",
-        "tmdb_id": 46796,
-        "imdb_id": "tt0060810"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1967",
-    "nominees": [
-      "Sky Over Holland"
-    ],
-    "movies": [
-      {
-        "title": "Sky Over Holland",
-        "tmdb_id": 98023,
-        "imdb_id": "tt0062278"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1967",
-    "nominees": [
-      "Stop Look and Listen"
-    ],
-    "movies": [
-      {
-        "title": "Stop Look and Listen",
-        "tmdb_id": 243309,
-        "imdb_id": "tt0062307"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "John Truscott",
-      "Edward Carrere",
-      "John W. Brown"
-    ],
-    "movies": [
-      {
-        "title": "Camelot",
-        "tmdb_id": 18978,
-        "imdb_id": "tt0061439"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "Mario Chiari",
-      "Jack Martin Smith",
-      "Ed Graves",
-      "Walter M. Scott",
-      "Stuart A. Reiss"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Dolittle",
-        "tmdb_id": 16081,
-        "imdb_id": "tt0061584"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "Robert Clatworthy",
-      "Frank Tuttle"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "Renzo Mongiardino",
-      "John DeCuir",
-      "Elven Webb",
-      "Giuseppe Mariani",
-      "Dario Simoni",
-      "Luigi Gervasi"
-    ],
-    "movies": [
-      {
-        "title": "The Taming of the Shrew",
-        "tmdb_id": 25560,
-        "imdb_id": "tt0061407"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "Alexander Golitzen",
-      "George C. Webb",
-      "Howard Bristol"
-    ],
-    "movies": [
-      {
-        "title": "Thoroughly Modern Millie",
-        "tmdb_id": 32489,
-        "imdb_id": "tt0062362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1967",
-    "nominees": [
-      "Burnett Guffey"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1967",
-    "nominees": [
-      "Richard H. Kline"
-    ],
-    "movies": [
-      {
-        "title": "Camelot",
-        "tmdb_id": 18978,
-        "imdb_id": "tt0061439"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1967",
-    "nominees": [
-      "Robert Surtees"
-    ],
-    "movies": [
-      {
-        "title": "The Graduate",
-        "tmdb_id": 37247,
-        "imdb_id": "tt0061722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1967",
-    "nominees": [
-      "Robert Surtees"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Dolittle",
-        "tmdb_id": 16081,
-        "imdb_id": "tt0061584"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1967",
-    "nominees": [
-      "Conrad Hall"
-    ],
-    "movies": [
-      {
-        "title": "In Cold Blood",
-        "tmdb_id": 18900,
-        "imdb_id": "tt0061809"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1967",
-    "nominees": [
-      "Hal Ashby"
-    ],
-    "movies": [
-      {
-        "title": "In the Heat of the Night",
-        "tmdb_id": 10633,
-        "imdb_id": "tt0061811"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1967",
-    "nominees": [
-      "Frank P. Keller"
-    ],
-    "movies": [
-      {
-        "title": "Beach Red",
-        "tmdb_id": 39519,
-        "imdb_id": "tt0061389"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1967",
-    "nominees": [
-      "Michael Luciano"
-    ],
-    "movies": [
-      {
-        "title": "The Dirty Dozen",
-        "tmdb_id": 1654,
-        "imdb_id": "tt0061578"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1967",
-    "nominees": [
-      "Samuel E. Beetley",
-      "Marjorie Fowler"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Dolittle",
-        "tmdb_id": 16081,
-        "imdb_id": "tt0061584"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1967",
-    "nominees": [
-      "Robert C. Jones"
-    ],
-    "movies": [
-      {
-        "title": "Guess Who's Coming to Dinner",
-        "tmdb_id": 1879,
-        "imdb_id": "tt0061735"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1967",
-    "nominees": [
-      "L.B. Abbot"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Dolittle",
-        "tmdb_id": 16081,
-        "imdb_id": "tt0061584"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1967",
-    "nominees": [
-      "Howard A. Johnson Jr.",
-      "Albert Whitlock"
-    ],
-    "movies": [
-      {
-        "title": "Tobruk",
-        "tmdb_id": 25385,
-        "imdb_id": "tt0062377"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1967",
-    "nominees": [
-      "Samuel Goldwyn Studio Sound Department"
-    ],
-    "movies": [
-      {
-        "title": "In the Heat of the Night",
-        "tmdb_id": 10633,
-        "imdb_id": "tt0061811"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1967",
-    "nominees": [
-      "Warner Bros.-Seven Arts Studio Sound Department"
-    ],
-    "movies": [
-      {
-        "title": "Camelot",
-        "tmdb_id": 18978,
-        "imdb_id": "tt0061439"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1967",
-    "nominees": [
-      "Metro-Goldwyn-Mayer Studio Sound Department"
-    ],
-    "movies": [
-      {
-        "title": "The Dirty Dozen",
-        "tmdb_id": 1654,
-        "imdb_id": "tt0061578"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1967",
-    "nominees": [
-      "20th Century-Fox Studio Sound Department"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Dolittle",
-        "tmdb_id": 16081,
-        "imdb_id": "tt0061584"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1967",
-    "nominees": [
-      "Universal City Studio Sound Department"
-    ],
-    "movies": [
-      {
-        "title": "Thoroughly Modern Millie",
-        "tmdb_id": 32489,
-        "imdb_id": "tt0062362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1967",
-    "nominees": [
-      "John Poyner"
-    ],
-    "movies": [
-      {
-        "title": "The Dirty Dozen",
-        "tmdb_id": 1654,
-        "imdb_id": "tt0061578"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1967",
-    "nominees": [
-      "James Richard"
-    ],
-    "movies": [
-      {
-        "title": "In the Heat of the Night",
-        "tmdb_id": 10633,
-        "imdb_id": "tt0061811"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "John Truscott"
-    ],
-    "movies": [
-      {
-        "title": "Camelot",
-        "tmdb_id": 18978,
-        "imdb_id": "tt0061439"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "Theadora Van Runkle"
-    ],
-    "movies": [
-      {
-        "title": "Bonnie and Clyde",
-        "tmdb_id": 475,
-        "imdb_id": "tt0061418"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "Bill Thomas"
-    ],
-    "movies": [
-      {
-        "title": "The Happiest Millionaire",
-        "tmdb_id": 25445,
-        "imdb_id": "tt0061749"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "Danilo Donati",
-      "Irene Sharaff"
-    ],
-    "movies": [
-      {
-        "title": "The Taming of the Shrew",
-        "tmdb_id": 25560,
-        "imdb_id": "tt0061407"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1967",
-    "nominees": [
-      "Jean Louis"
-    ],
-    "movies": [
-      {
-        "title": "Thoroughly Modern Millie",
-        "tmdb_id": 32489,
-        "imdb_id": "tt0062362"
-      }
-    ],
-    "won": false
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "Warren Beatty",
+    "Nominees": "Warren Beatty",
+    "NomineeIds": "nm0000886",
+    "Winner": "",
+    "Detail": "Clyde Barrow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Graduate",
+    "FilmId": "tt0061722",
+    "Name": "Dustin Hoffman",
+    "Nominees": "Dustin Hoffman",
+    "NomineeIds": "nm0000163",
+    "Winner": "",
+    "Detail": "Ben Braddock",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Cool Hand Luke",
+    "FilmId": "tt0061512",
+    "Name": "Paul Newman",
+    "Nominees": "Paul Newman",
+    "NomineeIds": "nm0000056",
+    "Winner": "",
+    "Detail": "Luke Jackson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "In the Heat of the Night",
+    "FilmId": "tt0061811",
+    "Name": "Rod Steiger",
+    "Nominees": "Rod Steiger",
+    "NomineeIds": "nm0001768",
+    "Winner": "True",
+    "Detail": "Police Chief Bill Gillespie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "Spencer Tracy",
+    "Nominees": "Spencer Tracy",
+    "NomineeIds": "nm0000075",
+    "Winner": "",
+    "Detail": "Matt Drayton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Dirty Dozen",
+    "FilmId": "tt0061578",
+    "Name": "John Cassavetes",
+    "Nominees": "John Cassavetes",
+    "NomineeIds": "nm0001023",
+    "Winner": "",
+    "Detail": "Victor Franko",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "Gene Hackman",
+    "Nominees": "Gene Hackman",
+    "NomineeIds": "nm0000432",
+    "Winner": "",
+    "Detail": "Buck Barrow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "Cecil Kellaway",
+    "Nominees": "Cecil Kellaway",
+    "NomineeIds": "nm0445523",
+    "Winner": "",
+    "Detail": "Monsignor Ryan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Cool Hand Luke",
+    "FilmId": "tt0061512",
+    "Name": "George Kennedy",
+    "Nominees": "George Kennedy",
+    "NomineeIds": "nm0001421",
+    "Winner": "True",
+    "Detail": "Dragline",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "Michael J. Pollard",
+    "Nominees": "Michael J. Pollard",
+    "NomineeIds": "nm0689488",
+    "Winner": "",
+    "Detail": "C.W. Moss",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Graduate",
+    "FilmId": "tt0061722",
+    "Name": "Anne Bancroft",
+    "Nominees": "Anne Bancroft",
+    "NomineeIds": "nm0000843",
+    "Winner": "",
+    "Detail": "Mrs. Robinson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "Faye Dunaway",
+    "Nominees": "Faye Dunaway",
+    "NomineeIds": "nm0001159",
+    "Winner": "",
+    "Detail": "Bonnie Parker",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Whisperers",
+    "FilmId": "tt0061180",
+    "Name": "Dame Edith Evans",
+    "Nominees": "Dame Edith Evans",
+    "NomineeIds": "nm0262725",
+    "Winner": "",
+    "Detail": "Mrs. Ross",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Wait until Dark",
+    "FilmId": "tt0062467",
+    "Name": "Audrey Hepburn",
+    "Nominees": "Audrey Hepburn",
+    "NomineeIds": "nm0000030",
+    "Winner": "",
+    "Detail": "Susy Hendrix",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "Katharine Hepburn",
+    "Nominees": "Katharine Hepburn",
+    "NomineeIds": "nm0000031",
+    "Winner": "True",
+    "Detail": "Christina Drayton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Thoroughly Modern Millie",
+    "FilmId": "tt0062362",
+    "Name": "Carol Channing",
+    "Nominees": "Carol Channing",
+    "NomineeIds": "nm0151919",
+    "Winner": "",
+    "Detail": "Muzzy Van Hossmere",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Barefoot in the Park",
+    "FilmId": "tt0061385",
+    "Name": "Mildred Natwick",
+    "Nominees": "Mildred Natwick",
+    "NomineeIds": "nm0622450",
+    "Winner": "",
+    "Detail": "Mrs. Ethel Banks",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "Estelle Parsons",
+    "Nominees": "Estelle Parsons",
+    "NomineeIds": "nm0663820",
+    "Winner": "True",
+    "Detail": "Blanche Barrow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "Beah Richards",
+    "Nominees": "Beah Richards",
+    "NomineeIds": "nm0723968",
+    "Winner": "",
+    "Detail": "Mrs. Prentice",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Graduate",
+    "FilmId": "tt0061722",
+    "Name": "Katharine Ross",
+    "Nominees": "Katharine Ross",
+    "NomineeIds": "nm0001684",
+    "Winner": "",
+    "Detail": "Elaine Robinson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Camelot",
+    "FilmId": "tt0061439",
+    "Name": "Art Direction: John Truscott, Edward Carrere; Set Decoration: John W. Brown",
+    "Nominees": "John Truscott|Edward Carrere|John W. Brown",
+    "NomineeIds": "nm0874405|nm0140264|nm0113878",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Doctor Dolittle",
+    "FilmId": "tt0061584",
+    "Name": "Art Direction: Mario Chiari, Jack Martin Smith, Ed Graves; Set Decoration: Walter M. Scott, Stuart A. Reiss",
+    "Nominees": "Mario Chiari|Jack Martin Smith|Ed Graves|Walter M. Scott|Stuart A. Reiss",
+    "NomineeIds": "nm0157061|nm0005584|nm0336273|nm0779898|nm0718524",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "Art Direction: Robert Clatworthy; Set Decoration: Frank Tuttle",
+    "Nominees": "Robert Clatworthy|Frank Tuttle",
+    "NomineeIds": "nm0165197|nm0878339",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Taming of the Shrew",
+    "FilmId": "tt0061407",
+    "Name": "Art Direction: Renzo Mongiardino, John DeCuir, Elven Webb, Giuseppe Mariani; Set Decoration: Dario Simoni, Luigi Gervasi",
+    "Nominees": "Renzo Mongiardino|John DeCuir|Elven Webb|Giuseppe Mariani|Dario Simoni|Luigi Gervasi",
+    "NomineeIds": "nm0598044|nm0214043|nm0916101|nm0547077|nm0800618|nm0315062",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Thoroughly Modern Millie",
+    "FilmId": "tt0062362",
+    "Name": "Art Direction: Alexander Golitzen, George C. Webb; Set Decoration: Howard Bristol",
+    "Nominees": "Alexander Golitzen|George C. Webb|Howard Bristol",
+    "NomineeIds": "nm0326529|nm0916112|nm0109924",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "Burnett Guffey",
+    "Nominees": "Burnett Guffey",
+    "NomineeIds": "nm0346532",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Camelot",
+    "FilmId": "tt0061439",
+    "Name": "Richard H. Kline",
+    "Nominees": "Richard H. Kline",
+    "NomineeIds": "nm0459660",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Doctor Dolittle",
+    "FilmId": "tt0061584",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Graduate",
+    "FilmId": "tt0061722",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "In Cold Blood",
+    "FilmId": "tt0061809",
+    "Name": "Conrad Hall",
+    "Nominees": "Conrad Hall",
+    "NomineeIds": "nm0005734",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "Theadora Van Runkle",
+    "Nominees": "Theadora Van Runkle",
+    "NomineeIds": "nm0887916",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Camelot",
+    "FilmId": "tt0061439",
+    "Name": "John Truscott",
+    "Nominees": "John Truscott",
+    "NomineeIds": "nm0874405",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Happiest Millionaire",
+    "FilmId": "tt0061749",
+    "Name": "Bill Thomas",
+    "Nominees": "Bill Thomas",
+    "NomineeIds": "nm0858528",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Taming of the Shrew",
+    "FilmId": "tt0061407",
+    "Name": "Irene Sharaff, Danilo Donati",
+    "Nominees": "Irene Sharaff|Danilo Donati",
+    "NomineeIds": "nm0788695|nm0232219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Thoroughly Modern Millie",
+    "FilmId": "tt0062362",
+    "Name": "Jean Louis",
+    "Nominees": "Jean Louis",
+    "NomineeIds": "nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "Arthur Penn",
+    "Nominees": "Arthur Penn",
+    "NomineeIds": "nm0671957",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Graduate",
+    "FilmId": "tt0061722",
+    "Name": "Mike Nichols",
+    "Nominees": "Mike Nichols",
+    "NomineeIds": "nm0001566",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "Stanley Kramer",
+    "Nominees": "Stanley Kramer",
+    "NomineeIds": "nm0006452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "In Cold Blood",
+    "FilmId": "tt0061809",
+    "Name": "Richard Brooks",
+    "Nominees": "Richard Brooks",
+    "NomineeIds": "nm0112218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "In the Heat of the Night",
+    "FilmId": "tt0061811",
+    "Name": "Norman Jewison",
+    "Nominees": "Norman Jewison",
+    "NomineeIds": "nm0422484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Anderson Platoon",
+    "FilmId": "tt0062244",
+    "Name": "Pierre Schoendoerffer, Producer",
+    "Nominees": "Pierre Schoendoerffer",
+    "NomineeIds": "nm0006954",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Festival",
+    "FilmId": "tt0061658",
+    "Name": "Murray Lerner, Producer",
+    "Nominees": "Murray Lerner",
+    "NomineeIds": "nm0503635",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Harvest",
+    "FilmId": "tt0061750",
+    "Name": "Carroll Ballard, Producer",
+    "Nominees": "Carroll Ballard",
+    "NomineeIds": "nm0050597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "A King's Story",
+    "FilmId": "tt0059359",
+    "Name": "Jack Le Vien, Producer",
+    "Nominees": "Jack Le Vien",
+    "NomineeIds": "nm0505617",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "A Time for Burning",
+    "FilmId": "tt0062372",
+    "Name": "William C. Jersey, Producer",
+    "Nominees": "William C. Jersey",
+    "NomineeIds": "nm0422080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Monument to the Dream",
+    "FilmId": "tt0061990",
+    "Name": "Charles E. Guggenheim, Producer",
+    "Nominees": "Charles E. Guggenheim",
+    "NomineeIds": "nm0346549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Place to Stand",
+    "FilmId": "tt0062131",
+    "Name": "Christopher Chapman, Producer",
+    "Nominees": "Christopher Chapman",
+    "NomineeIds": "nm0152326",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Redwoods",
+    "FilmId": "tt0062184",
+    "Name": "Mark Harris and Trevor Greenwood, Producers",
+    "Nominees": "Mark Harris|Trevor Greenwood",
+    "NomineeIds": "nm0365057|nm0339401",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "See You at the Pillar",
+    "FilmId": "tt0062246",
+    "Name": "Robert Fitchett, Producer",
+    "Nominees": "Robert Fitchett",
+    "NomineeIds": "nm0280037",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "While I Run This Race",
+    "FilmId": "tt0062489",
+    "Name": "Carl V. Ragsdale, Producer",
+    "Nominees": "Carl V. Ragsdale",
+    "NomineeIds": "nm0706601",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Beach Red",
+    "FilmId": "tt0061389",
+    "Name": "Frank P. Keller",
+    "Nominees": "Frank P. Keller",
+    "NomineeIds": "nm0445628",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Dirty Dozen",
+    "FilmId": "tt0061578",
+    "Name": "Michael Luciano",
+    "Nominees": "Michael Luciano",
+    "NomineeIds": "nm0524597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Doctor Dolittle",
+    "FilmId": "tt0061584",
+    "Name": "Samuel E. Beetley, Marjorie Fowler",
+    "Nominees": "Samuel E. Beetley|Marjorie Fowler",
+    "NomineeIds": "nm0066622|nm0288761",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "Robert C. Jones",
+    "Nominees": "Robert C. Jones",
+    "NomineeIds": "nm0002717",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "In the Heat of the Night",
+    "FilmId": "tt0061811",
+    "Name": "Hal Ashby",
+    "Nominees": "Hal Ashby",
+    "NomineeIds": "nm0000797",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Closely Watched Trains",
+    "FilmId": "tt0060802",
+    "Name": "Czechoslovakia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "El Amor Brujo",
+    "FilmId": "tt0061350",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "I Even Met Happy Gypsies",
+    "FilmId": "tt0062277",
+    "Name": "Yugoslavia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Live for Life",
+    "FilmId": "tt0062452",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Portrait of Chieko",
+    "FilmId": "tt0061471",
+    "Name": "Japan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "Cool Hand Luke",
+    "FilmId": "tt0061512",
+    "Name": "Lalo Schifrin",
+    "Nominees": "Lalo Schifrin",
+    "NomineeIds": "nm0006277",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "Doctor Dolittle",
+    "FilmId": "tt0061584",
+    "Name": "Leslie Bricusse",
+    "Nominees": "Leslie Bricusse",
+    "NomineeIds": "nm0108634",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "Far from the Madding Crowd",
+    "FilmId": "tt0061648",
+    "Name": "Richard Rodney Bennett",
+    "Nominees": "Richard Rodney Bennett",
+    "NomineeIds": "nm0005961",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "In Cold Blood",
+    "FilmId": "tt0061809",
+    "Name": "Quincy Jones",
+    "Nominees": "Quincy Jones",
+    "NomineeIds": "nm0005065",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "Thoroughly Modern Millie",
+    "FilmId": "tt0062362",
+    "Name": "Elmer Bernstein",
+    "Nominees": "Elmer Bernstein",
+    "NomineeIds": "nm0000930",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Camelot",
+    "FilmId": "tt0061439",
+    "Name": "Alfred Newman, Ken Darby",
+    "Nominees": "Alfred Newman|Ken Darby",
+    "NomineeIds": "nm0000055|nm0006024",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Doctor Dolittle",
+    "FilmId": "tt0061584",
+    "Name": "Lionel Newman, Alexander Courage",
+    "Nominees": "Lionel Newman|Alexander Courage",
+    "NomineeIds": "nm0006213|nm0006021",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "DeVol",
+    "Nominees": "DeVol",
+    "NomineeIds": "nm0006030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Thoroughly Modern Millie",
+    "FilmId": "tt0062362",
+    "Name": "Andre Previn, Joseph Gershenson",
+    "Nominees": "Andre Previn|Joseph Gershenson",
+    "NomineeIds": "nm0006238|nm0314829",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Valley of the Dolls",
+    "FilmId": "tt0062430",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Jungle Book",
+    "FilmId": "tt0061852",
+    "Name": "Music and Lyrics by Terry Gilkyson",
+    "Nominees": "Terry Gilkyson",
+    "NomineeIds": "nm0318601",
+    "Winner": "",
+    "Detail": "The Bare Necessities",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Banning",
+    "FilmId": "tt0061383",
+    "Name": "Music by Quincy Jones; Lyrics by Bob Russell",
+    "Nominees": "Quincy Jones|Bob Russell",
+    "NomineeIds": "nm0005065|nm0751035",
+    "Winner": "",
+    "Detail": "The Eyes Of Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Casino Royale",
+    "FilmId": "tt0061452",
+    "Name": "Music by Burt Bacharach; Lyrics by Hal David",
+    "Nominees": "Burt Bacharach|Hal David",
+    "NomineeIds": "nm0000820|nm0202910",
+    "Winner": "",
+    "Detail": "The Look Of Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Doctor Dolittle",
+    "FilmId": "tt0061584",
+    "Name": "Music and Lyrics by Leslie Bricusse",
+    "Nominees": "Leslie Bricusse",
+    "NomineeIds": "nm0108634",
+    "Winner": "True",
+    "Detail": "Talk To The Animals",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Thoroughly Modern Millie",
+    "FilmId": "tt0062362",
+    "Name": "Music and Lyrics by James Van Heusen and Sammy Cahn",
+    "Nominees": "James Van Heusen|Sammy Cahn",
+    "NomineeIds": "nm0006329|nm0005991",
+    "Winner": "",
+    "Detail": "Thoroughly Modern Millie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "Warren Beatty, Producer",
+    "Nominees": "Warren Beatty",
+    "NomineeIds": "nm0000886",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Doctor Dolittle",
+    "FilmId": "tt0061584",
+    "Name": "Arthur P. Jacobs, Producer",
+    "Nominees": "Arthur P. Jacobs",
+    "NomineeIds": "nm0414336",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Graduate",
+    "FilmId": "tt0061722",
+    "Name": "Lawrence Turman, Producer",
+    "Nominees": "Lawrence Turman",
+    "NomineeIds": "nm0877274",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "Stanley Kramer, Producer",
+    "Nominees": "Stanley Kramer",
+    "NomineeIds": "nm0006452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "In the Heat of the Night",
+    "FilmId": "tt0061811",
+    "Name": "Walter Mirisch, Producer",
+    "Nominees": "Walter Mirisch",
+    "NomineeIds": "nm0592387",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Box",
+    "FilmId": "tt0061421",
+    "Name": "Fred Wolf, Producer",
+    "Nominees": "Fred Wolf",
+    "NomineeIds": "nm0937747",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Hypothese Beta",
+    "FilmId": "tt0061798",
+    "Name": "Jean-Charles Meunier, Producer",
+    "Nominees": "Jean-Charles Meunier",
+    "NomineeIds": "nm0582839",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "What on Earth!",
+    "FilmId": "tt0062353",
+    "Name": "Robert Verrall and Wolf Koenig, Producers",
+    "Nominees": "Robert Verrall|Wolf Koenig",
+    "NomineeIds": "nm0894826|nm0462860",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Paddle to the Sea",
+    "FilmId": "tt0060810",
+    "Name": "Julian Biggs, Producer",
+    "Nominees": "Julian Biggs",
+    "NomineeIds": "nm0081852",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "A Place to Stand",
+    "FilmId": "tt0062131",
+    "Name": "Christopher Chapman, Producer",
+    "Nominees": "Christopher Chapman",
+    "NomineeIds": "nm0152326",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Sky over Holland",
+    "FilmId": "tt0062278",
+    "Name": "John Ferno, Producer",
+    "Nominees": "John Ferno",
+    "NomineeIds": "nm0273142",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Stop, Look and Listen",
+    "FilmId": "tt0062307",
+    "Name": "Len Janson and Chuck Menville, Producers",
+    "Nominees": "Len Janson|Chuck Menville",
+    "NomineeIds": "nm0418116|nm0579912",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Camelot",
+    "FilmId": "tt0061439",
+    "Name": "Warner Bros.-Seven Arts Studio Sound Department",
+    "Nominees": "Warner Bros.|Seven Arts",
+    "NomineeIds": "co0080422|co0638213",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Dirty Dozen",
+    "FilmId": "tt0061578",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Doctor Dolittle",
+    "FilmId": "tt0061584",
+    "Name": "20th Century-Fox Studio Sound Department",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "In the Heat of the Night",
+    "FilmId": "tt0061811",
+    "Name": "Samuel Goldwyn Studio Sound Department",
+    "Nominees": "Samuel Goldwyn",
+    "NomineeIds": "co0058013",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Thoroughly Modern Millie",
+    "FilmId": "tt0062362",
+    "Name": "Universal City Studio Sound Department",
+    "Nominees": "Universal City",
+    "NomineeIds": "co0005073",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS",
+    "Film": "The Dirty Dozen",
+    "FilmId": "tt0061578",
+    "Name": "John Poyner",
+    "Nominees": "John Poyner",
+    "NomineeIds": "nm0694713",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS",
+    "Film": "In the Heat of the Night",
+    "FilmId": "tt0061811",
+    "Name": "James A. Richard",
+    "Nominees": "James A. Richard",
+    "NomineeIds": "nm0723821",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "Doctor Dolittle",
+    "FilmId": "tt0061584",
+    "Name": "L. B. Abbott",
+    "Nominees": "L. B. Abbott",
+    "NomineeIds": "nm0008004",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "Tobruk",
+    "FilmId": "tt0062377",
+    "Name": "Howard A. Anderson, Jr., Albert Whitlock",
+    "Nominees": "Howard A. Anderson Jr.|Albert Whitlock",
+    "NomineeIds": "nm0026806|nm0926087",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Cool Hand Luke",
+    "FilmId": "tt0061512",
+    "Name": "Donn Pearce, Frank R. Pierson",
+    "Nominees": "Donn Pearce|Frank R. Pierson",
+    "NomineeIds": "nm0668914|nm0682757",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Graduate",
+    "FilmId": "tt0061722",
+    "Name": "Calder Willingham, Buck Henry",
+    "Nominees": "Calder Willingham|Buck Henry",
+    "NomineeIds": "nm0932229|nm0377750",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "In Cold Blood",
+    "FilmId": "tt0061809",
+    "Name": "Richard Brooks",
+    "Nominees": "Richard Brooks",
+    "NomineeIds": "nm0112218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "In the Heat of the Night",
+    "FilmId": "tt0061811",
+    "Name": "Stirling Silliphant",
+    "Nominees": "Stirling Silliphant",
+    "NomineeIds": "nm0798103",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Ulysses",
+    "FilmId": "tt0062414",
+    "Name": "Joseph Strick, Fred Haines",
+    "Nominees": "Joseph Strick|Fred Haines",
+    "NomineeIds": "nm0834334|nm0354247",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Bonnie and Clyde",
+    "FilmId": "tt0061418",
+    "Name": "David Newman, Robert Benton",
+    "Nominees": "David Newman|Robert Benton",
+    "NomineeIds": "nm0628058|nm0000914",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Divorce American Style",
+    "FilmId": "tt0061581",
+    "Name": "Story by Robert Kaufman; Screenplay by Norman Lear",
+    "Nominees": "Robert Kaufman|Norman Lear",
+    "NomineeIds": "nm0442099|nm0005131",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Guess Who's Coming to Dinner",
+    "FilmId": "tt0061735",
+    "Name": "William Rose",
+    "Nominees": "William Rose",
+    "NomineeIds": "nm0741740",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "La Guerre Est Finie",
+    "FilmId": "tt0060481",
+    "Name": "Jorge Semprun",
+    "Nominees": "Jorge Semprun",
+    "NomineeIds": "nm0783934",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Two for the Road",
+    "FilmId": "tt0062407",
+    "Name": "Frederic Raphael",
+    "Nominees": "Frederic Raphael",
+    "NomineeIds": "nm0710698",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Gregory Peck",
+    "Nominees": "Gregory Peck",
+    "NomineeIds": "nm0000060",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Arthur Freed",
+    "NomineeIds": "nm0006085",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Arthur Freed for distinguished service to the Academy and the production of six top-rated Awards telecasts."
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Alfred Hitchcock",
+    "Nominees": "Alfred Hitchcock",
+    "NomineeIds": "nm0000033",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Kollmorgen Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To the ELECTRO-OPTICAL DIVISION OF THE KOLLMORGEN CORPORATION for the design and development of a series of Motion Picture Projection Lenses."
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Panavision Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To PANAVISION, INCORPORATED, for a Variable Speed Motor for Motion Picture Cameras."
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "FRED R. WILSON",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To FRED R. WILSON of the Samuel Goldwyn Studio Sound Department for an Audio Level Clamper."
+  },
+  {
+    "Ceremony": 40,
+    "Year": 1967,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Waldon O. Watson|Universal City",
+    "NomineeIds": "nm0910592|co0005073",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To WALDON O. WATSON and the UNIVERSAL CITY STUDIO SOUND DEPARTMENT for new concepts in the design of a Music Scoring Stage."
   }
 ]

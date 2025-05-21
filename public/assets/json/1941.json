@@ -1,2693 +1,3042 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "How Green Was My Valley"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "Blossoms in the Dust"
-    ],
-    "movies": [
-      {
-        "title": "Blossoms in the Dust",
-        "tmdb_id": 84087,
-        "imdb_id": "tt0033407"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "Citizen Kane"
-    ],
-    "movies": [
-      {
-        "title": "Citizen Kane",
-        "tmdb_id": 15,
-        "imdb_id": "tt0033467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "Here Comes Mr. Jordan"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes Mr. Jordan",
-        "tmdb_id": 38914,
-        "imdb_id": "tt0033712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "Hold Back the Dawn"
-    ],
-    "movies": [
-      {
-        "title": "Hold Back the Dawn",
-        "tmdb_id": 51395,
-        "imdb_id": "tt0033722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "The Little Foxes"
-    ],
-    "movies": [
-      {
-        "title": "The Little Foxes",
-        "tmdb_id": 43802,
-        "imdb_id": "tt0033836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "The Maltese Falcon"
-    ],
-    "movies": [
-      {
-        "title": "The Maltese Falcon",
-        "tmdb_id": 963,
-        "imdb_id": "tt0033870"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "One Foot in Heaven"
-    ],
-    "movies": [
-      {
-        "title": "One Foot in Heaven",
-        "tmdb_id": 84086,
-        "imdb_id": "tt0033980"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "Sergeant York"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1941",
-    "nominees": [
-      "Suspicion"
-    ],
-    "movies": [
-      {
-        "title": "Suspicion",
-        "tmdb_id": 11462,
-        "imdb_id": "tt0034248"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1941",
-    "nominees": [
-      "Gary Cooper"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1941",
-    "nominees": [
-      "Cary Grant"
-    ],
-    "movies": [
-      {
-        "title": "Penny Serenade",
-        "tmdb_id": 43795,
-        "imdb_id": "tt0034012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1941",
-    "nominees": [
-      "Walter Huston"
-    ],
-    "movies": [
-      {
-        "title": "All That Money Can Buy",
-        "tmdb_id": 29451,
-        "imdb_id": "tt0033532"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1941",
-    "nominees": [
-      "Robert Montgomery"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes Mr. Jordan",
-        "tmdb_id": 38914,
-        "imdb_id": "tt0033712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1941",
-    "nominees": [
-      "Orson Welles"
-    ],
-    "movies": [
-      {
-        "title": "Citizen Kane",
-        "tmdb_id": 15,
-        "imdb_id": "tt0033467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1941",
-    "nominees": [
-      "Joan Fontaine"
-    ],
-    "movies": [
-      {
-        "title": "Suspicion",
-        "tmdb_id": 11462,
-        "imdb_id": "tt0034248"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1941",
-    "nominees": [
-      "Bette Davis"
-    ],
-    "movies": [
-      {
-        "title": "The Little Foxes",
-        "tmdb_id": 43802,
-        "imdb_id": "tt0033836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1941",
-    "nominees": [
-      "Olivia de Havilland"
-    ],
-    "movies": [
-      {
-        "title": "Hold Back the Dawn",
-        "tmdb_id": 51395,
-        "imdb_id": "tt0033722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1941",
-    "nominees": [
-      "Greer Garson"
-    ],
-    "movies": [
-      {
-        "title": "Blossoms in the Dust",
-        "tmdb_id": 84087,
-        "imdb_id": "tt0033407"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1941",
-    "nominees": [
-      "Barbara Stanwyck"
-    ],
-    "movies": [
-      {
-        "title": "Ball of Fire",
-        "tmdb_id": 29884,
-        "imdb_id": "tt0033373"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1941",
-    "nominees": [
-      "Donald Crisp"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1941",
-    "nominees": [
-      "Walter Brennan"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1941",
-    "nominees": [
-      "Charles Coburn"
-    ],
-    "movies": [
-      {
-        "title": "The Devil and Miss Jones",
-        "tmdb_id": 43801,
-        "imdb_id": "tt0033533"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1941",
-    "nominees": [
-      "James Gleason"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes Mr. Jordan",
-        "tmdb_id": 38914,
-        "imdb_id": "tt0033712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1941",
-    "nominees": [
-      "Sydney Greenstreet"
-    ],
-    "movies": [
-      {
-        "title": "The Maltese Falcon",
-        "tmdb_id": 963,
-        "imdb_id": "tt0033870"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1941",
-    "nominees": [
-      "Mary Astor"
-    ],
-    "movies": [
-      {
-        "title": "The Great Lie",
-        "tmdb_id": 43705,
-        "imdb_id": "tt0033677"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1941",
-    "nominees": [
-      "Sara Allgood"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1941",
-    "nominees": [
-      "Patricia Collinge"
-    ],
-    "movies": [
-      {
-        "title": "The Little Foxes",
-        "tmdb_id": 43802,
-        "imdb_id": "tt0033836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1941",
-    "nominees": [
-      "Teresa Wright"
-    ],
-    "movies": [
-      {
-        "title": "The Little Foxes",
-        "tmdb_id": 43802,
-        "imdb_id": "tt0033836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1941",
-    "nominees": [
-      "Margaret Wycherly"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1941",
-    "nominees": [
-      "John Ford"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1941",
-    "nominees": [
-      "William Wyler"
-    ],
-    "movies": [
-      {
-        "title": "The Little Foxes",
-        "tmdb_id": 43802,
-        "imdb_id": "tt0033836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1941",
-    "nominees": [
-      "Alexander Hall"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes Mr. Jordan",
-        "tmdb_id": 38914,
-        "imdb_id": "tt0033712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1941",
-    "nominees": [
-      "Howard Hawks"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1941",
-    "nominees": [
-      "Orson Welles"
-    ],
-    "movies": [
-      {
-        "title": "Citizen Kane",
-        "tmdb_id": 15,
-        "imdb_id": "tt0033467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1941",
-    "nominees": [
-      "Sidney Buchman",
-      "Seton I. Miller"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes Mr. Jordan",
-        "tmdb_id": 38914,
-        "imdb_id": "tt0033712"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1941",
-    "nominees": [
-      "Charles Brackett",
-      "Billy Wilder"
-    ],
-    "movies": [
-      {
-        "title": "Hold Back the Dawn",
-        "tmdb_id": 51395,
-        "imdb_id": "tt0033722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1941",
-    "nominees": [
-      "Philip Dunne"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1941",
-    "nominees": [
-      "Lillian Hellman"
-    ],
-    "movies": [
-      {
-        "title": "The Little Foxes",
-        "tmdb_id": 43802,
-        "imdb_id": "tt0033836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1941",
-    "nominees": [
-      "John Huston"
-    ],
-    "movies": [
-      {
-        "title": "The Maltese Falcon",
-        "tmdb_id": 963,
-        "imdb_id": "tt0033870"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1941",
-    "nominees": [
-      "Herman J. Mankiewicz",
-      "Orson Welles"
-    ],
-    "movies": [
-      {
-        "title": "Citizen Kane",
-        "tmdb_id": 15,
-        "imdb_id": "tt0033467"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1941",
-    "nominees": [
-      "John Huston",
-      "Harry Chandlee",
-      "Abem Finkel",
-      "Howard Koch"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1941",
-    "nominees": [
-      "Karl Tunberg",
-      "Darrell Ware"
-    ],
-    "movies": [
-      {
-        "title": "Tall, Dark and Handsome",
-        "tmdb_id": 94251,
-        "imdb_id": "tt0034262"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1941",
-    "nominees": [
-      "Norman Krasna"
-    ],
-    "movies": [
-      {
-        "title": "The Devil and Miss Jones",
-        "tmdb_id": 43801,
-        "imdb_id": "tt0033533"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1941",
-    "nominees": [
-      "Paul Jarrico"
-    ],
-    "movies": [
-      {
-        "title": "Tom, Dick and Harry",
-        "tmdb_id": 86604,
-        "imdb_id": "tt0034299"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1941",
-    "nominees": [
-      "Harry Segall"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes Mr. Jordan",
-        "tmdb_id": 38914,
-        "imdb_id": "tt0033712"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1941",
-    "nominees": [
-      "Billy Wilder",
-      "Thomas Monroe"
-    ],
-    "movies": [
-      {
-        "title": "Ball of Fire",
-        "tmdb_id": 29884,
-        "imdb_id": "tt0033373"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1941",
-    "nominees": [
-      "Richard Connell",
-      "Robert Presnell Sr."
-    ],
-    "movies": [
-      {
-        "title": "Meet John Doe",
-        "tmdb_id": 32574,
-        "imdb_id": "tt0033891"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1941",
-    "nominees": [
-      "Gordon Wellesley"
-    ],
-    "movies": [
-      {
-        "title": "Night Train to Munich",
-        "tmdb_id": 41597,
-        "imdb_id": "tt0032842"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1941",
-    "nominees": [
-      "Monckton Hoffe"
-    ],
-    "movies": [
-      {
-        "title": "The Lady Eve",
-        "tmdb_id": 3086,
-        "imdb_id": "tt0033804"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Bernard Herrmann"
-    ],
-    "movies": [
-      {
-        "title": "All That Money Can Buy",
-        "tmdb_id": 29451,
-        "imdb_id": "tt0033532"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Frank Skinner"
-    ],
-    "movies": [
-      {
-        "title": "Back Street",
-        "tmdb_id": 109016,
-        "imdb_id": "tt0033365"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "Ball of Fire",
-        "tmdb_id": 29884,
-        "imdb_id": "tt0033373"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Bernard Herrmann"
-    ],
-    "movies": [
-      {
-        "title": "Citizen Kane",
-        "tmdb_id": 15,
-        "imdb_id": "tt0033467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Edward Ward"
-    ],
-    "movies": [
-      {
-        "title": "Cheers for Miss Bishop",
-        "tmdb_id": 142876,
-        "imdb_id": "tt0033459"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Hold Back the Dawn",
-        "tmdb_id": 51395,
-        "imdb_id": "tt0033722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Morris Stoloff",
-      "Ernst Toch"
-    ],
-    "movies": [
-      {
-        "title": "Ladies in Retirement",
-        "tmdb_id": 42066,
-        "imdb_id": "tt0033802"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Edward Kay"
-    ],
-    "movies": [
-      {
-        "title": "King of the Zombies",
-        "tmdb_id": 23104,
-        "imdb_id": "tt0033787"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Franz Waxman"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Jekyll and Mr. Hyde",
-        "tmdb_id": 3022,
-        "imdb_id": "tt0033553"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Miklós Rózsa"
-    ],
-    "movies": [
-      {
-        "title": "Lydia",
-        "tmdb_id": 56151,
-        "imdb_id": "tt0033858"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Cy Feuer",
-      "Walter Scharf"
-    ],
-    "movies": [
-      {
-        "title": "Mercy Island",
-        "tmdb_id": 218304,
-        "imdb_id": "tt0033906"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Louis Gruenberg"
-    ],
-    "movies": [
-      {
-        "title": "So Ends Our Night",
-        "tmdb_id": 218305,
-        "imdb_id": "tt0034208"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Miklós Rózsa"
-    ],
-    "movies": [
-      {
-        "title": "Sundown",
-        "tmdb_id": 94241,
-        "imdb_id": "tt0034242"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Franz Waxman"
-    ],
-    "movies": [
-      {
-        "title": "Suspicion",
-        "tmdb_id": 11462,
-        "imdb_id": "tt0034248"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Edward Ward"
-    ],
-    "movies": [
-      {
-        "title": "Tanks a Million",
-        "tmdb_id": 96134,
-        "imdb_id": "tt0034264"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Werner Heymann"
-    ],
-    "movies": [
-      {
-        "title": "That Uncertain Feeling",
-        "tmdb_id": 43799,
-        "imdb_id": "tt0034274"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Meredith Willson"
-    ],
-    "movies": [
-      {
-        "title": "The Little Foxes",
-        "tmdb_id": 43802,
-        "imdb_id": "tt0033836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1941",
-    "nominees": [
-      "Richard Hageman"
-    ],
-    "movies": [
-      {
-        "title": "This Woman Is Mine",
-        "tmdb_id": 94835,
-        "imdb_id": "tt0034285"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Frank Churchill",
-      "Oliver Wallace"
-    ],
-    "movies": [
-      {
-        "title": "Dumbo",
-        "tmdb_id": 11360,
-        "imdb_id": "tt0033563"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Edward Ward"
-    ],
-    "movies": [
-      {
-        "title": "All-American Co-Ed",
-        "tmdb_id": 96139,
-        "imdb_id": "tt0033323"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Robert Emmett Dolan"
-    ],
-    "movies": [
-      {
-        "title": "Birth of the Blues",
-        "tmdb_id": 96700,
-        "imdb_id": "tt0033396"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Charles Previn"
-    ],
-    "movies": [
-      {
-        "title": "Buck Privates",
-        "tmdb_id": 29601,
-        "imdb_id": "tt0033436"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Cy Feuer"
-    ],
-    "movies": [
-      {
-        "title": "Ice-Capades",
-        "tmdb_id": 218307,
-        "imdb_id": "tt0033749"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Emil Newman"
-    ],
-    "movies": [
-      {
-        "title": "Sun Valley Serenade",
-        "tmdb_id": 43797,
-        "imdb_id": "tt0034241"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Anthony Collins"
-    ],
-    "movies": [
-      {
-        "title": "Sunny",
-        "tmdb_id": 117250,
-        "imdb_id": "tt0034243"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Herbert Stothart",
-      "Bronislau Kaper"
-    ],
-    "movies": [
-      {
-        "title": "The Chocolate Soldier",
-        "tmdb_id": 94209,
-        "imdb_id": "tt0033464"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Heinz Roemheld"
-    ],
-    "movies": [
-      {
-        "title": "The Strawberry Blonde",
-        "tmdb_id": 76465,
-        "imdb_id": "tt0034236"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1941",
-    "nominees": [
-      "Morris Stoloff"
-    ],
-    "movies": [
-      {
-        "title": "You'll Never Get Rich",
-        "tmdb_id": 28658,
-        "imdb_id": "tt0034409"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1941",
-    "nominees": [
-      "The Last Time I Saw Paris"
-    ],
-    "movies": [
-      {
-        "title": "Lady Be Good",
-        "tmdb_id": 43792,
-        "imdb_id": "tt0033803"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1941",
-    "nominees": [
-      "Out of the Silence"
-    ],
-    "movies": [
-      {
-        "title": "All-American Co-Ed",
-        "tmdb_id": 96139,
-        "imdb_id": "tt0033323"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1941",
-    "nominees": [
-      "Blues in the Night"
-    ],
-    "movies": [
-      {
-        "title": "Blues in the Night",
-        "tmdb_id": 25862,
-        "imdb_id": "tt0033409"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1941",
-    "nominees": [
-      "Boogie Woogie Bugle Boy of Company B"
-    ],
-    "movies": [
-      {
-        "title": "Buck Privates",
-        "tmdb_id": 29601,
-        "imdb_id": "tt0033436"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1941",
-    "nominees": [
-      "Baby Mine"
-    ],
-    "movies": [
-      {
-        "title": "Dumbo",
-        "tmdb_id": 11360,
-        "imdb_id": "tt0033563"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1941",
-    "nominees": [
-      "Dolores"
-    ],
-    "movies": [
-      {
-        "title": "Las Vegas Nights",
-        "tmdb_id": 175288,
-        "imdb_id": "tt0033814"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1941",
-    "nominees": [
-      "Be Honest With Me"
-    ],
-    "movies": [
-      {
-        "title": "Ridin' on a Rainbow",
-        "tmdb_id": 216554,
-        "imdb_id": "tt0034106"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1941",
-    "nominees": [
-      "Chattanooga Choo Choo"
-    ],
-    "movies": [
-      {
-        "title": "Sun Valley Serenade",
-        "tmdb_id": 43797,
-        "imdb_id": "tt0034241"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1941",
-    "nominees": [
-      "Since I Kissed My Baby Goodbye"
-    ],
-    "movies": [
-      {
-        "title": "You'll Never Get Rich",
-        "tmdb_id": 28658,
-        "imdb_id": "tt0034409"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Churchill's Island"
-    ],
-    "movies": [
-      {
-        "title": "Churchill's Island",
-        "tmdb_id": 236820,
-        "imdb_id": "tt0033466"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Adventure in the Bronx"
-    ],
-    "movies": [
-      {
-        "title": "Adventure in the Bronx",
-        "tmdb_id": 236823,
-        "imdb_id": "tt0033316"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Dive Bomber"
-    ],
-    "movies": [
-      {
-        "title": "Dive Bomber",
-        "tmdb_id": 65587,
-        "imdb_id": "tt0033537"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Christmas Under Fire"
-    ],
-    "movies": [
-      {
-        "title": "Christmas Under Fire",
-        "tmdb_id": 236824,
-        "imdb_id": "tt0033465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Letter from Home"
-    ],
-    "movies": [
-      {
-        "title": "Letter from Home",
-        "tmdb_id": 236825,
-        "imdb_id": "tt0033828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Life of a Thoroughbred"
-    ],
-    "movies": [
-      {
-        "title": "Life of a Thoroughbred",
-        "tmdb_id": 236828,
-        "imdb_id": "tt0033833"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Norway in Revolt"
-    ],
-    "movies": [
-      {
-        "title": "Norway in Revolt",
-        "tmdb_id": 236829,
-        "imdb_id": "tt0033961"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "A Place to Live"
-    ],
-    "movies": [
-      {
-        "title": "A Place to Live",
-        "tmdb_id": 236821,
-        "imdb_id": "tt1847530"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Russian Soil"
-    ],
-    "movies": [
-      {
-        "title": "Russian Soil",
-        "tmdb_id": 236822,
-        "imdb_id": "tt1847681"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Soldiers of the Sky"
-    ],
-    "movies": [
-      {
-        "title": "Soldiers of the Sky",
-        "tmdb_id": 236830,
-        "imdb_id": "tt0034213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1941",
-    "nominees": [
-      "Warclouds in the Pacific"
-    ],
-    "movies": [
-      {
-        "title": "Warclouds in the Pacific",
-        "tmdb_id": 236831,
-        "imdb_id": "tt0034372"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "Lend a Paw"
-    ],
-    "movies": [
-      {
-        "title": "Lend a Paw",
-        "tmdb_id": 51024,
-        "imdb_id": "tt0033824"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "Boogie Woogie Bugle Boy of Company \"B\""
-    ],
-    "movies": [
-      {
-        "title": "Boogie Woogie Bugle Boy of Company \"B\"",
-        "tmdb_id": 236567,
-        "imdb_id": "tt0033424"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "Hiawatha's Rabbit Hunt"
-    ],
-    "movies": [
-      {
-        "title": "Hiawatha's Rabbit Hunt",
-        "tmdb_id": 168191,
-        "imdb_id": "tt0033715"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "How War Came"
-    ],
-    "movies": [
-      {
-        "title": "How War Came",
-        "tmdb_id": 236817,
-        "imdb_id": "tt0033730"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "The Night Before Christmas"
-    ],
-    "movies": [
-      {
-        "title": "The Night Before Christmas",
-        "tmdb_id": 39894,
-        "imdb_id": "tt0033952"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "Rhapsody in Rivets"
-    ],
-    "movies": [
-      {
-        "title": "Rhapsody in Rivets",
-        "tmdb_id": 163052,
-        "imdb_id": "tt0034097"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "Rhythm in the Ranks"
-    ],
-    "movies": [
-      {
-        "title": "Rhythm in the Ranks",
-        "tmdb_id": 236819,
-        "imdb_id": "tt0034098"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "The Rookie Bear"
-    ],
-    "movies": [
-      {
-        "title": "The Rookie Bear",
-        "tmdb_id": 236489,
-        "imdb_id": "tt0034127"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "Superman"
-    ],
-    "movies": [
-      {
-        "title": "Superman",
-        "tmdb_id": 95414,
-        "imdb_id": "tt0034247"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1941",
-    "nominees": [
-      "Truant Officer Donald"
-    ],
-    "movies": [
-      {
-        "title": "Truant Officer Donald",
-        "tmdb_id": 94181,
-        "imdb_id": "tt0034314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1941",
-    "nominees": [
-      "Of Pups and Puzzles"
-    ],
-    "movies": [
-      {
-        "title": "Of Pups and Puzzles",
-        "tmdb_id": 236807,
-        "imdb_id": "tt0033969"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1941",
-    "nominees": [
-      "Army Champions"
-    ],
-    "movies": [
-      {
-        "title": "Army Champions",
-        "tmdb_id": 236809,
-        "imdb_id": "tt0033354"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1941",
-    "nominees": [
-      "Beauty and the Beach"
-    ],
-    "movies": [
-      {
-        "title": "Beauty and the Beach",
-        "tmdb_id": 236811,
-        "imdb_id": "tt0033381"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1941",
-    "nominees": [
-      "Speaking of Animals Down on the Farm"
-    ],
-    "movies": [
-      {
-        "title": "Speaking of Animals Down on the Farm",
-        "tmdb_id": 236812,
-        "imdb_id": "tt0033552"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1941",
-    "nominees": [
-      "Forty Boys and a Song"
-    ],
-    "movies": [
-      {
-        "title": "Forty Boys and a Song",
-        "tmdb_id": 236813,
-        "imdb_id": "tt0033626"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1941",
-    "nominees": [
-      "Kings of the Turf"
-    ],
-    "movies": [
-      {
-        "title": "Kings of the Turf",
-        "tmdb_id": 236814,
-        "imdb_id": "tt0033788"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1941",
-    "nominees": [
-      "Sagebrush and Silver"
-    ],
-    "movies": [
-      {
-        "title": "Sagebrush and Silver",
-        "tmdb_id": 236815,
-        "imdb_id": "tt0034143"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1941",
-    "nominees": [
-      "Main Street on the March!"
-    ],
-    "movies": [
-      {
-        "title": "Main Street on the March!",
-        "tmdb_id": 236802,
-        "imdb_id": "tt0033866"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1941",
-    "nominees": [
-      "Alive in the Deep"
-    ],
-    "movies": [
-      {
-        "title": "Alive in the Deep",
-        "tmdb_id": 236803,
-        "imdb_id": "tt0033322"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1941",
-    "nominees": [
-      "Forbidden Passage"
-    ],
-    "movies": [
-      {
-        "title": "Forbidden Passage",
-        "tmdb_id": 130359,
-        "imdb_id": "tt0033618"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1941",
-    "nominees": [
-      "The Gay Parisian"
-    ],
-    "movies": [
-      {
-        "title": "The Gay Parisian",
-        "tmdb_id": 236804,
-        "imdb_id": "tt0033651"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1941",
-    "nominees": [
-      "The Tanks Are Coming"
-    ],
-    "movies": [
-      {
-        "title": "The Tanks Are Coming",
-        "tmdb_id": 32939,
-        "imdb_id": "tt0034263"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Cedric Gibbons",
-      "Nathan H. Juran",
-      "Thomas Little"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Hans Dreier",
-      "Robert Usher",
-      "Samuel M. Comer"
-    ],
-    "movies": [
-      {
-        "title": "Hold Back the Dawn",
-        "tmdb_id": 51395,
-        "imdb_id": "tt0033722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Alexander Golitzen",
-      "Richard Irvine"
-    ],
-    "movies": [
-      {
-        "title": "Sundown",
-        "tmdb_id": 94241,
-        "imdb_id": "tt0034242"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Perry Ferguson",
-      "Van Nest Polglase",
-      "Al Fields",
-      "Darrell Silvera"
-    ],
-    "movies": [
-      {
-        "title": "Citizen Kane",
-        "tmdb_id": 15,
-        "imdb_id": "tt0033467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Lionel Banks",
-      "George Montgomery"
-    ],
-    "movies": [
-      {
-        "title": "Ladies in Retirement",
-        "tmdb_id": 42066,
-        "imdb_id": "tt0033802"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "John Hughes",
-      "Fred MacLean"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Stephen Goosson",
-      "Howard Bristol"
-    ],
-    "movies": [
-      {
-        "title": "The Little Foxes",
-        "tmdb_id": 43802,
-        "imdb_id": "tt0033836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Vincent Korda",
-      "Julia Heron"
-    ],
-    "movies": [
-      {
-        "title": "That Hamilton Woman",
-        "tmdb_id": 43798,
-        "imdb_id": "tt0034272"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "John DuCasse Schulze",
-      "Edward G. Boyle"
-    ],
-    "movies": [
-      {
-        "title": "The Son of Monte Cristo",
-        "tmdb_id": 80086,
-        "imdb_id": "tt0033076"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Cedric Gibbons",
-      "Randall Duell",
-      "Edwin B. Willis"
-    ],
-    "movies": [
-      {
-        "title": "When Ladies Meet",
-        "tmdb_id": 54635,
-        "imdb_id": "tt0034386"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Martin Obzina",
-      "Jack Otterson",
-      "Russell A. Gausman"
-    ],
-    "movies": [
-      {
-        "title": "The Flame of New Orleans",
-        "tmdb_id": 61109,
-        "imdb_id": "tt0033606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1941",
-    "nominees": [
-      "Cedric Gibbons",
-      "Urie McCleary",
-      "Edwin B. Willis"
-    ],
-    "movies": [
-      {
-        "title": "Blossoms in the Dust",
-        "tmdb_id": 84087,
-        "imdb_id": "tt0033407"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1941",
-    "nominees": [
-      "Richard Day",
-      "Joseph C. Wright",
-      "Thomas Little"
-    ],
-    "movies": [
-      {
-        "title": "Blood and Sand",
-        "tmdb_id": 44399,
-        "imdb_id": "tt0033405"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1941",
-    "nominees": [
-      "Raoul Pene du Bois",
-      "Stephen A. Seymour"
-    ],
-    "movies": [
-      {
-        "title": "Louisiana Purchase",
-        "tmdb_id": 97818,
-        "imdb_id": "tt0033851"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Arthur C. Miller"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Gregg Toland"
-    ],
-    "movies": [
-      {
-        "title": "Citizen Kane",
-        "tmdb_id": 15,
-        "imdb_id": "tt0033467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Joseph Walker"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes Mr. Jordan",
-        "tmdb_id": 38914,
-        "imdb_id": "tt0033712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Joseph Ruttenberg"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Jekyll and Mr. Hyde",
-        "tmdb_id": 3022,
-        "imdb_id": "tt0033553"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Leo Tover"
-    ],
-    "movies": [
-      {
-        "title": "Hold Back the Dawn",
-        "tmdb_id": 51395,
-        "imdb_id": "tt0033722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Sol Polito"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Edward Cronjager"
-    ],
-    "movies": [
-      {
-        "title": "Sun Valley Serenade",
-        "tmdb_id": 43797,
-        "imdb_id": "tt0034241"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Charles Lang"
-    ],
-    "movies": [
-      {
-        "title": "Sundown",
-        "tmdb_id": 94241,
-        "imdb_id": "tt0034242"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Rudolph Mate"
-    ],
-    "movies": [
-      {
-        "title": "That Hamilton Woman",
-        "tmdb_id": 43798,
-        "imdb_id": "tt0034272"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1941",
-    "nominees": [
-      "Karl Freund"
-    ],
-    "movies": [
-      {
-        "title": "The Chocolate Soldier",
-        "tmdb_id": 94209,
-        "imdb_id": "tt0033464"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1941",
-    "nominees": [
-      "Ernest Palmer",
-      "Ray Rennahan"
-    ],
-    "movies": [
-      {
-        "title": "Blood and Sand",
-        "tmdb_id": 44399,
-        "imdb_id": "tt0033405"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1941",
-    "nominees": [
-      "Wilfred M. Cline",
-      "Karl Struss",
-      "William E. Snyder"
-    ],
-    "movies": [
-      {
-        "title": "Aloma of the South Seas",
-        "tmdb_id": 183632,
-        "imdb_id": "tt0033331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1941",
-    "nominees": [
-      "William V. Skall",
-      "Leonard Smith"
-    ],
-    "movies": [
-      {
-        "title": "Billy the Kid",
-        "tmdb_id": 111470,
-        "imdb_id": "tt0033389"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1941",
-    "nominees": [
-      "Karl Freund",
-      "W. Howard Greene"
-    ],
-    "movies": [
-      {
-        "title": "Blossoms in the Dust",
-        "tmdb_id": 84087,
-        "imdb_id": "tt0033407"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1941",
-    "nominees": [
-      "Bert Glennon"
-    ],
-    "movies": [
-      {
-        "title": "Dive Bomber",
-        "tmdb_id": 65587,
-        "imdb_id": "tt0033537"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1941",
-    "nominees": [
-      "Harry Hallenberger",
-      "Ray Rennahan"
-    ],
-    "movies": [
-      {
-        "title": "Louisiana Purchase",
-        "tmdb_id": 97818,
-        "imdb_id": "tt0033851"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1941",
-    "nominees": [
-      "William Holms"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1941",
-    "nominees": [
-      "Robert Wise"
-    ],
-    "movies": [
-      {
-        "title": "Citizen Kane",
-        "tmdb_id": 15,
-        "imdb_id": "tt0033467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1941",
-    "nominees": [
-      "James B. Clark"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1941",
-    "nominees": [
-      "Harold F. Kress"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Jekyll and Mr. Hyde",
-        "tmdb_id": 3022,
-        "imdb_id": "tt0033553"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1941",
-    "nominees": [
-      "Daniel Mandell"
-    ],
-    "movies": [
-      {
-        "title": "The Little Foxes",
-        "tmdb_id": 43802,
-        "imdb_id": "tt0033836"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1941",
-    "nominees": [
-      "Farciot Edouart",
-      "Gordon Jennings",
-      "Louis Mesenko"
-    ],
-    "movies": [
-      {
-        "title": "I Wanted Wings",
-        "tmdb_id": 131766,
-        "imdb_id": "tt0033741"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1941",
-    "nominees": [
-      "Fred Sersen",
-      "Edmund H. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "A Yank in the R.A.F.",
-        "tmdb_id": 49609,
-        "imdb_id": "tt0034405"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1941",
-    "nominees": [
-      "Farciot Edouart",
-      "Gordon Jennings",
-      "Louis Mesenko"
-    ],
-    "movies": [
-      {
-        "title": "Aloma of the South Seas",
-        "tmdb_id": 183632,
-        "imdb_id": "tt0033331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1941",
-    "nominees": [
-      "A. Arnold Gillespie",
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "Flight Command",
-        "tmdb_id": 100010,
-        "imdb_id": "tt0032477"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1941",
-    "nominees": [
-      "John P. Fulton",
-      "John D. Hall"
-    ],
-    "movies": [
-      {
-        "title": "The Invisible Woman",
-        "tmdb_id": 28423,
-        "imdb_id": "tt0032637"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1941",
-    "nominees": [
-      "Lawrence W. Butler",
-      "William H. Wilmarth"
-    ],
-    "movies": [
-      {
-        "title": "That Hamilton Woman",
-        "tmdb_id": 43798,
-        "imdb_id": "tt0034272"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1941",
-    "nominees": [
-      "Byron Haskin",
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "The Sea Wolf",
-        "tmdb_id": 33931,
-        "imdb_id": "tt0034162"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1941",
-    "nominees": [
-      "Roy Seawright",
-      "Elmer Raguse"
-    ],
-    "movies": [
-      {
-        "title": "Topper Returns",
-        "tmdb_id": 44875,
-        "imdb_id": "tt0034303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "Jack Whitney"
-    ],
-    "movies": [
-      {
-        "title": "That Hamilton Woman",
-        "tmdb_id": 43798,
-        "imdb_id": "tt0034272"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "Bernard B. Brown"
-    ],
-    "movies": [
-      {
-        "title": "Appointment for Love",
-        "tmdb_id": 95320,
-        "imdb_id": "tt0033348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "Ball of Fire",
-        "tmdb_id": 29884,
-        "imdb_id": "tt0033373"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "The Chocolate Soldier",
-        "tmdb_id": 94209,
-        "imdb_id": "tt0033464"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "John Aalberg"
-    ],
-    "movies": [
-      {
-        "title": "Citizen Kane",
-        "tmdb_id": 15,
-        "imdb_id": "tt0033467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "Charles Lootens"
-    ],
-    "movies": [
-      {
-        "title": "Devil Pays Off",
-        "tmdb_id": 165745,
-        "imdb_id": "tt0033531"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "E.H. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "How Green Was My Valley",
-        "tmdb_id": 43266,
-        "imdb_id": "tt0033729"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "John Livadary"
-    ],
-    "movies": [
-      {
-        "title": "The Men in Her Life",
-        "tmdb_id": 96695,
-        "imdb_id": "tt0033900"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "Sergeant York",
-        "tmdb_id": 16442,
-        "imdb_id": "tt0034167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "Loren Ryder"
-    ],
-    "movies": [
-      {
-        "title": "Skylark",
-        "tmdb_id": 96175,
-        "imdb_id": "tt0034198"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1941",
-    "nominees": [
-      "Elmer Raguse"
-    ],
-    "movies": [
-      {
-        "title": "Topper Returns",
-        "tmdb_id": 44875,
-        "imdb_id": "tt0034303"
-      }
-    ],
-    "won": false
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Gary Cooper",
+    "Nominees": "Gary Cooper",
+    "NomineeIds": "nm0000011",
+    "Winner": "True",
+    "Detail": "Alvin C. York",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Penny Serenade",
+    "FilmId": "tt0034012",
+    "Name": "Cary Grant",
+    "Nominees": "Cary Grant",
+    "NomineeIds": "nm0000026",
+    "Winner": "",
+    "Detail": "Roger Adams",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "All That Money Can Buy",
+    "FilmId": "tt0033532",
+    "Name": "Walter Huston",
+    "Nominees": "Walter Huston",
+    "NomineeIds": "nm0404158",
+    "Winner": "",
+    "Detail": "Mr. Scratch",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Here Comes Mr. Jordan",
+    "FilmId": "tt0033712",
+    "Name": "Robert Montgomery",
+    "Nominees": "Robert Montgomery",
+    "NomineeIds": "nm0599910",
+    "Winner": "",
+    "Detail": "Joe Pendleton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Citizen Kane",
+    "FilmId": "tt0033467",
+    "Name": "Orson Welles",
+    "Nominees": "Orson Welles",
+    "NomineeIds": "nm0000080",
+    "Winner": "",
+    "Detail": "Charles Foster Kane",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Walter Brennan",
+    "Nominees": "Walter Brennan",
+    "NomineeIds": "nm0000974",
+    "Winner": "",
+    "Detail": "Pastor Posier Pile",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Devil and Miss Jones",
+    "FilmId": "tt0033533",
+    "Name": "Charles Coburn",
+    "Nominees": "Charles Coburn",
+    "NomineeIds": "nm0002013",
+    "Winner": "",
+    "Detail": "John P. Merrick",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "Donald Crisp",
+    "Nominees": "Donald Crisp",
+    "NomineeIds": "nm0187981",
+    "Winner": "True",
+    "Detail": "Mr. Morgan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Here Comes Mr. Jordan",
+    "FilmId": "tt0033712",
+    "Name": "James Gleason",
+    "Nominees": "James Gleason",
+    "NomineeIds": "nm0322299",
+    "Winner": "",
+    "Detail": "Max Corkle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Maltese Falcon",
+    "FilmId": "tt0033870",
+    "Name": "Sydney Greenstreet",
+    "Nominees": "Sydney Greenstreet",
+    "NomineeIds": "nm0002113",
+    "Winner": "",
+    "Detail": "Kaspar Gutman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Little Foxes",
+    "FilmId": "tt0033836",
+    "Name": "Bette Davis",
+    "Nominees": "Bette Davis",
+    "NomineeIds": "nm0000012",
+    "Winner": "",
+    "Detail": "Regina Hubbard Giddens",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Hold Back the Dawn",
+    "FilmId": "tt0033722",
+    "Name": "Olivia de Havilland",
+    "Nominees": "Olivia de Havilland",
+    "NomineeIds": "nm0000014",
+    "Winner": "",
+    "Detail": "Emmy Brown",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Suspicion",
+    "FilmId": "tt0034248",
+    "Name": "Joan Fontaine",
+    "Nominees": "Joan Fontaine",
+    "NomineeIds": "nm0000021",
+    "Winner": "True",
+    "Detail": "Lina McLaidlaw",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Blossoms in the Dust",
+    "FilmId": "tt0033407",
+    "Name": "Greer Garson",
+    "Nominees": "Greer Garson",
+    "NomineeIds": "nm0002093",
+    "Winner": "",
+    "Detail": "Edna Gladney",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Ball of Fire",
+    "FilmId": "tt0033373",
+    "Name": "Barbara Stanwyck",
+    "Nominees": "Barbara Stanwyck",
+    "NomineeIds": "nm0001766",
+    "Winner": "",
+    "Detail": "Sugarpuss O'Shea",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "Sara Allgood",
+    "Nominees": "Sara Allgood",
+    "NomineeIds": "nm0021329",
+    "Winner": "",
+    "Detail": "Mrs. Morgan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Great Lie",
+    "FilmId": "tt0033677",
+    "Name": "Mary Astor",
+    "Nominees": "Mary Astor",
+    "NomineeIds": "nm0000802",
+    "Winner": "True",
+    "Detail": "Sandra Kovak",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Little Foxes",
+    "FilmId": "tt0033836",
+    "Name": "Patricia Collinge",
+    "Nominees": "Patricia Collinge",
+    "NomineeIds": "nm0172048",
+    "Winner": "",
+    "Detail": "Birdie Hubbard",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Little Foxes",
+    "FilmId": "tt0033836",
+    "Name": "Teresa Wright",
+    "Nominees": "Teresa Wright",
+    "NomineeIds": "nm0942863",
+    "Winner": "",
+    "Detail": "Alexandra Giddens",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Margaret Wycherly",
+    "Nominees": "Margaret Wycherly",
+    "NomineeIds": "nm0943618",
+    "Winner": "",
+    "Detail": "Mother York",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Citizen Kane",
+    "FilmId": "tt0033467",
+    "Name": "Art Direction: Perry Ferguson, Van Nest Polglase; Interior Decoration: Al Fields, Darrell Silvera",
+    "Nominees": "Perry Ferguson|Van Nest Polglase|Al Fields|Darrell Silvera",
+    "NomineeIds": "nm0272572|nm0689026|nm0276177|nm0798822",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Flame of New Orleans",
+    "FilmId": "tt0033606",
+    "Name": "Art Direction: Martin Obzina, Jack Otterson; Interior Decoration: Russell A. Gausman",
+    "Nominees": "Martin Obzina|Jack Otterson|Russell A. Gausman",
+    "NomineeIds": "nm0643578|nm0653163|nm0310199",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Hold Back the Dawn",
+    "FilmId": "tt0033722",
+    "Name": "Art Direction: Hans Dreier, Robert Usher; Interior Decoration: Sam Comer",
+    "Nominees": "Hans Dreier|Robert Usher|Sam Comer",
+    "NomineeIds": "nm0237417|nm0882336|nm0173754",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "Art Direction: Richard Day, Nathan Juran; Interior Decoration: Thomas Little",
+    "Nominees": "Richard Day|Nathan Juran|Thomas Little",
+    "NomineeIds": "nm0206554|nm0432846|nm0514673",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Ladies in Retirement",
+    "FilmId": "tt0033802",
+    "Name": "Art Direction: Lionel Banks; Interior Decoration: George Montgomery",
+    "Nominees": "Lionel Banks|George Montgomery",
+    "NomineeIds": "nm0052206|nm0599788",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Little Foxes",
+    "FilmId": "tt0033836",
+    "Name": "Art Direction: Stephen Goosson; Interior Decoration: Howard Bristol",
+    "Nominees": "Stephen Goosson|Howard Bristol",
+    "NomineeIds": "nm0329684|nm0109924",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Art Direction: John Hughes; Interior Decoration: Fred MacLean",
+    "Nominees": "John Hughes|Fred MacLean",
+    "NomineeIds": "nm0002770|nm0533771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Sis Hopkins",
+    "FilmId": "tt0034193",
+    "Name": "",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Nomination withdrawn by Republic Studios.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Son of Monte Cristo",
+    "FilmId": "tt0033076",
+    "Name": "Art Direction: John DuCasse Schulze; Interior Decoration: Edward G. Boyle",
+    "Nominees": "John DuCasse Schulze|Edward G. Boyle",
+    "NomineeIds": "nm0776388|nm0102231",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Sundown",
+    "FilmId": "tt0034242",
+    "Name": "Art Direction: Alexander Golitzen; Interior Decoration: Richard Irvine",
+    "Nominees": "Alexander Golitzen|Richard Irvine",
+    "NomineeIds": "nm0326529|nm0410215",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "That Hamilton Woman",
+    "FilmId": "tt0034272",
+    "Name": "Art Direction: Vincent Korda; Interior Decoration: Julia Heron",
+    "Nominees": "Vincent Korda|Julia Heron",
+    "NomineeIds": "nm0466112|nm0380243",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "When Ladies Meet",
+    "FilmId": "tt0034386",
+    "Name": "Art Direction: Cedric Gibbons, Randall Duell; Interior Decoration: Edwin B. Willis",
+    "Nominees": "Cedric Gibbons|Randall Duell|Edwin B. Willis",
+    "NomineeIds": "nm0316539|nm0240237|nm0932320",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Blood and Sand",
+    "FilmId": "tt0033405",
+    "Name": "Art Direction: Richard Day, Joseph C. Wright; Interior Decoration: Thomas Little",
+    "Nominees": "Richard Day|Joseph C. Wright|Thomas Little",
+    "NomineeIds": "nm0206554|nm0942532|nm0514673",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Blossoms in the Dust",
+    "FilmId": "tt0033407",
+    "Name": "Art Direction: Cedric Gibbons, Urie McCleary; Interior Decoration: Edwin B. Willis",
+    "Nominees": "Cedric Gibbons|Urie McCleary|Edwin B. Willis",
+    "NomineeIds": "nm0316539|nm0565720|nm0932320",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Louisiana Purchase",
+    "FilmId": "tt0033851",
+    "Name": "Art Direction: Raoul Pene du Bois; Interior Decoration: Stephen A. Seymour",
+    "Nominees": "Raoul Pene du Bois|Stephen A. Seymour",
+    "NomineeIds": "nm0238845|nm0786869",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Chocolate Soldier",
+    "FilmId": "tt0033464",
+    "Name": "Karl Freund",
+    "Nominees": "Karl Freund",
+    "NomineeIds": "nm0005713",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Citizen Kane",
+    "FilmId": "tt0033467",
+    "Name": "Gregg Toland",
+    "Nominees": "Gregg Toland",
+    "NomineeIds": "nm0005904",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Dr. Jekyll and Mr. Hyde",
+    "FilmId": "tt0033553",
+    "Name": "Joseph Ruttenberg",
+    "Nominees": "Joseph Ruttenberg",
+    "NomineeIds": "nm0005853",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Here Comes Mr. Jordan",
+    "FilmId": "tt0033712",
+    "Name": "Joseph Walker",
+    "Nominees": "Joseph Walker",
+    "NomineeIds": "nm0907900",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Hold Back the Dawn",
+    "FilmId": "tt0033722",
+    "Name": "Leo Tover",
+    "Nominees": "Leo Tover",
+    "NomineeIds": "nm0869860",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "Arthur Miller",
+    "Nominees": "Arthur Miller",
+    "NomineeIds": "nm0587926",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Sol Polito",
+    "Nominees": "Sol Polito",
+    "NomineeIds": "nm0005835",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Sun Valley Serenade",
+    "FilmId": "tt0034241",
+    "Name": "Edward Cronjager",
+    "Nominees": "Edward Cronjager",
+    "NomineeIds": "nm0005676",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Sundown",
+    "FilmId": "tt0034242",
+    "Name": "Charles Lang",
+    "Nominees": "Charles Lang",
+    "NomineeIds": "nm0485702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "That Hamilton Woman",
+    "FilmId": "tt0034272",
+    "Name": "Rudolph Maté",
+    "Nominees": "Rudolph Maté",
+    "NomineeIds": "nm0005789",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Aloma of the South Seas",
+    "FilmId": "tt0033331",
+    "Name": "Wilfred M. Cline, Karl Struss, William Snyder",
+    "Nominees": "Wilfred M. Cline|Karl Struss|William Snyder",
+    "NomineeIds": "nm0005668|nm0835365|nm0811580",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Billy the Kid",
+    "FilmId": "tt0033389",
+    "Name": "William V. Skall, Leonard Smith",
+    "Nominees": "William V. Skall|Leonard Smith",
+    "NomineeIds": "nm0005877|nm0809079",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Blood and Sand",
+    "FilmId": "tt0033405",
+    "Name": "Ernest Palmer, Ray Rennahan",
+    "Nominees": "Ernest Palmer|Ray Rennahan",
+    "NomineeIds": "nm0005823|nm0005840",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Blossoms in the Dust",
+    "FilmId": "tt0033407",
+    "Name": "Karl Freund, W. Howard Greene",
+    "Nominees": "Karl Freund|W. Howard Greene",
+    "NomineeIds": "nm0005713|nm0338946",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Dive Bomber",
+    "FilmId": "tt0033537",
+    "Name": "Bert Glennon",
+    "Nominees": "Bert Glennon",
+    "NomineeIds": "nm0322688",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Louisiana Purchase",
+    "FilmId": "tt0033851",
+    "Name": "Harry Hallenberger, Ray Rennahan",
+    "Nominees": "Harry Hallenberger|Ray Rennahan",
+    "NomineeIds": "nm0356383|nm0005840",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Citizen Kane",
+    "FilmId": "tt0033467",
+    "Name": "Orson Welles",
+    "Nominees": "Orson Welles",
+    "NomineeIds": "nm0000080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Here Comes Mr. Jordan",
+    "FilmId": "tt0033712",
+    "Name": "Alexander Hall",
+    "Nominees": "Alexander Hall",
+    "NomineeIds": "nm0355284",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "John Ford",
+    "Nominees": "John Ford",
+    "NomineeIds": "nm0000406",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Little Foxes",
+    "FilmId": "tt0033836",
+    "Name": "William Wyler",
+    "Nominees": "William Wyler",
+    "NomineeIds": "nm0943758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Howard Hawks",
+    "Nominees": "Howard Hawks",
+    "NomineeIds": "nm0001328",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Adventure in the Bronx",
+    "FilmId": "tt0033316",
+    "Name": "Film Associates",
+    "Nominees": "Film Associates",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Bomber",
+    "FilmId": "tt0033423",
+    "Name": "United States Office for Emergency Management Film Unit",
+    "Nominees": "United States Office for Emergency Management Film Unit",
+    "NomineeIds": "co0063999",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Christmas under Fire",
+    "FilmId": "tt0033465",
+    "Name": "British Ministry of Information",
+    "Nominees": "British Ministry of Information",
+    "NomineeIds": "co0103143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Churchill's Island",
+    "FilmId": "tt0033466",
+    "Name": "National Film Board of Canada",
+    "Nominees": "National Film Board of Canada",
+    "NomineeIds": "co0006414",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Letter from Home",
+    "FilmId": "tt0033828",
+    "Name": "British Ministry of Information",
+    "Nominees": "British Ministry of Information",
+    "NomineeIds": "co0103143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Life of a Thoroughbred",
+    "FilmId": "tt0033833",
+    "Name": "Truman Talley, Producer",
+    "Nominees": "Truman Talley",
+    "NomineeIds": "nm0848165",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Norway in Revolt",
+    "FilmId": "tt0033961",
+    "Name": "The March of Time",
+    "Nominees": "The March of Time",
+    "NomineeIds": "co0047855",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Place to Live",
+    "FilmId": "tt1847530",
+    "Name": "Philadelphia Housing Association",
+    "Nominees": "Philadelphia Housing Association",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Russian Soil",
+    "FilmId": "tt1847681",
+    "Name": "Amkino",
+    "Nominees": "Amkino",
+    "NomineeIds": "co0003677",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Soldiers of the Sky",
+    "FilmId": "tt0034213",
+    "Name": "Truman Talley, Producer",
+    "Nominees": "Truman Talley",
+    "NomineeIds": "nm0848165",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "War Clouds in the Pacific",
+    "FilmId": "tt0034372",
+    "Name": "National Film Board of Canada",
+    "Nominees": "National Film Board of Canada",
+    "NomineeIds": "co0006414",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Citizen Kane",
+    "FilmId": "tt0033467",
+    "Name": "Robert Wise",
+    "Nominees": "Robert Wise",
+    "NomineeIds": "nm0936404",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Dr. Jekyll and Mr. Hyde",
+    "FilmId": "tt0033553",
+    "Name": "Harold F. Kress",
+    "Nominees": "Harold F. Kress",
+    "NomineeIds": "nm0470932",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "James B. Clark",
+    "Nominees": "James B. Clark",
+    "NomineeIds": "nm0164044",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Little Foxes",
+    "FilmId": "tt0033836",
+    "Name": "Daniel Mandell",
+    "Nominees": "Daniel Mandell",
+    "NomineeIds": "nm0541721",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "William Holmes",
+    "Nominees": "William Holmes",
+    "NomineeIds": "nm0392096",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "All That Money Can Buy",
+    "FilmId": "tt0033532",
+    "Name": "Bernard Herrmann",
+    "Nominees": "Bernard Herrmann",
+    "NomineeIds": "nm0002136",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Back Street",
+    "FilmId": "tt0033365",
+    "Name": "Frank Skinner",
+    "Nominees": "Frank Skinner",
+    "NomineeIds": "nm0804244",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Ball of Fire",
+    "FilmId": "tt0033373",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Cheers for Miss Bishop",
+    "FilmId": "tt0033459",
+    "Name": "Edward Ward",
+    "Nominees": "Edward Ward",
+    "NomineeIds": "nm0911518",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Citizen Kane",
+    "FilmId": "tt0033467",
+    "Name": "Bernard Herrmann",
+    "Nominees": "Bernard Herrmann",
+    "NomineeIds": "nm0002136",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Dr. Jekyll and Mr. Hyde",
+    "FilmId": "tt0033553",
+    "Name": "Franz Waxman",
+    "Nominees": "Franz Waxman",
+    "NomineeIds": "nm0000077",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Hold Back the Dawn",
+    "FilmId": "tt0033722",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "King of the Zombies",
+    "FilmId": "tt0033787",
+    "Name": "Edward Kay",
+    "Nominees": "Edward Kay",
+    "NomineeIds": "nm0443033",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Ladies in Retirement",
+    "FilmId": "tt0033802",
+    "Name": "Morris Stoloff, Ernst Toch",
+    "Nominees": "Morris Stoloff|Ernst Toch",
+    "NomineeIds": "nm0006304|nm0006324",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "The Little Foxes",
+    "FilmId": "tt0033836",
+    "Name": "Meredith Willson",
+    "Nominees": "Meredith Willson",
+    "NomineeIds": "nm0932745",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Lydia",
+    "FilmId": "tt0033858",
+    "Name": "Miklos Rozsa",
+    "Nominees": "Miklos Rozsa",
+    "NomineeIds": "nm0000067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Mercy Island",
+    "FilmId": "tt0033906",
+    "Name": "Cy Feuer, Walter Scharf",
+    "Nominees": "Cy Feuer|Walter Scharf",
+    "NomineeIds": "nm0006074|nm0770127",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Max Steiner",
+    "Nominees": "Max Steiner",
+    "NomineeIds": "nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "So Ends Our Night",
+    "FilmId": "tt0034208",
+    "Name": "Louis Gruenberg",
+    "Nominees": "Louis Gruenberg",
+    "NomineeIds": "nm0344402",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Sundown",
+    "FilmId": "tt0034242",
+    "Name": "Miklos Rozsa",
+    "Nominees": "Miklos Rozsa",
+    "NomineeIds": "nm0000067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Suspicion",
+    "FilmId": "tt0034248",
+    "Name": "Franz Waxman",
+    "Nominees": "Franz Waxman",
+    "NomineeIds": "nm0000077",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "Tanks a Million",
+    "FilmId": "tt0034264",
+    "Name": "Edward Ward",
+    "Nominees": "Edward Ward",
+    "NomineeIds": "nm0911518",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "That Uncertain Feeling",
+    "FilmId": "tt0034274",
+    "Name": "Werner Heymann",
+    "Nominees": "Werner Heymann",
+    "NomineeIds": "nm0006128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic Picture)",
+    "Film": "This Woman Is Mine",
+    "FilmId": "tt0034285",
+    "Name": "Richard Hageman",
+    "Nominees": "Richard Hageman",
+    "NomineeIds": "nm0006119",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "All-American Co-Ed",
+    "FilmId": "tt0033323",
+    "Name": "Edward Ward",
+    "Nominees": "Edward Ward",
+    "NomineeIds": "nm0911518",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Birth of the Blues",
+    "FilmId": "tt0033396",
+    "Name": "Robert Emmett Dolan",
+    "Nominees": "Robert Emmett Dolan",
+    "NomineeIds": "nm0006040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Buck Privates",
+    "FilmId": "tt0033436",
+    "Name": "Charles Previn",
+    "Nominees": "Charles Previn",
+    "NomineeIds": "nm0006239",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "The Chocolate Soldier",
+    "FilmId": "tt0033464",
+    "Name": "Herbert Stothart, Bronislau Kaper",
+    "Nominees": "Herbert Stothart|Bronislau Kaper",
+    "NomineeIds": "nm0006307|nm0006147",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Dumbo",
+    "FilmId": "tt0033563",
+    "Name": "Frank Churchill, Oliver Wallace",
+    "Nominees": "Frank Churchill|Oliver Wallace",
+    "NomineeIds": "nm0161430|nm0006337",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Ice-Capades",
+    "FilmId": "tt0033749",
+    "Name": "Cy Feuer",
+    "Nominees": "Cy Feuer",
+    "NomineeIds": "nm0006074",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "The Strawberry Blonde",
+    "FilmId": "tt0034236",
+    "Name": "Heinz Roemheld",
+    "Nominees": "Heinz Roemheld",
+    "NomineeIds": "nm0006257",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Sun Valley Serenade",
+    "FilmId": "tt0034241",
+    "Name": "Emil Newman",
+    "Nominees": "Emil Newman",
+    "NomineeIds": "nm0006212",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Sunny",
+    "FilmId": "tt0034243",
+    "Name": "Anthony Collins",
+    "Nominees": "Anthony Collins",
+    "NomineeIds": "nm0172141",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "You'll Never Get Rich",
+    "FilmId": "tt0034409",
+    "Name": "Morris Stoloff",
+    "Nominees": "Morris Stoloff",
+    "NomineeIds": "nm0006304",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Dumbo",
+    "FilmId": "tt0033563",
+    "Name": "Music by Frank Churchill; Lyrics by Ned Washington",
+    "Nominees": "Frank Churchill|Ned Washington",
+    "NomineeIds": "nm0161430|nm0913513",
+    "Winner": "",
+    "Detail": "Baby Mine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Ridin' on a Rainbow",
+    "FilmId": "tt0034106",
+    "Name": "Music and Lyrics by Gene Autry and Fred Rose",
+    "Nominees": "Gene Autry|Fred Rose",
+    "NomineeIds": "nm0000810|nm0741386",
+    "Winner": "",
+    "Detail": "Be Honest With Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Blues in the Night",
+    "FilmId": "tt0033409",
+    "Name": "Music by Harold Arlen; Lyrics by Johnny Mercer",
+    "Nominees": "Harold Arlen|Johnny Mercer",
+    "NomineeIds": "nm0002182|nm0006197",
+    "Winner": "",
+    "Detail": "Blues In The Night",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Buck Privates",
+    "FilmId": "tt0033436",
+    "Name": "Music by Hugh Prince; Lyrics by Don Raye",
+    "Nominees": "Hugh Prince|Don Raye",
+    "NomineeIds": "nm0697662|nm0713098",
+    "Winner": "",
+    "Detail": "Boogie Woogie Bugle Boy Of Company B",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Sun Valley Serenade",
+    "FilmId": "tt0034241",
+    "Name": "Music by Harry Warren; Lyrics by Mack Gordon",
+    "Nominees": "Harry Warren|Mack Gordon",
+    "NomineeIds": "nm0912851|nm0330418",
+    "Winner": "",
+    "Detail": "Chattanooga Choo Choo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Las Vegas Nights",
+    "FilmId": "tt0033814",
+    "Name": "Music by Lou Alter; Lyrics by Frank Loesser",
+    "Nominees": "Lou Alter|Frank Loesser",
+    "NomineeIds": "nm0022746|nm0004230",
+    "Winner": "",
+    "Detail": "Dolores",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Lady Be Good",
+    "FilmId": "tt0033803",
+    "Name": "Music by Jerome Kern; Lyrics by Oscar Hammerstein II",
+    "Nominees": "Jerome Kern|Oscar Hammerstein II",
+    "NomineeIds": "nm0006153|nm0358564",
+    "Winner": "True",
+    "Detail": "The Last Time I Saw Paris",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "All-American Co-Ed",
+    "FilmId": "tt0033323",
+    "Name": "Music and Lyrics by Lloyd B. Norlind",
+    "Nominees": "Lloyd B. Norlind",
+    "NomineeIds": "nm11004638",
+    "Winner": "",
+    "Detail": "Out Of The Silence",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "You'll Never Get Rich",
+    "FilmId": "tt0034409",
+    "Name": "Music and Lyrics by Cole Porter",
+    "Nominees": "Cole Porter",
+    "NomineeIds": "nm0006234",
+    "Winner": "",
+    "Detail": "Since I Kissed My Baby Goodbye",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Blossoms in the Dust",
+    "FilmId": "tt0033407",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Citizen Kane",
+    "FilmId": "tt0033467",
+    "Name": "Mercury",
+    "Nominees": "Mercury",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Here Comes Mr. Jordan",
+    "FilmId": "tt0033712",
+    "Name": "Columbia",
+    "Nominees": "Columbia",
+    "NomineeIds": "co0050868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Hold Back the Dawn",
+    "FilmId": "tt0033722",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "20th Century-Fox",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "The Little Foxes",
+    "FilmId": "tt0033836",
+    "Name": "Samuel Goldwyn Productions",
+    "Nominees": "Samuel Goldwyn Productions",
+    "NomineeIds": "co0058013",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "The Maltese Falcon",
+    "FilmId": "tt0033870",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "One Foot in Heaven",
+    "FilmId": "tt0033980",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Suspicion",
+    "FilmId": "tt0034248",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Boogie Woogie Bugle Boy of Company B",
+    "FilmId": "tt0033424",
+    "Name": "Walter Lantz, Producer",
+    "Nominees": "Walter Lantz",
+    "NomineeIds": "nm0487237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Hiawatha's Rabbit Hunt",
+    "FilmId": "tt0033715",
+    "Name": "Leon Schlesinger, Producer",
+    "Nominees": "Leon Schlesinger",
+    "NomineeIds": "nm0772266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "How War Came",
+    "FilmId": "tt0033730",
+    "Name": "Columbia",
+    "Nominees": "Columbia",
+    "NomineeIds": "co0050868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Lend a Paw",
+    "FilmId": "tt0033824",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Night before Christmas",
+    "FilmId": "tt0033952",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Rhapsody in Rivets",
+    "FilmId": "tt0034097",
+    "Name": "Leon Schlesinger, Producer",
+    "Nominees": "Leon Schlesinger",
+    "NomineeIds": "nm0772266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Rhythm in the Ranks",
+    "FilmId": "tt0034098",
+    "Name": "George Pal, Producer",
+    "Nominees": "George Pal",
+    "NomineeIds": "nm0657162",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Rookie Bear",
+    "FilmId": "tt0034127",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Superman",
+    "FilmId": "tt0034247",
+    "Name": "Max Fleischer, Producer",
+    "Nominees": "Max Fleischer",
+    "NomineeIds": "nm0281502",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Truant Officer Donald",
+    "FilmId": "tt0034314",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Army Champions",
+    "FilmId": "tt0033354",
+    "Name": "Pete Smith, Producer",
+    "Nominees": "Pete Smith",
+    "NomineeIds": "nm0809570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Beauty and the Beach",
+    "FilmId": "tt0033381",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Down on the Farm",
+    "FilmId": "tt0033552",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Forty Boys and a Song",
+    "FilmId": "tt0033626",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Kings of the Turf",
+    "FilmId": "tt0033788",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Of Pups and Puzzles",
+    "FilmId": "tt0033969",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Sagebrush and Silver",
+    "FilmId": "tt0034143",
+    "Name": "20th Century-Fox",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Alive in the Deep",
+    "FilmId": "tt0033322",
+    "Name": "Woodard Productions, Inc.",
+    "Nominees": "Woodard Productions Inc.",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Forbidden Passage",
+    "FilmId": "tt0033618",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "The Gay Parisian",
+    "FilmId": "tt0033651",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Main Street on the March!",
+    "FilmId": "tt0033866",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "The Tanks Are Coming",
+    "FilmId": "tt0034263",
+    "Name": "United States Army",
+    "Nominees": "United States Army",
+    "NomineeIds": "co0141760",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Appointment for Love",
+    "FilmId": "tt0033348",
+    "Name": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+    "Nominees": "Universal|Bernard B. Brown",
+    "NomineeIds": "co0005073|nm0113094",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Ball of Fire",
+    "FilmId": "tt0033373",
+    "Name": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+    "Nominees": "Samuel Goldwyn|Thomas T. Moulton",
+    "NomineeIds": "co0058013|nm0609771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Chocolate Soldier",
+    "FilmId": "tt0033464",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Douglas Shearer",
+    "NomineeIds": "co0007143|nm0790428",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Citizen Kane",
+    "FilmId": "tt0033467",
+    "Name": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+    "Nominees": "RKO Radio|John Aalberg",
+    "NomineeIds": "co0041421|nm0007356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Devil Pays Off",
+    "FilmId": "tt0033531",
+    "Name": "Republic Studio Sound Department, Charles Lootens, Sound Director",
+    "Nominees": "Republic|Charles Lootens",
+    "NomineeIds": "co0020540|nm0519780",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+    "Nominees": "20th Century-Fox|E. H. Hansen",
+    "NomineeIds": "co0028775|nm0360770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Men in Her Life",
+    "FilmId": "tt0033900",
+    "Name": "Columbia Studio Sound Department, John Livadary, Sound Director",
+    "Nominees": "Columbia|John Livadary",
+    "NomineeIds": "co0050868|nm0515093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+    "Nominees": "Warner Bros.|Nathan Levinson",
+    "NomineeIds": "co0080422|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Skylark",
+    "FilmId": "tt0034198",
+    "Name": "Paramount Studio Sound Department, Loren Ryder, Sound Director",
+    "Nominees": "Paramount|Loren Ryder",
+    "NomineeIds": "co0023400|nm0753122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "That Hamilton Woman",
+    "FilmId": "tt0034272",
+    "Name": "General Service Sound Department, Jack Whitney, Sound Director",
+    "Nominees": "General Service|Jack Whitney",
+    "NomineeIds": "co0062187|nm0926303",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Topper Returns",
+    "FilmId": "tt0034303",
+    "Name": "Hal Roach Studio Sound Department, Elmer Raguse, Sound Director",
+    "Nominees": "Hal Roach|Elmer Raguse",
+    "NomineeIds": "co0075561|nm0706649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Aloma of the South Seas",
+    "FilmId": "tt0033331",
+    "Name": "Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Louis Mesenkop",
+    "Nominees": "Farciot Edouart|Gordon Jennings|Louis Mesenkop",
+    "NomineeIds": "nm0249643|nm0421157|nm0581820",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Dive Bomber",
+    "FilmId": "tt0033537",
+    "Name": "Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson",
+    "Nominees": "Byron Haskin|Nathan Levinson",
+    "NomineeIds": "nm0005738|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Originally announced as a nominee on February 9, 1942, but sometime between the 10th and the 19th of February, this title was dropped and replaced by another Warner Bros. production, The Sea Wolf, with the same people credited for the nomination. There is no explanation in the files as to why this replacement was made.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Flight Command",
+    "FilmId": "tt0032477",
+    "Name": "Photographic Effects by A. Arnold Gillespie; Sound Effects by Douglas Shearer",
+    "Nominees": "A. Arnold Gillespie|Douglas Shearer",
+    "NomineeIds": "nm0318901|nm0790428",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "I Wanted Wings",
+    "FilmId": "tt0033741",
+    "Name": "Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Louis Mesenkop",
+    "Nominees": "Farciot Edouart|Gordon Jennings|Louis Mesenkop",
+    "NomineeIds": "nm0249643|nm0421157|nm0581820",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Invisible Woman",
+    "FilmId": "tt0032637",
+    "Name": "Photographic Effects by John Fulton; Sound Effects by John Hall",
+    "Nominees": "John Fulton|John Hall",
+    "NomineeIds": "nm0298483|nm0355751",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Sea Wolf",
+    "FilmId": "tt0034162",
+    "Name": "Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson",
+    "Nominees": "Byron Haskin|Nathan Levinson",
+    "NomineeIds": "nm0005738|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: Not originally one of the nominees announced on February 9, 1942. Dive Bomber, another Warner Bros. production, was on the list, but sometime between the 10th and 19th of February, the Dive Bomber nomination was replaced by The Sea Wolf, with the same people credited for the achievement. There is no explanation in the files as to why the replacement was made.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "That Hamilton Woman",
+    "FilmId": "tt0034272",
+    "Name": "Photographic Effects by Lawrence Butler; Sound Effects by William H. Wilmarth",
+    "Nominees": "Lawrence Butler|William H. Wilmarth",
+    "NomineeIds": "nm0125022|nm0932806",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Topper Returns",
+    "FilmId": "tt0034303",
+    "Name": "Photographic Effects by Roy Seawright; Sound Effects by Elmer Raguse",
+    "Nominees": "Roy Seawright|Elmer Raguse",
+    "NomineeIds": "nm0780880|nm0706649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "A Yank in the R.A.F.",
+    "FilmId": "tt0034405",
+    "Name": "Photographic Effects by Fred Sersen; Sound Effects by E. H. Hansen",
+    "Nominees": "Fred Sersen|E. H. Hansen",
+    "NomineeIds": "nm0785731|nm0360770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Citizen Kane",
+    "FilmId": "tt0033467",
+    "Name": "Herman J. Mankiewicz, Orson Welles",
+    "Nominees": "Herman J. Mankiewicz|Orson Welles",
+    "NomineeIds": "nm0542534|nm0000080",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Devil and Miss Jones",
+    "FilmId": "tt0033533",
+    "Name": "Norman Krasna",
+    "Nominees": "Norman Krasna",
+    "NomineeIds": "nm0469915",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Sergeant York",
+    "FilmId": "tt0034167",
+    "Name": "Abem Finkel, Harry Chandlee, Howard Koch, John Huston",
+    "Nominees": "Abem Finkel|Harry Chandlee|Howard Koch|John Huston",
+    "NomineeIds": "nm0277874|nm0151310|nm0462321|nm0001379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Tall, Dark and Handsome",
+    "FilmId": "tt0034262",
+    "Name": "Karl Tunberg, Darrell Ware",
+    "Nominees": "Karl Tunberg|Darrell Ware",
+    "NomineeIds": "nm0876562|nm0912090",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Tom, Dick and Harry",
+    "FilmId": "tt0034299",
+    "Name": "Paul Jarrico",
+    "Nominees": "Paul Jarrico",
+    "NomineeIds": "nm0418972",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Ball of Fire",
+    "FilmId": "tt0033373",
+    "Name": "Billy Wilder, Thomas Monroe",
+    "Nominees": "Billy Wilder|Thomas Monroe",
+    "NomineeIds": "nm0000697|nm0598572",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Here Comes Mr. Jordan",
+    "FilmId": "tt0033712",
+    "Name": "Harry Segall",
+    "Nominees": "Harry Segall",
+    "NomineeIds": "nm0781895",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "The Lady Eve",
+    "FilmId": "tt0033804",
+    "Name": "Monckton Hoffe",
+    "Nominees": "Monckton Hoffe",
+    "NomineeIds": "nm0388743",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Meet John Doe",
+    "FilmId": "tt0033891",
+    "Name": "Richard Connell, Robert Presnell",
+    "Nominees": "Richard Connell|Robert Presnell",
+    "NomineeIds": "nm0175028|nm0696190",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Night Train",
+    "FilmId": "tt0032842",
+    "Name": "Gordon Wellesley",
+    "Nominees": "Gordon Wellesley",
+    "NomineeIds": "nm0919968",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Here Comes Mr. Jordan",
+    "FilmId": "tt0033712",
+    "Name": "Sidney Buchman, Seton I. Miller",
+    "Nominees": "Sidney Buchman|Seton I. Miller",
+    "NomineeIds": "nm0118227|nm0589316",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Hold Back the Dawn",
+    "FilmId": "tt0033722",
+    "Name": "Charles Brackett, Billy Wilder",
+    "Nominees": "Charles Brackett|Billy Wilder",
+    "NomineeIds": "nm0102818|nm0000697",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "How Green Was My Valley",
+    "FilmId": "tt0033729",
+    "Name": "Philip Dunne",
+    "Nominees": "Philip Dunne",
+    "NomineeIds": "nm0242897",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Little Foxes",
+    "FilmId": "tt0033836",
+    "Name": "Lillian Hellman",
+    "Nominees": "Lillian Hellman",
+    "NomineeIds": "nm0375484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Maltese Falcon",
+    "FilmId": "tt0033870",
+    "Name": "John Huston",
+    "Nominees": "John Huston",
+    "NomineeIds": "nm0001379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "Kukan",
+    "FilmId": "tt0121453",
+    "Name": "",
+    "Nominees": "Rey Scott",
+    "NomineeIds": "nm0721164",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Rey Scott for his extraordinary achievement in producing Kukan, the film record of China's struggle, including its photography with a 16mm camera under the most difficult and dangerous conditions."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "Target for Tonight",
+    "FilmId": "tt0121791",
+    "Name": "",
+    "Nominees": "The British Ministry of Information",
+    "NomineeIds": "co0103143",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To The British Ministry of Information for its vivid and dramatic presentation of the heroism of the RAF in the documentary film, Target for Tonight."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "Fantasia",
+    "FilmId": "tt0032455",
+    "Name": "",
+    "Nominees": "Leopold Stokowski",
+    "NomineeIds": "nm0831439",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Leopold Stokowski and his associates for their unique achievement in the creation of a new form of visualized music in Walt Disney's production, Fantasia, thereby widening the scope of the motion picture as entertainment and as an art form."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "Fantasia",
+    "FilmId": "tt0032455",
+    "Name": "",
+    "Nominees": "Walt Disney|William Garity|John N. A. Hawkins|the RCA Manufacturing Company",
+    "NomineeIds": "nm0000370|nm0307477|nm0370143|co0097233",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Walt Disney, William Garity, John N. A. Hawkins and the RCA Manufacturing Company for their outstanding contribution to the advancement of the use of sound in motion pictures through the production of Fantasia."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Walt Disney",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Western Electric Co. Inc.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To ELECTRICAL RESEARCH PRODUCTS DIVISION OF WESTERN ELECTRIC CO., INC., for the development of the precision integrating sphere densitometer."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Rca Manufacturing Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To RCA MANUFACTURING COMPANY for the design and development of the MI-3043 Uni-directional microphone."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ray Wilkinson|Paramount",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To RAY WILKINSON and the PARAMOUNT STUDIO LABORATORY for pioneering in the use of and for the first practical application to release printing of fine grain positive stock."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles Lootens|Republic",
+    "NomineeIds": "nm0519780|co0020540",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To CHARLES LOOTENS and the REPUBLIC STUDIO SOUND DEPARTMENT for pioneering the use of and for the first practical application to motion picture production of CLASS B push-pull variable area recording."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Wilbur Silvertooth|Paramount",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To WILBUR SILVERTOOTH and the PARAMOUNT STUDIO ENGINEERING DEPARTMENT for the design and computation of a relay condenser system applicable to transparency process projection, delivering considerably more usable light."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Paramount Pictures|20th CENTURY-FOX Film Corp.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To PARAMOUNT PICTURES, INC., and 20TH CENTURY-FOX FILM CORP. for the development and first practical application to motion picture production of an automatic scene slating device."
+  },
+  {
+    "Ceremony": 14,
+    "Year": 1941,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Douglas Shearer|Metro-Goldwyn-Mayer|Loren Ryder|Paramount",
+    "NomineeIds": "nm0790428|co0007143|nm0753122|co0023400",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To DOUGLAS SHEARER and the METRO-GOLDWYN-MAYER STUDIO SOUND DEPARTMENT, and to LOREN RYDER and the PARAMOUNT STUDIO SOUND DEPARTMENT for pioneering the development of fine grain emulsions for variable density original sound recording in studio production."
   }
 ]

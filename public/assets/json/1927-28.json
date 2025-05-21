@@ -1,526 +1,546 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1927/28",
-    "nominees": [
-      "Wings"
-    ],
-    "movies": [
-      {
-        "title": "Wings",
-        "tmdb_id": 28966,
-        "imdb_id": "tt0018578"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Noose|The Patent Leather Kid",
+    "FilmId": "tt0019217|tt0018253",
+    "Name": "Richard Barthelmess",
+    "Nominees": "Richard Barthelmess",
+    "NomineeIds": "nm0001932",
+    "Winner": "",
+    "Detail": "Nickie Elkins|The Patent Leather Kid",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Picture",
-    "year": "1927/28",
-    "nominees": [
-      "The Racket"
-    ],
-    "movies": [
-      {
-        "title": "The Racket",
-        "tmdb_id": 27777,
-        "imdb_id": "tt0019304"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Last Command|The Way of All Flesh",
+    "FilmId": "tt0019071|tt0019553",
+    "Name": "Emil Jannings",
+    "Nominees": "Emil Jannings",
+    "NomineeIds": "nm0417837",
+    "Winner": "True",
+    "Detail": "General Dolgorucki [Grand Duke Sergius Alexander]|August Schilling",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Picture",
-    "year": "1927/28",
-    "nominees": [
-      "7th Heaven"
-    ],
-    "movies": [
-      {
-        "title": "7th Heaven",
-        "tmdb_id": 82474,
-        "imdb_id": "tt0018379"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "A Ship Comes In",
+    "FilmId": "tt0018389",
+    "Name": "Louise Dresser",
+    "Nominees": "Louise Dresser",
+    "NomineeIds": "nm0237571",
+    "Winner": "",
+    "Detail": "Mrs. Pleznik",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Unique and Artistic Production",
-    "year": "1927/28",
-    "nominees": [
-      "Sunrise: A Song of Two Humans"
-    ],
-    "movies": [
-      {
-        "title": "Sunrise: A Song of Two Humans",
-        "tmdb_id": 631,
-        "imdb_id": "tt0018455"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "7th Heaven|Street Angel|Sunrise",
+    "FilmId": "tt0018379|tt0019429|tt0018455",
+    "Name": "Janet Gaynor",
+    "Nominees": "Janet Gaynor",
+    "NomineeIds": "nm0310980",
+    "Winner": "True",
+    "Detail": "Diane|Angela|The Wife",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Unique and Artistic Production",
-    "year": "1927/28",
-    "nominees": [
-      "Chang: A Drama of the Wilderness"
-    ],
-    "movies": [
-      {
-        "title": "Chang: A Drama of the Wilderness",
-        "tmdb_id": 44657,
-        "imdb_id": "tt0017743"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Sadie Thompson",
+    "FilmId": "tt0019344",
+    "Name": "Gloria Swanson",
+    "Nominees": "Gloria Swanson",
+    "NomineeIds": "nm0841797",
+    "Winner": "",
+    "Detail": "Sadie Thompson",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Unique and Artistic Production",
-    "year": "1927/28",
-    "nominees": [
-      "The Crowd"
-    ],
-    "movies": [
-      {
-        "title": "The Crowd",
-        "tmdb_id": 3061,
-        "imdb_id": "tt0018806"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Sunrise",
+    "FilmId": "tt0018455",
+    "Name": "Rochus Gliese",
+    "Nominees": "Rochus Gliese",
+    "NomineeIds": "nm0322843",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Actor",
-    "year": "1927/28",
-    "nominees": [
-      "Emil Jannings"
-    ],
-    "movies": [
-      {
-        "title": "The Last Command",
-        "tmdb_id": 52679,
-        "imdb_id": "tt0019071"
-      },
-      {
-        "title": "The Way of All Flesh",
-        "tmdb_id": 85499,
-        "imdb_id": "tt0019553"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Dove|Tempest",
+    "FilmId": "tt0017822|tt0019451",
+    "Name": "William Cameron Menzies",
+    "Nominees": "William Cameron Menzies",
+    "NomineeIds": "nm0580017",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Actor",
-    "year": "1927/28",
-    "nominees": [
-      "Richard Barthelmess"
-    ],
-    "movies": [
-      {
-        "title": "The Noose",
-        "tmdb_id": 113167,
-        "imdb_id": "tt0019217"
-      },
-      {
-        "title": "The Patent Leather Kid",
-        "tmdb_id": 102541,
-        "imdb_id": "tt0018253"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "7th Heaven",
+    "FilmId": "tt0018379",
+    "Name": "Harry Oliver",
+    "Nominees": "Harry Oliver",
+    "NomineeIds": "nm0646856",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Actress",
-    "year": "1927/28",
-    "nominees": [
-      "Janet Gaynor"
-    ],
-    "movies": [
-      {
-        "title": "7th Heaven",
-        "tmdb_id": 82474,
-        "imdb_id": "tt0018379"
-      },
-      {
-        "title": "Street Angel",
-        "tmdb_id": 28391,
-        "imdb_id": "tt0019429"
-      },
-      {
-        "title": "Sunrise: A Song of Two Humans",
-        "tmdb_id": 631,
-        "imdb_id": "tt0018455"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Devil Dancer|The Magic Flame|Sadie Thompson",
+    "FilmId": "tt0017806|tt0018129|tt0019344",
+    "Name": "George Barnes",
+    "Nominees": "George Barnes",
+    "NomineeIds": "nm0055604",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Actress",
-    "year": "1927/28",
-    "nominees": [
-      "Louise Dresser"
-    ],
-    "movies": [
-      {
-        "title": "A Ship Comes In",
-        "tmdb_id": 104212,
-        "imdb_id": "tt0018389"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Sunrise",
+    "FilmId": "tt0018455",
+    "Name": "Charles Rosher, Karl Struss",
+    "Nominees": "Charles Rosher|Karl Struss",
+    "NomineeIds": "nm0003546|nm0835365",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: For this awards year, awards were presented in the name of the individual and could honor work on one or more films. Charles Rosher and Karl Struss were both honored for cinematography on this film. It is considered a single nomination for the film.",
+    "Citation": ""
   },
   {
-    "category": "Best Actress",
-    "year": "1927/28",
-    "nominees": [
-      "Gloria Swanson"
-    ],
-    "movies": [
-      {
-        "title": "Sadie Thompson",
-        "tmdb_id": 42538,
-        "imdb_id": "tt0019344"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING (Comedy Picture)",
+    "Category": "DIRECTING (Comedy Picture)",
+    "Film": "Two Arabian Knights",
+    "FilmId": "tt0018515",
+    "Name": "Lewis Milestone",
+    "Nominees": "Lewis Milestone",
+    "NomineeIds": "nm0587277",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Director",
-    "year": "1927/28",
-    "nominees": [
-      "Frank Borzage"
-    ],
-    "movies": [
-      {
-        "title": "7th Heaven",
-        "tmdb_id": 82474,
-        "imdb_id": "tt0018379"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING (Comedy Picture)",
+    "Category": "DIRECTING (Comedy Picture)",
+    "Film": "Speedy",
+    "FilmId": "tt0019412",
+    "Name": "Ted Wilde",
+    "Nominees": "Ted Wilde",
+    "NomineeIds": "nm0928514",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Director",
-    "year": "1927/28",
-    "nominees": [
-      "Lewis Milestone"
-    ],
-    "movies": [
-      {
-        "title": "Two Arabian Knights",
-        "tmdb_id": 102384,
-        "imdb_id": "tt0018515"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING (Dramatic Picture)",
+    "Category": "DIRECTING (Dramatic Picture)",
+    "Film": "7th Heaven",
+    "FilmId": "tt0018379",
+    "Name": "Frank Borzage",
+    "Nominees": "Frank Borzage",
+    "NomineeIds": "nm0097648",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Director",
-    "year": "1927/28",
-    "nominees": [
-      "Ted Wilde"
-    ],
-    "movies": [
-      {
-        "title": "Speedy",
-        "tmdb_id": 22595,
-        "imdb_id": "tt0019412"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING (Dramatic Picture)",
+    "Category": "DIRECTING (Dramatic Picture)",
+    "Film": "Sorrell and Son",
+    "FilmId": "tt0018429",
+    "Name": "Herbert Brenon",
+    "Nominees": "Herbert Brenon",
+    "NomineeIds": "nm0107543",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Director",
-    "year": "1927/28",
-    "nominees": [
-      "Herbert Brenon"
-    ],
-    "movies": [
-      {
-        "title": "Sorrell and Son",
-        "tmdb_id": 183587,
-        "imdb_id": "tt0018429"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING (Dramatic Picture)",
+    "Category": "DIRECTING (Dramatic Picture)",
+    "Film": "The Crowd",
+    "FilmId": "tt0018806",
+    "Name": "King Vidor",
+    "Nominees": "King Vidor",
+    "NomineeIds": "nm0896542",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Director",
-    "year": "1927/28",
-    "nominees": [
-      "King Vidor"
-    ],
-    "movies": [
-      {
-        "title": "The Crowd",
-        "tmdb_id": 3061,
-        "imdb_id": "tt0018806"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "ENGINEERING EFFECTS",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Ralph Hammeras",
+    "Nominees": "Ralph Hammeras",
+    "NomineeIds": "nm0358518",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: This nomination was not associated with any specific film title.",
+    "Citation": ""
   },
   {
-    "category": "Best Adapted Screenplay",
-    "year": "1927/28",
-    "nominees": [
-      "Benjamin Glazer"
-    ],
-    "movies": [
-      {
-        "title": "7th Heaven",
-        "tmdb_id": 82474,
-        "imdb_id": "tt0018379"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "ENGINEERING EFFECTS",
+    "Film": "Wings",
+    "FilmId": "tt0018578",
+    "Name": "Roy Pomeroy",
+    "Nominees": "Roy Pomeroy",
+    "NomineeIds": "nm0690120",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Adapted Screenplay",
-    "year": "1927/28",
-    "nominees": [
-      "Anthony Coldeway"
-    ],
-    "movies": [
-      {
-        "title": "Glorious Betsy",
-        "tmdb_id": 171354,
-        "imdb_id": "tt0018945"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "ENGINEERING EFFECTS",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Nugent Slaughter",
+    "Nominees": "Nugent Slaughter",
+    "NomineeIds": "nm0805521",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: Though no specific titles were indicated during the presentation on May 16, 1929, or in the official results from the Central Board of Judges for this honorable mention, Academy records indicate that Mr. Slaughter was most often mentioned in connection with The Jazz Singer.",
+    "Citation": ""
   },
   {
-    "category": "Best Adapted Screenplay",
-    "year": "1927/28",
-    "nominees": [
-      "Alfred A. Cohn"
-    ],
-    "movies": [
-      {
-        "title": "The Jazz Singer",
-        "tmdb_id": 939,
-        "imdb_id": "tt0018037"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PICTURE",
+    "Film": "The Racket",
+    "FilmId": "tt0019304",
+    "Name": "The Caddo Company",
+    "Nominees": "The Caddo Company",
+    "NomineeIds": "co0074827",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Original Screenplay",
-    "year": "1927/28",
-    "nominees": [
-      "Joseph Farnham"
-    ],
-    "movies": [
-      {
-        "title": "The Red Mill",
-        "tmdb_id": 134475,
-        "imdb_id": "tt0018311"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PICTURE",
+    "Film": "7th Heaven",
+    "FilmId": "tt0018379",
+    "Name": "Fox",
+    "Nominees": "Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Original Screenplay",
-    "year": "1927/28",
-    "nominees": [
-      "George Marion Jr."
-    ],
-    "movies": [
-      {
-        "title": "The Magic Flame",
-        "tmdb_id": 171343,
-        "imdb_id": "tt0018129"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PICTURE",
+    "Film": "Wings",
+    "FilmId": "tt0018578",
+    "Name": "Paramount Famous Lasky",
+    "Nominees": "Paramount Famous Lasky",
+    "NomineeIds": "co0023400",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Original Screenplay",
-    "year": "1927/28",
-    "nominees": [
-      "Gerald Duffy"
-    ],
-    "movies": [
-      {
-        "title": "The Private Life of Helen of Troy",
-        "tmdb_id": 218413,
-        "imdb_id": "tt0017979"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Title",
+    "CanonicalCategory": "UNIQUE AND ARTISTIC PICTURE",
+    "Category": "UNIQUE AND ARTISTIC PICTURE",
+    "Film": "Sunrise",
+    "FilmId": "tt0018455",
+    "Name": "Fox",
+    "Nominees": "Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Original Story",
-    "year": "1927/28",
-    "nominees": [
-      "Ben Hecht"
-    ],
-    "movies": [
-      {
-        "title": "Underworld",
-        "tmdb_id": 42565,
-        "imdb_id": "tt0018526"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Title",
+    "CanonicalCategory": "UNIQUE AND ARTISTIC PICTURE",
+    "Category": "UNIQUE AND ARTISTIC PICTURE",
+    "Film": "The Crowd",
+    "FilmId": "tt0018806",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Original Story",
-    "year": "1927/28",
-    "nominees": [
-      "Lajos Biro"
-    ],
-    "movies": [
-      {
-        "title": "The Last Command",
-        "tmdb_id": 52679,
-        "imdb_id": "tt0019071"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Title",
+    "CanonicalCategory": "UNIQUE AND ARTISTIC PICTURE",
+    "Category": "UNIQUE AND ARTISTIC PICTURE",
+    "Film": "Chang",
+    "FilmId": "tt0017743",
+    "Name": "Paramount Famous Lasky",
+    "Nominees": "Paramount Famous Lasky",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Production Design (Black and White)",
-    "year": "1927/28",
-    "nominees": [
-      "William Cameron Menzies"
-    ],
-    "movies": [
-      {
-        "title": "The Dove",
-        "tmdb_id": 79760,
-        "imdb_id": "tt0017822"
-      },
-      {
-        "title": "Tempest",
-        "tmdb_id": 79757,
-        "imdb_id": "tt0019451"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adaptation)",
+    "Film": "The Jazz Singer",
+    "FilmId": "tt0018037",
+    "Name": "Alfred Cohn",
+    "Nominees": "Alfred Cohn",
+    "NomineeIds": "nm0169879",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Production Design (Black and White)",
-    "year": "1927/28",
-    "nominees": [
-      "Harry Oliver"
-    ],
-    "movies": [
-      {
-        "title": "7th Heaven",
-        "tmdb_id": 82474,
-        "imdb_id": "tt0018379"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adaptation)",
+    "Film": "Glorious Betsy",
+    "FilmId": "tt0018945",
+    "Name": "Anthony Coldeway",
+    "Nominees": "Anthony Coldeway",
+    "NomineeIds": "nm0170401",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Production Design (Black and White)",
-    "year": "1927/28",
-    "nominees": [
-      "Rochus Gliese"
-    ],
-    "movies": [
-      {
-        "title": "Sunrise: A Song of Two Humans",
-        "tmdb_id": 631,
-        "imdb_id": "tt0018455"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adaptation)",
+    "Film": "7th Heaven",
+    "FilmId": "tt0018379",
+    "Name": "Benjamin Glazer",
+    "Nominees": "Benjamin Glazer",
+    "NomineeIds": "nm0322227",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1927/28",
-    "nominees": [
-      "Charles Rosher",
-      "Karl Struss"
-    ],
-    "movies": [
-      {
-        "title": "Sunrise: A Song of Two Humans",
-        "tmdb_id": 631,
-        "imdb_id": "tt0018455"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "The Last Command",
+    "FilmId": "tt0019071",
+    "Name": "Lajos Biro",
+    "Nominees": "Lajos Biro",
+    "NomineeIds": "nm0083742",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1927/28",
-    "nominees": [
-      "George Barnes"
-    ],
-    "movies": [
-      {
-        "title": "The Devil Dancer",
-        "tmdb_id": 171341,
-        "imdb_id": "tt0017806"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Underworld",
+    "FilmId": "tt0018526",
+    "Name": "Ben Hecht",
+    "Nominees": "Ben Hecht",
+    "NomineeIds": "nm0372942",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1927/28",
-    "nominees": [
-      "George Barnes"
-    ],
-    "movies": [
-      {
-        "title": "The Magic Flame",
-        "tmdb_id": 171343,
-        "imdb_id": "tt0018129"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Title Writing)",
+    "Category": "WRITING (Title Writing)",
+    "Film": "The Private Life of Helen of Troy",
+    "FilmId": "tt0017979",
+    "Name": "Gerald Duffy",
+    "Nominees": "Gerald Duffy",
+    "NomineeIds": "nm0240534",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
   },
   {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1927/28",
-    "nominees": [
-      "George Barnes"
-    ],
-    "movies": [
-      {
-        "title": "Sadie Thompson",
-        "tmdb_id": 42538,
-        "imdb_id": "tt0019344"
-      }
-    ],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Title Writing)",
+    "Category": "WRITING (Title Writing)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Joseph Farnham",
+    "Nominees": "Joseph Farnham",
+    "NomineeIds": "nm0267868",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: This award was not associated with any specific film title.",
+    "Citation": ""
   },
   {
-    "category": "Best Visual/Special Effects",
-    "year": "1927/28",
-    "nominees": [
-      "Roy Pomeroy"
-    ],
-    "movies": [
-      {
-        "title": "Wings",
-        "tmdb_id": 28966,
-        "imdb_id": "tt0018578"
-      }
-    ],
-    "won": true
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Title Writing)",
+    "Category": "WRITING (Title Writing)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "George Marion, Jr.",
+    "Nominees": "George Marion Jr.",
+    "NomineeIds": "nm0547938",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: This nomination was not associated with any specific film title.",
+    "Citation": ""
   },
   {
-    "category": "Best Visual/Special Effects",
-    "year": "1927/28",
-    "nominees": [
-      "Ralph Hammeras"
-    ],
-    "movies": [],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "The Jazz Singer",
+    "FilmId": "tt0018037",
+    "Name": "",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Warner Bros., for producing The Jazz Singer, the pioneer outstanding talking picture, which has revolutionized the industry."
   },
   {
-    "category": "Best Visual/Special Effects",
-    "year": "1927/28",
-    "nominees": [
-      "Nugent Slaughter"
-    ],
-    "movies": [],
-    "won": false
+    "Ceremony": 1,
+    "Year": "1927/28",
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "The Circus",
+    "FilmId": "tt0018773",
+    "Name": "",
+    "Nominees": "Charles Chaplin",
+    "NomineeIds": "nm0000122",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: \\\"The Academy Board of Judges on merit awards for individual achievements in motion picture arts during the year ending August 1, 1928, unanimously decided that your name should be removed from the competitive classes, and that a special first award be conferred upon you for writing, acting, directing and producing The Circus. The collective accomplishments thus displayed place you in a class by yourself.\\\" (Letter from the Academy to Mr. Chaplin, dated February 19, 1929.)",
+    "Citation": "To Charles Chaplin, for acting, writing, directing and producing The Circus."
   }
 ]

@@ -1,1719 +1,2034 @@
 [
   {
-    "category": "Best Picture",
-    "year": "2002",
-    "nominees": [
-      "Chicago"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "2002",
-    "nominees": [
-      "Gangs of New York"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2002",
-    "nominees": [
-      "The Hours"
-    ],
-    "movies": [
-      {
-        "title": "The Hours",
-        "tmdb_id": 590,
-        "imdb_id": "tt0274558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2002",
-    "nominees": [
-      "The Lord of the Rings: The Two Towers"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Two Towers",
-        "tmdb_id": 121,
-        "imdb_id": "tt0167261"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2002",
-    "nominees": [
-      "The Pianist"
-    ],
-    "movies": [
-      {
-        "title": "The Pianist",
-        "tmdb_id": 423,
-        "imdb_id": "tt0253474"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2002",
-    "nominees": [
-      "Adrien Brody"
-    ],
-    "movies": [
-      {
-        "title": "The Pianist",
-        "tmdb_id": 423,
-        "imdb_id": "tt0253474"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "2002",
-    "nominees": [
-      "Nicolas Cage"
-    ],
-    "movies": [
-      {
-        "title": "Adaptation.",
-        "tmdb_id": 2757,
-        "imdb_id": "tt0268126"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2002",
-    "nominees": [
-      "Michael Caine"
-    ],
-    "movies": [
-      {
-        "title": "The Quiet American",
-        "tmdb_id": 8198,
-        "imdb_id": "tt0258068"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2002",
-    "nominees": [
-      "Daniel Day-Lewis"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2002",
-    "nominees": [
-      "Jack Nicholson"
-    ],
-    "movies": [
-      {
-        "title": "About Schmidt",
-        "tmdb_id": 2755,
-        "imdb_id": "tt0257360"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2002",
-    "nominees": [
-      "Nicole Kidman"
-    ],
-    "movies": [
-      {
-        "title": "The Hours",
-        "tmdb_id": 590,
-        "imdb_id": "tt0274558"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "2002",
-    "nominees": [
-      "Salma Hayek"
-    ],
-    "movies": [
-      {
-        "title": "Frida",
-        "tmdb_id": 1360,
-        "imdb_id": "tt0120679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2002",
-    "nominees": [
-      "Diane Lane"
-    ],
-    "movies": [
-      {
-        "title": "Unfaithful",
-        "tmdb_id": 2251,
-        "imdb_id": "tt0250797"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2002",
-    "nominees": [
-      "Julianne Moore"
-    ],
-    "movies": [
-      {
-        "title": "Far from Heaven",
-        "tmdb_id": 10712,
-        "imdb_id": "tt0297884"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2002",
-    "nominees": [
-      "Renee Zellweger"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2002",
-    "nominees": [
-      "Chris Cooper"
-    ],
-    "movies": [
-      {
-        "title": "Adaptation.",
-        "tmdb_id": 2757,
-        "imdb_id": "tt0268126"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2002",
-    "nominees": [
-      "Ed Harris"
-    ],
-    "movies": [
-      {
-        "title": "The Hours",
-        "tmdb_id": 590,
-        "imdb_id": "tt0274558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2002",
-    "nominees": [
-      "Paul Newman"
-    ],
-    "movies": [
-      {
-        "title": "Road to Perdition",
-        "tmdb_id": 4147,
-        "imdb_id": "tt0257044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2002",
-    "nominees": [
-      "John C. Reilly"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2002",
-    "nominees": [
-      "Christopher Walken"
-    ],
-    "movies": [
-      {
-        "title": "Catch Me If You Can",
-        "tmdb_id": 640,
-        "imdb_id": "tt0264464"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2002",
-    "nominees": [
-      "Catherine Zeta-Jones"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2002",
-    "nominees": [
-      "Kathy Bates"
-    ],
-    "movies": [
-      {
-        "title": "About Schmidt",
-        "tmdb_id": 2755,
-        "imdb_id": "tt0257360"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2002",
-    "nominees": [
-      "Queen Latifah"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2002",
-    "nominees": [
-      "Julianne Moore"
-    ],
-    "movies": [
-      {
-        "title": "The Hours",
-        "tmdb_id": 590,
-        "imdb_id": "tt0274558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2002",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "Adaptation.",
-        "tmdb_id": 2757,
-        "imdb_id": "tt0268126"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2002",
-    "nominees": [
-      "Roman Polanski"
-    ],
-    "movies": [
-      {
-        "title": "The Pianist",
-        "tmdb_id": 423,
-        "imdb_id": "tt0253474"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "2002",
-    "nominees": [
-      "Pedro Almodovar"
-    ],
-    "movies": [
-      {
-        "title": "Talk to Her",
-        "tmdb_id": 64,
-        "imdb_id": "tt0287467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2002",
-    "nominees": [
-      "Stephen Daldry"
-    ],
-    "movies": [
-      {
-        "title": "The Hours",
-        "tmdb_id": 590,
-        "imdb_id": "tt0274558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2002",
-    "nominees": [
-      "Rob Marshall"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2002",
-    "nominees": [
-      "Martin Scorsese"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2002",
-    "nominees": [
-      "Ronald Harwood"
-    ],
-    "movies": [
-      {
-        "title": "The Pianist",
-        "tmdb_id": 423,
-        "imdb_id": "tt0253474"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2002",
-    "nominees": [
-      "Peter Hedges",
-      "Chris Weitz",
-      "Paul Weitz"
-    ],
-    "movies": [
-      {
-        "title": "About a Boy",
-        "tmdb_id": 245,
-        "imdb_id": "tt0276751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2002",
-    "nominees": [
-      "Charlie Kaufman",
-      "Donald Kaufman"
-    ],
-    "movies": [
-      {
-        "title": "Adaptation.",
-        "tmdb_id": 2757,
-        "imdb_id": "tt0268126"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2002",
-    "nominees": [
-      "Bill Condon"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2002",
-    "nominees": [
-      "David Hare"
-    ],
-    "movies": [
-      {
-        "title": "The Hours",
-        "tmdb_id": 590,
-        "imdb_id": "tt0274558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2002",
-    "nominees": [
-      "Pedro Almodovar"
-    ],
-    "movies": [
-      {
-        "title": "Talk to Her",
-        "tmdb_id": 64,
-        "imdb_id": "tt0287467"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2002",
-    "nominees": [
-      "Todd Haynes"
-    ],
-    "movies": [
-      {
-        "title": "Far from Heaven",
-        "tmdb_id": 10712,
-        "imdb_id": "tt0297884"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2002",
-    "nominees": [
-      "Jay Cocks",
-      "Kenneth Lonergan",
-      "Steven Zaillian"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2002",
-    "nominees": [
-      "Nia Vardalos"
-    ],
-    "movies": [
-      {
-        "title": "My Big Fat Greek Wedding",
-        "tmdb_id": 8346,
-        "imdb_id": "tt0259446"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2002",
-    "nominees": [
-      "Carlos Cuarón",
-      "Alfonso Cuaron"
-    ],
-    "movies": [
-      {
-        "title": "Y Tu Mamá También",
-        "tmdb_id": 1391,
-        "imdb_id": "tt0245574"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2002",
-    "nominees": [
-      "Elliot Goldenthal"
-    ],
-    "movies": [
-      {
-        "title": "Frida",
-        "tmdb_id": 1360,
-        "imdb_id": "tt0120679"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "2002",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Catch Me If You Can",
-        "tmdb_id": 640,
-        "imdb_id": "tt0264464"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2002",
-    "nominees": [
-      "Elmer Bernstein"
-    ],
-    "movies": [
-      {
-        "title": "Far from Heaven",
-        "tmdb_id": 10712,
-        "imdb_id": "tt0297884"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2002",
-    "nominees": [
-      "Philip Glass"
-    ],
-    "movies": [
-      {
-        "title": "The Hours",
-        "tmdb_id": 590,
-        "imdb_id": "tt0274558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2002",
-    "nominees": [
-      "Thomas Newman"
-    ],
-    "movies": [
-      {
-        "title": "Road to Perdition",
-        "tmdb_id": 4147,
-        "imdb_id": "tt0257044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2002",
-    "nominees": [
-      "Lose Yourself"
-    ],
-    "movies": [
-      {
-        "title": "8 Mile",
-        "tmdb_id": 65,
-        "imdb_id": "tt0298203"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2002",
-    "nominees": [
-      "I Move On"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2002",
-    "nominees": [
-      "Burn It Blue"
-    ],
-    "movies": [
-      {
-        "title": "Frida",
-        "tmdb_id": 1360,
-        "imdb_id": "tt0120679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2002",
-    "nominees": [
-      "The Hands That Built America"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2002",
-    "nominees": [
-      "Father",
-      "Daughter"
-    ],
-    "movies": [
-      {
-        "title": "The Wild Thornberrys Movie",
-        "tmdb_id": 14317,
-        "imdb_id": "tt0282120"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2002",
-    "nominees": [
-      "Nowhere in Africa"
-    ],
-    "movies": [
-      {
-        "title": "Nowhere in Africa",
-        "tmdb_id": 1591,
-        "imdb_id": "tt0161860"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2002",
-    "nominees": [
-      "The Crime of Padre Amaro"
-    ],
-    "movies": [
-      {
-        "title": "The Crime of Padre Amaro",
-        "tmdb_id": 542,
-        "imdb_id": "tt0313196"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2002",
-    "nominees": [
-      "HERO"
-    ],
-    "movies": [
-      {
-        "title": "HERO",
-        "tmdb_id": 782713,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2002",
-    "nominees": [
-      "The Man Without a Past"
-    ],
-    "movies": [
-      {
-        "title": "The Man Without a Past",
-        "tmdb_id": 7294,
-        "imdb_id": "tt0311519"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2002",
-    "nominees": [
-      "Zus & Zo"
-    ],
-    "movies": [
-      {
-        "title": "Zus & Zo",
-        "tmdb_id": 16539,
-        "imdb_id": "tt0245157"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2002",
-    "nominees": [
-      "Bowling for Columbine"
-    ],
-    "movies": [
-      {
-        "title": "Bowling for Columbine",
-        "tmdb_id": 1430,
-        "imdb_id": "tt0310793"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2002",
-    "nominees": [
-      "Daughter From Danang"
-    ],
-    "movies": [
-      {
-        "title": "Daughter From Danang",
-        "tmdb_id": 67232,
-        "imdb_id": "tt0303281"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2002",
-    "nominees": [
-      "Prisoner of Paradise"
-    ],
-    "movies": [
-      {
-        "title": "Prisoner of Paradise",
-        "tmdb_id": 112902,
-        "imdb_id": "tt0316013"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2002",
-    "nominees": [
-      "Spellbound"
-    ],
-    "movies": [
-      {
-        "title": "Spellbound",
-        "tmdb_id": 16636,
-        "imdb_id": "tt0334405"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2002",
-    "nominees": [
-      "Winged Migration"
-    ],
-    "movies": [
-      {
-        "title": "Winged Migration",
-        "tmdb_id": 11516,
-        "imdb_id": "tt0301727"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2002",
-    "nominees": [
-      "Twin Towers"
-    ],
-    "movies": [
-      {
-        "title": "Twin Towers",
-        "tmdb_id": 194819,
-        "imdb_id": "tt0344503"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2002",
-    "nominees": [
-      "The Collector of Bedford Street"
-    ],
-    "movies": [
-      {
-        "title": "The Collector of Bedford Street",
-        "tmdb_id": 244982,
-        "imdb_id": "tt0325193"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2002",
-    "nominees": [
-      "Mighty Times: The Legacy of Rosa Parks"
-    ],
-    "movies": [
-      {
-        "title": "Mighty Times: The Legacy of Rosa Parks",
-        "tmdb_id": 244983,
-        "imdb_id": "tt0353737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2002",
-    "nominees": [
-      "Why Can't We Be a Family Again?"
-    ],
-    "movies": [
-      {
-        "title": "Why Can't We Be a Family Again?",
-        "tmdb_id": 244984,
-        "imdb_id": "tt0344563"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2002",
-    "nominees": [
-      "Spirited Away"
-    ],
-    "movies": [
-      {
-        "title": "Spirited Away",
-        "tmdb_id": 129,
-        "imdb_id": "tt0245429"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2002",
-    "nominees": [
-      "Ice Age"
-    ],
-    "movies": [
-      {
-        "title": "Ice Age",
-        "tmdb_id": 425,
-        "imdb_id": "tt0268380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2002",
-    "nominees": [
-      "Lilo & Stitch"
-    ],
-    "movies": [
-      {
-        "title": "Lilo & Stitch",
-        "tmdb_id": 11544,
-        "imdb_id": "tt0275847"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2002",
-    "nominees": [
-      "Spirit: Stallion of the Cimarron"
-    ],
-    "movies": [
-      {
-        "title": "Spirit: Stallion of the Cimarron",
-        "tmdb_id": 9023,
-        "imdb_id": "tt0166813"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2002",
-    "nominees": [
-      "Treasure Planet"
-    ],
-    "movies": [
-      {
-        "title": "Treasure Planet",
-        "tmdb_id": 9016,
-        "imdb_id": "tt0133240"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2002",
-    "nominees": [
-      "The ChubbChubbs!"
-    ],
-    "movies": [
-      {
-        "title": "The ChubbChubbs!",
-        "tmdb_id": 27042,
-        "imdb_id": "tt0331218"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2002",
-    "nominees": [
-      "Mount Head"
-    ],
-    "movies": [
-      {
-        "title": "Mount Head",
-        "tmdb_id": 36072,
-        "imdb_id": "tt0351382"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2002",
-    "nominees": [
-      "Rocks"
-    ],
-    "movies": [
-      {
-        "title": "Rocks",
-        "tmdb_id": 37060,
-        "imdb_id": "tt0330801"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2002",
-    "nominees": [
-      "The Cathedral"
-    ],
-    "movies": [
-      {
-        "title": "The Cathedral",
-        "tmdb_id": 15990,
-        "imdb_id": "tt0351167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2002",
-    "nominees": [
-      "Mike's New Car"
-    ],
-    "movies": [
-      {
-        "title": "Mike's New Car",
-        "tmdb_id": 13931,
-        "imdb_id": "tt0323250"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2002",
-    "nominees": [
-      "This Charming Man"
-    ],
-    "movies": [
-      {
-        "title": "This Charming Man",
-        "tmdb_id": 115479,
-        "imdb_id": "tt0340071"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2002",
-    "nominees": [
-      "Gridlock"
-    ],
-    "movies": [
-      {
-        "title": "Gridlock",
-        "tmdb_id": 121966,
-        "imdb_id": "tt0281850"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2002",
-    "nominees": [
-      "I'll Wait for the Next One..."
-    ],
-    "movies": [
-      {
-        "title": "I'll Wait for the Next One...",
-        "tmdb_id": 162657,
-        "imdb_id": "tt0325638"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2002",
-    "nominees": [
-      "Inja"
-    ],
-    "movies": [
-      {
-        "title": "Inja",
-        "tmdb_id": 165664,
-        "imdb_id": "tt0303350"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2002",
-    "nominees": [
-      "Johnny Flynton"
-    ],
-    "movies": [
-      {
-        "title": "Johnny Flynton",
-        "tmdb_id": 244981,
-        "imdb_id": "tt0329245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "John Myhre",
-      "Gordon Sim"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "Felipe Fernandez del Paso",
-      "Hania Robledo"
-    ],
-    "movies": [
-      {
-        "title": "Frida",
-        "tmdb_id": 1360,
-        "imdb_id": "tt0120679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "Dante Ferretti",
-      "Francesca Lo Schiavo"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "Grant Major",
-      "Dan Hennah",
-      "Alan Lee"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Two Towers",
-        "tmdb_id": 121,
-        "imdb_id": "tt0167261"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "Dennis Gassner",
-      "Nancy Haigh"
-    ],
-    "movies": [
-      {
-        "title": "Road to Perdition",
-        "tmdb_id": 4147,
-        "imdb_id": "tt0257044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2002",
-    "nominees": [
-      "Conrad Hall"
-    ],
-    "movies": [
-      {
-        "title": "Road to Perdition",
-        "tmdb_id": 4147,
-        "imdb_id": "tt0257044"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2002",
-    "nominees": [
-      "Dion Beebe"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2002",
-    "nominees": [
-      "Edward Lachman"
-    ],
-    "movies": [
-      {
-        "title": "Far from Heaven",
-        "tmdb_id": 10712,
-        "imdb_id": "tt0297884"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2002",
-    "nominees": [
-      "Michael Ballhaus"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2002",
-    "nominees": [
-      "Pawel Edelman"
-    ],
-    "movies": [
-      {
-        "title": "The Pianist",
-        "tmdb_id": 423,
-        "imdb_id": "tt0253474"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2002",
-    "nominees": [
-      "Martin Walsh"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2002",
-    "nominees": [
-      "Thelma Schoonmaker"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2002",
-    "nominees": [
-      "Peter Boyle"
-    ],
-    "movies": [
-      {
-        "title": "The Hours",
-        "tmdb_id": 590,
-        "imdb_id": "tt0274558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2002",
-    "nominees": [
-      "Michael Horton"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Two Towers",
-        "tmdb_id": 121,
-        "imdb_id": "tt0167261"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2002",
-    "nominees": [
-      "Herve de Luze"
-    ],
-    "movies": [
-      {
-        "title": "The Pianist",
-        "tmdb_id": 423,
-        "imdb_id": "tt0253474"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2002",
-    "nominees": [
-      "Jim Rygiel",
-      "Joe Letteri",
-      "Randall William Cook",
-      "Alex Funke"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Two Towers",
-        "tmdb_id": 121,
-        "imdb_id": "tt0167261"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2002",
-    "nominees": [
-      "John Dykstra",
-      "Scott Stokdyk",
-      "Anthony LaMolinara",
-      "John Frazier"
-    ],
-    "movies": [
-      {
-        "title": "Spider-Man",
-        "tmdb_id": 557,
-        "imdb_id": "tt0145487"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2002",
-    "nominees": [
-      "Rob Coleman",
-      "Pablo Helman",
-      "John Knoll",
-      "Ben Snow"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars: Episode II - Attack of the Clones",
-        "tmdb_id": 1894,
-        "imdb_id": "tt0121765"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2002",
-    "nominees": [
-      "Michael Minkler",
-      "Dominick Tavella",
-      "David Lee"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2002",
-    "nominees": [
-      "Tom Fleischman",
-      "Eugene Gearty",
-      "Ivan Sharrock"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2002",
-    "nominees": [
-      "Christopher Boyes",
-      "Michael Semanick",
-      "Michael Hedges",
-      "Hammond Peek"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Two Towers",
-        "tmdb_id": 121,
-        "imdb_id": "tt0167261"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2002",
-    "nominees": [
-      "Scott Millan",
-      "Bob Beemer",
-      "John Pritchett"
-    ],
-    "movies": [
-      {
-        "title": "Road to Perdition",
-        "tmdb_id": 4147,
-        "imdb_id": "tt0257044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2002",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Ed Novick"
-    ],
-    "movies": [
-      {
-        "title": "Spider-Man",
-        "tmdb_id": 557,
-        "imdb_id": "tt0145487"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2002",
-    "nominees": [
-      "Mike Hopkins",
-      "Ethan Van der Ryn"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Two Towers",
-        "tmdb_id": 121,
-        "imdb_id": "tt0167261"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2002",
-    "nominees": [
-      "Richard Hymns",
-      "Gary Rydstrom"
-    ],
-    "movies": [
-      {
-        "title": "Minority Report",
-        "tmdb_id": 180,
-        "imdb_id": "tt0181689"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2002",
-    "nominees": [
-      "Scott Hecker"
-    ],
-    "movies": [
-      {
-        "title": "Road to Perdition",
-        "tmdb_id": 4147,
-        "imdb_id": "tt0257044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2002",
-    "nominees": [
-      "John Jackson",
-      "Beatrice De Alba"
-    ],
-    "movies": [
-      {
-        "title": "Frida",
-        "tmdb_id": 1360,
-        "imdb_id": "tt0120679"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2002",
-    "nominees": [
-      "John M. Elliott Jr.",
-      "Barbara Lorenz"
-    ],
-    "movies": [
-      {
-        "title": "The Time Machine",
-        "tmdb_id": 2135,
-        "imdb_id": "tt0268695"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "Colleen Atwood"
-    ],
-    "movies": [
-      {
-        "title": "Chicago",
-        "tmdb_id": 1574,
-        "imdb_id": "tt0299658"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "Julie Weiss"
-    ],
-    "movies": [
-      {
-        "title": "Frida",
-        "tmdb_id": 1360,
-        "imdb_id": "tt0120679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "Sandy Powell"
-    ],
-    "movies": [
-      {
-        "title": "Gangs of New York",
-        "tmdb_id": 3131,
-        "imdb_id": "tt0217505"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "Ann Roth"
-    ],
-    "movies": [
-      {
-        "title": "The Hours",
-        "tmdb_id": 590,
-        "imdb_id": "tt0274558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2002",
-    "nominees": [
-      "Anna B. Sheppard"
-    ],
-    "movies": [
-      {
-        "title": "The Pianist",
-        "tmdb_id": 423,
-        "imdb_id": "tt0253474"
-      }
-    ],
-    "won": false
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Pianist",
+    "FilmId": "tt0253474",
+    "Name": "Adrien Brody",
+    "Nominees": "Adrien Brody",
+    "NomineeIds": "nm0004778",
+    "Winner": "True",
+    "Detail": "Wladyslaw Szpilman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Adaptation",
+    "FilmId": "tt0268126",
+    "Name": "Nicolas Cage",
+    "Nominees": "Nicolas Cage",
+    "NomineeIds": "nm0000115",
+    "Winner": "",
+    "Detail": "Charlie Kaufman & Donald Kaufman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Quiet American",
+    "FilmId": "tt0258068",
+    "Name": "Michael Caine",
+    "Nominees": "Michael Caine",
+    "NomineeIds": "nm0000323",
+    "Winner": "",
+    "Detail": "Thomas Fowler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Daniel Day-Lewis",
+    "Nominees": "Daniel Day-Lewis",
+    "NomineeIds": "nm0000358",
+    "Winner": "",
+    "Detail": "Bill 'The Butcher' Cutting",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "About Schmidt",
+    "FilmId": "tt0257360",
+    "Name": "Jack Nicholson",
+    "Nominees": "Jack Nicholson",
+    "NomineeIds": "nm0000197",
+    "Winner": "",
+    "Detail": "Warren Schmidt",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Adaptation",
+    "FilmId": "tt0268126",
+    "Name": "Chris Cooper",
+    "Nominees": "Chris Cooper",
+    "NomineeIds": "nm0177933",
+    "Winner": "True",
+    "Detail": "John Laroche",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Hours",
+    "FilmId": "tt0274558",
+    "Name": "Ed Harris",
+    "Nominees": "Ed Harris",
+    "NomineeIds": "nm0000438",
+    "Winner": "",
+    "Detail": "Richard Brown",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Road to Perdition",
+    "FilmId": "tt0257044",
+    "Name": "Paul Newman",
+    "Nominees": "Paul Newman",
+    "NomineeIds": "nm0000056",
+    "Winner": "",
+    "Detail": "John Rooney",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "John C. Reilly",
+    "Nominees": "John C. Reilly",
+    "NomineeIds": "nm0000604",
+    "Winner": "",
+    "Detail": "Amos Hart",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Catch Me If You Can",
+    "FilmId": "tt0264464",
+    "Name": "Christopher Walken",
+    "Nominees": "Christopher Walken",
+    "NomineeIds": "nm0000686",
+    "Winner": "",
+    "Detail": "Frank Abagnale",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Frida",
+    "FilmId": "tt0120679",
+    "Name": "Salma Hayek",
+    "Nominees": "Salma Hayek",
+    "NomineeIds": "nm0000161",
+    "Winner": "",
+    "Detail": "Frida Kahlo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Hours",
+    "FilmId": "tt0274558",
+    "Name": "Nicole Kidman",
+    "Nominees": "Nicole Kidman",
+    "NomineeIds": "nm0000173",
+    "Winner": "True",
+    "Detail": "Virginia Woolf",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Unfaithful",
+    "FilmId": "tt0250797",
+    "Name": "Diane Lane",
+    "Nominees": "Diane Lane",
+    "NomineeIds": "nm0000178",
+    "Winner": "",
+    "Detail": "Connie Sumner",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Far from Heaven",
+    "FilmId": "tt0297884",
+    "Name": "Julianne Moore",
+    "Nominees": "Julianne Moore",
+    "NomineeIds": "nm0000194",
+    "Winner": "",
+    "Detail": "Cathy Whitaker",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Renée Zellweger",
+    "Nominees": "Renée Zellweger",
+    "NomineeIds": "nm0000250",
+    "Winner": "",
+    "Detail": "Roxie Hart",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "About Schmidt",
+    "FilmId": "tt0257360",
+    "Name": "Kathy Bates",
+    "Nominees": "Kathy Bates",
+    "NomineeIds": "nm0000870",
+    "Winner": "",
+    "Detail": "Roberta Hertzel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Hours",
+    "FilmId": "tt0274558",
+    "Name": "Julianne Moore",
+    "Nominees": "Julianne Moore",
+    "NomineeIds": "nm0000194",
+    "Winner": "",
+    "Detail": "Laura Brown",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Queen Latifah",
+    "Nominees": "Queen Latifah",
+    "NomineeIds": "nm0001451",
+    "Winner": "",
+    "Detail": "Matron Mama Morton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Adaptation",
+    "FilmId": "tt0268126",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Susan Orlean",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Catherine Zeta-Jones",
+    "Nominees": "Catherine Zeta-Jones",
+    "NomineeIds": "nm0001876",
+    "Winner": "True",
+    "Detail": "Velma Kelly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Ice Age",
+    "FilmId": "tt0268380",
+    "Name": "Chris Wedge",
+    "Nominees": "Chris Wedge",
+    "NomineeIds": "nm0917188",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Lilo & Stitch",
+    "FilmId": "tt0275847",
+    "Name": "Chris Sanders",
+    "Nominees": "Chris Sanders",
+    "NomineeIds": "nm0761498",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Spirit: Stallion of the Cimarron",
+    "FilmId": "tt0166813",
+    "Name": "Jeffrey Katzenberg",
+    "Nominees": "Jeffrey Katzenberg",
+    "NomineeIds": "nm0005076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Spirited Away",
+    "FilmId": "tt0245429",
+    "Name": "Hayao Miyazaki",
+    "Nominees": "Hayao Miyazaki",
+    "NomineeIds": "nm0594503",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Treasure Planet",
+    "FilmId": "tt0133240",
+    "Name": "Ron Clements",
+    "Nominees": "Ron Clements",
+    "NomineeIds": "nm0166256",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Art Direction: John Myhre; Set Decoration: Gordon Sim",
+    "Nominees": "John Myhre|Gordon Sim",
+    "NomineeIds": "nm0616924|nm0799246",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Frida",
+    "FilmId": "tt0120679",
+    "Name": "Art Direction: Felipe Fernandez del Paso; Set Decoration: Hania Robledo",
+    "Nominees": "Felipe Fernandez del Paso|Hania Robledo",
+    "NomineeIds": "nm0273259|nm0733281",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+    "Nominees": "Dante Ferretti|Francesca Lo Schiavo",
+    "NomineeIds": "nm0274721|nm0521302",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Lord of the Rings: The Two Towers",
+    "FilmId": "tt0167261",
+    "Name": "Art Direction: Grant Major; Set Decoration: Dan Hennah and Alan Lee",
+    "Nominees": "Grant Major|Dan Hennah|Alan Lee",
+    "NomineeIds": "nm0538194|nm0377172|nm0496769",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Road to Perdition",
+    "FilmId": "tt0257044",
+    "Name": "Art Direction: Dennis Gassner; Set Decoration: Nancy Haigh",
+    "Nominees": "Dennis Gassner|Nancy Haigh",
+    "NomineeIds": "nm0309357|nm0354101",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Dion Beebe",
+    "Nominees": "Dion Beebe",
+    "NomineeIds": "nm0066244",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Far from Heaven",
+    "FilmId": "tt0297884",
+    "Name": "Edward Lachman",
+    "Nominees": "Edward Lachman",
+    "NomineeIds": "nm0005767",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Michael Ballhaus",
+    "Nominees": "Michael Ballhaus",
+    "NomineeIds": "nm0000841",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Pianist",
+    "FilmId": "tt0253474",
+    "Name": "Pawel Edelman",
+    "Nominees": "Pawel Edelman",
+    "NomineeIds": "nm0248997",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Road to Perdition",
+    "FilmId": "tt0257044",
+    "Name": "Conrad L. Hall",
+    "Nominees": "Conrad L. Hall",
+    "NomineeIds": "nm0005734",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Frida",
+    "FilmId": "tt0120679",
+    "Name": "Julie Weiss",
+    "Nominees": "Julie Weiss",
+    "NomineeIds": "nm0919058",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Hours",
+    "FilmId": "tt0274558",
+    "Name": "Ann Roth",
+    "Nominees": "Ann Roth",
+    "NomineeIds": "nm0744778",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Pianist",
+    "FilmId": "tt0253474",
+    "Name": "Anna Sheppard",
+    "Nominees": "Anna Sheppard",
+    "NomineeIds": "nm0081318",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Rob Marshall",
+    "Nominees": "Rob Marshall",
+    "NomineeIds": "nm0551128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Martin Scorsese",
+    "Nominees": "Martin Scorsese",
+    "NomineeIds": "nm0000217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Hours",
+    "FilmId": "tt0274558",
+    "Name": "Stephen Daldry",
+    "Nominees": "Stephen Daldry",
+    "NomineeIds": "nm0197636",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Pianist",
+    "FilmId": "tt0253474",
+    "Name": "Roman Polanski",
+    "Nominees": "Roman Polanski",
+    "NomineeIds": "nm0000591",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Talk to Her",
+    "FilmId": "tt0287467",
+    "Name": "Pedro Almodóvar",
+    "Nominees": "Pedro Almodóvar",
+    "NomineeIds": "nm0000264",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Bowling for Columbine",
+    "FilmId": "tt0310793",
+    "Name": "Michael Moore, Michael Donovan",
+    "Nominees": "Michael Moore|Michael Donovan",
+    "NomineeIds": "nm0601619|nm0233035",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Daughter from Danang",
+    "FilmId": "tt0303281",
+    "Name": "Gail Dolgin, Vicente Franco",
+    "Nominees": "Gail Dolgin|Vicente Franco",
+    "NomineeIds": "nm0231000|nm0290657",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Prisoner of Paradise",
+    "FilmId": "tt0316013",
+    "Name": "Malcolm Clarke, Stuart Sender",
+    "Nominees": "Malcolm Clarke|Stuart Sender",
+    "NomineeIds": "nm0164885|nm1213974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Spellbound",
+    "FilmId": "tt0334405",
+    "Name": "Jeffrey Blitz, Sean Welch",
+    "Nominees": "Jeffrey Blitz|Sean Welch",
+    "NomineeIds": "nm0998825|nm1290122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Winged Migration",
+    "FilmId": "tt0301727",
+    "Name": "Jacques Perrin",
+    "Nominees": "Jacques Perrin",
+    "NomineeIds": "nm0674742",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Collector of Bedford Street",
+    "FilmId": "tt0325193",
+    "Name": "Alice Elliott",
+    "Nominees": "Alice Elliott",
+    "NomineeIds": "nm0254359",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Mighty Times: The Legacy of Rosa Parks",
+    "FilmId": "tt0353737",
+    "Name": "Robert Hudson, Bobby Houston",
+    "Nominees": "Robert Hudson|Bobby Houston",
+    "NomineeIds": "nm2060739|nm0396884",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Twin Towers",
+    "FilmId": "tt0344503",
+    "Name": "Bill Guttentag, Robert David Port",
+    "Nominees": "Bill Guttentag|Robert David Port",
+    "NomineeIds": "nm0349702|nm0691888",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Why Can't We Be a Family Again?",
+    "FilmId": "tt0344563",
+    "Name": "Roger Weisberg, Murray Nossel",
+    "Nominees": "Roger Weisberg|Murray Nossel",
+    "NomineeIds": "nm0918724|nm1286059",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Martin Walsh",
+    "Nominees": "Martin Walsh",
+    "NomineeIds": "nm0909760",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Thelma Schoonmaker",
+    "Nominees": "Thelma Schoonmaker",
+    "NomineeIds": "nm0774817",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Hours",
+    "FilmId": "tt0274558",
+    "Name": "Peter Boyle",
+    "Nominees": "Peter Boyle",
+    "NomineeIds": "nm0102316",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Lord of the Rings: The Two Towers",
+    "FilmId": "tt0167261",
+    "Name": "Michael Horton",
+    "Nominees": "Michael Horton",
+    "NomineeIds": "nm0395579",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Pianist",
+    "FilmId": "tt0253474",
+    "Name": "Hervé de Luze",
+    "Nominees": "Hervé de Luze",
+    "NomineeIds": "nm0217959",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "El Crimen del Padre Amaro",
+    "FilmId": "tt0313196",
+    "Name": "Mexico",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Hero",
+    "FilmId": "tt0299977",
+    "Name": "People's Republic of China",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Man without a Past",
+    "FilmId": "tt0311519",
+    "Name": "Finland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Nowhere in Africa",
+    "FilmId": "tt0161860",
+    "Name": "Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Zus & Zo",
+    "FilmId": "tt0245157",
+    "Name": "The Netherlands",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Frida",
+    "FilmId": "tt0120679",
+    "Name": "John Jackson, Beatrice De Alba",
+    "Nominees": "John Jackson|Beatrice De Alba",
+    "NomineeIds": "nm0413703|nm0206866",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Time Machine",
+    "FilmId": "tt0268695",
+    "Name": "John M. Elliott, Jr., Barbara Lorenz",
+    "Nominees": "John M. Elliott Jr.|Barbara Lorenz",
+    "NomineeIds": "nm0254353|nm0520693",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Catch Me If You Can",
+    "FilmId": "tt0264464",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Far from Heaven",
+    "FilmId": "tt0297884",
+    "Name": "Elmer Bernstein",
+    "Nominees": "Elmer Bernstein",
+    "NomineeIds": "nm0000930",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Frida",
+    "FilmId": "tt0120679",
+    "Name": "Elliot Goldenthal",
+    "Nominees": "Elliot Goldenthal",
+    "NomineeIds": "nm0006106",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Hours",
+    "FilmId": "tt0274558",
+    "Name": "Philip Glass",
+    "Nominees": "Philip Glass",
+    "NomineeIds": "nm0001275",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Road to Perdition",
+    "FilmId": "tt0257044",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Frida",
+    "FilmId": "tt0120679",
+    "Name": "Music by Elliot Goldenthal; Lyric by Julie Taymor",
+    "Nominees": "Elliot Goldenthal|Julie Taymor",
+    "NomineeIds": "nm0006106|nm0853380",
+    "Winner": "",
+    "Detail": "Burn It Blue",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Wild Thornberrys Movie",
+    "FilmId": "tt0282120",
+    "Name": "Music and Lyric by Paul Simon",
+    "Nominees": "Paul Simon",
+    "NomineeIds": "nm0800328",
+    "Winner": "",
+    "Detail": "Father And Daughter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Music and Lyric by Bono, The Edge, Adam Clayton and Larry Mullen",
+    "Nominees": "Bono|The Edge|Adam Clayton|Larry Mullen",
+    "NomineeIds": "nm0095104|nm0857253|nm0165651|nm0611979",
+    "Winner": "",
+    "Detail": "The Hands That Built America",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Music by John Kander; Lyric by Fred Ebb",
+    "Nominees": "John Kander|Fred Ebb",
+    "NomineeIds": "nm0437218|nm0247939",
+    "Winner": "",
+    "Detail": "I Move On",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "8 Mile",
+    "FilmId": "tt0298203",
+    "Name": "Music by Eminem, Jeff Bass and Luis Resto; Lyric by Eminem",
+    "Nominees": "Eminem|Jeff Bass|Luis Resto",
+    "NomineeIds": "nm0004896|nm1384015|nm1099643",
+    "Winner": "True",
+    "Detail": "Lose Yourself",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Martin Richards, Producer",
+    "Nominees": "Martin Richards",
+    "NomineeIds": "nm0724237",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Alberto Grimaldi and Harvey Weinstein, Producers",
+    "Nominees": "Alberto Grimaldi|Harvey Weinstein",
+    "NomineeIds": "nm0342090|nm0005544",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Hours",
+    "FilmId": "tt0274558",
+    "Name": "Scott Rudin and Robert Fox, Producers",
+    "Nominees": "Scott Rudin|Robert Fox",
+    "NomineeIds": "nm0748784|nm0289221",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Lord of the Rings: The Two Towers",
+    "FilmId": "tt0167261",
+    "Name": "Barrie M. Osborne, Fran Walsh and Peter Jackson, Producers",
+    "Nominees": "Barrie M. Osborne|Fran Walsh|Peter Jackson",
+    "NomineeIds": "nm0651614|nm0909638|nm0001392",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Pianist",
+    "FilmId": "tt0253474",
+    "Name": "Roman Polanski, Robert Benmussa and Alain Sarde, Producers",
+    "Nominees": "Roman Polanski|Robert Benmussa|Alain Sarde",
+    "NomineeIds": "nm0000591|nm0071452|nm0764963",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Cathedral",
+    "FilmId": "tt0351167",
+    "Name": "Tomek Baginski",
+    "Nominees": "Tomek Baginski",
+    "NomineeIds": "nm1313617",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The ChubbChubbs!",
+    "FilmId": "tt0331218",
+    "Name": "Eric Armstrong",
+    "Nominees": "Eric Armstrong",
+    "NomineeIds": "nm0035697",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Das Rad",
+    "FilmId": "tt0330801",
+    "Name": "Chris Stenner, Heidi Wittlinger",
+    "Nominees": "Chris Stenner|Heidi Wittlinger",
+    "NomineeIds": "nm1234476|nm1234919",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Mike's New Car",
+    "FilmId": "tt0323250",
+    "Name": "Pete Docter, Roger Gould",
+    "Nominees": "Pete Docter|Roger Gould",
+    "NomineeIds": "nm0230032|nm1246888",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Mt. Head",
+    "FilmId": "tt0351382",
+    "Name": "Koji Yamamura",
+    "Nominees": "Koji Yamamura",
+    "NomineeIds": "nm0945520",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Fait D'Hiver",
+    "FilmId": "tt0281850",
+    "Name": "Dirk Beliën, Anja Daelemans",
+    "Nominees": "Dirk Beliën|Anja Daelemans",
+    "NomineeIds": "nm0067937|nm0196664",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "I'll Wait for the Next One... (J'Attendrai Le Suivant...)",
+    "FilmId": "tt0325638",
+    "Name": "Philippe Orreindy, Thomas Gaudin",
+    "Nominees": "Philippe Orreindy|Thomas Gaudin",
+    "NomineeIds": "nm1203746|nm1204900",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Inja (Dog)",
+    "FilmId": "tt0303350",
+    "Name": "Steven Pasvolsky, Joe Weatherstone",
+    "Nominees": "Steven Pasvolsky|Joe Weatherstone",
+    "NomineeIds": "nm1099262|nm0915787",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Johnny Flynton",
+    "FilmId": "tt0329245",
+    "Name": "Lexi Alexander, Alexander Buono",
+    "Nominees": "Lexi Alexander|Alexander Buono",
+    "NomineeIds": "nm0591994|nm0120645",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "This Charming Man (Der Er En Yndig Mand)",
+    "FilmId": "tt0340071",
+    "Name": "Martin Strange-Hansen, Mie Andreasen",
+    "Nominees": "Martin Strange-Hansen|Mie Andreasen",
+    "NomineeIds": "nm1015687|nm1212399",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Michael Minkler, Dominick Tavella, David Lee",
+    "Nominees": "Michael Minkler|Dominick Tavella|David Lee",
+    "NomineeIds": "nm0591444|nm0003838|nm0497112",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Tom Fleischman, Eugene Gearty, Ivan Sharrock",
+    "Nominees": "Tom Fleischman|Eugene Gearty|Ivan Sharrock",
+    "NomineeIds": "nm0281530|nm0311267|nm0789331",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Lord of the Rings: The Two Towers",
+    "FilmId": "tt0167261",
+    "Name": "Christopher Boyes, Michael Semanick, Michael Hedges, Hammond Peek",
+    "Nominees": "Christopher Boyes|Michael Semanick|Michael Hedges|Hammond Peek",
+    "NomineeIds": "nm0102110|nm0783713|nm0373276|nm0003827",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Road to Perdition",
+    "FilmId": "tt0257044",
+    "Name": "Scott Millan, Bob Beemer, John Patrick Pritchett",
+    "Nominees": "Scott Millan|Bob Beemer|John Patrick Pritchett",
+    "NomineeIds": "nm0586793|nm0066446|nm0698099",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Spider-Man",
+    "FilmId": "tt0145487",
+    "Name": "Kevin O'Connell, Greg P. Russell, Ed Novick",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Ed Novick",
+    "NomineeIds": "nm0640114|nm0751169|nm0637085",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Lord of the Rings: The Two Towers",
+    "FilmId": "tt0167261",
+    "Name": "Ethan Van der Ryn, Michael Hopkins",
+    "Nominees": "Ethan Van der Ryn|Michael Hopkins",
+    "NomineeIds": "nm0886399|nm0394243",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Minority Report",
+    "FilmId": "tt0181689",
+    "Name": "Richard Hymns, Gary Rydstrom",
+    "Nominees": "Richard Hymns|Gary Rydstrom",
+    "NomineeIds": "nm0405232|nm0003977",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Road to Perdition",
+    "FilmId": "tt0257044",
+    "Name": "Scott A. Hecker",
+    "Nominees": "Scott A. Hecker",
+    "NomineeIds": "nm0373046",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Lord of the Rings: The Two Towers",
+    "FilmId": "tt0167261",
+    "Name": "Jim Rygiel, Joe Letteri, Randall William Cook, Alex Funke",
+    "Nominees": "Jim Rygiel|Joe Letteri|Randall William Cook|Alex Funke",
+    "NomineeIds": "nm0753277|nm0504784|nm0177241|nm0298754",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Spider-Man",
+    "FilmId": "tt0145487",
+    "Name": "John Dykstra, Scott Stokdyk, Anthony LaMolinara, John Frazier",
+    "Nominees": "John Dykstra|Scott Stokdyk|Anthony LaMolinara|John Frazier",
+    "NomineeIds": "nm0004375|nm0831282|nm0483608|nm0292594",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Star Wars Episode II Attack of the Clones",
+    "FilmId": "tt0121765",
+    "Name": "Rob Coleman, Pablo Helman, John Knoll, Ben Snow",
+    "Nominees": "Rob Coleman|Pablo Helman|John Knoll|Ben Snow",
+    "NomineeIds": "nm0171197|nm0375666|nm0461306|nm0811240",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "About a Boy",
+    "FilmId": "tt0276751",
+    "Name": "Screenplay by Peter Hedges and Chris Weitz & Paul Weitz",
+    "Nominees": "Peter Hedges|Chris Weitz|Paul Weitz",
+    "NomineeIds": "nm0373282|nm0919363|nm0919369",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Adaptation",
+    "FilmId": "tt0268126",
+    "Name": "Screenplay by Charlie Kaufman and Donald Kaufman",
+    "Nominees": "Charlie Kaufman|Donald Kaufman",
+    "NomineeIds": "nm0442109|?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Chicago",
+    "FilmId": "tt0299658",
+    "Name": "Screenplay by Bill Condon",
+    "Nominees": "Bill Condon",
+    "NomineeIds": "nm0174374",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Hours",
+    "FilmId": "tt0274558",
+    "Name": "Screenplay by David Hare",
+    "Nominees": "David Hare",
+    "NomineeIds": "nm0002376",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Pianist",
+    "FilmId": "tt0253474",
+    "Name": "Screenplay by Ronald Harwood",
+    "Nominees": "Ronald Harwood",
+    "NomineeIds": "nm0367838",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Far from Heaven",
+    "FilmId": "tt0297884",
+    "Name": "Written by Todd Haynes",
+    "Nominees": "Todd Haynes",
+    "NomineeIds": "nm0001331",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Gangs of New York",
+    "FilmId": "tt0217505",
+    "Name": "Screenplay by Jay Cocks and Steve Zaillian and Kenneth Lonergan; Story by Jay Cocks",
+    "Nominees": "Jay Cocks|Steve Zaillian|Kenneth Lonergan",
+    "NomineeIds": "nm0168379|nm0001873|nm0518836",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "My Big Fat Greek Wedding",
+    "FilmId": "tt0259446",
+    "Name": "Written by Nia Vardalos",
+    "Nominees": "Nia Vardalos",
+    "NomineeIds": "nm0889522",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Talk to Her",
+    "FilmId": "tt0287467",
+    "Name": "Written by Pedro Almodóvar",
+    "Nominees": "Pedro Almodóvar",
+    "NomineeIds": "nm0000264",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Y Tu Mamá También",
+    "FilmId": "tt0245574",
+    "Name": "Written by Carlos Cuarón and Alfonso Cuarón",
+    "Nominees": "Carlos Cuarón|Alfonso Cuarón",
+    "NomineeIds": "nm0190860|nm0190859",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Peter O'Toole",
+    "NomineeIds": "nm0000564",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Peter O'Toole, whose remarkable talents have provided cinema history with some of its most memorable characters."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Alias/Wavefront",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "With its significant and dominant impact on the motion picture industry, the Maya software package offers a robust and widely used commercial visual effects tool with a rich infrastructure for extension and customization.",
+    "Citation": "To ALIAS/WAVEFRONT for the development of a 3D animation, dynamics, modeling and rendering production tool known as Maya."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ARNOLD & RICHTER CINE TECHNIK|PANAVISION INC.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "With a commitment that lies beyond the usual commercial considerations, these two manufacturers continue to lead the industry in developing and introducing products that have defined the state of the art in motion picture camera technology.",
+    "Citation": "To ARNOLD & RICHTER CINE TECHNIK and PANAVISION INC., for their continuing development and innovation in the design and manufacturing of advanced camera systems specifically designed for the motion picture entertainment industry."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "GLENN SANDERS|HOWARD STARK",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "This innovative design employs advanced hard disk recording technology and digital audio techniques for use in both production and post-production recording applications.",
+    "Citation": "To GLENN SANDERS and HOWARD STARK of Zaxcom for the concept, design and engineering of the portable Deva Digital Audio Disk Recorder."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mark Elendt|Paul H. Breslin|Greg Hermanovic|Kim Davidson",
+    "NomineeIds": "?|?|nm1232700|nm3181275",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Through a procedural building-block process, the Houdini software is used to simulate natural phenomena using particle effects and complex three-dimensional models.",
+    "Citation": "To MARK ELENDT, PAUL H. BRESLIN, GREG HERMANOVIC and KIM DAVIDSON for their continued development of the procedural modeling and animation components of their Prisms program, as exemplified in the Houdini software package."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Leslie Gutierrez|Diane E. Kestner|James Merrill|David Niklewicz",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "This film stock provides filmmakers with enhanced color saturation, higher contrast and darker blacks, producing a bold, colorful 'look' on the theater screen.",
+    "Citation": "To DR. LESLIE GUTIERREZ, DIANE E. KESTNER, JAMES MERRILL and DAVID NIKLEWICZ for the design and development of the Kodak Vision Premier Color Print Film, 2393."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dedo Weigert|Dr. Depu Jin|Franz Petters",
+    "NomineeIds": "nm1050723|?|?",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "This uniquely designed set light provides superior performance, reliability and ease of use. Combined with its excellent array of accessories, the Dedolight 400D is an outstanding engineering achievement.",
+    "Citation": "To DEDO WEIGERT for the concept, DR. DEPU JIN for the optical calculations, and FRANZ PETTERS for the mechanical construction of the Dedolight 400D."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dick Walsh",
+    "NomineeIds": "nm0909618",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This effective software simulation system is used to create and control natural, expressive, highly-nuanced facial animation on a wide range of computer-generated characters.",
+    "Citation": "To DICK WALSH for the development of the PDI/DreamWorks Facial Animation System."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thomas Driemeyer|Mental Images",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Mental Ray is a highly programmable computer-graphics renderer incorporating ray tracing and global illumination to realistically simulate the behavior of light in computer-generated imagery.",
+    "Citation": "To THOMAS DRIEMEYER and to the TEAM OF MATHEMATICIANS, PHYSICISTS AND SOFTWARE ENGINEERS OF MENTAL IMAGES for their contributions to the Mental Ray rendering software for motion pictures."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eric Daniels|George Katanics|Tasso Lappas|Chris Springfield",
+    "NomineeIds": "nm0199926|nm2647298|nm1323399|nm0819777",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The Deep Canvas software program captures the orginal brush strokes of the traditional background artist to render elements in three dimensions for animated films.",
+    "Citation": "To ERIC DANIELS, GEORGE KATANICS, TASSO LAPPAS and CHRIS SPRINGFIELD for the development of the Deep Canvas rendering software."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jim Songer",
+    "NomineeIds": "nm0814315",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "The work of Jim Songer from 1968 through 1973 led directly to the more widespread acceptance of video-assist in the motion picture industry.",
+    "Citation": "To JIM SONGER for his contributions to the technical development of video-assist in the motion picture industry."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "PIERRE CHABERT",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "These helium-filled balloons with internal arrangements for tungsten halogen and HMI light sources, are usable indoors or out, quick to set up, require essentially no rigging and provide a soft light that can cover a very large area.",
+    "Citation": "To PIERRE CHABERT of Airstar for the introduction of balloons with internal light sources to provide set lighting for the motion picture industry."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "RAWDON HAYNE|ROBERT W. JEFFS",
+    "NomineeIds": "nm0371402|?",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "These helium-filled balloons with internal arrangements for tungsten halogen and HMI light sources, are usable indoors or out, quick to set up, require essentially no rigging and provide a soft light that can cover a very large area.",
+    "Citation": "To RAWDON HAYNE and ROBERT W. JEFFS of Leelium Tubelites for their contributions to the development of internally lit balloons for motion picture lighting."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Curt R. Behlmer",
+    "NomineeIds": "nm0066934",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Curt R. Behlmer in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 75,
+    "Year": 2002,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard B. Glickman",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Richard B. Glickman in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

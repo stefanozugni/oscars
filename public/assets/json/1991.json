@@ -1,1619 +1,2002 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1991",
-    "nominees": [
-      "The Silence of the Lambs"
-    ],
-    "movies": [
-      {
-        "title": "The Silence of the Lambs",
-        "tmdb_id": 274,
-        "imdb_id": "tt0102926"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1991",
-    "nominees": [
-      "Beauty and the Beast"
-    ],
-    "movies": [
-      {
-        "title": "Beauty and the Beast",
-        "tmdb_id": 10020,
-        "imdb_id": "tt0101414"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1991",
-    "nominees": [
-      "Bugsy"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1991",
-    "nominees": [
-      "JFK"
-    ],
-    "movies": [
-      {
-        "title": "JFK",
-        "tmdb_id": 820,
-        "imdb_id": "tt0102138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1991",
-    "nominees": [
-      "The Prince of Tides"
-    ],
-    "movies": [
-      {
-        "title": "The Prince of Tides",
-        "tmdb_id": 10333,
-        "imdb_id": "tt0102713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1991",
-    "nominees": [
-      "Anthony Hopkins"
-    ],
-    "movies": [
-      {
-        "title": "The Silence of the Lambs",
-        "tmdb_id": 274,
-        "imdb_id": "tt0102926"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1991",
-    "nominees": [
-      "Warren Beatty"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1991",
-    "nominees": [
-      "Robert De Niro"
-    ],
-    "movies": [
-      {
-        "title": "Cape Fear",
-        "tmdb_id": 1598,
-        "imdb_id": "tt0101540"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1991",
-    "nominees": [
-      "Nick Nolte"
-    ],
-    "movies": [
-      {
-        "title": "The Prince of Tides",
-        "tmdb_id": 10333,
-        "imdb_id": "tt0102713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1991",
-    "nominees": [
-      "Robin Williams"
-    ],
-    "movies": [
-      {
-        "title": "The Fisher King",
-        "tmdb_id": 177,
-        "imdb_id": "tt0101889"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1991",
-    "nominees": [
-      "Jodie Foster"
-    ],
-    "movies": [
-      {
-        "title": "The Silence of the Lambs",
-        "tmdb_id": 274,
-        "imdb_id": "tt0102926"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1991",
-    "nominees": [
-      "Geena Davis"
-    ],
-    "movies": [
-      {
-        "title": "Thelma & Louise",
-        "tmdb_id": 1541,
-        "imdb_id": "tt0103074"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1991",
-    "nominees": [
-      "Laura Dern"
-    ],
-    "movies": [
-      {
-        "title": "Rambling Rose",
-        "tmdb_id": 32221,
-        "imdb_id": "tt0102753"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1991",
-    "nominees": [
-      "Bette Midler"
-    ],
-    "movies": [
-      {
-        "title": "For the Boys",
-        "tmdb_id": 25221,
-        "imdb_id": "tt0101902"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1991",
-    "nominees": [
-      "Susan Sarandon"
-    ],
-    "movies": [
-      {
-        "title": "Thelma & Louise",
-        "tmdb_id": 1541,
-        "imdb_id": "tt0103074"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1991",
-    "nominees": [
-      "Jack Palance"
-    ],
-    "movies": [
-      {
-        "title": "City Slickers",
-        "tmdb_id": 1406,
-        "imdb_id": "tt0101587"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1991",
-    "nominees": [
-      "Tommy Lee Jones"
-    ],
-    "movies": [
-      {
-        "title": "JFK",
-        "tmdb_id": 820,
-        "imdb_id": "tt0102138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1991",
-    "nominees": [
-      "Harvey Keitel"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1991",
-    "nominees": [
-      "Ben Kingsley"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1991",
-    "nominees": [
-      "Michael Lerner"
-    ],
-    "movies": [
-      {
-        "title": "Barton Fink",
-        "tmdb_id": 290,
-        "imdb_id": "tt0101410"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1991",
-    "nominees": [
-      "Mercedes Ruehl"
-    ],
-    "movies": [
-      {
-        "title": "The Fisher King",
-        "tmdb_id": 177,
-        "imdb_id": "tt0101889"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1991",
-    "nominees": [
-      "Diane Ladd"
-    ],
-    "movies": [
-      {
-        "title": "Rambling Rose",
-        "tmdb_id": 32221,
-        "imdb_id": "tt0102753"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1991",
-    "nominees": [
-      "Juliette Lewis"
-    ],
-    "movies": [
-      {
-        "title": "Cape Fear",
-        "tmdb_id": 1598,
-        "imdb_id": "tt0101540"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1991",
-    "nominees": [
-      "Kate Nelligan"
-    ],
-    "movies": [
-      {
-        "title": "The Prince of Tides",
-        "tmdb_id": 10333,
-        "imdb_id": "tt0102713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1991",
-    "nominees": [
-      "Jessica Tandy"
-    ],
-    "movies": [
-      {
-        "title": "Fried Green Tomatoes",
-        "tmdb_id": 1633,
-        "imdb_id": "tt0101921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1991",
-    "nominees": [
-      "Jonathan Demme"
-    ],
-    "movies": [
-      {
-        "title": "The Silence of the Lambs",
-        "tmdb_id": 274,
-        "imdb_id": "tt0102926"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1991",
-    "nominees": [
-      "Barry Levinson"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1991",
-    "nominees": [
-      "Ridley Scott"
-    ],
-    "movies": [
-      {
-        "title": "Thelma & Louise",
-        "tmdb_id": 1541,
-        "imdb_id": "tt0103074"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1991",
-    "nominees": [
-      "John Singleton"
-    ],
-    "movies": [
-      {
-        "title": "Boyz n the Hood",
-        "tmdb_id": 650,
-        "imdb_id": "tt0101507"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1991",
-    "nominees": [
-      "Oliver Stone"
-    ],
-    "movies": [
-      {
-        "title": "JFK",
-        "tmdb_id": 820,
-        "imdb_id": "tt0102138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1991",
-    "nominees": [
-      "Ted Tally"
-    ],
-    "movies": [
-      {
-        "title": "The Silence of the Lambs",
-        "tmdb_id": 274,
-        "imdb_id": "tt0102926"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1991",
-    "nominees": [
-      "Agnieszka Holland"
-    ],
-    "movies": [
-      {
-        "title": "Europa Europa",
-        "tmdb_id": 8996,
-        "imdb_id": "tt0099776"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1991",
-    "nominees": [
-      "Fannie Flagg",
-      "Carol Sobieski"
-    ],
-    "movies": [
-      {
-        "title": "Fried Green Tomatoes",
-        "tmdb_id": 1633,
-        "imdb_id": "tt0101921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1991",
-    "nominees": [
-      "Oliver Stone",
-      "Zachary Sklar"
-    ],
-    "movies": [
-      {
-        "title": "JFK",
-        "tmdb_id": 820,
-        "imdb_id": "tt0102138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1991",
-    "nominees": [
-      "Pat Conroy",
-      "Becky Johnston"
-    ],
-    "movies": [
-      {
-        "title": "The Prince of Tides",
-        "tmdb_id": 10333,
-        "imdb_id": "tt0102713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1991",
-    "nominees": [
-      "Callie Khouri"
-    ],
-    "movies": [
-      {
-        "title": "Thelma & Louise",
-        "tmdb_id": 1541,
-        "imdb_id": "tt0103074"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1991",
-    "nominees": [
-      "John Singleton"
-    ],
-    "movies": [
-      {
-        "title": "Boyz n the Hood",
-        "tmdb_id": 650,
-        "imdb_id": "tt0101507"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1991",
-    "nominees": [
-      "James Toback"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1991",
-    "nominees": [
-      "Richard LaGravenese"
-    ],
-    "movies": [
-      {
-        "title": "The Fisher King",
-        "tmdb_id": 177,
-        "imdb_id": "tt0101889"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1991",
-    "nominees": [
-      "Lawrence Kasdan",
-      "Meg Kasdan"
-    ],
-    "movies": [
-      {
-        "title": "Grand Canyon",
-        "tmdb_id": 13697,
-        "imdb_id": "tt0101969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1991",
-    "nominees": [
-      "Alan Menken"
-    ],
-    "movies": [
-      {
-        "title": "Beauty and the Beast",
-        "tmdb_id": 10020,
-        "imdb_id": "tt0101414"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1991",
-    "nominees": [
-      "Ennio Morricone"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1991",
-    "nominees": [
-      "George Fenton"
-    ],
-    "movies": [
-      {
-        "title": "The Fisher King",
-        "tmdb_id": 177,
-        "imdb_id": "tt0101889"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1991",
-    "nominees": [
-      "James Newton Howard"
-    ],
-    "movies": [
-      {
-        "title": "The Prince of Tides",
-        "tmdb_id": 10333,
-        "imdb_id": "tt0102713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1991",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "JFK",
-        "tmdb_id": 820,
-        "imdb_id": "tt0102138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1991",
-    "nominees": [
-      "Beauty",
-      "the Beast"
-    ],
-    "movies": [
-      {
-        "title": "Beauty and the Beast",
-        "tmdb_id": 10020,
-        "imdb_id": "tt0101414"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1991",
-    "nominees": [
-      "Be Our Guest"
-    ],
-    "movies": [
-      {
-        "title": "Beauty and the Beast",
-        "tmdb_id": 10020,
-        "imdb_id": "tt0101414"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1991",
-    "nominees": [
-      "Belle"
-    ],
-    "movies": [
-      {
-        "title": "Beauty and the Beast",
-        "tmdb_id": 10020,
-        "imdb_id": "tt0101414"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1991",
-    "nominees": [
-      "When You're Alone"
-    ],
-    "movies": [
-      {
-        "title": "Hook",
-        "tmdb_id": 879,
-        "imdb_id": "tt0102057"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1991",
-    "nominees": [
-      "(Everything I Do) I Do It For You"
-    ],
-    "movies": [
-      {
-        "title": "Robin Hood: Prince of Thieves",
-        "tmdb_id": 8367,
-        "imdb_id": "tt0102798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1991",
-    "nominees": [
-      "Mediterraneo"
-    ],
-    "movies": [
-      {
-        "title": "Mediterraneo",
-        "tmdb_id": 38251,
-        "imdb_id": "tt0102426"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1991",
-    "nominees": [
-      "Children of Nature"
-    ],
-    "movies": [
-      {
-        "title": "Children of Nature",
-        "tmdb_id": 26880,
-        "imdb_id": "tt0101526"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1991",
-    "nominees": [
-      "The Elementary School"
-    ],
-    "movies": [
-      {
-        "title": "The Elementary School",
-        "tmdb_id": 18141,
-        "imdb_id": "tt0102571"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1991",
-    "nominees": [
-      "The Ox"
-    ],
-    "movies": [
-      {
-        "title": "The Ox",
-        "tmdb_id": 125882,
-        "imdb_id": "tt0102619"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1991",
-    "nominees": [
-      "Raise the Red Lantern"
-    ],
-    "movies": [
-      {
-        "title": "Raise the Red Lantern",
-        "tmdb_id": 10404,
-        "imdb_id": "tt0101640"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1991",
-    "nominees": [
-      "In the Shadow of the Stars"
-    ],
-    "movies": [
-      {
-        "title": "In the Shadow of the Stars",
-        "tmdb_id": 114525,
-        "imdb_id": "tt0102114"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1991",
-    "nominees": [
-      "Death on the Job"
-    ],
-    "movies": [
-      {
-        "title": "Death on the Job",
-        "tmdb_id": 149397,
-        "imdb_id": "tt0101693"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1991",
-    "nominees": [
-      "Doing Time: Life Inside the Big House"
-    ],
-    "movies": [
-      {
-        "title": "Doing Time: Life Inside the Big House",
-        "tmdb_id": 149398,
-        "imdb_id": "tt0101749"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1991",
-    "nominees": [
-      "The Restless Conscience: Resistance to Hitler Within Germany 1933-1945"
-    ],
-    "movies": [
-      {
-        "title": "The Restless Conscience: Resistance to Hitler Within Germany 1933-1945",
-        "tmdb_id": 136649,
-        "imdb_id": "tt0102778"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1991",
-    "nominees": [
-      "Wild by Law"
-    ],
-    "movies": [
-      {
-        "title": "Wild by Law",
-        "tmdb_id": 136648,
-        "imdb_id": "tt0103260"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1991",
-    "nominees": [
-      "Deadly Deception: General Electric, Nuclear Weapons and Our Environment"
-    ],
-    "movies": [
-      {
-        "title": "Deadly Deception: General Electric, Nuclear Weapons and Our Environment",
-        "tmdb_id": 244733,
-        "imdb_id": "tt0101683"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1991",
-    "nominees": [
-      "A Little Vicious"
-    ],
-    "movies": [
-      {
-        "title": "A Little Vicious",
-        "tmdb_id": 244735,
-        "imdb_id": "tt0102320"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1991",
-    "nominees": [
-      "The Mark of the Maker"
-    ],
-    "movies": [
-      {
-        "title": "The Mark of the Maker",
-        "tmdb_id": 244737,
-        "imdb_id": "tt0102406"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1991",
-    "nominees": [
-      "Birdnesters of Thailand"
-    ],
-    "movies": [
-      {
-        "title": "Birdnesters of Thailand",
-        "tmdb_id": 244734,
-        "imdb_id": "tt0101457"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1991",
-    "nominees": [
-      "Memorial: Letters from American Soldiers"
-    ],
-    "movies": [
-      {
-        "title": "Memorial: Letters from American Soldiers",
-        "tmdb_id": 244738,
-        "imdb_id": "tt0102430"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1991",
-    "nominees": [
-      "Manipulation"
-    ],
-    "movies": [
-      {
-        "title": "Manipulation",
-        "tmdb_id": 47207,
-        "imdb_id": "tt0102392"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1991",
-    "nominees": [
-      "Blackfly"
-    ],
-    "movies": [
-      {
-        "title": "Blackfly",
-        "tmdb_id": 48608,
-        "imdb_id": "tt0101468"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1991",
-    "nominees": [
-      "Strings"
-    ],
-    "movies": [
-      {
-        "title": "Strings",
-        "tmdb_id": 209690,
-        "imdb_id": "tt0102997"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1991",
-    "nominees": [
-      "Session Man"
-    ],
-    "movies": [
-      {
-        "title": "Session Man",
-        "tmdb_id": 244729,
-        "imdb_id": "tt0108086"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1991",
-    "nominees": [
-      "Birch Street Gym"
-    ],
-    "movies": [
-      {
-        "title": "Birch Street Gym",
-        "tmdb_id": 244730,
-        "imdb_id": "tt0101456"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1991",
-    "nominees": [
-      "Last Breeze of Summer"
-    ],
-    "movies": [
-      {
-        "title": "Last Breeze of Summer",
-        "tmdb_id": 244731,
-        "imdb_id": "tt0102268"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Dennis Gassner",
-      "Nancy Haigh"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Dennis Gassner",
-      "Nancy Haigh"
-    ],
-    "movies": [
-      {
-        "title": "Barton Fink",
-        "tmdb_id": 290,
-        "imdb_id": "tt0101410"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Mel Bourne",
-      "Cindy Carr"
-    ],
-    "movies": [
-      {
-        "title": "The Fisher King",
-        "tmdb_id": 177,
-        "imdb_id": "tt0101889"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Norman Garwood",
-      "Garrett Lewis"
-    ],
-    "movies": [
-      {
-        "title": "Hook",
-        "tmdb_id": 879,
-        "imdb_id": "tt0102057"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Paul Sylbert",
-      "Caryl Heller"
-    ],
-    "movies": [
-      {
-        "title": "The Prince of Tides",
-        "tmdb_id": 10333,
-        "imdb_id": "tt0102713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1991",
-    "nominees": [
-      "Robert Richardson"
-    ],
-    "movies": [
-      {
-        "title": "JFK",
-        "tmdb_id": 820,
-        "imdb_id": "tt0102138"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1991",
-    "nominees": [
-      "Adam Greenberg"
-    ],
-    "movies": [
-      {
-        "title": "Terminator 2: Judgment Day",
-        "tmdb_id": 280,
-        "imdb_id": "tt0103064"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1991",
-    "nominees": [
-      "Adrian Biddle"
-    ],
-    "movies": [
-      {
-        "title": "Thelma & Louise",
-        "tmdb_id": 1541,
-        "imdb_id": "tt0103074"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1991",
-    "nominees": [
-      "Allen Daviau"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1991",
-    "nominees": [
-      "Stephen Goldblatt"
-    ],
-    "movies": [
-      {
-        "title": "The Prince of Tides",
-        "tmdb_id": 10333,
-        "imdb_id": "tt0102713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1991",
-    "nominees": [
-      "Joe Hutshing",
-      "Pietro Scalia"
-    ],
-    "movies": [
-      {
-        "title": "JFK",
-        "tmdb_id": 820,
-        "imdb_id": "tt0102138"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1991",
-    "nominees": [
-      "Conrad Buff",
-      "Mark Goldblatt",
-      "Richard A. Harris"
-    ],
-    "movies": [
-      {
-        "title": "Terminator 2: Judgment Day",
-        "tmdb_id": 280,
-        "imdb_id": "tt0103064"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1991",
-    "nominees": [
-      "Craig McKay"
-    ],
-    "movies": [
-      {
-        "title": "The Silence of the Lambs",
-        "tmdb_id": 274,
-        "imdb_id": "tt0102926"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1991",
-    "nominees": [
-      "Gerry Hambling"
-    ],
-    "movies": [
-      {
-        "title": "The Commitments",
-        "tmdb_id": 11663,
-        "imdb_id": "tt0101605"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1991",
-    "nominees": [
-      "Thom Noble"
-    ],
-    "movies": [
-      {
-        "title": "Thelma & Louise",
-        "tmdb_id": 1541,
-        "imdb_id": "tt0103074"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1991",
-    "nominees": [
-      "Dennis Muren",
-      "Stan Winston",
-      "Gene Warren Jr.",
-      "Robert Skotak"
-    ],
-    "movies": [
-      {
-        "title": "Terminator 2: Judgment Day",
-        "tmdb_id": 280,
-        "imdb_id": "tt0103064"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1991",
-    "nominees": [
-      "Eric Brevig",
-      "Harley Jessup",
-      "Mark Sullivan",
-      "Michael Lantieri"
-    ],
-    "movies": [
-      {
-        "title": "Hook",
-        "tmdb_id": 879,
-        "imdb_id": "tt0102057"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1991",
-    "nominees": [
-      "Mikael Salomon",
-      "Allen Hall",
-      "Clay Pinney",
-      "Scott Farrar"
-    ],
-    "movies": [
-      {
-        "title": "Backdraft",
-        "tmdb_id": 2924,
-        "imdb_id": "tt0101393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1991",
-    "nominees": [
-      "Tom Johnson",
-      "Gary Rydstrom",
-      "Gary Summers",
-      "Lee Orloff"
-    ],
-    "movies": [
-      {
-        "title": "Terminator 2: Judgment Day",
-        "tmdb_id": 280,
-        "imdb_id": "tt0103064"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1991",
-    "nominees": [
-      "Gary Summers",
-      "Randy Thom",
-      "Gary Rydstrom",
-      "Glenn Williams"
-    ],
-    "movies": [
-      {
-        "title": "Backdraft",
-        "tmdb_id": 2924,
-        "imdb_id": "tt0101393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1991",
-    "nominees": [
-      "Terry Porter",
-      "Mel Metcalfe",
-      "David J. Hudson",
-      "Doc Kane"
-    ],
-    "movies": [
-      {
-        "title": "Beauty and the Beast",
-        "tmdb_id": 10020,
-        "imdb_id": "tt0101414"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1991",
-    "nominees": [
-      "Michael Minkler",
-      "Gregg Landaker",
-      "Tod A. Maitland"
-    ],
-    "movies": [
-      {
-        "title": "JFK",
-        "tmdb_id": 820,
-        "imdb_id": "tt0102138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1991",
-    "nominees": [
-      "Tom Fleischman",
-      "Christopher Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Silence of the Lambs",
-        "tmdb_id": 274,
-        "imdb_id": "tt0102926"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1991",
-    "nominees": [
-      "Gary Rydstrom",
-      "Gloria Borders"
-    ],
-    "movies": [
-      {
-        "title": "Terminator 2: Judgment Day",
-        "tmdb_id": 280,
-        "imdb_id": "tt0103064"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1991",
-    "nominees": [
-      "Gary Rydstrom",
-      "Richard Hymns"
-    ],
-    "movies": [
-      {
-        "title": "Backdraft",
-        "tmdb_id": 2924,
-        "imdb_id": "tt0101393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1991",
-    "nominees": [
-      "George Watters",
-      "F. Hudson Miller"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek VI: The Undiscovered Country",
-        "tmdb_id": 174,
-        "imdb_id": "tt0102975"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1991",
-    "nominees": [
-      "Stan Winston",
-      "Jeff Dawn"
-    ],
-    "movies": [
-      {
-        "title": "Terminator 2: Judgment Day",
-        "tmdb_id": 280,
-        "imdb_id": "tt0103064"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1991",
-    "nominees": [
-      "Christina Smith",
-      "Monty Westmore",
-      "Greg Cannom"
-    ],
-    "movies": [
-      {
-        "title": "Hook",
-        "tmdb_id": 879,
-        "imdb_id": "tt0102057"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1991",
-    "nominees": [
-      "Michael M. Mills",
-      "Edward French",
-      "Richard Snell"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek VI: The Undiscovered Country",
-        "tmdb_id": 174,
-        "imdb_id": "tt0102975"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Albert Wolsky"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy",
-        "tmdb_id": 10337,
-        "imdb_id": "tt0101516"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Anthony Powell"
-    ],
-    "movies": [
-      {
-        "title": "Hook",
-        "tmdb_id": 879,
-        "imdb_id": "tt0102057"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Corinne Jorry"
-    ],
-    "movies": [
-      {
-        "title": "Madame Bovary",
-        "tmdb_id": 2528,
-        "imdb_id": "tt0102368"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Richard Hornung"
-    ],
-    "movies": [
-      {
-        "title": "Barton Fink",
-        "tmdb_id": 290,
-        "imdb_id": "tt0101410"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1991",
-    "nominees": [
-      "Ruth Myers"
-    ],
-    "movies": [
-      {
-        "title": "The Addams Family",
-        "tmdb_id": 2907,
-        "imdb_id": "tt0101272"
-      }
-    ],
-    "won": false
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "Warren Beatty",
+    "Nominees": "Warren Beatty",
+    "NomineeIds": "nm0000886",
+    "Winner": "",
+    "Detail": "Bugsy Siegel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Cape Fear",
+    "FilmId": "tt0101540",
+    "Name": "Robert De Niro",
+    "Nominees": "Robert De Niro",
+    "NomineeIds": "nm0000134",
+    "Winner": "",
+    "Detail": "Max Cady",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Silence of the Lambs",
+    "FilmId": "tt0102926",
+    "Name": "Anthony Hopkins",
+    "Nominees": "Anthony Hopkins",
+    "NomineeIds": "nm0000164",
+    "Winner": "True",
+    "Detail": "Dr. Hannibal Lecter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Prince of Tides",
+    "FilmId": "tt0102713",
+    "Name": "Nick Nolte",
+    "Nominees": "Nick Nolte",
+    "NomineeIds": "nm0000560",
+    "Winner": "",
+    "Detail": "Tom Wingo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Fisher King",
+    "FilmId": "tt0101889",
+    "Name": "Robin Williams",
+    "Nominees": "Robin Williams",
+    "NomineeIds": "nm0000245",
+    "Winner": "",
+    "Detail": "Parry",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "JFK",
+    "FilmId": "tt0102138",
+    "Name": "Tommy Lee Jones",
+    "Nominees": "Tommy Lee Jones",
+    "NomineeIds": "nm0000169",
+    "Winner": "",
+    "Detail": "Clay Shaw",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "Harvey Keitel",
+    "Nominees": "Harvey Keitel",
+    "NomineeIds": "nm0000172",
+    "Winner": "",
+    "Detail": "Mickey Cohen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "Ben Kingsley",
+    "Nominees": "Ben Kingsley",
+    "NomineeIds": "nm0001426",
+    "Winner": "",
+    "Detail": "Meyer Lansky",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Barton Fink",
+    "FilmId": "tt0101410",
+    "Name": "Michael Lerner",
+    "Nominees": "Michael Lerner",
+    "NomineeIds": "nm0503627",
+    "Winner": "",
+    "Detail": "Jack Lipnick",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "City Slickers",
+    "FilmId": "tt0101587",
+    "Name": "Jack Palance",
+    "Nominees": "Jack Palance",
+    "NomineeIds": "nm0001588",
+    "Winner": "True",
+    "Detail": "Curly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Thelma & Louise",
+    "FilmId": "tt0103074",
+    "Name": "Geena Davis",
+    "Nominees": "Geena Davis",
+    "NomineeIds": "nm0000133",
+    "Winner": "",
+    "Detail": "Thelma",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Rambling Rose",
+    "FilmId": "tt0102753",
+    "Name": "Laura Dern",
+    "Nominees": "Laura Dern",
+    "NomineeIds": "nm0000368",
+    "Winner": "",
+    "Detail": "Rose",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Silence of the Lambs",
+    "FilmId": "tt0102926",
+    "Name": "Jodie Foster",
+    "Nominees": "Jodie Foster",
+    "NomineeIds": "nm0000149",
+    "Winner": "True",
+    "Detail": "Clarice Starling",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "For the Boys",
+    "FilmId": "tt0101902",
+    "Name": "Bette Midler",
+    "Nominees": "Bette Midler",
+    "NomineeIds": "nm0000541",
+    "Winner": "",
+    "Detail": "Dixie Leonard",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Thelma & Louise",
+    "FilmId": "tt0103074",
+    "Name": "Susan Sarandon",
+    "Nominees": "Susan Sarandon",
+    "NomineeIds": "nm0000215",
+    "Winner": "",
+    "Detail": "Louise",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Rambling Rose",
+    "FilmId": "tt0102753",
+    "Name": "Diane Ladd",
+    "Nominees": "Diane Ladd",
+    "NomineeIds": "nm0002663",
+    "Winner": "",
+    "Detail": "Mother",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Cape Fear",
+    "FilmId": "tt0101540",
+    "Name": "Juliette Lewis",
+    "Nominees": "Juliette Lewis",
+    "NomineeIds": "nm0000496",
+    "Winner": "",
+    "Detail": "Danielle Bowden",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Prince of Tides",
+    "FilmId": "tt0102713",
+    "Name": "Kate Nelligan",
+    "Nominees": "Kate Nelligan",
+    "NomineeIds": "nm0625075",
+    "Winner": "",
+    "Detail": "Lila Wingo Newbury",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Fisher King",
+    "FilmId": "tt0101889",
+    "Name": "Mercedes Ruehl",
+    "Nominees": "Mercedes Ruehl",
+    "NomineeIds": "nm0001689",
+    "Winner": "True",
+    "Detail": "Anne",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Fried Green Tomatoes",
+    "FilmId": "tt0101921",
+    "Name": "Jessica Tandy",
+    "Nominees": "Jessica Tandy",
+    "NomineeIds": "nm0001788",
+    "Winner": "",
+    "Detail": "Ninny Threadgoode",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Barton Fink",
+    "FilmId": "tt0101410",
+    "Name": "Art Direction: Dennis Gassner; Set Decoration: Nancy Haigh",
+    "Nominees": "Dennis Gassner|Nancy Haigh",
+    "NomineeIds": "nm0309357|nm0354101",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "Art Direction: Dennis Gassner; Set Decoration: Nancy Haigh",
+    "Nominees": "Dennis Gassner|Nancy Haigh",
+    "NomineeIds": "nm0309357|nm0354101",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Fisher King",
+    "FilmId": "tt0101889",
+    "Name": "Art Direction: Mel Bourne; Set Decoration: Cindy Carr",
+    "Nominees": "Mel Bourne|Cindy Carr",
+    "NomineeIds": "nm0100080|nm0139649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Hook",
+    "FilmId": "tt0102057",
+    "Name": "Art Direction: Norman Garwood; Set Decoration: Garrett Lewis",
+    "Nominees": "Norman Garwood|Garrett Lewis",
+    "NomineeIds": "nm0308841|nm0507204",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Prince of Tides",
+    "FilmId": "tt0102713",
+    "Name": "Art Direction: Paul Sylbert; Set Decoration: Caryl Heller",
+    "Nominees": "Paul Sylbert|Caryl Heller",
+    "NomineeIds": "nm0843128|nm0375288",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "Allen Daviau",
+    "Nominees": "Allen Daviau",
+    "NomineeIds": "nm0005679",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "JFK",
+    "FilmId": "tt0102138",
+    "Name": "Robert Richardson",
+    "Nominees": "Robert Richardson",
+    "NomineeIds": "nm0724744",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Prince of Tides",
+    "FilmId": "tt0102713",
+    "Name": "Stephen Goldblatt",
+    "Nominees": "Stephen Goldblatt",
+    "NomineeIds": "nm0003552",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Terminator 2: Judgment Day",
+    "FilmId": "tt0103064",
+    "Name": "Adam Greenberg",
+    "Nominees": "Adam Greenberg",
+    "NomineeIds": "nm0004229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Thelma & Louise",
+    "FilmId": "tt0103074",
+    "Name": "Adrian Biddle",
+    "Nominees": "Adrian Biddle",
+    "NomineeIds": "nm0000939",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Addams Family",
+    "FilmId": "tt0101272",
+    "Name": "Ruth Myers",
+    "Nominees": "Ruth Myers",
+    "NomineeIds": "nm0616848",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Barton Fink",
+    "FilmId": "tt0101410",
+    "Name": "Richard Hornung",
+    "Nominees": "Richard Hornung",
+    "NomineeIds": "nm0395224",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "Albert Wolsky",
+    "Nominees": "Albert Wolsky",
+    "NomineeIds": "nm0938717",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Hook",
+    "FilmId": "tt0102057",
+    "Name": "Anthony Powell",
+    "Nominees": "Anthony Powell",
+    "NomineeIds": "nm0694018",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Madame Bovary",
+    "FilmId": "tt0102368",
+    "Name": "Corinne Jorry",
+    "Nominees": "Corinne Jorry",
+    "NomineeIds": "nm0430452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Boyz N the Hood",
+    "FilmId": "tt0101507",
+    "Name": "John Singleton",
+    "Nominees": "John Singleton",
+    "NomineeIds": "nm0005436",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "Barry Levinson",
+    "Nominees": "Barry Levinson",
+    "NomineeIds": "nm0001469",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "JFK",
+    "FilmId": "tt0102138",
+    "Name": "Oliver Stone",
+    "Nominees": "Oliver Stone",
+    "NomineeIds": "nm0000231",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Silence of the Lambs",
+    "FilmId": "tt0102926",
+    "Name": "Jonathan Demme",
+    "Nominees": "Jonathan Demme",
+    "NomineeIds": "nm0001129",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Thelma & Louise",
+    "FilmId": "tt0103074",
+    "Name": "Ridley Scott",
+    "Nominees": "Ridley Scott",
+    "NomineeIds": "nm0000631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Death on the Job",
+    "FilmId": "tt0101693",
+    "Name": "Vince DiPersio and William Guttentag, Producers",
+    "Nominees": "Vince DiPersio|William Guttentag",
+    "NomineeIds": "nm0228122|nm0349702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Doing Time: Life inside the Big House",
+    "FilmId": "tt0101749",
+    "Name": "Alan Raymond and Susan Raymond, Producers",
+    "Nominees": "Alan Raymond|Susan Raymond",
+    "NomineeIds": "nm0713203|nm0713371",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "In the Shadow of the Stars",
+    "FilmId": "tt0102114",
+    "Name": "Allie Light and Irving Saraf, Producers",
+    "Nominees": "Allie Light|Irving Saraf",
+    "NomineeIds": "nm0509921|nm0764770",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Restless Conscience",
+    "FilmId": "tt0102778",
+    "Name": "Hava Kohav Beller, Producer",
+    "Nominees": "Hava Kohav Beller",
+    "NomineeIds": "nm0068874",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Wild by Law",
+    "FilmId": "tt0103260",
+    "Name": "Lawrence Hott and Diane Garey, Producers",
+    "Nominees": "Lawrence Hott|Diane Garey",
+    "NomineeIds": "nm0396248|nm0307233",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Birdnesters of Thailand (aka 'Shadow Hunters')",
+    "FilmId": "tt0101457",
+    "Name": "Eric Valli and Alain Majani, Producers",
+    "Nominees": "Eric Valli|Alain Majani",
+    "NomineeIds": "nm0885108|nm0195751",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Deadly Deception: General Electric, Nuclear Weapons and Our Environment",
+    "FilmId": "tt0101683",
+    "Name": "Debra Chasnoff, Producer",
+    "Nominees": "Debra Chasnoff",
+    "NomineeIds": "nm0153899",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Little Vicious",
+    "FilmId": "tt0102320",
+    "Name": "Immy Humes, Producer",
+    "Nominees": "Immy Humes",
+    "NomineeIds": "nm0401795",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Mark of the Maker",
+    "FilmId": "tt0102406",
+    "Name": "David McGowan, Producer",
+    "Nominees": "David McGowan",
+    "NomineeIds": "nm1117217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Memorial: Letters from American Soldiers",
+    "FilmId": "tt0102430",
+    "Name": "Bill Couturié and Bernard Edelman, Producers",
+    "Nominees": "Bill Couturié|Bernard Edelman",
+    "NomineeIds": "nm0184323|nm0248975",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Commitments",
+    "FilmId": "tt0101605",
+    "Name": "Gerry Hambling",
+    "Nominees": "Gerry Hambling",
+    "NomineeIds": "nm0357421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "JFK",
+    "FilmId": "tt0102138",
+    "Name": "Joe Hutshing, Pietro Scalia",
+    "Nominees": "Joe Hutshing|Pietro Scalia",
+    "NomineeIds": "nm0404528|nm0768817",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Silence of the Lambs",
+    "FilmId": "tt0102926",
+    "Name": "Craig McKay",
+    "Nominees": "Craig McKay",
+    "NomineeIds": "nm0570947",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Terminator 2: Judgment Day",
+    "FilmId": "tt0103064",
+    "Name": "Conrad Buff, Mark Goldblatt, Richard A. Harris",
+    "Nominees": "Conrad Buff|Mark Goldblatt|Richard A. Harris",
+    "NomineeIds": "nm0119322|nm0325358|nm0365239",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Thelma & Louise",
+    "FilmId": "tt0103074",
+    "Name": "Thom Noble",
+    "Nominees": "Thom Noble",
+    "NomineeIds": "nm0633677",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Children of Nature",
+    "FilmId": "tt0101526",
+    "Name": "Iceland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Elementary School",
+    "FilmId": "tt0102571",
+    "Name": "Czechoslovakia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Mediterraneo",
+    "FilmId": "tt0102426",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Ox",
+    "FilmId": "tt0102619",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Raise the Red Lantern",
+    "FilmId": "tt0101640",
+    "Name": "Hong Kong",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Hook",
+    "FilmId": "tt0102057",
+    "Name": "Christina Smith, Monty Westmore, Greg Cannom",
+    "Nominees": "Christina Smith|Monty Westmore|Greg Cannom",
+    "NomineeIds": "nm0807702|nm0922881|nm0134148",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Star Trek VI The Undiscovered Country",
+    "FilmId": "tt0102975",
+    "Name": "Michael Mills, Edward French, Richard Snell",
+    "Nominees": "Michael Mills|Edward French|Richard Snell",
+    "NomineeIds": "nm0590114|nm0294076|nm0811057",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Terminator 2: Judgment Day",
+    "FilmId": "tt0103064",
+    "Name": "Stan Winston, Jeff Dawn",
+    "Nominees": "Stan Winston|Jeff Dawn",
+    "NomineeIds": "nm0935644|nm0206015",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Beauty and the Beast",
+    "FilmId": "tt0101414",
+    "Name": "Alan Menken",
+    "Nominees": "Alan Menken",
+    "NomineeIds": "nm0579678",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "Ennio Morricone",
+    "Nominees": "Ennio Morricone",
+    "NomineeIds": "nm0001553",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Fisher King",
+    "FilmId": "tt0101889",
+    "Name": "George Fenton",
+    "Nominees": "George Fenton",
+    "NomineeIds": "nm0006070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "JFK",
+    "FilmId": "tt0102138",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Prince of Tides",
+    "FilmId": "tt0102713",
+    "Name": "James Newton Howard",
+    "Nominees": "James Newton Howard",
+    "NomineeIds": "nm0006133",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Hook",
+    "FilmId": "tt0102057",
+    "Name": "Music by John Williams; Lyric by Leslie Bricusse",
+    "Nominees": "John Williams|Leslie Bricusse",
+    "NomineeIds": "nm0002354|nm0108634",
+    "Winner": "",
+    "Detail": "When You're Alone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Beauty and the Beast",
+    "FilmId": "tt0101414",
+    "Name": "Music by Alan Menken; Lyric by Howard Ashman",
+    "Nominees": "Alan Menken|Howard Ashman",
+    "NomineeIds": "nm0579678|nm0039141",
+    "Winner": "",
+    "Detail": "Be Our Guest",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Beauty and the Beast",
+    "FilmId": "tt0101414",
+    "Name": "Music by Alan Menken; Lyric by Howard Ashman",
+    "Nominees": "Alan Menken|Howard Ashman",
+    "NomineeIds": "nm0579678|nm0039141",
+    "Winner": "True",
+    "Detail": "Beauty And The Beast",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Beauty and the Beast",
+    "FilmId": "tt0101414",
+    "Name": "Music by Alan Menken; Lyric by Howard Ashman",
+    "Nominees": "Alan Menken|Howard Ashman",
+    "NomineeIds": "nm0579678|nm0039141",
+    "Winner": "",
+    "Detail": "Belle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Robin Hood: Prince of Thieves",
+    "FilmId": "tt0102798",
+    "Name": "Music by Michael Kamen; Lyric by Bryan Adams and Robert John Lange",
+    "Nominees": "Michael Kamen|Bryan Adams|Robert John Lange",
+    "NomineeIds": "nm0004383|nm0001898|nm0486172",
+    "Winner": "",
+    "Detail": "(Everything I Do) I Do It For You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Beauty and the Beast",
+    "FilmId": "tt0101414",
+    "Name": "Don Hahn, Producer",
+    "Nominees": "Don Hahn",
+    "NomineeIds": "nm0353893",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "Mark Johnson, Barry Levinson and Warren Beatty, Producers",
+    "Nominees": "Mark Johnson|Barry Levinson|Warren Beatty",
+    "NomineeIds": "nm0425741|nm0001469|nm0000886",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "JFK",
+    "FilmId": "tt0102138",
+    "Name": "A. Kitman Ho and Oliver Stone, Producers",
+    "Nominees": "A. Kitman Ho|Oliver Stone",
+    "NomineeIds": "nm0457715|nm0000231",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Prince of Tides",
+    "FilmId": "tt0102713",
+    "Name": "Barbra Streisand and Andrew Karsch, Producers",
+    "Nominees": "Barbra Streisand|Andrew Karsch",
+    "NomineeIds": "nm0000659|nm0440140",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Silence of the Lambs",
+    "FilmId": "tt0102926",
+    "Name": "Edward Saxon, Kenneth Utt and Ron Bozman, Producers",
+    "Nominees": "Edward Saxon|Kenneth Utt|Ron Bozman",
+    "NomineeIds": "nm0768324|nm0882588|nm0102508",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Blackfly",
+    "FilmId": "tt0101468",
+    "Name": "Christopher Hinton",
+    "Nominees": "Christopher Hinton",
+    "NomineeIds": "nm0385975",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Manipulation",
+    "FilmId": "tt0102392",
+    "Name": "Daniel Greaves",
+    "Nominees": "Daniel Greaves",
+    "NomineeIds": "nm0337319",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Strings",
+    "FilmId": "tt0102997",
+    "Name": "Wendy Tilby",
+    "Nominees": "Wendy Tilby",
+    "NomineeIds": "nm0863195",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Birch Street Gym",
+    "FilmId": "tt0101456",
+    "Name": "Stephen Kessler, Thomas R. Conroy",
+    "Nominees": "Stephen Kessler|Thomas R. Conroy",
+    "NomineeIds": "nm0450387|nm0175865",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Last Breeze of Summer",
+    "FilmId": "tt0102268",
+    "Name": "David M. Massey",
+    "Nominees": "David M. Massey",
+    "NomineeIds": "nm0557294",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Session Man",
+    "FilmId": "tt0108086",
+    "Name": "Seth Winston, Rob Fried",
+    "Nominees": "Seth Winston|Rob Fried",
+    "NomineeIds": "nm0935641|nm0294975",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Backdraft",
+    "FilmId": "tt0101393",
+    "Name": "Gary Summers, Randy Thom, Gary Rydstrom, Glenn Williams",
+    "Nominees": "Gary Summers|Randy Thom|Gary Rydstrom|Glenn Williams",
+    "NomineeIds": "nm0838707|nm0858378|nm0003977|nm1491296",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Beauty and the Beast",
+    "FilmId": "tt0101414",
+    "Name": "Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane",
+    "Nominees": "Terry Porter|Mel Metcalfe|David J. Hudson|Doc Kane",
+    "NomineeIds": "nm0692310|nm0582467|nm0399812|nm0437301",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "JFK",
+    "FilmId": "tt0102138",
+    "Name": "Michael Minkler, Gregg Landaker, Tod A. Maitland",
+    "Nominees": "Michael Minkler|Gregg Landaker|Tod A. Maitland",
+    "NomineeIds": "nm0591444|nm0484414|nm0537972",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Silence of the Lambs",
+    "FilmId": "tt0102926",
+    "Name": "Tom Fleischman, Christopher Newman",
+    "Nominees": "Tom Fleischman|Christopher Newman",
+    "NomineeIds": "nm0281530|nm0628039",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Terminator 2: Judgment Day",
+    "FilmId": "tt0103064",
+    "Name": "Tom Johnson, Gary Rydstrom, Gary Summers, Lee Orloff",
+    "Nominees": "Tom Johnson|Gary Rydstrom|Gary Summers|Lee Orloff",
+    "NomineeIds": "nm0426348|nm0003977|nm0838707|nm0650090",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Backdraft",
+    "FilmId": "tt0101393",
+    "Name": "Gary Rydstrom, Richard Hymns",
+    "Nominees": "Gary Rydstrom|Richard Hymns",
+    "NomineeIds": "nm0003977|nm0405232",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Star Trek VI The Undiscovered Country",
+    "FilmId": "tt0102975",
+    "Name": "George Watters II, F. Hudson Miller",
+    "Nominees": "George Watters II|F. Hudson Miller",
+    "NomineeIds": "nm0915036|nm0588326",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Terminator 2: Judgment Day",
+    "FilmId": "tt0103064",
+    "Name": "Gary Rydstrom, Gloria S. Borders",
+    "Nominees": "Gary Rydstrom|Gloria S. Borders",
+    "NomineeIds": "nm0003977|nm0096187",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Backdraft",
+    "FilmId": "tt0101393",
+    "Name": "Mikael Salomon, Allen Hall, Clay Pinney, Scott Farrar",
+    "Nominees": "Mikael Salomon|Allen Hall|Clay Pinney|Scott Farrar",
+    "NomineeIds": "nm0004121|nm0355292|nm0684439|nm0268141",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Hook",
+    "FilmId": "tt0102057",
+    "Name": "Eric Brevig, Harley Jessup, Mark Sullivan, Michael Lantieri",
+    "Nominees": "Eric Brevig|Harley Jessup|Mark Sullivan|Michael Lantieri",
+    "NomineeIds": "nm0108094|nm0422263|nm0838233|nm0487177",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Terminator 2: Judgment Day",
+    "FilmId": "tt0103064",
+    "Name": "Dennis Muren, Stan Winston, Gene Warren, Jr., Robert Skotak",
+    "Nominees": "Dennis Muren|Stan Winston|Gene Warren Jr.|Robert Skotak",
+    "NomineeIds": "nm0613830|nm0935644|nm0912704|nm0804738",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Europa Europa",
+    "FilmId": "tt0099776",
+    "Name": "Agnieszka Holland",
+    "Nominees": "Agnieszka Holland",
+    "NomineeIds": "nm0002140",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Fried Green Tomatoes",
+    "FilmId": "tt0101921",
+    "Name": "Fannie Flagg, Carol Sobieski",
+    "Nominees": "Fannie Flagg|Carol Sobieski",
+    "NomineeIds": "nm0280840|nm0811807",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "JFK",
+    "FilmId": "tt0102138",
+    "Name": "Oliver Stone, Zachary Sklar",
+    "Nominees": "Oliver Stone|Zachary Sklar",
+    "NomineeIds": "nm0000231|nm0804466",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Prince of Tides",
+    "FilmId": "tt0102713",
+    "Name": "Pat Conroy, Becky Johnston",
+    "Nominees": "Pat Conroy|Becky Johnston",
+    "NomineeIds": "nm0175852|nm0426539",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Silence of the Lambs",
+    "FilmId": "tt0102926",
+    "Name": "Ted Tally",
+    "Nominees": "Ted Tally",
+    "NomineeIds": "nm0848217",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Boyz N the Hood",
+    "FilmId": "tt0101507",
+    "Name": "John Singleton",
+    "Nominees": "John Singleton",
+    "NomineeIds": "nm0005436",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Bugsy",
+    "FilmId": "tt0101516",
+    "Name": "James Toback",
+    "Nominees": "James Toback",
+    "NomineeIds": "nm0864812",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "The Fisher King",
+    "FilmId": "tt0101889",
+    "Name": "Richard LaGravenese",
+    "Nominees": "Richard LaGravenese",
+    "NomineeIds": "nm0481418",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Grand Canyon",
+    "FilmId": "tt0101969",
+    "Name": "Lawrence Kasdan, Meg Kasdan",
+    "Nominees": "Lawrence Kasdan|Meg Kasdan",
+    "NomineeIds": "nm0001410|nm0440462",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Thelma & Louise",
+    "FilmId": "tt0103074",
+    "Name": "Callie Khouri",
+    "Nominees": "Callie Khouri",
+    "NomineeIds": "nm0451884",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Satyajit Ray",
+    "NomineeIds": "nm0006249",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Satyajit Ray, in recognition of his rare mastery of the art of motion pictures, and of his profound humanitarian outlook, which has had an indelible influence on filmmakers and audiences throughout the world."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "George Lucas",
+    "Nominees": "George Lucas",
+    "NomineeIds": "nm0000184",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ray Harryhausen",
+    "NomineeIds": "nm0366063",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Ray Harryhausen"
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Iain Neil|Albert Saiki|Panavision Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To IAIN NEIL for the optical design; ALBERT SAIKI for the mechanical design; and PANAVISION, INCORPORATED, for the concept and development of the Primo Zoom Lens for 35mm cinematography."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Georg Thoma|HEINZ FEIERLEIN|SACHTLER AG",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To GEORG THOMA for the design; HEINZ FEIERLEIN and the ENGINEERING DEPARTMENT OF SACHTLER AG for the development of a range of fluid tripod heads."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Harry J. Baker",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To HARRY J. BAKER for the design and development of the first full fluid-action tripod head with adjustable degrees of viscous drag."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Guido Cartoni",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To GUIDO CARTONI for his pioneering work in developing the technology to achieve selectable and repeatable viscous drag modules in fluid tripod heads."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ray Feeney|Richard Keeney|Richard J. Lundell",
+    "NomineeIds": "nm2990419|?|?",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To RAY FEENEY, RICHARD KEENEY and RICHARD J. LUNDELL for the software development and adaptation of the Solitaire Film Recorder that provides a flexible, cost-effective film recording system."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Faz Fazakas|Brian Henson|Dave Housman|Peter Miller|John Stephenson",
+    "NomineeIds": "nm0269750|nm0005008|nm0396769|nm3441307|nm0827268",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To FAZ FAZAKAS, BRIAN HENSON, DAVE HOUSMAN, PETER MILLER and JOHN STEPHENSON for the development of the Henson Performance Control System."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mario Celso",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To MARIO CELSO for his pioneering work in the design, development and manufacture of equipment for carbon arc and xenon power supplies and igniters used in motion picture projection."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Randy Cartwright|David B. Coons|Lem Davis|Thomas Hahn|James Houston|Mark Kimball|Dylan W. Kohler|Peter Nye|Michael Shantzis|David F. Wolf|Walt Disney Studios",
+    "NomineeIds": "nm0142200|nm0177795|nm0205021|nm0353974|nm0396845|nm0453816|nm0463260|nm0638582|nm0788402|nm1075007|?",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To RANDY CARTWRIGHT, DAVID B. COONS, LEM DAVIS, THOMAS HAHN, JAMES HOUSTON, MARK KIMBALL, DYLAN W. KOHLER, PETER NYE, MICHAEL SHANTZIS, DAVID F. WOLF and the WALT DISNEY FEATURE ANIMATION DEPARTMENT for the design and development of the \\\"CAPS\\\" production system for feature film animation."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "George Worrall",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To GEORGE WORRALL for the design, development and manufacture of the Worrall geared camera head for motion picture production."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Robert W. Stoker Jr.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To ROBERT W. STOKER, JR., for the design and development of a cobweb gun, for applying non-toxic cobweb effects on motion picture sets with both safety and ease of operation."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James Doyle",
+    "NomineeIds": "nm0236386",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To JAMES DOYLE for the design and development of the Dry Fogger, which uses liquid nitrogen to produce a safe, dense, low-hanging fog effects."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dick Cavdek|Steve Hamerski|Otto Nemenz International Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To DICK CAVDEK, STEVE HAMERSKI and OTTO NEMENZ INTERNATIONAL, INCORPORATED for the opto-mechanical design and development of the Canon/Nemenz Zoom Lens."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ken Robings|Clairmont Camera",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To KEN ROBINGS and CLAIRMONT CAMERA for the opto-mechanical design and development of the Canon/Clairmont Camera Zoom Lens."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Century Precision Optics",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To CENTURY PRECISION OPTICS for the opto-mechanical design and development of the Canon/Century Precision Optics Zoom Lens."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Pete Comandini|Richard T. Dayton|Donald Hagans|Richard T. Ryan",
+    "NomineeIds": "nm0173533|nm0206772|?|?",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Pete Comandini, Richard T. Dayton, Donald Hagans and Richard T. Ryan of YCM Laboratories for the creation and development of a motion picture film restoration process using liquid gate and registration correction on a contact printer."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard J. Stumpf",
+    "NomineeIds": "nm0836231",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Richard J. Stumpf for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 64,
+    "Year": 1991,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joseph Westheimer",
+    "NomineeIds": "nm0922760",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Joseph Westheimer for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

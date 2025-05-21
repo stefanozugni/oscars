@@ -1,1745 +1,2242 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1995",
-    "nominees": [
-      "Braveheart"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1995",
-    "nominees": [
-      "Apollo 13"
-    ],
-    "movies": [
-      {
-        "title": "Apollo 13",
-        "tmdb_id": 568,
-        "imdb_id": "tt0112384"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1995",
-    "nominees": [
-      "Babe"
-    ],
-    "movies": [
-      {
-        "title": "Babe",
-        "tmdb_id": 9598,
-        "imdb_id": "tt0112431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1995",
-    "nominees": [
-      "The Postman"
-    ],
-    "movies": [
-      {
-        "title": "The Postman",
-        "tmdb_id": 11010,
-        "imdb_id": "tt0110877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1995",
-    "nominees": [
-      "Sense and Sensibility"
-    ],
-    "movies": [
-      {
-        "title": "Sense and Sensibility",
-        "tmdb_id": 4584,
-        "imdb_id": "tt0114388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1995",
-    "nominees": [
-      "Nicolas Cage"
-    ],
-    "movies": [
-      {
-        "title": "Leaving Las Vegas",
-        "tmdb_id": 451,
-        "imdb_id": "tt0113627"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1995",
-    "nominees": [
-      "Richard Dreyfuss"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Holland's Opus",
-        "tmdb_id": 2054,
-        "imdb_id": "tt0113862"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1995",
-    "nominees": [
-      "Anthony Hopkins"
-    ],
-    "movies": [
-      {
-        "title": "Nixon",
-        "tmdb_id": 10858,
-        "imdb_id": "tt0113987"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1995",
-    "nominees": [
-      "Sean Penn"
-    ],
-    "movies": [
-      {
-        "title": "Dead Man Walking",
-        "tmdb_id": 687,
-        "imdb_id": "tt0112818"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1995",
-    "nominees": [
-      "Massimo Troisi"
-    ],
-    "movies": [
-      {
-        "title": "The Postman",
-        "tmdb_id": 11010,
-        "imdb_id": "tt0110877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1995",
-    "nominees": [
-      "Susan Sarandon"
-    ],
-    "movies": [
-      {
-        "title": "Dead Man Walking",
-        "tmdb_id": 687,
-        "imdb_id": "tt0112818"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1995",
-    "nominees": [
-      "Elisabeth Shue"
-    ],
-    "movies": [
-      {
-        "title": "Leaving Las Vegas",
-        "tmdb_id": 451,
-        "imdb_id": "tt0113627"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1995",
-    "nominees": [
-      "Sharon Stone"
-    ],
-    "movies": [
-      {
-        "title": "Casino",
-        "tmdb_id": 524,
-        "imdb_id": "tt0112641"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1995",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "The Bridges of Madison County",
-        "tmdb_id": 688,
-        "imdb_id": "tt0112579"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1995",
-    "nominees": [
-      "Emma Thompson"
-    ],
-    "movies": [
-      {
-        "title": "Sense and Sensibility",
-        "tmdb_id": 4584,
-        "imdb_id": "tt0114388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1995",
-    "nominees": [
-      "Kevin Spacey"
-    ],
-    "movies": [
-      {
-        "title": "The Usual Suspects",
-        "tmdb_id": 629,
-        "imdb_id": "tt0114814"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1995",
-    "nominees": [
-      "James Cromwell"
-    ],
-    "movies": [
-      {
-        "title": "Babe",
-        "tmdb_id": 9598,
-        "imdb_id": "tt0112431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1995",
-    "nominees": [
-      "Ed Harris"
-    ],
-    "movies": [
-      {
-        "title": "Apollo 13",
-        "tmdb_id": 568,
-        "imdb_id": "tt0112384"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1995",
-    "nominees": [
-      "Brad Pitt"
-    ],
-    "movies": [
-      {
-        "title": "Twelve Monkeys",
-        "tmdb_id": 63,
-        "imdb_id": "tt0114746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1995",
-    "nominees": [
-      "Tim Roth"
-    ],
-    "movies": [
-      {
-        "title": "Rob Roy",
-        "tmdb_id": 11780,
-        "imdb_id": "tt0114287"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1995",
-    "nominees": [
-      "Mira Sorvino"
-    ],
-    "movies": [
-      {
-        "title": "Mighty Aphrodite",
-        "tmdb_id": 11448,
-        "imdb_id": "tt0113819"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1995",
-    "nominees": [
-      "Joan Allen"
-    ],
-    "movies": [
-      {
-        "title": "Nixon",
-        "tmdb_id": 10858,
-        "imdb_id": "tt0113987"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1995",
-    "nominees": [
-      "Kathleen Quinlan"
-    ],
-    "movies": [
-      {
-        "title": "Apollo 13",
-        "tmdb_id": 568,
-        "imdb_id": "tt0112384"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1995",
-    "nominees": [
-      "Mare Winningham"
-    ],
-    "movies": [
-      {
-        "title": "Georgia",
-        "tmdb_id": 97406,
-        "imdb_id": "tt0113158"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1995",
-    "nominees": [
-      "Kate Winslet"
-    ],
-    "movies": [
-      {
-        "title": "Sense and Sensibility",
-        "tmdb_id": 4584,
-        "imdb_id": "tt0114388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1995",
-    "nominees": [
-      "Mel Gibson"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1995",
-    "nominees": [
-      "Mike Figgis"
-    ],
-    "movies": [
-      {
-        "title": "Leaving Las Vegas",
-        "tmdb_id": 451,
-        "imdb_id": "tt0113627"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1995",
-    "nominees": [
-      "Chris Noonan"
-    ],
-    "movies": [
-      {
-        "title": "Babe",
-        "tmdb_id": 9598,
-        "imdb_id": "tt0112431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1995",
-    "nominees": [
-      "Michael Radford"
-    ],
-    "movies": [
-      {
-        "title": "The Postman",
-        "tmdb_id": 11010,
-        "imdb_id": "tt0110877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1995",
-    "nominees": [
-      "Tim Robbins"
-    ],
-    "movies": [
-      {
-        "title": "Dead Man Walking",
-        "tmdb_id": 687,
-        "imdb_id": "tt0112818"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1995",
-    "nominees": [
-      "Emma Thompson"
-    ],
-    "movies": [
-      {
-        "title": "Sense and Sensibility",
-        "tmdb_id": 4584,
-        "imdb_id": "tt0114388"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1995",
-    "nominees": [
-      "Al Reinert",
-      "William Broyles Jr."
-    ],
-    "movies": [
-      {
-        "title": "Apollo 13",
-        "tmdb_id": 568,
-        "imdb_id": "tt0112384"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1995",
-    "nominees": [
-      "George Miller",
-      "Chris Noonan"
-    ],
-    "movies": [
-      {
-        "title": "Babe",
-        "tmdb_id": 9598,
-        "imdb_id": "tt0112431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1995",
-    "nominees": [
-      "Mike Figgis"
-    ],
-    "movies": [
-      {
-        "title": "Leaving Las Vegas",
-        "tmdb_id": 451,
-        "imdb_id": "tt0113627"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1995",
-    "nominees": [
-      "Michael Radford",
-      "Anna Pavignano",
-      "Furio Scarpelli",
-      "Giacomo Scarpelli",
-      "Massimo Troisi"
-    ],
-    "movies": [
-      {
-        "title": "The Postman",
-        "tmdb_id": 11010,
-        "imdb_id": "tt0110877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1995",
-    "nominees": [
-      "Christopher McQuarrie"
-    ],
-    "movies": [
-      {
-        "title": "The Usual Suspects",
-        "tmdb_id": 629,
-        "imdb_id": "tt0114814"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1995",
-    "nominees": [
-      "Randall Wallace"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1995",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Mighty Aphrodite",
-        "tmdb_id": 11448,
-        "imdb_id": "tt0113819"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1995",
-    "nominees": [
-      "Oliver Stone",
-      "Stephen J. Rivele",
-      "Christopher Wilkinson"
-    ],
-    "movies": [
-      {
-        "title": "Nixon",
-        "tmdb_id": 10858,
-        "imdb_id": "tt0113987"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1995",
-    "nominees": [
-      "Joss Whedon",
-      "Andrew Stanton",
-      "Joel Cohen",
-      "Alec Sokolow",
-      "John Lasseter",
-      "Pete Docter",
-      "Joe Ranft"
-    ],
-    "movies": [
-      {
-        "title": "Toy Story",
-        "tmdb_id": 862,
-        "imdb_id": "tt0114709"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1995",
-    "nominees": [
-      "Luis Bacalov"
-    ],
-    "movies": [
-      {
-        "title": "The Postman",
-        "tmdb_id": 11010,
-        "imdb_id": "tt0110877"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1995",
-    "nominees": [
-      "Patrick Doyle"
-    ],
-    "movies": [
-      {
-        "title": "Sense and Sensibility",
-        "tmdb_id": 4584,
-        "imdb_id": "tt0114388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1995",
-    "nominees": [
-      "James Horner"
-    ],
-    "movies": [
-      {
-        "title": "Apollo 13",
-        "tmdb_id": 568,
-        "imdb_id": "tt0112384"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1995",
-    "nominees": [
-      "James Horner"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1995",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Nixon",
-        "tmdb_id": 10858,
-        "imdb_id": "tt0113987"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1995",
-    "nominees": [
-      "Alan Menken",
-      "Stephen Schwartz"
-    ],
-    "movies": [
-      {
-        "title": "Pocahontas",
-        "tmdb_id": 10530,
-        "imdb_id": "tt0114148"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1995",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Sabrina",
-        "tmdb_id": 11860,
-        "imdb_id": "tt0114319"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1995",
-    "nominees": [
-      "Marc Shaiman"
-    ],
-    "movies": [
-      {
-        "title": "The American President",
-        "tmdb_id": 9087,
-        "imdb_id": "tt0112346"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1995",
-    "nominees": [
-      "Randy Newman"
-    ],
-    "movies": [
-      {
-        "title": "Toy Story",
-        "tmdb_id": 862,
-        "imdb_id": "tt0114709"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1995",
-    "nominees": [
-      "Thomas Newman"
-    ],
-    "movies": [
-      {
-        "title": "Unstrung Heroes",
-        "tmdb_id": 52856,
-        "imdb_id": "tt0114798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1995",
-    "nominees": [
-      "Colors of the Wind"
-    ],
-    "movies": [
-      {
-        "title": "Pocahontas",
-        "tmdb_id": 10530,
-        "imdb_id": "tt0114148"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1995",
-    "nominees": [
-      "Dead Man Walkin'"
-    ],
-    "movies": [
-      {
-        "title": "Dead Man Walking",
-        "tmdb_id": 687,
-        "imdb_id": "tt0112818"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1995",
-    "nominees": [
-      "Have You Ever Really Loved a Woman"
-    ],
-    "movies": [
-      {
-        "title": "Don Juan DeMarco",
-        "tmdb_id": 1909,
-        "imdb_id": "tt0112883"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1995",
-    "nominees": [
-      "Moonlight"
-    ],
-    "movies": [
-      {
-        "title": "Sabrina",
-        "tmdb_id": 11860,
-        "imdb_id": "tt0114319"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1995",
-    "nominees": [
-      "You've Got a Friend in Me"
-    ],
-    "movies": [
-      {
-        "title": "Toy Story",
-        "tmdb_id": 862,
-        "imdb_id": "tt0114709"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1995",
-    "nominees": [
-      "Antonia's Line"
-    ],
-    "movies": [
-      {
-        "title": "Antonia's Line",
-        "tmdb_id": 880,
-        "imdb_id": "tt0112379"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1995",
-    "nominees": [
-      "All Things Fair"
-    ],
-    "movies": [
-      {
-        "title": "All Things Fair",
-        "tmdb_id": 27098,
-        "imdb_id": "tt0113720"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1995",
-    "nominees": [
-      "Dust of Life"
-    ],
-    "movies": [
-      {
-        "title": "Dust of Life",
-        "tmdb_id": 124617,
-        "imdb_id": "tt0110880"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1995",
-    "nominees": [
-      "The Quartet"
-    ],
-    "movies": [
-      {
-        "title": "The Quartet",
-        "tmdb_id": 67617,
-        "imdb_id": "tt0114212"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1995",
-    "nominees": [
-      "The Star Maker"
-    ],
-    "movies": [
-      {
-        "title": "The Star Maker",
-        "tmdb_id": 37975,
-        "imdb_id": "tt0114808"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1995",
-    "nominees": [
-      "Anne Frank Remembered"
-    ],
-    "movies": [
-      {
-        "title": "Anne Frank Remembered",
-        "tmdb_id": 51352,
-        "imdb_id": "tt0112373"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1995",
-    "nominees": [
-      "The Battle Over Citizen Kane"
-    ],
-    "movies": [
-      {
-        "title": "The Battle Over Citizen Kane",
-        "tmdb_id": 278484,
-        "imdb_id": "tt0115634"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1995",
-    "nominees": [
-      "Hank Aaron: Chasing the Dream"
-    ],
-    "movies": [
-      {
-        "title": "Hank Aaron: Chasing the Dream",
-        "tmdb_id": 149409,
-        "imdb_id": "tt0113254"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1995",
-    "nominees": [
-      "Small Wonders"
-    ],
-    "movies": [
-      {
-        "title": "Small Wonders",
-        "tmdb_id": 124632,
-        "imdb_id": "tt0117669"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1995",
-    "nominees": [
-      "Troublesome Creek: A Midwestern"
-    ],
-    "movies": [
-      {
-        "title": "Troublesome Creek: A Midwestern",
-        "tmdb_id": 124643,
-        "imdb_id": "tt1614420"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1995",
-    "nominees": [
-      "One Survivor Remembers"
-    ],
-    "movies": [
-      {
-        "title": "One Survivor Remembers",
-        "tmdb_id": 57130,
-        "imdb_id": "tt0114044"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1995",
-    "nominees": [
-      "Jim Dine: A Self-Portrait on the Walls"
-    ],
-    "movies": [
-      {
-        "title": "Jim Dine: A Self-Portrait on the Walls",
-        "tmdb_id": 244894,
-        "imdb_id": "tt0113473"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1995",
-    "nominees": [
-      "The Living Sea"
-    ],
-    "movies": [
-      {
-        "title": "The Living Sea",
-        "tmdb_id": 17704,
-        "imdb_id": "tt0113676"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1995",
-    "nominees": [
-      "Never Give Up: The 20th Century Odyssey of Herbert Zipper"
-    ],
-    "movies": [
-      {
-        "title": "Never Give Up: The 20th Century Odyssey of Herbert Zipper",
-        "tmdb_id": 244895,
-        "imdb_id": "tt0113963"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1995",
-    "nominees": [
-      "The Shadow of Hate"
-    ],
-    "movies": [
-      {
-        "title": "The Shadow of Hate",
-        "tmdb_id": 244897,
-        "imdb_id": "tt0114405"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1995",
-    "nominees": [
-      "A Close Shave"
-    ],
-    "movies": [
-      {
-        "title": "A Close Shave",
-        "tmdb_id": 532,
-        "imdb_id": "tt0112691"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1995",
-    "nominees": [
-      "The Chicken from Outer Space"
-    ],
-    "movies": [
-      {
-        "title": "The Chicken from Outer Space",
-        "tmdb_id": 214163,
-        "imdb_id": "tt0112661"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1995",
-    "nominees": [
-      "Neon Genesis Evangelion: The End of Evangelion"
-    ],
-    "movies": [
-      {
-        "title": "Neon Genesis Evangelion: The End of Evangelion",
-        "tmdb_id": 18491,
-        "imdb_id": "tt0169858"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1995",
-    "nominees": [
-      "Gagarin"
-    ],
-    "movies": [
-      {
-        "title": "Gagarin",
-        "tmdb_id": 214157,
-        "imdb_id": "tt0113138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1995",
-    "nominees": [
-      "Runaway Brain"
-    ],
-    "movies": [
-      {
-        "title": "Runaway Brain",
-        "tmdb_id": 67166,
-        "imdb_id": "tt0114308"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1995",
-    "nominees": [
-      "Lieberman in Love"
-    ],
-    "movies": [
-      {
-        "title": "Lieberman in Love",
-        "tmdb_id": 244887,
-        "imdb_id": "tt0113653"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1995",
-    "nominees": [
-      "Brooms"
-    ],
-    "movies": [
-      {
-        "title": "Brooms",
-        "tmdb_id": 244890,
-        "imdb_id": "tt0112584"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1995",
-    "nominees": [
-      "Duke of Groove"
-    ],
-    "movies": [
-      {
-        "title": "Duke of Groove",
-        "tmdb_id": 194763,
-        "imdb_id": "tt0112910"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1995",
-    "nominees": [
-      "Little Surprises"
-    ],
-    "movies": [
-      {
-        "title": "Little Surprises",
-        "tmdb_id": 244891,
-        "imdb_id": "tt0113671"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1995",
-    "nominees": [
-      "Tuesday Morning Ride"
-    ],
-    "movies": [
-      {
-        "title": "Tuesday Morning Ride",
-        "tmdb_id": 244893,
-        "imdb_id": "tt0114742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "Eugenio Zanetti"
-    ],
-    "movies": [
-      {
-        "title": "Restoration",
-        "tmdb_id": 35196,
-        "imdb_id": "tt0114272"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "Bo Welch",
-      "Cheryl Carasik"
-    ],
-    "movies": [
-      {
-        "title": "A Little Princess",
-        "tmdb_id": 19101,
-        "imdb_id": "tt0113670"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "Michael Corenblith",
-      "Merideth Boswell"
-    ],
-    "movies": [
-      {
-        "title": "Apollo 13",
-        "tmdb_id": 568,
-        "imdb_id": "tt0112384"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "Roger Ford",
-      "Kerrie Brown"
-    ],
-    "movies": [
-      {
-        "title": "Babe",
-        "tmdb_id": 9598,
-        "imdb_id": "tt0112431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "Tony Burrough"
-    ],
-    "movies": [
-      {
-        "title": "Richard III",
-        "tmdb_id": 31174,
-        "imdb_id": "tt0114279"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1995",
-    "nominees": [
-      "John Toll"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1995",
-    "nominees": [
-      "Emmanuel Lubezki"
-    ],
-    "movies": [
-      {
-        "title": "A Little Princess",
-        "tmdb_id": 19101,
-        "imdb_id": "tt0113670"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1995",
-    "nominees": [
-      "Lu Yue"
-    ],
-    "movies": [
-      {
-        "title": "Shanghai Triad",
-        "tmdb_id": 37557,
-        "imdb_id": "tt0115012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1995",
-    "nominees": [
-      "Michael Coulter"
-    ],
-    "movies": [
-      {
-        "title": "Sense and Sensibility",
-        "tmdb_id": 4584,
-        "imdb_id": "tt0114388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1995",
-    "nominees": [
-      "Stephen Goldblatt"
-    ],
-    "movies": [
-      {
-        "title": "Batman Forever",
-        "tmdb_id": 414,
-        "imdb_id": "tt0112462"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1995",
-    "nominees": [
-      "Mike Hill",
-      "Daniel P. Hanley"
-    ],
-    "movies": [
-      {
-        "title": "Apollo 13",
-        "tmdb_id": 568,
-        "imdb_id": "tt0112384"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1995",
-    "nominees": [
-      "Chris Lebenzon"
-    ],
-    "movies": [
-      {
-        "title": "Crimson Tide",
-        "tmdb_id": 8963,
-        "imdb_id": "tt0112740"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1995",
-    "nominees": [
-      "Marcus D'Arcy",
-      "Jay Friedkin"
-    ],
-    "movies": [
-      {
-        "title": "Babe",
-        "tmdb_id": 9598,
-        "imdb_id": "tt0112431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1995",
-    "nominees": [
-      "Richard Francis-Brice"
-    ],
-    "movies": [
-      {
-        "title": "Seven",
-        "tmdb_id": 475009,
-        "imdb_id": "tt0286071"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1995",
-    "nominees": [
-      "Steven Rosenblum"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1995",
-    "nominees": [
-      "Scott E. Anderson",
-      "Charles Gibson",
-      "Neal Scanlan",
-      "John Cox"
-    ],
-    "movies": [
-      {
-        "title": "Babe",
-        "tmdb_id": 9598,
-        "imdb_id": "tt0112431"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1995",
-    "nominees": [
-      "Robert Legato",
-      "Michael Kanfer",
-      "Leslie Ekker",
-      "Matt Sweeney"
-    ],
-    "movies": [
-      {
-        "title": "Apollo 13",
-        "tmdb_id": 568,
-        "imdb_id": "tt0112384"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1995",
-    "nominees": [
-      "Rick Dior",
-      "Steve Pederson",
-      "Scott Millan",
-      "David MacMillan"
-    ],
-    "movies": [
-      {
-        "title": "Apollo 13",
-        "tmdb_id": 568,
-        "imdb_id": "tt0112384"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1995",
-    "nominees": [
-      "Donald O. Mitchell",
-      "Frank A. Montano",
-      "Michael Herbick",
-      "Petur Hiddal"
-    ],
-    "movies": [
-      {
-        "title": "Batman Forever",
-        "tmdb_id": 414,
-        "imdb_id": "tt0112462"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1995",
-    "nominees": [
-      "Andy Nelson",
-      "Scott Millan",
-      "Anna Behlmer",
-      "Brian Simmons"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1995",
-    "nominees": [
-      "Kevin O'Connell",
-      "Rick Kline",
-      "Gregory H. Watkins",
-      "William B. Kaplan"
-    ],
-    "movies": [
-      {
-        "title": "Crimson Tide",
-        "tmdb_id": 8963,
-        "imdb_id": "tt0112740"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1995",
-    "nominees": [
-      "Steve Maslow",
-      "Gregg Landaker",
-      "Keith A. Wester"
-    ],
-    "movies": [
-      {
-        "title": "Waterworld",
-        "tmdb_id": 9804,
-        "imdb_id": "tt0114898"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1995",
-    "nominees": [
-      "Lon Bender",
-      "Per Hallberg"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1995",
-    "nominees": [
-      "John Leveque",
-      "Bruce Stambler"
-    ],
-    "movies": [
-      {
-        "title": "Batman Forever",
-        "tmdb_id": 414,
-        "imdb_id": "tt0112462"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1995",
-    "nominees": [
-      "George Watters"
-    ],
-    "movies": [
-      {
-        "title": "Crimson Tide",
-        "tmdb_id": 8963,
-        "imdb_id": "tt0112740"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1995",
-    "nominees": [
-      "Peter Frampton",
-      "Paul Pattison",
-      "Lois Burwell"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1995",
-    "nominees": [
-      "Greg Cannom",
-      "Bpb Laden",
-      "Colleen Callaghan"
-    ],
-    "movies": [
-      {
-        "title": "Roommates",
-        "tmdb_id": 161495,
-        "imdb_id": "tt0114296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1995",
-    "nominees": [
-      "Ken Diaz",
-      "Mark Sanchez"
-    ],
-    "movies": [
-      {
-        "title": "My Family",
-        "tmdb_id": 38722,
-        "imdb_id": "tt0113896"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "James Acheson"
-    ],
-    "movies": [
-      {
-        "title": "Restoration",
-        "tmdb_id": 35196,
-        "imdb_id": "tt0114272"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "Charles Knode"
-    ],
-    "movies": [
-      {
-        "title": "Braveheart",
-        "tmdb_id": 197,
-        "imdb_id": "tt0112573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "Jenny Beavan",
-      "John Bright"
-    ],
-    "movies": [
-      {
-        "title": "Sense and Sensibility",
-        "tmdb_id": 4584,
-        "imdb_id": "tt0114388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "Julie Weiss"
-    ],
-    "movies": [
-      {
-        "title": "Twelve Monkeys",
-        "tmdb_id": 63,
-        "imdb_id": "tt0114746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1995",
-    "nominees": [
-      "Shuna Harwood"
-    ],
-    "movies": [
-      {
-        "title": "Richard III",
-        "tmdb_id": 31174,
-        "imdb_id": "tt0114279"
-      }
-    ],
-    "won": false
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Leaving Las Vegas",
+    "FilmId": "tt0113627",
+    "Name": "Nicolas Cage",
+    "Nominees": "Nicolas Cage",
+    "NomineeIds": "nm0000115",
+    "Winner": "True",
+    "Detail": "Ben Sanderson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Mr. Holland's Opus",
+    "FilmId": "tt0113862",
+    "Name": "Richard Dreyfuss",
+    "Nominees": "Richard Dreyfuss",
+    "NomineeIds": "nm0000377",
+    "Winner": "",
+    "Detail": "Glenn Holland",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Nixon",
+    "FilmId": "tt0113987",
+    "Name": "Anthony Hopkins",
+    "Nominees": "Anthony Hopkins",
+    "NomineeIds": "nm0000164",
+    "Winner": "",
+    "Detail": "Richard Nixon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Dead Man Walking",
+    "FilmId": "tt0112818",
+    "Name": "Sean Penn",
+    "Nominees": "Sean Penn",
+    "NomineeIds": "nm0000576",
+    "Winner": "",
+    "Detail": "Matthew Poncelet",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Postman (Il Postino)",
+    "FilmId": "tt0110877",
+    "Name": "Massimo Troisi",
+    "Nominees": "Massimo Troisi",
+    "NomineeIds": "nm0873385",
+    "Winner": "",
+    "Detail": "Mario",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Babe",
+    "FilmId": "tt0112431",
+    "Name": "James Cromwell",
+    "Nominees": "James Cromwell",
+    "NomineeIds": "nm0000342",
+    "Winner": "",
+    "Detail": "Farmer Hoggett",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Apollo 13",
+    "FilmId": "tt0112384",
+    "Name": "Ed Harris",
+    "Nominees": "Ed Harris",
+    "NomineeIds": "nm0000438",
+    "Winner": "",
+    "Detail": "Gene Kranz",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "12 Monkeys",
+    "FilmId": "tt0114746",
+    "Name": "Brad Pitt",
+    "Nominees": "Brad Pitt",
+    "NomineeIds": "nm0000093",
+    "Winner": "",
+    "Detail": "Jeffrey Goines",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Rob Roy",
+    "FilmId": "tt0114287",
+    "Name": "Tim Roth",
+    "Nominees": "Tim Roth",
+    "NomineeIds": "nm0000619",
+    "Winner": "",
+    "Detail": "Archibald Cunningham",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Usual Suspects",
+    "FilmId": "tt0114814",
+    "Name": "Kevin Spacey",
+    "Nominees": "Kevin Spacey",
+    "NomineeIds": "nm0000228",
+    "Winner": "True",
+    "Detail": "Roger 'Verbal' Kint",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Dead Man Walking",
+    "FilmId": "tt0112818",
+    "Name": "Susan Sarandon",
+    "Nominees": "Susan Sarandon",
+    "NomineeIds": "nm0000215",
+    "Winner": "True",
+    "Detail": "Sister Helen Prejean",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Leaving Las Vegas",
+    "FilmId": "tt0113627",
+    "Name": "Elisabeth Shue",
+    "Nominees": "Elisabeth Shue",
+    "NomineeIds": "nm0000223",
+    "Winner": "",
+    "Detail": "Sera",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Casino",
+    "FilmId": "tt0112641",
+    "Name": "Sharon Stone",
+    "Nominees": "Sharon Stone",
+    "NomineeIds": "nm0000232",
+    "Winner": "",
+    "Detail": "Ginger McKenna",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Bridges of Madison County",
+    "FilmId": "tt0112579",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Francesca Johnson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Sense and Sensibility",
+    "FilmId": "tt0114388",
+    "Name": "Emma Thompson",
+    "Nominees": "Emma Thompson",
+    "NomineeIds": "nm0000668",
+    "Winner": "",
+    "Detail": "Elinor Dashwood",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Nixon",
+    "FilmId": "tt0113987",
+    "Name": "Joan Allen",
+    "Nominees": "Joan Allen",
+    "NomineeIds": "nm0000260",
+    "Winner": "",
+    "Detail": "Pat Nixon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Apollo 13",
+    "FilmId": "tt0112384",
+    "Name": "Kathleen Quinlan",
+    "Nominees": "Kathleen Quinlan",
+    "NomineeIds": "nm0000599",
+    "Winner": "",
+    "Detail": "Marilyn Lovell",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Mighty Aphrodite",
+    "FilmId": "tt0113819",
+    "Name": "Mira Sorvino",
+    "Nominees": "Mira Sorvino",
+    "NomineeIds": "nm0000227",
+    "Winner": "True",
+    "Detail": "Linda",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Georgia",
+    "FilmId": "tt0113158",
+    "Name": "Mare Winningham",
+    "Nominees": "Mare Winningham",
+    "NomineeIds": "nm0001858",
+    "Winner": "",
+    "Detail": "Georgia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Sense and Sensibility",
+    "FilmId": "tt0114388",
+    "Name": "Kate Winslet",
+    "Nominees": "Kate Winslet",
+    "NomineeIds": "nm0000701",
+    "Winner": "",
+    "Detail": "Marianne Dashwood",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Apollo 13",
+    "FilmId": "tt0112384",
+    "Name": "Art Direction: Michael Corenblith; Set Decoration: Merideth Boswell",
+    "Nominees": "Michael Corenblith|Merideth Boswell",
+    "NomineeIds": "nm0179749|nm0098353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Babe",
+    "FilmId": "tt0112431",
+    "Name": "Art Direction: Roger Ford; Set Decoration: Kerrie Brown",
+    "Nominees": "Roger Ford|Kerrie Brown",
+    "NomineeIds": "nm0285857|nm0114016",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "A Little Princess",
+    "FilmId": "tt0113670",
+    "Name": "Art Direction: Bo Welch; Set Decoration: Cheryl Carasik",
+    "Nominees": "Bo Welch|Cheryl Carasik",
+    "NomineeIds": "nm0919514|nm0135974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Restoration",
+    "FilmId": "tt0114272",
+    "Name": "Eugenio Zanetti",
+    "Nominees": "Eugenio Zanetti",
+    "NomineeIds": "nm0952968",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Richard III",
+    "FilmId": "tt0114279",
+    "Name": "Tony Burrough",
+    "Nominees": "Tony Burrough",
+    "NomineeIds": "nm0123178",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Batman Forever",
+    "FilmId": "tt0112462",
+    "Name": "Stephen Goldblatt",
+    "Nominees": "Stephen Goldblatt",
+    "NomineeIds": "nm0003552",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "John Toll",
+    "Nominees": "John Toll",
+    "NomineeIds": "nm0001799",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "A Little Princess",
+    "FilmId": "tt0113670",
+    "Name": "Emmanuel Lubezki",
+    "Nominees": "Emmanuel Lubezki",
+    "NomineeIds": "nm0523881",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Sense and Sensibility",
+    "FilmId": "tt0114388",
+    "Name": "Michael Coulter",
+    "Nominees": "Michael Coulter",
+    "NomineeIds": "nm0183533",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Shanghai Triad",
+    "FilmId": "tt0115012",
+    "Name": "Lu Yue",
+    "Nominees": "Lu Yue",
+    "NomineeIds": "nm0494702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "Charles Knode",
+    "Nominees": "Charles Knode",
+    "NomineeIds": "nm0461262",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Restoration",
+    "FilmId": "tt0114272",
+    "Name": "James Acheson",
+    "Nominees": "James Acheson",
+    "NomineeIds": "nm0009807",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Richard III",
+    "FilmId": "tt0114279",
+    "Name": "Shuna Harwood",
+    "Nominees": "Shuna Harwood",
+    "NomineeIds": "nm0367840",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Sense and Sensibility",
+    "FilmId": "tt0114388",
+    "Name": "Jenny Beavan, John Bright",
+    "Nominees": "Jenny Beavan|John Bright",
+    "NomineeIds": "nm0064746|nm0109149",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "12 Monkeys",
+    "FilmId": "tt0114746",
+    "Name": "Julie Weiss",
+    "Nominees": "Julie Weiss",
+    "NomineeIds": "nm0919058",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Babe",
+    "FilmId": "tt0112431",
+    "Name": "Chris Noonan",
+    "Nominees": "Chris Noonan",
+    "NomineeIds": "nm0003088",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "Mel Gibson",
+    "Nominees": "Mel Gibson",
+    "NomineeIds": "nm0000154",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Dead Man Walking",
+    "FilmId": "tt0112818",
+    "Name": "Tim Robbins",
+    "Nominees": "Tim Robbins",
+    "NomineeIds": "nm0000209",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Leaving Las Vegas",
+    "FilmId": "tt0113627",
+    "Name": "Mike Figgis",
+    "Nominees": "Mike Figgis",
+    "NomineeIds": "nm0001214",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Postman (Il Postino)",
+    "FilmId": "tt0110877",
+    "Name": "Michael Radford",
+    "Nominees": "Michael Radford",
+    "NomineeIds": "nm0705535",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Anne Frank Remembered",
+    "FilmId": "tt0112373",
+    "Name": "Jon Blair",
+    "Nominees": "Jon Blair",
+    "NomineeIds": "nm0086282",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Battle over Citizen Kane",
+    "FilmId": "tt0115634",
+    "Name": "Thomas Lennon, Michael Epstein",
+    "Nominees": "Thomas Lennon|Michael Epstein",
+    "NomineeIds": "nm0502072|nm0258515",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Fiddlefest--Roberta Tzavaras and Her East Harlem Violin Program",
+    "FilmId": "tt0117669",
+    "Name": "Allan Miller, Walter Scheuer",
+    "Nominees": "Allan Miller|Walter Scheuer",
+    "NomineeIds": "nm5850281|nm0771200",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Hank Aaron: Chasing the Dream",
+    "FilmId": "tt0113254",
+    "Name": "Mike Tollin, Fredric Golding",
+    "Nominees": "Mike Tollin|Fredric Golding",
+    "NomineeIds": "nm0866132|nm0325691",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Troublesome Creek: A Midwestern",
+    "FilmId": "tt1614420",
+    "Name": "Jeanne Jordan, Steven Ascher",
+    "Nominees": "Jeanne Jordan|Steven Ascher",
+    "NomineeIds": "nm0430000|nm0038507",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Jim Dine: A Self-Portrait on the Walls",
+    "FilmId": "tt0113473",
+    "Name": "Nancy Dine, Richard Stilwell",
+    "Nominees": "Nancy Dine|Richard Stilwell",
+    "NomineeIds": "nm0227548|nm0830366",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Living Sea",
+    "FilmId": "tt0113676",
+    "Name": "Greg MacGillivray, Alec Lorimore",
+    "Nominees": "Greg MacGillivray|Alec Lorimore",
+    "NomineeIds": "nm0532263|nm0520975",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Never Give Up: The 20th Century Odyssey of Herbert Zipper",
+    "FilmId": "tt0113963",
+    "Name": "Terry Sanders, Freida Lee Mock",
+    "Nominees": "Terry Sanders|Freida Lee Mock",
+    "NomineeIds": "nm0761739|nm0595131",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "One Survivor Remembers",
+    "FilmId": "tt0114044",
+    "Name": "Kary Antholis",
+    "Nominees": "Kary Antholis",
+    "NomineeIds": "nm0030794",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Shadow of Hate",
+    "FilmId": "tt0114405",
+    "Name": "Charles Guggenheim",
+    "Nominees": "Charles Guggenheim",
+    "NomineeIds": "nm0346549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Apollo 13",
+    "FilmId": "tt0112384",
+    "Name": "Mike Hill, Dan Hanley",
+    "Nominees": "Mike Hill|Dan Hanley",
+    "NomineeIds": "nm0384528|nm0360067",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Babe",
+    "FilmId": "tt0112431",
+    "Name": "Marcus D'Arcy, Jay Friedkin",
+    "Nominees": "Marcus D'Arcy|Jay Friedkin",
+    "NomineeIds": "nm0195451|nm0295058",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "Steven Rosenblum",
+    "Nominees": "Steven Rosenblum",
+    "NomineeIds": "nm0742475",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Crimson Tide",
+    "FilmId": "tt0112740",
+    "Name": "Chris Lebenzon",
+    "Nominees": "Chris Lebenzon",
+    "NomineeIds": "nm0495605",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Seven",
+    "FilmId": "tt0114369",
+    "Name": "Richard Francis-Bruce",
+    "Nominees": "Richard Francis-Bruce",
+    "NomineeIds": "nm0290358",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "All Things Fair",
+    "FilmId": "tt0113720",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Antonia's Line",
+    "FilmId": "tt0112379",
+    "Name": "The Netherlands",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Dust of Life",
+    "FilmId": "tt0110880",
+    "Name": "Algeria",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "O Quatrilho",
+    "FilmId": "tt0114212",
+    "Name": "Brazil",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Star Maker",
+    "FilmId": "tt0114808",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "Peter Frampton, Paul Pattison, Lois Burwell",
+    "Nominees": "Peter Frampton|Paul Pattison|Lois Burwell",
+    "NomineeIds": "nm0289760|nm0666519|nm0006627",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "My Family, Mi Familia",
+    "FilmId": "tt0113896",
+    "Name": "Ken Diaz, Mark Sanchez",
+    "Nominees": "Ken Diaz|Mark Sanchez",
+    "NomineeIds": "nm0225004|nm0761006",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Roommates",
+    "FilmId": "tt0114296",
+    "Name": "Greg Cannom, Bob Laden, Colleen Callaghan",
+    "Nominees": "Greg Cannom|Bob Laden|Colleen Callaghan",
+    "NomineeIds": "nm0134148|nm0480507|nm0130128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Apollo 13",
+    "FilmId": "tt0112384",
+    "Name": "James Horner",
+    "Nominees": "James Horner",
+    "NomineeIds": "nm0000035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "James Horner",
+    "Nominees": "James Horner",
+    "NomineeIds": "nm0000035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Nixon",
+    "FilmId": "tt0113987",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "The Postman (Il Postino)",
+    "FilmId": "tt0110877",
+    "Name": "Luis Enrique Bacalov",
+    "Nominees": "Luis Enrique Bacalov",
+    "NomineeIds": "nm0005953",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Sense and Sensibility",
+    "FilmId": "tt0114388",
+    "Name": "Patrick Doyle",
+    "Nominees": "Patrick Doyle",
+    "NomineeIds": "nm0236462",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "The American President",
+    "FilmId": "tt0112346",
+    "Name": "Marc Shaiman",
+    "Nominees": "Marc Shaiman",
+    "NomineeIds": "nm0003299",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Pocahontas",
+    "FilmId": "tt0114148",
+    "Name": "Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken",
+    "Nominees": "Alan Menken|Stephen Schwartz",
+    "NomineeIds": "nm0579678|nm0777451",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Sabrina",
+    "FilmId": "tt0114319",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Toy Story",
+    "FilmId": "tt0114709",
+    "Name": "Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Unstrung Heroes",
+    "FilmId": "tt0114798",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Pocahontas",
+    "FilmId": "tt0114148",
+    "Name": "Music by Alan Menken; Lyric by Stephen Schwartz",
+    "Nominees": "Alan Menken|Stephen Schwartz",
+    "NomineeIds": "nm0579678|nm0777451",
+    "Winner": "True",
+    "Detail": "Colors Of The Wind",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Dead Man Walking",
+    "FilmId": "tt0112818",
+    "Name": "Music and Lyric by Bruce Springsteen",
+    "Nominees": "Bruce Springsteen",
+    "NomineeIds": "nm0819803",
+    "Winner": "",
+    "Detail": "Dead Man Walkin'",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Don Juan DeMarco",
+    "FilmId": "tt0112883",
+    "Name": "Music and Lyric by Michael Kamen, Bryan Adams and Robert John Lange",
+    "Nominees": "Michael Kamen|Bryan Adams|Robert John Lange",
+    "NomineeIds": "nm0004383|nm0001898|nm0486172",
+    "Winner": "",
+    "Detail": "Have You Ever Really Loved A Woman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Sabrina",
+    "FilmId": "tt0114319",
+    "Name": "Music by John Williams; Lyric by Alan Bergman and Marilyn Bergman",
+    "Nominees": "John Williams|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0002354|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "Moonlight",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Toy Story",
+    "FilmId": "tt0114709",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "You've Got A Friend In Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Apollo 13",
+    "FilmId": "tt0112384",
+    "Name": "Brian Grazer, Producer",
+    "Nominees": "Brian Grazer",
+    "NomineeIds": "nm0004976",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Babe",
+    "FilmId": "tt0112431",
+    "Name": "George Miller, Doug Mitchell and Bill Miller, Producers",
+    "Nominees": "George Miller|Doug Mitchell|Bill Miller",
+    "NomineeIds": "nm0004306|nm0593294|nm0587964",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers",
+    "Nominees": "Mel Gibson|Alan Ladd Jr.|Bruce Davey",
+    "NomineeIds": "nm0000154|nm0480440|nm0202704",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Postman (Il Postino)",
+    "FilmId": "tt0110877",
+    "Name": "Mario Cecchi Gori, Vittorio Cecchi Gori and Gaetano Daniele, Producers",
+    "Nominees": "Mario Cecchi Gori|Vittorio Cecchi Gori|Gaetano Daniele",
+    "NomineeIds": "nm0147601|nm0147603|nm0199760",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Sense and Sensibility",
+    "FilmId": "tt0114388",
+    "Name": "Lindsay Doran, Producer",
+    "Nominees": "Lindsay Doran",
+    "NomineeIds": "nm0233386",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Chicken from Outer Space",
+    "FilmId": "tt0112661",
+    "Name": "John R. Dilworth",
+    "Nominees": "John R. Dilworth",
+    "NomineeIds": "nm0227139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "A Close Shave",
+    "FilmId": "tt0112691",
+    "Name": "Nick Park",
+    "Nominees": "Nick Park",
+    "NomineeIds": "nm0661910",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "the end",
+    "FilmId": "tt0112958",
+    "Name": "Chris Landreth, Robin Bargar",
+    "Nominees": "Chris Landreth|Robin Bargar",
+    "NomineeIds": "nm0484996|nm0054552",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Gagarin",
+    "FilmId": "tt0113138",
+    "Name": "Alexij Kharitidi",
+    "Nominees": "Alexij Kharitidi",
+    "NomineeIds": "nm0451445",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Runaway Brain",
+    "FilmId": "tt0114308",
+    "Name": "Chris Bailey",
+    "Nominees": "Chris Bailey",
+    "NomineeIds": "nm0047193",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Brooms",
+    "FilmId": "tt0112584",
+    "Name": "Luke Cresswell, Steve McNicholas",
+    "Nominees": "Luke Cresswell|Steve McNicholas",
+    "NomineeIds": "nm0187594|nm0574007",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Duke of Groove",
+    "FilmId": "tt0112910",
+    "Name": "Griffin Dunne, Thom Colwell",
+    "Nominees": "Griffin Dunne|Thom Colwell",
+    "NomineeIds": "nm0001162|nm0173476",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Lieberman in Love",
+    "FilmId": "tt0113653",
+    "Name": "Christine Lahti, Jana Sue Memel",
+    "Nominees": "Christine Lahti|Jana Sue Memel",
+    "NomineeIds": "nm0001441|nm0578604",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Little Surprises",
+    "FilmId": "tt0113671",
+    "Name": "Jeff Goldblum, Tikki Goldberg",
+    "Nominees": "Jeff Goldblum|Tikki Goldberg",
+    "NomineeIds": "nm0000156|nm0325324",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Tuesday Morning Ride",
+    "FilmId": "tt0114742",
+    "Name": "Dianne Houston, Joy Ryan",
+    "Nominees": "Dianne Houston|Joy Ryan",
+    "NomineeIds": "nm0396817|nm0752641",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Apollo 13",
+    "FilmId": "tt0112384",
+    "Name": "Rick Dior, Steve Pederson, Scott Millan, David MacMillan",
+    "Nominees": "Rick Dior|Steve Pederson|Scott Millan|David MacMillan",
+    "NomineeIds": "nm0228047|nm0670007|nm0586793|nm0533997",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Batman Forever",
+    "FilmId": "tt0112462",
+    "Name": "Donald O. Mitchell, Frank A. Montaño, Michael Herbick, Petur Hliddal",
+    "Nominees": "Donald O. Mitchell|Frank A. Montaño|Michael Herbick|Petur Hliddal",
+    "NomineeIds": "nm0593290|nm0599057|nm0378655|nm0387213",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "Andy Nelson, Scott Millan, Anna Behlmer, Brian Simmons",
+    "Nominees": "Andy Nelson|Scott Millan|Anna Behlmer|Brian Simmons",
+    "NomineeIds": "nm0625144|nm0586793|nm0066933|nm0799694",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Crimson Tide",
+    "FilmId": "tt0112740",
+    "Name": "Kevin O'Connell, Rick Kline, Gregory H. Watkins, William B. Kaplan",
+    "Nominees": "Kevin O'Connell|Rick Kline|Gregory H. Watkins|William B. Kaplan",
+    "NomineeIds": "nm0640114|nm0459662|nm0914312|nm0438202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Waterworld",
+    "FilmId": "tt0114898",
+    "Name": "Steve Maslow, Gregg Landaker, Keith A. Wester",
+    "Nominees": "Steve Maslow|Gregg Landaker|Keith A. Wester",
+    "NomineeIds": "nm0556541|nm0484414|nm0199492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Batman Forever",
+    "FilmId": "tt0112462",
+    "Name": "John Leveque, Bruce Stambler",
+    "Nominees": "John Leveque|Bruce Stambler",
+    "NomineeIds": "nm0505311|nm0821801",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "Lon Bender, Per Hallberg",
+    "Nominees": "Lon Bender|Per Hallberg",
+    "NomineeIds": "nm0070489|nm0356319",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Crimson Tide",
+    "FilmId": "tt0112740",
+    "Name": "George Watters II",
+    "Nominees": "George Watters II",
+    "NomineeIds": "nm0915036",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Apollo 13",
+    "FilmId": "tt0112384",
+    "Name": "Robert Legato, Michael Kanfer, Leslie Ekker, Matt Sweeney",
+    "Nominees": "Robert Legato|Michael Kanfer|Leslie Ekker|Matt Sweeney",
+    "NomineeIds": "nm0499215|nm0437604|nm0006869|nm0842157",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Babe",
+    "FilmId": "tt0112431",
+    "Name": "Scott E. Anderson, Charles Gibson, Neal Scanlan, John Cox",
+    "Nominees": "Scott E. Anderson|Charles Gibson|Neal Scanlan|John Cox",
+    "NomineeIds": "nm0027423|nm0002716|nm0768943|nm0185092",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Apollo 13",
+    "FilmId": "tt0112384",
+    "Name": "William Broyles, Jr., Al Reinert",
+    "Nominees": "William Broyles Jr.|Al Reinert",
+    "NomineeIds": "nm0115310|nm0718031",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Babe",
+    "FilmId": "tt0112431",
+    "Name": "George Miller, Chris Noonan",
+    "Nominees": "George Miller|Chris Noonan",
+    "NomineeIds": "nm0004306|nm0003088",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Leaving Las Vegas",
+    "FilmId": "tt0113627",
+    "Name": "Mike Figgis",
+    "Nominees": "Mike Figgis",
+    "NomineeIds": "nm0001214",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Postman (Il Postino)",
+    "FilmId": "tt0110877",
+    "Name": "Anna Pavignano, Michael Radford, Furio Scarpelli, Giacomo Scarpelli, Massimo Troisi",
+    "Nominees": "Anna Pavignano|Michael Radford|Furio Scarpelli|Giacomo Scarpelli|Massimo Troisi",
+    "NomineeIds": "nm0667657|nm0705535|nm0769249|nm0769250|nm0873385",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Sense and Sensibility",
+    "FilmId": "tt0114388",
+    "Name": "Emma Thompson",
+    "Nominees": "Emma Thompson",
+    "NomineeIds": "nm0000668",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Braveheart",
+    "FilmId": "tt0112573",
+    "Name": "Randall Wallace",
+    "Nominees": "Randall Wallace",
+    "NomineeIds": "nm0908824",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Mighty Aphrodite",
+    "FilmId": "tt0113819",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Nixon",
+    "FilmId": "tt0113987",
+    "Name": "Stephen J. Rivele, Christopher Wilkinson, Oliver Stone",
+    "Nominees": "Stephen J. Rivele|Christopher Wilkinson|Oliver Stone",
+    "NomineeIds": "nm0729151|nm0929349|nm0000231",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Toy Story",
+    "FilmId": "tt0114709",
+    "Name": "Screenplay by Joss Whedon, Andrew Stanton, Joel Cohen, Alec Sokolow; Story by John Lasseter, Peter Docter, Andrew Stanton, Joe Ranft",
+    "Nominees": "Joss Whedon|Andrew Stanton|Joel Cohen|Alec Sokolow|John Lasseter|Peter Docter|Joe Ranft",
+    "NomineeIds": "nm0923736|nm0004056|nm0169505|nm0812513|nm0005124|nm0230032|nm0710020",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "The Usual Suspects",
+    "FilmId": "tt0114814",
+    "Name": "Christopher McQuarrie",
+    "Nominees": "Christopher McQuarrie",
+    "NomineeIds": "nm0003160",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD",
+    "Category": "SPECIAL ACHIEVEMENT AWARD",
+    "Film": "Toy Story",
+    "FilmId": "tt0114709",
+    "Name": "",
+    "Nominees": "John Lasseter",
+    "NomineeIds": "nm0005124",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To John Lasseter, for his inspired leadership of the Pixar Toy Story team, resulting in the first feature-length computer-animated film."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Kirk Douglas",
+    "NomineeIds": "nm0000018",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Kirk Douglas, for fifty years as a creative and moral force in the motion picture community."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Chuck Jones",
+    "NomineeIds": "nm0005062",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Chuck Jones, for the creation of classic cartoons which have brought worldwide joy for more than half a century."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Donald C. Rogers",
+    "NomineeIds": "nm0736842",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Donald C. Rogers"
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Arnold And Richter Cine Technik",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To ARNOLD AND RICHTER CINE TECHNIK for the development of the Arriflex 535 Series of Cameras for motion picture cinematography."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Digital Theater Systems",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To DIGITAL THEATER SYSTEMS for the design and development of the DTS Digital Sound System for motion picture exhibition."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dolby Laboratories",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To DOLBY LABORATORIES for the design and development of the SR-D Digital Sound System for motion picture exhibition."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Sony Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To SONY CORPORATION for the design and development of the SDDS Digital Sound System for motion picture exhibition."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Howard Flemming|Ronald Uhlig",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To HOWARD FLEMMING and RONALD UHLIG for their pioneering work leading to motion picture digital sound."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ronald C. Goodman|ATTILA SZALAY|STEVEN SASS|SPACECAM SYSTEMS INC.",
+    "NomineeIds": "nm0329219|?|nm0765916|?",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To RONALD C. GOODMAN, ATTILA SZALAY, STEVEN SASS and SPACECAM SYSTEMS, INC. for the design of the SpaceCam gyroscopically stabilized Camera System."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Colin Mossman|Joe Wary|Hans Leisinger|Gerald Painter|Deluxe Laboratories",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To COLIN MOSSMAN, JOE WARY, HANS LEISINGER, GERALD PAINTER and DELUXE LABORATORIES for the design and development of the Deluxe Quad Format Digital Sound Printing Head."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Gilmartin|JOHANNES BORGGREBE|JEAN-PIERRE GAGNON|FRANK RICOTTA|TECHNICOLOR INC.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To DAVID GILMARTIN, JOHANNES BORGGREBE, JEAN-PIERRE GAGNON, FRANK RICOTTA and TECHNICOLOR, INC. for the design and development of the Technicolor Contact Printer Sound Head."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Iain Neil|Rick Gelbard|Eric Dubberke",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To IAIN NEIL for the optical design; RICK GELBARD for the mechanical design; ERIC DUBBERKE for the engineering and PANAVISION INTERNATIONAL, L.P., for the development of the Primo 3:1 Zoom Lens."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Martin S. Mueller",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To MARTIN S. MUELLER for the design and development of the MSM 9801 IMAX 65mm/15 perf production motion picture camera."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Alvy Ray Smith|Ed Catmull|Thomas Porter|Tom Duff",
+    "NomineeIds": "nm0807286|nm0146216|nm0692312|nm0240416",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To ALVY RAY SMITH, ED CATMULL, THOMAS PORTER and TOM DUFF for their pioneering inventions in Digital Image Compositing."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Pascal Chedeville",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To PASCAL CHEDEVILLE for the design of the L.C. Concept Digital Sound System for motion picture exhibition."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JAMES DEAS",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JAMES DEAS of the Warner Bros. Studio Facility for the design and subsequent development of an Automated Patchbay and Metering System for motion picture sound transfer and dubbing operations."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CLAY DAVIS|JOHN CARTER",
+    "NomineeIds": "?|nm0141720",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To CLAY DAVIS and JOHN CARTER of Todd-AO for their pioneering efforts in creating an Automated Patchbay System for motion picture sound transfer and dubbing operations."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Al Jensen|CHUCK HEADLEY|JEAN MESSNER|HAZEM NABULSI",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To AL JENSEN, CHUCK HEADLEY, JEAN MESSNER and HAZEM NABULSI of CEI Technology for producing a self-contained, flicker-free Color Video-Assist Camera."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "PETER DENZ",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To PETER DENZ of Präzisions-Entwicklung Denz for developing a flicker-free Color Video-Assist Camera."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Pringle|Yan Zhong Fang",
+    "NomineeIds": "nm0697810|?",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To DAVID PRINGLE and YAN ZHONG FANG for the design and development of \\\"Lightning Strikes,\\\" a flexible, high-performance electronic lightning effect system."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "BHP Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To BHP, INCORPORATED for their pioneering efforts developing Digital Sound Printing Heads for motion pictures."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JOE FINNEGAN",
+    "NomineeIds": "nm0278200",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To JOE FINNEGAN (a.k.a. Joe Yrigoyen) for his pioneering work in developing the Air Ram for motion picture stunt effects."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gary Demos|David Ruhoff|Dan Cameron|Michelle Feraud",
+    "NomineeIds": "nm1164179|nm1167349|?|nm1164503",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To GARY DEMOS, DAVID RUHOFF, DAN CAMERON and MICHELLE FERAUD for their pioneering efforts in the creation of the Digital Productions Digital Film Compositing System."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Douglas Smythe|Lincoln Hu|Douglas S. Kay|Industrial Light And Magic",
+    "NomineeIds": "nm0810817|nm0398894|nm0443030|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To DOUGLAS SMYTHE, LINCOLN HU, DOUGLAS S. KAY and INDUSTRIAL LIGHT AND MAGIC for their pioneering efforts in the creation of the ILM Digital Film Compositing System."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Computer Film Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To the COMPUTER FILM COMPANY for their pioneering efforts in the creation of the CFC Digital Film Compositing System."
+  },
+  {
+    "Ceremony": 68,
+    "Year": 1995,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Institut National Polytechnique De Toulouse|Kodak Pathe Ctp Cine|Eclair Laboratories|Martineau Industries",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To INSTITUT NATIONAL POLYTECHNIQUE DE TOULOUSE for the concept; KODAK PATHE CTP CINE for the prototype; and ECLAIR LABORATORIES and MARTINEAU INDUSTRIES for the development and further implementation of the Toulouse Electrolytic Silver Recovery Cell."
   }
 ]

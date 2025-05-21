@@ -1,1491 +1,1794 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1980",
-    "nominees": [
-      "Ordinary People"
-    ],
-    "movies": [
-      {
-        "title": "Ordinary People",
-        "tmdb_id": 16619,
-        "imdb_id": "tt0081283"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1980",
-    "nominees": [
-      "Coal Miner's Daughter"
-    ],
-    "movies": [
-      {
-        "title": "Coal Miner's Daughter",
-        "tmdb_id": 16769,
-        "imdb_id": "tt0080549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1980",
-    "nominees": [
-      "The Elephant Man"
-    ],
-    "movies": [
-      {
-        "title": "The Elephant Man",
-        "tmdb_id": 1955,
-        "imdb_id": "tt0080678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1980",
-    "nominees": [
-      "Raging Bull"
-    ],
-    "movies": [
-      {
-        "title": "Raging Bull",
-        "tmdb_id": 1578,
-        "imdb_id": "tt0081398"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1980",
-    "nominees": [
-      "Tess"
-    ],
-    "movies": [
-      {
-        "title": "Tess",
-        "tmdb_id": 11121,
-        "imdb_id": "tt0080009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1980",
-    "nominees": [
-      "Robert De Niro"
-    ],
-    "movies": [
-      {
-        "title": "Raging Bull",
-        "tmdb_id": 1578,
-        "imdb_id": "tt0081398"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1980",
-    "nominees": [
-      "Robert Duvall"
-    ],
-    "movies": [
-      {
-        "title": "The Great Santini",
-        "tmdb_id": 21887,
-        "imdb_id": "tt0079239"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1980",
-    "nominees": [
-      "John Hurt"
-    ],
-    "movies": [
-      {
-        "title": "The Elephant Man",
-        "tmdb_id": 1955,
-        "imdb_id": "tt0080678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1980",
-    "nominees": [
-      "Jack Lemmon"
-    ],
-    "movies": [
-      {
-        "title": "Tribute",
-        "tmdb_id": 130917,
-        "imdb_id": "tt0081656"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1980",
-    "nominees": [
-      "Peter O'Toole"
-    ],
-    "movies": [
-      {
-        "title": "The Stunt Man",
-        "tmdb_id": 42160,
-        "imdb_id": "tt0081568"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1980",
-    "nominees": [
-      "Sissy Spacek"
-    ],
-    "movies": [
-      {
-        "title": "Coal Miner's Daughter",
-        "tmdb_id": 16769,
-        "imdb_id": "tt0080549"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1980",
-    "nominees": [
-      "Ellen Burstyn"
-    ],
-    "movies": [
-      {
-        "title": "Resurrection",
-        "tmdb_id": 98864,
-        "imdb_id": "tt0081414"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1980",
-    "nominees": [
-      "Goldie Hawn"
-    ],
-    "movies": [
-      {
-        "title": "Private Benjamin",
-        "tmdb_id": 10765,
-        "imdb_id": "tt0081375"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1980",
-    "nominees": [
-      "Mary Tyler Moore"
-    ],
-    "movies": [
-      {
-        "title": "Ordinary People",
-        "tmdb_id": 16619,
-        "imdb_id": "tt0081283"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1980",
-    "nominees": [
-      "Gena Rowlands"
-    ],
-    "movies": [
-      {
-        "title": "Gloria",
-        "tmdb_id": 10889,
-        "imdb_id": "tt0080798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1980",
-    "nominees": [
-      "Timothy Hutton"
-    ],
-    "movies": [
-      {
-        "title": "Ordinary People",
-        "tmdb_id": 16619,
-        "imdb_id": "tt0081283"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1980",
-    "nominees": [
-      "Judd Hirsch"
-    ],
-    "movies": [
-      {
-        "title": "Ordinary People",
-        "tmdb_id": 16619,
-        "imdb_id": "tt0081283"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1980",
-    "nominees": [
-      "Michael O'Keefe"
-    ],
-    "movies": [
-      {
-        "title": "The Great Santini",
-        "tmdb_id": 21887,
-        "imdb_id": "tt0079239"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1980",
-    "nominees": [
-      "Joe Pesci"
-    ],
-    "movies": [
-      {
-        "title": "Raging Bull",
-        "tmdb_id": 1578,
-        "imdb_id": "tt0081398"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1980",
-    "nominees": [
-      "Jason Robards"
-    ],
-    "movies": [
-      {
-        "title": "Melvin and Howard",
-        "tmdb_id": 38772,
-        "imdb_id": "tt0081150"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1980",
-    "nominees": [
-      "Mary Steenburgen"
-    ],
-    "movies": [
-      {
-        "title": "Melvin and Howard",
-        "tmdb_id": 38772,
-        "imdb_id": "tt0081150"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1980",
-    "nominees": [
-      "Eileen Brennan"
-    ],
-    "movies": [
-      {
-        "title": "Private Benjamin",
-        "tmdb_id": 10765,
-        "imdb_id": "tt0081375"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1980",
-    "nominees": [
-      "Eva Le Gallienne"
-    ],
-    "movies": [
-      {
-        "title": "Resurrection",
-        "tmdb_id": 98864,
-        "imdb_id": "tt0081414"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1980",
-    "nominees": [
-      "Cathy Moriarty"
-    ],
-    "movies": [
-      {
-        "title": "Raging Bull",
-        "tmdb_id": 1578,
-        "imdb_id": "tt0081398"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1980",
-    "nominees": [
-      "Diana Scarwid"
-    ],
-    "movies": [
-      {
-        "title": "Inside Moves",
-        "tmdb_id": 39503,
-        "imdb_id": "tt0080928"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1980",
-    "nominees": [
-      "Robert Redford"
-    ],
-    "movies": [
-      {
-        "title": "Ordinary People",
-        "tmdb_id": 16619,
-        "imdb_id": "tt0081283"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1980",
-    "nominees": [
-      "David Lynch"
-    ],
-    "movies": [
-      {
-        "title": "The Elephant Man",
-        "tmdb_id": 1955,
-        "imdb_id": "tt0080678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1980",
-    "nominees": [
-      "Martin Scorsese"
-    ],
-    "movies": [
-      {
-        "title": "Raging Bull",
-        "tmdb_id": 1578,
-        "imdb_id": "tt0081398"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1980",
-    "nominees": [
-      "Richard Rush"
-    ],
-    "movies": [
-      {
-        "title": "The Stunt Man",
-        "tmdb_id": 42160,
-        "imdb_id": "tt0081568"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1980",
-    "nominees": [
-      "Roman Polanski"
-    ],
-    "movies": [
-      {
-        "title": "Tess",
-        "tmdb_id": 11121,
-        "imdb_id": "tt0080009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1980",
-    "nominees": [
-      "Alvin Sargent"
-    ],
-    "movies": [
-      {
-        "title": "Ordinary People",
-        "tmdb_id": 16619,
-        "imdb_id": "tt0081283"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1980",
-    "nominees": [
-      "Jonathan Hardy",
-      "David Stevens",
-      "Bruce Beresford"
-    ],
-    "movies": [
-      {
-        "title": "Breaker Morant",
-        "tmdb_id": 13783,
-        "imdb_id": "tt0080310"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1980",
-    "nominees": [
-      "Tom Rickman"
-    ],
-    "movies": [
-      {
-        "title": "Coal Miner's Daughter",
-        "tmdb_id": 16769,
-        "imdb_id": "tt0080549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1980",
-    "nominees": [
-      "Christopher De Vore",
-      "Eric Bergren",
-      "David Lynch"
-    ],
-    "movies": [
-      {
-        "title": "The Elephant Man",
-        "tmdb_id": 1955,
-        "imdb_id": "tt0080678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1980",
-    "nominees": [
-      "Lawrence B. Marcus",
-      "Richard Rush"
-    ],
-    "movies": [
-      {
-        "title": "The Stunt Man",
-        "tmdb_id": 42160,
-        "imdb_id": "tt0081568"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1980",
-    "nominees": [
-      "Bo Goldman"
-    ],
-    "movies": [
-      {
-        "title": "Melvin and Howard",
-        "tmdb_id": 38772,
-        "imdb_id": "tt0081150"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1980",
-    "nominees": [
-      "W. D. Richter",
-      "Arthur Ross"
-    ],
-    "movies": [
-      {
-        "title": "Brubaker",
-        "tmdb_id": 1623,
-        "imdb_id": "tt0080474"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1980",
-    "nominees": [
-      "Christopher Gore"
-    ],
-    "movies": [
-      {
-        "title": "Fame",
-        "tmdb_id": 3537,
-        "imdb_id": "tt0080716"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1980",
-    "nominees": [
-      "Jean Gruault"
-    ],
-    "movies": [
-      {
-        "title": "My American Uncle",
-        "tmdb_id": 39543,
-        "imdb_id": "tt0081176"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1980",
-    "nominees": [
-      "Nancy Meyers",
-      "Charles Shyer",
-      "Harvey Miller"
-    ],
-    "movies": [
-      {
-        "title": "Private Benjamin",
-        "tmdb_id": 10765,
-        "imdb_id": "tt0081375"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1980",
-    "nominees": [
-      "Michael Gore"
-    ],
-    "movies": [
-      {
-        "title": "Fame",
-        "tmdb_id": 3537,
-        "imdb_id": "tt0080716"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1980",
-    "nominees": [
-      "John Corigliano"
-    ],
-    "movies": [
-      {
-        "title": "Altered States",
-        "tmdb_id": 11542,
-        "imdb_id": "tt0080360"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1980",
-    "nominees": [
-      "John Morris"
-    ],
-    "movies": [
-      {
-        "title": "The Elephant Man",
-        "tmdb_id": 1955,
-        "imdb_id": "tt0080678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1980",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "The Empire Strikes Back",
-        "tmdb_id": 1891,
-        "imdb_id": "tt0080684"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1980",
-    "nominees": [
-      "Philippe Sarde"
-    ],
-    "movies": [
-      {
-        "title": "Tess",
-        "tmdb_id": 11121,
-        "imdb_id": "tt0080009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1980",
-    "nominees": [
-      "Fame"
-    ],
-    "movies": [
-      {
-        "title": "Fame",
-        "tmdb_id": 3537,
-        "imdb_id": "tt0080716"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1980",
-    "nominees": [
-      "Nine to Five"
-    ],
-    "movies": [
-      {
-        "title": "Nine to Five",
-        "tmdb_id": 19494,
-        "imdb_id": "tt0080319"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1980",
-    "nominees": [
-      "On the Road Again"
-    ],
-    "movies": [
-      {
-        "title": "Honeysuckle Rose",
-        "tmdb_id": 22288,
-        "imdb_id": "tt0080888"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1980",
-    "nominees": [
-      "Out Here on My Own"
-    ],
-    "movies": [
-      {
-        "title": "Fame",
-        "tmdb_id": 3537,
-        "imdb_id": "tt0080716"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1980",
-    "nominees": [
-      "People Alone"
-    ],
-    "movies": [
-      {
-        "title": "The Competition",
-        "tmdb_id": 42158,
-        "imdb_id": "tt0080556"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1980",
-    "nominees": [
-      "Moscow Does Not Believe in Tears"
-    ],
-    "movies": [
-      {
-        "title": "Moscow Does Not Believe in Tears",
-        "tmdb_id": 21028,
-        "imdb_id": "tt0079579"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1980",
-    "nominees": [
-      "Confidence"
-    ],
-    "movies": [
-      {
-        "title": "Confidence",
-        "tmdb_id": 49139,
-        "imdb_id": "tt0078868"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1980",
-    "nominees": [
-      "Kagemusha"
-    ],
-    "movies": [
-      {
-        "title": "Kagemusha",
-        "tmdb_id": 11953,
-        "imdb_id": "tt0080979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1980",
-    "nominees": [
-      "The Last Metro"
-    ],
-    "movies": [
-      {
-        "title": "The Last Metro",
-        "tmdb_id": 1716,
-        "imdb_id": "tt0080610"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1980",
-    "nominees": [
-      "The Nest"
-    ],
-    "movies": [
-      {
-        "title": "The Nest",
-        "tmdb_id": 136676,
-        "imdb_id": "tt0079625"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1980",
-    "nominees": [
-      "From Mao to Mozart: Isaac Stern in China"
-    ],
-    "movies": [
-      {
-        "title": "From Mao to Mozart: Isaac Stern in China",
-        "tmdb_id": 113815,
-        "imdb_id": "tt0080762"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1980",
-    "nominees": [
-      "Agee"
-    ],
-    "movies": [
-      {
-        "title": "Agee",
-        "tmdb_id": 136682,
-        "imdb_id": "tt0080337"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1980",
-    "nominees": [
-      "The Day After Trinity"
-    ],
-    "movies": [
-      {
-        "title": "The Day After Trinity",
-        "tmdb_id": 59314,
-        "imdb_id": "tt0080594"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1980",
-    "nominees": [
-      "Front Line"
-    ],
-    "movies": [
-      {
-        "title": "Front Line",
-        "tmdb_id": 149364,
-        "imdb_id": "tt0080763"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1980",
-    "nominees": [
-      "The Yellow Star: The Persecution of the Jews in Europe - 1933-1945"
-    ],
-    "movies": [
-      {
-        "title": "The Yellow Star: The Persecution of the Jews in Europe - 1933-1945",
-        "tmdb_id": 136678,
-        "imdb_id": "tt0080780"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1980",
-    "nominees": [
-      "Karl Hess: Toward Liberty"
-    ],
-    "movies": [
-      {
-        "title": "Karl Hess: Toward Liberty",
-        "tmdb_id": 244373,
-        "imdb_id": "tt0080987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1980",
-    "nominees": [
-      "Don't Mess with Bill"
-    ],
-    "movies": [
-      {
-        "title": "Don't Mess with Bill",
-        "tmdb_id": 244376,
-        "imdb_id": "tt0080647"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1980",
-    "nominees": [
-      "The Eruption of Mount St. Helens!"
-    ],
-    "movies": [
-      {
-        "title": "The Eruption of Mount St. Helens!",
-        "tmdb_id": 31753,
-        "imdb_id": "tt0080694"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1980",
-    "nominees": [
-      "It's the Same World"
-    ],
-    "movies": [
-      {
-        "title": "It's the Same World",
-        "tmdb_id": 244379,
-        "imdb_id": "tt0080937"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1980",
-    "nominees": [
-      "Luther Metke at 94"
-    ],
-    "movies": [
-      {
-        "title": "Luther Metke at 94",
-        "tmdb_id": 244380,
-        "imdb_id": "tt0081091"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1980",
-    "nominees": [
-      "The Fly"
-    ],
-    "movies": [
-      {
-        "title": "The Fly",
-        "tmdb_id": 581750,
-        "imdb_id": "tt6651942"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1980",
-    "nominees": [
-      "All Nothing"
-    ],
-    "movies": [
-      {
-        "title": "All Nothing",
-        "tmdb_id": 90826,
-        "imdb_id": "tt0080351"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1980",
-    "nominees": [
-      "History of the World in Three Minutes Flat"
-    ],
-    "movies": [
-      {
-        "title": "History of the World in Three Minutes Flat",
-        "tmdb_id": 244362,
-        "imdb_id": "tt0080879"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1980",
-    "nominees": [
-      "The Dollar Bottom"
-    ],
-    "movies": [
-      {
-        "title": "The Dollar Bottom",
-        "tmdb_id": 244363,
-        "imdb_id": "tt0080643"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1980",
-    "nominees": [
-      "Fall Line"
-    ],
-    "movies": [
-      {
-        "title": "Fall Line",
-        "tmdb_id": 244369,
-        "imdb_id": "tt0080713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1980",
-    "nominees": [
-      "A Jury of Her Peers"
-    ],
-    "movies": [
-      {
-        "title": "A Jury of Her Peers",
-        "tmdb_id": 244372,
-        "imdb_id": "tt0080974"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "Pierre Guffroy",
-      "Jack Stephens"
-    ],
-    "movies": [
-      {
-        "title": "Tess",
-        "tmdb_id": 11121,
-        "imdb_id": "tt0080009"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "John W. Corso",
-      "John M. Dwyer"
-    ],
-    "movies": [
-      {
-        "title": "Coal Miner's Daughter",
-        "tmdb_id": 16769,
-        "imdb_id": "tt0080549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "Stuart Craig",
-      "Robert Cartwright",
-      "Hugh Scaife"
-    ],
-    "movies": [
-      {
-        "title": "The Elephant Man",
-        "tmdb_id": 1955,
-        "imdb_id": "tt0080678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "Norman Reynolds",
-      "Leslie Dilley",
-      "Harry Lange",
-      "Alan Tompkins",
-      "Michael D. Ford"
-    ],
-    "movies": [
-      {
-        "title": "The Empire Strikes Back",
-        "tmdb_id": 1891,
-        "imdb_id": "tt0080684"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "Yoshiro Muraki"
-    ],
-    "movies": [
-      {
-        "title": "Kagemusha",
-        "tmdb_id": 11953,
-        "imdb_id": "tt0080979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1980",
-    "nominees": [
-      "Geoffrey Unsworth",
-      "Ghislain Cloquet"
-    ],
-    "movies": [
-      {
-        "title": "Tess",
-        "tmdb_id": 11121,
-        "imdb_id": "tt0080009"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1980",
-    "nominees": [
-      "Nestor Almendros"
-    ],
-    "movies": [
-      {
-        "title": "The Blue Lagoon",
-        "tmdb_id": 5689,
-        "imdb_id": "tt0080453"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1980",
-    "nominees": [
-      "Ralf D. Bode"
-    ],
-    "movies": [
-      {
-        "title": "Coal Miner's Daughter",
-        "tmdb_id": 16769,
-        "imdb_id": "tt0080549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1980",
-    "nominees": [
-      "James Crabe"
-    ],
-    "movies": [
-      {
-        "title": "The Formula",
-        "tmdb_id": 31603,
-        "imdb_id": "tt0080754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1980",
-    "nominees": [
-      "Michael Chapman"
-    ],
-    "movies": [
-      {
-        "title": "Raging Bull",
-        "tmdb_id": 1578,
-        "imdb_id": "tt0081398"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1980",
-    "nominees": [
-      "Thelma Schoonmaker"
-    ],
-    "movies": [
-      {
-        "title": "Raging Bull",
-        "tmdb_id": 1578,
-        "imdb_id": "tt0081398"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1980",
-    "nominees": [
-      "Arthur Schmidt"
-    ],
-    "movies": [
-      {
-        "title": "Coal Miner's Daughter",
-        "tmdb_id": 16769,
-        "imdb_id": "tt0080549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1980",
-    "nominees": [
-      "David Blewitt"
-    ],
-    "movies": [
-      {
-        "title": "The Competition",
-        "tmdb_id": 42158,
-        "imdb_id": "tt0080556"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1980",
-    "nominees": [
-      "Anne V. Coates"
-    ],
-    "movies": [
-      {
-        "title": "The Elephant Man",
-        "tmdb_id": 1955,
-        "imdb_id": "tt0080678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1980",
-    "nominees": [
-      "Gerry Hambling"
-    ],
-    "movies": [
-      {
-        "title": "Fame",
-        "tmdb_id": 3537,
-        "imdb_id": "tt0080716"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1980",
-    "nominees": [
-      "Brian Johnson",
-      "Richard Edlund",
-      "Dennis Muren",
-      "Bruce Nicholson"
-    ],
-    "movies": [
-      {
-        "title": "The Empire Strikes Back",
-        "tmdb_id": 1891,
-        "imdb_id": "tt0080684"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1980",
-    "nominees": [
-      "Bill Varney",
-      "Steve Maslow",
-      "Gregg Landaker",
-      "Peter Sutton"
-    ],
-    "movies": [
-      {
-        "title": "The Empire Strikes Back",
-        "tmdb_id": 1891,
-        "imdb_id": "tt0080684"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1980",
-    "nominees": [
-      "Arthur Piantadosi",
-      "Les Frescholtz",
-      "Michael Minkler",
-      "Willie D. Burton"
-    ],
-    "movies": [
-      {
-        "title": "Altered States",
-        "tmdb_id": 11542,
-        "imdb_id": "tt0080360"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1980",
-    "nominees": [
-      "Richard Portman",
-      "Roger Heman",
-      "James R. Alexander"
-    ],
-    "movies": [
-      {
-        "title": "Coal Miner's Daughter",
-        "tmdb_id": 16769,
-        "imdb_id": "tt0080549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1980",
-    "nominees": [
-      "Michael J. Kohut",
-      "Aaron Rochin",
-      "Jay M. Harding",
-      "Christopher Newman"
-    ],
-    "movies": [
-      {
-        "title": "Fame",
-        "tmdb_id": 3537,
-        "imdb_id": "tt0080716"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1980",
-    "nominees": [
-      "Donald O. Mitchell",
-      "Bill Nicholson",
-      "David J. Kimball",
-      "Les Lazarowitz"
-    ],
-    "movies": [
-      {
-        "title": "Raging Bull",
-        "tmdb_id": 1578,
-        "imdb_id": "tt0081398"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "Anthony Powell"
-    ],
-    "movies": [
-      {
-        "title": "Tess",
-        "tmdb_id": 11121,
-        "imdb_id": "tt0080009"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "Patricia Norris"
-    ],
-    "movies": [
-      {
-        "title": "The Elephant Man",
-        "tmdb_id": 1955,
-        "imdb_id": "tt0080678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "Anna Senior"
-    ],
-    "movies": [
-      {
-        "title": "My Brilliant Career",
-        "tmdb_id": 16659,
-        "imdb_id": "tt0079596"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "Jean-Pierre Dorleac"
-    ],
-    "movies": [
-      {
-        "title": "Somewhere in Time",
-        "tmdb_id": 16633,
-        "imdb_id": "tt0081534"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1980",
-    "nominees": [
-      "Paul Zastupnevich"
-    ],
-    "movies": [
-      {
-        "title": "When Time Ran Out...",
-        "tmdb_id": 47942,
-        "imdb_id": "tt0081747"
-      }
-    ],
-    "won": false
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Raging Bull",
+    "FilmId": "tt0081398",
+    "Name": "Robert De Niro",
+    "Nominees": "Robert De Niro",
+    "NomineeIds": "nm0000134",
+    "Winner": "True",
+    "Detail": "Jake LaMotta",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Great Santini",
+    "FilmId": "tt0079239",
+    "Name": "Robert Duvall",
+    "Nominees": "Robert Duvall",
+    "NomineeIds": "nm0000380",
+    "Winner": "",
+    "Detail": "Bull Meechum",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Elephant Man",
+    "FilmId": "tt0080678",
+    "Name": "John Hurt",
+    "Nominees": "John Hurt",
+    "NomineeIds": "nm0000457",
+    "Winner": "",
+    "Detail": "John Merrick",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Tribute",
+    "FilmId": "tt0081656",
+    "Name": "Jack Lemmon",
+    "Nominees": "Jack Lemmon",
+    "NomineeIds": "nm0000493",
+    "Winner": "",
+    "Detail": "Scottie Templeton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Stunt Man",
+    "FilmId": "tt0081568",
+    "Name": "Peter O'Toole",
+    "Nominees": "Peter O'Toole",
+    "NomineeIds": "nm0000564",
+    "Winner": "",
+    "Detail": "Eli Cross",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Ordinary People",
+    "FilmId": "tt0081283",
+    "Name": "Judd Hirsch",
+    "Nominees": "Judd Hirsch",
+    "NomineeIds": "nm0002139",
+    "Winner": "",
+    "Detail": "Dr. Berger",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Ordinary People",
+    "FilmId": "tt0081283",
+    "Name": "Timothy Hutton",
+    "Nominees": "Timothy Hutton",
+    "NomineeIds": "nm0000459",
+    "Winner": "True",
+    "Detail": "Conrad Jarrett",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Great Santini",
+    "FilmId": "tt0079239",
+    "Name": "Michael O'Keefe",
+    "Nominees": "Michael O'Keefe",
+    "NomineeIds": "nm0001574",
+    "Winner": "",
+    "Detail": "Ben Meechum",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Raging Bull",
+    "FilmId": "tt0081398",
+    "Name": "Joe Pesci",
+    "Nominees": "Joe Pesci",
+    "NomineeIds": "nm0000582",
+    "Winner": "",
+    "Detail": "Joey LaMotta",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Melvin and Howard",
+    "FilmId": "tt0081150",
+    "Name": "Jason Robards",
+    "Nominees": "Jason Robards",
+    "NomineeIds": "nm0001673",
+    "Winner": "",
+    "Detail": "Howard Hughes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Resurrection",
+    "FilmId": "tt0081414",
+    "Name": "Ellen Burstyn",
+    "Nominees": "Ellen Burstyn",
+    "NomineeIds": "nm0000995",
+    "Winner": "",
+    "Detail": "Edna May",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Private Benjamin",
+    "FilmId": "tt0081375",
+    "Name": "Goldie Hawn",
+    "Nominees": "Goldie Hawn",
+    "NomineeIds": "nm0000443",
+    "Winner": "",
+    "Detail": "Judy Benjamin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Ordinary People",
+    "FilmId": "tt0081283",
+    "Name": "Mary Tyler Moore",
+    "Nominees": "Mary Tyler Moore",
+    "NomineeIds": "nm0001546",
+    "Winner": "",
+    "Detail": "Beth Jarrett",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Gloria",
+    "FilmId": "tt0080798",
+    "Name": "Gena Rowlands",
+    "Nominees": "Gena Rowlands",
+    "NomineeIds": "nm0001687",
+    "Winner": "",
+    "Detail": "Gloria Swenson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Coal Miner's Daughter",
+    "FilmId": "tt0080549",
+    "Name": "Sissy Spacek",
+    "Nominees": "Sissy Spacek",
+    "NomineeIds": "nm0000651",
+    "Winner": "True",
+    "Detail": "Loretta Lynn",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Private Benjamin",
+    "FilmId": "tt0081375",
+    "Name": "Eileen Brennan",
+    "Nominees": "Eileen Brennan",
+    "NomineeIds": "nm0107281",
+    "Winner": "",
+    "Detail": "Captain Doreen Lewis",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Resurrection",
+    "FilmId": "tt0081414",
+    "Name": "Eva Le Gallienne",
+    "Nominees": "Eva Le Gallienne",
+    "NomineeIds": "nm0499170",
+    "Winner": "",
+    "Detail": "Grandma Pearl",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Raging Bull",
+    "FilmId": "tt0081398",
+    "Name": "Cathy Moriarty",
+    "Nominees": "Cathy Moriarty",
+    "NomineeIds": "nm0001550",
+    "Winner": "",
+    "Detail": "Vicki LaMotta",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Inside Moves",
+    "FilmId": "tt0080928",
+    "Name": "Diana Scarwid",
+    "Nominees": "Diana Scarwid",
+    "NomineeIds": "nm0769311",
+    "Winner": "",
+    "Detail": "Louise",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Melvin and Howard",
+    "FilmId": "tt0081150",
+    "Name": "Mary Steenburgen",
+    "Nominees": "Mary Steenburgen",
+    "NomineeIds": "nm0005460",
+    "Winner": "True",
+    "Detail": "Lynda Dummar",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Coal Miner's Daughter",
+    "FilmId": "tt0080549",
+    "Name": "Art Direction: John W. Corso; Set Decoration: John M. Dwyer",
+    "Nominees": "John W. Corso|John M. Dwyer",
+    "NomineeIds": "nm0181149|nm0245501",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Elephant Man",
+    "FilmId": "tt0080678",
+    "Name": "Art Direction: Stuart Craig, Bob Cartwright; Set Decoration: Hugh Scaife",
+    "Nominees": "Stuart Craig|Bob Cartwright|Hugh Scaife",
+    "NomineeIds": "nm0186023|nm0142204|nm0768728",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Empire Strikes Back",
+    "FilmId": "tt0080684",
+    "Name": "Art Direction: Norman Reynolds, Leslie Dilley, Harry Lange, Alan Tomkins; Set Decoration: Michael Ford",
+    "Nominees": "Norman Reynolds|Leslie Dilley|Harry Lange|Alan Tomkins|Michael Ford",
+    "NomineeIds": "nm0721888|nm0226896|nm0486127|nm0866766|nm0285785",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Kagemusha (The Shadow Warrior)",
+    "FilmId": "tt0080979",
+    "Name": "Yoshiro Muraki",
+    "Nominees": "Yoshiro Muraki",
+    "NomineeIds": "nm0613499",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Tess",
+    "FilmId": "tt0080009",
+    "Name": "Art Direction: Pierre Guffroy, Jack Stephens",
+    "Nominees": "Pierre Guffroy|Jack Stephens",
+    "NomineeIds": "nm0346535|nm0827039",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Blue Lagoon",
+    "FilmId": "tt0080453",
+    "Name": "Nestor Almendros",
+    "Nominees": "Nestor Almendros",
+    "NomineeIds": "nm0000743",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Coal Miner's Daughter",
+    "FilmId": "tt0080549",
+    "Name": "Ralf D. Bode",
+    "Nominees": "Ralf D. Bode",
+    "NomineeIds": "nm0005659",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Formula",
+    "FilmId": "tt0080754",
+    "Name": "James Crabe",
+    "Nominees": "James Crabe",
+    "NomineeIds": "nm0185583",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Raging Bull",
+    "FilmId": "tt0081398",
+    "Name": "Michael Chapman",
+    "Nominees": "Michael Chapman",
+    "NomineeIds": "nm0152469",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Tess",
+    "FilmId": "tt0080009",
+    "Name": "Geoffrey Unsworth, Ghislain Cloquet",
+    "Nominees": "Geoffrey Unsworth|Ghislain Cloquet",
+    "NomineeIds": "nm0005910|nm0005669",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Elephant Man",
+    "FilmId": "tt0080678",
+    "Name": "Patricia Norris",
+    "Nominees": "Patricia Norris",
+    "NomineeIds": "nm0635876",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "My Brilliant Career",
+    "FilmId": "tt0079596",
+    "Name": "Anna Senior",
+    "Nominees": "Anna Senior",
+    "NomineeIds": "nm0784323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Somewhere in Time",
+    "FilmId": "tt0081534",
+    "Name": "Jean-Pierre Dorleac",
+    "Nominees": "Jean-Pierre Dorleac",
+    "NomineeIds": "nm0233754",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Tess",
+    "FilmId": "tt0080009",
+    "Name": "Anthony Powell",
+    "Nominees": "Anthony Powell",
+    "NomineeIds": "nm0694018",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "When Time Ran Out",
+    "FilmId": "tt0081747",
+    "Name": "Paul Zastupnevich",
+    "Nominees": "Paul Zastupnevich",
+    "NomineeIds": "nm0953665",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Elephant Man",
+    "FilmId": "tt0080678",
+    "Name": "David Lynch",
+    "Nominees": "David Lynch",
+    "NomineeIds": "nm0000186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Ordinary People",
+    "FilmId": "tt0081283",
+    "Name": "Robert Redford",
+    "Nominees": "Robert Redford",
+    "NomineeIds": "nm0000602",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Raging Bull",
+    "FilmId": "tt0081398",
+    "Name": "Martin Scorsese",
+    "Nominees": "Martin Scorsese",
+    "NomineeIds": "nm0000217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Stunt Man",
+    "FilmId": "tt0081568",
+    "Name": "Richard Rush",
+    "Nominees": "Richard Rush",
+    "NomineeIds": "nm0750701",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Tess",
+    "FilmId": "tt0080009",
+    "Name": "Roman Polanski",
+    "Nominees": "Roman Polanski",
+    "NomineeIds": "nm0000591",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Agee",
+    "FilmId": "tt0080337",
+    "Name": "Ross Spears, Producer",
+    "Nominees": "Ross Spears",
+    "NomineeIds": "nm0817386",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Day after Trinity",
+    "FilmId": "tt0080594",
+    "Name": "Jon Else, Producer",
+    "Nominees": "Jon Else",
+    "NomineeIds": "nm0255613",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "From Mao to Mozart: Isaac Stern in China",
+    "FilmId": "tt0080762",
+    "Name": "Murray Lerner, Producer",
+    "Nominees": "Murray Lerner",
+    "NomineeIds": "nm0503635",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Front Line",
+    "FilmId": "tt0080763",
+    "Name": "David Bradbury, Producer",
+    "Nominees": "David Bradbury",
+    "NomineeIds": "nm0102887",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Yellow Star - The Persecution of the Jews in Europe 1933-45",
+    "FilmId": "tt0080780",
+    "Name": "Bengt von zur Muehlen and Arthur Cohn, Producers",
+    "Nominees": "Bengt von zur Muehlen|Arthur Cohn",
+    "NomineeIds": "nm0903286|nm0004453",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Don't Mess with Bill",
+    "FilmId": "tt0080647",
+    "Name": "John Watson and Pen Densham, Producers",
+    "Nominees": "John Watson|Pen Densham",
+    "NomineeIds": "nm0914709|nm0219720",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Eruption of Mount St. Helens",
+    "FilmId": "tt0080694",
+    "Name": "George Casey, Producer",
+    "Nominees": "George Casey",
+    "NomineeIds": "nm0143426",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "It's the Same World",
+    "FilmId": "tt0080937",
+    "Name": "Dick Young, Producer",
+    "Nominees": "Dick Young",
+    "NomineeIds": "nm0949484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Karl Hess: Toward Liberty",
+    "FilmId": "tt0080987",
+    "Name": "Roland Hallé and Peter W. Ladue, Producers",
+    "Nominees": "Roland Hallé|Peter W. Ladue",
+    "NomineeIds": "nm0356806|nm0480627",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Luther Metke at 94",
+    "FilmId": "tt0081091",
+    "Name": "Richard Hawkins and Jorge Preloran, Producers",
+    "Nominees": "Richard Hawkins|Jorge Preloran",
+    "NomineeIds": "nm0370208|nm0695900",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Coal Miner's Daughter",
+    "FilmId": "tt0080549",
+    "Name": "Arthur Schmidt",
+    "Nominees": "Arthur Schmidt",
+    "NomineeIds": "nm0772831",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Competition",
+    "FilmId": "tt0080556",
+    "Name": "David Blewitt",
+    "Nominees": "David Blewitt",
+    "NomineeIds": "nm0088340",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Elephant Man",
+    "FilmId": "tt0080678",
+    "Name": "Anne V. Coates",
+    "Nominees": "Anne V. Coates",
+    "NomineeIds": "nm0167613",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Fame",
+    "FilmId": "tt0080716",
+    "Name": "Gerry Hambling",
+    "Nominees": "Gerry Hambling",
+    "NomineeIds": "nm0357421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Raging Bull",
+    "FilmId": "tt0081398",
+    "Name": "Thelma Schoonmaker",
+    "Nominees": "Thelma Schoonmaker",
+    "NomineeIds": "nm0774817",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Confidence",
+    "FilmId": "tt0078868",
+    "Name": "Hungary",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Kagemusha (The Shadow Warrior)",
+    "FilmId": "tt0080979",
+    "Name": "Japan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Last Metro",
+    "FilmId": "tt0080610",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Moscow Does Not Believe in Tears",
+    "FilmId": "tt0079579",
+    "Name": "Union of Soviet Socialist Republics",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Nest",
+    "FilmId": "tt0079625",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Altered States",
+    "FilmId": "tt0080360",
+    "Name": "John Corigliano",
+    "Nominees": "John Corigliano",
+    "NomineeIds": "nm0179858",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Elephant Man",
+    "FilmId": "tt0080678",
+    "Name": "John Morris",
+    "Nominees": "John Morris",
+    "NomineeIds": "nm0606657",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Empire Strikes Back",
+    "FilmId": "tt0080684",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Fame",
+    "FilmId": "tt0080716",
+    "Name": "Michael Gore",
+    "Nominees": "Michael Gore",
+    "NomineeIds": "nm0330759",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Tess",
+    "FilmId": "tt0080009",
+    "Name": "Philippe Sarde",
+    "Nominees": "Philippe Sarde",
+    "NomineeIds": "nm0006271",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Fame",
+    "FilmId": "tt0080716",
+    "Name": "Music by Michael Gore; Lyric by Dean Pitchford",
+    "Nominees": "Michael Gore|Dean Pitchford",
+    "NomineeIds": "nm0330759|nm0685673",
+    "Winner": "True",
+    "Detail": "Fame",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Nine to Five",
+    "FilmId": "tt0080319",
+    "Name": "Music and Lyric by Dolly Parton",
+    "Nominees": "Dolly Parton",
+    "NomineeIds": "nm0000573",
+    "Winner": "",
+    "Detail": "Nine To Five",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Honeysuckle Rose",
+    "FilmId": "tt0080888",
+    "Name": "Music and Lyric by Willie Nelson",
+    "Nominees": "Willie Nelson",
+    "NomineeIds": "nm0005268",
+    "Winner": "",
+    "Detail": "On The Road Again",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Fame",
+    "FilmId": "tt0080716",
+    "Name": "Music by Michael Gore; Lyric by Lesley Gore",
+    "Nominees": "Michael Gore|Lesley Gore",
+    "NomineeIds": "nm0330759|nm0330753",
+    "Winner": "",
+    "Detail": "Out Here On My Own",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Competition",
+    "FilmId": "tt0080556",
+    "Name": "Music by Lalo Schifrin; Lyric by Wilbur Jennings",
+    "Nominees": "Lalo Schifrin|Wilbur Jennings",
+    "NomineeIds": "nm0006277|nm0421263",
+    "Winner": "",
+    "Detail": "People Alone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Coal Miner's Daughter",
+    "FilmId": "tt0080549",
+    "Name": "Bernard Schwartz, Producer",
+    "Nominees": "Bernard Schwartz",
+    "NomineeIds": "nm0193533",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Elephant Man",
+    "FilmId": "tt0080678",
+    "Name": "Jonathan Sanger, Producer",
+    "Nominees": "Jonathan Sanger",
+    "NomineeIds": "nm0762674",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Ordinary People",
+    "FilmId": "tt0081283",
+    "Name": "Ronald L. Schwary, Producer",
+    "Nominees": "Ronald L. Schwary",
+    "NomineeIds": "nm0777531",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Raging Bull",
+    "FilmId": "tt0081398",
+    "Name": "Irwin Winkler and Robert Chartoff, Producers",
+    "Nominees": "Irwin Winkler|Robert Chartoff",
+    "NomineeIds": "nm0005563|nm0153590",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Tess",
+    "FilmId": "tt0080009",
+    "Name": "Claude Berri, Producer; Timothy Burrill, Co-Producer",
+    "Nominees": "Claude Berri|Timothy Burrill",
+    "NomineeIds": "nm0001945|nm0123135",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "All Nothing",
+    "FilmId": "tt0080351",
+    "Name": "Frédéric Back, Producer",
+    "Nominees": "Frédéric Back",
+    "NomineeIds": "nm0045610",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Fly",
+    "FilmId": "tt0081040",
+    "Name": "Ferenc Rofusz, Producer",
+    "Nominees": "Ferenc Rofusz",
+    "NomineeIds": "nm0736537",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "History of the World in Three Minutes Flat",
+    "FilmId": "tt0080879",
+    "Name": "Michael Mills, Producer",
+    "Nominees": "Michael Mills",
+    "NomineeIds": "nm3382237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Dramatic Live Action)",
+    "Film": "The Dollar Bottom",
+    "FilmId": "tt0080643",
+    "Name": "Lloyd Phillips, Producer",
+    "Nominees": "Lloyd Phillips",
+    "NomineeIds": "nm0680595",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Dramatic Live Action)",
+    "Film": "Fall Line",
+    "FilmId": "tt0080713",
+    "Name": "Bob Carmichael and Greg Lowe, Producers",
+    "Nominees": "Bob Carmichael|Greg Lowe",
+    "NomineeIds": "nm0138456|nm7020894",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Dramatic Live Action)",
+    "Film": "A Jury of Her Peers",
+    "FilmId": "tt0080974",
+    "Name": "Sally Heckel, Producer",
+    "Nominees": "Sally Heckel",
+    "NomineeIds": "nm0373021",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Altered States",
+    "FilmId": "tt0080360",
+    "Name": "Arthur Piantadosi, Les Fresholtz, Michael Minkler, Willie D. Burton",
+    "Nominees": "Arthur Piantadosi|Les Fresholtz|Michael Minkler|Willie D. Burton",
+    "NomineeIds": "nm0681250|nm0294370|nm0591444|nm0123770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Coal Miner's Daughter",
+    "FilmId": "tt0080549",
+    "Name": "Richard Portman, Roger Heman, Jim Alexander",
+    "Nominees": "Richard Portman|Roger Heman|Jim Alexander",
+    "NomineeIds": "nm0692446|nm0375947|nm0018482",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Empire Strikes Back",
+    "FilmId": "tt0080684",
+    "Name": "Bill Varney, Steve Maslow, Gregg Landaker, Peter Sutton",
+    "Nominees": "Bill Varney|Steve Maslow|Gregg Landaker|Peter Sutton",
+    "NomineeIds": "nm0890106|nm0556541|nm0484414|nm0840379",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Fame",
+    "FilmId": "tt0080716",
+    "Name": "Michael J. Kohut, Aaron Rochin, Jay M. Harding, Chris Newman",
+    "Nominees": "Michael J. Kohut|Aaron Rochin|Jay M. Harding|Chris Newman",
+    "NomineeIds": "nm0463489|nm0734099|nm0362326|nm0628039",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Raging Bull",
+    "FilmId": "tt0081398",
+    "Name": "Donald O. Mitchell, Bill Nicholson, David J. Kimball, Les Lazarowitz",
+    "Nominees": "Donald O. Mitchell|Bill Nicholson|David J. Kimball|Les Lazarowitz",
+    "NomineeIds": "nm0593290|nm0629779|nm0453795|nm0493796",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Breaker Morant",
+    "FilmId": "tt0080310",
+    "Name": "Jonathan Hardy, David Stevens, Bruce Beresford",
+    "Nominees": "Jonathan Hardy|David Stevens|Bruce Beresford",
+    "NomineeIds": "nm0362682|nm0828350|nm0000915",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Coal Miner's Daughter",
+    "FilmId": "tt0080549",
+    "Name": "Tom Rickman",
+    "Nominees": "Tom Rickman",
+    "NomineeIds": "nm0725564",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "The Elephant Man",
+    "FilmId": "tt0080678",
+    "Name": "Christopher DeVore, Eric Bergren, David Lynch",
+    "Nominees": "Christopher DeVore|Eric Bergren|David Lynch",
+    "NomineeIds": "nm0212246|nm0075015|nm0000186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Ordinary People",
+    "FilmId": "tt0081283",
+    "Name": "Alvin Sargent",
+    "Nominees": "Alvin Sargent",
+    "NomineeIds": "nm0765091",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "The Stunt Man",
+    "FilmId": "tt0081568",
+    "Name": "Screenplay by Lawrence B. Marcus; Adaptation by Richard Rush",
+    "Nominees": "Lawrence B. Marcus|Richard Rush",
+    "NomineeIds": "nm0546140|nm0750701",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Brubaker",
+    "FilmId": "tt0080474",
+    "Name": "Screenplay by W. D. Richter; Story by W. D. Richter, Arthur Ross",
+    "Nominees": "W. D. Richter|Arthur Ross",
+    "NomineeIds": "nm0725379|nm0743232",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Fame",
+    "FilmId": "tt0080716",
+    "Name": "Christopher Gore",
+    "Nominees": "Christopher Gore",
+    "NomineeIds": "nm0330731",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Melvin and Howard",
+    "FilmId": "tt0081150",
+    "Name": "Bo Goldman",
+    "Nominees": "Bo Goldman",
+    "NomineeIds": "nm0325743",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Mon Oncle D'Amerique",
+    "FilmId": "tt0081176",
+    "Name": "Jean Gruault",
+    "Nominees": "Jean Gruault",
+    "NomineeIds": "nm0344171",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Private Benjamin",
+    "FilmId": "tt0081375",
+    "Name": "Nancy Meyers, Charles Shyer, Harvey Miller",
+    "Nominees": "Nancy Meyers|Charles Shyer|Harvey Miller",
+    "NomineeIds": "nm0583600|nm0796124|nm0588458",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Film": "The Empire Strikes Back",
+    "FilmId": "tt0080684",
+    "Name": "Brian Johnson, Richard Edlund, Dennis Muren, Bruce Nicholson",
+    "Nominees": "Brian Johnson|Richard Edlund|Dennis Muren|Bruce Nicholson",
+    "NomineeIds": "nm0424644|nm0249430|nm0613830|nm0629785",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Henry Fonda",
+    "NomineeIds": "nm0000020",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Henry Fonda, the consummate actor, in recognition of his brilliant accomplishments and enduring contribution to the art of motion pictures."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Linwood G. Dunn|Cecil D. Love|Acme Tool And Manufacturing Company",
+    "NomineeIds": "nm0242670|nm0522294|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To LINWOOD G. DUNN, CECIL D. LOVE and ACME TOOL AND MANUFACTURING COMPANY for the concept, engineering and development of the Acme-Dunn Optical Printer for motion picture special effects."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JEAN-MARIE LAVALOU|ALAIN MASSERON|DAVID SAMUELSON|Samuelson Film Service Limited",
+    "NomineeIds": "nm0491759|nm0557251|nm1038141|?",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To JEAN-MARIE LAVALOU, ALAIN MASSERON and DAVID SAMUELSON of Samuelson Alga Cinema S.A. and Samuelson Film Service, Limited, for the engineering and development of the Louma Camera Crane and remote control system for motion picture production."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "EDWARD B. KRAUSE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To EDWARD B. KRAUSE of Filmline Corporation for the engineering and manufacture of the micro-demand drive for continuous motion picture film processors."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ross Taylor",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To ROSS TAYLOR for the concept and development of a system of air guns for propelling objects used in special effects motion picture production."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DR. BERNHARD KÜHL|WERNER BLOCK",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To DR. BERNHARD KÜHL and DR. WERNER BLOCK of OSRAM GmbH, for the progressive engineering and manufacture of the OSRAM HMI light source for motion picture color photography."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David A. Grafton",
+    "NomineeIds": "nm0333849",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To DAVID A. GRAFTON for the optical design and engineering of a telecentric anamorphic lens for motion picture optical effects printers."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Carter Equipment Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To CARTER EQUIPMENT COMPANY for the development of a continuous contact, total immersion, additive color motion picture printer."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hollywood Film Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To HOLLYWOOD FILM COMPANY for the development of a continuous contact, total immersion, additive color motion picture printer."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ANDRÉ DeBRIE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To ANDRÉ DeBRIE S.A. for the development of a continuous contact, total immersion, additive color motion picture printer."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CHARLES VAUGHN|EUGENE NOTTINGHAM",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To CHARLES VAUGHN and EUGENE NOTTINGHAM of Cinetron Computer Systems, Incorporated, for the development of a versatile general purpose computer system for animation and optical effects motion picture photography."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John W. Lang|WALTER HRASTNIK|CHARLES J. WATSON",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To JOHN W. LANG, WALTER HRASTNIK and CHARLES J. WATSON of Bell and Howell Company for the development and manufacture of a modular continuous contact motion picture film printer."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "WORTH BAIRD",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To WORTH BAIRD of LaVezzi Machine Works, Incorporated, for the advanced design and manufacture of a film sprocket for motion picture projectors."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "PETER A. REGLA|DAN SLATER",
+    "NomineeIds": "nm0716664|nm0805361",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To PETER A. REGLA and DAN SLATER of Elicon for the development of a follow-focus system for motion picture optical effects printers and animation stands."
+  },
+  {
+    "Ceremony": 53,
+    "Year": 1980,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fred Hynes",
+    "NomineeIds": "nm0405261",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Fred Hynes, in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

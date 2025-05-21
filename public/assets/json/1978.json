@@ -1,1553 +1,1906 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1978",
-    "nominees": [
-      "The Deer Hunter"
-    ],
-    "movies": [
-      {
-        "title": "The Deer Hunter",
-        "tmdb_id": 11778,
-        "imdb_id": "tt0077416"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1978",
-    "nominees": [
-      "Coming Home"
-    ],
-    "movies": [
-      {
-        "title": "Coming Home",
-        "tmdb_id": 31657,
-        "imdb_id": "tt0077362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1978",
-    "nominees": [
-      "Heaven Can Wait"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Can Wait",
-        "tmdb_id": 12185,
-        "imdb_id": "tt0077663"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1978",
-    "nominees": [
-      "Midnight Express"
-    ],
-    "movies": [
-      {
-        "title": "Midnight Express",
-        "tmdb_id": 11327,
-        "imdb_id": "tt0077928"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1978",
-    "nominees": [
-      "An Unmarried Woman"
-    ],
-    "movies": [
-      {
-        "title": "An Unmarried Woman",
-        "tmdb_id": 38731,
-        "imdb_id": "tt0078444"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1978",
-    "nominees": [
-      "Jon Voight"
-    ],
-    "movies": [
-      {
-        "title": "Coming Home",
-        "tmdb_id": 31657,
-        "imdb_id": "tt0077362"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1978",
-    "nominees": [
-      "Warren Beatty"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Can Wait",
-        "tmdb_id": 12185,
-        "imdb_id": "tt0077663"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1978",
-    "nominees": [
-      "Gary Busey"
-    ],
-    "movies": [
-      {
-        "title": "The Buddy Holly Story",
-        "tmdb_id": 24153,
-        "imdb_id": "tt0077280"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1978",
-    "nominees": [
-      "Robert De Niro"
-    ],
-    "movies": [
-      {
-        "title": "The Deer Hunter",
-        "tmdb_id": 11778,
-        "imdb_id": "tt0077416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1978",
-    "nominees": [
-      "Laurence Olivier"
-    ],
-    "movies": [
-      {
-        "title": "The Boys from Brazil",
-        "tmdb_id": 16241,
-        "imdb_id": "tt0077269"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1978",
-    "nominees": [
-      "Jane Fonda"
-    ],
-    "movies": [
-      {
-        "title": "Coming Home",
-        "tmdb_id": 31657,
-        "imdb_id": "tt0077362"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1978",
-    "nominees": [
-      "Ingrid Bergman"
-    ],
-    "movies": [
-      {
-        "title": "Autumn Sonata",
-        "tmdb_id": 12761,
-        "imdb_id": "tt0077711"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1978",
-    "nominees": [
-      "Ellen Burstyn"
-    ],
-    "movies": [
-      {
-        "title": "Same Time, Next Year",
-        "tmdb_id": 37672,
-        "imdb_id": "tt0078199"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1978",
-    "nominees": [
-      "Jill Clayburgh"
-    ],
-    "movies": [
-      {
-        "title": "An Unmarried Woman",
-        "tmdb_id": 38731,
-        "imdb_id": "tt0078444"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1978",
-    "nominees": [
-      "Geraldine Page"
-    ],
-    "movies": [
-      {
-        "title": "Interiors",
-        "tmdb_id": 15867,
-        "imdb_id": "tt0077742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1978",
-    "nominees": [
-      "Christopher Walken"
-    ],
-    "movies": [
-      {
-        "title": "The Deer Hunter",
-        "tmdb_id": 11778,
-        "imdb_id": "tt0077416"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1978",
-    "nominees": [
-      "Bruce Dern"
-    ],
-    "movies": [
-      {
-        "title": "Coming Home",
-        "tmdb_id": 31657,
-        "imdb_id": "tt0077362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1978",
-    "nominees": [
-      "Richard Farnsworth"
-    ],
-    "movies": [
-      {
-        "title": "Comes a Horseman",
-        "tmdb_id": 42201,
-        "imdb_id": "tt0077360"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1978",
-    "nominees": [
-      "John Hurt"
-    ],
-    "movies": [
-      {
-        "title": "Midnight Express",
-        "tmdb_id": 11327,
-        "imdb_id": "tt0077928"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1978",
-    "nominees": [
-      "Jack Warden"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Can Wait",
-        "tmdb_id": 12185,
-        "imdb_id": "tt0077663"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1978",
-    "nominees": [
-      "Maggie Smith"
-    ],
-    "movies": [
-      {
-        "title": "California Suite",
-        "tmdb_id": 26686,
-        "imdb_id": "tt0077289"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1978",
-    "nominees": [
-      "Dyan Cannon"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Can Wait",
-        "tmdb_id": 12185,
-        "imdb_id": "tt0077663"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1978",
-    "nominees": [
-      "Penelope Milford"
-    ],
-    "movies": [
-      {
-        "title": "Coming Home",
-        "tmdb_id": 31657,
-        "imdb_id": "tt0077362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1978",
-    "nominees": [
-      "Maureen Stapleton"
-    ],
-    "movies": [
-      {
-        "title": "Interiors",
-        "tmdb_id": 15867,
-        "imdb_id": "tt0077742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1978",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "The Deer Hunter",
-        "tmdb_id": 11778,
-        "imdb_id": "tt0077416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1978",
-    "nominees": [
-      "Michael Cimino"
-    ],
-    "movies": [
-      {
-        "title": "The Deer Hunter",
-        "tmdb_id": 11778,
-        "imdb_id": "tt0077416"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1978",
-    "nominees": [
-      "Hal Ashby"
-    ],
-    "movies": [
-      {
-        "title": "Coming Home",
-        "tmdb_id": 31657,
-        "imdb_id": "tt0077362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1978",
-    "nominees": [
-      "Warren Beatty",
-      "Buck Henry"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Can Wait",
-        "tmdb_id": 12185,
-        "imdb_id": "tt0077663"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1978",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Interiors",
-        "tmdb_id": 15867,
-        "imdb_id": "tt0077742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1978",
-    "nominees": [
-      "Alan Parker"
-    ],
-    "movies": [
-      {
-        "title": "Midnight Express",
-        "tmdb_id": 11327,
-        "imdb_id": "tt0077928"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Oliver Stone"
-    ],
-    "movies": [
-      {
-        "title": "Midnight Express",
-        "tmdb_id": 11327,
-        "imdb_id": "tt0077928"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Walter Newman"
-    ],
-    "movies": [
-      {
-        "title": "Bloodbrothers",
-        "tmdb_id": 114096,
-        "imdb_id": "tt0078878"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Neil Simon"
-    ],
-    "movies": [
-      {
-        "title": "California Suite",
-        "tmdb_id": 26686,
-        "imdb_id": "tt0077289"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Elaine May",
-      "Warren Beatty"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Can Wait",
-        "tmdb_id": 12185,
-        "imdb_id": "tt0077663"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Bernard Slade"
-    ],
-    "movies": [
-      {
-        "title": "Same Time, Next Year",
-        "tmdb_id": 37672,
-        "imdb_id": "tt0078199"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Robert C. Jones",
-      "Waldo Salt",
-      "Nancy Dowd"
-    ],
-    "movies": [
-      {
-        "title": "Coming Home",
-        "tmdb_id": 31657,
-        "imdb_id": "tt0077362"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Ingmar Bergman"
-    ],
-    "movies": [
-      {
-        "title": "Autumn Sonata",
-        "tmdb_id": 12761,
-        "imdb_id": "tt0077711"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Michael Cimino",
-      "Deric Washburn",
-      "Louis Garfinkle",
-      "Quinn K. Redeker"
-    ],
-    "movies": [
-      {
-        "title": "The Deer Hunter",
-        "tmdb_id": 11778,
-        "imdb_id": "tt0077416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Interiors",
-        "tmdb_id": 15867,
-        "imdb_id": "tt0077742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1978",
-    "nominees": [
-      "Paul Mazursky"
-    ],
-    "movies": [
-      {
-        "title": "An Unmarried Woman",
-        "tmdb_id": 38731,
-        "imdb_id": "tt0078444"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1978",
-    "nominees": [
-      "Giorgio Moroder"
-    ],
-    "movies": [
-      {
-        "title": "Midnight Express",
-        "tmdb_id": 11327,
-        "imdb_id": "tt0077928"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1978",
-    "nominees": [
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "The Boys from Brazil",
-        "tmdb_id": 16241,
-        "imdb_id": "tt0077269"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1978",
-    "nominees": [
-      "Ennio Morricone"
-    ],
-    "movies": [
-      {
-        "title": "Days of Heaven",
-        "tmdb_id": 16642,
-        "imdb_id": "tt0077405"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1978",
-    "nominees": [
-      "Dave Grusin"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Can Wait",
-        "tmdb_id": 12185,
-        "imdb_id": "tt0077663"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1978",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Superman",
-        "tmdb_id": 1924,
-        "imdb_id": "tt0078346"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1978",
-    "nominees": [
-      "Joe Renzetti"
-    ],
-    "movies": [
-      {
-        "title": "The Buddy Holly Story",
-        "tmdb_id": 24153,
-        "imdb_id": "tt0077280"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1978",
-    "nominees": [
-      "Quincy Jones"
-    ],
-    "movies": [
-      {
-        "title": "The Wiz",
-        "tmdb_id": 24961,
-        "imdb_id": "tt0078504"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1978",
-    "nominees": [
-      "Jerry Wexler"
-    ],
-    "movies": [
-      {
-        "title": "Pretty Baby",
-        "tmdb_id": 26973,
-        "imdb_id": "tt0078111"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1978",
-    "nominees": [
-      "Last Dance"
-    ],
-    "movies": [
-      {
-        "title": "Thank God It's Friday",
-        "tmdb_id": 42212,
-        "imdb_id": "tt0078382"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1978",
-    "nominees": [
-      "Hopelessly Devoted to You"
-    ],
-    "movies": [
-      {
-        "title": "Grease",
-        "tmdb_id": 621,
-        "imdb_id": "tt0077631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1978",
-    "nominees": [
-      "The Last Time I Felt Like This"
-    ],
-    "movies": [
-      {
-        "title": "Same Time, Next Year",
-        "tmdb_id": 37672,
-        "imdb_id": "tt0078199"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1978",
-    "nominees": [
-      "Ready to Take a Chance Again"
-    ],
-    "movies": [
-      {
-        "title": "Foul Play",
-        "tmdb_id": 15659,
-        "imdb_id": "tt0077578"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1978",
-    "nominees": [
-      "When You're Loved"
-    ],
-    "movies": [
-      {
-        "title": "The Magic of Lassie",
-        "tmdb_id": 88203,
-        "imdb_id": "tt0077890"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1978",
-    "nominees": [
-      "Get Out Your Handkerchiefs"
-    ],
-    "movies": [
-      {
-        "title": "Get Out Your Handkerchiefs",
-        "tmdb_id": 4267,
-        "imdb_id": "tt0078122"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1978",
-    "nominees": [
-      "The Glass Cell"
-    ],
-    "movies": [
-      {
-        "title": "The Glass Cell",
-        "tmdb_id": 4049,
-        "imdb_id": "tt0077615"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1978",
-    "nominees": [
-      "Hungarians"
-    ],
-    "movies": [
-      {
-        "title": "Hungarians",
-        "tmdb_id": 202779,
-        "imdb_id": "tt0077891"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1978",
-    "nominees": [
-      "The New Monsters"
-    ],
-    "movies": [
-      {
-        "title": "The New Monsters",
-        "tmdb_id": 45004,
-        "imdb_id": "tt0078012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1978",
-    "nominees": [
-      "White Bim Black Ear"
-    ],
-    "movies": [
-      {
-        "title": "White Bim Black Ear",
-        "tmdb_id": 63899,
-        "imdb_id": "tt0077222"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1978",
-    "nominees": [
-      "Scared Straight!"
-    ],
-    "movies": [
-      {
-        "title": "Scared Straight!",
-        "tmdb_id": 92215,
-        "imdb_id": "tt0078205"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1978",
-    "nominees": [
-      "Mysterious Castles of Clay"
-    ],
-    "movies": [
-      {
-        "title": "Mysterious Castles of Clay",
-        "tmdb_id": 149353,
-        "imdb_id": "tt0077966"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1978",
-    "nominees": [
-      "Raoni"
-    ],
-    "movies": [
-      {
-        "title": "Raoni",
-        "tmdb_id": 149352,
-        "imdb_id": "tt0078140"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1978",
-    "nominees": [
-      "The Lovers' Wind"
-    ],
-    "movies": [
-      {
-        "title": "The Lovers' Wind",
-        "tmdb_id": 136714,
-        "imdb_id": "tt0080087"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1978",
-    "nominees": [
-      "With Babies and Banners: Story of the Women's Emergency Brigade"
-    ],
-    "movies": [
-      {
-        "title": "With Babies and Banners: Story of the Women's Emergency Brigade",
-        "tmdb_id": 136715,
-        "imdb_id": "tt0078501"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1978",
-    "nominees": [
-      "The Flight of the Gossamer Condor"
-    ],
-    "movies": [
-      {
-        "title": "The Flight of the Gossamer Condor",
-        "tmdb_id": 243623,
-        "imdb_id": "tt0077564"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1978",
-    "nominees": [
-      "The Divided Trail: A Native American Odyssey"
-    ],
-    "movies": [
-      {
-        "title": "The Divided Trail: A Native American Odyssey",
-        "tmdb_id": 243624,
-        "imdb_id": "tt0077442"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1978",
-    "nominees": [
-      "An Encounter with Faces"
-    ],
-    "movies": [
-      {
-        "title": "An Encounter with Faces",
-        "tmdb_id": 243625,
-        "imdb_id": "tt0077502"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1978",
-    "nominees": [
-      "Goodnight Miss Ann"
-    ],
-    "movies": [
-      {
-        "title": "Goodnight Miss Ann",
-        "tmdb_id": 243626,
-        "imdb_id": "tt0077624"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1978",
-    "nominees": [
-      "Squires of San Quentin"
-    ],
-    "movies": [
-      {
-        "title": "Squires of San Quentin",
-        "tmdb_id": 243627,
-        "imdb_id": "tt0078314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1978",
-    "nominees": [
-      "Special Delivery"
-    ],
-    "movies": [
-      {
-        "title": "Special Delivery",
-        "tmdb_id": 48346,
-        "imdb_id": "tt0206312"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1978",
-    "nominees": [
-      "Oh My Darling"
-    ],
-    "movies": [
-      {
-        "title": "Oh My Darling",
-        "tmdb_id": 218777,
-        "imdb_id": "tt0078017"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1978",
-    "nominees": [
-      "Rip Van Winkle"
-    ],
-    "movies": [
-      {
-        "title": "Rip Van Winkle",
-        "tmdb_id": 186868,
-        "imdb_id": "tt0078168"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1978",
-    "nominees": [
-      "Teenage Father"
-    ],
-    "movies": [
-      {
-        "title": "Teenage Father",
-        "tmdb_id": 243616,
-        "imdb_id": "tt0078372"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1978",
-    "nominees": [
-      "A Different Approach"
-    ],
-    "movies": [
-      {
-        "title": "A Different Approach",
-        "tmdb_id": 243617,
-        "imdb_id": "tt0077434"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1978",
-    "nominees": [
-      "Mandy's Grandmother"
-    ],
-    "movies": [
-      {
-        "title": "Mandy's Grandmother",
-        "tmdb_id": 243620,
-        "imdb_id": "tt0077901"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1978",
-    "nominees": [
-      "Strange Fruit"
-    ],
-    "movies": [
-      {
-        "title": "Strange Fruit",
-        "tmdb_id": 243622,
-        "imdb_id": "tt0078329"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Paul Sylbert",
-      "Edwin O'Donovan",
-      "George Gaine"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Can Wait",
-        "tmdb_id": 12185,
-        "imdb_id": "tt0077663"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Dean Tavoularis",
-      "Angelo Graham",
-      "George R. Nelson"
-    ],
-    "movies": [
-      {
-        "title": "The Brink's Job",
-        "tmdb_id": 24429,
-        "imdb_id": "tt0077275"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Albert Brenner",
-      "Marvin March"
-    ],
-    "movies": [
-      {
-        "title": "California Suite",
-        "tmdb_id": 26686,
-        "imdb_id": "tt0077289"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Mel Bourne",
-      "Daniel Robert"
-    ],
-    "movies": [
-      {
-        "title": "Interiors",
-        "tmdb_id": 15867,
-        "imdb_id": "tt0077742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Tony Walton",
-      "Philip Rosenberg",
-      "Edward Stewart",
-      "Robert Drumheller"
-    ],
-    "movies": [
-      {
-        "title": "The Wiz",
-        "tmdb_id": 24961,
-        "imdb_id": "tt0078504"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1978",
-    "nominees": [
-      "Nestor Almendros"
-    ],
-    "movies": [
-      {
-        "title": "Days of Heaven",
-        "tmdb_id": 16642,
-        "imdb_id": "tt0077405"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1978",
-    "nominees": [
-      "Vilmos Zsigmond"
-    ],
-    "movies": [
-      {
-        "title": "The Deer Hunter",
-        "tmdb_id": 11778,
-        "imdb_id": "tt0077416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1978",
-    "nominees": [
-      "William A. Fraker"
-    ],
-    "movies": [
-      {
-        "title": "Heaven Can Wait",
-        "tmdb_id": 12185,
-        "imdb_id": "tt0077663"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1978",
-    "nominees": [
-      "Robert Surtees"
-    ],
-    "movies": [
-      {
-        "title": "Same Time, Next Year",
-        "tmdb_id": 37672,
-        "imdb_id": "tt0078199"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1978",
-    "nominees": [
-      "Oswald Morris"
-    ],
-    "movies": [
-      {
-        "title": "The Wiz",
-        "tmdb_id": 24961,
-        "imdb_id": "tt0078504"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1978",
-    "nominees": [
-      "Peter Zinner"
-    ],
-    "movies": [
-      {
-        "title": "The Deer Hunter",
-        "tmdb_id": 11778,
-        "imdb_id": "tt0077416"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1978",
-    "nominees": [
-      "Stuart Baird"
-    ],
-    "movies": [
-      {
-        "title": "Superman",
-        "tmdb_id": 1924,
-        "imdb_id": "tt0078346"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1978",
-    "nominees": [
-      "Gerry Hambling"
-    ],
-    "movies": [
-      {
-        "title": "Midnight Express",
-        "tmdb_id": 11327,
-        "imdb_id": "tt0077928"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1978",
-    "nominees": [
-      "Robert E. Swink"
-    ],
-    "movies": [
-      {
-        "title": "The Boys from Brazil",
-        "tmdb_id": 16241,
-        "imdb_id": "tt0077269"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1978",
-    "nominees": [
-      "Don Zimmerman"
-    ],
-    "movies": [
-      {
-        "title": "Coming Home",
-        "tmdb_id": 31657,
-        "imdb_id": "tt0077362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1978",
-    "nominees": [
-      "Les Bowie",
-      "Colin Chilvers",
-      "Denys Coop",
-      "Roy Field",
-      "Derek Meddings",
-      "Zoran Perisic"
-    ],
-    "movies": [
-      {
-        "title": "Superman",
-        "tmdb_id": 1924,
-        "imdb_id": "tt0078346"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1978",
-    "nominees": [
-      "Richard Portman",
-      "William McCaughey",
-      "Aaron Rochin",
-      "Darin Knight"
-    ],
-    "movies": [
-      {
-        "title": "The Deer Hunter",
-        "tmdb_id": 11778,
-        "imdb_id": "tt0077416"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1978",
-    "nominees": [
-      "Tex Rudloff",
-      "Joel Fein",
-      "Curly Thirlwell",
-      "Willie D. Burton"
-    ],
-    "movies": [
-      {
-        "title": "The Buddy Holly Story",
-        "tmdb_id": 24153,
-        "imdb_id": "tt0077280"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1978",
-    "nominees": [
-      "John Wilkinson",
-      "Robert W. Glass Jr.",
-      "John T. Reitz",
-      "Barry Thomas"
-    ],
-    "movies": [
-      {
-        "title": "Days of Heaven",
-        "tmdb_id": 16642,
-        "imdb_id": "tt0077405"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1978",
-    "nominees": [
-      "Robert Knudson",
-      "Robert Glass",
-      "Don MacDougall",
-      "Jack Solomon"
-    ],
-    "movies": [
-      {
-        "title": "Hooper",
-        "tmdb_id": 16214,
-        "imdb_id": "tt0077696"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1978",
-    "nominees": [
-      "Gordon K. McCallum",
-      "Graham V. Hartstone",
-      "Nicolas Le Messurier",
-      "Roy Charman"
-    ],
-    "movies": [
-      {
-        "title": "Superman",
-        "tmdb_id": 1924,
-        "imdb_id": "tt0078346"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Anthony Powell"
-    ],
-    "movies": [
-      {
-        "title": "Death on the Nile",
-        "tmdb_id": 4192,
-        "imdb_id": "tt0077413"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Renie Conley"
-    ],
-    "movies": [
-      {
-        "title": "Caravans",
-        "tmdb_id": 41317,
-        "imdb_id": "tt0077296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Patricia Norris"
-    ],
-    "movies": [
-      {
-        "title": "Days of Heaven",
-        "tmdb_id": 16642,
-        "imdb_id": "tt0077405"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Paul Zastupnevich"
-    ],
-    "movies": [
-      {
-        "title": "The Swarm",
-        "tmdb_id": 46878,
-        "imdb_id": "tt0078350"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1978",
-    "nominees": [
-      "Tony Walton"
-    ],
-    "movies": [
-      {
-        "title": "The Wiz",
-        "tmdb_id": 24961,
-        "imdb_id": "tt0078504"
-      }
-    ],
-    "won": false
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Heaven Can Wait",
+    "FilmId": "tt0077663",
+    "Name": "Warren Beatty",
+    "Nominees": "Warren Beatty",
+    "NomineeIds": "nm0000886",
+    "Winner": "",
+    "Detail": "Joe Pendleton (alias, Leo Farnsworth, Tom Jarrett)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Buddy Holly Story",
+    "FilmId": "tt0077280",
+    "Name": "Gary Busey",
+    "Nominees": "Gary Busey",
+    "NomineeIds": "nm0000997",
+    "Winner": "",
+    "Detail": "Buddy Holly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Deer Hunter",
+    "FilmId": "tt0077416",
+    "Name": "Robert De Niro",
+    "Nominees": "Robert De Niro",
+    "NomineeIds": "nm0000134",
+    "Winner": "",
+    "Detail": "Michael",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Boys from Brazil",
+    "FilmId": "tt0077269",
+    "Name": "Laurence Olivier",
+    "Nominees": "Laurence Olivier",
+    "NomineeIds": "nm0000059",
+    "Winner": "",
+    "Detail": "Ezra Lieberman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Coming Home",
+    "FilmId": "tt0077362",
+    "Name": "Jon Voight",
+    "Nominees": "Jon Voight",
+    "NomineeIds": "nm0000685",
+    "Winner": "True",
+    "Detail": "Luke Martin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Coming Home",
+    "FilmId": "tt0077362",
+    "Name": "Bruce Dern",
+    "Nominees": "Bruce Dern",
+    "NomineeIds": "nm0001136",
+    "Winner": "",
+    "Detail": "Captain Bob Hyde",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Comes a Horseman",
+    "FilmId": "tt0077360",
+    "Name": "Richard Farnsworth",
+    "Nominees": "Richard Farnsworth",
+    "NomineeIds": "nm0002070",
+    "Winner": "",
+    "Detail": "Dodger",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Midnight Express",
+    "FilmId": "tt0077928",
+    "Name": "John Hurt",
+    "Nominees": "John Hurt",
+    "NomineeIds": "nm0000457",
+    "Winner": "",
+    "Detail": "Max",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Deer Hunter",
+    "FilmId": "tt0077416",
+    "Name": "Christopher Walken",
+    "Nominees": "Christopher Walken",
+    "NomineeIds": "nm0000686",
+    "Winner": "True",
+    "Detail": "Nick",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Heaven Can Wait",
+    "FilmId": "tt0077663",
+    "Name": "Jack Warden",
+    "Nominees": "Jack Warden",
+    "NomineeIds": "nm0912001",
+    "Winner": "",
+    "Detail": "Max Corkle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Autumn Sonata",
+    "FilmId": "tt0077711",
+    "Name": "Ingrid Bergman",
+    "Nominees": "Ingrid Bergman",
+    "NomineeIds": "nm0000006",
+    "Winner": "",
+    "Detail": "Charlotte Andergast",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Same Time, Next Year",
+    "FilmId": "tt0078199",
+    "Name": "Ellen Burstyn",
+    "Nominees": "Ellen Burstyn",
+    "NomineeIds": "nm0000995",
+    "Winner": "",
+    "Detail": "Doris",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "An Unmarried Woman",
+    "FilmId": "tt0078444",
+    "Name": "Jill Clayburgh",
+    "Nominees": "Jill Clayburgh",
+    "NomineeIds": "nm0001049",
+    "Winner": "",
+    "Detail": "Erica",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Coming Home",
+    "FilmId": "tt0077362",
+    "Name": "Jane Fonda",
+    "Nominees": "Jane Fonda",
+    "NomineeIds": "nm0000404",
+    "Winner": "True",
+    "Detail": "Sally Hyde",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Interiors",
+    "FilmId": "tt0077742",
+    "Name": "Geraldine Page",
+    "Nominees": "Geraldine Page",
+    "NomineeIds": "nm0656183",
+    "Winner": "",
+    "Detail": "Eve",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Heaven Can Wait",
+    "FilmId": "tt0077663",
+    "Name": "Dyan Cannon",
+    "Nominees": "Dyan Cannon",
+    "NomineeIds": "nm0001007",
+    "Winner": "",
+    "Detail": "Julia Farnsworth",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Coming Home",
+    "FilmId": "tt0077362",
+    "Name": "Penelope Milford",
+    "Nominees": "Penelope Milford",
+    "NomineeIds": "nm0587340",
+    "Winner": "",
+    "Detail": "Viola Munson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "California Suite",
+    "FilmId": "tt0077289",
+    "Name": "Maggie Smith",
+    "Nominees": "Maggie Smith",
+    "NomineeIds": "nm0001749",
+    "Winner": "True",
+    "Detail": "Diana Barrie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Interiors",
+    "FilmId": "tt0077742",
+    "Name": "Maureen Stapleton",
+    "Nominees": "Maureen Stapleton",
+    "NomineeIds": "nm0822972",
+    "Winner": "",
+    "Detail": "Pearl",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Deer Hunter",
+    "FilmId": "tt0077416",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Linda",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Brink's Job",
+    "FilmId": "tt0077275",
+    "Name": "Art Direction: Dean Tavoularis, Angelo Graham; Set Decoration: George R. Nelson, Bruce Kay",
+    "Nominees": "Dean Tavoularis|Angelo Graham|George R. Nelson|Bruce Kay",
+    "NomineeIds": "nm0851790|nm0333908|nm0625388|nm0443008",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "California Suite",
+    "FilmId": "tt0077289",
+    "Name": "Art Direction: Albert Brenner; Set Decoration: Marvin March",
+    "Nominees": "Albert Brenner|Marvin March",
+    "NomineeIds": "nm0107447|nm0545322",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Heaven Can Wait",
+    "FilmId": "tt0077663",
+    "Name": "Art Direction: Paul Sylbert, Edwin O'Donovan; Set Decoration: George Gaines",
+    "Nominees": "Paul Sylbert|Edwin O'Donovan|George Gaines",
+    "NomineeIds": "nm0843128|nm0640898|nm0301321",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Interiors",
+    "FilmId": "tt0077742",
+    "Name": "Art Direction: Mel Bourne; Set Decoration: Daniel Robert",
+    "Nominees": "Mel Bourne|Daniel Robert",
+    "NomineeIds": "nm0100080|nm0730623",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Wiz",
+    "FilmId": "tt0078504",
+    "Name": "Art Direction: Tony Walton, Philip Rosenberg; Set Decoration: Edward Stewart, Robert Drumheller",
+    "Nominees": "Tony Walton|Philip Rosenberg|Edward Stewart|Robert Drumheller",
+    "NomineeIds": "nm0910589|nm0742303|nm0829357|nm0238531",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Days of Heaven",
+    "FilmId": "tt0077405",
+    "Name": "Nestor Almendros",
+    "Nominees": "Nestor Almendros",
+    "NomineeIds": "nm0000743",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Deer Hunter",
+    "FilmId": "tt0077416",
+    "Name": "Vilmos Zsigmond",
+    "Nominees": "Vilmos Zsigmond",
+    "NomineeIds": "nm0005936",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Heaven Can Wait",
+    "FilmId": "tt0077663",
+    "Name": "William A. Fraker",
+    "Nominees": "William A. Fraker",
+    "NomineeIds": "nm0005710",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Same Time, Next Year",
+    "FilmId": "tt0078199",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Wiz",
+    "FilmId": "tt0078504",
+    "Name": "Oswald Morris",
+    "Nominees": "Oswald Morris",
+    "NomineeIds": "nm0005807",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Caravans",
+    "FilmId": "tt0077296",
+    "Name": "Renie Conley",
+    "Nominees": "Renie Conley",
+    "NomineeIds": "nm0174800",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Days of Heaven",
+    "FilmId": "tt0077405",
+    "Name": "Patricia Norris",
+    "Nominees": "Patricia Norris",
+    "NomineeIds": "nm0635876",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Death on the Nile",
+    "FilmId": "tt0077413",
+    "Name": "Anthony Powell",
+    "Nominees": "Anthony Powell",
+    "NomineeIds": "nm0694018",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Swarm",
+    "FilmId": "tt0078350",
+    "Name": "Paul Zastupnevich",
+    "Nominees": "Paul Zastupnevich",
+    "NomineeIds": "nm0953665",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Wiz",
+    "FilmId": "tt0078504",
+    "Name": "Tony Walton",
+    "Nominees": "Tony Walton",
+    "NomineeIds": "nm0910589",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Coming Home",
+    "FilmId": "tt0077362",
+    "Name": "Hal Ashby",
+    "Nominees": "Hal Ashby",
+    "NomineeIds": "nm0000797",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Deer Hunter",
+    "FilmId": "tt0077416",
+    "Name": "Michael Cimino",
+    "Nominees": "Michael Cimino",
+    "NomineeIds": "nm0001047",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Heaven Can Wait",
+    "FilmId": "tt0077663",
+    "Name": "Warren Beatty, Buck Henry",
+    "Nominees": "Warren Beatty|Buck Henry",
+    "NomineeIds": "nm0000886|nm0377750",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Interiors",
+    "FilmId": "tt0077742",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Midnight Express",
+    "FilmId": "tt0077928",
+    "Name": "Alan Parker",
+    "Nominees": "Alan Parker",
+    "NomineeIds": "nm0000570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Lovers' Wind",
+    "FilmId": "tt0080087",
+    "Name": "Albert Lamorisse, Producer",
+    "Nominees": "Albert Lamorisse",
+    "NomineeIds": "nm0483738",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Mysterious Castles of Clay",
+    "FilmId": "tt0077966",
+    "Name": "Alan Root, Producer",
+    "Nominees": "Alan Root",
+    "NomineeIds": "nm0740497",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Raoni",
+    "FilmId": "tt0078140",
+    "Name": "Jean-Pierre Dutilleux, Barry Williams and Michel Gast, Producers",
+    "Nominees": "Jean-Pierre Dutilleux|Barry Williams|Michel Gast",
+    "NomineeIds": "nm0244792|nm0930066|nm0309383",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Scared Straight!",
+    "FilmId": "tt0078205",
+    "Name": "Arnold Shapiro, Producer",
+    "Nominees": "Arnold Shapiro",
+    "NomineeIds": "nm0788461",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "With Babies and Banners: Story of the Women's Emergency Brigade",
+    "FilmId": "tt0078501",
+    "Name": "Anne Bohlen, Lyn Goldfarb and Lorraine Gray, Producers",
+    "Nominees": "Anne Bohlen|Lyn Goldfarb|Lorraine Gray",
+    "NomineeIds": "nm0092043|nm0325585|nm1080191",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Divided Trail: A Native American Odyssey",
+    "FilmId": "tt0077442",
+    "Name": "Jerry Aronson, Producer",
+    "Nominees": "Jerry Aronson",
+    "NomineeIds": "nm0036973",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "An Encounter with Faces",
+    "FilmId": "tt0077502",
+    "Name": "K.K. Kapil, Producer",
+    "Nominees": "K.K. Kapil",
+    "NomineeIds": "nm0438149",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Flight of the Gossamer Condor",
+    "FilmId": "tt0077564",
+    "Name": "Jacqueline Phillips Shedd and Ben Shedd, Producers",
+    "Nominees": "Jacqueline Phillips Shedd|Ben Shedd",
+    "NomineeIds": "nm0680182|nm0790536",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Goodnight Miss Ann",
+    "FilmId": "tt0077624",
+    "Name": "August Cinquegrana, Producer",
+    "Nominees": "August Cinquegrana",
+    "NomineeIds": "nm0162484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Squires of San Quentin",
+    "FilmId": "tt0078314",
+    "Name": "J. Gary Mitchell, Producer",
+    "Nominees": "J. Gary Mitchell",
+    "NomineeIds": "nm0593403",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Boys from Brazil",
+    "FilmId": "tt0077269",
+    "Name": "Robert E. Swink",
+    "Nominees": "Robert E. Swink",
+    "NomineeIds": "nm0842732",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Coming Home",
+    "FilmId": "tt0077362",
+    "Name": "Don Zimmerman",
+    "Nominees": "Don Zimmerman",
+    "NomineeIds": "nm0956699",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Deer Hunter",
+    "FilmId": "tt0077416",
+    "Name": "Peter Zinner",
+    "Nominees": "Peter Zinner",
+    "NomineeIds": "nm0957038",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Midnight Express",
+    "FilmId": "tt0077928",
+    "Name": "Gerry Hambling",
+    "Nominees": "Gerry Hambling",
+    "NomineeIds": "nm0357421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Superman",
+    "FilmId": "tt0078346",
+    "Name": "Stuart Baird",
+    "Nominees": "Stuart Baird",
+    "NomineeIds": "nm0000829",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Get Out Your Handkerchiefs",
+    "FilmId": "tt0078122",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Glass Cell",
+    "FilmId": "tt0077615",
+    "Name": "German Federal Republic",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Hungarians",
+    "FilmId": "tt0077891",
+    "Name": "Hungary",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Viva Italia!",
+    "FilmId": "tt0078012",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "White Bim Black Ear",
+    "FilmId": "tt0077222",
+    "Name": "Union of Soviet Socialist Republics",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Adaptation Score)",
+    "Film": "The Buddy Holly Story",
+    "FilmId": "tt0077280",
+    "Name": "Joe Renzetti",
+    "Nominees": "Joe Renzetti",
+    "NomineeIds": "nm0006250",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Adaptation Score)",
+    "Film": "Pretty Baby",
+    "FilmId": "tt0078111",
+    "Name": "Jerry Wexler",
+    "Nominees": "Jerry Wexler",
+    "NomineeIds": "nm0923310",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Adaptation Score)",
+    "Film": "The Wiz",
+    "FilmId": "tt0078504",
+    "Name": "Quincy Jones",
+    "Nominees": "Quincy Jones",
+    "NomineeIds": "nm0005065",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Boys from Brazil",
+    "FilmId": "tt0077269",
+    "Name": "Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Days of Heaven",
+    "FilmId": "tt0077405",
+    "Name": "Ennio Morricone",
+    "Nominees": "Ennio Morricone",
+    "NomineeIds": "nm0001553",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Heaven Can Wait",
+    "FilmId": "tt0077663",
+    "Name": "Dave Grusin",
+    "Nominees": "Dave Grusin",
+    "NomineeIds": "nm0006115",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Midnight Express",
+    "FilmId": "tt0077928",
+    "Name": "Giorgio Moroder",
+    "Nominees": "Giorgio Moroder",
+    "NomineeIds": "nm0002380",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Superman",
+    "FilmId": "tt0078346",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Grease",
+    "FilmId": "tt0077631",
+    "Name": "Music and Lyrics by John Farrar",
+    "Nominees": "John Farrar",
+    "NomineeIds": "nm0268132",
+    "Winner": "",
+    "Detail": "Hopelessly Devoted To You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Thank God It's Friday",
+    "FilmId": "tt0078382",
+    "Name": "Music and Lyrics by Paul Jabara",
+    "Nominees": "Paul Jabara",
+    "NomineeIds": "nm0412955",
+    "Winner": "True",
+    "Detail": "Last Dance",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Same Time, Next Year",
+    "FilmId": "tt0078199",
+    "Name": "Music by Marvin Hamlisch; Lyrics by Alan Bergman and Marilyn Bergman",
+    "Nominees": "Marvin Hamlisch|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0006121|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "The Last Time I Felt Like This",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Foul Play",
+    "FilmId": "tt0077578",
+    "Name": "Music by Charles Fox; Lyrics by Norman Gimbel",
+    "Nominees": "Charles Fox|Norman Gimbel",
+    "NomineeIds": "nm0288913|nm0319757",
+    "Winner": "",
+    "Detail": "Ready To Take A Chance Again",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Magic of Lassie",
+    "FilmId": "tt0077890",
+    "Name": "Music and Lyrics by Richard M. Sherman and Robert B. Sherman",
+    "Nominees": "Richard M. Sherman|Robert B. Sherman",
+    "NomineeIds": "nm0792556|nm0792567",
+    "Winner": "",
+    "Detail": "When You're Loved",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Coming Home",
+    "FilmId": "tt0077362",
+    "Name": "Jerome Hellman, Producer",
+    "Nominees": "Jerome Hellman",
+    "NomineeIds": "nm0375477",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Deer Hunter",
+    "FilmId": "tt0077416",
+    "Name": "Barry Spikings, Michael Deeley, Michael Cimino and John Peverall, Producers",
+    "Nominees": "Barry Spikings|Michael Deeley|Michael Cimino|John Peverall",
+    "NomineeIds": "nm0818731|nm0214303|nm0001047|nm0678911",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Heaven Can Wait",
+    "FilmId": "tt0077663",
+    "Name": "Warren Beatty, Producer",
+    "Nominees": "Warren Beatty",
+    "NomineeIds": "nm0000886",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Midnight Express",
+    "FilmId": "tt0077928",
+    "Name": "Alan Marshall and David Puttnam, Producers",
+    "Nominees": "Alan Marshall|David Puttnam",
+    "NomineeIds": "nm0550728|nm0701298",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "An Unmarried Woman",
+    "FilmId": "tt0078444",
+    "Name": "Paul Mazursky and Tony Ray, Producers",
+    "Nominees": "Paul Mazursky|Tony Ray",
+    "NomineeIds": "nm0005196|nm0712743",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Oh My Darling",
+    "FilmId": "tt0078017",
+    "Name": "Nico Crama, Producer",
+    "Nominees": "Nico Crama",
+    "NomineeIds": "nm0186124",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Rip Van Winkle",
+    "FilmId": "tt0078168",
+    "Name": "Will Vinton, Producer",
+    "Nominees": "Will Vinton",
+    "NomineeIds": "nm0899139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Special Delivery",
+    "FilmId": "tt0206312",
+    "Name": "Eunice Macaulay and John Weldon, Producers",
+    "Nominees": "Eunice Macaulay|John Weldon",
+    "NomineeIds": "nm0531323|nm0919732",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "A Different Approach",
+    "FilmId": "tt0077434",
+    "Name": "Jim Belcher and Fern Field, Producers",
+    "Nominees": "Jim Belcher|Fern Field",
+    "NomineeIds": "nm0067641|nm0275935",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Mandy's Grandmother",
+    "FilmId": "tt0077901",
+    "Name": "Andrew Sugerman, Producer",
+    "Nominees": "Andrew Sugerman",
+    "NomineeIds": "nm0837449",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Strange Fruit",
+    "FilmId": "tt0078329",
+    "Name": "Seth Pinsker, Producer",
+    "Nominees": "Seth Pinsker",
+    "NomineeIds": "nm0684525",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Teenage Father",
+    "FilmId": "tt0078372",
+    "Name": "Taylor Hackford, Producer",
+    "Nominees": "Taylor Hackford",
+    "NomineeIds": "nm0000431",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Buddy Holly Story",
+    "FilmId": "tt0077280",
+    "Name": "Tex Rudloff, Joel Fein, Curly Thirlwell, Willie Burton",
+    "Nominees": "Tex Rudloff|Joel Fein|Curly Thirlwell|Willie Burton",
+    "NomineeIds": "nm0748839|nm0270651|nm0858218|nm0123770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Days of Heaven",
+    "FilmId": "tt0077405",
+    "Name": "John K. Wilkinson, Robert W. Glass, Jr., John T. Reitz, Barry Thomas",
+    "Nominees": "John K. Wilkinson|Robert W. Glass Jr.|John T. Reitz|Barry Thomas",
+    "NomineeIds": "nm0929414|nm0321903|nm0718676|nm0858508",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Deer Hunter",
+    "FilmId": "tt0077416",
+    "Name": "Richard Portman, William McCaughey, Aaron Rochin, Darin Knight",
+    "Nominees": "Richard Portman|William McCaughey|Aaron Rochin|Darin Knight",
+    "NomineeIds": "nm0692446|nm0565477|nm0734099|nm0460828",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Hooper",
+    "FilmId": "tt0077696",
+    "Name": "Robert Knudson, Robert J. Glass, Don MacDougall, Jack Solomon",
+    "Nominees": "Robert Knudson|Robert J. Glass|Don MacDougall|Jack Solomon",
+    "NomineeIds": "nm0461702|nm0321915|nm0532013|nm0813349",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Superman",
+    "FilmId": "tt0078346",
+    "Name": "Gordon K. McCallum, Graham Hartstone, Nicolas Le Messurier, Roy Charman",
+    "Nominees": "Gordon K. McCallum|Graham Hartstone|Nicolas Le Messurier|Roy Charman",
+    "NomineeIds": "nm0564730|nm0367242|nm0494449|nm0153335",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Bloodbrothers",
+    "FilmId": "tt0078878",
+    "Name": "Walter Newman",
+    "Nominees": "Walter Newman",
+    "NomineeIds": "nm0628305",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "California Suite",
+    "FilmId": "tt0077289",
+    "Name": "Neil Simon",
+    "Nominees": "Neil Simon",
+    "NomineeIds": "nm0800319",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Heaven Can Wait",
+    "FilmId": "tt0077663",
+    "Name": "Elaine May, Warren Beatty",
+    "Nominees": "Elaine May|Warren Beatty",
+    "NomineeIds": "nm0561938|nm0000886",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Midnight Express",
+    "FilmId": "tt0077928",
+    "Name": "Oliver Stone",
+    "Nominees": "Oliver Stone",
+    "NomineeIds": "nm0000231",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Same Time, Next Year",
+    "FilmId": "tt0078199",
+    "Name": "Bernard Slade",
+    "Nominees": "Bernard Slade",
+    "NomineeIds": "nm0805152",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Autumn Sonata",
+    "FilmId": "tt0077711",
+    "Name": "Ingmar Bergman",
+    "Nominees": "Ingmar Bergman",
+    "NomineeIds": "nm0000005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Coming Home",
+    "FilmId": "tt0077362",
+    "Name": "Story by Nancy Dowd; Screenplay by Waldo Salt, Robert C. Jones",
+    "Nominees": "Nancy Dowd|Waldo Salt|Robert C. Jones",
+    "NomineeIds": "nm0235683|nm0759029|nm0002717",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "The Deer Hunter",
+    "FilmId": "tt0077416",
+    "Name": "Story by Michael Cimino, Deric Washburn, Louis Garfinkle, Quinn K. Redeker; Screenplay by Deric Washburn",
+    "Nominees": "Michael Cimino|Deric Washburn|Louis Garfinkle|Quinn K. Redeker",
+    "NomineeIds": "nm0001047|nm0913346|nm0307311|nm0714793",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Interiors",
+    "FilmId": "tt0077742",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "An Unmarried Woman",
+    "FilmId": "tt0078444",
+    "Name": "Paul Mazursky",
+    "Nominees": "Paul Mazursky",
+    "NomineeIds": "nm0005196",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Film": "Superman",
+    "FilmId": "tt0078346",
+    "Name": "Les Bowie, Colin Chilvers, Denys Coop, Roy Field, Derek Meddings, Zoran Perisic",
+    "Nominees": "Les Bowie|Colin Chilvers|Denys Coop|Roy Field|Derek Meddings|Zoran Perisic",
+    "NomineeIds": "nm0101155|nm0157670|nm0177813|nm0276037|nm0575439|nm0673830",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Leo Jaffe",
+    "Nominees": "Leo Jaffe",
+    "NomineeIds": "nm1616782",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Walter Lantz",
+    "NomineeIds": "nm0487237",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Walter Lantz for bringing joy and laughter to every part of the world through his unique animated motion pictures."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Museum of Modern Art",
+    "NomineeIds": "co0050966",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To The Museum of Modern Art Department of Film for the contribution it has made to the public's perception of movies as an art form."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Laurence Olivier",
+    "NomineeIds": "nm0000059",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Laurence Olivier for the full body of his work, for the unique achievements of his entire career and his lifetime of contribution to the art of film."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "King Vidor",
+    "NomineeIds": "nm0896542",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To King Vidor for his incomparable achievements as a cinematic creator and innovator."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eastman Kodak Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To EASTMAN KODAK COMPANY for the research and development of a Duplicating Color film for Motion Pictures."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "STEFAN KUDELSKI",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To STEFAN KUDELSKI of Nagra Magnetic Recorders, Incorporated, for the continuing research, design and development of the Nagra Production Sound Recorder for Motion Pictures."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Panavision Incorporated|Robert E. Gottschalk",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To PANAVISION, INCORPORATED, and its engineering staff under the direction of ROBERT E. GOTTSCHALK, for the concept, design and continuous development of the Panaflex Motion Picture Camera System."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ray M. Dolby|IOAN R. ALLEN|DAVID P. ROBINSON|STEPHEN M. KATZ|PHILIP S. J. BOOLE",
+    "NomineeIds": "nm2591246|nm2344873|nm0732538|nm0441858|nm0095434",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To RAY M. DOLBY, IOAN R. ALLEN, DAVID P. ROBINSON, STEPHEN M. KATZ and PHILIP S. J. BOOLE of Dolby Laboratories, Incorporated, for the development and implementation of an improved Sound Recording and Reproducing System for Motion Picture Production and Exhibition."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "KARL MACHER|GLENN M. BERGGREN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To KARL MACHER and GLENN M. BERGGREN of Isco Optische Werke for the development and introduction of the Cinelux-ULTRA Lens for 35mm Motion Picture Projection."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David J. Degenkolb|ARTHUR L. FORD|FRED J. SCOBEY",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To DAVID J. DEGENKOLB, ARTHUR L. FORD and FRED J. SCOBEY of DeLuxe General, Incorporated, for the development of a Method to Recycle Motion Picture Laboratory Photographic Wash Waters by Ion Exchange."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "KIICHI SEKIGUCHI",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To KIICHI SEKIGUCHI of CINE-FI International for the development of the CINE-FI Auto Radio Sound System for Drive-In Theaters."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "LEONARD CHAPMAN",
+    "NomineeIds": "nm0502585",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To LEONARD CHAPMAN of Leonard Equipment Company, for the design and manufacture of a small, mobile, motion picture camera platform known as the Chapman Hustler Dolly."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JAMES L. FISHER",
+    "NomineeIds": "nm6240510",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To JAMES L. FISHER of J.L. Fisher, Incorporated, for the design and manufacture of a small, mobile, motion picture camera platform known as the Fisher Model Ten Dolly."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ROBERT STINDT",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To ROBERT STINDT of Production Grip Equipment Company, for the design and manufacture of a small, mobile, motion picture camera platform known as the Stindt Dolly."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Linwood G. Dunn",
+    "NomineeIds": "nm0242670",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Linwood G. Dunn in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Loren L. Ryder",
+    "NomineeIds": "nm0753122",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Loren L. Ryder in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 51,
+    "Year": 1978,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Waldon O. Watson",
+    "NomineeIds": "nm0910592",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Waldon O. Watson in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

@@ -1,1674 +1,1842 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1950",
-    "nominees": [
-      "All About Eve"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1950",
-    "nominees": [
-      "Born Yesterday"
-    ],
-    "movies": [
-      {
-        "title": "Born Yesterday",
-        "tmdb_id": 24481,
-        "imdb_id": "tt0042276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1950",
-    "nominees": [
-      "Father of the Bride"
-    ],
-    "movies": [
-      {
-        "title": "Father of the Bride",
-        "tmdb_id": 20758,
-        "imdb_id": "tt0042451"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1950",
-    "nominees": [
-      "King Solomon's Mines"
-    ],
-    "movies": [
-      {
-        "title": "King Solomon's Mines",
-        "tmdb_id": 43388,
-        "imdb_id": "tt0042646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1950",
-    "nominees": [
-      "Sunset Boulevard"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1950",
-    "nominees": [
-      "Jose Ferrer"
-    ],
-    "movies": [
-      {
-        "title": "Cyrano de Bergerac",
-        "tmdb_id": 43386,
-        "imdb_id": "tt0042367"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1950",
-    "nominees": [
-      "Louis Calhern"
-    ],
-    "movies": [
-      {
-        "title": "The Magnificent Yankee",
-        "tmdb_id": 101653,
-        "imdb_id": "tt0042702"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1950",
-    "nominees": [
-      "William Holden"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1950",
-    "nominees": [
-      "James Stewart"
-    ],
-    "movies": [
-      {
-        "title": "Harvey",
-        "tmdb_id": 11787,
-        "imdb_id": "tt0042546"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1950",
-    "nominees": [
-      "Spencer Tracy"
-    ],
-    "movies": [
-      {
-        "title": "Father of the Bride",
-        "tmdb_id": 20758,
-        "imdb_id": "tt0042451"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1950",
-    "nominees": [
-      "Judy Holliday"
-    ],
-    "movies": [
-      {
-        "title": "Born Yesterday",
-        "tmdb_id": 24481,
-        "imdb_id": "tt0042276"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1950",
-    "nominees": [
-      "Anne Baxter"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1950",
-    "nominees": [
-      "Bette Davis"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1950",
-    "nominees": [
-      "Eleanor Parker"
-    ],
-    "movies": [
-      {
-        "title": "Caged",
-        "tmdb_id": 29381,
-        "imdb_id": "tt0042296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1950",
-    "nominees": [
-      "Gloria Swanson"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1950",
-    "nominees": [
-      "George Sanders"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1950",
-    "nominees": [
-      "Jeff Chandler"
-    ],
-    "movies": [
-      {
-        "title": "Broken Arrow",
-        "tmdb_id": 37292,
-        "imdb_id": "tt0042286"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1950",
-    "nominees": [
-      "Edmund Gwenn"
-    ],
-    "movies": [
-      {
-        "title": "Mister 880",
-        "tmdb_id": 102144,
-        "imdb_id": "tt0042742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1950",
-    "nominees": [
-      "Sam Jaffe"
-    ],
-    "movies": [
-      {
-        "title": "The Asphalt Jungle",
-        "tmdb_id": 16958,
-        "imdb_id": "tt0042208"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1950",
-    "nominees": [
-      "Erich von Stroheim"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1950",
-    "nominees": [
-      "Josephine Hull"
-    ],
-    "movies": [
-      {
-        "title": "Harvey",
-        "tmdb_id": 11787,
-        "imdb_id": "tt0042546"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1950",
-    "nominees": [
-      "Hope Emerson"
-    ],
-    "movies": [
-      {
-        "title": "Caged",
-        "tmdb_id": 29381,
-        "imdb_id": "tt0042296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1950",
-    "nominees": [
-      "Celeste Holm"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1950",
-    "nominees": [
-      "Nancy Olson"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1950",
-    "nominees": [
-      "Thelma Ritter"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1950",
-    "nominees": [
-      "Joseph L. Mankiewicz"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1950",
-    "nominees": [
-      "George Cukor"
-    ],
-    "movies": [
-      {
-        "title": "Born Yesterday",
-        "tmdb_id": 24481,
-        "imdb_id": "tt0042276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1950",
-    "nominees": [
-      "John Huston"
-    ],
-    "movies": [
-      {
-        "title": "The Asphalt Jungle",
-        "tmdb_id": 16958,
-        "imdb_id": "tt0042208"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1950",
-    "nominees": [
-      "Carol Reed"
-    ],
-    "movies": [
-      {
-        "title": "The Third Man",
-        "tmdb_id": 1092,
-        "imdb_id": "tt0041959"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1950",
-    "nominees": [
-      "Billy Wilder"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Joseph L. Mankiewicz"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Ben Maddow",
-      "John Huston"
-    ],
-    "movies": [
-      {
-        "title": "The Asphalt Jungle",
-        "tmdb_id": 16958,
-        "imdb_id": "tt0042208"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Albert Mannheimer"
-    ],
-    "movies": [
-      {
-        "title": "Born Yesterday",
-        "tmdb_id": 24481,
-        "imdb_id": "tt0042276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Michael Blankfort (Albert Maltz)"
-    ],
-    "movies": [
-      {
-        "title": "Broken Arrow",
-        "tmdb_id": 37292,
-        "imdb_id": "tt0042286"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Frances Goodrich",
-      "Albert Hackett"
-    ],
-    "movies": [
-      {
-        "title": "Father of the Bride",
-        "tmdb_id": 20758,
-        "imdb_id": "tt0042451"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Charles Brackett",
-      "D.M. Marshman Jr.",
-      "Billy Wilder"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Ruth Gordon",
-      "Garson Kanin"
-    ],
-    "movies": [
-      {
-        "title": "Adam's Rib",
-        "tmdb_id": 25431,
-        "imdb_id": "tt0041090"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Virginia Kellogg",
-      "Bernard C. Schoenfeld"
-    ],
-    "movies": [
-      {
-        "title": "Caged",
-        "tmdb_id": 29381,
-        "imdb_id": "tt0042296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Carl Foreman"
-    ],
-    "movies": [
-      {
-        "title": "The Men",
-        "tmdb_id": 1882,
-        "imdb_id": "tt0042727"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1950",
-    "nominees": [
-      "Joseph L. Mankiewicz",
-      "Lesser Samuels"
-    ],
-    "movies": [
-      {
-        "title": "No Way Out",
-        "tmdb_id": 28433,
-        "imdb_id": "tt0042792"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1950",
-    "nominees": [
-      "Edna",
-      "Edward Anhalt"
-    ],
-    "movies": [
-      {
-        "title": "Panic in the Streets",
-        "tmdb_id": 32078,
-        "imdb_id": "tt0042832"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1950",
-    "nominees": [
-      "Giuseppe De Santis",
-      "Carlo Lizzani"
-    ],
-    "movies": [
-      {
-        "title": "Bitter Rice",
-        "tmdb_id": 31058,
-        "imdb_id": "tt0040737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1950",
-    "nominees": [
-      "William Bowers",
-      "Andre de Toth"
-    ],
-    "movies": [
-      {
-        "title": "The Gunfighter",
-        "tmdb_id": 17409,
-        "imdb_id": "tt0042531"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1950",
-    "nominees": [
-      "Leonard Spiegelglass"
-    ],
-    "movies": [
-      {
-        "title": "Mystery Street",
-        "tmdb_id": 19170,
-        "imdb_id": "tt0042771"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1950",
-    "nominees": [
-      "Sy Gomberg"
-    ],
-    "movies": [
-      {
-        "title": "When Willie Comes Marching Home",
-        "tmdb_id": 54615,
-        "imdb_id": "tt0043129"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1950",
-    "nominees": [
-      "Franz Waxman"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1950",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1950",
-    "nominees": [
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "The Flame and the Arrow",
-        "tmdb_id": 32563,
-        "imdb_id": "tt0042464"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1950",
-    "nominees": [
-      "George Duning"
-    ],
-    "movies": [
-      {
-        "title": "No Sad Songs for Me",
-        "tmdb_id": 179057,
-        "imdb_id": "tt0042790"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1950",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Samson and Delilah",
-        "tmdb_id": 29993,
-        "imdb_id": "tt0041838"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1950",
-    "nominees": [
-      "Adolph Deutsch",
-      "Roger Edens"
-    ],
-    "movies": [
-      {
-        "title": "Annie Get Your Gun",
-        "tmdb_id": 25209,
-        "imdb_id": "tt0042200"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1950",
-    "nominees": [
-      "Oliver Wallace",
-      "Paul J. Smith"
-    ],
-    "movies": [
-      {
-        "title": "Cinderella",
-        "tmdb_id": 11224,
-        "imdb_id": "tt0042332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1950",
-    "nominees": [
-      "Lionel Newman"
-    ],
-    "movies": [
-      {
-        "title": "I'll Get By",
-        "tmdb_id": 217185,
-        "imdb_id": "tt0042589"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1950",
-    "nominees": [
-      "Andre Previn"
-    ],
-    "movies": [
-      {
-        "title": "Three Little Words",
-        "tmdb_id": 42767,
-        "imdb_id": "tt0043044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1950",
-    "nominees": [
-      "Ray Heindorf"
-    ],
-    "movies": [
-      {
-        "title": "The West Point Story",
-        "tmdb_id": 52848,
-        "imdb_id": "tt0043123"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1950",
-    "nominees": [
-      "Mona Lisa"
-    ],
-    "movies": [
-      {
-        "title": "Captain Carey, U.S.A.",
-        "tmdb_id": 129529,
-        "imdb_id": "tt0042310"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1950",
-    "nominees": [
-      "Be My Love"
-    ],
-    "movies": [
-      {
-        "title": "The Toast of New Orleans",
-        "tmdb_id": 52847,
-        "imdb_id": "tt0043053"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1950",
-    "nominees": [
-      "Bibbidi-Bobbidi-Boo"
-    ],
-    "movies": [
-      {
-        "title": "Cinderella",
-        "tmdb_id": 11224,
-        "imdb_id": "tt0042332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1950",
-    "nominees": [
-      "Mule Train"
-    ],
-    "movies": [
-      {
-        "title": "Singing Guns",
-        "tmdb_id": 147862,
-        "imdb_id": "tt0042970"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1950",
-    "nominees": [
-      "Wilhelmina"
-    ],
-    "movies": [
-      {
-        "title": "Wabash Avenue",
-        "tmdb_id": 110669,
-        "imdb_id": "tt0043116"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1950",
-    "nominees": [
-      "The Walls of Malapaga"
-    ],
-    "movies": [
-      {
-        "title": "The Walls of Malapaga",
-        "tmdb_id": 65718,
-        "imdb_id": "tt0040137"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1950",
-    "nominees": [
-      "The Titan: Story of Michelangelo"
-    ],
-    "movies": [
-      {
-        "title": "The Titan: Story of Michelangelo",
-        "tmdb_id": 114498,
-        "imdb_id": "tt0043050"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1950",
-    "nominees": [
-      "With These Hands"
-    ],
-    "movies": [
-      {
-        "title": "With These Hands",
-        "tmdb_id": 149253,
-        "imdb_id": "tt0043138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1950",
-    "nominees": [
-      "Why Korea?"
-    ],
-    "movies": [
-      {
-        "title": "Why Korea?",
-        "tmdb_id": 242968,
-        "imdb_id": "tt0043135"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1950",
-    "nominees": [
-      "The Fight: Science Against Cancer"
-    ],
-    "movies": [
-      {
-        "title": "The Fight: Science Against Cancer",
-        "tmdb_id": 242969,
-        "imdb_id": "tt0042460"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1950",
-    "nominees": [
-      "The Stairs"
-    ],
-    "movies": [
-      {
-        "title": "The Stairs",
-        "tmdb_id": 1110185,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1950",
-    "nominees": [
-      "Gerald McBoing-Boing"
-    ],
-    "movies": [
-      {
-        "title": "Gerald McBoing-Boing",
-        "tmdb_id": 46990,
-        "imdb_id": "tt0043581"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1950",
-    "nominees": [
-      "Jerry's Cousin"
-    ],
-    "movies": [
-      {
-        "title": "Jerry's Cousin",
-        "tmdb_id": 68630,
-        "imdb_id": "tt0043685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1950",
-    "nominees": [
-      "Trouble Indemnity"
-    ],
-    "movies": [
-      {
-        "title": "Trouble Indemnity",
-        "tmdb_id": 242967,
-        "imdb_id": "tt0043073"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1950",
-    "nominees": [
-      "Grandad of Races"
-    ],
-    "movies": [
-      {
-        "title": "Grandad of Races",
-        "tmdb_id": 242964,
-        "imdb_id": "tt0042518"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1950",
-    "nominees": [
-      "Blaze Busters"
-    ],
-    "movies": [
-      {
-        "title": "Blaze Busters",
-        "tmdb_id": 242965,
-        "imdb_id": "tt0042259"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1950",
-    "nominees": [
-      "Wrong Way Butch"
-    ],
-    "movies": [
-      {
-        "title": "Wrong Way Butch",
-        "tmdb_id": 242966,
-        "imdb_id": "tt0043148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1950",
-    "nominees": [
-      "Beaver Valley"
-    ],
-    "movies": [
-      {
-        "title": "Beaver Valley",
-        "tmdb_id": 162352,
-        "imdb_id": "tt0042592"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1950",
-    "nominees": [
-      "Grandma Moses"
-    ],
-    "movies": [
-      {
-        "title": "Grandma Moses",
-        "tmdb_id": 242960,
-        "imdb_id": "tt0042520"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1950",
-    "nominees": [
-      "My Country 'Tis of Thee"
-    ],
-    "movies": [
-      {
-        "title": "My Country 'Tis of Thee",
-        "tmdb_id": 242961,
-        "imdb_id": "tt0042768"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Hans Dreier",
-      "John Meehan",
-      "Samuel M. Comer",
-      "Ray Moyer"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Lyle Wheeler",
-      "George W. Davis",
-      "Thomas Little",
-      "Walter M. Scott"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Cedric Gibbons",
-      "Hans Peters",
-      "Edwin B. Willis",
-      "Hugh Hunt"
-    ],
-    "movies": [
-      {
-        "title": "The Red Danube",
-        "tmdb_id": 36633,
-        "imdb_id": "tt0041788"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1950",
-    "nominees": [
-      "Hans Dreier",
-      "Walter Tyler",
-      "Samuel M. Comer",
-      "Ray Moyer"
-    ],
-    "movies": [
-      {
-        "title": "Samson and Delilah",
-        "tmdb_id": 29993,
-        "imdb_id": "tt0041838"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1950",
-    "nominees": [
-      "Cedric Gibbons",
-      "Paul Groesse",
-      "Edwin B. Willis",
-      "Richard A. Pefferle"
-    ],
-    "movies": [
-      {
-        "title": "Annie Get Your Gun",
-        "tmdb_id": 25209,
-        "imdb_id": "tt0042200"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1950",
-    "nominees": [
-      "Ernst Fegte",
-      "George Sawley"
-    ],
-    "movies": [
-      {
-        "title": "Destination Moon",
-        "tmdb_id": 25392,
-        "imdb_id": "tt0042393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Robert Krasker"
-    ],
-    "movies": [
-      {
-        "title": "The Third Man",
-        "tmdb_id": 1092,
-        "imdb_id": "tt0041959"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Milton R. Krasner"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Harold Rosson"
-    ],
-    "movies": [
-      {
-        "title": "The Asphalt Jungle",
-        "tmdb_id": 16958,
-        "imdb_id": "tt0042208"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Victor Milner"
-    ],
-    "movies": [
-      {
-        "title": "The Furies",
-        "tmdb_id": 28304,
-        "imdb_id": "tt0042490"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "John F. Seitz"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1950",
-    "nominees": [
-      "Robert Surtees"
-    ],
-    "movies": [
-      {
-        "title": "King Solomon's Mines",
-        "tmdb_id": 43388,
-        "imdb_id": "tt0042646"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1950",
-    "nominees": [
-      "Charles Rosher"
-    ],
-    "movies": [
-      {
-        "title": "Annie Get Your Gun",
-        "tmdb_id": 25209,
-        "imdb_id": "tt0042200"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1950",
-    "nominees": [
-      "Ernest Palmer"
-    ],
-    "movies": [
-      {
-        "title": "Broken Arrow",
-        "tmdb_id": 37292,
-        "imdb_id": "tt0042286"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1950",
-    "nominees": [
-      "Ernest Haller"
-    ],
-    "movies": [
-      {
-        "title": "The Flame and the Arrow",
-        "tmdb_id": 32563,
-        "imdb_id": "tt0042464"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1950",
-    "nominees": [
-      "George Barnes"
-    ],
-    "movies": [
-      {
-        "title": "Samson and Delilah",
-        "tmdb_id": 29993,
-        "imdb_id": "tt0041838"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1950",
-    "nominees": [
-      "Ralph E. Winters",
-      "Conrad A. Nervig"
-    ],
-    "movies": [
-      {
-        "title": "King Solomon's Mines",
-        "tmdb_id": 43388,
-        "imdb_id": "tt0042646"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1950",
-    "nominees": [
-      "Barbara McLean"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1950",
-    "nominees": [
-      "James E. Newcom"
-    ],
-    "movies": [
-      {
-        "title": "Annie Get Your Gun",
-        "tmdb_id": 25209,
-        "imdb_id": "tt0042200"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1950",
-    "nominees": [
-      "Arthur Schmidt",
-      "Doane Harrison"
-    ],
-    "movies": [
-      {
-        "title": "Sunset Boulevard",
-        "tmdb_id": 599,
-        "imdb_id": "tt0043014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1950",
-    "nominees": [
-      "Oswald Hafenrichter"
-    ],
-    "movies": [
-      {
-        "title": "The Third Man",
-        "tmdb_id": 1092,
-        "imdb_id": "tt0041959"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1950",
-    "nominees": [
-      "George Pal Productions"
-    ],
-    "movies": [
-      {
-        "title": "Destination Moon",
-        "tmdb_id": 25392,
-        "imdb_id": "tt0042393"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1950",
-    "nominees": [
-      "Cecil B. Demille Productions"
-    ],
-    "movies": [
-      {
-        "title": "Samson and Delilah",
-        "tmdb_id": 29993,
-        "imdb_id": "tt0041838"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1950",
-    "nominees": [
-      "Thomas Moulton"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1950",
-    "nominees": [
-      "C.O. Slyfield"
-    ],
-    "movies": [
-      {
-        "title": "Cinderella",
-        "tmdb_id": 11224,
-        "imdb_id": "tt0042332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1950",
-    "nominees": [
-      "Leslie I. Carey"
-    ],
-    "movies": [
-      {
-        "title": "Louisa",
-        "tmdb_id": 99492,
-        "imdb_id": "tt0042687"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1950",
-    "nominees": [
-      "Gordon Sawyer"
-    ],
-    "movies": [
-      {
-        "title": "Our Very Own",
-        "tmdb_id": 97332,
-        "imdb_id": "tt0042819"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1950",
-    "nominees": [
-      "Cyril Crowhurst"
-    ],
-    "movies": [
-      {
-        "title": "Trio",
-        "tmdb_id": 134168,
-        "imdb_id": "tt0042752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Edith Head",
-      "Charles LeMaire"
-    ],
-    "movies": [
-      {
-        "title": "All About Eve",
-        "tmdb_id": 705,
-        "imdb_id": "tt0042192"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Jean Louis"
-    ],
-    "movies": [
-      {
-        "title": "Born Yesterday",
-        "tmdb_id": 24481,
-        "imdb_id": "tt0042276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1950",
-    "nominees": [
-      "Walter Plunkett"
-    ],
-    "movies": [
-      {
-        "title": "The Magnificent Yankee",
-        "tmdb_id": 101653,
-        "imdb_id": "tt0042702"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1950",
-    "nominees": [
-      "Edith Head",
-      "Charles LeMaire",
-      "Dorothy Jeakins",
-      "Elois Jenssen",
-      "Gile Steele",
-      "Gwen Wakeling"
-    ],
-    "movies": [
-      {
-        "title": "Samson and Delilah",
-        "tmdb_id": 29993,
-        "imdb_id": "tt0041838"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1950",
-    "nominees": [
-      "Michael Whittaker"
-    ],
-    "movies": [
-      {
-        "title": "The Black Rose",
-        "tmdb_id": 44398,
-        "imdb_id": "tt0042256"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1950",
-    "nominees": [
-      "Walter Plunkett",
-      "Valles"
-    ],
-    "movies": [
-      {
-        "title": "That Forsyte Woman",
-        "tmdb_id": 43187,
-        "imdb_id": "tt0041955"
-      }
-    ],
-    "won": false
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Magnificent Yankee",
+    "FilmId": "tt0042702",
+    "Name": "Louis Calhern",
+    "Nominees": "Louis Calhern",
+    "NomineeIds": "nm0129894",
+    "Winner": "",
+    "Detail": "Oliver Wendell Holmes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Cyrano de Bergerac",
+    "FilmId": "tt0042367",
+    "Name": "José Ferrer",
+    "Nominees": "José Ferrer",
+    "NomineeIds": "nm0001207",
+    "Winner": "True",
+    "Detail": "Cyrano de Bergerac",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "William Holden",
+    "Nominees": "William Holden",
+    "NomineeIds": "nm0000034",
+    "Winner": "",
+    "Detail": "Joe Gillis",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Harvey",
+    "FilmId": "tt0042546",
+    "Name": "James Stewart",
+    "Nominees": "James Stewart",
+    "NomineeIds": "nm0000071",
+    "Winner": "",
+    "Detail": "Elwood P. Dowd",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Father of the Bride",
+    "FilmId": "tt0042451",
+    "Name": "Spencer Tracy",
+    "Nominees": "Spencer Tracy",
+    "NomineeIds": "nm0000075",
+    "Winner": "",
+    "Detail": "Stanley T. Banks",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Broken Arrow",
+    "FilmId": "tt0042286",
+    "Name": "Jeff Chandler",
+    "Nominees": "Jeff Chandler",
+    "NomineeIds": "nm0001996",
+    "Winner": "",
+    "Detail": "Cochise",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Mister 880",
+    "FilmId": "tt0042742",
+    "Name": "Edmund Gwenn",
+    "Nominees": "Edmund Gwenn",
+    "NomineeIds": "nm0350324",
+    "Winner": "",
+    "Detail": "Skipper Miller",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Asphalt Jungle",
+    "FilmId": "tt0042208",
+    "Name": "Sam Jaffe",
+    "Nominees": "Sam Jaffe",
+    "NomineeIds": "nm0415488",
+    "Winner": "",
+    "Detail": "Dr. Erwin Riedenschneider",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "George Sanders",
+    "Nominees": "George Sanders",
+    "NomineeIds": "nm0001695",
+    "Winner": "True",
+    "Detail": "Addison De Witt",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "Erich von Stroheim",
+    "Nominees": "Erich von Stroheim",
+    "NomineeIds": "nm0002233",
+    "Winner": "",
+    "Detail": "Max Von Mayerling",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Anne Baxter",
+    "Nominees": "Anne Baxter",
+    "NomineeIds": "nm0000879",
+    "Winner": "",
+    "Detail": "Eve Harrington",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Bette Davis",
+    "Nominees": "Bette Davis",
+    "NomineeIds": "nm0000012",
+    "Winner": "",
+    "Detail": "Margo Channing",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Born Yesterday",
+    "FilmId": "tt0042276",
+    "Name": "Judy Holliday",
+    "Nominees": "Judy Holliday",
+    "NomineeIds": "nm0391062",
+    "Winner": "True",
+    "Detail": "Billie Dawn",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Caged",
+    "FilmId": "tt0042296",
+    "Name": "Eleanor Parker",
+    "Nominees": "Eleanor Parker",
+    "NomineeIds": "nm0662223",
+    "Winner": "",
+    "Detail": "Marie Allen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "Gloria Swanson",
+    "Nominees": "Gloria Swanson",
+    "NomineeIds": "nm0841797",
+    "Winner": "",
+    "Detail": "Norma Desmond",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Caged",
+    "FilmId": "tt0042296",
+    "Name": "Hope Emerson",
+    "Nominees": "Hope Emerson",
+    "NomineeIds": "nm0256216",
+    "Winner": "",
+    "Detail": "Evelyn Harper",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Celeste Holm",
+    "Nominees": "Celeste Holm",
+    "NomineeIds": "nm0002141",
+    "Winner": "",
+    "Detail": "Karen Richards",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Harvey",
+    "FilmId": "tt0042546",
+    "Name": "Josephine Hull",
+    "Nominees": "Josephine Hull",
+    "NomineeIds": "nm0401449",
+    "Winner": "True",
+    "Detail": "Veta Louise Simmons",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "Nancy Olson",
+    "Nominees": "Nancy Olson",
+    "NomineeIds": "nm0647970",
+    "Winner": "",
+    "Detail": "Betty Schaefer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Thelma Ritter",
+    "Nominees": "Thelma Ritter",
+    "NomineeIds": "nm0728812",
+    "Winner": "",
+    "Detail": "Birdie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Art Direction: Lyle Wheeler, George W. Davis; Set Decoration: Thomas Little, Walter M. Scott",
+    "Nominees": "Lyle Wheeler|George W. Davis|Thomas Little|Walter M. Scott",
+    "NomineeIds": "nm0923907|nm0204649|nm0514673|nm0779898",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Red Danube",
+    "FilmId": "tt0041788",
+    "Name": "Art Direction: Cedric Gibbons, Hans Peters; Set Decoration: Edwin B. Willis, Hugh Hunt",
+    "Nominees": "Cedric Gibbons|Hans Peters|Edwin B. Willis|Hugh Hunt",
+    "NomineeIds": "nm0316539|nm0676462|nm0932320|nm0402474",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "Art Direction: Hans Dreier, John Meehan; Set Decoration: Sam Comer, Ray Moyer",
+    "Nominees": "Hans Dreier|John Meehan|Sam Comer|Ray Moyer",
+    "NomineeIds": "nm0237417|nm0576048|nm0173754|nm0610455",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Annie Get Your Gun",
+    "FilmId": "tt0042200",
+    "Name": "Art Direction: Cedric Gibbons, Paul Groesse; Set Decoration: Edwin B. Willis, Richard A. Pefferle",
+    "Nominees": "Cedric Gibbons|Paul Groesse|Edwin B. Willis|Richard A. Pefferle",
+    "NomineeIds": "nm0316539|nm0342904|nm0932320|nm0670385",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Destination Moon",
+    "FilmId": "tt0042393",
+    "Name": "Art Direction: Ernst Fegte; Set Decoration: George Sawley",
+    "Nominees": "Ernst Fegte|George Sawley",
+    "NomineeIds": "nm0270404|nm0768120",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Samson and Delilah",
+    "FilmId": "tt0041838",
+    "Name": "Art Direction: Hans Dreier, Walter Tyler; Set Decoration: Sam Comer, Ray Moyer",
+    "Nominees": "Hans Dreier|Walter Tyler|Sam Comer|Ray Moyer",
+    "NomineeIds": "nm0237417|nm0878934|nm0173754|nm0610455",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Milton Krasner",
+    "Nominees": "Milton Krasner",
+    "NomineeIds": "nm0005762",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Asphalt Jungle",
+    "FilmId": "tt0042208",
+    "Name": "Harold Rosson",
+    "Nominees": "Harold Rosson",
+    "NomineeIds": "nm0005849",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Furies",
+    "FilmId": "tt0042490",
+    "Name": "Victor Milner",
+    "Nominees": "Victor Milner",
+    "NomineeIds": "nm0005800",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "John F. Seitz",
+    "Nominees": "John F. Seitz",
+    "NomineeIds": "nm0005870",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Third Man",
+    "FilmId": "tt0041959",
+    "Name": "Robert Krasker",
+    "Nominees": "Robert Krasker",
+    "NomineeIds": "nm0005761",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Annie Get Your Gun",
+    "FilmId": "tt0042200",
+    "Name": "Charles Rosher",
+    "Nominees": "Charles Rosher",
+    "NomineeIds": "nm0003546",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Broken Arrow",
+    "FilmId": "tt0042286",
+    "Name": "Ernest Palmer",
+    "Nominees": "Ernest Palmer",
+    "NomineeIds": "nm0005823",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Flame and the Arrow",
+    "FilmId": "tt0042464",
+    "Name": "Ernest Haller",
+    "Nominees": "Ernest Haller",
+    "NomineeIds": "nm0005735",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "King Solomon's Mines",
+    "FilmId": "tt0042646",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Samson and Delilah",
+    "FilmId": "tt0041838",
+    "Name": "George Barnes",
+    "Nominees": "George Barnes",
+    "NomineeIds": "nm0055604",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Edith Head, Charles LeMaire",
+    "Nominees": "Edith Head|Charles LeMaire",
+    "NomineeIds": "nm0372128|nm0494406",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Born Yesterday",
+    "FilmId": "tt0042276",
+    "Name": "Jean Louis",
+    "Nominees": "Jean Louis",
+    "NomineeIds": "nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Magnificent Yankee",
+    "FilmId": "tt0042702",
+    "Name": "Walter Plunkett",
+    "Nominees": "Walter Plunkett",
+    "NomineeIds": "nm0687703",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Black Rose",
+    "FilmId": "tt0042256",
+    "Name": "Michael Whittaker",
+    "Nominees": "Michael Whittaker",
+    "NomineeIds": "nm0926451",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Samson and Delilah",
+    "FilmId": "tt0041838",
+    "Name": "Edith Head, Dorothy Jeakins, Elois Jenssen, Gile Steele, Gwen Wakeling",
+    "Nominees": "Edith Head|Dorothy Jeakins|Elois Jenssen|Gile Steele|Gwen Wakeling",
+    "NomineeIds": "nm0372128|nm0419820|nm0421784|nm0824554|nm0906835",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "That Forsyte Woman",
+    "FilmId": "tt0041955",
+    "Name": "Walter Plunkett, Valles",
+    "Nominees": "Walter Plunkett|Valles",
+    "NomineeIds": "nm0687703|nm0885049",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Joseph L. Mankiewicz",
+    "Nominees": "Joseph L. Mankiewicz",
+    "NomineeIds": "nm0000581",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Asphalt Jungle",
+    "FilmId": "tt0042208",
+    "Name": "John Huston",
+    "Nominees": "John Huston",
+    "NomineeIds": "nm0001379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Born Yesterday",
+    "FilmId": "tt0042276",
+    "Name": "George Cukor",
+    "Nominees": "George Cukor",
+    "NomineeIds": "nm0002030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "Billy Wilder",
+    "Nominees": "Billy Wilder",
+    "NomineeIds": "nm0000697",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Third Man",
+    "FilmId": "tt0041959",
+    "Name": "Carol Reed",
+    "Nominees": "Carol Reed",
+    "NomineeIds": "nm0715346",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Titan: Story of Michelangelo",
+    "FilmId": "tt0043050",
+    "Name": "Robert Snyder, Producer",
+    "Nominees": "Robert Snyder",
+    "NomineeIds": "nm0162414",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "With These Hands",
+    "FilmId": "tt0043138",
+    "Name": "Jack Arnold and Lee Goodman, Producers",
+    "Nominees": "Jack Arnold|Lee Goodman",
+    "NomineeIds": "nm0000791|nm0329156",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Fight: Science against Cancer",
+    "FilmId": "tt0042460",
+    "Name": "Guy Glover, Producer",
+    "Nominees": "Guy Glover",
+    "NomineeIds": "nm0323123",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Stairs",
+    "FilmId": "tt0042996",
+    "Name": "Film Documents, Inc.",
+    "Nominees": "Film Documents Inc.",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Why Korea?",
+    "FilmId": "tt0043135",
+    "Name": "Edmund Reek, Producer",
+    "Nominees": "Edmund Reek",
+    "NomineeIds": "nm0715833",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Barbara McLean",
+    "Nominees": "Barbara McLean",
+    "NomineeIds": "nm0572492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Annie Get Your Gun",
+    "FilmId": "tt0042200",
+    "Name": "James E. Newcom",
+    "Nominees": "James E. Newcom",
+    "NomineeIds": "nm0627727",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "King Solomon's Mines",
+    "FilmId": "tt0042646",
+    "Name": "Ralph E. Winters, Conrad A. Nervig",
+    "Nominees": "Ralph E. Winters|Conrad A. Nervig",
+    "NomineeIds": "nm0935988|nm0626308",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "Arthur Schmidt, Doane Harrison",
+    "Nominees": "Arthur Schmidt|Doane Harrison",
+    "NomineeIds": "nm0772834|nm0365561",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Third Man",
+    "FilmId": "tt0041959",
+    "Name": "Oswald Hafenrichter",
+    "Nominees": "Oswald Hafenrichter",
+    "NomineeIds": "nm0353091",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Flame and the Arrow",
+    "FilmId": "tt0042464",
+    "Name": "Max Steiner",
+    "Nominees": "Max Steiner",
+    "NomineeIds": "nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "No Sad Songs for Me",
+    "FilmId": "tt0042790",
+    "Name": "George Duning",
+    "Nominees": "George Duning",
+    "NomineeIds": "nm0006052",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Samson and Delilah",
+    "FilmId": "tt0041838",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "Franz Waxman",
+    "Nominees": "Franz Waxman",
+    "NomineeIds": "nm0000077",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Annie Get Your Gun",
+    "FilmId": "tt0042200",
+    "Name": "Adolph Deutsch, Roger Edens",
+    "Nominees": "Adolph Deutsch|Roger Edens",
+    "NomineeIds": "nm0006037|nm0249136",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Cinderella",
+    "FilmId": "tt0042332",
+    "Name": "Oliver Wallace, Paul J. Smith",
+    "Nominees": "Oliver Wallace|Paul J. Smith",
+    "NomineeIds": "nm0006337|nm1345229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "I'll Get By",
+    "FilmId": "tt0042589",
+    "Name": "Lionel Newman",
+    "Nominees": "Lionel Newman",
+    "NomineeIds": "nm0006213",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Three Little Words",
+    "FilmId": "tt0043044",
+    "Name": "Andre Previn",
+    "Nominees": "Andre Previn",
+    "NomineeIds": "nm0006238",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "The West Point Story",
+    "FilmId": "tt0043123",
+    "Name": "Ray Heindorf",
+    "Nominees": "Ray Heindorf",
+    "NomineeIds": "nm0006127",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Toast of New Orleans",
+    "FilmId": "tt0043053",
+    "Name": "Music by Nicholas Brodszky; Lyrics by Sammy Cahn",
+    "Nominees": "Nicholas Brodszky|Sammy Cahn",
+    "NomineeIds": "nm0111004|nm0005991",
+    "Winner": "",
+    "Detail": "Be My Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Cinderella",
+    "FilmId": "tt0042332",
+    "Name": "Music and Lyrics by Mack David, Al Hoffman and Jerry Livingston",
+    "Nominees": "Mack David|Al Hoffman|Jerry Livingston",
+    "NomineeIds": "nm0202988|nm0388800|nm0515256",
+    "Winner": "",
+    "Detail": "Bibbidi-Bobbidi-Boo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Captain Carey, U.S.A.",
+    "FilmId": "tt0042310",
+    "Name": "Music and Lyrics by Ray Evans and Jay Livingston",
+    "Nominees": "Ray Evans|Jay Livingston",
+    "NomineeIds": "nm0263143|nm0515254",
+    "Winner": "True",
+    "Detail": "Mona Lisa",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Singing Guns",
+    "FilmId": "tt0042970",
+    "Name": "Music and Lyrics by Fred Glickman, Hy Heath and Johnny Lange",
+    "Nominees": "Fred Glickman|Hy Heath|Johnny Lange",
+    "NomineeIds": "nm0322796|nm0372654|nm0486150",
+    "Winner": "",
+    "Detail": "Mule Train",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Wabash Avenue",
+    "FilmId": "tt0043116",
+    "Name": "Music by Josef Myrow; Lyrics by Mack Gordon",
+    "Nominees": "Josef Myrow|Mack Gordon",
+    "NomineeIds": "nm0617155|nm0330418",
+    "Winner": "",
+    "Detail": "Wilhelmina",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "20th Century-Fox",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Born Yesterday",
+    "FilmId": "tt0042276",
+    "Name": "Columbia",
+    "Nominees": "Columbia",
+    "NomineeIds": "co0050868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Father of the Bride",
+    "FilmId": "tt0042451",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "King Solomon's Mines",
+    "FilmId": "tt0042646",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Gerald McBoing-Boing",
+    "FilmId": "tt0043581",
+    "Name": "Stephen Bosustow, Producer",
+    "Nominees": "Stephen Bosustow",
+    "NomineeIds": "nm0098322",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Jerry's Cousin",
+    "FilmId": "tt0043685",
+    "Name": "Fred Quimby, Producer",
+    "Nominees": "Fred Quimby",
+    "NomineeIds": "nm0703642",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Trouble Indemnity",
+    "FilmId": "tt0043073",
+    "Name": "Stephen Bosustow, Producer",
+    "Nominees": "Stephen Bosustow",
+    "NomineeIds": "nm0098322",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Blaze Busters",
+    "FilmId": "tt0042259",
+    "Name": "Robert Youngson, Producer",
+    "Nominees": "Robert Youngson",
+    "NomineeIds": "nm0950288",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Grandad of Races",
+    "FilmId": "tt0042518",
+    "Name": "Gordon Hollingshead, Producer",
+    "Nominees": "Gordon Hollingshead",
+    "NomineeIds": "nm0391121",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Wrong Way Butch",
+    "FilmId": "tt0043148",
+    "Name": "Pete Smith, Producer",
+    "Nominees": "Pete Smith",
+    "NomineeIds": "nm0809570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Grandma Moses",
+    "FilmId": "tt0042520",
+    "Name": "Falcon Films, Inc.",
+    "Nominees": "Falcon Films Inc.",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "In Beaver Valley",
+    "FilmId": "tt0042592",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "My Country 'Tis of Thee",
+    "FilmId": "tt0042768",
+    "Name": "Gordon Hollingshead, Producer",
+    "Nominees": "Gordon Hollingshead",
+    "NomineeIds": "nm0391121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",
+    "Nominees": "20th Century-Fox|Thomas T. Moulton",
+    "NomineeIds": "co0028775|nm0609771",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Cinderella",
+    "FilmId": "tt0042332",
+    "Name": "Walt Disney Studio Sound Department, C. O. Slyfield, Sound Director",
+    "Nominees": "Walt Disney Studios|C. O. Slyfield",
+    "NomineeIds": "co0008970|nm0806351",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Louisa",
+    "FilmId": "tt0042687",
+    "Name": "Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",
+    "Nominees": "Universal-International|Leslie I. Carey",
+    "NomineeIds": "co0005073|nm0136989",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Our Very Own",
+    "FilmId": "tt0042819",
+    "Name": "Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",
+    "Nominees": "Samuel Goldwyn|Gordon Sawyer",
+    "NomineeIds": "co0058013|nm0768167",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Trio",
+    "FilmId": "tt0042752",
+    "Name": "Pinewood Studio Sound Department, Cyril Crowhurst, Sound Director",
+    "Nominees": "Pinewood|Cyril Crowhurst",
+    "NomineeIds": "co0041067|nm2935868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Destination Moon",
+    "FilmId": "tt0042393",
+    "Name": "George Pal Productions",
+    "Nominees": "George Pal Productions",
+    "NomineeIds": "?",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Samson and Delilah",
+    "FilmId": "tt0041838",
+    "Name": "Cecil B. DeMille Productions",
+    "Nominees": "Cecil B. DeMille Productions",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Bitter Rice",
+    "FilmId": "tt0040737",
+    "Name": "Giuseppe De Santis, Carlo Lizzani",
+    "Nominees": "Giuseppe De Santis|Carlo Lizzani",
+    "NomineeIds": "nm0211459|nm0515491",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "The Gunfighter",
+    "FilmId": "tt0042531",
+    "Name": "William Bowers, Andre de Toth",
+    "Nominees": "William Bowers|Andre de Toth",
+    "NomineeIds": "nm0101115|nm0211964",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Mystery Street",
+    "FilmId": "tt0042771",
+    "Name": "Leonard Spigelgass",
+    "Nominees": "Leonard Spigelgass",
+    "NomineeIds": "nm0818700",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Panic in the Streets",
+    "FilmId": "tt0042832",
+    "Name": "Edna Anhalt, Edward Anhalt",
+    "Nominees": "Edna Anhalt|Edward Anhalt",
+    "NomineeIds": "nm0030018|nm0030019",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "When Willie Comes Marching Home",
+    "FilmId": "tt0043129",
+    "Name": "Sy Gomberg",
+    "Nominees": "Sy Gomberg",
+    "NomineeIds": "nm0177934",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "All about Eve",
+    "FilmId": "tt0042192",
+    "Name": "Joseph L. Mankiewicz",
+    "Nominees": "Joseph L. Mankiewicz",
+    "NomineeIds": "nm0000581",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Asphalt Jungle",
+    "FilmId": "tt0042208",
+    "Name": "Ben Maddow, John Huston",
+    "Nominees": "Ben Maddow|John Huston",
+    "NomineeIds": "nm0534693|nm0001379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Born Yesterday",
+    "FilmId": "tt0042276",
+    "Name": "Albert Mannheimer",
+    "Nominees": "Albert Mannheimer",
+    "NomineeIds": "nm0543171",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Broken Arrow",
+    "FilmId": "tt0042286",
+    "Name": "Albert Maltz",
+    "Nominees": "Albert Maltz",
+    "NomineeIds": "nm0540816",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: Based upon the research made by, and the board motion of, the Writers Guild of America West, the Academy, on July 3, 1991, decided to restore Albert Maltz to the screenplay credit on the 1950 film Broken Arrow. Michael Blankfort had fronted for him on the screenplay and consequently was named in the screenplay nomination. Mr. Blankfort's name was removed from the nomination.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Father of the Bride",
+    "FilmId": "tt0042451",
+    "Name": "Frances Goodrich, Albert Hackett",
+    "Nominees": "Frances Goodrich|Albert Hackett",
+    "NomineeIds": "nm0329304|nm0352443",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Adam's Rib",
+    "FilmId": "tt0041090",
+    "Name": "Ruth Gordon, Garson Kanin",
+    "Nominees": "Ruth Gordon|Garson Kanin",
+    "NomineeIds": "nm0002106|nm0437717",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Caged",
+    "FilmId": "tt0042296",
+    "Name": "Virginia Kellogg, Bernard C. Schoenfeld",
+    "Nominees": "Virginia Kellogg|Bernard C. Schoenfeld",
+    "NomineeIds": "nm0446132|nm0774441",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "The Men",
+    "FilmId": "tt0042727",
+    "Name": "Carl Foreman",
+    "Nominees": "Carl Foreman",
+    "NomineeIds": "nm0286025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "No Way Out",
+    "FilmId": "tt0042792",
+    "Name": "Joseph L. Mankiewicz, Lesser Samuels",
+    "Nominees": "Joseph L. Mankiewicz|Lesser Samuels",
+    "NomineeIds": "nm0000581|nm0760488",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Sunset Blvd.",
+    "FilmId": "tt0043014",
+    "Name": "Charles Brackett, Billy Wilder, D. M. Marshman, Jr.",
+    "Nominees": "Charles Brackett|Billy Wilder|D. M. Marshman Jr.",
+    "NomineeIds": "nm0102818|nm0000697|nm0551261",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "HONORARY FOREIGN LANGUAGE FILM AWARD",
+    "Film": "The Walls of Malapaga",
+    "FilmId": "tt0040137",
+    "Name": "",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To The Walls of Malapaga - voted by the Board of Governors as the most outstanding foreign language film released in the United States in 1950."
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "George Murphy",
+    "NomineeIds": "nm0614278",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To George Murphy for his services in interpreting the film industry to the country at large."
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Louis B. Mayer",
+    "NomineeIds": "nm0562454",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Louis B. Mayer for distinguished service to the motion picture industry."
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Darryl F. Zanuck",
+    "Nominees": "Darryl F. Zanuck",
+    "NomineeIds": "nm0953123",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James B. Gordon|20Th Century-Fox",
+    "NomineeIds": "nm0330286|co0028775",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To JAMES B. GORDON and the 20TH CENTURY-FOX STUDIO CAMERA DEPARTMENT for the design and development of a multiple image film viewer."
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Paul Livadary|Floyd Campbell|L. W. Russell|Columbia",
+    "NomineeIds": "nm0515093|?|?|co0050868",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JOHN PAUL LIVADARY, FLOYD CAMPBELL, L. W. RUSSELL and the COLUMBIA STUDIO SOUND DEPARTMENT for the development of a multi-track magnetic re-recording system."
+  },
+  {
+    "Ceremony": 23,
+    "Year": 1950,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Loren L. Ryder|Paramount",
+    "NomineeIds": "nm0753122|co0023400",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To LOREN L. RYDER and the PARAMOUNT STUDIO SOUND DEPARTMENT for the first studio-wide application of magnetic sound recording to motion picture production."
   }
 ]

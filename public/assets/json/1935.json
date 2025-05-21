@@ -1,1283 +1,1506 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "Mutiny on the Bounty"
-    ],
-    "movies": [
-      {
-        "title": "Mutiny on the Bounty",
-        "tmdb_id": 12311,
-        "imdb_id": "tt0026752"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "Alice Adams"
-    ],
-    "movies": [
-      {
-        "title": "Alice Adams",
-        "tmdb_id": 43886,
-        "imdb_id": "tt0026056"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "Broadway Melody of 1936"
-    ],
-    "movies": [
-      {
-        "title": "Broadway Melody of 1936",
-        "tmdb_id": 43890,
-        "imdb_id": "tt0026144"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "Captain Blood"
-    ],
-    "movies": [
-      {
-        "title": "Captain Blood",
-        "tmdb_id": 16905,
-        "imdb_id": "tt0026174"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "David Copperfield"
-    ],
-    "movies": [
-      {
-        "title": "David Copperfield",
-        "tmdb_id": 43899,
-        "imdb_id": "tt0026266"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "The Informer"
-    ],
-    "movies": [
-      {
-        "title": "The Informer",
-        "tmdb_id": 43896,
-        "imdb_id": "tt0026529"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "The Lives of a Bengal Lancer"
-    ],
-    "movies": [
-      {
-        "title": "The Lives of a Bengal Lancer",
-        "tmdb_id": 43898,
-        "imdb_id": "tt0026643"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "A Midsummer Night's Dream"
-    ],
-    "movies": [
-      {
-        "title": "A Midsummer Night's Dream",
-        "tmdb_id": 19075,
-        "imdb_id": "tt0026714"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "Les Misérables"
-    ],
-    "movies": [
-      {
-        "title": "Les Misérables",
-        "tmdb_id": 43893,
-        "imdb_id": "tt0026725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "Naughty Marietta"
-    ],
-    "movies": [
-      {
-        "title": "Naughty Marietta",
-        "tmdb_id": 43894,
-        "imdb_id": "tt0026768"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "Ruggles of Red Gap"
-    ],
-    "movies": [
-      {
-        "title": "Ruggles of Red Gap",
-        "tmdb_id": 36006,
-        "imdb_id": "tt0026955"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1935",
-    "nominees": [
-      "Top Hat"
-    ],
-    "movies": [
-      {
-        "title": "Top Hat",
-        "tmdb_id": 3080,
-        "imdb_id": "tt0027125"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1935",
-    "nominees": [
-      "Victor McLaglen"
-    ],
-    "movies": [
-      {
-        "title": "The Informer",
-        "tmdb_id": 43896,
-        "imdb_id": "tt0026529"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1935",
-    "nominees": [
-      "Clark Gable"
-    ],
-    "movies": [
-      {
-        "title": "Mutiny on the Bounty",
-        "tmdb_id": 12311,
-        "imdb_id": "tt0026752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1935",
-    "nominees": [
-      "Charles Laughton"
-    ],
-    "movies": [
-      {
-        "title": "Mutiny on the Bounty",
-        "tmdb_id": 12311,
-        "imdb_id": "tt0026752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1935",
-    "nominees": [
-      "Paul Muni"
-    ],
-    "movies": [
-      {
-        "title": "Black Fury",
-        "tmdb_id": 92667,
-        "imdb_id": "tt0026121"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1935",
-    "nominees": [
-      "Franchot Tone"
-    ],
-    "movies": [
-      {
-        "title": "Mutiny on the Bounty",
-        "tmdb_id": 12311,
-        "imdb_id": "tt0026752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1935",
-    "nominees": [
-      "Bette Davis"
-    ],
-    "movies": [
-      {
-        "title": "Dangerous",
-        "tmdb_id": 52863,
-        "imdb_id": "tt0026261"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1935",
-    "nominees": [
-      "Elisabeth Bergner"
-    ],
-    "movies": [
-      {
-        "title": "Escape Me Never",
-        "tmdb_id": 192980,
-        "imdb_id": "tt0026320"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1935",
-    "nominees": [
-      "Claudette Colbert"
-    ],
-    "movies": [
-      {
-        "title": "Private Worlds",
-        "tmdb_id": 107876,
-        "imdb_id": "tt0026893"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1935",
-    "nominees": [
-      "Katharine Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "Alice Adams",
-        "tmdb_id": 43886,
-        "imdb_id": "tt0026056"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1935",
-    "nominees": [
-      "Miriam Hopkins"
-    ],
-    "movies": [
-      {
-        "title": "Becky Sharp",
-        "tmdb_id": 43888,
-        "imdb_id": "tt0026104"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1935",
-    "nominees": [
-      "Merle Oberon"
-    ],
-    "movies": [
-      {
-        "title": "The Dark Angel",
-        "tmdb_id": 120977,
-        "imdb_id": "tt0026264"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1935",
-    "nominees": [
-      "John Ford"
-    ],
-    "movies": [
-      {
-        "title": "The Informer",
-        "tmdb_id": 43896,
-        "imdb_id": "tt0026529"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1935",
-    "nominees": [
-      "Michael Curtiz"
-    ],
-    "movies": [
-      {
-        "title": "Captain Blood",
-        "tmdb_id": 16905,
-        "imdb_id": "tt0026174"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1935",
-    "nominees": [
-      "Henry Hathaway"
-    ],
-    "movies": [
-      {
-        "title": "The Lives of a Bengal Lancer",
-        "tmdb_id": 43898,
-        "imdb_id": "tt0026643"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1935",
-    "nominees": [
-      "Frank Lloyd"
-    ],
-    "movies": [
-      {
-        "title": "Mutiny on the Bounty",
-        "tmdb_id": 12311,
-        "imdb_id": "tt0026752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1935",
-    "nominees": [
-      "Clem Beauchamp",
-      "Paul Wing"
-    ],
-    "movies": [
-      {
-        "title": "The Lives of a Bengal Lancer",
-        "tmdb_id": 43898,
-        "imdb_id": "tt0026643"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1935",
-    "nominees": [
-      "Joseph M. Newman"
-    ],
-    "movies": [
-      {
-        "title": "David Copperfield",
-        "tmdb_id": 43899,
-        "imdb_id": "tt0026266"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1935",
-    "nominees": [
-      "Eric Stacey"
-    ],
-    "movies": [
-      {
-        "title": "Les Misérables",
-        "tmdb_id": 43893,
-        "imdb_id": "tt0026725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1935",
-    "nominees": [
-      "Sherry Shourds"
-    ],
-    "movies": [
-      {
-        "title": "A Midsummer Night's Dream",
-        "tmdb_id": 19075,
-        "imdb_id": "tt0026714"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1935",
-    "nominees": [
-      "Dave Gould"
-    ],
-    "movies": [
-      {
-        "title": "Folies Bergère",
-        "tmdb_id": 174988,
-        "imdb_id": "tt0026373"
-      },
-      {
-        "title": "Broadway Melody of 1936",
-        "tmdb_id": 43890,
-        "imdb_id": "tt0026144"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1935",
-    "nominees": [
-      "LeRoy Prinz"
-    ],
-    "movies": [
-      {
-        "title": "All the King's Horses",
-        "tmdb_id": 218403,
-        "imdb_id": "tt0024823"
-      },
-      {
-        "title": "The Big Broadcast of 1936",
-        "tmdb_id": 197491,
-        "imdb_id": "tt0026113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1935",
-    "nominees": [
-      "Bobby Connolly"
-    ],
-    "movies": [
-      {
-        "title": "Broadway Hostess",
-        "tmdb_id": 173800,
-        "imdb_id": "tt0026143"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1935",
-    "nominees": [
-      "Busby Berkeley"
-    ],
-    "movies": [
-      {
-        "title": "Gold Diggers of 1935",
-        "tmdb_id": 43892,
-        "imdb_id": "tt0026421"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1935",
-    "nominees": [
-      "Sammy Lee"
-    ],
-    "movies": [
-      {
-        "title": "King of Burlesque",
-        "tmdb_id": 218404,
-        "imdb_id": "tt0026571"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1935",
-    "nominees": [
-      "Benjamin Zemach"
-    ],
-    "movies": [
-      {
-        "title": "She",
-        "tmdb_id": 60566,
-        "imdb_id": "tt0026983"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1935",
-    "nominees": [
-      "Hermes Pan"
-    ],
-    "movies": [
-      {
-        "title": "Top Hat",
-        "tmdb_id": 3080,
-        "imdb_id": "tt0027125"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1935",
-    "nominees": [
-      "Dudley Nichols"
-    ],
-    "movies": [
-      {
-        "title": "The Informer",
-        "tmdb_id": 43896,
-        "imdb_id": "tt0026529"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1935",
-    "nominees": [
-      "Grover Jones",
-      "Waldemar Young",
-      "John L. Balderston",
-      "Achmed Abdullah",
-      "William Slavens McNutt"
-    ],
-    "movies": [
-      {
-        "title": "The Lives of a Bengal Lancer",
-        "tmdb_id": 43898,
-        "imdb_id": "tt0026643"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1935",
-    "nominees": [
-      "Talbot Jennings",
-      "Jules Furthman",
-      "Carey Wilson"
-    ],
-    "movies": [
-      {
-        "title": "Mutiny on the Bounty",
-        "tmdb_id": 12311,
-        "imdb_id": "tt0026752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1935",
-    "nominees": [
-      "Casey Robinson"
-    ],
-    "movies": [
-      {
-        "title": "Captain Blood",
-        "tmdb_id": 16905,
-        "imdb_id": "tt0026174"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1935",
-    "nominees": [
-      "Ben Hecht",
-      "Charles MacArthur"
-    ],
-    "movies": [
-      {
-        "title": "The Scoundrel",
-        "tmdb_id": 37089,
-        "imdb_id": "tt0026970"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1935",
-    "nominees": [
-      "Moss Hart"
-    ],
-    "movies": [
-      {
-        "title": "Broadway Melody of 1936",
-        "tmdb_id": 43890,
-        "imdb_id": "tt0026144"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1935",
-    "nominees": [
-      "Don Hartman",
-      "Stephen Morehouse Avery"
-    ],
-    "movies": [
-      {
-        "title": "The Gay Deception",
-        "tmdb_id": 54570,
-        "imdb_id": "tt0026400"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1935",
-    "nominees": [
-      "Gregory Rogers (Darryl F. Zanuck)"
-    ],
-    "movies": [
-      {
-        "title": "'G' Men",
-        "tmdb_id": 26718,
-        "imdb_id": "tt0026393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1935",
-    "nominees": [
-      "The Informer"
-    ],
-    "movies": [
-      {
-        "title": "The Informer",
-        "tmdb_id": 43896,
-        "imdb_id": "tt0026529"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1935",
-    "nominees": [
-      "Captain Blood"
-    ],
-    "movies": [
-      {
-        "title": "Captain Blood",
-        "tmdb_id": 16905,
-        "imdb_id": "tt0026174"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1935",
-    "nominees": [
-      "Mutiny on the Bounty"
-    ],
-    "movies": [
-      {
-        "title": "Mutiny on the Bounty",
-        "tmdb_id": 12311,
-        "imdb_id": "tt0026752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1935",
-    "nominees": [
-      "Peter Ibbetson"
-    ],
-    "movies": [
-      {
-        "title": "Peter Ibbetson",
-        "tmdb_id": 57412,
-        "imdb_id": "tt0026866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1935",
-    "nominees": [
-      "Lullaby of Broadway"
-    ],
-    "movies": [
-      {
-        "title": "Gold Diggers of 1935",
-        "tmdb_id": 43892,
-        "imdb_id": "tt0026421"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1935",
-    "nominees": [
-      "Cheek to Cheek"
-    ],
-    "movies": [
-      {
-        "title": "Top Hat",
-        "tmdb_id": 3080,
-        "imdb_id": "tt0027125"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1935",
-    "nominees": [
-      "Lovely to Look At"
-    ],
-    "movies": [
-      {
-        "title": "Roberta",
-        "tmdb_id": 31798,
-        "imdb_id": "tt0026942"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1935",
-    "nominees": [
-      "Three Orphan Kittens"
-    ],
-    "movies": [
-      {
-        "title": "Three Orphan Kittens",
-        "tmdb_id": 67626,
-        "imdb_id": "tt0027100"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1935",
-    "nominees": [
-      "The Calico Dragon"
-    ],
-    "movies": [
-      {
-        "title": "The Calico Dragon",
-        "tmdb_id": 184589,
-        "imdb_id": "tt0026162"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1935",
-    "nominees": [
-      "Who Killed Cock Robin?"
-    ],
-    "movies": [
-      {
-        "title": "Who Killed Cock Robin?",
-        "tmdb_id": 109323,
-        "imdb_id": "tt0027212"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1935",
-    "nominees": [
-      "How to Sleep"
-    ],
-    "movies": [
-      {
-        "title": "How to Sleep",
-        "tmdb_id": 197160,
-        "imdb_id": "tt0026497"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1935",
-    "nominees": [
-      "Oh, My Nerves"
-    ],
-    "movies": [
-      {
-        "title": "Oh, My Nerves",
-        "tmdb_id": 233666,
-        "imdb_id": "tt0026803"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1935",
-    "nominees": [
-      "Tit for Tat"
-    ],
-    "movies": [
-      {
-        "title": "Tit for Tat",
-        "tmdb_id": 50912,
-        "imdb_id": "tt0027113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1935",
-    "nominees": [
-      "Wings Over Everest"
-    ],
-    "movies": [
-      {
-        "title": "Wings Over Everest",
-        "tmdb_id": 233669,
-        "imdb_id": "tt0024777"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1935",
-    "nominees": [
-      "Audioscopiks"
-    ],
-    "movies": [
-      {
-        "title": "Audioscopiks",
-        "tmdb_id": 197173,
-        "imdb_id": "tt0026086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1935",
-    "nominees": [
-      "Camera Thrills"
-    ],
-    "movies": [
-      {
-        "title": "Camera Thrills",
-        "tmdb_id": 233676,
-        "imdb_id": "tt0026167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1935",
-    "nominees": [
-      "Richard Day"
-    ],
-    "movies": [
-      {
-        "title": "The Dark Angel",
-        "tmdb_id": 120977,
-        "imdb_id": "tt0026264"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1935",
-    "nominees": [
-      "Hans Dreier",
-      "Roland Anderson"
-    ],
-    "movies": [
-      {
-        "title": "The Lives of a Bengal Lancer",
-        "tmdb_id": 43898,
-        "imdb_id": "tt0026643"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1935",
-    "nominees": [
-      "Carroll Clark",
-      "Van Nest Polglase"
-    ],
-    "movies": [
-      {
-        "title": "Top Hat",
-        "tmdb_id": 3080,
-        "imdb_id": "tt0027125"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1935",
-    "nominees": [
-      "Hal Mohr"
-    ],
-    "movies": [
-      {
-        "title": "A Midsummer Night's Dream",
-        "tmdb_id": 19075,
-        "imdb_id": "tt0026714"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1935",
-    "nominees": [
-      "Ray June"
-    ],
-    "movies": [
-      {
-        "title": "Barbary Coast",
-        "tmdb_id": 76499,
-        "imdb_id": "tt0026097"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1935",
-    "nominees": [
-      "Victor Milner"
-    ],
-    "movies": [
-      {
-        "title": "Last Crusaders",
-        "tmdb_id": 756763,
-        "imdb_id": "tt0262085"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1935",
-    "nominees": [
-      "Gregg Toland"
-    ],
-    "movies": [
-      {
-        "title": "Les Misérables",
-        "tmdb_id": 43893,
-        "imdb_id": "tt0026725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1935",
-    "nominees": [
-      "Ralph Dawson"
-    ],
-    "movies": [
-      {
-        "title": "A Midsummer Night's Dream",
-        "tmdb_id": 19075,
-        "imdb_id": "tt0026714"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1935",
-    "nominees": [
-      "Robert J. Kern"
-    ],
-    "movies": [
-      {
-        "title": "David Copperfield",
-        "tmdb_id": 43899,
-        "imdb_id": "tt0026266"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1935",
-    "nominees": [
-      "George Hively"
-    ],
-    "movies": [
-      {
-        "title": "The Informer",
-        "tmdb_id": 43896,
-        "imdb_id": "tt0026529"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1935",
-    "nominees": [
-      "Barbara McLean"
-    ],
-    "movies": [
-      {
-        "title": "Les Misérables",
-        "tmdb_id": 43893,
-        "imdb_id": "tt0026725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1935",
-    "nominees": [
-      "Ellsworth Hoagland"
-    ],
-    "movies": [
-      {
-        "title": "The Lives of a Bengal Lancer",
-        "tmdb_id": 43898,
-        "imdb_id": "tt0026643"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1935",
-    "nominees": [
-      "Margaret Booth"
-    ],
-    "movies": [
-      {
-        "title": "Mutiny on the Bounty",
-        "tmdb_id": 12311,
-        "imdb_id": "tt0026752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1935",
-    "nominees": [
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "Naughty Marietta",
-        "tmdb_id": 43894,
-        "imdb_id": "tt0026768"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1935",
-    "nominees": [
-      "Republic Studio Sound Department"
-    ],
-    "movies": [
-      {
-        "title": "$1,000 a Minute",
-        "tmdb_id": 218388,
-        "imdb_id": "tt0026027"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1935",
-    "nominees": [
-      "Gilbert Kurland"
-    ],
-    "movies": [
-      {
-        "title": "Bride of Frankenstein",
-        "tmdb_id": 229,
-        "imdb_id": "tt0026138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1935",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "Captain Blood",
-        "tmdb_id": 16905,
-        "imdb_id": "tt0026174"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1935",
-    "nominees": [
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "The Dark Angel",
-        "tmdb_id": 120977,
-        "imdb_id": "tt0026264"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1935",
-    "nominees": [
-      "Carl Dreher"
-    ],
-    "movies": [
-      {
-        "title": "I Dream Too Much",
-        "tmdb_id": 218389,
-        "imdb_id": "tt0026507"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1935",
-    "nominees": [
-      "Franklin B. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "The Lives of a Bengal Lancer",
-        "tmdb_id": 43898,
-        "imdb_id": "tt0026643"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1935",
-    "nominees": [
-      "John Livadary"
-    ],
-    "movies": [
-      {
-        "title": "Love Me Forever",
-        "tmdb_id": 234207,
-        "imdb_id": "tt0026654"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1935",
-    "nominees": [
-      "E.H. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "Thanks a Million",
-        "tmdb_id": 142142,
-        "imdb_id": "tt0027088"
-      }
-    ],
-    "won": false
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Mutiny on the Bounty",
+    "FilmId": "tt0026752",
+    "Name": "Clark Gable",
+    "Nominees": "Clark Gable",
+    "NomineeIds": "nm0000022",
+    "Winner": "",
+    "Detail": "Fletcher Christian",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Mutiny on the Bounty",
+    "FilmId": "tt0026752",
+    "Name": "Charles Laughton",
+    "Nominees": "Charles Laughton",
+    "NomineeIds": "nm0001452",
+    "Winner": "",
+    "Detail": "Captain Bligh",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Informer",
+    "FilmId": "tt0026529",
+    "Name": "Victor McLaglen",
+    "Nominees": "Victor McLaglen",
+    "NomineeIds": "nm0572142",
+    "Winner": "True",
+    "Detail": "Gypo Nolan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Black Fury",
+    "FilmId": "tt0026121",
+    "Name": "Paul Muni",
+    "Nominees": "Paul Muni",
+    "NomineeIds": "nm0612847",
+    "Winner": "",
+    "Detail": "Joe Radek",
+    "Note": "came in 2nd|NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Mutiny on the Bounty",
+    "FilmId": "tt0026752",
+    "Name": "Franchot Tone",
+    "Nominees": "Franchot Tone",
+    "NomineeIds": "nm0867144",
+    "Winner": "",
+    "Detail": "Roger Byam",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Escape Me Never",
+    "FilmId": "tt0026320",
+    "Name": "Elisabeth Bergner",
+    "Nominees": "Elisabeth Bergner",
+    "NomineeIds": "nm0074949",
+    "Winner": "",
+    "Detail": "Gemma Jones",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Private Worlds",
+    "FilmId": "tt0026893",
+    "Name": "Claudette Colbert",
+    "Nominees": "Claudette Colbert",
+    "NomineeIds": "nm0001055",
+    "Winner": "",
+    "Detail": "Jane Everest",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Dangerous",
+    "FilmId": "tt0026261",
+    "Name": "Bette Davis",
+    "Nominees": "Bette Davis",
+    "NomineeIds": "nm0000012",
+    "Winner": "True",
+    "Detail": "Joyce Heath",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Alice Adams",
+    "FilmId": "tt0026056",
+    "Name": "Katharine Hepburn",
+    "Nominees": "Katharine Hepburn",
+    "NomineeIds": "nm0000031",
+    "Winner": "",
+    "Detail": "Alice Adams",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Becky Sharp",
+    "FilmId": "tt0026104",
+    "Name": "Miriam Hopkins",
+    "Nominees": "Miriam Hopkins",
+    "NomineeIds": "nm0394244",
+    "Winner": "",
+    "Detail": "Becky Sharp",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Dark Angel",
+    "FilmId": "tt0026264",
+    "Name": "Merle Oberon",
+    "Nominees": "Merle Oberon",
+    "NomineeIds": "nm0643353",
+    "Winner": "",
+    "Detail": "Kitty Vane",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Dark Angel",
+    "FilmId": "tt0026264",
+    "Name": "Richard Day",
+    "Nominees": "Richard Day",
+    "NomineeIds": "nm0206554",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Lives of a Bengal Lancer",
+    "FilmId": "tt0026643",
+    "Name": "Hans Dreier, Roland Anderson",
+    "Nominees": "Hans Dreier|Roland Anderson",
+    "NomineeIds": "nm0237417|nm0027380",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Top Hat",
+    "FilmId": "tt0027125",
+    "Name": "Van Nest Polglase, Carroll Clark",
+    "Nominees": "Van Nest Polglase|Carroll Clark",
+    "NomineeIds": "nm0689026|nm0163754",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Directing",
+    "CanonicalCategory": "ASSISTANT DIRECTOR",
+    "Category": "ASSISTANT DIRECTOR",
+    "Film": "David Copperfield",
+    "FilmId": "tt0026266",
+    "Name": "Joseph Newman",
+    "Nominees": "Joseph Newman",
+    "NomineeIds": "nm0628149",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Directing",
+    "CanonicalCategory": "ASSISTANT DIRECTOR",
+    "Category": "ASSISTANT DIRECTOR",
+    "Film": "Les Miserables",
+    "FilmId": "tt0026725",
+    "Name": "Eric Stacey",
+    "Nominees": "Eric Stacey",
+    "NomineeIds": "nm0820947",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Directing",
+    "CanonicalCategory": "ASSISTANT DIRECTOR",
+    "Category": "ASSISTANT DIRECTOR",
+    "Film": "The Lives of a Bengal Lancer",
+    "FilmId": "tt0026643",
+    "Name": "Clem Beauchamp, Paul Wing",
+    "Nominees": "Clem Beauchamp|Paul Wing",
+    "NomineeIds": "nm0064303|nm0934963",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Directing",
+    "CanonicalCategory": "ASSISTANT DIRECTOR",
+    "Category": "ASSISTANT DIRECTOR",
+    "Film": "A Midsummer Night's Dream",
+    "FilmId": "tt0026714",
+    "Name": "Sherry Shourds",
+    "Nominees": "Sherry Shourds",
+    "NomineeIds": "nm0795258",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd|NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Barbary Coast",
+    "FilmId": "tt0026097",
+    "Name": "Ray June",
+    "Nominees": "Ray June",
+    "NomineeIds": "nm0432482",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Crusades",
+    "FilmId": "tt0026249",
+    "Name": "Victor Milner",
+    "Nominees": "Victor Milner",
+    "NomineeIds": "nm0005800",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Les Miserables",
+    "FilmId": "tt0026725",
+    "Name": "Gregg Toland",
+    "Nominees": "Gregg Toland",
+    "NomineeIds": "nm0005904",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "A Midsummer Night's Dream",
+    "FilmId": "tt0026714",
+    "Name": "Hal Mohr",
+    "Nominees": "Hal Mohr",
+    "NomineeIds": "nm0005803",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Gold Diggers of 1935",
+    "FilmId": "tt0026421",
+    "Name": "Busby Berkeley",
+    "Nominees": "Busby Berkeley",
+    "NomineeIds": "nm0000923",
+    "Winner": "",
+    "Detail": "Lullaby of Broadway|The Words Are In My Heart",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Go into Your Dance|Broadway Hostess",
+    "FilmId": "tt0026418|tt0026143",
+    "Name": "Bobby Connolly",
+    "Nominees": "Bobby Connolly",
+    "NomineeIds": "nm0175265",
+    "Winner": "",
+    "Detail": "Latin from Manhattan|Playboy from Paree",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Broadway Melody of 1936|Folies Bergere",
+    "FilmId": "tt0026144|tt0026373",
+    "Name": "Dave Gould",
+    "Nominees": "Dave Gould",
+    "NomineeIds": "nm0332346",
+    "Winner": "True",
+    "Detail": "I've Got a Feeling You're Fooling|Straw Hat",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "King of Burlesque",
+    "FilmId": "tt0026571",
+    "Name": "Sammy Lee",
+    "Nominees": "Sammy Lee",
+    "NomineeIds": "nm0498192",
+    "Winner": "",
+    "Detail": "Lovely Lady|Too Good To Be True",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Top Hat",
+    "FilmId": "tt0027125",
+    "Name": "Hermes Pan",
+    "Nominees": "Hermes Pan",
+    "NomineeIds": "nm0659009",
+    "Winner": "",
+    "Detail": "Piccolino|Top Hat, White Tie, and Tails",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Big Broadcast of 1936|All the King's Horses",
+    "FilmId": "tt0026113|tt0024823",
+    "Name": "LeRoy Prinz",
+    "Nominees": "LeRoy Prinz",
+    "NomineeIds": "nm0697895",
+    "Winner": "",
+    "Detail": "It's the Animal in Me|Viennese Waltz",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "She",
+    "FilmId": "tt0026983",
+    "Name": "Benjamin Zemach",
+    "Nominees": "Benjamin Zemach",
+    "NomineeIds": "nm0954706",
+    "Winner": "",
+    "Detail": "Hall of Kings",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Captain Blood",
+    "FilmId": "tt0026174",
+    "Name": "Michael Curtiz",
+    "Nominees": "Michael Curtiz",
+    "NomineeIds": "nm0002031",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd|NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Informer",
+    "FilmId": "tt0026529",
+    "Name": "John Ford",
+    "Nominees": "John Ford",
+    "NomineeIds": "nm0000406",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Lives of a Bengal Lancer",
+    "FilmId": "tt0026643",
+    "Name": "Henry Hathaway",
+    "Nominees": "Henry Hathaway",
+    "NomineeIds": "nm0368871",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Mutiny on the Bounty",
+    "FilmId": "tt0026752",
+    "Name": "Frank Lloyd",
+    "Nominees": "Frank Lloyd",
+    "NomineeIds": "nm0515979",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "David Copperfield",
+    "FilmId": "tt0026266",
+    "Name": "Robert J. Kern",
+    "Nominees": "Robert J. Kern",
+    "NomineeIds": "nm0449493",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Informer",
+    "FilmId": "tt0026529",
+    "Name": "George Hively",
+    "Nominees": "George Hively",
+    "NomineeIds": "nm0387000",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Les Miserables",
+    "FilmId": "tt0026725",
+    "Name": "Barbara McLean",
+    "Nominees": "Barbara McLean",
+    "NomineeIds": "nm0572492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Lives of a Bengal Lancer",
+    "FilmId": "tt0026643",
+    "Name": "Ellsworth Hoagland",
+    "Nominees": "Ellsworth Hoagland",
+    "NomineeIds": "nm0387449",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "A Midsummer Night's Dream",
+    "FilmId": "tt0026714",
+    "Name": "Ralph Dawson",
+    "Nominees": "Ralph Dawson",
+    "NomineeIds": "nm0206238",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Mutiny on the Bounty",
+    "FilmId": "tt0026752",
+    "Name": "Margaret Booth",
+    "Nominees": "Margaret Booth",
+    "NomineeIds": "nm0004290",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Captain Blood",
+    "FilmId": "tt0026174",
+    "Name": "Warner Bros.-First National Studio Music Department, Leo Forbstein, head of department (Score by Erich Wolfgang Korngold)",
+    "Nominees": "Warner Bros.|First National|Leo Forbstein|Erich Wolfgang Korngold",
+    "NomineeIds": "co0080422|co0041460|nm0006079|nm0006157",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd|NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "The Informer",
+    "FilmId": "tt0026529",
+    "Name": "RKO Radio Studio Music Department, Max Steiner, head of department (Score by Max Steiner)",
+    "Nominees": "RKO Radio|Max Steiner",
+    "NomineeIds": "co0041421|nm0000070",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Mutiny on the Bounty",
+    "FilmId": "tt0026752",
+    "Name": "Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department (Score by Herbert Stothart)",
+    "Nominees": "Metro-Goldwyn-Mayer|Nat W. Finston|Herbert Stothart",
+    "NomineeIds": "co0007143|nm0278358|nm0006307",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Peter Ibbetson",
+    "FilmId": "tt0026866",
+    "Name": "Paramount Studio Music Department, Irvin Talbot, head of department (Score by Ernst Toch)",
+    "Nominees": "Paramount|Irvin Talbot|Ernst Toch",
+    "NomineeIds": "co0023400|nm0847913|nm0006324",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Top Hat",
+    "FilmId": "tt0027125",
+    "Name": "Music and Lyrics by Irving Berlin",
+    "Nominees": "Irving Berlin",
+    "NomineeIds": "nm0000927",
+    "Winner": "",
+    "Detail": "Cheek To Cheek",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Roberta",
+    "FilmId": "tt0026942",
+    "Name": "Music by Jerome Kern; Lyrics by Dorothy Fields and Jimmy McHugh",
+    "Nominees": "Jerome Kern|Dorothy Fields|Jimmy McHugh",
+    "NomineeIds": "nm0006153|nm0276227|nm0006192",
+    "Winner": "",
+    "Detail": "Lovely To Look At",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Gold Diggers of 1935",
+    "FilmId": "tt0026421",
+    "Name": "Music by Harry Warren; Lyrics by Al Dubin",
+    "Nominees": "Harry Warren|Al Dubin",
+    "NomineeIds": "nm0912851|nm0006048",
+    "Winner": "True",
+    "Detail": "Lullaby Of Broadway",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Alice Adams",
+    "FilmId": "tt0026056",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Broadway Melody of 1936",
+    "FilmId": "tt0026144",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Captain Blood",
+    "FilmId": "tt0026174",
+    "Name": "Cosmopolitan",
+    "Nominees": "Cosmopolitan",
+    "NomineeIds": "co0073404",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "David Copperfield",
+    "FilmId": "tt0026266",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Informer",
+    "FilmId": "tt0026529",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Les Miserables",
+    "FilmId": "tt0026725",
+    "Name": "20th Century",
+    "Nominees": "20th Century",
+    "NomineeIds": "co0067247",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Lives of a Bengal Lancer",
+    "FilmId": "tt0026643",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "A Midsummer Night's Dream",
+    "FilmId": "tt0026714",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Mutiny on the Bounty",
+    "FilmId": "tt0026752",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Naughty Marietta",
+    "FilmId": "tt0026768",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Ruggles of Red Gap",
+    "FilmId": "tt0026955",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Top Hat",
+    "FilmId": "tt0027125",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Calico Dragon",
+    "FilmId": "tt0026162",
+    "Name": "Harman-Ising",
+    "Nominees": "Hugh Harman|Rudolf Ising",
+    "NomineeIds": "nm0363414|nm0411208",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Three Orphan Kittens",
+    "FilmId": "tt0027100",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Who Killed Cock Robin?",
+    "FilmId": "tt0027212",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+    "Category": "SHORT SUBJECT (Comedy)",
+    "Film": "How to Sleep",
+    "FilmId": "tt0026497",
+    "Name": "Jack Chertok, Producer",
+    "Nominees": "Jack Chertok",
+    "NomineeIds": "nm0156134",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+    "Category": "SHORT SUBJECT (Comedy)",
+    "Film": "Oh, My Nerves",
+    "FilmId": "tt0026803",
+    "Name": "Jules White, Producer",
+    "Nominees": "Jules White",
+    "NomineeIds": "nm0925028",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+    "Category": "SHORT SUBJECT (Comedy)",
+    "Film": "Tit for Tat",
+    "FilmId": "tt0027113",
+    "Name": "Hal Roach, Producer",
+    "Nominees": "Hal Roach",
+    "NomineeIds": "co0075561",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+    "Category": "SHORT SUBJECT (Novelty)",
+    "Film": "Audioscopiks",
+    "FilmId": "tt0026086",
+    "Name": "Pete Smith, Producer",
+    "Nominees": "Pete Smith",
+    "NomineeIds": "nm0809570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "tied for 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+    "Category": "SHORT SUBJECT (Novelty)",
+    "Film": "Camera Thrills",
+    "FilmId": "tt0026167",
+    "Name": "Universal",
+    "Nominees": "Universal",
+    "NomineeIds": "co0005073",
+    "Winner": "",
+    "Detail": "",
+    "Note": "tied for 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+    "Category": "SHORT SUBJECT (Novelty)",
+    "Film": "Wings over Mt. Everest",
+    "FilmId": "tt0024777",
+    "Name": "Gaumont British and Skibo Productions",
+    "Nominees": "Gaumont British|Skibo Productions",
+    "NomineeIds": "co0053065|co0019661",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Bride of Frankenstein",
+    "FilmId": "tt0026138",
+    "Name": "Universal Studio Sound Department, Gilbert Kurland, Sound Director",
+    "Nominees": "Universal|Gilbert Kurland",
+    "NomineeIds": "co0005073|nm0475792",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Captain Blood",
+    "FilmId": "tt0026174",
+    "Name": "Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",
+    "Nominees": "Warner Bros.|First National|Nathan Levinson",
+    "NomineeIds": "co0080422|co0041460|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Dark Angel",
+    "FilmId": "tt0026264",
+    "Name": "United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",
+    "Nominees": "United Artists|Thomas T. Moulton",
+    "NomineeIds": "co0026841|nm0609771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "I Dream Too Much",
+    "FilmId": "tt0026507",
+    "Name": "RKO Radio Studio Sound Department, Carl Dreher, Sound Director",
+    "Nominees": "RKO Radio|Carl Dreher",
+    "NomineeIds": "co0041421|nm0237393",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Lives of a Bengal Lancer",
+    "FilmId": "tt0026643",
+    "Name": "Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",
+    "Nominees": "Paramount|Franklin B. Hansen",
+    "NomineeIds": "co0023400|nm0360630",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Love Me Forever",
+    "FilmId": "tt0026654",
+    "Name": "Columbia Studio Sound Department, John Livadary, Sound Director",
+    "Nominees": "Columbia|John Livadary",
+    "NomineeIds": "co0050868|nm0515093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Naughty Marietta",
+    "FilmId": "tt0026768",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Douglas Shearer",
+    "NomineeIds": "co0007143|nm0790428",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "$1,000 a Minute",
+    "FilmId": "tt0026027",
+    "Name": "Republic Studio Sound Department",
+    "Nominees": "Republic",
+    "NomineeIds": "co0020540",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Thanks a Million",
+    "FilmId": "tt0027088",
+    "Name": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+    "Nominees": "20th Century-Fox|E. H. Hansen",
+    "NomineeIds": "co0028775|nm0360770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Broadway Melody of 1936",
+    "FilmId": "tt0026144",
+    "Name": "Moss Hart",
+    "Nominees": "Moss Hart",
+    "NomineeIds": "nm0366454",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "G-Men",
+    "FilmId": "tt0026393",
+    "Name": "Gregory Rogers",
+    "Nominees": "Gregory Rogers",
+    "NomineeIds": "nm0953123",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd|NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "The Gay Deception",
+    "FilmId": "tt0026400",
+    "Name": "Don Hartman, Stephen Avery",
+    "Nominees": "Don Hartman|Stephen Avery",
+    "NomineeIds": "nm0366942|nm0043081",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "The Scoundrel",
+    "FilmId": "tt0026970",
+    "Name": "Ben Hecht, Charles MacArthur",
+    "Nominees": "Ben Hecht|Charles MacArthur",
+    "NomineeIds": "nm0372942|nm0531269",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Captain Blood",
+    "FilmId": "tt0026174",
+    "Name": "Casey Robinson",
+    "Nominees": "Casey Robinson",
+    "NomineeIds": "nm0732452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 3rd|NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Informer",
+    "FilmId": "tt0026529",
+    "Name": "Dudley Nichols",
+    "Nominees": "Dudley Nichols",
+    "NomineeIds": "nm0629580",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: Mr. Nichols initially refused the award, but Academy records indicate that he was in possession of a statuette by 1949.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Lives of a Bengal Lancer",
+    "FilmId": "tt0026643",
+    "Name": "Screenplay by Waldemar Young, John L. Balderston, Achmed Abdullah; Adaptation by Grover Jones, William Slavens McNutt",
+    "Nominees": "Waldemar Young|John L. Balderston|Achmed Abdullah|Grover Jones|William Slavens McNutt",
+    "NomineeIds": "nm0950150|nm0049721|nm0008280|nm0428177|nm0574112",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Mutiny on the Bounty",
+    "FilmId": "tt0026752",
+    "Name": "Talbot Jennings, Jules Furthman, Carey Wilson",
+    "Nominees": "Talbot Jennings|Jules Furthman|Carey Wilson",
+    "NomineeIds": "nm0421255|nm0299154|nm0933133",
+    "Winner": "",
+    "Detail": "",
+    "Note": "came in 2nd",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Wark Griffith",
+    "NomineeIds": "nm0000428",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To David Wark Griffith, for his distinguished creative achievements as director and producer and his invaluable initiative and lasting contributions to the progress of the motion picture arts."
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Agfa Ansco Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To AGFA ANSCO CORPORATION for their development of the Agfa infra-red film."
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eastman Kodak Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To EASTMAN KODAK COMPANY for their development of the Eastman Pola-Screen."
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Metro-Goldwyn-Mayer Studio",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To METRO-GOLDWYN-MAYER STUDIO for the development of anti-directional negative and positive development by means of jet turbulation, and the application of the method to all negative and print processing of the entire product of a major producing company."
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "WILLIAM A. MUELLER",
+    "NomineeIds": "nm0611121",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To WILLIAM A. MUELLER of Warner Bros.-First National Studio Sound Department for his method of dubbing, in which the level of the dialogue automatically controls the level of the accompanying music and sound effects."
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mole-Richardson Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To MOLE-RICHARDSON COMPANY for their development of the \\\"Solar-spot\\\" spot lamps."
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Douglas Shearer|Metro-Goldwyn-Mayer",
+    "NomineeIds": "nm0790428|co0007143",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To DOUGLAS SHEARER and METRO-GOLDWYN-MAYER STUDIO SOUND DEPARTMENT for their automatic control system for cameras and sound recording machines and auxiliary stage equipment."
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Electrical Research Products Inc.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To ELECTRICAL RESEARCH PRODUCTS, INC. for their study and development of equipment to analyze and measure flutter resulting from the travel of the film through the mechanisms used in the recording and reproduction of sound."
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Paramount Productions Inc.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To PARAMOUNT PRODUCTIONS, INC. for the design and construction of the Paramount transparency air turbine developing machine."
+  },
+  {
+    "Ceremony": 8,
+    "Year": 1935,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nathan Levinson",
+    "NomineeIds": "nm0506080",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To NATHAN LEVINSON, Director of Sound Recording for Warner Bros.-First National Studio, for the method of intercutting variable density and variable area sound tracks to secure an increase in the effective volume range of sound recorded for motion pictures."
   }
 ]

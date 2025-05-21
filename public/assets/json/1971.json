@@ -1,1581 +1,1762 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1971",
-    "nominees": [
-      "The French Connection"
-    ],
-    "movies": [
-      {
-        "title": "The French Connection",
-        "tmdb_id": 1051,
-        "imdb_id": "tt0067116"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1971",
-    "nominees": [
-      "A Clockwork Orange"
-    ],
-    "movies": [
-      {
-        "title": "A Clockwork Orange",
-        "tmdb_id": 185,
-        "imdb_id": "tt0066921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1971",
-    "nominees": [
-      "Fiddler on the Roof"
-    ],
-    "movies": [
-      {
-        "title": "Fiddler on the Roof",
-        "tmdb_id": 14811,
-        "imdb_id": "tt0067093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1971",
-    "nominees": [
-      "The Last Picture Show"
-    ],
-    "movies": [
-      {
-        "title": "The Last Picture Show",
-        "tmdb_id": 25188,
-        "imdb_id": "tt0067328"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1971",
-    "nominees": [
-      "Nicholas and Alexandra"
-    ],
-    "movies": [
-      {
-        "title": "Nicholas and Alexandra",
-        "tmdb_id": 38646,
-        "imdb_id": "tt0067483"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1971",
-    "nominees": [
-      "Gene Hackman"
-    ],
-    "movies": [
-      {
-        "title": "The French Connection",
-        "tmdb_id": 1051,
-        "imdb_id": "tt0067116"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1971",
-    "nominees": [
-      "Peter Finch"
-    ],
-    "movies": [
-      {
-        "title": "Sunday Bloody Sunday",
-        "tmdb_id": 45938,
-        "imdb_id": "tt0067805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1971",
-    "nominees": [
-      "Walter Matthau"
-    ],
-    "movies": [
-      {
-        "title": "Kotch",
-        "tmdb_id": 76002,
-        "imdb_id": "tt0067314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1971",
-    "nominees": [
-      "George C. Scott"
-    ],
-    "movies": [
-      {
-        "title": "The Hospital",
-        "tmdb_id": 32082,
-        "imdb_id": "tt0067217"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1971",
-    "nominees": [
-      "Chaim Topol"
-    ],
-    "movies": [
-      {
-        "title": "Fiddler on the Roof",
-        "tmdb_id": 14811,
-        "imdb_id": "tt0067093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1971",
-    "nominees": [
-      "Jane Fonda"
-    ],
-    "movies": [
-      {
-        "title": "Klute",
-        "tmdb_id": 466,
-        "imdb_id": "tt0067309"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1971",
-    "nominees": [
-      "Julie Christie"
-    ],
-    "movies": [
-      {
-        "title": "McCabe & Mrs. Miller",
-        "tmdb_id": 29005,
-        "imdb_id": "tt0067411"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1971",
-    "nominees": [
-      "Glenda Jackson"
-    ],
-    "movies": [
-      {
-        "title": "Sunday Bloody Sunday",
-        "tmdb_id": 45938,
-        "imdb_id": "tt0067805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1971",
-    "nominees": [
-      "Vanessa Redgrave"
-    ],
-    "movies": [
-      {
-        "title": "Mary, Queen of Scots",
-        "tmdb_id": 46067,
-        "imdb_id": "tt0067402"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1971",
-    "nominees": [
-      "Janet Suzman"
-    ],
-    "movies": [
-      {
-        "title": "Nicholas and Alexandra",
-        "tmdb_id": 38646,
-        "imdb_id": "tt0067483"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1971",
-    "nominees": [
-      "Ben Johnson"
-    ],
-    "movies": [
-      {
-        "title": "The Last Picture Show",
-        "tmdb_id": 25188,
-        "imdb_id": "tt0067328"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1971",
-    "nominees": [
-      "Jeff Bridges"
-    ],
-    "movies": [
-      {
-        "title": "The Last Picture Show",
-        "tmdb_id": 25188,
-        "imdb_id": "tt0067328"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1971",
-    "nominees": [
-      "Leonard Frey"
-    ],
-    "movies": [
-      {
-        "title": "Fiddler on the Roof",
-        "tmdb_id": 14811,
-        "imdb_id": "tt0067093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1971",
-    "nominees": [
-      "Richard Jaeckel"
-    ],
-    "movies": [
-      {
-        "title": "Sometimes a Great Notion",
-        "tmdb_id": 40083,
-        "imdb_id": "tt0067774"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1971",
-    "nominees": [
-      "Roy Scheider"
-    ],
-    "movies": [
-      {
-        "title": "The French Connection",
-        "tmdb_id": 1051,
-        "imdb_id": "tt0067116"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1971",
-    "nominees": [
-      "Cloris Leachman"
-    ],
-    "movies": [
-      {
-        "title": "The Last Picture Show",
-        "tmdb_id": 25188,
-        "imdb_id": "tt0067328"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1971",
-    "nominees": [
-      "Ann-Margret"
-    ],
-    "movies": [
-      {
-        "title": "Carnal Knowledge",
-        "tmdb_id": 36492,
-        "imdb_id": "tt0066892"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1971",
-    "nominees": [
-      "Ellen Burstyn"
-    ],
-    "movies": [
-      {
-        "title": "The Last Picture Show",
-        "tmdb_id": 25188,
-        "imdb_id": "tt0067328"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1971",
-    "nominees": [
-      "Barbara Harris"
-    ],
-    "movies": [
-      {
-        "title": "Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",
-        "tmdb_id": 91607,
-        "imdb_id": "tt0067980"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1971",
-    "nominees": [
-      "Margaret Leighton"
-    ],
-    "movies": [
-      {
-        "title": "The Go-Between",
-        "tmdb_id": 36194,
-        "imdb_id": "tt0067144"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1971",
-    "nominees": [
-      "William Friedkin"
-    ],
-    "movies": [
-      {
-        "title": "The French Connection",
-        "tmdb_id": 1051,
-        "imdb_id": "tt0067116"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1971",
-    "nominees": [
-      "Peter Bogdanovich"
-    ],
-    "movies": [
-      {
-        "title": "The Last Picture Show",
-        "tmdb_id": 25188,
-        "imdb_id": "tt0067328"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1971",
-    "nominees": [
-      "Norman Jewison"
-    ],
-    "movies": [
-      {
-        "title": "Fiddler on the Roof",
-        "tmdb_id": 14811,
-        "imdb_id": "tt0067093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1971",
-    "nominees": [
-      "Stanley Kubrick"
-    ],
-    "movies": [
-      {
-        "title": "A Clockwork Orange",
-        "tmdb_id": 185,
-        "imdb_id": "tt0066921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1971",
-    "nominees": [
-      "John Schlesinger"
-    ],
-    "movies": [
-      {
-        "title": "Sunday Bloody Sunday",
-        "tmdb_id": 45938,
-        "imdb_id": "tt0067805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Ernest Tidyman"
-    ],
-    "movies": [
-      {
-        "title": "The French Connection",
-        "tmdb_id": 1051,
-        "imdb_id": "tt0067116"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Stanley Kubrick"
-    ],
-    "movies": [
-      {
-        "title": "A Clockwork Orange",
-        "tmdb_id": 185,
-        "imdb_id": "tt0066921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Bernardo Bertolucci"
-    ],
-    "movies": [
-      {
-        "title": "The Conformist",
-        "tmdb_id": 8416,
-        "imdb_id": "tt0065571"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Vittorio Bonicelli",
-      "Ugo Pirro"
-    ],
-    "movies": [
-      {
-        "title": "The Garden of the Finzi-Continis",
-        "tmdb_id": 4789,
-        "imdb_id": "tt0065777"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Peter Bogdanovich",
-      "Larry McMurtry"
-    ],
-    "movies": [
-      {
-        "title": "The Last Picture Show",
-        "tmdb_id": 25188,
-        "imdb_id": "tt0067328"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Paddy Chayefsky"
-    ],
-    "movies": [
-      {
-        "title": "The Hospital",
-        "tmdb_id": 32082,
-        "imdb_id": "tt0067217"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Elio Petri",
-      "Ugo Pirro"
-    ],
-    "movies": [
-      {
-        "title": "Investigation of a Citizen Above Suspicion",
-        "tmdb_id": 26451,
-        "imdb_id": "tt0065889"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Andy Lewis",
-      "Dave Lewis"
-    ],
-    "movies": [
-      {
-        "title": "Klute",
-        "tmdb_id": 466,
-        "imdb_id": "tt0067309"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Herman Raucher"
-    ],
-    "movies": [
-      {
-        "title": "Summer of '42",
-        "tmdb_id": 41357,
-        "imdb_id": "tt0067803"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1971",
-    "nominees": [
-      "Penelope Gilliatt"
-    ],
-    "movies": [
-      {
-        "title": "Sunday Bloody Sunday",
-        "tmdb_id": 45938,
-        "imdb_id": "tt0067805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1971",
-    "nominees": [
-      "Michel Legrand"
-    ],
-    "movies": [
-      {
-        "title": "Summer of '42",
-        "tmdb_id": 41357,
-        "imdb_id": "tt0067803"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1971",
-    "nominees": [
-      "John Barry"
-    ],
-    "movies": [
-      {
-        "title": "Mary, Queen of Scots",
-        "tmdb_id": 46067,
-        "imdb_id": "tt0067402"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1971",
-    "nominees": [
-      "Richard Rodney Bennett"
-    ],
-    "movies": [
-      {
-        "title": "Nicholas and Alexandra",
-        "tmdb_id": 38646,
-        "imdb_id": "tt0067483"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1971",
-    "nominees": [
-      "Isaac Hayes"
-    ],
-    "movies": [
-      {
-        "title": "Shaft",
-        "tmdb_id": 482,
-        "imdb_id": "tt0067741"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1971",
-    "nominees": [
-      "Jerry Fielding"
-    ],
-    "movies": [
-      {
-        "title": "Straw Dogs",
-        "tmdb_id": 994,
-        "imdb_id": "tt0067800"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1971",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Fiddler on the Roof",
-        "tmdb_id": 14811,
-        "imdb_id": "tt0067093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1971",
-    "nominees": [
-      "Irwin Kostal",
-      "Richard Sherman",
-      "Robert Sherman"
-    ],
-    "movies": [
-      {
-        "title": "Bedknobs and Broomsticks",
-        "tmdb_id": 12335,
-        "imdb_id": "tt0066817"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1971",
-    "nominees": [
-      "Peter Maxwell Davies",
-      "Peter Greenwell"
-    ],
-    "movies": [
-      {
-        "title": "The Boy Friend",
-        "tmdb_id": 31515,
-        "imdb_id": "tt0066858"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1971",
-    "nominees": [
-      "Dimitri Tiomkin"
-    ],
-    "movies": [
-      {
-        "title": "Tchaikovsky",
-        "tmdb_id": 150102,
-        "imdb_id": "tt0065127"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1971",
-    "nominees": [
-      "Walter Scharf",
-      "Leslie Bricusse",
-      "Anthony Newley"
-    ],
-    "movies": [
-      {
-        "title": "Willy Wonka & the Chocolate Factory",
-        "tmdb_id": 252,
-        "imdb_id": "tt0067992"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1971",
-    "nominees": [
-      "Theme from Shaft"
-    ],
-    "movies": [
-      {
-        "title": "Shaft",
-        "tmdb_id": 482,
-        "imdb_id": "tt0067741"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1971",
-    "nominees": [
-      "The Age of Not Believing"
-    ],
-    "movies": [
-      {
-        "title": "Bedknobs and Broomsticks",
-        "tmdb_id": 12335,
-        "imdb_id": "tt0066817"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1971",
-    "nominees": [
-      "All His Children"
-    ],
-    "movies": [
-      {
-        "title": "Sometimes a Great Notion",
-        "tmdb_id": 40083,
-        "imdb_id": "tt0067774"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1971",
-    "nominees": [
-      "Bless the Beasts",
-      "Children"
-    ],
-    "movies": [
-      {
-        "title": "Bless the Beasts & Children",
-        "tmdb_id": 94225,
-        "imdb_id": "tt0068286"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1971",
-    "nominees": [
-      "Life Is What You Make It"
-    ],
-    "movies": [
-      {
-        "title": "Kotch",
-        "tmdb_id": 76002,
-        "imdb_id": "tt0067314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1971",
-    "nominees": [
-      "The Garden of the Finzi Continis"
-    ],
-    "movies": [
-      {
-        "title": "The Garden of the Finzi-Continis",
-        "tmdb_id": 4789,
-        "imdb_id": "tt0065777"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1971",
-    "nominees": [
-      "Dodes'ka-den"
-    ],
-    "movies": [
-      {
-        "title": "Dodes'ka-den",
-        "tmdb_id": 33205,
-        "imdb_id": "tt0065649"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1971",
-    "nominees": [
-      "The Emigrants"
-    ],
-    "movies": [
-      {
-        "title": "The Emigrants",
-        "tmdb_id": 40732,
-        "imdb_id": "tt0067919"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1971",
-    "nominees": [
-      "The Policeman"
-    ],
-    "movies": [
-      {
-        "title": "The Policeman",
-        "tmdb_id": 78233,
-        "imdb_id": "tt0066374"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1971",
-    "nominees": [
-      "Tchaikovsky"
-    ],
-    "movies": [
-      {
-        "title": "Tchaikovsky",
-        "tmdb_id": 150102,
-        "imdb_id": "tt0065127"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1971",
-    "nominees": [
-      "The Hellstrom Chronicle"
-    ],
-    "movies": [
-      {
-        "title": "The Hellstrom Chronicle",
-        "tmdb_id": 17875,
-        "imdb_id": "tt0067197"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1971",
-    "nominees": [
-      "Alaska Wilderness Lake"
-    ],
-    "movies": [
-      {
-        "title": "Alaska Wilderness Lake",
-        "tmdb_id": 149323,
-        "imdb_id": "tt0066753"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1971",
-    "nominees": [
-      "The Sorrow and the Pity"
-    ],
-    "movies": [
-      {
-        "title": "The Sorrow and the Pity",
-        "tmdb_id": 42611,
-        "imdb_id": "tt0066904"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1971",
-    "nominees": [
-      "On Any Sunday"
-    ],
-    "movies": [
-      {
-        "title": "On Any Sunday",
-        "tmdb_id": 29251,
-        "imdb_id": "tt0067527"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1971",
-    "nominees": [
-      "The Ra Expeditions"
-    ],
-    "movies": [
-      {
-        "title": "The Ra Expeditions",
-        "tmdb_id": 149325,
-        "imdb_id": "tt0069151"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1971",
-    "nominees": [
-      "Centinelas del Silencio"
-    ],
-    "movies": [
-      {
-        "title": "Centinelas del Silencio",
-        "tmdb_id": 243349,
-        "imdb_id": "tt0067733"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1971",
-    "nominees": [
-      "Adventures in Perception"
-    ],
-    "movies": [
-      {
-        "title": "Adventures in Perception",
-        "tmdb_id": 243355,
-        "imdb_id": "tt0066748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1971",
-    "nominees": [
-      "Art Is..."
-    ],
-    "movies": [
-      {
-        "title": "Art Is...",
-        "tmdb_id": 243357,
-        "imdb_id": "tt0066786"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1971",
-    "nominees": [
-      "The Numbers Start with the River"
-    ],
-    "movies": [
-      {
-        "title": "The Numbers Start with the River",
-        "tmdb_id": 243358,
-        "imdb_id": "tt0067507"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1971",
-    "nominees": [
-      "Somebody Waiting"
-    ],
-    "movies": [
-      {
-        "title": "Somebody Waiting",
-        "tmdb_id": 243360,
-        "imdb_id": "tt0067772"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1971",
-    "nominees": [
-      "The Crunch Bird"
-    ],
-    "movies": [
-      {
-        "title": "The Crunch Bird",
-        "tmdb_id": 185399,
-        "imdb_id": "tt0066959"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1971",
-    "nominees": [
-      "Evolution"
-    ],
-    "movies": [
-      {
-        "title": "Evolution",
-        "tmdb_id": 185412,
-        "imdb_id": "tt0067073"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1971",
-    "nominees": [
-      "The Selfish Giant"
-    ],
-    "movies": [
-      {
-        "title": "The Selfish Giant",
-        "tmdb_id": 147469,
-        "imdb_id": "tt0067731"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1971",
-    "nominees": [
-      "Centinelas del Silencio"
-    ],
-    "movies": [
-      {
-        "title": "Centinelas del Silencio",
-        "tmdb_id": 243349,
-        "imdb_id": "tt0067733"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1971",
-    "nominees": [
-      "Good Morning"
-    ],
-    "movies": [
-      {
-        "title": "Good Morning",
-        "tmdb_id": 243351,
-        "imdb_id": "tt0067152"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1971",
-    "nominees": [
-      "The Rehearsal"
-    ],
-    "movies": [
-      {
-        "title": "The Rehearsal",
-        "tmdb_id": 243354,
-        "imdb_id": "tt0067662"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "John Box",
-      "Ernest Archer",
-      "Jack Maxsted",
-      "Gil Parrondo",
-      "Vernon Dixon"
-    ],
-    "movies": [
-      {
-        "title": "Nicholas and Alexandra",
-        "tmdb_id": 38646,
-        "imdb_id": "tt0067483"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "Boris Leven",
-      "William Tuntke",
-      "Ruby Levitt"
-    ],
-    "movies": [
-      {
-        "title": "The Andromeda Strain",
-        "tmdb_id": 10514,
-        "imdb_id": "tt0066769"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "Peter Ellenshaw",
-      "John B. Mansbridge",
-      "Emile Kuri",
-      "Hal Gausman"
-    ],
-    "movies": [
-      {
-        "title": "Bedknobs and Broomsticks",
-        "tmdb_id": 12335,
-        "imdb_id": "tt0066817"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "Robert F. Boyle",
-      "Michael Stringer",
-      "Peter Lamont"
-    ],
-    "movies": [
-      {
-        "title": "Fiddler on the Roof",
-        "tmdb_id": 14811,
-        "imdb_id": "tt0067093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "Terence Marsh",
-      "Robert Cartwright",
-      "Peter Howitt"
-    ],
-    "movies": [
-      {
-        "title": "Mary, Queen of Scots",
-        "tmdb_id": 46067,
-        "imdb_id": "tt0067402"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1971",
-    "nominees": [
-      "Oswald Morris"
-    ],
-    "movies": [
-      {
-        "title": "Fiddler on the Roof",
-        "tmdb_id": 14811,
-        "imdb_id": "tt0067093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1971",
-    "nominees": [
-      "Owen Roizman"
-    ],
-    "movies": [
-      {
-        "title": "The French Connection",
-        "tmdb_id": 1051,
-        "imdb_id": "tt0067116"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1971",
-    "nominees": [
-      "Robert L. Surtees"
-    ],
-    "movies": [
-      {
-        "title": "The Last Picture Show",
-        "tmdb_id": 25188,
-        "imdb_id": "tt0067328"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1971",
-    "nominees": [
-      "Freddie Young"
-    ],
-    "movies": [
-      {
-        "title": "Nicholas and Alexandra",
-        "tmdb_id": 38646,
-        "imdb_id": "tt0067483"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1971",
-    "nominees": [
-      "Robert L. Surtees"
-    ],
-    "movies": [
-      {
-        "title": "Summer of '42",
-        "tmdb_id": 41357,
-        "imdb_id": "tt0067803"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1971",
-    "nominees": [
-      "Gerald B. Greenberg"
-    ],
-    "movies": [
-      {
-        "title": "The French Connection",
-        "tmdb_id": 1051,
-        "imdb_id": "tt0067116"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1971",
-    "nominees": [
-      "Stuart Gilmore",
-      "John W. Holmes"
-    ],
-    "movies": [
-      {
-        "title": "The Andromeda Strain",
-        "tmdb_id": 10514,
-        "imdb_id": "tt0066769"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1971",
-    "nominees": [
-      "Bill Butler"
-    ],
-    "movies": [
-      {
-        "title": "A Clockwork Orange",
-        "tmdb_id": 185,
-        "imdb_id": "tt0066921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1971",
-    "nominees": [
-      "Ralph E. Winters"
-    ],
-    "movies": [
-      {
-        "title": "Kotch",
-        "tmdb_id": 76002,
-        "imdb_id": "tt0067314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1971",
-    "nominees": [
-      "Folmar Blangsted"
-    ],
-    "movies": [
-      {
-        "title": "Summer of '42",
-        "tmdb_id": 41357,
-        "imdb_id": "tt0067803"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1971",
-    "nominees": [
-      "Alan Maley",
-      "Eustace Lycett",
-      "Danny Lee"
-    ],
-    "movies": [
-      {
-        "title": "Bedknobs and Broomsticks",
-        "tmdb_id": 12335,
-        "imdb_id": "tt0066817"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1971",
-    "nominees": [
-      "Jim Danforth",
-      "Roger Dicken"
-    ],
-    "movies": [
-      {
-        "title": "When Dinosaurs Ruled the Earth",
-        "tmdb_id": 35002,
-        "imdb_id": "tt0066561"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1971",
-    "nominees": [
-      "Gordon McCallum",
-      "David Hildyard"
-    ],
-    "movies": [
-      {
-        "title": "Fiddler on the Roof",
-        "tmdb_id": 14811,
-        "imdb_id": "tt0067093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1971",
-    "nominees": [
-      "Gordon K. McCallum",
-      "John W. Mitchell",
-      "Al Overton"
-    ],
-    "movies": [
-      {
-        "title": "Diamonds Are Forever",
-        "tmdb_id": 681,
-        "imdb_id": "tt0066995"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1971",
-    "nominees": [
-      "Theodore Soderberg",
-      "Christopher Newman"
-    ],
-    "movies": [
-      {
-        "title": "The French Connection",
-        "tmdb_id": 1051,
-        "imdb_id": "tt0067116"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1971",
-    "nominees": [
-      "Richard Portman",
-      "Jack Solomon"
-    ],
-    "movies": [
-      {
-        "title": "Kotch",
-        "tmdb_id": 76002,
-        "imdb_id": "tt0067314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1971",
-    "nominees": [
-      "Bob Jones",
-      "John Aldred"
-    ],
-    "movies": [
-      {
-        "title": "Mary, Queen of Scots",
-        "tmdb_id": 46067,
-        "imdb_id": "tt0067402"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "Yvonne Blake",
-      "Antonio Castillo"
-    ],
-    "movies": [
-      {
-        "title": "Nicholas and Alexandra",
-        "tmdb_id": 38646,
-        "imdb_id": "tt0067483"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "Bill Thomas"
-    ],
-    "movies": [
-      {
-        "title": "Bedknobs and Broomsticks",
-        "tmdb_id": 12335,
-        "imdb_id": "tt0066817"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "Piero Tosi"
-    ],
-    "movies": [
-      {
-        "title": "Death in Venice",
-        "tmdb_id": 6619,
-        "imdb_id": "tt0067445"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "Margaret Furse"
-    ],
-    "movies": [
-      {
-        "title": "Mary, Queen of Scots",
-        "tmdb_id": 46067,
-        "imdb_id": "tt0067402"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1971",
-    "nominees": [
-      "Morton Haack"
-    ],
-    "movies": [
-      {
-        "title": "What's the Matter with Helen?",
-        "tmdb_id": 42530,
-        "imdb_id": "tt0067975"
-      }
-    ],
-    "won": false
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Sunday Bloody Sunday",
+    "FilmId": "tt0067805",
+    "Name": "Peter Finch",
+    "Nominees": "Peter Finch",
+    "NomineeIds": "nm0002075",
+    "Winner": "",
+    "Detail": "Dr. Daniel Hirsh",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The French Connection",
+    "FilmId": "tt0067116",
+    "Name": "Gene Hackman",
+    "Nominees": "Gene Hackman",
+    "NomineeIds": "nm0000432",
+    "Winner": "True",
+    "Detail": "Jimmy 'Popeye' Doyle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Kotch",
+    "FilmId": "tt0067314",
+    "Name": "Walter Matthau",
+    "Nominees": "Walter Matthau",
+    "NomineeIds": "nm0000527",
+    "Winner": "",
+    "Detail": "Joseph P. Kotcher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Hospital",
+    "FilmId": "tt0067217",
+    "Name": "George C. Scott",
+    "Nominees": "George C. Scott",
+    "NomineeIds": "nm0001715",
+    "Winner": "",
+    "Detail": "Dr. Herbert Bock",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Fiddler on the Roof",
+    "FilmId": "tt0067093",
+    "Name": "Topol",
+    "Nominees": "Topol",
+    "NomineeIds": "nm0867694",
+    "Winner": "",
+    "Detail": "Tevye",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Last Picture Show",
+    "FilmId": "tt0067328",
+    "Name": "Jeff Bridges",
+    "Nominees": "Jeff Bridges",
+    "NomineeIds": "nm0000313",
+    "Winner": "",
+    "Detail": "Duane Jackson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Fiddler on the Roof",
+    "FilmId": "tt0067093",
+    "Name": "Leonard Frey",
+    "Nominees": "Leonard Frey",
+    "NomineeIds": "nm0294600",
+    "Winner": "",
+    "Detail": "Motel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Sometimes a Great Notion",
+    "FilmId": "tt0067774",
+    "Name": "Richard Jaeckel",
+    "Nominees": "Richard Jaeckel",
+    "NomineeIds": "nm0001395",
+    "Winner": "",
+    "Detail": "Joe Ben Stamper",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Last Picture Show",
+    "FilmId": "tt0067328",
+    "Name": "Ben Johnson",
+    "Nominees": "Ben Johnson",
+    "NomineeIds": "nm0424565",
+    "Winner": "True",
+    "Detail": "Sam the Lion",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The French Connection",
+    "FilmId": "tt0067116",
+    "Name": "Roy Scheider",
+    "Nominees": "Roy Scheider",
+    "NomineeIds": "nm0001702",
+    "Winner": "",
+    "Detail": "Buddy Russo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "McCabe & Mrs. Miller",
+    "FilmId": "tt0067411",
+    "Name": "Julie Christie",
+    "Nominees": "Julie Christie",
+    "NomineeIds": "nm0001046",
+    "Winner": "",
+    "Detail": "Mrs. Constance Miller",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Klute",
+    "FilmId": "tt0067309",
+    "Name": "Jane Fonda",
+    "Nominees": "Jane Fonda",
+    "NomineeIds": "nm0000404",
+    "Winner": "True",
+    "Detail": "Bree Daniel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Sunday Bloody Sunday",
+    "FilmId": "tt0067805",
+    "Name": "Glenda Jackson",
+    "Nominees": "Glenda Jackson",
+    "NomineeIds": "nm0413559",
+    "Winner": "",
+    "Detail": "Alex Greville",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Mary, Queen of Scots",
+    "FilmId": "tt0067402",
+    "Name": "Vanessa Redgrave",
+    "Nominees": "Vanessa Redgrave",
+    "NomineeIds": "nm0000603",
+    "Winner": "",
+    "Detail": "Mary, Queen of Scots",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Nicholas and Alexandra",
+    "FilmId": "tt0067483",
+    "Name": "Janet Suzman",
+    "Nominees": "Janet Suzman",
+    "NomineeIds": "nm0840531",
+    "Winner": "",
+    "Detail": "Alexandra",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Carnal Knowledge",
+    "FilmId": "tt0066892",
+    "Name": "Ann-Margret",
+    "Nominees": "Ann-Margret",
+    "NomineeIds": "nm0000268",
+    "Winner": "",
+    "Detail": "Bobbie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Last Picture Show",
+    "FilmId": "tt0067328",
+    "Name": "Ellen Burstyn",
+    "Nominees": "Ellen Burstyn",
+    "NomineeIds": "nm0000995",
+    "Winner": "",
+    "Detail": "Lois Farrow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?",
+    "FilmId": "tt0067980",
+    "Name": "Barbara Harris",
+    "Nominees": "Barbara Harris",
+    "NomineeIds": "nm0364455",
+    "Winner": "",
+    "Detail": "Allison",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Last Picture Show",
+    "FilmId": "tt0067328",
+    "Name": "Cloris Leachman",
+    "Nominees": "Cloris Leachman",
+    "NomineeIds": "nm0001458",
+    "Winner": "True",
+    "Detail": "Ruth Popper",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Go-Between",
+    "FilmId": "tt0067144",
+    "Name": "Margaret Leighton",
+    "Nominees": "Margaret Leighton",
+    "NomineeIds": "nm0500364",
+    "Winner": "",
+    "Detail": "Mrs. Maudsley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Andromeda Strain",
+    "FilmId": "tt0066769",
+    "Name": "Art Direction: Boris Leven, William Tuntke; Set Decoration: Ruby Levitt",
+    "Nominees": "Boris Leven|William Tuntke|Ruby Levitt",
+    "NomineeIds": "nm0505227|nm0876700|nm0506239",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Bedknobs and Broomsticks",
+    "FilmId": "tt0066817",
+    "Name": "Art Direction: John B. Mansbridge, Peter Ellenshaw; Set Decoration: Emile Kuri, Hal Gausman",
+    "Nominees": "John B. Mansbridge|Peter Ellenshaw|Emile Kuri|Hal Gausman",
+    "NomineeIds": "nm0543727|nm0254002|nm0475689|nm0310198",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Fiddler on the Roof",
+    "FilmId": "tt0067093",
+    "Name": "Art Direction: Robert Boyle, Michael Stringer; Set Decoration: Peter Lamont",
+    "Nominees": "Robert Boyle|Michael Stringer|Peter Lamont",
+    "NomineeIds": "nm0102327|nm0834584|nm0483682",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Mary, Queen of Scots",
+    "FilmId": "tt0067402",
+    "Name": "Art Direction: Terence Marsh, Robert Cartwright; Set Decoration: Peter Howitt",
+    "Nominees": "Terence Marsh|Robert Cartwright|Peter Howitt",
+    "NomineeIds": "nm0550671|nm0142204|nm0398184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Nicholas and Alexandra",
+    "FilmId": "tt0067483",
+    "Name": "Art Direction: John Box, Ernest Archer, Jack Maxsted, Gil Parrondo; Set Decoration: Vernon Dixon",
+    "Nominees": "John Box|Ernest Archer|Jack Maxsted|Gil Parrondo|Vernon Dixon",
+    "NomineeIds": "nm0101501|nm0033658|nm0561624|nm0663597|nm0228999",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Fiddler on the Roof",
+    "FilmId": "tt0067093",
+    "Name": "Oswald Morris",
+    "Nominees": "Oswald Morris",
+    "NomineeIds": "nm0005807",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The French Connection",
+    "FilmId": "tt0067116",
+    "Name": "Owen Roizman",
+    "Nominees": "Owen Roizman",
+    "NomineeIds": "nm0005845",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Last Picture Show",
+    "FilmId": "tt0067328",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Nicholas and Alexandra",
+    "FilmId": "tt0067483",
+    "Name": "Freddie Young",
+    "Nominees": "Freddie Young",
+    "NomineeIds": "nm0002875",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Summer of '42",
+    "FilmId": "tt0067803",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Bedknobs and Broomsticks",
+    "FilmId": "tt0066817",
+    "Name": "Bill Thomas",
+    "Nominees": "Bill Thomas",
+    "NomineeIds": "nm0858528",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Death in Venice",
+    "FilmId": "tt0067445",
+    "Name": "Piero Tosi",
+    "Nominees": "Piero Tosi",
+    "NomineeIds": "nm0869200",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Mary, Queen of Scots",
+    "FilmId": "tt0067402",
+    "Name": "Margaret Furse",
+    "Nominees": "Margaret Furse",
+    "NomineeIds": "nm0299094",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Nicholas and Alexandra",
+    "FilmId": "tt0067483",
+    "Name": "Yvonne Blake, Antonio Castillo",
+    "Nominees": "Yvonne Blake|Antonio Castillo",
+    "NomineeIds": "nm0086762|nm0145016",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "What's the Matter with Helen?",
+    "FilmId": "tt0067975",
+    "Name": "Morton Haack",
+    "Nominees": "Morton Haack",
+    "NomineeIds": "nm0351736",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "A Clockwork Orange",
+    "FilmId": "tt0066921",
+    "Name": "Stanley Kubrick",
+    "Nominees": "Stanley Kubrick",
+    "NomineeIds": "nm0000040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Fiddler on the Roof",
+    "FilmId": "tt0067093",
+    "Name": "Norman Jewison",
+    "Nominees": "Norman Jewison",
+    "NomineeIds": "nm0422484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The French Connection",
+    "FilmId": "tt0067116",
+    "Name": "William Friedkin",
+    "Nominees": "William Friedkin",
+    "NomineeIds": "nm0001243",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Last Picture Show",
+    "FilmId": "tt0067328",
+    "Name": "Peter Bogdanovich",
+    "Nominees": "Peter Bogdanovich",
+    "NomineeIds": "nm0000953",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Sunday Bloody Sunday",
+    "FilmId": "tt0067805",
+    "Name": "John Schlesinger",
+    "Nominees": "John Schlesinger",
+    "NomineeIds": "nm0772259",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Alaska Wilderness Lake",
+    "FilmId": "tt0066753",
+    "Name": "Alan Landsburg, Producer",
+    "Nominees": "Alan Landsburg",
+    "NomineeIds": "nm0485137",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Hellstrom Chronicle",
+    "FilmId": "tt0067197",
+    "Name": "Walon Green, Producer",
+    "Nominees": "Walon Green",
+    "NomineeIds": "nm0338396",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "On Any Sunday",
+    "FilmId": "tt0067527",
+    "Name": "Bruce Brown, Producer",
+    "Nominees": "Bruce Brown",
+    "NomineeIds": "nm0113164",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The RA Expeditions",
+    "FilmId": "tt0069151",
+    "Name": "Lennart Ehrenborg and Thor Heyerdahl, Producers",
+    "Nominees": "Lennart Ehrenborg|Thor Heyerdahl",
+    "NomineeIds": "nm0251278|nm0382217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Sorrow and the Pity",
+    "FilmId": "tt0066904",
+    "Name": "Marcel Ophuls, Producer",
+    "Nominees": "Marcel Ophuls",
+    "NomineeIds": "nm0649096",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Adventures in Perception",
+    "FilmId": "tt0066748",
+    "Name": "Han van Gelder, Producer",
+    "Nominees": "Han van Gelder",
+    "NomineeIds": "nm0886911",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Art Is...",
+    "FilmId": "tt0066786",
+    "Name": "Julian Krainin and DeWitt L. Sage, Jr., Producers",
+    "Nominees": "Julian Krainin|DeWitt L. Sage Jr.",
+    "NomineeIds": "nm0469313|nm0756040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Numbers Start with the River",
+    "FilmId": "tt0067507",
+    "Name": "Donald Wrye, Producer",
+    "Nominees": "Donald Wrye",
+    "NomineeIds": "nm0943044",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Sentinels of Silence",
+    "FilmId": "tt0067733",
+    "Name": "Manuel Arango and Robert Amram, Producers",
+    "Nominees": "Manuel Arango|Robert Amram",
+    "NomineeIds": "nm0033045|nm0025374",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Somebody Waiting",
+    "FilmId": "tt0067772",
+    "Name": "Hal Riney, Dick Snider and Sherwood Omens, Producers",
+    "Nominees": "Hal Riney|Dick Snider|Sherwood Omens",
+    "NomineeIds": "nm0727514|nm0811126|nm0648386",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Andromeda Strain",
+    "FilmId": "tt0066769",
+    "Name": "Stuart Gilmore, John W. Holmes",
+    "Nominees": "Stuart Gilmore|John W. Holmes",
+    "NomineeIds": "nm0319574|nm0391899",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "A Clockwork Orange",
+    "FilmId": "tt0066921",
+    "Name": "Bill Butler",
+    "Nominees": "Bill Butler",
+    "NomineeIds": "nm0124833",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The French Connection",
+    "FilmId": "tt0067116",
+    "Name": "Jerry Greenberg",
+    "Nominees": "Jerry Greenberg",
+    "NomineeIds": "nm0338513",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Kotch",
+    "FilmId": "tt0067314",
+    "Name": "Ralph E. Winters",
+    "Nominees": "Ralph E. Winters",
+    "NomineeIds": "nm0935988",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Summer of '42",
+    "FilmId": "tt0067803",
+    "Name": "Folmar Blangsted",
+    "Nominees": "Folmar Blangsted",
+    "NomineeIds": "nm0087467",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Dodes'ka-Den",
+    "FilmId": "tt0065649",
+    "Name": "Japan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Emigrants",
+    "FilmId": "tt0067919",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Garden of the Finzi Continis",
+    "FilmId": "tt0065777",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Policeman",
+    "FilmId": "tt0066374",
+    "Name": "Israel",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Tchaikovsky",
+    "FilmId": "tt0065127",
+    "Name": "Union of Soviet Socialist Republics",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Mary, Queen of Scots",
+    "FilmId": "tt0067402",
+    "Name": "John Barry",
+    "Nominees": "John Barry",
+    "NomineeIds": "nm0000290",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Nicholas and Alexandra",
+    "FilmId": "tt0067483",
+    "Name": "Richard Rodney Bennett",
+    "Nominees": "Richard Rodney Bennett",
+    "NomineeIds": "nm0005961",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Shaft",
+    "FilmId": "tt0067741",
+    "Name": "Isaac Hayes",
+    "Nominees": "Isaac Hayes",
+    "NomineeIds": "nm0005002",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Straw Dogs",
+    "FilmId": "tt0067800",
+    "Name": "Jerry Fielding",
+    "Nominees": "Jerry Fielding",
+    "NomineeIds": "nm0006076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Summer of '42",
+    "FilmId": "tt0067803",
+    "Name": "Michel Legrand",
+    "Nominees": "Michel Legrand",
+    "NomineeIds": "nm0006166",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Adaptation and Original Song Score)",
+    "Film": "Bedknobs and Broomsticks",
+    "FilmId": "tt0066817",
+    "Name": "Song Score by Richard M. Sherman and Robert B. Sherman; Adaptation Score by Irwin Kostal",
+    "Nominees": "Richard M. Sherman|Robert B. Sherman|Irwin Kostal",
+    "NomineeIds": "nm0792556|nm0792567|nm0467348",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Adaptation and Original Song Score)",
+    "Film": "The Boy Friend",
+    "FilmId": "tt0066858",
+    "Name": "Adaptation Score by Peter Maxwell Davies and Peter Greenwell",
+    "Nominees": "Peter Maxwell Davies|Peter Greenwell",
+    "NomineeIds": "nm0203903|nm0339285",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Adaptation and Original Song Score)",
+    "Film": "Fiddler on the Roof",
+    "FilmId": "tt0067093",
+    "Name": "Adaptation Score by John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Adaptation and Original Song Score)",
+    "Film": "Tchaikovsky",
+    "FilmId": "tt0065127",
+    "Name": "Adaptation Score by Dimitri Tiomkin",
+    "Nominees": "Dimitri Tiomkin",
+    "NomineeIds": "nm0006323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Adaptation and Original Song Score)",
+    "Film": "Willy Wonka and the Chocolate Factory",
+    "FilmId": "tt0067992",
+    "Name": "Song Score by Leslie Bricusse and Anthony Newley; Adaptation Score by Walter Scharf",
+    "Nominees": "Leslie Bricusse|Anthony Newley|Walter Scharf",
+    "NomineeIds": "nm0108634|nm0627969|nm0770127",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "Bedknobs and Broomsticks",
+    "FilmId": "tt0066817",
+    "Name": "Music and Lyrics by Richard M. Sherman and Robert B. Sherman",
+    "Nominees": "Richard M. Sherman|Robert B. Sherman",
+    "NomineeIds": "nm0792556|nm0792567",
+    "Winner": "",
+    "Detail": "The Age Of Not Believing",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "Sometimes a Great Notion",
+    "FilmId": "tt0067774",
+    "Name": "Music by Henry Mancini; Lyrics by Alan Bergman and Marilyn Bergman",
+    "Nominees": "Henry Mancini|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0000049|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "All His Children",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "Bless the Beasts & Children",
+    "FilmId": "tt0068286",
+    "Name": "Music and Lyrics by Barry DeVorzon and Perry Botkin, Jr.",
+    "Nominees": "Barry DeVorzon|Perry Botkin Jr.",
+    "NomineeIds": "nm0006031|nm0098559",
+    "Winner": "",
+    "Detail": "Bless The Beasts & Children",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "Kotch",
+    "FilmId": "tt0067314",
+    "Name": "Music by Marvin Hamlisch; Lyrics by Johnny Mercer",
+    "Nominees": "Marvin Hamlisch|Johnny Mercer",
+    "NomineeIds": "nm0006121|nm0006197",
+    "Winner": "",
+    "Detail": "Life Is What You Make It",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "Shaft",
+    "FilmId": "tt0067741",
+    "Name": "Music and Lyrics by Isaac Hayes",
+    "Nominees": "Isaac Hayes",
+    "NomineeIds": "nm0005002",
+    "Winner": "True",
+    "Detail": "Theme From Shaft",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "A Clockwork Orange",
+    "FilmId": "tt0066921",
+    "Name": "Stanley Kubrick, Producer",
+    "Nominees": "Stanley Kubrick",
+    "NomineeIds": "nm0000040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Fiddler on the Roof",
+    "FilmId": "tt0067093",
+    "Name": "Norman Jewison, Producer",
+    "Nominees": "Norman Jewison",
+    "NomineeIds": "nm0422484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The French Connection",
+    "FilmId": "tt0067116",
+    "Name": "Philip D'Antoni, Producer",
+    "Nominees": "Philip D'Antoni",
+    "NomineeIds": "nm0195358",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Last Picture Show",
+    "FilmId": "tt0067328",
+    "Name": "Stephen J. Friedman, Producer",
+    "Nominees": "Stephen J. Friedman",
+    "NomineeIds": "nm0295375",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Nicholas and Alexandra",
+    "FilmId": "tt0067483",
+    "Name": "Sam Spiegel, Producer",
+    "Nominees": "Sam Spiegel",
+    "NomineeIds": "nm0818545",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Animated)",
+    "Film": "The Crunch Bird",
+    "FilmId": "tt0066959",
+    "Name": "Ted Petok, Producer",
+    "Nominees": "Ted Petok",
+    "NomineeIds": "nm0677726",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Animated)",
+    "Film": "Evolution",
+    "FilmId": "tt0067073",
+    "Name": "Michael Mills, Producer",
+    "Nominees": "Michael Mills",
+    "NomineeIds": "nm3382237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Animated)",
+    "Film": "The Selfish Giant",
+    "FilmId": "tt0067731",
+    "Name": "Peter Sander and Murray Shostak, Producers",
+    "Nominees": "Peter Sander|Murray Shostak",
+    "NomineeIds": "nm1131488|nm0795190",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Good Morning",
+    "FilmId": "tt0067152",
+    "Name": "Denny Evans and Ken Greenwald, Producers",
+    "Nominees": "Denny Evans|Ken Greenwald",
+    "NomineeIds": "nm0262706|nm0339241",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "The Rehearsal",
+    "FilmId": "tt0067662",
+    "Name": "Stephen F. Verona, Producer",
+    "Nominees": "Stephen F. Verona",
+    "NomineeIds": "nm0894776",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Sentinels of Silence",
+    "FilmId": "tt0067733",
+    "Name": "Manuel Arango and Robert Amram, Producers",
+    "Nominees": "Manuel Arango|Robert Amram",
+    "NomineeIds": "nm0033045|nm0025374",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Diamonds Are Forever",
+    "FilmId": "tt0066995",
+    "Name": "Gordon K. McCallum, John Mitchell, Alfred J. Overton",
+    "Nominees": "Gordon K. McCallum|John Mitchell|Alfred J. Overton",
+    "NomineeIds": "nm0564730|nm0593466|nm0653931",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Fiddler on the Roof",
+    "FilmId": "tt0067093",
+    "Name": "Gordon K. McCallum, David Hildyard",
+    "Nominees": "Gordon K. McCallum|David Hildyard",
+    "NomineeIds": "nm0564730|nm0383934",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The French Connection",
+    "FilmId": "tt0067116",
+    "Name": "Theodore Soderberg, Christopher Newman",
+    "Nominees": "Theodore Soderberg|Christopher Newman",
+    "NomineeIds": "nm0812029|nm0628039",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Kotch",
+    "FilmId": "tt0067314",
+    "Name": "Richard Portman, Jack Solomon",
+    "Nominees": "Richard Portman|Jack Solomon",
+    "NomineeIds": "nm0692446|nm0813349",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Mary, Queen of Scots",
+    "FilmId": "tt0067402",
+    "Name": "Bob Jones, John Aldred",
+    "Nominees": "Bob Jones|John Aldred",
+    "NomineeIds": "nm0427590|nm0017640",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "Bedknobs and Broomsticks",
+    "FilmId": "tt0066817",
+    "Name": "Alan Maley, Eustace Lycett, Danny Lee",
+    "Nominees": "Alan Maley|Eustace Lycett|Danny Lee",
+    "NomineeIds": "nm0539426|nm0527941|nm0497098",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "When Dinosaurs Ruled the Earth",
+    "FilmId": "tt0066561",
+    "Name": "Jim Danforth, Roger Dicken",
+    "Nominees": "Jim Danforth|Roger Dicken",
+    "NomineeIds": "nm0199453|nm0225312",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "A Clockwork Orange",
+    "FilmId": "tt0066921",
+    "Name": "Stanley Kubrick",
+    "Nominees": "Stanley Kubrick",
+    "NomineeIds": "nm0000040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Conformist",
+    "FilmId": "tt0065571",
+    "Name": "Bernardo Bertolucci",
+    "Nominees": "Bernardo Bertolucci",
+    "NomineeIds": "nm0000934",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The French Connection",
+    "FilmId": "tt0067116",
+    "Name": "Ernest Tidyman",
+    "Nominees": "Ernest Tidyman",
+    "NomineeIds": "nm0862781",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Garden of the Finzi Continis",
+    "FilmId": "tt0065777",
+    "Name": "Ugo Pirro, Vittorio Bonicelli",
+    "Nominees": "Ugo Pirro|Vittorio Bonicelli",
+    "NomineeIds": "nm0685316|nm0094558",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Last Picture Show",
+    "FilmId": "tt0067328",
+    "Name": "Larry McMurtry, Peter Bogdanovich",
+    "Nominees": "Larry McMurtry|Peter Bogdanovich",
+    "NomineeIds": "nm0573505|nm0000953",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "The Hospital",
+    "FilmId": "tt0067217",
+    "Name": "Paddy Chayefsky",
+    "Nominees": "Paddy Chayefsky",
+    "NomineeIds": "nm0154665",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "Investigation of a Citizen above Suspicion",
+    "FilmId": "tt0065889",
+    "Name": "Elio Petri, Ugo Pirro",
+    "Nominees": "Elio Petri|Ugo Pirro",
+    "NomineeIds": "nm0677880|nm0685316",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "Klute",
+    "FilmId": "tt0067309",
+    "Name": "Andy Lewis, Dave Lewis",
+    "Nominees": "Andy Lewis|Dave Lewis",
+    "NomineeIds": "nm0506920|nm5557134",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "Summer of '42",
+    "FilmId": "tt0067803",
+    "Name": "Herman Raucher",
+    "Nominees": "Herman Raucher",
+    "NomineeIds": "nm0712029",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "Sunday Bloody Sunday",
+    "FilmId": "tt0067805",
+    "Name": "Penelope Gilliatt",
+    "Nominees": "Penelope Gilliatt",
+    "NomineeIds": "nm0319149",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles Chaplin",
+    "NomineeIds": "nm0000122",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Charles Chaplin for the incalculable effect he has had in making motion pictures the art form of this century."
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JOHN N. WILKINSON",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To JOHN N. WILKINSON of Optical Radiation Corporation for the development and engineering of a system of xenon arc lamphouses for motion picture projection."
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thomas Jefferson Hutchinson|James R. Rochester|Fenton Hamilton",
+    "NomineeIds": "?|?|nm0357844",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To THOMAS JEFFERSON HUTCHINSON, JAMES R. ROCHESTER and FENTON HAMILTON for the development and introduction of the Sunbrute system of xenon arc lamps for location lighting in motion picture production."
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Photo Research",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To PHOTO RESEARCH, A DIVISION OF KOLLMORGEN CORPORATION, for the development and introduction of the film-lens balanced Three Color Meter."
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Robert D. Auguste|Cinema Products Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To ROBERT D. AUGUSTE and CINEMA PRODUCTS COMPANY for the development and introduction of a new crystal controlled lightweight motor for the 35mm motion picture Arriflex camera."
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "PRODUCERS SERVICE CORPORATION|CONSOLIDATED FILM INDUSTRIES|CINEMA RESEARCH CORPORATION|RESEARCH PRODUCTS INC.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To PRODUCERS SERVICE CORPORATION and CONSOLIDATED FILM INDUSTRIES; and to CINEMA RESEARCH CORPORATION and RESEARCH PRODUCTS, INC. for the engineering and implementation of fully automated blow-up motion picture printing systems."
+  },
+  {
+    "Ceremony": 44,
+    "Year": 1971,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Cinema Products Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To CINEMA PRODUCTS COMPANY for a control motor to actuate zoom lenses on motion picture cameras."
   }
 ]

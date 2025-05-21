@@ -1,1878 +1,2210 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2017",
-        "nominees": [
-            "The Shape of Water"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2017",
-        "nominees": [
-            "Call Me by Your Name"
-        ],
-        "movies": [
-            {
-                "title": "Call Me by Your Name",
-                "tmdb_id": 398818,
-                "imdb_id": "tt5726616"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2017",
-        "nominees": [
-            "Darkest Hour"
-        ],
-        "movies": [
-            {
-                "title": "Darkest Hour",
-                "tmdb_id": 399404,
-                "imdb_id": "tt4555426"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2017",
-        "nominees": [
-            "Dunkirk"
-        ],
-        "movies": [
-            {
-                "title": "Dunkirk",
-                "tmdb_id": 374720,
-                "imdb_id": "tt5013056"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2017",
-        "nominees": [
-            "Get Out"
-        ],
-        "movies": [
-            {
-                "title": "Get Out",
-                "tmdb_id": 419430,
-                "imdb_id": "tt5052448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2017",
-        "nominees": [
-            "Lady Bird"
-        ],
-        "movies": [
-            {
-                "title": "Lady Bird",
-                "tmdb_id": 391713,
-                "imdb_id": "tt4925292"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2017",
-        "nominees": [
-            "Phantom Thread"
-        ],
-        "movies": [
-            {
-                "title": "Phantom Thread",
-                "tmdb_id": 400617,
-                "imdb_id": "tt5776858"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2017",
-        "nominees": [
-            "The Post"
-        ],
-        "movies": [
-            {
-                "title": "The Post",
-                "tmdb_id": 446354,
-                "imdb_id": "tt6294822"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2017",
-        "nominees": [
-            "Three Billboards Outside Ebbing, Missouri"
-        ],
-        "movies": [
-            {
-                "title": "Three Billboards Outside Ebbing, Missouri",
-                "tmdb_id": 359940,
-                "imdb_id": "tt5027774"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2017",
-        "nominees": [
-            "Gary Oldman"
-        ],
-        "movies": [
-            {
-                "title": "Darkest Hour",
-                "tmdb_id": 399404,
-                "imdb_id": "tt4555426"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2017",
-        "nominees": [
-            "Timothee Chalamet"
-        ],
-        "movies": [
-            {
-                "title": "Call Me by Your Name",
-                "tmdb_id": 398818,
-                "imdb_id": "tt5726616"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2017",
-        "nominees": [
-            "Daniel Day-Lewis"
-        ],
-        "movies": [
-            {
-                "title": "Phantom Thread",
-                "tmdb_id": 400617,
-                "imdb_id": "tt5776858"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2017",
-        "nominees": [
-            "Daniel Kaluuya"
-        ],
-        "movies": [
-            {
-                "title": "Get Out",
-                "tmdb_id": 419430,
-                "imdb_id": "tt5052448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2017",
-        "nominees": [
-            "Denzel Washington"
-        ],
-        "movies": [
-            {
-                "title": "Roman J. Israel, Esq.",
-                "tmdb_id": 413362,
-                "imdb_id": "tt6000478"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2017",
-        "nominees": [
-            "Frances McDormand"
-        ],
-        "movies": [
-            {
-                "title": "Three Billboards Outside Ebbing, Missouri",
-                "tmdb_id": 359940,
-                "imdb_id": "tt5027774"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2017",
-        "nominees": [
-            "Sally Hawkins"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2017",
-        "nominees": [
-            "Margot Robbie"
-        ],
-        "movies": [
-            {
-                "title": "I, Tonya",
-                "tmdb_id": 389015,
-                "imdb_id": "tt5580036"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2017",
-        "nominees": [
-            "Saorise Ronan"
-        ],
-        "movies": [
-            {
-                "title": "Lady Bird",
-                "tmdb_id": 391713,
-                "imdb_id": "tt4925292"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2017",
-        "nominees": [
-            "Meryl Streep"
-        ],
-        "movies": [
-            {
-                "title": "The Post",
-                "tmdb_id": 446354,
-                "imdb_id": "tt6294822"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2017",
-        "nominees": [
-            "Sam Rockwell"
-        ],
-        "movies": [
-            {
-                "title": "Three Billboards Outside Ebbing, Missouri",
-                "tmdb_id": 359940,
-                "imdb_id": "tt5027774"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2017",
-        "nominees": [
-            "Willem Dafoe"
-        ],
-        "movies": [
-            {
-                "title": "The Florida Project",
-                "tmdb_id": 394117,
-                "imdb_id": "tt5649144"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2017",
-        "nominees": [
-            "Woody Harrelson"
-        ],
-        "movies": [
-            {
-                "title": "Three Billboards Outside Ebbing, Missouri",
-                "tmdb_id": 359940,
-                "imdb_id": "tt5027774"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2017",
-        "nominees": [
-            "Richard Jenkins"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2017",
-        "nominees": [
-            "Christopher Plummer"
-        ],
-        "movies": [
-            {
-                "title": "All the Money in the World",
-                "tmdb_id": 446791,
-                "imdb_id": "tt5294550"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2017",
-        "nominees": [
-            "Allison Janney"
-        ],
-        "movies": [
-            {
-                "title": "I, Tonya",
-                "tmdb_id": 389015,
-                "imdb_id": "tt5580036"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2017",
-        "nominees": [
-            "Mary J. Blige"
-        ],
-        "movies": [
-            {
-                "title": "Mudbound",
-                "tmdb_id": 414425,
-                "imdb_id": "tt2396589"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2017",
-        "nominees": [
-            "Leslie Manville"
-        ],
-        "movies": [
-            {
-                "title": "Phantom Thread",
-                "tmdb_id": 400617,
-                "imdb_id": "tt5776858"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2017",
-        "nominees": [
-            "Laurie Metcalf"
-        ],
-        "movies": [
-            {
-                "title": "Lady Bird",
-                "tmdb_id": 391713,
-                "imdb_id": "tt4925292"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2017",
-        "nominees": [
-            "Octavia Spencer"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2017",
-        "nominees": [
-            "Guillermo del Toro"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2017",
-        "nominees": [
-            "Christopher Nolan"
-        ],
-        "movies": [
-            {
-                "title": "Dunkirk",
-                "tmdb_id": 374720,
-                "imdb_id": "tt5013056"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2017",
-        "nominees": [
-            "Jordan Peele"
-        ],
-        "movies": [
-            {
-                "title": "Get Out",
-                "tmdb_id": 419430,
-                "imdb_id": "tt5052448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2017",
-        "nominees": [
-            "Greta Gerwig"
-        ],
-        "movies": [
-            {
-                "title": "Lady Bird",
-                "tmdb_id": 391713,
-                "imdb_id": "tt4925292"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2017",
-        "nominees": [
-            "Paul Thomas Anderson"
-        ],
-        "movies": [
-            {
-                "title": "Phantom Thread",
-                "tmdb_id": 400617,
-                "imdb_id": "tt5776858"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2017",
-        "nominees": [
-            "James Ivory"
-        ],
-        "movies": [
-            {
-                "title": "Call Me by Your Name",
-                "tmdb_id": 398818,
-                "imdb_id": "tt5726616"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2017",
-        "nominees": [
-            "Scott Neustadter",
-            "Michael H. Weber"
-        ],
-        "movies": [
-            {
-                "title": "The Disaster Artist",
-                "tmdb_id": 371638,
-                "imdb_id": "tt3521126"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2017",
-        "nominees": [
-            "Scott Frank",
-            "James Mangold",
-            "Michael Green"
-        ],
-        "movies": [
-            {
-                "title": "Logan",
-                "tmdb_id": 263115,
-                "imdb_id": "tt3315342"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2017",
-        "nominees": [
-            "Aaron Sorkin"
-        ],
-        "movies": [
-            {
-                "title": "Molly's Game",
-                "tmdb_id": 396371,
-                "imdb_id": "tt4209788"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2017",
-        "nominees": [
-            "Virgil Williams",
-            "Dee Rees"
-        ],
-        "movies": [
-            {
-                "title": "Mudbound",
-                "tmdb_id": 414425,
-                "imdb_id": "tt2396589"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2017",
-        "nominees": [
-            "Jordan Peele"
-        ],
-        "movies": [
-            {
-                "title": "Get Out",
-                "tmdb_id": 419430,
-                "imdb_id": "tt5052448"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2017",
-        "nominees": [
-            "Emily V. Gordon",
-            "Kumail Nanjiani"
-        ],
-        "movies": [
-            {
-                "title": "The Big Sick",
-                "tmdb_id": 416477,
-                "imdb_id": "tt5462602"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2017",
-        "nominees": [
-            "Martin McDonagh"
-        ],
-        "movies": [
-            {
-                "title": "Three Billboards Outside Ebbing, Missouri",
-                "tmdb_id": 359940,
-                "imdb_id": "tt5027774"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2017",
-        "nominees": [
-            "Greta Gerwig"
-        ],
-        "movies": [
-            {
-                "title": "Lady Bird",
-                "tmdb_id": 391713,
-                "imdb_id": "tt4925292"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2017",
-        "nominees": [
-            "Guillermo del Toro",
-            "Vanessa Taylor"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2017",
-        "nominees": [
-            "Alexandre Desplat"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2017",
-        "nominees": [
-            "Hans Zimmer"
-        ],
-        "movies": [
-            {
-                "title": "Dunkirk",
-                "tmdb_id": 374720,
-                "imdb_id": "tt5013056"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2017",
-        "nominees": [
-            "Jonny Greenwood"
-        ],
-        "movies": [
-            {
-                "title": "Phantom Thread",
-                "tmdb_id": 400617,
-                "imdb_id": "tt5776858"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2017",
-        "nominees": [
-            "John Williams"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Last Jedi",
-                "tmdb_id": 181808,
-                "imdb_id": "tt2527336"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2017",
-        "nominees": [
-            "Carter Burwell"
-        ],
-        "movies": [
-            {
-                "title": "Three Billboards Outside Ebbing, Missouri",
-                "tmdb_id": 359940,
-                "imdb_id": "tt5027774"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2017",
-        "nominees": [
-            "Remember Me"
-        ],
-        "movies": [
-            {
-                "title": "Coco",
-                "tmdb_id": 354912,
-                "imdb_id": "tt2380307"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2017",
-        "nominees": [
-            "Mighty River"
-        ],
-        "movies": [
-            {
-                "title": "Mudbound",
-                "tmdb_id": 414425,
-                "imdb_id": "tt2396589"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2017",
-        "nominees": [
-            "Mystery of Love"
-        ],
-        "movies": [
-            {
-                "title": "Call Me by Your Name",
-                "tmdb_id": 398818,
-                "imdb_id": "tt5726616"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2017",
-        "nominees": [
-            "Stand Up for Something"
-        ],
-        "movies": [
-            {
-                "title": "Marshall",
-                "tmdb_id": 392982,
-                "imdb_id": "tt5301662"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2017",
-        "nominees": [
-            "This Is Me"
-        ],
-        "movies": [
-            {
-                "title": "The Greatest Showman",
-                "tmdb_id": 316029,
-                "imdb_id": "tt1485796"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2017",
-        "nominees": [
-            "A Fantastic Woman"
-        ],
-        "movies": [
-            {
-                "title": "A Fantastic Woman",
-                "tmdb_id": 429191,
-                "imdb_id": "tt5639354"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2017",
-        "nominees": [
-            "The Square"
-        ],
-        "movies": [
-            {
-                "title": "The Square",
-                "tmdb_id": 401246,
-                "imdb_id": "tt4995790"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2017",
-        "nominees": [
-            "The Insult"
-        ],
-        "movies": [
-            {
-                "title": "The Insult",
-                "tmdb_id": 468284,
-                "imdb_id": "tt7048622"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2017",
-        "nominees": [
-            "Loveless"
-        ],
-        "movies": [
-            {
-                "title": "Loveless",
-                "tmdb_id": 429174,
-                "imdb_id": "tt6304162"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2017",
-        "nominees": [
-            "On Body and Soul"
-        ],
-        "movies": [
-            {
-                "title": "On Body and Soul",
-                "tmdb_id": 436343,
-                "imdb_id": "tt5607714"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2017",
-        "nominees": [
-            "Icarus"
-        ],
-        "movies": [
-            {
-                "title": "Icarus",
-                "tmdb_id": 432976,
-                "imdb_id": "tt6333060"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2017",
-        "nominees": [
-            "Abacus: Small Enough to Jail"
-        ],
-        "movies": [
-            {
-                "title": "Abacus: Small Enough to Jail",
-                "tmdb_id": 411007,
-                "imdb_id": "tt5952382"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2017",
-        "nominees": [
-            "Faces Places"
-        ],
-        "movies": [
-            {
-                "title": "Faces Places",
-                "tmdb_id": 451995,
-                "imdb_id": "tt5598102"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2017",
-        "nominees": [
-            "Last Men in Aleppo"
-        ],
-        "movies": [
-            {
-                "title": "Last Men in Aleppo",
-                "tmdb_id": 433085,
-                "imdb_id": "tt6333074"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2017",
-        "nominees": [
-            "Strong Island"
-        ],
-        "movies": [
-            {
-                "title": "Strong Island",
-                "tmdb_id": 428612,
-                "imdb_id": "tt5873150"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2017",
-        "nominees": [
-            "Heaven is a Traffic Jam on the 405"
-        ],
-        "movies": [
-            {
-                "title": "Heaven is a Traffic Jam on the 405",
-                "tmdb_id": 473278,
-                "imdb_id": "tt5095260"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2017",
-        "nominees": [
-            "Edith+Eddie"
-        ],
-        "movies": [
-            {
-                "title": "Edith+Eddie",
-                "tmdb_id": 443946,
-                "imdb_id": "tt6519356"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2017",
-        "nominees": [
-            "Heroin(e)"
-        ],
-        "movies": [
-            {
-                "title": "Heroin(e)",
-                "tmdb_id": 475345,
-                "imdb_id": "tt7389366"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2017",
-        "nominees": [
-            "Knife Skills"
-        ],
-        "movies": [
-            {
-                "title": "Knife Skills",
-                "tmdb_id": 466489,
-                "imdb_id": "tt5745110"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2017",
-        "nominees": [
-            "Traffic Stop"
-        ],
-        "movies": [
-            {
-                "title": "Traffic Stop",
-                "tmdb_id": 491206,
-                "imdb_id": "tt7874708"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2017",
-        "nominees": [
-            "Coco"
-        ],
-        "movies": [
-            {
-                "title": "Coco",
-                "tmdb_id": 354912,
-                "imdb_id": "tt2380307"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2017",
-        "nominees": [
-            "The Boss Baby"
-        ],
-        "movies": [
-            {
-                "title": "The Boss Baby",
-                "tmdb_id": 295693,
-                "imdb_id": "tt3874544"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2017",
-        "nominees": [
-            "The Breadwinner"
-        ],
-        "movies": [
-            {
-                "title": "The Breadwinner",
-                "tmdb_id": 435129,
-                "imdb_id": "tt3901826"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2017",
-        "nominees": [
-            "Ferdinand"
-        ],
-        "movies": [
-            {
-                "title": "Ferdinand",
-                "tmdb_id": 364689,
-                "imdb_id": "tt3411444"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2017",
-        "nominees": [
-            "Loving Vincent"
-        ],
-        "movies": [
-            {
-                "title": "Loving Vincent",
-                "tmdb_id": 339877,
-                "imdb_id": "tt3262342"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2017",
-        "nominees": [
-            "Dear Basketball"
-        ],
-        "movies": [
-            {
-                "title": "Dear Basketball",
-                "tmdb_id": 483306,
-                "imdb_id": "tt6794476"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2017",
-        "nominees": [
-            "Garden Party"
-        ],
-        "movies": [
-            {
-                "title": "Garden Party",
-                "tmdb_id": 476719,
-                "imdb_id": "tt6426140"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2017",
-        "nominees": [
-            "Lou"
-        ],
-        "movies": [
-            {
-                "title": "Lou",
-                "tmdb_id": 433471,
-                "imdb_id": "tt6267732"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2017",
-        "nominees": [
-            "Negative Space"
-        ],
-        "movies": [
-            {
-                "title": "Negative Space",
-                "tmdb_id": 461303,
-                "imdb_id": "tt7090150"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2017",
-        "nominees": [
-            "Revolting Rhymes"
-        ],
-        "movies": [
-            {
-                "title": "Revolting Rhymes",
-                "tmdb_id": 430162,
-                "imdb_id": "tt10453434"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2017",
-        "nominees": [
-            "The Silent Child"
-        ],
-        "movies": [
-            {
-                "title": "The Silent Child",
-                "tmdb_id": 492223,
-                "imdb_id": "tt6186970"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2017",
-        "nominees": [
-            "The Eleven O'Clock"
-        ],
-        "movies": [
-            {
-                "title": "The Eleven O'Clock",
-                "tmdb_id": 481261,
-                "imdb_id": "tt6023474"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2017",
-        "nominees": [
-            "My Nephew Emmett"
-        ],
-        "movies": [
-            {
-                "title": "My Nephew Emmett",
-                "tmdb_id": 484569,
-                "imdb_id": "tt6598290"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2017",
-        "nominees": [
-            "DeKalb Elementary"
-        ],
-        "movies": [
-            {
-                "title": "DeKalb Elementary",
-                "tmdb_id": 442160,
-                "imdb_id": "tt5926890"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2017",
-        "nominees": [
-            "Watu Wote: All of Us"
-        ],
-        "movies": [
-            {
-                "title": "Watu Wote: All of Us",
-                "tmdb_id": 492224,
-                "imdb_id": "tt6333422"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Paul Denham Austerberry",
-            "Shane Vieau",
-            "Jeff Melvin"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Sarah Greenwood",
-            "Katie Spencer"
-        ],
-        "movies": [
-            {
-                "title": "Beauty and the Beast",
-                "tmdb_id": 321612,
-                "imdb_id": "tt2771200"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Dennis Gassner",
-            "Alessandra Querzola"
-        ],
-        "movies": [
-            {
-                "title": "Blade Runner 2049",
-                "tmdb_id": 335984,
-                "imdb_id": "tt1856101"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Sarah Greenwood",
-            "Katie Spencer"
-        ],
-        "movies": [
-            {
-                "title": "Darkest Hour",
-                "tmdb_id": 399404,
-                "imdb_id": "tt4555426"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Nathan Crowley",
-            "Gary Fettis"
-        ],
-        "movies": [
-            {
-                "title": "Dunkirk",
-                "tmdb_id": 374720,
-                "imdb_id": "tt5013056"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2017",
-        "nominees": [
-            "Roger Deakins"
-        ],
-        "movies": [
-            {
-                "title": "Blade Runner 2049",
-                "tmdb_id": 335984,
-                "imdb_id": "tt1856101"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2017",
-        "nominees": [
-            "Bruno Delbonnel"
-        ],
-        "movies": [
-            {
-                "title": "Darkest Hour",
-                "tmdb_id": 399404,
-                "imdb_id": "tt4555426"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2017",
-        "nominees": [
-            "Hoyte van Hoytema"
-        ],
-        "movies": [
-            {
-                "title": "Dunkirk",
-                "tmdb_id": 374720,
-                "imdb_id": "tt5013056"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2017",
-        "nominees": [
-            "Rachel Morrison"
-        ],
-        "movies": [
-            {
-                "title": "Mudbound",
-                "tmdb_id": 414425,
-                "imdb_id": "tt2396589"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2017",
-        "nominees": [
-            "Dan Laustsen"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2017",
-        "nominees": [
-            "Lee Smith"
-        ],
-        "movies": [
-            {
-                "title": "Dunkirk",
-                "tmdb_id": 374720,
-                "imdb_id": "tt5013056"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2017",
-        "nominees": [
-            "Paul Machliss",
-            "Jonathan Amos"
-        ],
-        "movies": [
-            {
-                "title": "Baby Driver",
-                "tmdb_id": 339403,
-                "imdb_id": "tt3890160"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2017",
-        "nominees": [
-            "Tatiana S. Riegel"
-        ],
-        "movies": [
-            {
-                "title": "I, Tonya",
-                "tmdb_id": 389015,
-                "imdb_id": "tt5580036"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2017",
-        "nominees": [
-            "Sidney Wolinsky"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2017",
-        "nominees": [
-            "Jon Gregory"
-        ],
-        "movies": [
-            {
-                "title": "Three Billboards Outside Ebbing, Missouri",
-                "tmdb_id": 359940,
-                "imdb_id": "tt5027774"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2017",
-        "nominees": [
-            "John Nelson",
-            "Gerd Nefzer",
-            "Paul Lambert",
-            "Richard R. Hoover"
-        ],
-        "movies": [
-            {
-                "title": "Blade Runner 2049",
-                "tmdb_id": 335984,
-                "imdb_id": "tt1856101"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2017",
-        "nominees": [
-            "Stephen Rosenbaum",
-            "Jeff White",
-            "Scott Benza",
-            "Mike Meinardus"
-        ],
-        "movies": [
-            {
-                "title": "Kong: Skull Island",
-                "tmdb_id": 293167,
-                "imdb_id": "tt3731562"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2017",
-        "nominees": [
-            "Christopher Townsend",
-            "Guy Williams",
-            "Jonathan Fawkner",
-            "Dan Sudick"
-        ],
-        "movies": [
-            {
-                "title": "Guardians of the Galaxy Vol. 2",
-                "tmdb_id": 283995,
-                "imdb_id": "tt3896198"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2017",
-        "nominees": [
-            "Ben Morris",
-            "Mike Mulholland",
-            "Neal Scanlan",
-            "Chris Corbould"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Last Jedi",
-                "tmdb_id": 181808,
-                "imdb_id": "tt2527336"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2017",
-        "nominees": [
-            "Joe Letteri",
-            "Daniel Barrett",
-            "Dan Lemmon",
-            "Joel Whist"
-        ],
-        "movies": [
-            {
-                "title": "War for the Planet of the Apes",
-                "tmdb_id": 281338,
-                "imdb_id": "tt3450958"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2017",
-        "nominees": [
-            "Mark Weingarten",
-            "Gregg Landaker",
-            "Gary A. Rizzo"
-        ],
-        "movies": [
-            {
-                "title": "Dunkirk",
-                "tmdb_id": 374720,
-                "imdb_id": "tt5013056"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2017",
-        "nominees": [
-            "Ron Bartlett",
-            "Dooug Hemphill",
-            "Mac Ruth"
-        ],
-        "movies": [
-            {
-                "title": "Blade Runner 2049",
-                "tmdb_id": 335984,
-                "imdb_id": "tt1856101"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2017",
-        "nominees": [
-            "Julian Slater",
-            "Tim Cavagin",
-            "Mary H. Ellis"
-        ],
-        "movies": [
-            {
-                "title": "Baby Driver",
-                "tmdb_id": 339403,
-                "imdb_id": "tt3890160"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2017",
-        "nominees": [
-            "Christian Cooke",
-            "Brad Zoern",
-            "Glen Gauthier"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2017",
-        "nominees": [
-            "David Parker",
-            "Michael Semanick",
-            "Ren Klyce",
-            "Stuart Wilson"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Last Jedi",
-                "tmdb_id": 181808,
-                "imdb_id": "tt2527336"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2017",
-        "nominees": [
-            "Richard King",
-            "Alex Gibson"
-        ],
-        "movies": [
-            {
-                "title": "Dunkirk",
-                "tmdb_id": 374720,
-                "imdb_id": "tt5013056"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2017",
-        "nominees": [
-            "Julian Slater"
-        ],
-        "movies": [
-            {
-                "title": "Baby Driver",
-                "tmdb_id": 339403,
-                "imdb_id": "tt3890160"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2017",
-        "nominees": [
-            "Mark Mangini",
-            "Theo Green"
-        ],
-        "movies": [
-            {
-                "title": "Blade Runner 2049",
-                "tmdb_id": 335984,
-                "imdb_id": "tt1856101"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2017",
-        "nominees": [
-            "Nathan Robitaille",
-            "Nelson Ferreira"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2017",
-        "nominees": [
-            "Matthew Wood",
-            "Ren Klyce"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Last Jedi",
-                "tmdb_id": 181808,
-                "imdb_id": "tt2527336"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2017",
-        "nominees": [
-            "Kazu Hiro",
-            "David Malinowksi",
-            "Lucy Sibbick"
-        ],
-        "movies": [
-            {
-                "title": "Darkest Hour",
-                "tmdb_id": 399404,
-                "imdb_id": "tt4555426"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2017",
-        "nominees": [
-            "Daniel Phillips",
-            "Lou Sheppard"
-        ],
-        "movies": [
-            {
-                "title": "Victoria & Abdul",
-                "tmdb_id": 423899,
-                "imdb_id": "tt5816682"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2017",
-        "nominees": [
-            "Arjen Tuiten"
-        ],
-        "movies": [
-            {
-                "title": "Wonder",
-                "tmdb_id": 406997,
-                "imdb_id": "tt2543472"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Mark Bridges"
-        ],
-        "movies": [
-            {
-                "title": "Phantom Thread",
-                "tmdb_id": 400617,
-                "imdb_id": "tt5776858"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Jacqueline Durran"
-        ],
-        "movies": [
-            {
-                "title": "Darkest Hour",
-                "tmdb_id": 399404,
-                "imdb_id": "tt4555426"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Jacqueline Durran"
-        ],
-        "movies": [
-            {
-                "title": "Beauty and the Beast",
-                "tmdb_id": 321612,
-                "imdb_id": "tt2771200"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Luis Sequeira"
-        ],
-        "movies": [
-            {
-                "title": "The Shape of Water",
-                "tmdb_id": 399055,
-                "imdb_id": "tt5580390"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2017",
-        "nominees": [
-            "Consolata Boyle"
-        ],
-        "movies": [
-            {
-                "title": "Victoria & Abdul",
-                "tmdb_id": 423899,
-                "imdb_id": "tt5816682"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Call Me by Your Name",
+    "FilmId": "tt5726616",
+    "Name": "Timothée Chalamet",
+    "Nominees": "Timothée Chalamet",
+    "NomineeIds": "nm3154303",
+    "Winner": "",
+    "Detail": "Elio",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Phantom Thread",
+    "FilmId": "tt5776858",
+    "Name": "Daniel Day-Lewis",
+    "Nominees": "Daniel Day-Lewis",
+    "NomineeIds": "nm0000358",
+    "Winner": "",
+    "Detail": "Reynolds Woodcock",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Get Out",
+    "FilmId": "tt5052448",
+    "Name": "Daniel Kaluuya",
+    "Nominees": "Daniel Kaluuya",
+    "NomineeIds": "nm2257207",
+    "Winner": "",
+    "Detail": "Chris Washington",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Darkest Hour",
+    "FilmId": "tt4555426",
+    "Name": "Gary Oldman",
+    "Nominees": "Gary Oldman",
+    "NomineeIds": "nm0000198",
+    "Winner": "True",
+    "Detail": "Winston Churchill",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Roman J. Israel, Esq.",
+    "FilmId": "tt6000478",
+    "Name": "Denzel Washington",
+    "Nominees": "Denzel Washington",
+    "NomineeIds": "nm0000243",
+    "Winner": "",
+    "Detail": "Roman J. Israel, Esq.",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Florida Project",
+    "FilmId": "tt5649144",
+    "Name": "Willem Dafoe",
+    "Nominees": "Willem Dafoe",
+    "NomineeIds": "nm0000353",
+    "Winner": "",
+    "Detail": "Bobby",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Three Billboards outside Ebbing, Missouri",
+    "FilmId": "tt5027774",
+    "Name": "Woody Harrelson",
+    "Nominees": "Woody Harrelson",
+    "NomineeIds": "nm0000437",
+    "Winner": "",
+    "Detail": "Willoughby",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Richard Jenkins",
+    "Nominees": "Richard Jenkins",
+    "NomineeIds": "nm0420955",
+    "Winner": "",
+    "Detail": "Giles",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "All the Money in the World",
+    "FilmId": "tt5294550",
+    "Name": "Christopher Plummer",
+    "Nominees": "Christopher Plummer",
+    "NomineeIds": "nm0001626",
+    "Winner": "",
+    "Detail": "J. Paul Getty",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Three Billboards outside Ebbing, Missouri",
+    "FilmId": "tt5027774",
+    "Name": "Sam Rockwell",
+    "Nominees": "Sam Rockwell",
+    "NomineeIds": "nm0005377",
+    "Winner": "True",
+    "Detail": "Dixon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Sally Hawkins",
+    "Nominees": "Sally Hawkins",
+    "NomineeIds": "nm1020089",
+    "Winner": "",
+    "Detail": "Elisa Esposito",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Three Billboards outside Ebbing, Missouri",
+    "FilmId": "tt5027774",
+    "Name": "Frances McDormand",
+    "Nominees": "Frances McDormand",
+    "NomineeIds": "nm0000531",
+    "Winner": "True",
+    "Detail": "Mildred",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "I, Tonya",
+    "FilmId": "tt5580036",
+    "Name": "Margot Robbie",
+    "Nominees": "Margot Robbie",
+    "NomineeIds": "nm3053338",
+    "Winner": "",
+    "Detail": "Tonya Harding",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Lady Bird",
+    "FilmId": "tt4925292",
+    "Name": "Saoirse Ronan",
+    "Nominees": "Saoirse Ronan",
+    "NomineeIds": "nm1519680",
+    "Winner": "",
+    "Detail": "Lady Bird McPherson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Post",
+    "FilmId": "tt6294822",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Kay Graham",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Mudbound",
+    "FilmId": "tt2396589",
+    "Name": "Mary J. Blige",
+    "Nominees": "Mary J. Blige",
+    "NomineeIds": "nm0004763",
+    "Winner": "",
+    "Detail": "Florence Jackson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "I, Tonya",
+    "FilmId": "tt5580036",
+    "Name": "Allison Janney",
+    "Nominees": "Allison Janney",
+    "NomineeIds": "nm0005049",
+    "Winner": "True",
+    "Detail": "LaVona",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Phantom Thread",
+    "FilmId": "tt5776858",
+    "Name": "Lesley Manville",
+    "Nominees": "Lesley Manville",
+    "NomineeIds": "nm0544334",
+    "Winner": "",
+    "Detail": "Cyril",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Lady Bird",
+    "FilmId": "tt4925292",
+    "Name": "Laurie Metcalf",
+    "Nominees": "Laurie Metcalf",
+    "NomineeIds": "nm0582418",
+    "Winner": "",
+    "Detail": "Marion McPherson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Octavia Spencer",
+    "Nominees": "Octavia Spencer",
+    "NomineeIds": "nm0818055",
+    "Winner": "",
+    "Detail": "Zelda Fuller",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Boss Baby",
+    "FilmId": "tt3874544",
+    "Name": "Tom McGrath and Ramsey Naito",
+    "Nominees": "Tom McGrath|Ramsey Naito",
+    "NomineeIds": "nm0569891|nm0619820",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Breadwinner",
+    "FilmId": "tt3901826",
+    "Name": "Nora Twomey and Anthony Leo",
+    "Nominees": "Nora Twomey|Anthony Leo",
+    "NomineeIds": "nm1316072|nm1479800",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Coco",
+    "FilmId": "tt2380307",
+    "Name": "Lee Unkrich and Darla K. Anderson",
+    "Nominees": "Lee Unkrich|Darla K. Anderson",
+    "NomineeIds": "nm0881279|nm0026565",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Ferdinand",
+    "FilmId": "tt3411444",
+    "Name": "Carlos Saldanha and Lori Forte",
+    "Nominees": "Carlos Saldanha|Lori Forte",
+    "NomineeIds": "nm0757858|nm1000858",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Loving Vincent",
+    "FilmId": "tt3262342",
+    "Name": "Dorota Kobiela, Hugh Welchman and Ivan Mactaggart",
+    "Nominees": "Dorota Kobiela|Hugh Welchman|Ivan Mactaggart",
+    "NomineeIds": "nm3699790|nm1364790|nm1597847",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Blade Runner 2049",
+    "FilmId": "tt1856101",
+    "Name": "Roger A. Deakins",
+    "Nominees": "Roger A. Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Darkest Hour",
+    "FilmId": "tt4555426",
+    "Name": "Bruno Delbonnel",
+    "Nominees": "Bruno Delbonnel",
+    "NomineeIds": "nm0216632",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Dunkirk",
+    "FilmId": "tt5013056",
+    "Name": "Hoyte van Hoytema",
+    "Nominees": "Hoyte van Hoytema",
+    "NomineeIds": "nm0887227",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Mudbound",
+    "FilmId": "tt2396589",
+    "Name": "Rachel Morrison",
+    "Nominees": "Rachel Morrison",
+    "NomineeIds": "nm1121126",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Dan Laustsen",
+    "Nominees": "Dan Laustsen",
+    "NomineeIds": "nm0491565",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Beauty and the Beast",
+    "FilmId": "tt2771200",
+    "Name": "Jacqueline Durran",
+    "Nominees": "Jacqueline Durran",
+    "NomineeIds": "nm0244330",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Darkest Hour",
+    "FilmId": "tt4555426",
+    "Name": "Jacqueline Durran",
+    "Nominees": "Jacqueline Durran",
+    "NomineeIds": "nm0244330",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Phantom Thread",
+    "FilmId": "tt5776858",
+    "Name": "Mark Bridges",
+    "Nominees": "Mark Bridges",
+    "NomineeIds": "nm0108775",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Luis Sequeira",
+    "Nominees": "Luis Sequeira",
+    "NomineeIds": "nm0784751",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Victoria & Abdul",
+    "FilmId": "tt5816682",
+    "Name": "Consolata Boyle",
+    "Nominees": "Consolata Boyle",
+    "NomineeIds": "nm0102219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Dunkirk",
+    "FilmId": "tt5013056",
+    "Name": "Christopher Nolan",
+    "Nominees": "Christopher Nolan",
+    "NomineeIds": "nm0634240",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Get Out",
+    "FilmId": "tt5052448",
+    "Name": "Jordan Peele",
+    "Nominees": "Jordan Peele",
+    "NomineeIds": "nm1443502",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Lady Bird",
+    "FilmId": "tt4925292",
+    "Name": "Greta Gerwig",
+    "Nominees": "Greta Gerwig",
+    "NomineeIds": "nm1950086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Phantom Thread",
+    "FilmId": "tt5776858",
+    "Name": "Paul Thomas Anderson",
+    "Nominees": "Paul Thomas Anderson",
+    "NomineeIds": "nm0000759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Guillermo del Toro",
+    "Nominees": "Guillermo del Toro",
+    "NomineeIds": "nm0868219",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Abacus: Small Enough to Jail",
+    "FilmId": "tt5952382",
+    "Name": "Steve James, Mark Mitten and Julie Goldman",
+    "Nominees": "Steve James|Mark Mitten|Julie Goldman",
+    "NomineeIds": "nm0416945|nm5954658|nm0325821",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Faces Places",
+    "FilmId": "tt5598102",
+    "Name": "Agnès Varda, JR and Rosalie Varda",
+    "Nominees": "Agnès Varda|JR|Rosalie Varda",
+    "NomineeIds": "nm0889513|nm2346254|nm0889518",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Icarus",
+    "FilmId": "tt6333060",
+    "Name": "Bryan Fogel and Dan Cogan",
+    "Nominees": "Bryan Fogel|Dan Cogan",
+    "NomineeIds": "nm2406731|nm0169000",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Last Men in Aleppo",
+    "FilmId": "tt6333074",
+    "Name": "Feras Fayyad, Kareem Abeed and Søren Steen Jespersen",
+    "Nominees": "Feras Fayyad|Kareem Abeed|Søren Steen Jespersen",
+    "NomineeIds": "nm5926047|nm8719525|nm1458996",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Strong Island",
+    "FilmId": "tt5873150",
+    "Name": "Yance Ford and Joslyn Barnes",
+    "Nominees": "Yance Ford|Joslyn Barnes",
+    "NomineeIds": "nm3496466|nm0055656",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Edith+Eddie",
+    "FilmId": "tt6519356",
+    "Name": "Laura Checkoway and Thomas Lee Wright",
+    "Nominees": "Laura Checkoway|Thomas Lee Wright",
+    "NomineeIds": "nm5323949|nm0942870",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Heaven Is a Traffic Jam on the 405",
+    "FilmId": "tt5095260",
+    "Name": "Frank Stiefel",
+    "Nominees": "Frank Stiefel",
+    "NomineeIds": "nm1103802",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Heroin(e)",
+    "FilmId": "tt7389366",
+    "Name": "Elaine McMillion Sheldon and Kerrin Sheldon",
+    "Nominees": "Elaine McMillion Sheldon|Kerrin Sheldon",
+    "NomineeIds": "nm4140928|nm6463326",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Knife Skills",
+    "FilmId": "tt5745110",
+    "Name": "Thomas Lennon",
+    "Nominees": "Thomas Lennon",
+    "NomineeIds": "nm0502072",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Traffic Stop",
+    "FilmId": "tt7874708",
+    "Name": "Kate Davis and David Heilbroner",
+    "Nominees": "Kate Davis|David Heilbroner",
+    "NomineeIds": "nm0204934|nm0374133",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Baby Driver",
+    "FilmId": "tt3890160",
+    "Name": "Paul Machliss and Jonathan Amos",
+    "Nominees": "Paul Machliss|Jonathan Amos",
+    "NomineeIds": "nm0532651|nm1633672",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Dunkirk",
+    "FilmId": "tt5013056",
+    "Name": "Lee Smith",
+    "Nominees": "Lee Smith",
+    "NomineeIds": "nm0809059",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "I, Tonya",
+    "FilmId": "tt5580036",
+    "Name": "Tatiana S. Riegel",
+    "Nominees": "Tatiana S. Riegel",
+    "NomineeIds": "nm0726186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Sidney Wolinsky",
+    "Nominees": "Sidney Wolinsky",
+    "NomineeIds": "nm0938485",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Three Billboards outside Ebbing, Missouri",
+    "FilmId": "tt5027774",
+    "Name": "Jon Gregory",
+    "Nominees": "Jon Gregory",
+    "NomineeIds": "nm0339856",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A Fantastic Woman",
+    "FilmId": "tt5639354",
+    "Name": "Chile",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Insult",
+    "FilmId": "tt7048622",
+    "Name": "Lebanon",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Loveless",
+    "FilmId": "tt6304162",
+    "Name": "Russia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "On Body and Soul",
+    "FilmId": "tt5607714",
+    "Name": "Hungary",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Square",
+    "FilmId": "tt4995790",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Darkest Hour",
+    "FilmId": "tt4555426",
+    "Name": "Kazuhiro Tsuji, David Malinowski and Lucy Sibbick",
+    "Nominees": "Kazuhiro Tsuji|David Malinowski|Lucy Sibbick",
+    "NomineeIds": "nm0875308|nm1339434|nm2378951",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Victoria & Abdul",
+    "FilmId": "tt5816682",
+    "Name": "Daniel Phillips and Lou Sheppard",
+    "Nominees": "Daniel Phillips|Lou Sheppard",
+    "NomineeIds": "nm0680066|nm0791965",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Wonder",
+    "FilmId": "tt2543472",
+    "Name": "Arjen Tuiten",
+    "Nominees": "Arjen Tuiten",
+    "NomineeIds": "nm1115465",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Dunkirk",
+    "FilmId": "tt5013056",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Phantom Thread",
+    "FilmId": "tt5776858",
+    "Name": "Jonny Greenwood",
+    "Nominees": "Jonny Greenwood",
+    "NomineeIds": "nm0339351",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Star Wars: The Last Jedi",
+    "FilmId": "tt2527336",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Three Billboards outside Ebbing, Missouri",
+    "FilmId": "tt5027774",
+    "Name": "Carter Burwell",
+    "Nominees": "Carter Burwell",
+    "NomineeIds": "nm0001980",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Mudbound",
+    "FilmId": "tt2396589",
+    "Name": "Music and Lyric by Mary J. Blige, Raphael Saadiq and Taura Stinson",
+    "Nominees": "Mary J. Blige|Raphael Saadiq|Taura Stinson",
+    "NomineeIds": "nm0004763|nm1277289|nm5921476",
+    "Winner": "",
+    "Detail": "Mighty River",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Call Me by Your Name",
+    "FilmId": "tt5726616",
+    "Name": "Music and Lyric by Sufjan Stevens",
+    "Nominees": "Sufjan Stevens",
+    "NomineeIds": "nm2014294",
+    "Winner": "",
+    "Detail": "Mystery Of Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Coco",
+    "FilmId": "tt2380307",
+    "Name": "Music and Lyric by Kristen Anderson-Lopez and Robert Lopez",
+    "Nominees": "Kristen Anderson-Lopez|Robert Lopez",
+    "NomineeIds": "nm2844448|nm0520188",
+    "Winner": "True",
+    "Detail": "Remember Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Marshall",
+    "FilmId": "tt5301662",
+    "Name": "Music by Diane Warren; Lyric by Lonnie R. Lynn and Diane Warren",
+    "Nominees": "Diane Warren|Lonnie R. Lynn",
+    "NomineeIds": "nm0005534|nm0996669",
+    "Winner": "",
+    "Detail": "Stand Up For Something",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Greatest Showman",
+    "FilmId": "tt1485796",
+    "Name": "Music and Lyric by Benj Pasek and Justin Paul",
+    "Nominees": "Benj Pasek|Justin Paul",
+    "NomineeIds": "nm2537947|nm2524192",
+    "Winner": "",
+    "Detail": "This Is Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Call Me by Your Name",
+    "FilmId": "tt5726616",
+    "Name": "Peter Spears, Luca Guadagnino, Emilie Georges and Marco Morabito, Producers",
+    "Nominees": "Peter Spears|Luca Guadagnino|Emilie Georges|Marco Morabito",
+    "NomineeIds": "nm0817379|nm0345174|nm1899688|nm1150125",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Darkest Hour",
+    "FilmId": "tt4555426",
+    "Name": "Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten and Douglas Urbanski, Producers",
+    "Nominees": "Tim Bevan|Eric Fellner|Lisa Bruce|Anthony McCarten|Douglas Urbanski",
+    "NomineeIds": "nm0079677|nm0271479|nm0115537|nm0565026|nm0881703",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Dunkirk",
+    "FilmId": "tt5013056",
+    "Name": "Emma Thomas and Christopher Nolan, Producers",
+    "Nominees": "Emma Thomas|Christopher Nolan",
+    "NomineeIds": "nm0858799|nm0634240",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Get Out",
+    "FilmId": "tt5052448",
+    "Name": "Sean McKittrick, Jason Blum, Edward H. Hamm Jr. and Jordan Peele, Producers",
+    "Nominees": "Sean McKittrick|Jason Blum|Edward H. Hamm Jr.|Jordan Peele",
+    "NomineeIds": "nm0572014|nm0089658|nm1197257|nm1443502",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Lady Bird",
+    "FilmId": "tt4925292",
+    "Name": "Scott Rudin, Eli Bush and Evelyn O'Neill, Producers",
+    "Nominees": "Scott Rudin|Eli Bush|Evelyn O'Neill",
+    "NomineeIds": "nm0748784|nm4791912|nm0642161",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Phantom Thread",
+    "FilmId": "tt5776858",
+    "Name": "JoAnne Sellar, Paul Thomas Anderson, Megan Ellison and Daniel Lupi, Producers",
+    "Nominees": "JoAnne Sellar|Paul Thomas Anderson|Megan Ellison|Daniel Lupi",
+    "NomineeIds": "nm0783280|nm0000759|nm2691892|nm0526917",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Post",
+    "FilmId": "tt6294822",
+    "Name": "Amy Pascal, Steven Spielberg and Kristie Macosko Krieger, Producers",
+    "Nominees": "Amy Pascal|Steven Spielberg|Kristie Macosko Krieger",
+    "NomineeIds": "nm1166871|nm0000229|nm1069736",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Guillermo del Toro and J. Miles Dale, Producers",
+    "Nominees": "Guillermo del Toro|J. Miles Dale",
+    "NomineeIds": "nm0868219|nm0197703",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Three Billboards outside Ebbing, Missouri",
+    "FilmId": "tt5027774",
+    "Name": "Graham Broadbent, Pete Czernin and Martin McDonagh, Producers",
+    "Nominees": "Graham Broadbent|Pete Czernin|Martin McDonagh",
+    "NomineeIds": "nm0110357|nm0194446|nm1732981",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Beauty and the Beast",
+    "FilmId": "tt2771200",
+    "Name": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+    "Nominees": "Sarah Greenwood|Katie Spencer",
+    "NomineeIds": "nm0339391|nm0818005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Blade Runner 2049",
+    "FilmId": "tt1856101",
+    "Name": "Production Design: Dennis Gassner; Set Decoration: Alessandra Querzola",
+    "Nominees": "Dennis Gassner|Alessandra Querzola",
+    "NomineeIds": "nm0309357|nm0703301",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Darkest Hour",
+    "FilmId": "tt4555426",
+    "Name": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+    "Nominees": "Sarah Greenwood|Katie Spencer",
+    "NomineeIds": "nm0339391|nm0818005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Dunkirk",
+    "FilmId": "tt5013056",
+    "Name": "Production Design: Nathan Crowley; Set Decoration: Gary Fettis",
+    "Nominees": "Nathan Crowley|Gary Fettis",
+    "NomineeIds": "nm0189769|nm0275361",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Production Design: Paul Denham Austerberry; Set Decoration: Shane Vieau and Jeffrey A. Melvin",
+    "Nominees": "Paul Denham Austerberry|Shane Vieau|Jeffrey A. Melvin",
+    "NomineeIds": "nm0042306|nm0896580|nm0578518",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Dear Basketball",
+    "FilmId": "tt6794476",
+    "Name": "Glen Keane and Kobe Bryant",
+    "Nominees": "Glen Keane|Kobe Bryant",
+    "NomineeIds": "nm0443855|nm1101483",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Garden Party",
+    "FilmId": "tt6426140",
+    "Name": "Victor Caire and Gabriel Grapperon",
+    "Nominees": "Victor Caire|Gabriel Grapperon",
+    "NomineeIds": "nm8709842|nm6593003",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Lou",
+    "FilmId": "tt6267732",
+    "Name": "Dave Mullins and Dana Murray",
+    "Nominees": "Dave Mullins|Dana Murray",
+    "NomineeIds": "nm0612391|nm1733918",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Negative Space",
+    "FilmId": "tt7090150",
+    "Name": "Max Porter and Ru Kuwahata",
+    "Nominees": "Max Porter|Ru Kuwahata",
+    "NomineeIds": "nm4713373|nm3353592",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Revolting Rhymes",
+    "FilmId": "tt6386210",
+    "Name": "Jakob Schuh and Jan Lachauer",
+    "Nominees": "Jakob Schuh|Jan Lachauer",
+    "NomineeIds": "nm2104164|nm3936610",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "DeKalb Elementary",
+    "FilmId": "tt5926890",
+    "Name": "Reed Van Dyk",
+    "Nominees": "Reed Van Dyk",
+    "NomineeIds": "nm1722815",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Eleven O'Clock",
+    "FilmId": "tt6023474",
+    "Name": "Derin Seale and Josh Lawson",
+    "Nominees": "Derin Seale|Josh Lawson",
+    "NomineeIds": "nm0780527|nm0493257",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "My Nephew Emmett",
+    "FilmId": "tt6598290",
+    "Name": "Kevin Wilson, Jr.",
+    "Nominees": "Kevin Wilson Jr.",
+    "NomineeIds": "nm5994206",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Silent Child",
+    "FilmId": "tt6186970",
+    "Name": "Chris Overton and Rachel Shenton",
+    "Nominees": "Chris Overton|Rachel Shenton",
+    "NomineeIds": "nm1546084|nm2053650",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Watu Wote/All of Us",
+    "FilmId": "tt6333422",
+    "Name": "Katja Benrath and Tobias Rosen",
+    "Nominees": "Katja Benrath|Tobias Rosen",
+    "NomineeIds": "nm2472144|nm3304899",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Baby Driver",
+    "FilmId": "tt3890160",
+    "Name": "Julian Slater",
+    "Nominees": "Julian Slater",
+    "NomineeIds": "nm0805398",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Blade Runner 2049",
+    "FilmId": "tt1856101",
+    "Name": "Mark Mangini and Theo Green",
+    "Nominees": "Mark Mangini|Theo Green",
+    "NomineeIds": "nm0005625|nm1640468",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Dunkirk",
+    "FilmId": "tt5013056",
+    "Name": "Richard King and Alex Gibson",
+    "Nominees": "Richard King|Alex Gibson",
+    "NomineeIds": "nm0455185|nm0316833",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Nathan Robitaille and Nelson Ferreira",
+    "Nominees": "Nathan Robitaille|Nelson Ferreira",
+    "NomineeIds": "nm0733255|nm0274399",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Star Wars: The Last Jedi",
+    "FilmId": "tt2527336",
+    "Name": "Matthew Wood and Ren Klyce",
+    "Nominees": "Matthew Wood|Ren Klyce",
+    "NomineeIds": "nm0003214|nm0460274",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Baby Driver",
+    "FilmId": "tt3890160",
+    "Name": "Julian Slater, Tim Cavagin and Mary H. Ellis",
+    "Nominees": "Julian Slater|Tim Cavagin|Mary H. Ellis",
+    "NomineeIds": "nm0805398|nm0146687|nm0254978",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Blade Runner 2049",
+    "FilmId": "tt1856101",
+    "Name": "Ron Bartlett, Doug Hemphill and Mac Ruth",
+    "Nominees": "Ron Bartlett|Doug Hemphill|Mac Ruth",
+    "NomineeIds": "nm0058897|nm0376153|nm0002314",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Dunkirk",
+    "FilmId": "tt5013056",
+    "Name": "Gregg Landaker, Gary A. Rizzo and Mark Weingarten",
+    "Nominees": "Gregg Landaker|Gary A. Rizzo|Mark Weingarten",
+    "NomineeIds": "nm0484414|nm0729886|nm0918319",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Christian Cooke, Brad Zoern and Glen Gauthier",
+    "Nominees": "Christian Cooke|Brad Zoern|Glen Gauthier",
+    "NomineeIds": "nm0177397|nm0957576|nm0310266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Star Wars: The Last Jedi",
+    "FilmId": "tt2527336",
+    "Name": "David Parker, Michael Semanick, Ren Klyce and Stuart Wilson",
+    "Nominees": "David Parker|Michael Semanick|Ren Klyce|Stuart Wilson",
+    "NomineeIds": "nm0662188|nm0783713|nm0460274|nm0934184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Blade Runner 2049",
+    "FilmId": "tt1856101",
+    "Name": "John Nelson, Gerd Nefzer, Paul Lambert and Richard R. Hoover",
+    "Nominees": "John Nelson|Gerd Nefzer|Paul Lambert|Richard R. Hoover",
+    "NomineeIds": "nm0625471|nm0275382|nm0995902|nm0393923",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Guardians of the Galaxy Vol. 2",
+    "FilmId": "tt3896198",
+    "Name": "Christopher Townsend, Guy Williams, Jonathan Fawkner and Dan Sudick",
+    "Nominees": "Christopher Townsend|Guy Williams|Jonathan Fawkner|Dan Sudick",
+    "NomineeIds": "nm0870102|nm1401413|nm1000834|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Kong: Skull Island",
+    "FilmId": "tt3731562",
+    "Name": "Stephen Rosenbaum, Jeff White, Scott Benza and Mike Meinardus",
+    "Nominees": "Stephen Rosenbaum|Jeff White|Scott Benza|Mike Meinardus",
+    "NomineeIds": "nm0742155|nm1578635|nm1388484|nm0576870",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Star Wars: The Last Jedi",
+    "FilmId": "tt2527336",
+    "Name": "Ben Morris, Mike Mulholland, Neal Scanlan and Chris Corbould",
+    "Nominees": "Ben Morris|Mike Mulholland|Neal Scanlan|Chris Corbould",
+    "NomineeIds": "nm0606377|nm0611855|nm0768943|nm0179269",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "War for the Planet of the Apes",
+    "FilmId": "tt3450958",
+    "Name": "Joe Letteri, Daniel Barrett, Dan Lemmon and Joel Whist",
+    "Nominees": "Joe Letteri|Daniel Barrett|Dan Lemmon|Joel Whist",
+    "NomineeIds": "nm0504784|nm2280778|nm0501424|nm0924221",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Call Me by Your Name",
+    "FilmId": "tt5726616",
+    "Name": "Screenplay by James Ivory",
+    "Nominees": "James Ivory",
+    "NomineeIds": "nm0412465",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Disaster Artist",
+    "FilmId": "tt3521126",
+    "Name": "Screenplay by Scott Neustadter & Michael H. Weber",
+    "Nominees": "Scott Neustadter|Michael H. Weber",
+    "NomineeIds": "nm2354099|nm2352210",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Logan",
+    "FilmId": "tt3315342",
+    "Name": "Screenplay by Scott Frank & James Mangold and Michael Green; Story by James Mangold",
+    "Nominees": "Scott Frank|James Mangold|Michael Green",
+    "NomineeIds": "nm0291082|nm0003506|nm0338169",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Molly's Game",
+    "FilmId": "tt4209788",
+    "Name": "Written for the screen by Aaron Sorkin",
+    "Nominees": "Aaron Sorkin",
+    "NomineeIds": "nm0815070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Mudbound",
+    "FilmId": "tt2396589",
+    "Name": "Screenplay by Virgil Williams and Dee Rees",
+    "Nominees": "Virgil Williams|Dee Rees",
+    "NomineeIds": "nm1125049|nm2011696",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Big Sick",
+    "FilmId": "tt5462602",
+    "Name": "Written by Emily V. Gordon & Kumail Nanjiani",
+    "Nominees": "Emily V. Gordon|Kumail Nanjiani",
+    "NomineeIds": "nm5077137|nm3529685",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Get Out",
+    "FilmId": "tt5052448",
+    "Name": "Written by Jordan Peele",
+    "Nominees": "Jordan Peele",
+    "NomineeIds": "nm1443502",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Lady Bird",
+    "FilmId": "tt4925292",
+    "Name": "Written by Greta Gerwig",
+    "Nominees": "Greta Gerwig",
+    "NomineeIds": "nm1950086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Shape of Water",
+    "FilmId": "tt5580390",
+    "Name": "Screenplay by Guillermo del Toro & Vanessa Taylor; Story by Guillermo del Toro",
+    "Nominees": "Guillermo del Toro|Vanessa Taylor",
+    "NomineeIds": "nm0868219|nm0961827",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Three Billboards outside Ebbing, Missouri",
+    "FilmId": "tt5027774",
+    "Name": "Written by Martin McDonagh",
+    "Nominees": "Martin McDonagh",
+    "NomineeIds": "nm1732981",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "CARNE y ARENA",
+    "FilmId": "tt6212516",
+    "Name": "",
+    "Nominees": "Alejandro G. Iñárritu",
+    "NomineeIds": "nm0327944",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Alejandro G. Iñárritu's CARNE y ARENA virtual reality installation, in recognition of a visionary and powerful experience in storytelling."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles Burnett",
+    "NomineeIds": "nm0122344",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Charles Burnett, a resolutely independent and influential film pioneer who has chronicled the lives of black Americans with eloquence and insight."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Owen Roizman",
+    "NomineeIds": "nm0005845",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Owen Roizman, whose expansive visual style and technical innovation have advanced the art of cinematography."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Donald Sutherland",
+    "NomineeIds": "nm0000661",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Donald Sutherland for a lifetime of indelible characters, rendered with unwavering truthfulness."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Agnès Varda",
+    "NomineeIds": "nm0889513",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Agnès Varda, whose compassion and curiosity inform a uniquely personal cinema."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jonathan Erland",
+    "NomineeIds": "nm0259510",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Jonathan Erland"
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mark Elendt|Side Effects Software",
+    "NomineeIds": "nm6514950|?",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "With more than twenty years of continual innovation, Houdini has delivered the power of procedural methods to visual effects artists, making it the industry standard for bringing natural phenomena, destruction and other digital effects to the screen.",
+    "Citation": "To MARK ELENDT and SIDE EFFECTS SOFTWARE for the creation and development of the Houdini visual effects and animation system."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Coyle|Brad Hurndell|Vikas Sathaye|Shane Buckham",
+    "NomineeIds": "nm11515463|nm12157249|nm12157250|nm12157251",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "This innovative six-axis stabilized aerial camera mount, with its enhanced ability to frame shots while looking straight down, enables greater creative freedom while allowing pilots to fly more effectively and safely.",
+    "Citation": "To JOHN COYLE, BRAD HURNDELL, VIKAS SATHAYE and SHANE BUCKHAM for the concept, design, engineering and implementation of the Shotover K1 Camera System."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jeff Lait|Mark Tucker|Cristin Barghiel|John Lynch",
+    "NomineeIds": "nm12157266|nm12157267|nm0054562|nm7740901",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Houdini’s dynamics framework and workflow management tools have helped it become the industry standard for bringing natural phenomena, destruction and other digital effects to the screen.",
+    "Citation": "To JEFF LAIT, MARK TUCKER, CRISTIN BARGHIEL and JOHN LYNCH for their contributions to the design and architecture of the Houdini visual effects and animation system."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bill Spitzak|Jonathan Egstad",
+    "NomineeIds": "nm0819163|nm0251132",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Built for production at Digital Domain, Nuke has become a ubiquitous and flexible tool used across the motion picture industry, enabling novel and sophisticated workflows at an unprecedented scale.",
+    "Citation": "To BILL SPITZAK and JONATHAN EGSTAD for the visionary design, development and stewardship of the Nuke compositing system."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Abigail Brady|Jon Wadelton|Jerry Huxtable",
+    "NomineeIds": "nm8387502|nm12157270|nm12157271",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Expanded as a commercial product at The Foundry, Nuke is a comprehensive, versatile and stable system that has established itself as the backbone of compositing and image processing pipelines across the motion picture industry.",
+    "Citation": "To ABIGAIL BRADY, JON WADELTON and JERRY HUXTABLE for their significant contributions to the architecture and extensibility of the Nuke compositing system."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Leonard Chapman|Stanislav Gorbatov|David Gasparian|Souhail Issa",
+    "NomineeIds": "nm0502585|nm12157277|nm12157278|nm12157279",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "With its fully waterproof construction, the Hydrascope has greatly advanced crane technology and versatility by enabling precise long-travel multi-axis camera movement in, out of and through fresh or salt water.",
+    "Citation": "To LEONARD CHAPMAN for the overall concept, design and development, to STANISLAV GORBATOV for the electronic system design, and to DAVID GASPARIAN and SOUHAIL ISSA for the mechanical design and integration of the Hydrascope telescoping camera crane systems."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jason Smith|Jeff White|Rachel Marie Rose|Michael Justin Lee Jutan",
+    "NomineeIds": "nm1643981|nm1578635|nm4348861|nm2867705",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "BlockParty streamlines the rigging process through a comprehensive connection framework, a novel graphical user interface, and volumetric rig transfer, which has enabled ILM to build richly detailed and unique creatures while greatly improving artist productivity.",
+    "Citation": "To JASON SMITH and JEFF WHITE for the original design, and to RACHEL MARIE ROSE and MICHAEL JUSTIN LEE JUTAN for the architecture and engineering, of the BlockParty procedural rigging system at Industrial Light & Magic."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joe Mancewicz|Matt Derksen|Hans Rijpkema",
+    "NomineeIds": "nm0541364|nm1639868|nm1261455",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "This toolset provides a novel approach to character rigging that features topological independence, continuously editable rigs and deformation workflows with shape-preserving surface relaxation, enabling fifteen years of improvements to production efficiency and animation quality.",
+    "Citation": "To JOE MANCEWICZ, MATT DERKSEN and HANS RIJPKEMA for the design, architecture and implementation of the Rhythm & Hues Construction Kit rigging system."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Alex Powell|Jason Reisig|Martin Watt|Alex Wells",
+    "NomineeIds": "nm5961383|nm1134222|nm5961376|nm12157225",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Premo’s speed and simplicity enable animators to pose full-resolution characters in representative shot context, significantly increasing their productivity.",
+    "Citation": "To ALEX POWELL for his contribution to the design and engineering, to JASON REISIG for his contribution to the interaction design, and to MARTIN WATT and ALEX WELLS for their contributions to the high-performance execution engine of the Premo character animation system at DreamWorks Animation."
+  },
+  {
+    "Ceremony": 90,
+    "Year": 2017,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Rob Jensen|Thomas Hahn|George Elkoura|Adam Woodbury|Dirk Van Gelder",
+    "NomineeIds": "nm0421658|nm0353974|nm3559083|nm0940184|nm0886908",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Presto allows artists to work interactively in scene context with full-resolution geometric models and sophisticated rig controls, and has significantly increased the productivity of character animators at Pixar.",
+    "Citation": "To ROB JENSEN for the foundational design and continued development, to THOMAS HAHN for the animation toolset, and to GEORGE ELKOURA, ADAM WOODBURY and DIRK VAN GELDER for the high-performance execution engine of the Presto Animation System at Pixar Animation Studios."
+  }
 ]

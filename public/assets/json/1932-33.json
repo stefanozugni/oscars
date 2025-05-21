@@ -1,724 +1,1042 @@
 [
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "Cavalcade"
-    ],
-    "movies": [
-      {
-        "title": "Cavalcade",
-        "tmdb_id": 56164,
-        "imdb_id": "tt0023876"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "42nd Street"
-    ],
-    "movies": [
-      {
-        "title": "42nd Street",
-        "tmdb_id": 3062,
-        "imdb_id": "tt0024034"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "A Farewell to Arms"
-    ],
-    "movies": [
-      {
-        "title": "A Farewell to Arms",
-        "tmdb_id": 22649,
-        "imdb_id": "tt0022879"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "I Am a Fugitive from a Chain Gang"
-    ],
-    "movies": [
-      {
-        "title": "I Am a Fugitive from a Chain Gang",
-        "tmdb_id": 29740,
-        "imdb_id": "tt0023042"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "Lady for a Day"
-    ],
-    "movies": [
-      {
-        "title": "Lady for a Day",
-        "tmdb_id": 43130,
-        "imdb_id": "tt0024240"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "Little Women"
-    ],
-    "movies": [
-      {
-        "title": "Little Women",
-        "tmdb_id": 39938,
-        "imdb_id": "tt0024264"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "The Private Life of Henry VIII"
-    ],
-    "movies": [
-      {
-        "title": "The Private Life of Henry VIII",
-        "tmdb_id": 43122,
-        "imdb_id": "tt0024473"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "She Done Him Wrong"
-    ],
-    "movies": [
-      {
-        "title": "She Done Him Wrong",
-        "tmdb_id": 43595,
-        "imdb_id": "tt0024548"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "Smilin' Through"
-    ],
-    "movies": [
-      {
-        "title": "Smilin' Through",
-        "tmdb_id": 84303,
-        "imdb_id": "tt0023488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1932/33",
-    "nominees": [
-      "State Fair"
-    ],
-    "movies": [
-      {
-        "title": "State Fair",
-        "tmdb_id": 52517,
-        "imdb_id": "tt0024610"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1932/33",
-    "nominees": [
-      "Charles Laughton"
-    ],
-    "movies": [
-      {
-        "title": "The Private Life of Henry VIII",
-        "tmdb_id": 43122,
-        "imdb_id": "tt0024473"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1932/33",
-    "nominees": [
-      "Leslie Howard"
-    ],
-    "movies": [
-      {
-        "title": "Berkeley Square",
-        "tmdb_id": 104211,
-        "imdb_id": "tt0023794"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1932/33",
-    "nominees": [
-      "Paul Muni"
-    ],
-    "movies": [
-      {
-        "title": "I Am a Fugitive from a Chain Gang",
-        "tmdb_id": 29740,
-        "imdb_id": "tt0023042"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1932/33",
-    "nominees": [
-      "Katharine Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "Morning Glory",
-        "tmdb_id": 31777,
-        "imdb_id": "tt0024353"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1932/33",
-    "nominees": [
-      "May Robson"
-    ],
-    "movies": [
-      {
-        "title": "Lady for a Day",
-        "tmdb_id": 43130,
-        "imdb_id": "tt0024240"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1932/33",
-    "nominees": [
-      "Diana Wynyard"
-    ],
-    "movies": [
-      {
-        "title": "Cavalcade",
-        "tmdb_id": 56164,
-        "imdb_id": "tt0023876"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1932/33",
-    "nominees": [
-      "Frank Lloyd"
-    ],
-    "movies": [
-      {
-        "title": "Cavalcade",
-        "tmdb_id": 56164,
-        "imdb_id": "tt0023876"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1932/33",
-    "nominees": [
-      "Frank Capra"
-    ],
-    "movies": [
-      {
-        "title": "Lady for a Day",
-        "tmdb_id": 43130,
-        "imdb_id": "tt0024240"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1932/33",
-    "nominees": [
-      "George Cukor"
-    ],
-    "movies": [
-      {
-        "title": "Little Women",
-        "tmdb_id": 39938,
-        "imdb_id": "tt0024264"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1932/33",
-    "nominees": [
-      "Charles Barton",
-      "Charles Dorian",
-      "Scott Beal",
-      "Fred Fox",
-      "Gordon Hollingshead",
-      "Dewey Starkey",
-      "William Tummel"
-    ],
-    "movies": [],
-    "won": true
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1932/33",
-    "nominees": [
-      "Al Alleborn",
-      "Sid Brod",
-      "Orville O. Dull,"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1932/33",
-    "nominees": [
-      "Percy Ikerd",
-      "Arthur Jacobson",
-      "Edward Killy,"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1932/33",
-    "nominees": [
-      "Joseph A. McDonough",
-      "William J. Reiter",
-      "Frank Shaw,"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1932/33",
-    "nominees": [
-      "Ben Silvey",
-      "John Waters"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1932/33",
-    "nominees": [
-      "Victor Heerman",
-      "Sarah Y. Mason"
-    ],
-    "movies": [
-      {
-        "title": "Little Women",
-        "tmdb_id": 39938,
-        "imdb_id": "tt0024264"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1932/33",
-    "nominees": [
-      "Robert Riskin"
-    ],
-    "movies": [
-      {
-        "title": "Lady for a Day",
-        "tmdb_id": 43130,
-        "imdb_id": "tt0024240"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1932/33",
-    "nominees": [
-      "Paul Green",
-      "Sonya Levien"
-    ],
-    "movies": [
-      {
-        "title": "State Fair",
-        "tmdb_id": 52517,
-        "imdb_id": "tt0024610"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1932/33",
-    "nominees": [
-      "Robert Lord"
-    ],
-    "movies": [
-      {
-        "title": "One Way Passage",
-        "tmdb_id": 13634,
-        "imdb_id": "tt0023305"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1932/33",
-    "nominees": [
-      "Frances Marion"
-    ],
-    "movies": [
-      {
-        "title": "The Prizefighter and the Lady",
-        "tmdb_id": 95854,
-        "imdb_id": "tt0024475"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1932/33",
-    "nominees": [
-      "Charles MacArthur"
-    ],
-    "movies": [
-      {
-        "title": "Rasputin and the Empress",
-        "tmdb_id": 43132,
-        "imdb_id": "tt0023374"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1932/33",
-    "nominees": [
-      "Three Little Pigs"
-    ],
-    "movies": [
-      {
-        "title": "Three Little Pigs",
-        "tmdb_id": 34463,
-        "imdb_id": "tt0024660"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1932/33",
-    "nominees": [
-      "Building a Building"
-    ],
-    "movies": [
-      {
-        "title": "Building a Building",
-        "tmdb_id": 161836,
-        "imdb_id": "tt0023854"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1932/33",
-    "nominees": [
-      "The Merry Old Soul"
-    ],
-    "movies": [
-      {
-        "title": "The Merry Old Soul",
-        "tmdb_id": 87951,
-        "imdb_id": "tt0142655"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1932/33",
-    "nominees": [
-      "So This Is Harris!"
-    ],
-    "movies": [
-      {
-        "title": "So This Is Harris!",
-        "tmdb_id": 233638,
-        "imdb_id": "tt0024580"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1932/33",
-    "nominees": [
-      "Mister Mugg"
-    ],
-    "movies": [
-      {
-        "title": "Mister Mugg",
-        "tmdb_id": 233641,
-        "imdb_id": "tt0024342"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1932/33",
-    "nominees": [
-      "A Preferred List"
-    ],
-    "movies": [
-      {
-        "title": "A Preferred List",
-        "tmdb_id": 233642,
-        "imdb_id": "tt0024467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1932/33",
-    "nominees": [
-      "Krakatoa"
-    ],
-    "movies": [
-      {
-        "title": "Krakatoa",
-        "tmdb_id": 233644,
-        "imdb_id": "tt0024231"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1932/33",
-    "nominees": [
-      "Menu"
-    ],
-    "movies": [
-      {
-        "title": "Menu",
-        "tmdb_id": 165509,
-        "imdb_id": "tt0024327"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1932/33",
-    "nominees": [
-      "The Sea"
-    ],
-    "movies": [
-      {
-        "title": "The Sea",
-        "tmdb_id": 561320,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1932/33",
-    "nominees": [
-      "William S. Darling",
-      "Frederic Hope"
-    ],
-    "movies": [
-      {
-        "title": "Cavalcade",
-        "tmdb_id": 56164,
-        "imdb_id": "tt0023876"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1932/33",
-    "nominees": [
-      "Hans Dreier",
-      "Roland Anderson"
-    ],
-    "movies": [
-      {
-        "title": "A Farewell to Arms",
-        "tmdb_id": 22649,
-        "imdb_id": "tt0022879"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1932/33",
-    "nominees": [
-      "Cedric Gibbons"
-    ],
-    "movies": [
-      {
-        "title": "When Ladies Meet",
-        "tmdb_id": 175035,
-        "imdb_id": "tt0024763"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1932/33",
-    "nominees": [
-      "Charles Lang"
-    ],
-    "movies": [
-      {
-        "title": "A Farewell to Arms",
-        "tmdb_id": 22649,
-        "imdb_id": "tt0022879"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1932/33",
-    "nominees": [
-      "George J. Folsey"
-    ],
-    "movies": [
-      {
-        "title": "Reunion in Vienna",
-        "tmdb_id": 174116,
-        "imdb_id": "tt0024496"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1932/33",
-    "nominees": [
-      "Karl Struss"
-    ],
-    "movies": [
-      {
-        "title": "The Sign of the Cross",
-        "tmdb_id": 50070,
-        "imdb_id": "tt0023470"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1932/33",
-    "nominees": [
-      "Franklin Hansen"
-    ],
-    "movies": [
-      {
-        "title": "A Farewell to Arms",
-        "tmdb_id": 22649,
-        "imdb_id": "tt0022879"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1932/33",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "42nd Street",
-        "tmdb_id": 3062,
-        "imdb_id": "tt0024034"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1932/33",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "Gold Diggers of 1933",
-        "tmdb_id": 31511,
-        "imdb_id": "tt0024069"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1932/33",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "I Am a Fugitive from a Chain Gang",
-        "tmdb_id": 29740,
-        "imdb_id": "tt0023042"
-      }
-    ],
-    "won": false
-  }
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "Berkeley Square",
+        "FilmId": "tt0023794",
+        "Name": "Leslie Howard",
+        "Nominees": "Leslie Howard",
+        "NomineeIds": "nm0001366",
+        "Winner": "",
+        "Detail": "Peter Standish",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "The Private Life of Henry VIII",
+        "FilmId": "tt0024473",
+        "Name": "Charles Laughton",
+        "Nominees": "Charles Laughton",
+        "NomineeIds": "nm0001452",
+        "Winner": "True",
+        "Detail": "Henry VIII",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "I Am a Fugitive from a Chain Gang",
+        "FilmId": "tt0023042",
+        "Name": "Paul Muni",
+        "Nominees": "Paul Muni",
+        "NomineeIds": "nm0612847",
+        "Winner": "",
+        "Detail": "James Allen",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "Morning Glory",
+        "FilmId": "tt0024353",
+        "Name": "Katharine Hepburn",
+        "Nominees": "Katharine Hepburn",
+        "NomineeIds": "nm0000031",
+        "Winner": "True",
+        "Detail": "Eva Lovelace",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "Lady for a Day",
+        "FilmId": "tt0024240",
+        "Name": "May Robson",
+        "Nominees": "May Robson",
+        "NomineeIds": "nm0733480",
+        "Winner": "",
+        "Detail": "Apple Annie",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "Cavalcade",
+        "FilmId": "tt0023876",
+        "Name": "Diana Wynyard",
+        "Nominees": "Diana Wynyard",
+        "NomineeIds": "nm0944087",
+        "Winner": "",
+        "Detail": "Jane Marryot",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "Cavalcade",
+        "FilmId": "tt0023876",
+        "Name": "William S. Darling",
+        "Nominees": "William S. Darling",
+        "NomineeIds": "nm0201419",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "A Farewell to Arms",
+        "FilmId": "tt0022879",
+        "Name": "Hans Dreier, Roland Anderson",
+        "Nominees": "Hans Dreier|Roland Anderson",
+        "NomineeIds": "nm0237417|nm0027380",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "When Ladies Meet",
+        "FilmId": "tt0024763",
+        "Name": "Cedric Gibbons",
+        "Nominees": "Cedric Gibbons",
+        "NomineeIds": "nm0316539",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Percy Ikerd (Fox)",
+        "Nominees": "Percy Ikerd",
+        "NomineeIds": "nm0407503",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "William Tummel (Fox)",
+        "Nominees": "William Tummel",
+        "NomineeIds": "nm0876537",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Charles Dorian (Metro-Goldwyn-Mayer)",
+        "Nominees": "Charles Dorian",
+        "NomineeIds": "nm0233648",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Bunny Dull (Metro-Goldwyn-Mayer)",
+        "Nominees": "Bunny Dull",
+        "NomineeIds": "nm0241338",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "John S. Waters (Metro-Goldwyn-Mayer)",
+        "Nominees": "John S. Waters",
+        "NomineeIds": "nm0914112",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Charles Barton (Paramount)",
+        "Nominees": "Charles Barton",
+        "NomineeIds": "nm0059106",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Sidney S. Brod (Paramount)",
+        "Nominees": "Sidney S. Brod",
+        "NomineeIds": "nm0110762",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Arthur Jacobson (Paramount)",
+        "Nominees": "Arthur Jacobson",
+        "NomineeIds": "nm0414797",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Eddie Killey (RKO Radio)",
+        "Nominees": "Eddie Killey",
+        "NomineeIds": "nm0453245",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Dewey Starkey (RKO Radio)",
+        "Nominees": "Dewey Starkey",
+        "NomineeIds": "nm0823315",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Fred Fox (United Artists)",
+        "Nominees": "Fred Fox",
+        "NomineeIds": "nm0288995",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Benjamin Silvey (United Artists)",
+        "Nominees": "Benjamin Silvey",
+        "NomineeIds": "nm0799185",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Scott Beal (Universal)",
+        "Nominees": "Scott Beal",
+        "NomineeIds": "nm0063634",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Joe McDonough (Universal)",
+        "Nominees": "Joe McDonough",
+        "NomineeIds": "nm0568156",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "W. J. Reiter (Universal)",
+        "Nominees": "W. J. Reiter",
+        "NomineeIds": "nm0718614",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Al Alborn (Warner Bros.)",
+        "Nominees": "Al Alborn",
+        "NomineeIds": "nm0020168",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Gordon Hollingshead (Warner Bros.)",
+        "Nominees": "Gordon Hollingshead",
+        "NomineeIds": "nm0391121",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Frank X. Shaw (Warner Bros.)",
+        "Nominees": "Frank X. Shaw",
+        "NomineeIds": "nm0789719",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "A Farewell to Arms",
+        "FilmId": "tt0022879",
+        "Name": "Charles Bryant Lang, Jr.",
+        "Nominees": "Charles Bryant Lang Jr.",
+        "NomineeIds": "nm0485702",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Reunion in Vienna",
+        "FilmId": "tt0024496",
+        "Name": "George J. Folsey",
+        "Nominees": "George J. Folsey",
+        "NomineeIds": "nm0005706",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "The Sign of the Cross",
+        "FilmId": "tt0023470",
+        "Name": "Karl Struss",
+        "Nominees": "Karl Struss",
+        "NomineeIds": "nm0835365",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "Cavalcade",
+        "FilmId": "tt0023876",
+        "Name": "Frank Lloyd",
+        "Nominees": "Frank Lloyd",
+        "NomineeIds": "nm0515979",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "Lady for a Day",
+        "FilmId": "tt0024240",
+        "Name": "Frank Capra",
+        "Nominees": "Frank Capra",
+        "NomineeIds": "nm0001008",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "Little Women",
+        "FilmId": "tt0024264",
+        "Name": "George Cukor",
+        "Nominees": "George Cukor",
+        "NomineeIds": "nm0002030",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Cavalcade",
+        "FilmId": "tt0023876",
+        "Name": "Fox",
+        "Nominees": "Fox",
+        "NomineeIds": "co0028775",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "A Farewell to Arms",
+        "FilmId": "tt0022879",
+        "Name": "Paramount",
+        "Nominees": "Paramount",
+        "NomineeIds": "co0023400",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "42nd Street",
+        "FilmId": "tt0024034",
+        "Name": "Warner Bros.",
+        "Nominees": "Warner Bros.",
+        "NomineeIds": "co0080422",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "I Am a Fugitive from a Chain Gang",
+        "FilmId": "tt0023042",
+        "Name": "Warner Bros.",
+        "Nominees": "Warner Bros.",
+        "NomineeIds": "co0080422",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Lady for a Day",
+        "FilmId": "tt0024240",
+        "Name": "Columbia",
+        "Nominees": "Columbia",
+        "NomineeIds": "co0050868",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Little Women",
+        "FilmId": "tt0024264",
+        "Name": "RKO Radio",
+        "Nominees": "RKO Radio",
+        "NomineeIds": "co0041421",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "The Private Life of Henry VIII",
+        "FilmId": "tt0024473",
+        "Name": "London Films",
+        "Nominees": "London Films",
+        "NomineeIds": "co0103018",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "She Done Him Wrong",
+        "FilmId": "tt0024548",
+        "Name": "Paramount",
+        "Nominees": "Paramount",
+        "NomineeIds": "co0023400",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Smilin' Through",
+        "FilmId": "tt0023488",
+        "Name": "Metro-Goldwyn-Mayer",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "State Fair",
+        "FilmId": "tt0024610",
+        "Name": "Fox",
+        "Nominees": "Fox",
+        "NomineeIds": "co0028775",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT FILM (Animated)",
+        "Category": "SHORT SUBJECT (Cartoon)",
+        "Film": "Building a Building",
+        "FilmId": "tt0023854",
+        "Name": "Walt Disney, Producer",
+        "Nominees": "Walt Disney",
+        "NomineeIds": "nm0000370",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT FILM (Animated)",
+        "Category": "SHORT SUBJECT (Cartoon)",
+        "Film": "The Merry Old Soul",
+        "FilmId": "tt0142655",
+        "Name": "Walter Lantz, Producer",
+        "Nominees": "Walter Lantz",
+        "NomineeIds": "nm0487237",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT FILM (Animated)",
+        "Category": "SHORT SUBJECT (Cartoon)",
+        "Film": "The Three Little Pigs",
+        "FilmId": "tt0024660",
+        "Name": "Walt Disney, Producer",
+        "Nominees": "Walt Disney",
+        "NomineeIds": "nm0000370",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "Mister Mugg",
+        "FilmId": "tt0024342",
+        "Name": "Warren Doane, Producer",
+        "Nominees": "Warren Doane",
+        "NomineeIds": "nm0229553",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "A Preferred List",
+        "FilmId": "tt0024467",
+        "Name": "Louis Brock, Producer",
+        "Nominees": "Louis Brock",
+        "NomineeIds": "nm0110607",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "So This Is Harris",
+        "FilmId": "tt0024580",
+        "Name": "Louis Brock, Producer",
+        "Nominees": "Louis Brock",
+        "NomineeIds": "nm0110607",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+        "Category": "SHORT SUBJECT (Novelty)",
+        "Film": "Krakatoa",
+        "FilmId": "tt0024231",
+        "Name": "Joe Rock, Producer",
+        "Nominees": "Joe Rock",
+        "NomineeIds": "nm0734169",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+        "Category": "SHORT SUBJECT (Novelty)",
+        "Film": "Menu",
+        "FilmId": "tt0024327",
+        "Name": "Pete Smith, Producer",
+        "Nominees": "Pete Smith",
+        "NomineeIds": "nm0809570",
+        "Winner": "",
+        "Detail": "",
+        "Note": "tied for 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+        "Category": "SHORT SUBJECT (Novelty)",
+        "Film": "The Sea",
+        "FilmId": "tt0023443",
+        "Name": "Educational",
+        "Nominees": "Educational",
+        "NomineeIds": "co0015504",
+        "Winner": "",
+        "Detail": "",
+        "Note": "tied for 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "A Farewell to Arms",
+        "FilmId": "tt0022879",
+        "Name": "Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",
+        "Nominees": "Paramount|Franklin B. Hansen",
+        "NomineeIds": "co0023400|nm0360630",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "42nd Street",
+        "FilmId": "tt0024034",
+        "Name": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+        "Nominees": "Warner Bros.|Nathan Levinson",
+        "NomineeIds": "co0080422|nm0506080",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "Gold Diggers of 1933",
+        "FilmId": "tt0024069",
+        "Name": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+        "Nominees": "Warner Bros.|Nathan Levinson",
+        "NomineeIds": "co0080422|nm0506080",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "I Am a Fugitive from a Chain Gang",
+        "FilmId": "tt0023042",
+        "Name": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+        "Nominees": "Warner Bros.|Nathan Levinson",
+        "NomineeIds": "co0080422|nm0506080",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Lady for a Day",
+        "FilmId": "tt0024240",
+        "Name": "Robert Riskin",
+        "Nominees": "Robert Riskin",
+        "NomineeIds": "nm0728307",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Little Women",
+        "FilmId": "tt0024264",
+        "Name": "Victor Heerman, Sarah Y. Mason",
+        "Nominees": "Victor Heerman|Sarah Y. Mason",
+        "NomineeIds": "nm0373511|nm0556945",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "State Fair",
+        "FilmId": "tt0024610",
+        "Name": "Paul Green, Sonya Levien",
+        "Nominees": "Paul Green|Sonya Levien",
+        "NomineeIds": "nm0338233|nm0397022",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "One Way Passage",
+        "FilmId": "tt0023305",
+        "Name": "Robert Lord",
+        "Nominees": "Robert Lord",
+        "NomineeIds": "nm0520501",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "The Prizefighter and the Lady",
+        "FilmId": "tt0024475",
+        "Name": "Frances Marion",
+        "Nominees": "Frances Marion",
+        "NomineeIds": "nm0547966",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "Rasputin and the Empress",
+        "FilmId": "tt0023374",
+        "Name": "Charles MacArthur",
+        "Nominees": "Charles MacArthur",
+        "NomineeIds": "nm0531269",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Electrical Research Products",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Sound",
+        "Note": "",
+        "Citation": "To ELECTRICAL RESEARCH PRODUCTS, INC. for their wide range recording and reproducing system."
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Rca-Victor Company Inc.",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Sound",
+        "Note": "",
+        "Citation": "To RCA-VICTOR COMPANY, INC. for their high-fidelity recording and reproducing system."
+    },
+    {
+        "Ceremony": 6,
+        "Year": "1932/33",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Fox Film Corporation|FRED JACKMAN|WARNER BROS. PICTURES INC.|SIDNEY SANDERS",
+        "NomineeIds": "?|nm0413164|?|?",
+        "Winner": "True",
+        "Detail": "Special Photographic",
+        "Note": "",
+        "Citation": "To FOX FILM CORPORATION, FRED JACKMAN and WARNER BROS. PICTURES, INC., and SIDNEY SANDERS of RKO Studios, Inc., for their development and effective use of the translucent cellulose screen in composite photography."
+    }
 ]

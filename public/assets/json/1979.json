@@ -1,1669 +1,1986 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1979",
-    "nominees": [
-      "Kramer vs. Kramer"
-    ],
-    "movies": [
-      {
-        "title": "Kramer vs. Kramer",
-        "tmdb_id": 12102,
-        "imdb_id": "tt0079417"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1979",
-    "nominees": [
-      "All that Jazz"
-    ],
-    "movies": [
-      {
-        "title": "All That Jazz",
-        "tmdb_id": 16858,
-        "imdb_id": "tt0078754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1979",
-    "nominees": [
-      "Apocalypse Now"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypse Now",
-        "tmdb_id": 28,
-        "imdb_id": "tt0078788"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1979",
-    "nominees": [
-      "Breaking Away"
-    ],
-    "movies": [
-      {
-        "title": "Breaking Away",
-        "tmdb_id": 20283,
-        "imdb_id": "tt0078902"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1979",
-    "nominees": [
-      "Norma Rae"
-    ],
-    "movies": [
-      {
-        "title": "Norma Rae",
-        "tmdb_id": 40842,
-        "imdb_id": "tt0079638"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1979",
-    "nominees": [
-      "Dustin Hoffman"
-    ],
-    "movies": [
-      {
-        "title": "Kramer vs. Kramer",
-        "tmdb_id": 12102,
-        "imdb_id": "tt0079417"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1979",
-    "nominees": [
-      "Jack Lemmon"
-    ],
-    "movies": [
-      {
-        "title": "The China Syndrome",
-        "tmdb_id": 988,
-        "imdb_id": "tt0078966"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1979",
-    "nominees": [
-      "Al Pacino"
-    ],
-    "movies": [
-      {
-        "title": "...And Justice for All",
-        "tmdb_id": 17443,
-        "imdb_id": "tt0078718"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1979",
-    "nominees": [
-      "Roy Scheider"
-    ],
-    "movies": [
-      {
-        "title": "All That Jazz",
-        "tmdb_id": 16858,
-        "imdb_id": "tt0078754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1979",
-    "nominees": [
-      "Peter Sellers"
-    ],
-    "movies": [
-      {
-        "title": "Being There",
-        "tmdb_id": 10322,
-        "imdb_id": "tt0078841"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1979",
-    "nominees": [
-      "Sally Field"
-    ],
-    "movies": [
-      {
-        "title": "Norma Rae",
-        "tmdb_id": 40842,
-        "imdb_id": "tt0079638"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1979",
-    "nominees": [
-      "Jill Clayburgh"
-    ],
-    "movies": [
-      {
-        "title": "Starting Over",
-        "tmdb_id": 54663,
-        "imdb_id": "tt0079948"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1979",
-    "nominees": [
-      "Jane Fonda"
-    ],
-    "movies": [
-      {
-        "title": "The China Syndrome",
-        "tmdb_id": 988,
-        "imdb_id": "tt0078966"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1979",
-    "nominees": [
-      "Marsha Mason"
-    ],
-    "movies": [
-      {
-        "title": "Chapter Two",
-        "tmdb_id": 42168,
-        "imdb_id": "tt0078952"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1979",
-    "nominees": [
-      "Bette Midler"
-    ],
-    "movies": [
-      {
-        "title": "The Rose",
-        "tmdb_id": 16323,
-        "imdb_id": "tt0079826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1979",
-    "nominees": [
-      "Melvyn Douglas"
-    ],
-    "movies": [
-      {
-        "title": "Being There",
-        "tmdb_id": 10322,
-        "imdb_id": "tt0078841"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1979",
-    "nominees": [
-      "Robert Duvall"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypse Now",
-        "tmdb_id": 28,
-        "imdb_id": "tt0078788"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1979",
-    "nominees": [
-      "Frederic Forrest"
-    ],
-    "movies": [
-      {
-        "title": "The Rose",
-        "tmdb_id": 16323,
-        "imdb_id": "tt0079826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1979",
-    "nominees": [
-      "Justin Henry"
-    ],
-    "movies": [
-      {
-        "title": "Kramer vs. Kramer",
-        "tmdb_id": 12102,
-        "imdb_id": "tt0079417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1979",
-    "nominees": [
-      "Mickey Rooney"
-    ],
-    "movies": [
-      {
-        "title": "The Black Stallion",
-        "tmdb_id": 17264,
-        "imdb_id": "tt0078872"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1979",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "Kramer vs. Kramer",
-        "tmdb_id": 12102,
-        "imdb_id": "tt0079417"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1979",
-    "nominees": [
-      "Jane Alexander"
-    ],
-    "movies": [
-      {
-        "title": "Kramer vs. Kramer",
-        "tmdb_id": 12102,
-        "imdb_id": "tt0079417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1979",
-    "nominees": [
-      "Barbara Barrie"
-    ],
-    "movies": [
-      {
-        "title": "Breaking Away",
-        "tmdb_id": 20283,
-        "imdb_id": "tt0078902"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1979",
-    "nominees": [
-      "Candice Bergen"
-    ],
-    "movies": [
-      {
-        "title": "Starting Over",
-        "tmdb_id": 54663,
-        "imdb_id": "tt0079948"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1979",
-    "nominees": [
-      "Mariel Hemingway"
-    ],
-    "movies": [
-      {
-        "title": "Manhattan",
-        "tmdb_id": 696,
-        "imdb_id": "tt0079522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1979",
-    "nominees": [
-      "Robert Benton"
-    ],
-    "movies": [
-      {
-        "title": "Kramer vs. Kramer",
-        "tmdb_id": 12102,
-        "imdb_id": "tt0079417"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1979",
-    "nominees": [
-      "Bob Fosse"
-    ],
-    "movies": [
-      {
-        "title": "All That Jazz",
-        "tmdb_id": 16858,
-        "imdb_id": "tt0078754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1979",
-    "nominees": [
-      "Francis Ford Coppola"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypse Now",
-        "tmdb_id": 28,
-        "imdb_id": "tt0078788"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1979",
-    "nominees": [
-      "Peter Yates"
-    ],
-    "movies": [
-      {
-        "title": "Breaking Away",
-        "tmdb_id": 20283,
-        "imdb_id": "tt0078902"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1979",
-    "nominees": [
-      "Edouard Molinaro"
-    ],
-    "movies": [
-      {
-        "title": "La Cage aux Folles",
-        "tmdb_id": 4484,
-        "imdb_id": "tt0077288"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Robert Benton"
-    ],
-    "movies": [
-      {
-        "title": "Kramer vs. Kramer",
-        "tmdb_id": 12102,
-        "imdb_id": "tt0079417"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Francis Ford Coppola",
-      "John Milius"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypse Now",
-        "tmdb_id": 28,
-        "imdb_id": "tt0078788"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Francis Veber",
-      "Marcello Danon",
-      "Edouard Molinaro",
-      "Jean Poiret"
-    ],
-    "movies": [
-      {
-        "title": "La Cage aux Folles",
-        "tmdb_id": 4484,
-        "imdb_id": "tt0077288"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Allan Burns"
-    ],
-    "movies": [
-      {
-        "title": "A Little Romance",
-        "tmdb_id": 20813,
-        "imdb_id": "tt0079477"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Irving Ravetch",
-      "Harriet Frank Jr."
-    ],
-    "movies": [
-      {
-        "title": "Norma Rae",
-        "tmdb_id": 40842,
-        "imdb_id": "tt0079638"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Steve Tesich"
-    ],
-    "movies": [
-      {
-        "title": "Breaking Away",
-        "tmdb_id": 20283,
-        "imdb_id": "tt0078902"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Valerie Curtin",
-      "Barry Levinson"
-    ],
-    "movies": [
-      {
-        "title": "...And Justice for All",
-        "tmdb_id": 17443,
-        "imdb_id": "tt0078718"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Robert Alan Aurthur",
-      "Bob Fosse"
-    ],
-    "movies": [
-      {
-        "title": "All That Jazz",
-        "tmdb_id": 16858,
-        "imdb_id": "tt0078754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Mike Gray",
-      "T.S. Cook",
-      "James Bridges"
-    ],
-    "movies": [
-      {
-        "title": "The China Syndrome",
-        "tmdb_id": 988,
-        "imdb_id": "tt0078966"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1979",
-    "nominees": [
-      "Woody Allen",
-      "Marshall Brickman"
-    ],
-    "movies": [
-      {
-        "title": "Manhattan",
-        "tmdb_id": 696,
-        "imdb_id": "tt0079522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1979",
-    "nominees": [
-      "Georges Delerue"
-    ],
-    "movies": [
-      {
-        "title": "A Little Romance",
-        "tmdb_id": 20813,
-        "imdb_id": "tt0079477"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1979",
-    "nominees": [
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek: The Motion Picture",
-        "tmdb_id": 152,
-        "imdb_id": "tt0079945"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1979",
-    "nominees": [
-      "Dave Grusin"
-    ],
-    "movies": [
-      {
-        "title": "The Champ",
-        "tmdb_id": 30547,
-        "imdb_id": "tt0078950"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1979",
-    "nominees": [
-      "Henry Mancini"
-    ],
-    "movies": [
-      {
-        "title": "10",
-        "tmdb_id": 9051,
-        "imdb_id": "tt0078721"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1979",
-    "nominees": [
-      "Lalo Schifrin"
-    ],
-    "movies": [
-      {
-        "title": "The Amityville Horror",
-        "tmdb_id": 11449,
-        "imdb_id": "tt0078767"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1979",
-    "nominees": [
-      "Ralph Burns"
-    ],
-    "movies": [
-      {
-        "title": "All That Jazz",
-        "tmdb_id": 16858,
-        "imdb_id": "tt0078754"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1979",
-    "nominees": [
-      "Patrick Williams"
-    ],
-    "movies": [
-      {
-        "title": "Breaking Away",
-        "tmdb_id": 20283,
-        "imdb_id": "tt0078902"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1979",
-    "nominees": [
-      "Paul Williams",
-      "Kenny Ascher"
-    ],
-    "movies": [
-      {
-        "title": "The Muppet Movie",
-        "tmdb_id": 11176,
-        "imdb_id": "tt0079588"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1979",
-    "nominees": [
-      "It Goes Like It Goes"
-    ],
-    "movies": [
-      {
-        "title": "Norma Rae",
-        "tmdb_id": 40842,
-        "imdb_id": "tt0079638"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1979",
-    "nominees": [
-      "I'll Never Say Goodbye"
-    ],
-    "movies": [
-      {
-        "title": "The Promise",
-        "tmdb_id": 109251,
-        "imdb_id": "tt0079756"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1979",
-    "nominees": [
-      "It's Easy to Say"
-    ],
-    "movies": [
-      {
-        "title": "10",
-        "tmdb_id": 9051,
-        "imdb_id": "tt0078721"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1979",
-    "nominees": [
-      "Rainbow Connection"
-    ],
-    "movies": [
-      {
-        "title": "The Muppet Movie",
-        "tmdb_id": 11176,
-        "imdb_id": "tt0079588"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1979",
-    "nominees": [
-      "Through the Eyes of Love"
-    ],
-    "movies": [
-      {
-        "title": "Ice Castles",
-        "tmdb_id": 50541,
-        "imdb_id": "tt0077716"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1979",
-    "nominees": [
-      "The Tin Drum"
-    ],
-    "movies": [
-      {
-        "title": "The Tin Drum",
-        "tmdb_id": 659,
-        "imdb_id": "tt0078875"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1979",
-    "nominees": [
-      "The Maids of Wilko"
-    ],
-    "movies": [
-      {
-        "title": "The Maids of Wilko",
-        "tmdb_id": 117483,
-        "imdb_id": "tt0079696"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1979",
-    "nominees": [
-      "Mama Turns 100"
-    ],
-    "movies": [
-      {
-        "title": "Mama Turns 100",
-        "tmdb_id": 107288,
-        "imdb_id": "tt0079517"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1979",
-    "nominees": [
-      "A Simple Story"
-    ],
-    "movies": [
-      {
-        "title": "A Simple Story",
-        "tmdb_id": 3425,
-        "imdb_id": "tt0075975"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1979",
-    "nominees": [
-      "To Forget Venice"
-    ],
-    "movies": [
-      {
-        "title": "To Forget Venice",
-        "tmdb_id": 75748,
-        "imdb_id": "tt0079054"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1979",
-    "nominees": [
-      "Best Boy"
-    ],
-    "movies": [
-      {
-        "title": "Best Boy",
-        "tmdb_id": 42165,
-        "imdb_id": "tt0078850"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1979",
-    "nominees": [
-      "Generation on the Wind"
-    ],
-    "movies": [
-      {
-        "title": "Generation on the Wind",
-        "tmdb_id": 149356,
-        "imdb_id": "tt0079201"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1979",
-    "nominees": [
-      "Going the Distance"
-    ],
-    "movies": [
-      {
-        "title": "Going the Distance",
-        "tmdb_id": 149358,
-        "imdb_id": "tt0079220"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1979",
-    "nominees": [
-      "The Killing Ground"
-    ],
-    "movies": [
-      {
-        "title": "The Killing Ground",
-        "tmdb_id": 149360,
-        "imdb_id": "tt0079402"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1979",
-    "nominees": [
-      "The War at Home"
-    ],
-    "movies": [
-      {
-        "title": "The War at Home",
-        "tmdb_id": 149362,
-        "imdb_id": "tt0080118"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1979",
-    "nominees": [
-      "Paul Robeson: Tribute to an Artist"
-    ],
-    "movies": [
-      {
-        "title": "Paul Robeson: Tribute to an Artist",
-        "tmdb_id": 113745,
-        "imdb_id": "tt0079704"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1979",
-    "nominees": [
-      "Mother"
-    ],
-    "movies": [
-      {
-        "title": "Mother",
-        "tmdb_id": 244358,
-        "imdb_id": "tt0079022"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1979",
-    "nominees": [
-      "Koryo Celadon"
-    ],
-    "movies": [
-      {
-        "title": "Koryo Celadon",
-        "tmdb_id": 244359,
-        "imdb_id": "tt0079414"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1979",
-    "nominees": [
-      "Nails"
-    ],
-    "movies": [
-      {
-        "title": "Nails",
-        "tmdb_id": 244361,
-        "imdb_id": "tt0079608"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1979",
-    "nominees": [
-      "Remember Me"
-    ],
-    "movies": [
-      {
-        "title": "Remember Me",
-        "tmdb_id": 244355,
-        "imdb_id": "tt0079791"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1979",
-    "nominees": [
-      "Every Child"
-    ],
-    "movies": [
-      {
-        "title": "Every Child",
-        "tmdb_id": 48274,
-        "imdb_id": "tt0079126"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1979",
-    "nominees": [
-      "Dream Doll"
-    ],
-    "movies": [
-      {
-        "title": "Dream Doll",
-        "tmdb_id": 220987,
-        "imdb_id": "tt0079079"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1979",
-    "nominees": [
-      "It's So Nice to Have a Wolf Around the House"
-    ],
-    "movies": [
-      {
-        "title": "It's So Nice to Have a Wolf Around the House",
-        "tmdb_id": 178354,
-        "imdb_id": "tt0079354"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1979",
-    "nominees": [
-      "Board and Care"
-    ],
-    "movies": [
-      {
-        "title": "Board and Care",
-        "tmdb_id": 244350,
-        "imdb_id": "tt0078885"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1979",
-    "nominees": [
-      "Bravery in the Field"
-    ],
-    "movies": [
-      {
-        "title": "Bravery in the Field",
-        "tmdb_id": 244351,
-        "imdb_id": "tt0078900"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1979",
-    "nominees": [
-      "Oh Brother, My Brother"
-    ],
-    "movies": [
-      {
-        "title": "Oh Brother, My Brother",
-        "tmdb_id": 244352,
-        "imdb_id": "tt0079656"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1979",
-    "nominees": [
-      "The Solar Film"
-    ],
-    "movies": [
-      {
-        "title": "The Solar Film",
-        "tmdb_id": 208005,
-        "imdb_id": "tt0083104"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1979",
-    "nominees": [
-      "Solly’s Diner"
-    ],
-    "movies": [
-      {
-        "title": "Solly’s Diner",
-        "tmdb_id": 244353,
-        "imdb_id": "tt0079923"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "Philip Rosenberg",
-      "Tony Walton",
-      "Edward Stewart",
-      "Gary Bring"
-    ],
-    "movies": [
-      {
-        "title": "All That Jazz",
-        "tmdb_id": 16858,
-        "imdb_id": "tt0078754"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "George Jenkins",
-      "Arthur Jeph Parker"
-    ],
-    "movies": [
-      {
-        "title": "The China Syndrome",
-        "tmdb_id": 988,
-        "imdb_id": "tt0078966"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "Harold Michelson",
-      "Joe Jennings",
-      "Leon Harris",
-      "John Vallone",
-      "Linda Descenna"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek: The Motion Picture",
-        "tmdb_id": 152,
-        "imdb_id": "tt0079945"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "Michael Seymour",
-      "Les Dilley",
-      "Roger Christian",
-      "Ian Whittaker"
-    ],
-    "movies": [
-      {
-        "title": "Alien",
-        "tmdb_id": 348,
-        "imdb_id": "tt0078748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "Dean Tavoularis",
-      "Angelo Graham",
-      "George R. Nelson"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypse Now",
-        "tmdb_id": 28,
-        "imdb_id": "tt0078788"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1979",
-    "nominees": [
-      "Vittorio Storaro"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypse Now",
-        "tmdb_id": 28,
-        "imdb_id": "tt0078788"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1979",
-    "nominees": [
-      "Nestor Almendros"
-    ],
-    "movies": [
-      {
-        "title": "Kramer vs. Kramer",
-        "tmdb_id": 12102,
-        "imdb_id": "tt0079417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1979",
-    "nominees": [
-      "William A. Fraker"
-    ],
-    "movies": [
-      {
-        "title": "1941",
-        "tmdb_id": 11519,
-        "imdb_id": "tt0078723"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1979",
-    "nominees": [
-      "Frank Phillips"
-    ],
-    "movies": [
-      {
-        "title": "The Black Hole",
-        "tmdb_id": 9570,
-        "imdb_id": "tt0078869"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1979",
-    "nominees": [
-      "Giuseppe Rotunno"
-    ],
-    "movies": [
-      {
-        "title": "All That Jazz",
-        "tmdb_id": 16858,
-        "imdb_id": "tt0078754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1979",
-    "nominees": [
-      "Alan Heim"
-    ],
-    "movies": [
-      {
-        "title": "All That Jazz",
-        "tmdb_id": 16858,
-        "imdb_id": "tt0078754"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1979",
-    "nominees": [
-      "Robert Dalva"
-    ],
-    "movies": [
-      {
-        "title": "The Black Stallion",
-        "tmdb_id": 17264,
-        "imdb_id": "tt0078872"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1979",
-    "nominees": [
-      "Richard Marx",
-      "Walter Murch",
-      "Gerald B. Greenberg",
-      "Lisa Fruchtman"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypse Now",
-        "tmdb_id": 28,
-        "imdb_id": "tt0078788"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1979",
-    "nominees": [
-      "Jerry Greenberg"
-    ],
-    "movies": [
-      {
-        "title": "Kramer vs. Kramer",
-        "tmdb_id": 12102,
-        "imdb_id": "tt0079417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1979",
-    "nominees": [
-      "Robert L. Wolfe",
-      "C. Timothy O'Meara"
-    ],
-    "movies": [
-      {
-        "title": "The Rose",
-        "tmdb_id": 16323,
-        "imdb_id": "tt0079826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1979",
-    "nominees": [
-      "H. R. Giger",
-      "Carlo Rambaldi",
-      "Brian Johnson",
-      "Nick Allder",
-      "Dennis Ayling"
-    ],
-    "movies": [
-      {
-        "title": "Alien",
-        "tmdb_id": 348,
-        "imdb_id": "tt0078748"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1979",
-    "nominees": [
-      "Peter Ellenshaw",
-      "Art Cruickshank",
-      "Eustace Lycett",
-      "Danny Lee",
-      "Harrison Ellenshaw",
-      "Joe Hale"
-    ],
-    "movies": [
-      {
-        "title": "The Black Hole",
-        "tmdb_id": 9570,
-        "imdb_id": "tt0078869"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1979",
-    "nominees": [
-      "William A. Fraker",
-      "A. D. Flowers",
-      "Gregory Jein"
-    ],
-    "movies": [
-      {
-        "title": "1941",
-        "tmdb_id": 11519,
-        "imdb_id": "tt0078723"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1979",
-    "nominees": [
-      "Derek Meddings",
-      "Paul Wilson",
-      "John Evans"
-    ],
-    "movies": [
-      {
-        "title": "Moonraker",
-        "tmdb_id": 698,
-        "imdb_id": "tt0079574"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1979",
-    "nominees": [
-      "Douglas Trumbull",
-      "John Dykstra",
-      "Richard Yuricich",
-      "Robert Swarthe",
-      "David K. Stewart",
-      "Grant McCune"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek: The Motion Picture",
-        "tmdb_id": 152,
-        "imdb_id": "tt0079945"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1979",
-    "nominees": [
-      "Walter Murch",
-      "Mark Berger",
-      "Richard Beggs",
-      "Nat Boxer"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypse Now",
-        "tmdb_id": 28,
-        "imdb_id": "tt0078788"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1979",
-    "nominees": [
-      "Arthur Piantadosi",
-      "Les Frescholtz",
-      "Michael Minkler",
-      "Al Overton Jr."
-    ],
-    "movies": [
-      {
-        "title": "The Electric Horseman",
-        "tmdb_id": 11145,
-        "imdb_id": "tt0079100"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1979",
-    "nominees": [
-      "William McCaughey",
-      "Aaron Rochin",
-      "Michael J. Kohut",
-      "Jack Solomon"
-    ],
-    "movies": [
-      {
-        "title": "Meteor",
-        "tmdb_id": 40160,
-        "imdb_id": "tt0079550"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1979",
-    "nominees": [
-      "Robert Knudson",
-      "Robert Glass",
-      "Don MacDougall",
-      "Gene Cantamessa"
-    ],
-    "movies": [
-      {
-        "title": "1941",
-        "tmdb_id": 11519,
-        "imdb_id": "tt0078723"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1979",
-    "nominees": [
-      "Theodore Soderberg",
-      "Douglas O. Williams",
-      "Paul Wells",
-      "Jim Webb"
-    ],
-    "movies": [
-      {
-        "title": "The Rose",
-        "tmdb_id": 16323,
-        "imdb_id": "tt0079826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1979",
-    "nominees": [
-      "Alan Splet"
-    ],
-    "movies": [
-      {
-        "title": "The Black Stallion",
-        "tmdb_id": 17264,
-        "imdb_id": "tt0078872"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "Albert Wolsky"
-    ],
-    "movies": [
-      {
-        "title": "All That Jazz",
-        "tmdb_id": 16858,
-        "imdb_id": "tt0078754"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "Judy Moorcroft"
-    ],
-    "movies": [
-      {
-        "title": "The Europeans",
-        "tmdb_id": 42175,
-        "imdb_id": "tt0079123"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "Shirley Russell"
-    ],
-    "movies": [
-      {
-        "title": "Agatha",
-        "tmdb_id": 31200,
-        "imdb_id": "tt0078736"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "William Ware Theiss"
-    ],
-    "movies": [
-      {
-        "title": "Butch and Sundance: The Early Days",
-        "tmdb_id": 37598,
-        "imdb_id": "tt0078919"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1979",
-    "nominees": [
-      "Piero Tosi",
-      "Ambra Danon"
-    ],
-    "movies": [
-      {
-        "title": "La Cage aux Folles",
-        "tmdb_id": 4484,
-        "imdb_id": "tt0077288"
-      }
-    ],
-    "won": false
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Kramer vs. Kramer",
+    "FilmId": "tt0079417",
+    "Name": "Dustin Hoffman",
+    "Nominees": "Dustin Hoffman",
+    "NomineeIds": "nm0000163",
+    "Winner": "True",
+    "Detail": "Ted Kramer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The China Syndrome",
+    "FilmId": "tt0078966",
+    "Name": "Jack Lemmon",
+    "Nominees": "Jack Lemmon",
+    "NomineeIds": "nm0000493",
+    "Winner": "",
+    "Detail": "Jack Godell",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "...And Justice for All",
+    "FilmId": "tt0078718",
+    "Name": "Al Pacino",
+    "Nominees": "Al Pacino",
+    "NomineeIds": "nm0000199",
+    "Winner": "",
+    "Detail": "Arthur Kirkland",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "All That Jazz",
+    "FilmId": "tt0078754",
+    "Name": "Roy Scheider",
+    "Nominees": "Roy Scheider",
+    "NomineeIds": "nm0001702",
+    "Winner": "",
+    "Detail": "Joe Gideon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Being There",
+    "FilmId": "tt0078841",
+    "Name": "Peter Sellers",
+    "Nominees": "Peter Sellers",
+    "NomineeIds": "nm0000634",
+    "Winner": "",
+    "Detail": "John Chance, the gardener (aka Chauncey Gardiner)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Being There",
+    "FilmId": "tt0078841",
+    "Name": "Melvyn Douglas",
+    "Nominees": "Melvyn Douglas",
+    "NomineeIds": "nm0002048",
+    "Winner": "True",
+    "Detail": "Benjamin Rand",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Apocalypse Now",
+    "FilmId": "tt0078788",
+    "Name": "Robert Duvall",
+    "Nominees": "Robert Duvall",
+    "NomineeIds": "nm0000380",
+    "Winner": "",
+    "Detail": "Lieutenant Colonel Kilgore",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Rose",
+    "FilmId": "tt0079826",
+    "Name": "Frederic Forrest",
+    "Nominees": "Frederic Forrest",
+    "NomineeIds": "nm0002078",
+    "Winner": "",
+    "Detail": "Dyer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Kramer vs. Kramer",
+    "FilmId": "tt0079417",
+    "Name": "Justin Henry",
+    "Nominees": "Justin Henry",
+    "NomineeIds": "nm0377888",
+    "Winner": "",
+    "Detail": "Billy Kramer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Black Stallion",
+    "FilmId": "tt0078872",
+    "Name": "Mickey Rooney",
+    "Nominees": "Mickey Rooney",
+    "NomineeIds": "nm0001682",
+    "Winner": "",
+    "Detail": "Henry Dailey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Starting Over",
+    "FilmId": "tt0079948",
+    "Name": "Jill Clayburgh",
+    "Nominees": "Jill Clayburgh",
+    "NomineeIds": "nm0001049",
+    "Winner": "",
+    "Detail": "Marilyn Homberg",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Norma Rae",
+    "FilmId": "tt0079638",
+    "Name": "Sally Field",
+    "Nominees": "Sally Field",
+    "NomineeIds": "nm0000398",
+    "Winner": "True",
+    "Detail": "Norma Rae",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The China Syndrome",
+    "FilmId": "tt0078966",
+    "Name": "Jane Fonda",
+    "Nominees": "Jane Fonda",
+    "NomineeIds": "nm0000404",
+    "Winner": "",
+    "Detail": "Kimberly Wells",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Chapter Two",
+    "FilmId": "tt0078952",
+    "Name": "Marsha Mason",
+    "Nominees": "Marsha Mason",
+    "NomineeIds": "nm0556850",
+    "Winner": "",
+    "Detail": "Jennie MacLaine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Rose",
+    "FilmId": "tt0079826",
+    "Name": "Bette Midler",
+    "Nominees": "Bette Midler",
+    "NomineeIds": "nm0000541",
+    "Winner": "",
+    "Detail": "Rose",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Kramer vs. Kramer",
+    "FilmId": "tt0079417",
+    "Name": "Jane Alexander",
+    "Nominees": "Jane Alexander",
+    "NomineeIds": "nm0000737",
+    "Winner": "",
+    "Detail": "Margaret Phelps",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Breaking Away",
+    "FilmId": "tt0078902",
+    "Name": "Barbara Barrie",
+    "Nominees": "Barbara Barrie",
+    "NomineeIds": "nm0057363",
+    "Winner": "",
+    "Detail": "Mrs. Stohler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Starting Over",
+    "FilmId": "tt0079948",
+    "Name": "Candice Bergen",
+    "Nominees": "Candice Bergen",
+    "NomineeIds": "nm0000298",
+    "Winner": "",
+    "Detail": "Jessica Potter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Manhattan",
+    "FilmId": "tt0079522",
+    "Name": "Mariel Hemingway",
+    "Nominees": "Mariel Hemingway",
+    "NomineeIds": "nm0000446",
+    "Winner": "",
+    "Detail": "Tracy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Kramer vs. Kramer",
+    "FilmId": "tt0079417",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "True",
+    "Detail": "Joanna Kramer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Alien",
+    "FilmId": "tt0078748",
+    "Name": "Art Direction: Michael Seymour, Les Dilley, Roger Christian; Set Decoration: Ian Whittaker",
+    "Nominees": "Michael Seymour|Les Dilley|Roger Christian|Ian Whittaker",
+    "NomineeIds": "nm0786854|nm0226896|nm0002337|nm0926434",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "All That Jazz",
+    "FilmId": "tt0078754",
+    "Name": "Art Direction: Philip Rosenberg, Tony Walton; Set Decoration: Edward Stewart, Gary Brink",
+    "Nominees": "Philip Rosenberg|Tony Walton|Edward Stewart|Gary Brink",
+    "NomineeIds": "nm0742303|nm0910589|nm0829357|nm0109549",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Apocalypse Now",
+    "FilmId": "tt0078788",
+    "Name": "Art Direction: Dean Tavoularis, Angelo Graham; Set Decoration: George R. Nelson",
+    "Nominees": "Dean Tavoularis|Angelo Graham|George R. Nelson",
+    "NomineeIds": "nm0851790|nm0333908|nm0625388",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The China Syndrome",
+    "FilmId": "tt0078966",
+    "Name": "Art Direction: George Jenkins; Set Decoration: Arthur Jeph Parker",
+    "Nominees": "George Jenkins|Arthur Jeph Parker",
+    "NomineeIds": "nm0420846|nm0662057",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Star Trek - The Motion Picture",
+    "FilmId": "tt0079945",
+    "Name": "Art Direction: Harold Michelson, Joe Jennings, Leon Harris, John Vallone; Set Decoration: Linda DeScenna",
+    "Nominees": "Harold Michelson|Joe Jennings|Leon Harris|John Vallone|Linda DeScenna",
+    "NomineeIds": "nm0585118|nm0421187|nm0364994|nm0885200|nm0220984",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "All That Jazz",
+    "FilmId": "tt0078754",
+    "Name": "Giuseppe Rotunno",
+    "Nominees": "Giuseppe Rotunno",
+    "NomineeIds": "nm0005850",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Apocalypse Now",
+    "FilmId": "tt0078788",
+    "Name": "Vittorio Storaro",
+    "Nominees": "Vittorio Storaro",
+    "NomineeIds": "nm0005886",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Black Hole",
+    "FilmId": "tt0078869",
+    "Name": "Frank Phillips",
+    "Nominees": "Frank Phillips",
+    "NomineeIds": "nm0680402",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Kramer vs. Kramer",
+    "FilmId": "tt0079417",
+    "Name": "Nestor Almendros",
+    "Nominees": "Nestor Almendros",
+    "NomineeIds": "nm0000743",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": 1941,
+    "FilmId": "tt0078723",
+    "Name": "William A. Fraker",
+    "Nominees": "William A. Fraker",
+    "NomineeIds": "nm0005710",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Agatha",
+    "FilmId": "tt0078736",
+    "Name": "Shirley Russell",
+    "Nominees": "Shirley Russell",
+    "NomineeIds": "nm0751455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "All That Jazz",
+    "FilmId": "tt0078754",
+    "Name": "Albert Wolsky",
+    "Nominees": "Albert Wolsky",
+    "NomineeIds": "nm0938717",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Butch and Sundance: The Early Days",
+    "FilmId": "tt0078919",
+    "Name": "William Ware Theiss",
+    "Nominees": "William Ware Theiss",
+    "NomineeIds": "nm0857377",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Europeans",
+    "FilmId": "tt0079123",
+    "Name": "Judy Moorcroft",
+    "Nominees": "Judy Moorcroft",
+    "NomineeIds": "nm0600844",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "La Cage aux Folles",
+    "FilmId": "tt0077288",
+    "Name": "Piero Tosi, Ambra Danon",
+    "Nominees": "Piero Tosi|Ambra Danon",
+    "NomineeIds": "nm0869200|nm0200464",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "All That Jazz",
+    "FilmId": "tt0078754",
+    "Name": "Bob Fosse",
+    "Nominees": "Bob Fosse",
+    "NomineeIds": "nm0002080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Apocalypse Now",
+    "FilmId": "tt0078788",
+    "Name": "Francis Coppola",
+    "Nominees": "Francis Coppola",
+    "NomineeIds": "nm0000338",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Breaking Away",
+    "FilmId": "tt0078902",
+    "Name": "Peter Yates",
+    "Nominees": "Peter Yates",
+    "NomineeIds": "nm0946811",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Kramer vs. Kramer",
+    "FilmId": "tt0079417",
+    "Name": "Robert Benton",
+    "Nominees": "Robert Benton",
+    "NomineeIds": "nm0000914",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "La Cage aux Folles",
+    "FilmId": "tt0077288",
+    "Name": "Edouard Molinaro",
+    "Nominees": "Edouard Molinaro",
+    "NomineeIds": "nm0596850",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Best Boy",
+    "FilmId": "tt0078850",
+    "Name": "Ira Wohl, Producer",
+    "Nominees": "Ira Wohl",
+    "NomineeIds": "nm0937390",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Generation on the Wind",
+    "FilmId": "tt0079201",
+    "Name": "David A. Vassar, Producer",
+    "Nominees": "David A. Vassar",
+    "NomineeIds": "nm0890774",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Going the Distance",
+    "FilmId": "tt0079220",
+    "Name": "Paul Cowan and Jacques Bobet, Producers",
+    "Nominees": "Paul Cowan|Jacques Bobet",
+    "NomineeIds": "nm0184612|nm0090369",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Killing Ground",
+    "FilmId": "tt0079402",
+    "Name": "Steve Singer and Tom Priestley, Producers",
+    "Nominees": "Steve Singer|Tom Priestley",
+    "NomineeIds": "nm0802049|nm0697373",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The War at Home",
+    "FilmId": "tt0080118",
+    "Name": "Glenn Silber and Barry Alexander Brown, Producers",
+    "Nominees": "Glenn Silber|Barry Alexander Brown",
+    "NomineeIds": "nm0797838|nm0113084",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Dae",
+    "FilmId": "tt0079022",
+    "Name": "Risto Teofilovski, Producer",
+    "Nominees": "Risto Teofilovski",
+    "NomineeIds": "nm0855258",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Koryo Celadon",
+    "FilmId": "tt0079414",
+    "Name": "Donald A. Connolly and James R. Messenger, Producers",
+    "Nominees": "Donald A. Connolly|James R. Messenger",
+    "NomineeIds": "nm0175278|nm0582032",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Nails",
+    "FilmId": "tt0079608",
+    "Name": "Phillip Borsos, Producer",
+    "Nominees": "Phillip Borsos",
+    "NomineeIds": "nm0097491",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Paul Robeson: Tribute to an Artist",
+    "FilmId": "tt0079704",
+    "Name": "Saul J. Turell, Producer",
+    "Nominees": "Saul J. Turell",
+    "NomineeIds": "nm0877020",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Remember Me",
+    "FilmId": "tt0079791",
+    "Name": "Dick Young, Producer",
+    "Nominees": "Dick Young",
+    "NomineeIds": "nm0949484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "All That Jazz",
+    "FilmId": "tt0078754",
+    "Name": "Alan Heim",
+    "Nominees": "Alan Heim",
+    "NomineeIds": "nm0374189",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Apocalypse Now",
+    "FilmId": "tt0078788",
+    "Name": "Richard Marks, Walter Murch, Gerald B. Greenberg, Lisa Fruchtman",
+    "Nominees": "Richard Marks|Walter Murch|Gerald B. Greenberg|Lisa Fruchtman",
+    "NomineeIds": "nm0548943|nm0004555|nm0338513|nm0296636",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Black Stallion",
+    "FilmId": "tt0078872",
+    "Name": "Robert Dalva",
+    "Nominees": "Robert Dalva",
+    "NomineeIds": "nm0198395",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Kramer vs. Kramer",
+    "FilmId": "tt0079417",
+    "Name": "Jerry Greenberg",
+    "Nominees": "Jerry Greenberg",
+    "NomineeIds": "nm0338513",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Rose",
+    "FilmId": "tt0079826",
+    "Name": "Robert L. Wolfe, C. Timothy O'Meara",
+    "Nominees": "Robert L. Wolfe|C. Timothy O'Meara",
+    "NomineeIds": "nm0938130|nm0641839",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Maids of Wilko",
+    "FilmId": "tt0079696",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Mama Turns a Hundred",
+    "FilmId": "tt0079517",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A Simple Story",
+    "FilmId": "tt0075975",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Tin Drum",
+    "FilmId": "tt0078875",
+    "Name": "Federal Republic of Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "To Forget Venice",
+    "FilmId": "tt0079054",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Amityville Horror",
+    "FilmId": "tt0078767",
+    "Name": "Lalo Schifrin",
+    "Nominees": "Lalo Schifrin",
+    "NomineeIds": "nm0006277",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Champ",
+    "FilmId": "tt0078950",
+    "Name": "Dave Grusin",
+    "Nominees": "Dave Grusin",
+    "NomineeIds": "nm0006115",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "A Little Romance",
+    "FilmId": "tt0079477",
+    "Name": "Georges Delerue",
+    "Nominees": "Georges Delerue",
+    "NomineeIds": "nm0000016",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Star Trek - The Motion Picture",
+    "FilmId": "tt0079945",
+    "Name": "Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": 10,
+    "FilmId": "tt0078721",
+    "Name": "Henry Mancini",
+    "Nominees": "Henry Mancini",
+    "NomineeIds": "nm0000049",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)",
+    "Film": "All That Jazz",
+    "FilmId": "tt0078754",
+    "Name": "Adaptation Score by Ralph Burns",
+    "Nominees": "Ralph Burns",
+    "NomineeIds": "nm0005985",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)",
+    "Film": "Breaking Away",
+    "FilmId": "tt0078902",
+    "Name": "Adaptation Score by Patrick Williams",
+    "Nominees": "Patrick Williams",
+    "NomineeIds": "nm0002305",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)",
+    "Film": "The Muppet Movie",
+    "FilmId": "tt0079588",
+    "Name": "Song Score by Paul Williams and Kenny Ascher; Adaptation Score by Paul Williams",
+    "Nominees": "Paul Williams|Kenny Ascher",
+    "NomineeIds": "nm0931437|nm0038502",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Promise",
+    "FilmId": "tt0079756",
+    "Name": "Music by David Shire; Lyric by Alan Bergman and Marilyn Bergman",
+    "Nominees": "David Shire|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0006288|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "I'll Never Say 'Goodbye'",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Norma Rae",
+    "FilmId": "tt0079638",
+    "Name": "Music by David Shire; Lyric by Norman Gimbel",
+    "Nominees": "David Shire|Norman Gimbel",
+    "NomineeIds": "nm0006288|nm0319757",
+    "Winner": "True",
+    "Detail": "It Goes Like It Goes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": 10,
+    "FilmId": "tt0078721",
+    "Name": "Music by Henry Mancini; Lyric by Robert Wells",
+    "Nominees": "Henry Mancini|Robert Wells",
+    "NomineeIds": "nm0000049|nm0920398",
+    "Winner": "",
+    "Detail": "It's Easy To Say",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Muppet Movie",
+    "FilmId": "tt0079588",
+    "Name": "Music and Lyric by Paul Williams and Kenny Ascher",
+    "Nominees": "Paul Williams|Kenny Ascher",
+    "NomineeIds": "nm0931437|nm0038502",
+    "Winner": "",
+    "Detail": "The Rainbow Connection",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Ice Castles",
+    "FilmId": "tt0077716",
+    "Name": "Music by Marvin Hamlisch; Lyric by Carole Bayer Sager",
+    "Nominees": "Marvin Hamlisch|Carole Bayer Sager",
+    "NomineeIds": "nm0006121|nm0004728",
+    "Winner": "",
+    "Detail": "Through The Eyes Of Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "All That Jazz",
+    "FilmId": "tt0078754",
+    "Name": "Robert Alan Aurthur, Producer",
+    "Nominees": "Robert Alan Aurthur",
+    "NomineeIds": "nm0015899",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Apocalypse Now",
+    "FilmId": "tt0078788",
+    "Name": "Francis Coppola, Producer; Fred Roos, Gray Frederickson and Tom Sternberg, Co-Producers",
+    "Nominees": "Francis Coppola|Fred Roos|Gray Frederickson|Tom Sternberg",
+    "NomineeIds": "nm0000338|nm0740407|nm0292875|nm0827923",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Breaking Away",
+    "FilmId": "tt0078902",
+    "Name": "Peter Yates, Producer",
+    "Nominees": "Peter Yates",
+    "NomineeIds": "nm0946811",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Kramer vs. Kramer",
+    "FilmId": "tt0079417",
+    "Name": "Stanley R. Jaffe, Producer",
+    "Nominees": "Stanley R. Jaffe",
+    "NomineeIds": "nm0415494",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Norma Rae",
+    "FilmId": "tt0079638",
+    "Name": "Tamara Asseyev and Alex Rose, Producers",
+    "Nominees": "Tamara Asseyev|Alex Rose",
+    "NomineeIds": "nm0039834|nm0741228",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Dream Doll",
+    "FilmId": "tt0079079",
+    "Name": "Bob Godfrey and Zlatko Grgic, Producers",
+    "Nominees": "Bob Godfrey|Zlatko Grgic",
+    "NomineeIds": "nm0323962|nm0340767",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Every Child",
+    "FilmId": "tt0079126",
+    "Name": "Derek Lamb, Producer",
+    "Nominees": "Derek Lamb",
+    "NomineeIds": "nm0482943",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "It's So Nice to Have a Wolf around the House",
+    "FilmId": "tt0079354",
+    "Name": "Paul Fierlinger, Producer",
+    "Nominees": "Paul Fierlinger",
+    "NomineeIds": "nm0276414",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Board and Care",
+    "FilmId": "tt0078885",
+    "Name": "Sarah Pillsbury and Ron Ellis, Producers",
+    "Nominees": "Sarah Pillsbury|Ron Ellis",
+    "NomineeIds": "nm0683579|nm0255070",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Bravery in the Field",
+    "FilmId": "tt0078900",
+    "Name": "Roman Kroitor and Stefan Wodoslawsky, Producers",
+    "Nominees": "Roman Kroitor|Stefan Wodoslawsky",
+    "NomineeIds": "nm0471993|nm0937304",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Oh Brother, My Brother",
+    "FilmId": "tt0079656",
+    "Name": "Carol Lowell and Ross Lowell, Producers",
+    "Nominees": "Carol Lowell|Ross Lowell",
+    "NomineeIds": "nm0523082|nm0523112",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Solar Film",
+    "FilmId": "tt0083104",
+    "Name": "Saul Bass and Michael Britton, Producers",
+    "Nominees": "Saul Bass|Michael Britton",
+    "NomineeIds": "nm0000866|nm0110212",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Solly's Diner",
+    "FilmId": "tt0079923",
+    "Name": "Harry Mathias, Jay Zukerman and Larry Hankin, Producers",
+    "Nominees": "Harry Mathias|Jay Zukerman|Larry Hankin",
+    "NomineeIds": "nm0558760|nm0958426|nm0359969",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Apocalypse Now",
+    "FilmId": "tt0078788",
+    "Name": "Walter Murch, Mark Berger, Richard Beggs, Nat Boxer",
+    "Nominees": "Walter Murch|Mark Berger|Richard Beggs|Nat Boxer",
+    "NomineeIds": "nm0004555|nm0074281|nm0066740|nm0101537",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Electric Horseman",
+    "FilmId": "tt0079100",
+    "Name": "Arthur Piantadosi, Les Fresholtz, Michael Minkler, Al Overton",
+    "Nominees": "Arthur Piantadosi|Les Fresholtz|Michael Minkler|Al Overton",
+    "NomineeIds": "nm0681250|nm0294370|nm0591444|nm0653929",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Meteor",
+    "FilmId": "tt0079550",
+    "Name": "William McCaughey, Aaron Rochin, Michael J. Kohut, Jack Solomon",
+    "Nominees": "William McCaughey|Aaron Rochin|Michael J. Kohut|Jack Solomon",
+    "NomineeIds": "nm0565477|nm0734099|nm0463489|nm0813349",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": 1941,
+    "FilmId": "tt0078723",
+    "Name": "Robert Knudson, Robert J. Glass, Don MacDougall, Gene S. Cantamessa",
+    "Nominees": "Robert Knudson|Robert J. Glass|Don MacDougall|Gene S. Cantamessa",
+    "NomineeIds": "nm0461702|nm0321915|nm0532013|nm0134481",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Rose",
+    "FilmId": "tt0079826",
+    "Name": "Theodore Soderberg, Douglas Williams, Paul Wells, Jim Webb",
+    "Nominees": "Theodore Soderberg|Douglas Williams|Paul Wells|Jim Webb",
+    "NomineeIds": "nm0812029|nm0930491|nm0920372|nm0916137",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Alien",
+    "FilmId": "tt0078748",
+    "Name": "H.R. Giger, Carlo Rambaldi, Brian Johnson, Nick Allder, Denys Ayling",
+    "Nominees": "H.R. Giger|Carlo Rambaldi|Brian Johnson|Nick Allder|Denys Ayling",
+    "NomineeIds": "nm0317592|nm0708058|nm0424644|nm0020158|nm0043861",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Black Hole",
+    "FilmId": "tt0078869",
+    "Name": "Peter Ellenshaw, Art Cruickshank, Eustace Lycett, Danny Lee, Harrison Ellenshaw, Joe Hale",
+    "Nominees": "Peter Ellenshaw|Art Cruickshank|Eustace Lycett|Danny Lee|Harrison Ellenshaw|Joe Hale",
+    "NomineeIds": "nm0254002|nm0189973|nm0527941|nm0497098|nm0254001|nm0354940",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Moonraker",
+    "FilmId": "tt0079574",
+    "Name": "Derek Meddings, Paul Wilson, John Evans",
+    "Nominees": "Derek Meddings|Paul Wilson|John Evans",
+    "NomineeIds": "nm0575439|nm0933946|nm0262906",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": 1941,
+    "FilmId": "tt0078723",
+    "Name": "William A. Fraker, A. D. Flowers, Gregory Jein",
+    "Nominees": "William A. Fraker|A. D. Flowers|Gregory Jein",
+    "NomineeIds": "nm0005710|nm0283166|nm0420474",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Star Trek - The Motion Picture",
+    "FilmId": "tt0079945",
+    "Name": "Douglas Trumbull, John Dykstra, Richard Yuricich, Robert Swarthe, Dave Stewart, Grant McCune",
+    "Nominees": "Douglas Trumbull|John Dykstra|Richard Yuricich|Robert Swarthe|Dave Stewart|Grant McCune",
+    "NomineeIds": "nm0874320|nm0004375|nm0951047|nm0841931|nm0829308|nm0567263",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Apocalypse Now",
+    "FilmId": "tt0078788",
+    "Name": "John Milius, Francis Coppola",
+    "Nominees": "John Milius|Francis Coppola",
+    "NomineeIds": "nm0587518|nm0000338",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Kramer vs. Kramer",
+    "FilmId": "tt0079417",
+    "Name": "Robert Benton",
+    "Nominees": "Robert Benton",
+    "NomineeIds": "nm0000914",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "La Cage aux Folles",
+    "FilmId": "tt0077288",
+    "Name": "Francis Veber, Edouard Molinaro, Marcello Danon, Jean Poiret",
+    "Nominees": "Francis Veber|Edouard Molinaro|Marcello Danon|Jean Poiret",
+    "NomineeIds": "nm0891554|nm0596850|nm0200473|nm0688497",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "A Little Romance",
+    "FilmId": "tt0079477",
+    "Name": "Allan Burns",
+    "Nominees": "Allan Burns",
+    "NomineeIds": "nm0122560",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Norma Rae",
+    "FilmId": "tt0079638",
+    "Name": "Irving Ravetch, Harriet Frank, Jr.",
+    "Nominees": "Irving Ravetch|Harriet Frank Jr.",
+    "NomineeIds": "nm0712419|nm0290809",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "All That Jazz",
+    "FilmId": "tt0078754",
+    "Name": "Robert Alan Aurthur, Bob Fosse",
+    "Nominees": "Robert Alan Aurthur|Bob Fosse",
+    "NomineeIds": "nm0015899|nm0002080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "...And Justice for All",
+    "FilmId": "tt0078718",
+    "Name": "Valerie Curtin, Barry Levinson",
+    "Nominees": "Valerie Curtin|Barry Levinson",
+    "NomineeIds": "nm0193224|nm0001469",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Breaking Away",
+    "FilmId": "tt0078902",
+    "Name": "Steve Tesich",
+    "Nominees": "Steve Tesich",
+    "NomineeIds": "nm0856270",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "The China Syndrome",
+    "FilmId": "tt0078966",
+    "Name": "Mike Gray, T.S. Cook, James Bridges",
+    "Nominees": "Mike Gray|T.S. Cook|James Bridges",
+    "NomineeIds": "nm0336831|nm0177304|nm0108745",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Manhattan",
+    "FilmId": "tt0079522",
+    "Name": "Woody Allen, Marshall Brickman",
+    "Nominees": "Woody Allen|Marshall Brickman",
+    "NomineeIds": "nm0000095|nm0108613",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Sound Editing)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Sound Editing)",
+    "Film": "The Black Stallion",
+    "FilmId": "tt0078872",
+    "Name": "Alan Splet",
+    "Nominees": "Alan Splet",
+    "NomineeIds": "nm0819263",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Robert Benjamin",
+    "Nominees": "Robert Benjamin",
+    "NomineeIds": "nm8647708",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Alec Guinness",
+    "NomineeIds": "nm0000027",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Alec Guinness for advancing the art of screen acting through a host of memorable and distinguished performances."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hal Elias",
+    "NomineeIds": "nm1087787",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Hal Elias for his dedication and distinguished service to the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Ray Stark",
+    "Nominees": "Ray Stark",
+    "NomineeIds": "nm0823256",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mark Serrurier",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Editorial",
+    "Note": "",
+    "Citation": "To MARK SERRURIER for the progressive development of the Moviola from the 1924 invention of his father, Iwan Serrurier, to the present Series 20 sophisticated film editing equipment."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Neiman-Tillar Associates|MINI-MICRO SYSTEMS INCORPORATED",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To NEIMAN-TILLAR ASSOCIATES for the creative development and to MINI-MICRO SYSTEMS, INCORPORATED, for the design and engineering of an Automated Computer-Controlled Editing Sound System (ACCESS) for motion picture post-production."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Michael V. Chewey|WALTER G. EGGERS|ALLEN HECHT",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To MICHAEL V. CHEWEY, WALTER G. EGGERS and ALLEN HECHT of M-G-M Laboratories for the development of a Computer-controlled Paper Tape Programmer System and its applications in the motion picture laboratory."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Irwin Young|PAUL KAUFMAN|FREDRIK SCHLYTER",
+    "NomineeIds": "nm0949625|?|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To IRWIN YOUNG, PAUL KAUFMAN and FREDRIK SCHLYTER of Du Art Film Laboratories, Incorporated, for the development of a Computer-controlled Paper Tape Programmer System and its applications in the motion picture laboratory."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James S. Stanfield|Paul W. Trester",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To JAMES S. STANFIELD and PAUL W. TRESTER for the development and manufacture of a device for the repair or protection of sprocket holes in motion picture film."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ZORAN PERISIC",
+    "NomineeIds": "nm0673830",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To ZORAN PERISIC of Courier Films, Limited, for the Zoptic Special Optical Effects Device for motion picture photography."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "A. D. Flowers|Logan R. Frazee",
+    "NomineeIds": "nm0283166|nm0292473",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To A. D. FLOWERS and LOGAN R. FRAZEE for the development of a device to control flight patterns of miniature airplanes during motion picture photography."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Kollmorgen Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To PHOTO RESEARCH DIVISION OF KOLLMORGEN CORPORATION for the development of the Spectra Series II Cine Special Exposure Meter for motion picture photography."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bruce Lyon|John Lamb",
+    "NomineeIds": "nm1590781|nm1592570",
+    "Winner": "True",
+    "Detail": "Cartoon Process",
+    "Note": "",
+    "Citation": "To BRUCE LYON and JOHN LAMB for the development of a Video Animation System for testing motion picture animation sequences."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ROSS LOWELL",
+    "NomineeIds": "nm0523112",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To ROSS LOWELL of Lowel-Light Manufacturing, Incorporated, for the development of compact lighting equipment for motion picture photography."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John O. Aalberg",
+    "NomineeIds": "nm0007356",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To John O. Aalberg in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles G. Clarke",
+    "NomineeIds": "nm0164690",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Charles G. Clarke in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 52,
+    "Year": 1979,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John G. Frayne",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To John G. Frayne in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

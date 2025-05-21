@@ -1,1659 +1,2018 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1999",
-    "nominees": [
-      "American Beauty"
-    ],
-    "movies": [
-      {
-        "title": "American Beauty",
-        "tmdb_id": 14,
-        "imdb_id": "tt0169547"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1999",
-    "nominees": [
-      "The Cider House Rules"
-    ],
-    "movies": [
-      {
-        "title": "The Cider House Rules",
-        "tmdb_id": 1715,
-        "imdb_id": "tt0124315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1999",
-    "nominees": [
-      "The Green Mile"
-    ],
-    "movies": [
-      {
-        "title": "The Green Mile",
-        "tmdb_id": 497,
-        "imdb_id": "tt0120689"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1999",
-    "nominees": [
-      "The Insider"
-    ],
-    "movies": [
-      {
-        "title": "The Insider",
-        "tmdb_id": 9008,
-        "imdb_id": "tt0140352"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1999",
-    "nominees": [
-      "The Sixth Sense"
-    ],
-    "movies": [
-      {
-        "title": "The Sixth Sense",
-        "tmdb_id": 745,
-        "imdb_id": "tt0167404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1999",
-    "nominees": [
-      "Kevin Spacey"
-    ],
-    "movies": [
-      {
-        "title": "American Beauty",
-        "tmdb_id": 14,
-        "imdb_id": "tt0169547"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1999",
-    "nominees": [
-      "Russell Crowe"
-    ],
-    "movies": [
-      {
-        "title": "The Insider",
-        "tmdb_id": 9008,
-        "imdb_id": "tt0140352"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1999",
-    "nominees": [
-      "Richard Farnsworth"
-    ],
-    "movies": [
-      {
-        "title": "The Straight Story",
-        "tmdb_id": 404,
-        "imdb_id": "tt0166896"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1999",
-    "nominees": [
-      "Sean Penn"
-    ],
-    "movies": [
-      {
-        "title": "Sweet and Lowdown",
-        "tmdb_id": 9684,
-        "imdb_id": "tt0158371"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1999",
-    "nominees": [
-      "Denzel Washington"
-    ],
-    "movies": [
-      {
-        "title": "The Hurricane",
-        "tmdb_id": 10400,
-        "imdb_id": "tt0174856"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1999",
-    "nominees": [
-      "Hilary Swank"
-    ],
-    "movies": [
-      {
-        "title": "Boys Don't Cry",
-        "tmdb_id": 226,
-        "imdb_id": "tt0171804"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1999",
-    "nominees": [
-      "Annette Bening"
-    ],
-    "movies": [
-      {
-        "title": "American Beauty",
-        "tmdb_id": 14,
-        "imdb_id": "tt0169547"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1999",
-    "nominees": [
-      "Janet McTeer"
-    ],
-    "movies": [
-      {
-        "title": "Tumbleweeds",
-        "tmdb_id": 55123,
-        "imdb_id": "tt0161023"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1999",
-    "nominees": [
-      "Julianne Moore"
-    ],
-    "movies": [
-      {
-        "title": "The End of the Affair",
-        "tmdb_id": 20024,
-        "imdb_id": "tt0172396"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1999",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "Music of the Heart",
-        "tmdb_id": 26149,
-        "imdb_id": "tt0166943"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1999",
-    "nominees": [
-      "Michael Caine"
-    ],
-    "movies": [
-      {
-        "title": "The Cider House Rules",
-        "tmdb_id": 1715,
-        "imdb_id": "tt0124315"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1999",
-    "nominees": [
-      "Tom Cruise"
-    ],
-    "movies": [
-      {
-        "title": "Magnolia",
-        "tmdb_id": 334,
-        "imdb_id": "tt0175880"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1999",
-    "nominees": [
-      "Michael Clarke Duncan"
-    ],
-    "movies": [
-      {
-        "title": "The Green Mile",
-        "tmdb_id": 497,
-        "imdb_id": "tt0120689"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1999",
-    "nominees": [
-      "Jude Law"
-    ],
-    "movies": [
-      {
-        "title": "The Talented Mr. Ripley",
-        "tmdb_id": 1213,
-        "imdb_id": "tt0134119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1999",
-    "nominees": [
-      "Haley Joel Osment"
-    ],
-    "movies": [
-      {
-        "title": "The Sixth Sense",
-        "tmdb_id": 745,
-        "imdb_id": "tt0167404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1999",
-    "nominees": [
-      "Angelina Jolie"
-    ],
-    "movies": [
-      {
-        "title": "Girl, Interrupted",
-        "tmdb_id": 3558,
-        "imdb_id": "tt0172493"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1999",
-    "nominees": [
-      "Toni Collette"
-    ],
-    "movies": [
-      {
-        "title": "The Sixth Sense",
-        "tmdb_id": 745,
-        "imdb_id": "tt0167404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1999",
-    "nominees": [
-      "Catherine Keener"
-    ],
-    "movies": [
-      {
-        "title": "Being John Malkovich",
-        "tmdb_id": 492,
-        "imdb_id": "tt0120601"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1999",
-    "nominees": [
-      "Samantha Morton"
-    ],
-    "movies": [
-      {
-        "title": "Sweet and Lowdown",
-        "tmdb_id": 9684,
-        "imdb_id": "tt0158371"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1999",
-    "nominees": [
-      "Chloe Sevigny"
-    ],
-    "movies": [
-      {
-        "title": "Boys Don't Cry",
-        "tmdb_id": 226,
-        "imdb_id": "tt0171804"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1999",
-    "nominees": [
-      "Sam Mendes"
-    ],
-    "movies": [
-      {
-        "title": "American Beauty",
-        "tmdb_id": 14,
-        "imdb_id": "tt0169547"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1999",
-    "nominees": [
-      "Lasse Hallstrom"
-    ],
-    "movies": [
-      {
-        "title": "The Cider House Rules",
-        "tmdb_id": 1715,
-        "imdb_id": "tt0124315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1999",
-    "nominees": [
-      "Spike Jonze"
-    ],
-    "movies": [
-      {
-        "title": "Being John Malkovich",
-        "tmdb_id": 492,
-        "imdb_id": "tt0120601"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1999",
-    "nominees": [
-      "Michael Mann"
-    ],
-    "movies": [
-      {
-        "title": "The Insider",
-        "tmdb_id": 9008,
-        "imdb_id": "tt0140352"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1999",
-    "nominees": [
-      "M. Night Shyamalan"
-    ],
-    "movies": [
-      {
-        "title": "The Sixth Sense",
-        "tmdb_id": 745,
-        "imdb_id": "tt0167404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1999",
-    "nominees": [
-      "John Irving"
-    ],
-    "movies": [
-      {
-        "title": "The Cider House Rules",
-        "tmdb_id": 1715,
-        "imdb_id": "tt0124315"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1999",
-    "nominees": [
-      "Alexander Payne",
-      "Jim Taylor"
-    ],
-    "movies": [
-      {
-        "title": "Election",
-        "tmdb_id": 9451,
-        "imdb_id": "tt0126886"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1999",
-    "nominees": [
-      "Frank Darabont"
-    ],
-    "movies": [
-      {
-        "title": "The Green Mile",
-        "tmdb_id": 497,
-        "imdb_id": "tt0120689"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1999",
-    "nominees": [
-      "Michael Mann",
-      "Eric Roth"
-    ],
-    "movies": [
-      {
-        "title": "The Insider",
-        "tmdb_id": 9008,
-        "imdb_id": "tt0140352"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1999",
-    "nominees": [
-      "Anthony Minghella"
-    ],
-    "movies": [
-      {
-        "title": "The Talented Mr. Ripley",
-        "tmdb_id": 1213,
-        "imdb_id": "tt0134119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1999",
-    "nominees": [
-      "Alan Ball"
-    ],
-    "movies": [
-      {
-        "title": "American Beauty",
-        "tmdb_id": 14,
-        "imdb_id": "tt0169547"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1999",
-    "nominees": [
-      "Charlie Kaufman"
-    ],
-    "movies": [
-      {
-        "title": "Being John Malkovich",
-        "tmdb_id": 492,
-        "imdb_id": "tt0120601"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1999",
-    "nominees": [
-      "Paul Thomas Anderson"
-    ],
-    "movies": [
-      {
-        "title": "Magnolia",
-        "tmdb_id": 334,
-        "imdb_id": "tt0175880"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1999",
-    "nominees": [
-      "M. Night Shyamalan"
-    ],
-    "movies": [
-      {
-        "title": "The Sixth Sense",
-        "tmdb_id": 745,
-        "imdb_id": "tt0167404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1999",
-    "nominees": [
-      "Mike Leigh"
-    ],
-    "movies": [
-      {
-        "title": "Topsy-Turvy",
-        "tmdb_id": 46435,
-        "imdb_id": "tt0151568"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1999",
-    "nominees": [
-      "John Corigliano"
-    ],
-    "movies": [
-      {
-        "title": "The Red Violin",
-        "tmdb_id": 14283,
-        "imdb_id": "tt0120802"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1999",
-    "nominees": [
-      "Thomas Newman"
-    ],
-    "movies": [
-      {
-        "title": "American Beauty",
-        "tmdb_id": 14,
-        "imdb_id": "tt0169547"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1999",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Angela's Ashes",
-        "tmdb_id": 10397,
-        "imdb_id": "tt0145653"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1999",
-    "nominees": [
-      "Rachel Portman"
-    ],
-    "movies": [
-      {
-        "title": "The Cider House Rules",
-        "tmdb_id": 1715,
-        "imdb_id": "tt0124315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1999",
-    "nominees": [
-      "Gabriel Yared"
-    ],
-    "movies": [
-      {
-        "title": "The Talented Mr. Ripley",
-        "tmdb_id": 1213,
-        "imdb_id": "tt0134119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1999",
-    "nominees": [
-      "You'll Be In My Heart"
-    ],
-    "movies": [
-      {
-        "title": "Tarzan",
-        "tmdb_id": 37135,
-        "imdb_id": "tt0120855"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1999",
-    "nominees": [
-      "Blame Canada"
-    ],
-    "movies": [
-      {
-        "title": "South Park: Bigger, Longer & Uncut",
-        "tmdb_id": 9473,
-        "imdb_id": "tt0158983"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1999",
-    "nominees": [
-      "Music of My Heart"
-    ],
-    "movies": [
-      {
-        "title": "Music of the Heart",
-        "tmdb_id": 26149,
-        "imdb_id": "tt0166943"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1999",
-    "nominees": [
-      "Save Me"
-    ],
-    "movies": [
-      {
-        "title": "Magnolia",
-        "tmdb_id": 334,
-        "imdb_id": "tt0175880"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1999",
-    "nominees": [
-      "When She Loved Me"
-    ],
-    "movies": [
-      {
-        "title": "Toy Story 2",
-        "tmdb_id": 863,
-        "imdb_id": "tt0120363"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1999",
-    "nominees": [
-      "All About My Mother"
-    ],
-    "movies": [
-      {
-        "title": "All About My Mother",
-        "tmdb_id": 99,
-        "imdb_id": "tt0185125"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1999",
-    "nominees": [
-      "Himalaya"
-    ],
-    "movies": [
-      {
-        "title": "Himalaya",
-        "tmdb_id": 26813,
-        "imdb_id": "tt0210727"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1999",
-    "nominees": [
-      "East/West"
-    ],
-    "movies": [
-      {
-        "title": "East/West",
-        "tmdb_id": 28463,
-        "imdb_id": "tt0181530"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1999",
-    "nominees": [
-      "Solomon and Gaenor"
-    ],
-    "movies": [
-      {
-        "title": "Solomon and Gaenor",
-        "tmdb_id": 81517,
-        "imdb_id": "tt0181830"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1999",
-    "nominees": [
-      "Under the Sun"
-    ],
-    "movies": [
-      {
-        "title": "Under the Sun",
-        "tmdb_id": 52673,
-        "imdb_id": "tt0158302"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1999",
-    "nominees": [
-      "One Day in September"
-    ],
-    "movies": [
-      {
-        "title": "One Day in September",
-        "tmdb_id": 34045,
-        "imdb_id": "tt0230591"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1999",
-    "nominees": [
-      "Buena Vista Social Club"
-    ],
-    "movies": [
-      {
-        "title": "Buena Vista Social Club",
-        "tmdb_id": 11779,
-        "imdb_id": "tt0186508"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1999",
-    "nominees": [
-      "Genghis Blues"
-    ],
-    "movies": [
-      {
-        "title": "Genghis Blues",
-        "tmdb_id": 28030,
-        "imdb_id": "tt0187859"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1999",
-    "nominees": [
-      "On the Ropes"
-    ],
-    "movies": [
-      {
-        "title": "On the Ropes",
-        "tmdb_id": 113273,
-        "imdb_id": "tt0181733"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1999",
-    "nominees": [
-      "Speaking in Strings"
-    ],
-    "movies": [
-      {
-        "title": "Speaking in Strings",
-        "tmdb_id": 113275,
-        "imdb_id": "tt0181835"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1999",
-    "nominees": [
-      "King Gimp"
-    ],
-    "movies": [
-      {
-        "title": "King Gimp",
-        "tmdb_id": 244949,
-        "imdb_id": "tt0239528"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1999",
-    "nominees": [
-      "Eyewitness"
-    ],
-    "movies": [
-      {
-        "title": "Eyewitness",
-        "tmdb_id": 244951,
-        "imdb_id": "tt0239379"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1999",
-    "nominees": [
-      "The Wildest Show in the South: The Angola Prison Rodeo"
-    ],
-    "movies": [
-      {
-        "title": "The Wildest Show in the South: The Angola Prison Rodeo",
-        "tmdb_id": 244952,
-        "imdb_id": "tt0240216"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1999",
-    "nominees": [
-      "The Old Man and the Sea"
-    ],
-    "movies": [
-      {
-        "title": "The Old Man and the Sea",
-        "tmdb_id": 38577,
-        "imdb_id": "tt0207639"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1999",
-    "nominees": [
-      "Humdrum"
-    ],
-    "movies": [
-      {
-        "title": "Humdrum",
-        "tmdb_id": 209969,
-        "imdb_id": "tt0192145"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1999",
-    "nominees": [
-      "My Grandmother Ironed the King's Shirts"
-    ],
-    "movies": [
-      {
-        "title": "My Grandmother Ironed the King's Shirts",
-        "tmdb_id": 215509,
-        "imdb_id": "tt0210853"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1999",
-    "nominees": [
-      "3 Misses"
-    ],
-    "movies": [
-      {
-        "title": "3 Misses",
-        "tmdb_id": 2751,
-        "imdb_id": "tt0239206"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1999",
-    "nominees": [
-      "When the Day Breaks"
-    ],
-    "movies": [
-      {
-        "title": "When the Day Breaks",
-        "tmdb_id": 160332,
-        "imdb_id": "tt0200282"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1999",
-    "nominees": [
-      "My Mother Dreams the Satan's Disciples in New York"
-    ],
-    "movies": [
-      {
-        "title": "My Mother Dreams the Satan's Disciples in New York",
-        "tmdb_id": 244942,
-        "imdb_id": "tt0177023"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1999",
-    "nominees": [
-      "Theis and Nico"
-    ],
-    "movies": [
-      {
-        "title": "Theis and Nico",
-        "tmdb_id": 244943,
-        "imdb_id": "tt0191850"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1999",
-    "nominees": [
-      "Killing Joe"
-    ],
-    "movies": [
-      {
-        "title": "Killing Joe",
-        "tmdb_id": 244945,
-        "imdb_id": "tt0236386"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1999",
-    "nominees": [
-      "Small Change"
-    ],
-    "movies": [
-      {
-        "title": "Small Change",
-        "tmdb_id": 244946,
-        "imdb_id": "tt0200780"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1999",
-    "nominees": [
-      "Major and Minor Miracles"
-    ],
-    "movies": [
-      {
-        "title": "Major and Minor Miracles",
-        "tmdb_id": 244948,
-        "imdb_id": "tt0239583"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "Rick Heinrichs",
-      "Peter Young"
-    ],
-    "movies": [
-      {
-        "title": "Sleepy Hollow",
-        "tmdb_id": 2668,
-        "imdb_id": "tt0162661"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "Luciana Arrighi",
-      "Ian Whittaker"
-    ],
-    "movies": [
-      {
-        "title": "Anna and the King",
-        "tmdb_id": 1439,
-        "imdb_id": "tt0166485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "David Gropman",
-      "Beth Rubino"
-    ],
-    "movies": [
-      {
-        "title": "The Cider House Rules",
-        "tmdb_id": 1715,
-        "imdb_id": "tt0124315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "Roy Walker",
-      "Bruno Cesari"
-    ],
-    "movies": [
-      {
-        "title": "The Talented Mr. Ripley",
-        "tmdb_id": 1213,
-        "imdb_id": "tt0134119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "Eve Stewart",
-      "John Bush"
-    ],
-    "movies": [
-      {
-        "title": "Topsy-Turvy",
-        "tmdb_id": 46435,
-        "imdb_id": "tt0151568"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1999",
-    "nominees": [
-      "Conrad L. Hall"
-    ],
-    "movies": [
-      {
-        "title": "American Beauty",
-        "tmdb_id": 14,
-        "imdb_id": "tt0169547"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1999",
-    "nominees": [
-      "Roger Pratt"
-    ],
-    "movies": [
-      {
-        "title": "The End of the Affair",
-        "tmdb_id": 20024,
-        "imdb_id": "tt0172396"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1999",
-    "nominees": [
-      "Dante Spinotti"
-    ],
-    "movies": [
-      {
-        "title": "The Insider",
-        "tmdb_id": 9008,
-        "imdb_id": "tt0140352"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1999",
-    "nominees": [
-      "Emmanuel Lubezki"
-    ],
-    "movies": [
-      {
-        "title": "Sleepy Hollow",
-        "tmdb_id": 2668,
-        "imdb_id": "tt0162661"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1999",
-    "nominees": [
-      "Robert Richardson"
-    ],
-    "movies": [
-      {
-        "title": "Snow Falling on Cedars",
-        "tmdb_id": 10219,
-        "imdb_id": "tt0120834"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1999",
-    "nominees": [
-      "Zach Staenberg"
-    ],
-    "movies": [
-      {
-        "title": "The Matrix",
-        "tmdb_id": 603,
-        "imdb_id": "tt0133093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1999",
-    "nominees": [
-      "Tariq Anwar"
-    ],
-    "movies": [
-      {
-        "title": "American Beauty",
-        "tmdb_id": 14,
-        "imdb_id": "tt0169547"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1999",
-    "nominees": [
-      "Lisa Zeno Churgin"
-    ],
-    "movies": [
-      {
-        "title": "The Cider House Rules",
-        "tmdb_id": 1715,
-        "imdb_id": "tt0124315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1999",
-    "nominees": [
-      "William Goldenberg",
-      "Paul Rubell",
-      "David Rosenbloom"
-    ],
-    "movies": [
-      {
-        "title": "The Insider",
-        "tmdb_id": 9008,
-        "imdb_id": "tt0140352"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1999",
-    "nominees": [
-      "Andrew Mondshein"
-    ],
-    "movies": [
-      {
-        "title": "The Sixth Sense",
-        "tmdb_id": 745,
-        "imdb_id": "tt0167404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1999",
-    "nominees": [
-      "John Gaeta",
-      "Janek Sirrs",
-      "Steve Courtley",
-      "Jon Thum"
-    ],
-    "movies": [
-      {
-        "title": "The Matrix",
-        "tmdb_id": 603,
-        "imdb_id": "tt0133093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1999",
-    "nominees": [
-      "John Knoll",
-      "Dennis Muren",
-      "Scott Squires",
-      "Rob Coleman"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars: Episode I - The Phantom Menace",
-        "tmdb_id": 1893,
-        "imdb_id": "tt0120915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1999",
-    "nominees": [
-      "John Dykstra",
-      "Jerome Chen",
-      "Henry F. Anderson III",
-      "Eric Allard"
-    ],
-    "movies": [
-      {
-        "title": "Stuart Little",
-        "tmdb_id": 10137,
-        "imdb_id": "tt0164912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1999",
-    "nominees": [
-      "John T. Reitz",
-      "Gregg Rudloff",
-      "David E. Campbell",
-      "David Lee"
-    ],
-    "movies": [
-      {
-        "title": "The Matrix",
-        "tmdb_id": 603,
-        "imdb_id": "tt0133093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1999",
-    "nominees": [
-      "Robert J. Litt",
-      "Elliot Tyson",
-      "Michael Herbick",
-      "Willie D. Burton"
-    ],
-    "movies": [
-      {
-        "title": "The Green Mile",
-        "tmdb_id": 497,
-        "imdb_id": "tt0120689"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1999",
-    "nominees": [
-      "Andy Nelson",
-      "Doug Hemphill",
-      "Lee Orloff"
-    ],
-    "movies": [
-      {
-        "title": "The Insider",
-        "tmdb_id": 9008,
-        "imdb_id": "tt0140352"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1999",
-    "nominees": [
-      "Leslie Shatz",
-      "Chris Carpenter",
-      "Rick Kline",
-      "Chris Munro"
-    ],
-    "movies": [
-      {
-        "title": "The Mummy",
-        "tmdb_id": 564,
-        "imdb_id": "tt0120616"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1999",
-    "nominees": [
-      "Gary Rydstrom",
-      "Tom Johnson",
-      "Shawn Murphy",
-      "John Midgley"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars: Episode I - The Phantom Menace",
-        "tmdb_id": 1893,
-        "imdb_id": "tt0120915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1999",
-    "nominees": [
-      "Dane Davis"
-    ],
-    "movies": [
-      {
-        "title": "The Matrix",
-        "tmdb_id": 603,
-        "imdb_id": "tt0133093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1999",
-    "nominees": [
-      "Ren Klyce",
-      "Richard Hymns"
-    ],
-    "movies": [
-      {
-        "title": "Fight Club",
-        "tmdb_id": 550,
-        "imdb_id": "tt0137523"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1999",
-    "nominees": [
-      "Ben Burtt",
-      "Tom Bellfort"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars: Episode I - The Phantom Menace",
-        "tmdb_id": 1893,
-        "imdb_id": "tt0120915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1999",
-    "nominees": [
-      "Christine Blundell",
-      "Trefor Proud"
-    ],
-    "movies": [
-      {
-        "title": "Topsy-Turvy",
-        "tmdb_id": 46435,
-        "imdb_id": "tt0151568"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1999",
-    "nominees": [
-      "Michele Burke",
-      "Mike Smithson"
-    ],
-    "movies": [
-      {
-        "title": "Austin Powers: The Spy Who Shagged Me",
-        "tmdb_id": 817,
-        "imdb_id": "tt0145660"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1999",
-    "nominees": [
-      "Greg Cannom"
-    ],
-    "movies": [
-      {
-        "title": "Bicentennial Man",
-        "tmdb_id": 2277,
-        "imdb_id": "tt0182789"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1999",
-    "nominees": [
-      "Rick Baker"
-    ],
-    "movies": [
-      {
-        "title": "Life",
-        "tmdb_id": 6522,
-        "imdb_id": "tt0123964"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "Lindy Hemming"
-    ],
-    "movies": [
-      {
-        "title": "Topsy-Turvy",
-        "tmdb_id": 46435,
-        "imdb_id": "tt0151568"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "Jenny Beavan"
-    ],
-    "movies": [
-      {
-        "title": "Anna and the King",
-        "tmdb_id": 1439,
-        "imdb_id": "tt0166485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "Colleen Atwood"
-    ],
-    "movies": [
-      {
-        "title": "Sleepy Hollow",
-        "tmdb_id": 2668,
-        "imdb_id": "tt0162661"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "Gary Jones",
-      "Ann Roth"
-    ],
-    "movies": [
-      {
-        "title": "The Talented Mr. Ripley",
-        "tmdb_id": 1213,
-        "imdb_id": "tt0134119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1999",
-    "nominees": [
-      "Milena Canonero"
-    ],
-    "movies": [
-      {
-        "title": "Titus",
-        "tmdb_id": 12524,
-        "imdb_id": "tt0120866"
-      }
-    ],
-    "won": false
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Insider",
+    "FilmId": "tt0140352",
+    "Name": "Russell Crowe",
+    "Nominees": "Russell Crowe",
+    "NomineeIds": "nm0000128",
+    "Winner": "",
+    "Detail": "Jeffrey Wigand",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Straight Story",
+    "FilmId": "tt0166896",
+    "Name": "Richard Farnsworth",
+    "Nominees": "Richard Farnsworth",
+    "NomineeIds": "nm0002070",
+    "Winner": "",
+    "Detail": "Alvin Straight",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Sweet and Lowdown",
+    "FilmId": "tt0158371",
+    "Name": "Sean Penn",
+    "Nominees": "Sean Penn",
+    "NomineeIds": "nm0000576",
+    "Winner": "",
+    "Detail": "Emmet Ray",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "American Beauty",
+    "FilmId": "tt0169547",
+    "Name": "Kevin Spacey",
+    "Nominees": "Kevin Spacey",
+    "NomineeIds": "nm0000228",
+    "Winner": "True",
+    "Detail": "Lester Burnham",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Hurricane",
+    "FilmId": "tt0174856",
+    "Name": "Denzel Washington",
+    "Nominees": "Denzel Washington",
+    "NomineeIds": "nm0000243",
+    "Winner": "",
+    "Detail": "Rubin 'Hurricane' Carter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Cider House Rules",
+    "FilmId": "tt0124315",
+    "Name": "Michael Caine",
+    "Nominees": "Michael Caine",
+    "NomineeIds": "nm0000323",
+    "Winner": "True",
+    "Detail": "Dr. Wilbur Larch",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Magnolia",
+    "FilmId": "tt0175880",
+    "Name": "Tom Cruise",
+    "Nominees": "Tom Cruise",
+    "NomineeIds": "nm0000129",
+    "Winner": "",
+    "Detail": "Frank T.J. Mackey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Green Mile",
+    "FilmId": "tt0120689",
+    "Name": "Michael Clarke Duncan",
+    "Nominees": "Michael Clarke Duncan",
+    "NomineeIds": "nm0003817",
+    "Winner": "",
+    "Detail": "John Coffey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Talented Mr. Ripley",
+    "FilmId": "tt0134119",
+    "Name": "Jude Law",
+    "Nominees": "Jude Law",
+    "NomineeIds": "nm0000179",
+    "Winner": "",
+    "Detail": "Dickie Greenleaf",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Sixth Sense",
+    "FilmId": "tt0167404",
+    "Name": "Haley Joel Osment",
+    "Nominees": "Haley Joel Osment",
+    "NomineeIds": "nm0005286",
+    "Winner": "",
+    "Detail": "Cole Sear",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "American Beauty",
+    "FilmId": "tt0169547",
+    "Name": "Annette Bening",
+    "Nominees": "Annette Bening",
+    "NomineeIds": "nm0000906",
+    "Winner": "",
+    "Detail": "Carolyn Burnham",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Tumbleweeds",
+    "FilmId": "tt0161023",
+    "Name": "Janet McTeer",
+    "Nominees": "Janet McTeer",
+    "NomineeIds": "nm0005216",
+    "Winner": "",
+    "Detail": "Mary Jo Walker",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The End of the Affair",
+    "FilmId": "tt0172396",
+    "Name": "Julianne Moore",
+    "Nominees": "Julianne Moore",
+    "NomineeIds": "nm0000194",
+    "Winner": "",
+    "Detail": "Sarah Miles",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Music of the Heart",
+    "FilmId": "tt0166943",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Roberta Guaspari",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Boys Don't Cry",
+    "FilmId": "tt0171804",
+    "Name": "Hilary Swank",
+    "Nominees": "Hilary Swank",
+    "NomineeIds": "nm0005476",
+    "Winner": "True",
+    "Detail": "Brandon Teena/Teena Brandon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Sixth Sense",
+    "FilmId": "tt0167404",
+    "Name": "Toni Collette",
+    "Nominees": "Toni Collette",
+    "NomineeIds": "nm0001057",
+    "Winner": "",
+    "Detail": "Lynn Sear",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Girl, Interrupted",
+    "FilmId": "tt0172493",
+    "Name": "Angelina Jolie",
+    "Nominees": "Angelina Jolie",
+    "NomineeIds": "nm0001401",
+    "Winner": "True",
+    "Detail": "Lisa Rowe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Being John Malkovich",
+    "FilmId": "tt0120601",
+    "Name": "Catherine Keener",
+    "Nominees": "Catherine Keener",
+    "NomineeIds": "nm0001416",
+    "Winner": "",
+    "Detail": "Maxine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Sweet and Lowdown",
+    "FilmId": "tt0158371",
+    "Name": "Samantha Morton",
+    "Nominees": "Samantha Morton",
+    "NomineeIds": "nm0608090",
+    "Winner": "",
+    "Detail": "Hattie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Boys Don't Cry",
+    "FilmId": "tt0171804",
+    "Name": "Chloë Sevigny",
+    "Nominees": "Chloë Sevigny",
+    "NomineeIds": "nm0001721",
+    "Winner": "",
+    "Detail": "Lana Tisdel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Anna and the King",
+    "FilmId": "tt0166485",
+    "Name": "Art Direction: Luciana Arrighi; Set Decoration: Ian Whittaker",
+    "Nominees": "Luciana Arrighi|Ian Whittaker",
+    "NomineeIds": "nm0002186|nm0926434",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Cider House Rules",
+    "FilmId": "tt0124315",
+    "Name": "Art Direction: David Gropman; Set Decoration: Beth Rubino",
+    "Nominees": "David Gropman|Beth Rubino",
+    "NomineeIds": "nm0343222|nm0748211",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Sleepy Hollow",
+    "FilmId": "tt0162661",
+    "Name": "Art Direction: Rick Heinrichs; Set Decoration: Peter Young",
+    "Nominees": "Rick Heinrichs|Peter Young",
+    "NomineeIds": "nm0374511|nm0949952",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Talented Mr. Ripley",
+    "FilmId": "tt0134119",
+    "Name": "Art Direction: Roy Walker; Set Decoration: Bruno Cesari",
+    "Nominees": "Roy Walker|Bruno Cesari",
+    "NomineeIds": "nm0908178|nm0149055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Topsy-Turvy",
+    "FilmId": "tt0151568",
+    "Name": "Art Direction: Eve Stewart; Set Decoration: Eve Stewart, John Bush",
+    "Nominees": "Eve Stewart|John Bush",
+    "NomineeIds": "nm0829378|nm0124151",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "American Beauty",
+    "FilmId": "tt0169547",
+    "Name": "Conrad L. Hall",
+    "Nominees": "Conrad L. Hall",
+    "NomineeIds": "nm0005734",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The End of the Affair",
+    "FilmId": "tt0172396",
+    "Name": "Roger Pratt",
+    "Nominees": "Roger Pratt",
+    "NomineeIds": "nm0695536",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Insider",
+    "FilmId": "tt0140352",
+    "Name": "Dante Spinotti",
+    "Nominees": "Dante Spinotti",
+    "NomineeIds": "nm0005883",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Sleepy Hollow",
+    "FilmId": "tt0162661",
+    "Name": "Emmanuel Lubezki",
+    "Nominees": "Emmanuel Lubezki",
+    "NomineeIds": "nm0523881",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Snow Falling on Cedars",
+    "FilmId": "tt0120834",
+    "Name": "Robert Richardson",
+    "Nominees": "Robert Richardson",
+    "NomineeIds": "nm0724744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Anna and the King",
+    "FilmId": "tt0166485",
+    "Name": "Jenny Beavan",
+    "Nominees": "Jenny Beavan",
+    "NomineeIds": "nm0064746",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Sleepy Hollow",
+    "FilmId": "tt0162661",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Talented Mr. Ripley",
+    "FilmId": "tt0134119",
+    "Name": "Ann Roth, Gary Jones",
+    "Nominees": "Ann Roth|Gary Jones",
+    "NomineeIds": "nm0744778|nm0428105",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Titus",
+    "FilmId": "tt0120866",
+    "Name": "Milena Canonero",
+    "Nominees": "Milena Canonero",
+    "NomineeIds": "nm0134382",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Topsy-Turvy",
+    "FilmId": "tt0151568",
+    "Name": "Lindy Hemming",
+    "Nominees": "Lindy Hemming",
+    "NomineeIds": "nm0376089",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "American Beauty",
+    "FilmId": "tt0169547",
+    "Name": "Sam Mendes",
+    "Nominees": "Sam Mendes",
+    "NomineeIds": "nm0005222",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Being John Malkovich",
+    "FilmId": "tt0120601",
+    "Name": "Spike Jonze",
+    "Nominees": "Spike Jonze",
+    "NomineeIds": "nm0005069",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Cider House Rules",
+    "FilmId": "tt0124315",
+    "Name": "Lasse Hallström",
+    "Nominees": "Lasse Hallström",
+    "NomineeIds": "nm0002120",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Insider",
+    "FilmId": "tt0140352",
+    "Name": "Michael Mann",
+    "Nominees": "Michael Mann",
+    "NomineeIds": "nm0000520",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Sixth Sense",
+    "FilmId": "tt0167404",
+    "Name": "M. Night Shyamalan",
+    "Nominees": "M. Night Shyamalan",
+    "NomineeIds": "nm0796117",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Buena Vista Social Club",
+    "FilmId": "tt0186508",
+    "Name": "Wim Wenders, Ulrich Felsberg",
+    "Nominees": "Wim Wenders|Ulrich Felsberg",
+    "NomineeIds": "nm0000694|nm0271570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Genghis Blues",
+    "FilmId": "tt0187859",
+    "Name": "Roko Belic, Adrian Belic",
+    "Nominees": "Roko Belic|Adrian Belic",
+    "NomineeIds": "nm0067861|nm0067860",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "On the Ropes",
+    "FilmId": "tt0181733",
+    "Name": "Nanette Burstein, Brett Morgen",
+    "Nominees": "Nanette Burstein|Brett Morgen",
+    "NomineeIds": "nm0123379|nm0605137",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "One Day in September",
+    "FilmId": "tt0230591",
+    "Name": "Arthur Cohn, Kevin Macdonald",
+    "Nominees": "Arthur Cohn|Kevin Macdonald",
+    "NomineeIds": "nm0004453|nm0531817",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Speaking in Strings",
+    "FilmId": "tt0181835",
+    "Name": "Paola di Florio, Lilibet Foster",
+    "Nominees": "Paola di Florio|Lilibet Foster",
+    "NomineeIds": "nm0223814|nm0287933",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Eyewitness",
+    "FilmId": "tt0239379",
+    "Name": "Bert Van Bork",
+    "Nominees": "Bert Van Bork",
+    "NomineeIds": "nm0885769",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "King Gimp",
+    "FilmId": "tt0239528",
+    "Name": "Susan Hannah Hadary, William A. Whiteford",
+    "Nominees": "Susan Hannah Hadary|William A. Whiteford",
+    "NomineeIds": "nm0169804|nm0925659",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Wildest Show in the South: The Angola Prison Rodeo",
+    "FilmId": "tt0240216",
+    "Name": "Simeon Soffer, Jonathan Stack",
+    "Nominees": "Simeon Soffer|Jonathan Stack",
+    "NomineeIds": "nm0812144|nm0821033",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "American Beauty",
+    "FilmId": "tt0169547",
+    "Name": "Tariq Anwar, Christopher Greenbury",
+    "Nominees": "Tariq Anwar|Christopher Greenbury",
+    "NomineeIds": "nm0031697|nm0338642",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Cider House Rules",
+    "FilmId": "tt0124315",
+    "Name": "Lisa Zeno Churgin",
+    "Nominees": "Lisa Zeno Churgin",
+    "NomineeIds": "nm0161497",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Insider",
+    "FilmId": "tt0140352",
+    "Name": "William Goldenberg, Paul Rubell, David Rosenbloom",
+    "Nominees": "William Goldenberg|Paul Rubell|David Rosenbloom",
+    "NomineeIds": "nm0325549|nm0747824|nm0742430",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Matrix",
+    "FilmId": "tt0133093",
+    "Name": "Zach Staenberg",
+    "Nominees": "Zach Staenberg",
+    "NomineeIds": "nm0821205",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Sixth Sense",
+    "FilmId": "tt0167404",
+    "Name": "Andrew Mondshein",
+    "Nominees": "Andrew Mondshein",
+    "NomineeIds": "nm0597812",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "All about My Mother",
+    "FilmId": "tt0185125",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Caravan",
+    "FilmId": "tt0210727",
+    "Name": "Nepal",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "East-West",
+    "FilmId": "tt0181530",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Solomon and Gaenor",
+    "FilmId": "tt0181830",
+    "Name": "United Kingdom",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Under the Sun",
+    "FilmId": "tt0158302",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Austin Powers: The Spy Who Shagged Me",
+    "FilmId": "tt0145660",
+    "Name": "Michèle Burke, Mike Smithson",
+    "Nominees": "Michèle Burke|Mike Smithson",
+    "NomineeIds": "nm0121807|nm0810480",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Bicentennial Man",
+    "FilmId": "tt0182789",
+    "Name": "Greg Cannom",
+    "Nominees": "Greg Cannom",
+    "NomineeIds": "nm0134148",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Life",
+    "FilmId": "tt0123964",
+    "Name": "Rick Baker",
+    "Nominees": "Rick Baker",
+    "NomineeIds": "nm0000711",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Topsy-Turvy",
+    "FilmId": "tt0151568",
+    "Name": "Christine Blundell, Trefor Proud",
+    "Nominees": "Christine Blundell|Trefor Proud",
+    "NomineeIds": "nm0089879|nm0698896",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "American Beauty",
+    "FilmId": "tt0169547",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Angela's Ashes",
+    "FilmId": "tt0145653",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Cider House Rules",
+    "FilmId": "tt0124315",
+    "Name": "Rachel Portman",
+    "Nominees": "Rachel Portman",
+    "NomineeIds": "nm0006235",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Red Violin",
+    "FilmId": "tt0120802",
+    "Name": "John Corigliano",
+    "Nominees": "John Corigliano",
+    "NomineeIds": "nm0179858",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Talented Mr. Ripley",
+    "FilmId": "tt0134119",
+    "Name": "Gabriel Yared",
+    "Nominees": "Gabriel Yared",
+    "NomineeIds": "nm0001189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "South Park: Bigger, Longer & Uncut",
+    "FilmId": "tt0158983",
+    "Name": "Music and Lyric by Trey Parker and Marc Shaiman",
+    "Nominees": "Trey Parker|Marc Shaiman",
+    "NomineeIds": "nm0005295|nm0003299",
+    "Winner": "",
+    "Detail": "Blame Canada",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Music of the Heart",
+    "FilmId": "tt0166943",
+    "Name": "Music and Lyric by Diane Warren",
+    "Nominees": "Diane Warren",
+    "NomineeIds": "nm0005534",
+    "Winner": "",
+    "Detail": "Music Of My Heart",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Magnolia",
+    "FilmId": "tt0175880",
+    "Name": "Music and Lyric by Aimee Mann",
+    "Nominees": "Aimee Mann",
+    "NomineeIds": "nm0005181",
+    "Winner": "",
+    "Detail": "Save Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Toy Story 2",
+    "FilmId": "tt0120363",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "When She Loved Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Tarzan",
+    "FilmId": "tt0120855",
+    "Name": "Music and Lyric by Phil Collins",
+    "Nominees": "Phil Collins",
+    "NomineeIds": "nm0002015",
+    "Winner": "True",
+    "Detail": "You'll Be In My Heart",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "American Beauty",
+    "FilmId": "tt0169547",
+    "Name": "Bruce Cohen and Dan Jinks, Producers",
+    "Nominees": "Bruce Cohen|Dan Jinks",
+    "NomineeIds": "nm0169260|nm0423134",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Cider House Rules",
+    "FilmId": "tt0124315",
+    "Name": "Richard N. Gladstein, Producer",
+    "Nominees": "Richard N. Gladstein",
+    "NomineeIds": "nm0321621",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Green Mile",
+    "FilmId": "tt0120689",
+    "Name": "David Valdes and Frank Darabont, Producers",
+    "Nominees": "David Valdes|Frank Darabont",
+    "NomineeIds": "nm0883603|nm0001104",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Insider",
+    "FilmId": "tt0140352",
+    "Name": "Michael Mann and Pieter Jan Brugge, Producers",
+    "Nominees": "Michael Mann|Pieter Jan Brugge",
+    "NomineeIds": "nm0000520|nm0115764",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Sixth Sense",
+    "FilmId": "tt0167404",
+    "Name": "Frank Marshall, Kathleen Kennedy and Barry Mendel, Producers",
+    "Nominees": "Frank Marshall|Kathleen Kennedy|Barry Mendel",
+    "NomineeIds": "nm0550881|nm0005086|nm0578814",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Humdrum",
+    "FilmId": "tt0192145",
+    "Name": "Peter Peake",
+    "Nominees": "Peter Peake",
+    "NomineeIds": "nm0668849",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "My Grandmother Ironed the King's Shirts",
+    "FilmId": "tt0210853",
+    "Name": "Torill Kove",
+    "Nominees": "Torill Kove",
+    "NomineeIds": "nm0468380",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Old Man and the Sea",
+    "FilmId": "tt0207639",
+    "Name": "Alexander Petrov",
+    "Nominees": "Alexander Petrov",
+    "NomineeIds": "nm0678154",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "3 Misses",
+    "FilmId": "tt0239206",
+    "Name": "Paul Driessen",
+    "Nominees": "Paul Driessen",
+    "NomineeIds": "nm0237895",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "When the Day Breaks",
+    "FilmId": "tt0200282",
+    "Name": "Wendy Tilby, Amanda Forbis",
+    "Nominees": "Wendy Tilby|Amanda Forbis",
+    "NomineeIds": "nm0863195|nm0285428",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Bror, Min Bror (Teis and Nico)",
+    "FilmId": "tt0191850",
+    "Name": "Henrik Ruben Genz, Michael W. Horsten",
+    "Nominees": "Henrik Ruben Genz|Michael W. Horsten",
+    "NomineeIds": "nm0313227|nm0392350",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Killing Joe",
+    "FilmId": "tt0236386",
+    "Name": "Mehdi Norowzian, Steve Wax",
+    "Nominees": "Mehdi Norowzian|Steve Wax",
+    "NomineeIds": "nm0635741|nm0915377",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Kleingeld (Small Change)",
+    "FilmId": "tt0200780",
+    "Name": "Marc-Andreas Bochert, Gabriele Lins",
+    "Nominees": "Marc-Andreas Bochert|Gabriele Lins",
+    "NomineeIds": "nm0090596|nm0513115",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Major and Minor Miracles",
+    "FilmId": "tt0239583",
+    "Name": "Marcus Olsson",
+    "Nominees": "Marcus Olsson",
+    "NomineeIds": "nm0648103",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "My Mother Dreams the Satan's Disciples in New York",
+    "FilmId": "tt0177023",
+    "Name": "Barbara Schock, Tammy Tiehel",
+    "Nominees": "Barbara Schock|Tammy Tiehel",
+    "NomineeIds": "nm0774294|nm0862843",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Green Mile",
+    "FilmId": "tt0120689",
+    "Name": "Robert J. Litt, Elliot Tyson, Michael Herbick, Willie D. Burton",
+    "Nominees": "Robert J. Litt|Elliot Tyson|Michael Herbick|Willie D. Burton",
+    "NomineeIds": "nm0514448|nm0006525|nm0378655|nm0123770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Insider",
+    "FilmId": "tt0140352",
+    "Name": "Andy Nelson, Doug Hemphill, Lee Orloff",
+    "Nominees": "Andy Nelson|Doug Hemphill|Lee Orloff",
+    "NomineeIds": "nm0625144|nm0376153|nm0650090",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Matrix",
+    "FilmId": "tt0133093",
+    "Name": "John Reitz, Gregg Rudloff, David Campbell, David Lee",
+    "Nominees": "John Reitz|Gregg Rudloff|David Campbell|David Lee",
+    "NomineeIds": "nm0718676|nm0748832|nm0132372|nm1325883",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Mummy",
+    "FilmId": "tt0120616",
+    "Name": "Leslie Shatz, Chris Carpenter, Rick Kline, Chris Munro",
+    "Nominees": "Leslie Shatz|Chris Carpenter|Rick Kline|Chris Munro",
+    "NomineeIds": "nm0789458|nm0139303|nm0459662|nm0613101",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Star Wars Episode I: The Phantom Menace",
+    "FilmId": "tt0120915",
+    "Name": "Gary Rydstrom, Tom Johnson, Shawn Murphy, John Midgley",
+    "Nominees": "Gary Rydstrom|Tom Johnson|Shawn Murphy|John Midgley",
+    "NomineeIds": "nm0003977|nm0426348|nm0004156|nm0585611",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Fight Club",
+    "FilmId": "tt0137523",
+    "Name": "Ren Klyce, Richard Hymns",
+    "Nominees": "Ren Klyce|Richard Hymns",
+    "NomineeIds": "nm0460274|nm0405232",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "The Matrix",
+    "FilmId": "tt0133093",
+    "Name": "Dane A. Davis",
+    "Nominees": "Dane A. Davis",
+    "NomineeIds": "nm0204424",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Star Wars Episode I: The Phantom Menace",
+    "FilmId": "tt0120915",
+    "Name": "Ben Burtt, Tom Bellfort",
+    "Nominees": "Ben Burtt|Tom Bellfort",
+    "NomineeIds": "nm0123785|nm0068938",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Matrix",
+    "FilmId": "tt0133093",
+    "Name": "John Gaeta, Janek Sirrs, Steve Courtley, Jon Thum",
+    "Nominees": "John Gaeta|Janek Sirrs|Steve Courtley|Jon Thum",
+    "NomineeIds": "nm0300665|nm0802938|nm0183871|nm0862039",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Star Wars Episode I: The Phantom Menace",
+    "FilmId": "tt0120915",
+    "Name": "John Knoll, Dennis Muren, Scott Squires, Rob Coleman",
+    "Nominees": "John Knoll|Dennis Muren|Scott Squires|Rob Coleman",
+    "NomineeIds": "nm0461306|nm0613830|nm0820140|nm0171197",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Stuart Little",
+    "FilmId": "tt0164912",
+    "Name": "John Dykstra, Jerome Chen, Henry F. Anderson III, Eric Allard",
+    "Nominees": "John Dykstra|Jerome Chen|Henry F. Anderson III|Eric Allard",
+    "NomineeIds": "nm0004375|nm0155259|nm0026801|nm0020063",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Cider House Rules",
+    "FilmId": "tt0124315",
+    "Name": "John Irving",
+    "Nominees": "John Irving",
+    "NomineeIds": "nm0410288",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Election",
+    "FilmId": "tt0126886",
+    "Name": "Alexander Payne, Jim Taylor",
+    "Nominees": "Alexander Payne|Jim Taylor",
+    "NomineeIds": "nm0668247|nm0852591",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Green Mile",
+    "FilmId": "tt0120689",
+    "Name": "Frank Darabont",
+    "Nominees": "Frank Darabont",
+    "NomineeIds": "nm0001104",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Insider",
+    "FilmId": "tt0140352",
+    "Name": "Eric Roth, Michael Mann",
+    "Nominees": "Eric Roth|Michael Mann",
+    "NomineeIds": "nm0744839|nm0000520",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Talented Mr. Ripley",
+    "FilmId": "tt0134119",
+    "Name": "Anthony Minghella",
+    "Nominees": "Anthony Minghella",
+    "NomineeIds": "nm0005237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "American Beauty",
+    "FilmId": "tt0169547",
+    "Name": "Alan Ball",
+    "Nominees": "Alan Ball",
+    "NomineeIds": "nm0050332",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Being John Malkovich",
+    "FilmId": "tt0120601",
+    "Name": "Charlie Kaufman",
+    "Nominees": "Charlie Kaufman",
+    "NomineeIds": "nm0442109",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Magnolia",
+    "FilmId": "tt0175880",
+    "Name": "Paul Thomas Anderson",
+    "Nominees": "Paul Thomas Anderson",
+    "NomineeIds": "nm0000759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "The Sixth Sense",
+    "FilmId": "tt0167404",
+    "Name": "M. Night Shyamalan",
+    "Nominees": "M. Night Shyamalan",
+    "NomineeIds": "nm0796117",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Topsy-Turvy",
+    "FilmId": "tt0151568",
+    "Name": "Mike Leigh",
+    "Nominees": "Mike Leigh",
+    "NomineeIds": "nm0005139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Andrzej Wajda",
+    "NomineeIds": "nm0906667",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Andrzej Wajda in recognition of five decades of extraordinary film direction."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Warren Beatty",
+    "Nominees": "Warren Beatty",
+    "NomineeIds": "nm0000886",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Roderick T. Ryan",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Roderick T. Ryan"
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nick Phillips",
+    "NomineeIds": "nm0680673",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "The Libra III head can accept a range of film cameras and their lenses and allows the operator to add stabilization to each axis for medium focal length lenses. Motion capture and playback are also selectable features.",
+    "Citation": "To NICK PHILLIPS for the design and development of the three-axis Libra III remote control camera head."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fritz Gabriel Bauer",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "The quiet Moviecam Superlight is an extremely small and light 35mm professional motion picture sound camera which allows the cinematographer to film in ways and situations that were never before possible.",
+    "Citation": "To FRITZ GABRIEL BAUER for the concept, design and engineering of the Moviecam Superlight 35mm Motion Picture Camera."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Iain Neil|Rick Gelbard|Panavision Inc.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "This unique and versatile viewfinder with two independent viewing positions provides a very high-resolution video assist image, greatly enhancing its application for on-set compositing or non-linear editing.",
+    "Citation": "To IAIN NEIL for the optical design, RICK GELBARD for the mechanical design, and PANAVISION, INC. for the development of the Millennium Camera System viewfinder."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Huw Gwilym|Karl Lynch|Mark V. Crabtree",
+    "NomineeIds": "nm0350357|?|?",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "This console allows the user multi-position mixing capabilities, stem routing predub inputs and other filmcentric attributes. This is the first fully digital audio mixing console specifically designed for post-production film mixing.",
+    "Citation": "To HUW GWILYM, KARL LYNCH and MARK V. CRABTREE for the design and development of the AMS Neve Logic Digital Film Console for motion picture sound mixing."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James Moultrie|Mike Salter|Mark Craig Gerchman",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "These state-of-the-art fixed focal length 35mm lenses are the result of intense efforts to meet industry requirements in several areas. Providing superior performance in several cinematographic aspects, these lenses include a unique linear focus system.",
+    "Citation": "To JAMES MOULTRIE for the mechanical design, and to MIKE SALTER and MARK CRAIG GERCHMAN for the optical design of the Cooke S4 Range of Fixed Focal Length Lenses for 35mm motion picture photography."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Marlowe A. Pichel",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "The impact of the Electro-formed Metal Reflector over the decades has completely changed the presentation side of the motion picture industry allowing the replacement of the carbon arc light source and the implementation of automated projection systems.",
+    "Citation": "To MARLOWE A. PICHEL for development of the process for manufacturing Electro-formed Metal Reflectors which, when combined with the DC Short Arc Xenon Lamp, became the worldwide standard for motion picture projection systems."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "L. Ron Schmidt",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "These radically new motion picture film projectors provide superior print handling, image steadiness, screen illumination and enhanced viewer experience by means of an extremely simple air-driven mechanical transport system.",
+    "Citation": "To L. RON SCHMIDT for the concept, design and engineering of the Linear Loop Film Projectors."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "NAT TIFFEN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "Materials of uniform color characteristics are implanted between layers of optical glass and bonded together under extremes of heat and pressure. The outer surfaces are ground and polished to specified close tolerances, free of distortion and resistant to changes in temperature or humidity, then bound with a protective metal ring.",
+    "Citation": "To NAT TIFFEN of Tiffen Manufacturing Corporation for the production of high-quality, durable, laminated color filters for motion picture photography."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Vivienne Dyer|Chris Woolf",
+    "NomineeIds": "?|nm3918902",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "Designed to eliminate physical acoustical rumble and to mask a microphone's high sensitivity to wind and other unwanted noises, the lightweight and rugged Rycote Microphone Windshields accomplish these tasks without altering or impairing the original frequency response of the microphone.",
+    "Citation": "To VIVIENNE DYER and CHRIS WOOLF for the design and development of the Rycote Microphone Windshield Modular System."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Leslie Drever",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "Designed to eliminate physical acoustical rumble and to cover a microphone's high sensitivity to wind and other unwanted noises, the Light Wave Systems line of shock mounts and windscreens accomplish these tasks without altering or impairing the original frequency response of the microphone.",
+    "Citation": "To LESLIE DREVER for the design and development of the Light Wave microphone windscreens and isolation mounts from Light Wave Systems."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard C. Sehlin|MITCHELL J. BOGDANOWICZ|MARY L. SCHMOEGER",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "The ELM Filters enable a laboratory to achieve additive printer contrast and color reproduction using a subtractive lamphouse.",
+    "Citation": "To RICHARD C. SEHLIN for the concept, and DR. MITCHELL J. BOGDANOWICZ and MARY L. SCHMOEGER of the Eastman Kodak Company for the design and development of the Eastman Lamphouse Modification Filters."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hoyt H. Yeatman Jr.|JOHN C. BREWER",
+    "NomineeIds": "nm0947087|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The elimination of the \\\"red fringe\\\" artifact in traveling matte composite photography obviates expensive additional computerized image processing thus reducing the time involved in producing a seamless and convincing composite shot.",
+    "Citation": "To HOYT H. YEATMAN, JR. of Dream Quest Images and JOHN C. BREWER of the Eastman Kodak Company for the identification and diagnosis leading to the elimination of the \\\"red fringe\\\" artifact in traveling matte composite photography."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "FPC Incorporated",
+    "NomineeIds": "co0109747",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To FPC, Incorporated, under the leadership of Barry M. Stultz and Milton Jan Friedman, for the development and implementation of an environmentally responsible program to recycle or destroy discarded motion picture prints."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Edmund M. Di Giulio",
+    "NomineeIds": "nm0223907",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Edmund M. Di Giulio in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 72,
+    "Year": 1999,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Takuo Miyagishima",
+    "NomineeIds": "nm1836710",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Takuo Miyagishima in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

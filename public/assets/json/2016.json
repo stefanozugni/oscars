@@ -1,1876 +1,2306 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2016",
-        "nominees": [
-            "Moonlight"
-        ],
-        "movies": [
-            {
-                "title": "Moonlight",
-                "tmdb_id": 376867,
-                "imdb_id": "tt4975722"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2016",
-        "nominees": [
-            "Arrival"
-        ],
-        "movies": [
-            {
-                "title": "Arrival",
-                "tmdb_id": 329865,
-                "imdb_id": "tt2543164"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2016",
-        "nominees": [
-            "Fences"
-        ],
-        "movies": [
-            {
-                "title": "Fences",
-                "tmdb_id": 393457,
-                "imdb_id": "tt2671706"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2016",
-        "nominees": [
-            "Hacksaw Ridge"
-        ],
-        "movies": [
-            {
-                "title": "Hacksaw Ridge",
-                "tmdb_id": 324786,
-                "imdb_id": "tt2119532"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2016",
-        "nominees": [
-            "Hell or High Water"
-        ],
-        "movies": [
-            {
-                "title": "Hell or High Water",
-                "tmdb_id": 338766,
-                "imdb_id": "tt2582782"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2016",
-        "nominees": [
-            "Hidden Figures"
-        ],
-        "movies": [
-            {
-                "title": "Hidden Figures",
-                "tmdb_id": 381284,
-                "imdb_id": "tt4846340"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2016",
-        "nominees": [
-            "La La Land"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2016",
-        "nominees": [
-            "Lion"
-        ],
-        "movies": [
-            {
-                "title": "Lion",
-                "tmdb_id": 334543,
-                "imdb_id": "tt3741834"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2016",
-        "nominees": [
-            "Manchester by the Sea"
-        ],
-        "movies": [
-            {
-                "title": "Manchester by the Sea",
-                "tmdb_id": 334541,
-                "imdb_id": "tt4034228"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2016",
-        "nominees": [
-            "Casey Affleck"
-        ],
-        "movies": [
-            {
-                "title": "Manchester by the Sea",
-                "tmdb_id": 334541,
-                "imdb_id": "tt4034228"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2016",
-        "nominees": [
-            "Andrew Garfield"
-        ],
-        "movies": [
-            {
-                "title": "Hacksaw Ridge",
-                "tmdb_id": 324786,
-                "imdb_id": "tt2119532"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2016",
-        "nominees": [
-            "Ryan Gosling"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2016",
-        "nominees": [
-            "Viggo Mortensen"
-        ],
-        "movies": [
-            {
-                "title": "Captain Fantastic",
-                "tmdb_id": 334533,
-                "imdb_id": "tt3553976"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2016",
-        "nominees": [
-            "Denzel Washington"
-        ],
-        "movies": [
-            {
-                "title": "Fences",
-                "tmdb_id": 393457,
-                "imdb_id": "tt2671706"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2016",
-        "nominees": [
-            "Emma Stone"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2016",
-        "nominees": [
-            "Isabelle Huppert"
-        ],
-        "movies": [
-            {
-                "title": "Elle",
-                "tmdb_id": 337674,
-                "imdb_id": "tt3716530"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2016",
-        "nominees": [
-            "Ruth Negga"
-        ],
-        "movies": [
-            {
-                "title": "Loving",
-                "tmdb_id": 339419,
-                "imdb_id": "tt4669986"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2016",
-        "nominees": [
-            "Natalie Portman"
-        ],
-        "movies": [
-            {
-                "title": "Jackie",
-                "tmdb_id": 376866,
-                "imdb_id": "tt1619029"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2016",
-        "nominees": [
-            "Meryl Streep"
-        ],
-        "movies": [
-            {
-                "title": "Florence Foster Jenkins",
-                "tmdb_id": 315664,
-                "imdb_id": "tt4136084"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2016",
-        "nominees": [
-            "Mahershala Ali"
-        ],
-        "movies": [
-            {
-                "title": "Moonlight",
-                "tmdb_id": 376867,
-                "imdb_id": "tt4975722"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2016",
-        "nominees": [
-            "Jeff Bridges"
-        ],
-        "movies": [
-            {
-                "title": "Hell or High Water",
-                "tmdb_id": 338766,
-                "imdb_id": "tt2582782"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2016",
-        "nominees": [
-            "Dev Patel"
-        ],
-        "movies": [
-            {
-                "title": "Lion",
-                "tmdb_id": 334543,
-                "imdb_id": "tt3741834"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2016",
-        "nominees": [
-            "Michael Shannon"
-        ],
-        "movies": [
-            {
-                "title": "Nocturnal Animals",
-                "tmdb_id": 340666,
-                "imdb_id": "tt4550098"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2016",
-        "nominees": [
-            "Lucas Hedges"
-        ],
-        "movies": [
-            {
-                "title": "Manchester by the Sea",
-                "tmdb_id": 334541,
-                "imdb_id": "tt4034228"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2016",
-        "nominees": [
-            "Viola Davis"
-        ],
-        "movies": [
-            {
-                "title": "Fences",
-                "tmdb_id": 393457,
-                "imdb_id": "tt2671706"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2016",
-        "nominees": [
-            "Naomie Harris"
-        ],
-        "movies": [
-            {
-                "title": "Moonlight",
-                "tmdb_id": 376867,
-                "imdb_id": "tt4975722"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2016",
-        "nominees": [
-            "Nicole Kidman"
-        ],
-        "movies": [
-            {
-                "title": "Lion",
-                "tmdb_id": 334543,
-                "imdb_id": "tt3741834"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2016",
-        "nominees": [
-            "Michelle Williams"
-        ],
-        "movies": [
-            {
-                "title": "Manchester by the Sea",
-                "tmdb_id": 334541,
-                "imdb_id": "tt4034228"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2016",
-        "nominees": [
-            "Octavia Spencer"
-        ],
-        "movies": [
-            {
-                "title": "Hidden Figures",
-                "tmdb_id": 381284,
-                "imdb_id": "tt4846340"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2016",
-        "nominees": [
-            "Damien Chazelle"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2016",
-        "nominees": [
-            "Denis Villeneuve"
-        ],
-        "movies": [
-            {
-                "title": "Arrival",
-                "tmdb_id": 329865,
-                "imdb_id": "tt2543164"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2016",
-        "nominees": [
-            "Mel Gibson"
-        ],
-        "movies": [
-            {
-                "title": "Hacksaw Ridge",
-                "tmdb_id": 324786,
-                "imdb_id": "tt2119532"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2016",
-        "nominees": [
-            "Kenneth Lonergan"
-        ],
-        "movies": [
-            {
-                "title": "Manchester by the Sea",
-                "tmdb_id": 334541,
-                "imdb_id": "tt4034228"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2016",
-        "nominees": [
-            "Barry Jenkins"
-        ],
-        "movies": [
-            {
-                "title": "Moonlight",
-                "tmdb_id": 376867,
-                "imdb_id": "tt4975722"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2016",
-        "nominees": [
-            "Barry Jenkins",
-            "Tarell Alvin McCraney"
-        ],
-        "movies": [
-            {
-                "title": "Moonlight",
-                "tmdb_id": 376867,
-                "imdb_id": "tt4975722"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2016",
-        "nominees": [
-            "Eric Heisserer"
-        ],
-        "movies": [
-            {
-                "title": "Arrival",
-                "tmdb_id": 329865,
-                "imdb_id": "tt2543164"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2016",
-        "nominees": [
-            "August Wilson"
-        ],
-        "movies": [
-            {
-                "title": "Fences",
-                "tmdb_id": 393457,
-                "imdb_id": "tt2671706"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2016",
-        "nominees": [
-            "Allison Schroeder",
-            "Theodore Melfi"
-        ],
-        "movies": [
-            {
-                "title": "Hidden Figures",
-                "tmdb_id": 381284,
-                "imdb_id": "tt4846340"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2016",
-        "nominees": [
-            "Luke Davis"
-        ],
-        "movies": [
-            {
-                "title": "Lion",
-                "tmdb_id": 334543,
-                "imdb_id": "tt3741834"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2016",
-        "nominees": [
-            "Kenneth Lonergan"
-        ],
-        "movies": [
-            {
-                "title": "Manchester by the Sea",
-                "tmdb_id": 334541,
-                "imdb_id": "tt4034228"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2016",
-        "nominees": [
-            "Damien Chazelle"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2016",
-        "nominees": [
-            "Yorgos Lanthimos",
-            "Efthimis Filippou"
-        ],
-        "movies": [
-            {
-                "title": "The Lobster",
-                "tmdb_id": 254320,
-                "imdb_id": "tt3464902"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2016",
-        "nominees": [
-            "Taylor Sheridan"
-        ],
-        "movies": [
-            {
-                "title": "Hell or High Water",
-                "tmdb_id": 338766,
-                "imdb_id": "tt2582782"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2016",
-        "nominees": [
-            "Mike Mills"
-        ],
-        "movies": [
-            {
-                "title": "20th Century Women",
-                "tmdb_id": 342737,
-                "imdb_id": "tt4385888"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2016",
-        "nominees": [
-            "Justin Hurwitz"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2016",
-        "nominees": [
-            "Mica Levi"
-        ],
-        "movies": [
-            {
-                "title": "Jackie",
-                "tmdb_id": 376866,
-                "imdb_id": "tt1619029"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2016",
-        "nominees": [
-            "Dustin O'Halloran",
-            "Hauschka"
-        ],
-        "movies": [
-            {
-                "title": "Lion",
-                "tmdb_id": 334543,
-                "imdb_id": "tt3741834"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2016",
-        "nominees": [
-            "Nicholas Britell"
-        ],
-        "movies": [
-            {
-                "title": "Moonlight",
-                "tmdb_id": 376867,
-                "imdb_id": "tt4975722"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2016",
-        "nominees": [
-            "Thomas Newman"
-        ],
-        "movies": [
-            {
-                "title": "Passengers",
-                "tmdb_id": 274870,
-                "imdb_id": "tt1355644"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2016",
-        "nominees": [
-            "City of Stars"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2016",
-        "nominees": [
-            "Audition (The Fools Who Dream)"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2016",
-        "nominees": [
-            "Can't Stop the Feeling"
-        ],
-        "movies": [
-            {
-                "title": "Trolls",
-                "tmdb_id": 136799,
-                "imdb_id": "tt1679335"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2016",
-        "nominees": [
-            "The Empty Chair"
-        ],
-        "movies": [
-            {
-                "title": "Jim: The James Foley Story",
-                "tmdb_id": 373441,
-                "imdb_id": "tt5278466"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2016",
-        "nominees": [
-            "How Far I'll Go"
-        ],
-        "movies": [
-            {
-                "title": "Moana",
-                "tmdb_id": 277834,
-                "imdb_id": "tt3521164"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2016",
-        "nominees": [
-            "The Salesman"
-        ],
-        "movies": [
-            {
-                "title": "The Salesman",
-                "tmdb_id": 375315,
-                "imdb_id": "tt5186714"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2016",
-        "nominees": [
-            "Land of Mine"
-        ],
-        "movies": [
-            {
-                "title": "Land of Mine",
-                "tmdb_id": 335578,
-                "imdb_id": "tt3841424"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2016",
-        "nominees": [
-            "A Man Called Ove"
-        ],
-        "movies": [
-            {
-                "title": "A Man Called Ove",
-                "tmdb_id": 348678,
-                "imdb_id": "tt4080728"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2016",
-        "nominees": [
-            "Toni Erdmann"
-        ],
-        "movies": [
-            {
-                "title": "Toni Erdmann",
-                "tmdb_id": 374475,
-                "imdb_id": "tt4048272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2016",
-        "nominees": [
-            "Tanna"
-        ],
-        "movies": [
-            {
-                "title": "Tanna",
-                "tmdb_id": 359151,
-                "imdb_id": "tt4239726"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2016",
-        "nominees": [
-            "O.J.: Made in America"
-        ],
-        "movies": [
-            {
-                "title": "O.J.: Made in America",
-                "tmdb_id": 377462,
-                "imdb_id": "tt5275892"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2016",
-        "nominees": [
-            "Fire at Sea"
-        ],
-        "movies": [
-            {
-                "title": "Fire at Sea",
-                "tmdb_id": 377151,
-                "imdb_id": "tt3652526"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2016",
-        "nominees": [
-            "I Am Not Your Negro"
-        ],
-        "movies": [
-            {
-                "title": "I Am Not Your Negro",
-                "tmdb_id": 411019,
-                "imdb_id": "tt5804038"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2016",
-        "nominees": [
-            "Life, Animated"
-        ],
-        "movies": [
-            {
-                "title": "Life, Animated",
-                "tmdb_id": 376233,
-                "imdb_id": "tt3917210"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2016",
-        "nominees": [
-            "13th"
-        ],
-        "movies": [
-            {
-                "title": "13th",
-                "tmdb_id": 407806,
-                "imdb_id": "tt5895028"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2016",
-        "nominees": [
-            "The White Helmets"
-        ],
-        "movies": [
-            {
-                "title": "The White Helmets",
-                "tmdb_id": 416211,
-                "imdb_id": "tt6073176"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2016",
-        "nominees": [
-            "Extremis"
-        ],
-        "movies": [
-            {
-                "title": "Extremis",
-                "tmdb_id": 393443,
-                "imdb_id": "tt5538078"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2016",
-        "nominees": [
-            "4.1 Miles"
-        ],
-        "movies": [
-            {
-                "title": "4.1 Miles",
-                "tmdb_id": 422960,
-                "imdb_id": "tt6279726"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2016",
-        "nominees": [
-            "Watani: My Homeland"
-        ],
-        "movies": [
-            {
-                "title": "Watani: My Homeland",
-                "tmdb_id": 428313,
-                "imdb_id": "tt6195494"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2016",
-        "nominees": [
-            "Joe's Violin"
-        ],
-        "movies": [
-            {
-                "title": "Joe's Violin",
-                "tmdb_id": 393949,
-                "imdb_id": "tt5639178"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2016",
-        "nominees": [
-            "Zootopia"
-        ],
-        "movies": [
-            {
-                "title": "Zootopia",
-                "tmdb_id": 269149,
-                "imdb_id": "tt2948356"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2016",
-        "nominees": [
-            "Kubo and the Two Strings"
-        ],
-        "movies": [
-            {
-                "title": "Kubo and the Two Strings",
-                "tmdb_id": 313297,
-                "imdb_id": "tt4302938"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2016",
-        "nominees": [
-            "Moana"
-        ],
-        "movies": [
-            {
-                "title": "Moana",
-                "tmdb_id": 277834,
-                "imdb_id": "tt3521164"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2016",
-        "nominees": [
-            "My Life as a Zucchini"
-        ],
-        "movies": [
-            {
-                "title": "My Life as a Zucchini",
-                "tmdb_id": 393559,
-                "imdb_id": "tt2321405"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2016",
-        "nominees": [
-            "The Red Turtle"
-        ],
-        "movies": [
-            {
-                "title": "The Red Turtle",
-                "tmdb_id": 337703,
-                "imdb_id": "tt3666024"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2016",
-        "nominees": [
-            "Piper"
-        ],
-        "movies": [
-            {
-                "title": "Piper",
-                "tmdb_id": 399106,
-                "imdb_id": "tt5613056"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2016",
-        "nominees": [
-            "Blind Vaysha"
-        ],
-        "movies": [
-            {
-                "title": "Blind Vaysha",
-                "tmdb_id": 389677,
-                "imdb_id": "tt5559726"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2016",
-        "nominees": [
-            "Borrowed Time"
-        ],
-        "movies": [
-            {
-                "title": "Borrowed Time",
-                "tmdb_id": 421281,
-                "imdb_id": "tt4874696"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2016",
-        "nominees": [
-            "Pear Cider and Cigarettes"
-        ],
-        "movies": [
-            {
-                "title": "Pear Cider and Cigarettes",
-                "tmdb_id": 406398,
-                "imdb_id": "tt5358978"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2016",
-        "nominees": [
-            "Pearl"
-        ],
-        "movies": [
-            {
-                "title": "Pearl",
-                "tmdb_id": 623098,
-                "imdb_id": "tt5599918"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2016",
-        "nominees": [
-            "Sing"
-        ],
-        "movies": [
-            {
-                "title": "Sing",
-                "tmdb_id": 335797,
-                "imdb_id": "tt3470600"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2016",
-        "nominees": [
-            "Enemies Within"
-        ],
-        "movies": [
-            {
-                "title": "Enemies Within",
-                "tmdb_id": 427413,
-                "imdb_id": "tt5467670"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2016",
-        "nominees": [
-            "The Railroad Lady"
-        ],
-        "movies": [
-            {
-                "title": "The Railroad Lady",
-                "tmdb_id": 403252,
-                "imdb_id": "tt4661660"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2016",
-        "nominees": [
-            "Silent Nights"
-        ],
-        "movies": [
-            {
-                "title": "Silent Nights",
-                "tmdb_id": 433583,
-                "imdb_id": "tt6460636"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2016",
-        "nominees": [
-            "Timecode"
-        ],
-        "movies": [
-            {
-                "title": "Timecode",
-                "tmdb_id": 398395,
-                "imdb_id": "tt5699202"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Sandy Reynolds-Wasco",
-            "David Wasco"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Patrice Vermette",
-            "Paul Hotte"
-        ],
-        "movies": [
-            {
-                "title": "Arrival",
-                "tmdb_id": 329865,
-                "imdb_id": "tt2543164"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Stuart Craig",
-            "Anna Pinnock"
-        ],
-        "movies": [
-            {
-                "title": "Fantastic Beasts and Where to Find Them",
-                "tmdb_id": 259316,
-                "imdb_id": "tt3183660"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Jess Gonchor",
-            "Nancy Haigh"
-        ],
-        "movies": [
-            {
-                "title": "Hail, Caesar!",
-                "tmdb_id": 270487,
-                "imdb_id": "tt0475290"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Guy Hendrix Dyas",
-            "Gene Serdena"
-        ],
-        "movies": [
-            {
-                "title": "Passengers",
-                "tmdb_id": 274870,
-                "imdb_id": "tt1355644"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2016",
-        "nominees": [
-            "Linus Sandgren"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2016",
-        "nominees": [
-            "Bradford Young"
-        ],
-        "movies": [
-            {
-                "title": "Arrival",
-                "tmdb_id": 329865,
-                "imdb_id": "tt2543164"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2016",
-        "nominees": [
-            "Greig Fraser"
-        ],
-        "movies": [
-            {
-                "title": "Lion",
-                "tmdb_id": 334543,
-                "imdb_id": "tt3741834"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2016",
-        "nominees": [
-            "James Laxton"
-        ],
-        "movies": [
-            {
-                "title": "Moonlight",
-                "tmdb_id": 376867,
-                "imdb_id": "tt4975722"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2016",
-        "nominees": [
-            "Rodrigo Prieto"
-        ],
-        "movies": [
-            {
-                "title": "Silence",
-                "tmdb_id": 68730,
-                "imdb_id": "tt0490215"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2016",
-        "nominees": [
-            "John Gilbert"
-        ],
-        "movies": [
-            {
-                "title": "Hacksaw Ridge",
-                "tmdb_id": 324786,
-                "imdb_id": "tt2119532"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2016",
-        "nominees": [
-            "Joe Walker"
-        ],
-        "movies": [
-            {
-                "title": "Arrival",
-                "tmdb_id": 329865,
-                "imdb_id": "tt2543164"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2016",
-        "nominees": [
-            "Tom Cross"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2016",
-        "nominees": [
-            "Jake Roberts"
-        ],
-        "movies": [
-            {
-                "title": "Hell or High Water",
-                "tmdb_id": 338766,
-                "imdb_id": "tt2582782"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2016",
-        "nominees": [
-            "Nat Sanders",
-            "Joi McMillon"
-        ],
-        "movies": [
-            {
-                "title": "Moonlight",
-                "tmdb_id": 376867,
-                "imdb_id": "tt4975722"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2016",
-        "nominees": [
-            "Robert Legato",
-            "Adam Valdez",
-            "Andrew R. Jones",
-            "Dan Lemmon"
-        ],
-        "movies": [
-            {
-                "title": "The Jungle Book",
-                "tmdb_id": 278927,
-                "imdb_id": "tt3040964"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2016",
-        "nominees": [
-            "Craig Hammack",
-            "Jason Snell",
-            "Jason Billington",
-            "Burt Dalton"
-        ],
-        "movies": [
-            {
-                "title": "Deepwater Horizon",
-                "tmdb_id": 296524,
-                "imdb_id": "tt1860357"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2016",
-        "nominees": [
-            "Stephane Ceretti",
-            "Richard Bluff",
-            "Vincent Cirelli",
-            "Paul Corbould"
-        ],
-        "movies": [
-            {
-                "title": "Doctor Strange",
-                "tmdb_id": 284052,
-                "imdb_id": "tt1211837"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2016",
-        "nominees": [
-            "Steve Emerson",
-            "Oliver Jones",
-            "Brian McLean",
-            "Brad Schiff"
-        ],
-        "movies": [
-            {
-                "title": "Kubo and the Two Strings",
-                "tmdb_id": 313297,
-                "imdb_id": "tt4302938"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2016",
-        "nominees": [
-            "John Knoll",
-            "Mohen Leo",
-            "Hal Hickel",
-            "Neil Corbould"
-        ],
-        "movies": [
-            {
-                "title": "Rogue One: A Star Wars Story",
-                "tmdb_id": 330459,
-                "imdb_id": "tt3748528"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2016",
-        "nominees": [
-            "Kevin O'Connell",
-            "andy Wright",
-            "Robert Mackenzie",
-            "Peter Grace"
-        ],
-        "movies": [
-            {
-                "title": "Hacksaw Ridge",
-                "tmdb_id": 324786,
-                "imdb_id": "tt2119532"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2016",
-        "nominees": [
-            "Bernard Gariepy Strobl",
-            "Claude La Haye"
-        ],
-        "movies": [
-            {
-                "title": "Arrival",
-                "tmdb_id": 329865,
-                "imdb_id": "tt2543164"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2016",
-        "nominees": [
-            "Andy Nelson",
-            "Ai-Ling Lee",
-            "Steve A. Morrow"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2016",
-        "nominees": [
-            "David Parker",
-            "Christopher Scarabosio",
-            "Stuart Wilson"
-        ],
-        "movies": [
-            {
-                "title": "Rogue One: A Star Wars Story",
-                "tmdb_id": 330459,
-                "imdb_id": "tt3748528"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2016",
-        "nominees": [
-            "Greg P. Russell",
-            "Gary Summers",
-            "Jeffrey J. Haboush",
-            "Mac Ruth"
-        ],
-        "movies": [
-            {
-                "title": "13 Hours: The Secret Soldiers of Benghazi",
-                "tmdb_id": 300671,
-                "imdb_id": "tt4172430"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2016",
-        "nominees": [
-            "Sylvain Bellemare"
-        ],
-        "movies": [
-            {
-                "title": "Arrival",
-                "tmdb_id": 329865,
-                "imdb_id": "tt2543164"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2016",
-        "nominees": [
-            "Robert Mackenzie",
-            "Andy Wright"
-        ],
-        "movies": [
-            {
-                "title": "Hacksaw Ridge",
-                "tmdb_id": 324786,
-                "imdb_id": "tt2119532"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2016",
-        "nominees": [
-            "Wylie Stateman",
-            "Renee Tondelli"
-        ],
-        "movies": [
-            {
-                "title": "Deepwater Horizon",
-                "tmdb_id": 296524,
-                "imdb_id": "tt1860357"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2016",
-        "nominees": [
-            "Ai-Ling Lee",
-            "Mildred Iatrou Morgan"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2016",
-        "nominees": [
-            "Alan Robert Murray",
-            "Bub Asman"
-        ],
-        "movies": [
-            {
-                "title": "Sully",
-                "tmdb_id": 363676,
-                "imdb_id": "tt3263904"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2016",
-        "nominees": [
-            "Alessandro Bertolazzi",
-            "Giorgio Gregorini",
-            "Christopher Nelson"
-        ],
-        "movies": [
-            {
-                "title": "Suicide Squad",
-                "tmdb_id": 297761,
-                "imdb_id": "tt1386697"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2016",
-        "nominees": [
-            "Eva von Bahr",
-            "Love Larson"
-        ],
-        "movies": [
-            {
-                "title": "A Man Called Ove",
-                "tmdb_id": 348678,
-                "imdb_id": "tt4080728"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2016",
-        "nominees": [
-            "Joel Harlow",
-            "Richard Alonzo"
-        ],
-        "movies": [
-            {
-                "title": "Star Trek Beyond",
-                "tmdb_id": 188927,
-                "imdb_id": "tt2660888"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Colleen Atwood"
-        ],
-        "movies": [
-            {
-                "title": "Fantastic Beasts and Where to Find Them",
-                "tmdb_id": 259316,
-                "imdb_id": "tt3183660"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Joanna Johnston"
-        ],
-        "movies": [
-            {
-                "title": "Allied",
-                "tmdb_id": 369885,
-                "imdb_id": "tt3640424"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Madeline Fontaine"
-        ],
-        "movies": [
-            {
-                "title": "Jackie",
-                "tmdb_id": 376866,
-                "imdb_id": "tt1619029"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Consolata Boyle"
-        ],
-        "movies": [
-            {
-                "title": "Florence Foster Jenkins",
-                "tmdb_id": 315664,
-                "imdb_id": "tt4136084"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2016",
-        "nominees": [
-            "Mary Zophres"
-        ],
-        "movies": [
-            {
-                "title": "La La Land",
-                "tmdb_id": 313369,
-                "imdb_id": "tt3783958"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Manchester by the Sea",
+    "FilmId": "tt4034228",
+    "Name": "Casey Affleck",
+    "Nominees": "Casey Affleck",
+    "NomineeIds": "nm0000729",
+    "Winner": "True",
+    "Detail": "Lee Chandler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Hacksaw Ridge",
+    "FilmId": "tt2119532",
+    "Name": "Andrew Garfield",
+    "Nominees": "Andrew Garfield",
+    "NomineeIds": "nm1940449",
+    "Winner": "",
+    "Detail": "Desmond Doss",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Ryan Gosling",
+    "Nominees": "Ryan Gosling",
+    "NomineeIds": "nm0331516",
+    "Winner": "",
+    "Detail": "Sebastian",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Captain Fantastic",
+    "FilmId": "tt3553976",
+    "Name": "Viggo Mortensen",
+    "Nominees": "Viggo Mortensen",
+    "NomineeIds": "nm0001557",
+    "Winner": "",
+    "Detail": "Ben",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Fences",
+    "FilmId": "tt2671706",
+    "Name": "Denzel Washington",
+    "Nominees": "Denzel Washington",
+    "NomineeIds": "nm0000243",
+    "Winner": "",
+    "Detail": "Troy Maxson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Moonlight",
+    "FilmId": "tt4975722",
+    "Name": "Mahershala Ali",
+    "Nominees": "Mahershala Ali",
+    "NomineeIds": "nm0991810",
+    "Winner": "True",
+    "Detail": "Juan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Hell or High Water",
+    "FilmId": "tt2582782",
+    "Name": "Jeff Bridges",
+    "Nominees": "Jeff Bridges",
+    "NomineeIds": "nm0000313",
+    "Winner": "",
+    "Detail": "Marcus Hamilton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Manchester by the Sea",
+    "FilmId": "tt4034228",
+    "Name": "Lucas Hedges",
+    "Nominees": "Lucas Hedges",
+    "NomineeIds": "nm2348627",
+    "Winner": "",
+    "Detail": "Patrick Chandler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Lion",
+    "FilmId": "tt3741834",
+    "Name": "Dev Patel",
+    "Nominees": "Dev Patel",
+    "NomineeIds": "nm2353862",
+    "Winner": "",
+    "Detail": "Saroo Brierley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Nocturnal Animals",
+    "FilmId": "tt4550098",
+    "Name": "Michael Shannon",
+    "Nominees": "Michael Shannon",
+    "NomineeIds": "nm0788335",
+    "Winner": "",
+    "Detail": "Bobby Andes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Elle",
+    "FilmId": "tt3716530",
+    "Name": "Isabelle Huppert",
+    "Nominees": "Isabelle Huppert",
+    "NomineeIds": "nm0001376",
+    "Winner": "",
+    "Detail": "Michèle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Loving",
+    "FilmId": "tt4669986",
+    "Name": "Ruth Negga",
+    "Nominees": "Ruth Negga",
+    "NomineeIds": "nm1550948",
+    "Winner": "",
+    "Detail": "Mildred",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Jackie",
+    "FilmId": "tt1619029",
+    "Name": "Natalie Portman",
+    "Nominees": "Natalie Portman",
+    "NomineeIds": "nm0000204",
+    "Winner": "",
+    "Detail": "Jackie Kennedy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Emma Stone",
+    "Nominees": "Emma Stone",
+    "NomineeIds": "nm1297015",
+    "Winner": "True",
+    "Detail": "Mia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Florence Foster Jenkins",
+    "FilmId": "tt4136084",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Florence Foster Jenkins",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Fences",
+    "FilmId": "tt2671706",
+    "Name": "Viola Davis",
+    "Nominees": "Viola Davis",
+    "NomineeIds": "nm0205626",
+    "Winner": "True",
+    "Detail": "Rose Maxson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Moonlight",
+    "FilmId": "tt4975722",
+    "Name": "Naomie Harris",
+    "Nominees": "Naomie Harris",
+    "NomineeIds": "nm0365140",
+    "Winner": "",
+    "Detail": "Paula",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Lion",
+    "FilmId": "tt3741834",
+    "Name": "Nicole Kidman",
+    "Nominees": "Nicole Kidman",
+    "NomineeIds": "nm0000173",
+    "Winner": "",
+    "Detail": "Sue Brierley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Hidden Figures",
+    "FilmId": "tt4846340",
+    "Name": "Octavia Spencer",
+    "Nominees": "Octavia Spencer",
+    "NomineeIds": "nm0818055",
+    "Winner": "",
+    "Detail": "Dorothy Vaughan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Manchester by the Sea",
+    "FilmId": "tt4034228",
+    "Name": "Michelle Williams",
+    "Nominees": "Michelle Williams",
+    "NomineeIds": "nm0931329",
+    "Winner": "",
+    "Detail": "Randi Chandler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Kubo and the Two Strings",
+    "FilmId": "tt4302938",
+    "Name": "Travis Knight and Arianne Sutner",
+    "Nominees": "Travis Knight|Arianne Sutner",
+    "NomineeIds": "nm1325899|nm1750312",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Moana",
+    "FilmId": "tt3521164",
+    "Name": "John Musker, Ron Clements and Osnat Shurer",
+    "Nominees": "John Musker|Ron Clements|Osnat Shurer",
+    "NomineeIds": "nm0615780|nm0166256|nm1575873",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "My Life as a Zucchini",
+    "FilmId": "tt2321405",
+    "Name": "Claude Barras and Max Karli",
+    "Nominees": "Claude Barras|Max Karli",
+    "NomineeIds": "nm1957706|nm1519403",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Red Turtle",
+    "FilmId": "tt3666024",
+    "Name": "Michael Dudok de Wit and Toshio Suzuki",
+    "Nominees": "Michael Dudok de Wit|Toshio Suzuki",
+    "NomineeIds": "nm0240196|nm0840699",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Zootopia",
+    "FilmId": "tt2948356",
+    "Name": "Byron Howard, Rich Moore and Clark Spencer",
+    "Nominees": "Byron Howard|Rich Moore|Clark Spencer",
+    "NomineeIds": "nm0397174|nm0601781|nm1192875",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Arrival",
+    "FilmId": "tt2543164",
+    "Name": "Bradford Young",
+    "Nominees": "Bradford Young",
+    "NomineeIds": "nm2284226",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Linus Sandgren",
+    "Nominees": "Linus Sandgren",
+    "NomineeIds": "nm0761874",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Lion",
+    "FilmId": "tt3741834",
+    "Name": "Greig Fraser",
+    "Nominees": "Greig Fraser",
+    "NomineeIds": "nm0292132",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Moonlight",
+    "FilmId": "tt4975722",
+    "Name": "James Laxton",
+    "Nominees": "James Laxton",
+    "NomineeIds": "nm0493439",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Silence",
+    "FilmId": "tt0490215",
+    "Name": "Rodrigo Prieto",
+    "Nominees": "Rodrigo Prieto",
+    "NomineeIds": "nm0006509",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Allied",
+    "FilmId": "tt3640424",
+    "Name": "Joanna Johnston",
+    "Nominees": "Joanna Johnston",
+    "NomineeIds": "nm0426693",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Fantastic Beasts and Where to Find Them",
+    "FilmId": "tt3183660",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Florence Foster Jenkins",
+    "FilmId": "tt4136084",
+    "Name": "Consolata Boyle",
+    "Nominees": "Consolata Boyle",
+    "NomineeIds": "nm0102219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Jackie",
+    "FilmId": "tt1619029",
+    "Name": "Madeline Fontaine",
+    "Nominees": "Madeline Fontaine",
+    "NomineeIds": "nm0284837",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Mary Zophres",
+    "Nominees": "Mary Zophres",
+    "NomineeIds": "nm0957861",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Arrival",
+    "FilmId": "tt2543164",
+    "Name": "Denis Villeneuve",
+    "Nominees": "Denis Villeneuve",
+    "NomineeIds": "nm0898288",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Hacksaw Ridge",
+    "FilmId": "tt2119532",
+    "Name": "Mel Gibson",
+    "Nominees": "Mel Gibson",
+    "NomineeIds": "nm0000154",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Damien Chazelle",
+    "Nominees": "Damien Chazelle",
+    "NomineeIds": "nm3227090",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Manchester by the Sea",
+    "FilmId": "tt4034228",
+    "Name": "Kenneth Lonergan",
+    "Nominees": "Kenneth Lonergan",
+    "NomineeIds": "nm0518836",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Moonlight",
+    "FilmId": "tt4975722",
+    "Name": "Barry Jenkins",
+    "Nominees": "Barry Jenkins",
+    "NomineeIds": "nm1503575",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Fire at Sea",
+    "FilmId": "tt3652526",
+    "Name": "Gianfranco Rosi and Donatella Palermo",
+    "Nominees": "Gianfranco Rosi|Donatella Palermo",
+    "NomineeIds": "nm0742941|nm0657550",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "I Am Not Your Negro",
+    "FilmId": "tt5804038",
+    "Name": "Raoul Peck, Rémi Grellety and Hébert Peck",
+    "Nominees": "Raoul Peck|Rémi Grellety|Hébert Peck",
+    "NomineeIds": "nm0669704|nm4009159|nm1479564",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Life, Animated",
+    "FilmId": "tt3917210",
+    "Name": "Roger Ross Williams and Julie Goldman",
+    "Nominees": "Roger Ross Williams|Julie Goldman",
+    "NomineeIds": "nm2141317|nm0325821",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "O.J.: Made in America",
+    "FilmId": "tt5275892",
+    "Name": "Ezra Edelman and Caroline Waterlow",
+    "Nominees": "Ezra Edelman|Caroline Waterlow",
+    "NomineeIds": "nm1554601|nm1700023",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "13th",
+    "FilmId": "tt5895028",
+    "Name": "Ava DuVernay, Spencer Averick and Howard Barish",
+    "Nominees": "Ava DuVernay|Spencer Averick|Howard Barish",
+    "NomineeIds": "nm1148550|nm2589786|nm0054711",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Extremis",
+    "FilmId": "tt5538078",
+    "Name": "Dan Krauss",
+    "Nominees": "Dan Krauss",
+    "NomineeIds": "nm1830532",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "4.1 Miles",
+    "FilmId": "tt6279726",
+    "Name": "Daphne Matziaraki",
+    "Nominees": "Daphne Matziaraki",
+    "NomineeIds": "nm6471764",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Joe's Violin",
+    "FilmId": "tt5639178",
+    "Name": "Kahane Cooperman and Raphaela Neihausen",
+    "Nominees": "Kahane Cooperman|Raphaela Neihausen",
+    "NomineeIds": "nm0180084|nm2548992",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Watani: My Homeland",
+    "FilmId": "tt6195494",
+    "Name": "Marcel Mettelsiefen and Stephen Ellis",
+    "Nominees": "Marcel Mettelsiefen|Stephen Ellis",
+    "NomineeIds": "nm4984327|nm2267281",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The White Helmets",
+    "FilmId": "tt6073176",
+    "Name": "Orlando von Einsiedel and Joanna Natasegara",
+    "Nominees": "Orlando von Einsiedel|Joanna Natasegara",
+    "NomineeIds": "nm3915542|nm3319085",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Arrival",
+    "FilmId": "tt2543164",
+    "Name": "Joe Walker",
+    "Nominees": "Joe Walker",
+    "NomineeIds": "nm0907863",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Hacksaw Ridge",
+    "FilmId": "tt2119532",
+    "Name": "John Gilbert",
+    "Nominees": "John Gilbert",
+    "NomineeIds": "nm0003016",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Hell or High Water",
+    "FilmId": "tt2582782",
+    "Name": "Jake Roberts",
+    "Nominees": "Jake Roberts",
+    "NomineeIds": "nm1075638",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Tom Cross",
+    "Nominees": "Tom Cross",
+    "NomineeIds": "nm0189285",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Moonlight",
+    "FilmId": "tt4975722",
+    "Name": "Nat Sanders and Joi McMillon",
+    "Nominees": "Nat Sanders|Joi McMillon",
+    "NomineeIds": "nm1477623|nm1536314",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Land of Mine",
+    "FilmId": "tt3841424",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A Man Called Ove",
+    "FilmId": "tt4080728",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Salesman",
+    "FilmId": "tt5186714",
+    "Name": "Iran",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Tanna",
+    "FilmId": "tt4239726",
+    "Name": "Australia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Toni Erdmann",
+    "FilmId": "tt4048272",
+    "Name": "Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "A Man Called Ove",
+    "FilmId": "tt4080728",
+    "Name": "Eva von Bahr and Love Larson",
+    "Nominees": "Eva von Bahr|Love Larson",
+    "NomineeIds": "nm0901913|nm1037627",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Star Trek Beyond",
+    "FilmId": "tt2660888",
+    "Name": "Joel Harlow and Richard Alonzo",
+    "Nominees": "Joel Harlow|Richard Alonzo",
+    "NomineeIds": "nm0363355|nm0022314",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Suicide Squad",
+    "FilmId": "tt1386697",
+    "Name": "Alessandro Bertolazzi, Giorgio Gregorini and Christopher Nelson",
+    "Nominees": "Alessandro Bertolazzi|Giorgio Gregorini|Christopher Nelson",
+    "NomineeIds": "nm0078183|nm0339709|nm0625247",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Jackie",
+    "FilmId": "tt1619029",
+    "Name": "Mica Levi",
+    "Nominees": "Mica Levi",
+    "NomineeIds": "nm5908010",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Justin Hurwitz",
+    "Nominees": "Justin Hurwitz",
+    "NomineeIds": "nm3225654",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Lion",
+    "FilmId": "tt3741834",
+    "Name": "Dustin O'Halloran and Hauschka",
+    "Nominees": "Dustin O'Halloran|Hauschka",
+    "NomineeIds": "nm0641169|nm2890617",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Moonlight",
+    "FilmId": "tt4975722",
+    "Name": "Nicholas Britell",
+    "Nominees": "Nicholas Britell",
+    "NomineeIds": "nm1615109",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Passengers",
+    "FilmId": "tt1355644",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul",
+    "Nominees": "Justin Hurwitz|Benj Pasek|Justin Paul",
+    "NomineeIds": "nm3225654|nm2537947|nm2524192",
+    "Winner": "",
+    "Detail": "Audition (The Fools Who Dream)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Trolls",
+    "FilmId": "tt1679335",
+    "Name": "Music and Lyric by Justin Timberlake, Max Martin and Karl Johan Schuster",
+    "Nominees": "Justin Timberlake|Max Martin|Karl Johan Schuster",
+    "NomineeIds": "nm0005493|nm1159684|nm4733013",
+    "Winner": "",
+    "Detail": "Can't Stop The Feeling",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul",
+    "Nominees": "Justin Hurwitz|Benj Pasek|Justin Paul",
+    "NomineeIds": "nm3225654|nm2537947|nm2524192",
+    "Winner": "True",
+    "Detail": "City Of Stars",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Jim: The James Foley Story",
+    "FilmId": "tt5278466",
+    "Name": "Music and Lyric by J. Ralph and Sting",
+    "Nominees": "J. Ralph|Sting",
+    "NomineeIds": "nm0707775|nm0001776",
+    "Winner": "",
+    "Detail": "The Empty Chair",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Moana",
+    "FilmId": "tt3521164",
+    "Name": "Music and Lyric by Lin-Manuel Miranda",
+    "Nominees": "Lin-Manuel Miranda",
+    "NomineeIds": "nm0592135",
+    "Winner": "",
+    "Detail": "How Far I'll Go",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Arrival",
+    "FilmId": "tt2543164",
+    "Name": "Shawn Levy, Dan Levine, Aaron Ryder and David Linde, Producers",
+    "Nominees": "Shawn Levy|Dan Levine|Aaron Ryder|David Linde",
+    "NomineeIds": "nm0506613|nm1362282|nm0753083|nm0511482",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Fences",
+    "FilmId": "tt2671706",
+    "Name": "Scott Rudin, Denzel Washington and Todd Black, Producers",
+    "Nominees": "Scott Rudin|Denzel Washington|Todd Black",
+    "NomineeIds": "nm0748784|nm0000243|nm0085542",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Hacksaw Ridge",
+    "FilmId": "tt2119532",
+    "Name": "Bill Mechanic and David Permut, Producers",
+    "Nominees": "Bill Mechanic|David Permut",
+    "NomineeIds": "nm0575312|nm0674303",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Hell or High Water",
+    "FilmId": "tt2582782",
+    "Name": "Carla Hacken and Julie Yorn, Producers",
+    "Nominees": "Carla Hacken|Julie Yorn",
+    "NomineeIds": "nm0352402|nm0798930",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Hidden Figures",
+    "FilmId": "tt4846340",
+    "Name": "Donna Gigliotti, Peter Chernin, Jenno Topping, Pharrell Williams and Theodore Melfi, Producers",
+    "Nominees": "Donna Gigliotti|Peter Chernin|Jenno Topping|Pharrell Williams|Theodore Melfi",
+    "NomineeIds": "nm0317642|nm1858656|nm0867768|nm1214289|nm0577647",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Fred Berger, Jordan Horowitz and Marc Platt, Producers",
+    "Nominees": "Fred Berger|Jordan Horowitz|Marc Platt",
+    "NomineeIds": "nm1757754|nm3527897|nm0686887",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Lion",
+    "FilmId": "tt3741834",
+    "Name": "Emile Sherman, Iain Canning and Angie Fielder, Producers",
+    "Nominees": "Emile Sherman|Iain Canning|Angie Fielder",
+    "NomineeIds": "nm0792431|nm2096617|nm2652108",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Manchester by the Sea",
+    "FilmId": "tt4034228",
+    "Name": "Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck and Kevin J. Walsh, Producers",
+    "Nominees": "Matt Damon|Kimberly Steward|Chris Moore|Lauren Beck|Kevin J. Walsh",
+    "NomineeIds": "nm0000354|nm6844518|nm0601031|nm4568172|nm1016966",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Moonlight",
+    "FilmId": "tt4975722",
+    "Name": "Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers",
+    "Nominees": "Adele Romanski|Dede Gardner|Jeremy Kleiner",
+    "NomineeIds": "nm1532846|nm0306890|nm1250070",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Arrival",
+    "FilmId": "tt2543164",
+    "Name": "Production Design: Patrice Vermette; Set Decoration: Paul Hotte",
+    "Nominees": "Patrice Vermette|Paul Hotte",
+    "NomineeIds": "nm0894411|nm0396257",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Fantastic Beasts and Where to Find Them",
+    "FilmId": "tt3183660",
+    "Name": "Production Design: Stuart Craig; Set Decoration: Anna Pinnock",
+    "Nominees": "Stuart Craig|Anna Pinnock",
+    "NomineeIds": "nm0186023|nm0003519",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Hail, Caesar!",
+    "FilmId": "tt0475290",
+    "Name": "Production Design: Jess Gonchor; Set Decoration: Nancy Haigh",
+    "Nominees": "Jess Gonchor|Nancy Haigh",
+    "NomineeIds": "nm0327211|nm0354101",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Production Design: David Wasco; Set Decoration: Sandy Reynolds-Wasco",
+    "Nominees": "David Wasco|Sandy Reynolds-Wasco",
+    "NomineeIds": "nm0913300|nm0722012",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Passengers",
+    "FilmId": "tt1355644",
+    "Name": "Production Design: Guy Hendrix Dyas; Set Decoration: Gene Serdena",
+    "Nominees": "Guy Hendrix Dyas|Gene Serdena",
+    "NomineeIds": "nm0245596|nm0784922",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Blind Vaysha",
+    "FilmId": "tt5559726",
+    "Name": "Theodore Ushev",
+    "Nominees": "Theodore Ushev",
+    "NomineeIds": "nm1507308",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Borrowed Time",
+    "FilmId": "tt4874696",
+    "Name": "Andrew Coats and Lou Hamou-Lhadj",
+    "Nominees": "Andrew Coats|Lou Hamou-Lhadj",
+    "NomineeIds": "nm2855383|nm3210583",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Pear Cider and Cigarettes",
+    "FilmId": "tt5358978",
+    "Name": "Robert Valley and Cara Speller",
+    "Nominees": "Robert Valley|Cara Speller",
+    "NomineeIds": "nm3230254|nm1230132",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Pearl",
+    "FilmId": "tt5599918",
+    "Name": "Patrick Osborne",
+    "Nominees": "Patrick Osborne",
+    "NomineeIds": "nm2444148",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Piper",
+    "FilmId": "tt5613056",
+    "Name": "Alan Barillaro and Marc Sondheimer",
+    "Nominees": "Alan Barillaro|Marc Sondheimer",
+    "NomineeIds": "nm0054659|nm3116149",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Ennemis Intérieurs",
+    "FilmId": "tt5467670",
+    "Name": "Sélim Azzazi",
+    "Nominees": "Sélim Azzazi",
+    "NomineeIds": "nm1054871",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "La Femme et le TGV",
+    "FilmId": "tt4661660",
+    "Name": "Timo von Gunten and Giacun Caduff",
+    "Nominees": "Timo von Gunten|Giacun Caduff",
+    "NomineeIds": "nm4497243|nm1942413",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Silent Nights",
+    "FilmId": "tt6460636",
+    "Name": "Aske Bang and Kim Magnusson",
+    "Nominees": "Aske Bang|Kim Magnusson",
+    "NomineeIds": "nm2957173|nm0536385",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Sing",
+    "FilmId": "tt4571288",
+    "Name": "Kristof Deák and Anna Udvardy",
+    "Nominees": "Kristof Deák|Anna Udvardy",
+    "NomineeIds": "nm2038042|nm2686265",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Timecode",
+    "FilmId": "tt5699202",
+    "Name": "Juanjo Giménez",
+    "Nominees": "Juanjo Giménez",
+    "NomineeIds": "nm0319781",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Arrival",
+    "FilmId": "tt2543164",
+    "Name": "Sylvain Bellemare",
+    "Nominees": "Sylvain Bellemare",
+    "NomineeIds": "nm0068858",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Deepwater Horizon",
+    "FilmId": "tt1860357",
+    "Name": "Wylie Stateman and Renée Tondelli",
+    "Nominees": "Wylie Stateman|Renée Tondelli",
+    "NomineeIds": "nm0823758|nm0867123",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Hacksaw Ridge",
+    "FilmId": "tt2119532",
+    "Name": "Robert Mackenzie and Andy Wright",
+    "Nominees": "Robert Mackenzie|Andy Wright",
+    "NomineeIds": "nm1464727|nm1649593",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Ai-Ling Lee and Mildred Iatrou Morgan",
+    "Nominees": "Ai-Ling Lee|Mildred Iatrou Morgan",
+    "NomineeIds": "nm0496763|nm0406375",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Sully",
+    "FilmId": "tt3263904",
+    "Name": "Alan Robert Murray and Bub Asman",
+    "Nominees": "Alan Robert Murray|Bub Asman",
+    "NomineeIds": "nm0614812|nm0039544",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Arrival",
+    "FilmId": "tt2543164",
+    "Name": "Bernard Gariépy Strobl and Claude La Haye",
+    "Nominees": "Bernard Gariépy Strobl|Claude La Haye",
+    "NomineeIds": "nm0307483|nm0478639",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Hacksaw Ridge",
+    "FilmId": "tt2119532",
+    "Name": "Kevin O'Connell, Andy Wright, Robert Mackenzie and Peter Grace",
+    "Nominees": "Kevin O'Connell|Andy Wright|Robert Mackenzie|Peter Grace",
+    "NomineeIds": "nm0640114|nm1649593|nm1464727|nm0333384",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Andy Nelson, Ai-Ling Lee and Steve A. Morrow",
+    "Nominees": "Andy Nelson|Ai-Ling Lee|Steve A. Morrow",
+    "NomineeIds": "nm0625144|nm0496763|nm0607551",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Rogue One: A Star Wars Story",
+    "FilmId": "tt3748528",
+    "Name": "David Parker, Christopher Scarabosio and Stuart Wilson",
+    "Nominees": "David Parker|Christopher Scarabosio|Stuart Wilson",
+    "NomineeIds": "nm0662188|nm0769042|nm0934184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "13 Hours: The Secret Soldiers of Benghazi",
+    "FilmId": "tt4172430",
+    "Name": "Gary Summers, Jeffrey J. Haboush and Mac Ruth",
+    "Nominees": "Gary Summers|Jeffrey J. Haboush|Mac Ruth",
+    "NomineeIds": "nm0838707|nm0352300|nm0002314",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: The nomination as it was originally announced on January 24, 2017, included four names: Greg P. Russell, Gary Summers, Jeffrey J. Haboush and Mac Ruth. It was later determined that during the nominations phase Mr. Russell had violated Academy campaign regulations that prohibit telephone lobbying. Upon recommendation of the Sound Branch Executive Committee, the Academy's Board of Governors voted on February 23 to rescind the Sound Mixing nomination for Mr. Russell.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Deepwater Horizon",
+    "FilmId": "tt1860357",
+    "Name": "Craig Hammack, Jason Snell, Jason Billington and Burt Dalton",
+    "Nominees": "Craig Hammack|Jason Snell|Jason Billington|Burt Dalton",
+    "NomineeIds": "nm0358342|nm0811043|nm1313725|nm0198245",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Doctor Strange",
+    "FilmId": "tt1211837",
+    "Name": "Stephane Ceretti, Richard Bluff, Vincent Cirelli and Paul Corbould",
+    "Nominees": "Stephane Ceretti|Richard Bluff|Vincent Cirelli|Paul Corbould",
+    "NomineeIds": "nm0148547|nm1363090|nm1713374|nm0179274",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Jungle Book",
+    "FilmId": "tt3040964",
+    "Name": "Robert Legato, Adam Valdez, Andrew R. Jones and Dan Lemmon",
+    "Nominees": "Robert Legato|Adam Valdez|Andrew R. Jones|Dan Lemmon",
+    "NomineeIds": "nm0499215|nm0883628|nm1002475|nm0501424",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Kubo and the Two Strings",
+    "FilmId": "tt4302938",
+    "Name": "Steve Emerson, Oliver Jones, Brian McLean and Brad Schiff",
+    "Nominees": "Steve Emerson|Oliver Jones|Brian McLean|Brad Schiff",
+    "NomineeIds": "nm0256256|nm2885050|nm3293221|nm0771464",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Rogue One: A Star Wars Story",
+    "FilmId": "tt3748528",
+    "Name": "John Knoll, Mohen Leo, Hal Hickel and Neil Corbould",
+    "Nominees": "John Knoll|Mohen Leo|Hal Hickel|Neil Corbould",
+    "NomineeIds": "nm0461306|nm0502426|nm0382579|nm0179273",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Arrival",
+    "FilmId": "tt2543164",
+    "Name": "Screenplay by Eric Heisserer",
+    "Nominees": "Eric Heisserer",
+    "NomineeIds": "nm2104063",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Fences",
+    "FilmId": "tt2671706",
+    "Name": "Screenplay by August Wilson",
+    "Nominees": "August Wilson",
+    "NomineeIds": "nm0933025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Hidden Figures",
+    "FilmId": "tt4846340",
+    "Name": "Screenplay by Allison Schroeder and Theodore Melfi",
+    "Nominees": "Allison Schroeder|Theodore Melfi",
+    "NomineeIds": "nm2284377|nm0577647",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Lion",
+    "FilmId": "tt3741834",
+    "Name": "Screenplay by Luke Davies",
+    "Nominees": "Luke Davies",
+    "NomineeIds": "nm1729294",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Moonlight",
+    "FilmId": "tt4975722",
+    "Name": "Screenplay by Barry Jenkins; Story by Tarell Alvin McCraney",
+    "Nominees": "Barry Jenkins|Tarell Alvin McCraney",
+    "NomineeIds": "nm1503575|nm4144120",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Hell or High Water",
+    "FilmId": "tt2582782",
+    "Name": "Written by Taylor Sheridan",
+    "Nominees": "Taylor Sheridan",
+    "NomineeIds": "nm0792263",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "La La Land",
+    "FilmId": "tt3783958",
+    "Name": "Written by Damien Chazelle",
+    "Nominees": "Damien Chazelle",
+    "NomineeIds": "nm3227090",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Lobster",
+    "FilmId": "tt3464902",
+    "Name": "Written by Yorgos Lanthimos, Efthimis Filippou",
+    "Nominees": "Yorgos Lanthimos|Efthimis Filippou",
+    "NomineeIds": "nm0487166|nm3328207",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Manchester by the Sea",
+    "FilmId": "tt4034228",
+    "Name": "Written by Kenneth Lonergan",
+    "Nominees": "Kenneth Lonergan",
+    "NomineeIds": "nm0518836",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "20th Century Women",
+    "FilmId": "tt4385888",
+    "Name": "Written by Mike Mills",
+    "Nominees": "Mike Mills",
+    "NomineeIds": "nm0590122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jackie Chan",
+    "NomineeIds": "nm0000329",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Jackie Chan, an international film star who has captivated millions with his wit, boundless energy and unparalleled athletic artistry."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Anne V. Coates",
+    "NomineeIds": "nm0167613",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Anne V. Coates, in recognition of a film editing career of remarkable breadth and exceptional collaborative achievement."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Lynn Stalmaster",
+    "NomineeIds": "nm0002679",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Lynn Stalmaster, a true pioneer whose keen insight and inspired creativity transformed the art of motion picture casting."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Frederick Wiseman",
+    "NomineeIds": "nm0936464",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Frederick Wiseman, whose masterful and distinctive documentaries examine the familiar and reveal the unexpected."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Arri",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "With an intuitive design and appealing image reproduction, achieved through close collaboration with filmmakers, ARRI's Alexa cameras were among the first digital cameras widely adopted by cinematographers.",
+    "Citation": "To ARRI for the pioneering design and engineering of the Super 35 format Alexa digital camera system."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Red Digital Cinema",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "RED's revolutionary design and innovative manufacturing process have helped facilitate the wide adoption of digital image capture in the motion picture industry.",
+    "Citation": "To RED DIGITAL CINEMA for the pioneering design and evolution of the RED Epic digital cinema cameras with upgradeable full-frame image sensors."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Sony",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Sony's unique photosite orientation and true RAW recording deliver exceptional image quality.",
+    "Citation": "To SONY for the development of the F65 CineAlta camera with its pioneering high-resolution imaging sensor, excellent dynamic range, and full 4K output."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Panavision|Sony",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Using a familiar form factor and accessories, the design features of the Genesis allowed it to become one of the first digital cameras to be adopted by cinematographers.",
+    "Citation": "To PANAVISION and SONY for the conception and development of the groundbreaking Genesis digital motion picture camera."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Marcos Fajardo|Christopher Kulla|Alan King|Thiago Ize|Clifford Stein",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Arnold's scalable and memory-efficient single-pass architecture for path tracing, its authors' publication of the underlying techniques, and its broad industry acceptance were instrumental in leading a widespread adoption of fully ray-traced rendering for motion pictures.",
+    "Citation": "To MARCOS FAJARDO for the creative vision and original implementation of the Arnold Renderer, and to CHRISTOPHER KULLA, ALAN KING, THIAGO IZE and CLIFFORD STEIN for their highly optimized geometry engine and novel ray-tracing algorithms which unify the rendering of curves, surfaces, volumetrics and subsurface scattering as developed at Sony Pictures Imageworks and Solid Angle SL."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Vladimir Koylazov",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "V- Ray's efficient production-ready approach to ray-tracing and global illumination, its support for a wide variety of workflows, and its broad industry acceptance were instrumental in the widespread adoption of fully ray-traced rendering for motion pictures.",
+    "Citation": "To VLADIMIR KOYLAZOV for the original concept, design and implementation of V-Ray from Chaos Group."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Luca Fascione|J.P. Lewis|Iain Matthews",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "FACETS was one of the first reliable systems to demonstrate accurate facial tracking from an actor-mounted camera, combined with rig-based solving, in large-scale productions. This system enables animators to bring the nuance of the original live performances to a new level of fidelity for animated characters.",
+    "Citation": "To LUCA FASCIONE, J.P. LEWIS and IAIN MATTHEWS for the design, engineering, and development of the FACETS facial performance capture and solving system at Weta Digital."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steven Rosenbluth|JOSHUA BARRATT|ROBERT NOLTY|ARCHIE TE",
+    "NomineeIds": "nm0742479|?|?|?",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "This user-friendly hardware and software system creates and controls complex interactions of real and virtual motion in hard real-time, while safely adapting to the needs of on-set filmmakers.",
+    "Citation": "To STEVEN ROSENBLUTH, JOSHUA BARRATT, ROBERT NOLTY and ARCHIE TE for the engineering and development of the Concept Overdrive motion system."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thomson Grass Valley",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Viper camera enabled frame-based logarithmic encoding, which provided uncompressed camera output suitable for importing into existing digital intermediate workflows.",
+    "Citation": "To THOMSON GRASS VALLEY for the design and engineering of the pioneering Viper FilmStream digital camera system."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Larry Gritz",
+    "NomineeIds": "nm0342691",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "OSL is a highly optimized runtime architecture and language for programmable shading and texturing that has become a de facto industry standard. It enables artists at all levels of technical proficiency to create physically plausible materials for efficient production rendering.",
+    "Citation": "To LARRY GRITZ for the design, implementation and dissemination of Open Shading Language (OSL)."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Carl Ludwig|Eugene Troubetzkoy|Maurice Van Swaaij",
+    "NomineeIds": "nm1157605|nm0873726|nm0888068",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "CGI Studio's groundbreaking ray-tracing and adaptive sampling techniques, coupled with streamlined artist controls, demonstrated the feasibility of ray-traced rendering for feature film production.",
+    "Citation": "To CARL LUDWIG, EUGENE TROUBETZKOY and MAURICE VAN SWAAIJ for the pioneering development of the CGI Studio renderer at Blue Sky Studios."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Brian Whited",
+    "NomineeIds": "nm5349104",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Meander's innovative curve-rendering method faithfully captures the artist's intent, resulting in a significant improvement in creative communication throughout the production pipeline.",
+    "Citation": "To BRIAN WHITED for the design and development of the Meander drawing system at Walt Disney Animation Studios."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mark Rappaport|Scott Oshita|Jeff Cruts|Todd Minobe",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Animatronic Horse Puppet provides increased actor safety, close integration with live action, and improved realism for filmmakers.",
+    "Citation": "To MARK RAPPAPORT for the concept, design and development, to SCOTT OSHITA for the motion analysis and CAD design, to JEFF CRUTS for the development of the faux-hair finish techniques, and to TODD MINOBE for the character articulation and drive-train mechanisms, of the Creature Effects Animatronic Horse Puppet."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Glenn Sanders|Howard Stark",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Zaxcom system has advanced the state of wireless microphone technology by creating a fully digital modulation system with a rich feature set, which includes local recording capability within the belt pack and a wireless control scheme providing real-time transmitter control and time-code distribution.",
+    "Citation": "To GLENN SANDERS and HOWARD STARK for the design and engineering of the Zaxcom Digital Wireless Microphone System."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Thomas|Lawrence E. Fisher|David Bundy",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Lectrosonics system has advanced the state of wireless microphone technology by means of an innovative digital predictive algorithm to realize full fidelity audio transmission over a conventional analog FM radio link, by reducing transmitter size, and by increasing power efficiency.",
+    "Citation": "To DAVID THOMAS, LAWRENCE E. FISHER and DAVID BUNDY for the design, development and engineering of the Lectrosonics Digital Hybrid Wireless Microphone System."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Parag Havaldar",
+    "NomineeIds": "nm2366653",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "This pioneering system enabled large-scale use of animation rig-based facial performance-capture for motion pictures, combining solutions for tracking, stabilization, solving and animator-controllable curve editing.",
+    "Citation": "To PARAG HAVALDAR for the development of expression-based facial performance-capture technology at Sony Pictures Imageworks."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nicholas Apostoloff|Geoff Wedig",
+    "NomineeIds": "nm4004225|nm2819905",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "These systems evolved through independent, then combined, efforts at two different studios, resulting in an artist-controllable, editable, scalable solution for the high-fidelity transfer of facial performances to convincing digital characters.",
+    "Citation": "To NICHOLAS APOSTOLOFF and GEOFF WEDIG for the design and development of animation rig-based facial performance-capture systems at ImageMovers Digital and Digital Domain."
+  },
+  {
+    "Ceremony": 89,
+    "Year": 2016,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Kiran Bhat|Michael Koperwas|Brian Cantwell|Paige Warner",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "This system enables high-fidelity facial performance transfer from actors to digital characters in large-scale productions while retaining full artistic control, and integrates stable rig-based solving and the resolution of secondary detail in a controllable pipeline.",
+    "Citation": "To KIRAN BHAT, MICHAEL KOPERWAS, BRIAN CANTWELL and PAIGE WARNER for the design and development of the ILM facial performance-capture solving system."
+  }
 ]

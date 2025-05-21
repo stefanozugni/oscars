@@ -1,1627 +1,2066 @@
 [
   {
-    "category": "Best Picture",
-    "year": "2000",
-    "nominees": [
-      "Gladiator"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "2000",
-    "nominees": [
-      "Chocolat"
-    ],
-    "movies": [
-      {
-        "title": "Chocolat",
-        "tmdb_id": 392,
-        "imdb_id": "tt0241303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2000",
-    "nominees": [
-      "Crouching Tiger, Hidden Dragon"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2000",
-    "nominees": [
-      "Erin Brockovich"
-    ],
-    "movies": [
-      {
-        "title": "Erin Brockovich",
-        "tmdb_id": 462,
-        "imdb_id": "tt0195685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2000",
-    "nominees": [
-      "Traffic"
-    ],
-    "movies": [
-      {
-        "title": "Traffic",
-        "tmdb_id": 1900,
-        "imdb_id": "tt0181865"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2000",
-    "nominees": [
-      "Russell Crowe"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "2000",
-    "nominees": [
-      "Javier Bardem"
-    ],
-    "movies": [
-      {
-        "title": "Before Night Falls",
-        "tmdb_id": 5001,
-        "imdb_id": "tt0247196"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2000",
-    "nominees": [
-      "Tom Hanks"
-    ],
-    "movies": [
-      {
-        "title": "Cast Away",
-        "tmdb_id": 8358,
-        "imdb_id": "tt0162222"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2000",
-    "nominees": [
-      "Ed Harris"
-    ],
-    "movies": [
-      {
-        "title": "Pollock",
-        "tmdb_id": 12509,
-        "imdb_id": "tt0183659"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2000",
-    "nominees": [
-      "Geoffrey Rush"
-    ],
-    "movies": [
-      {
-        "title": "Quills",
-        "tmdb_id": 10876,
-        "imdb_id": "tt0180073"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2000",
-    "nominees": [
-      "Julia Roberts"
-    ],
-    "movies": [
-      {
-        "title": "Erin Brockovich",
-        "tmdb_id": 462,
-        "imdb_id": "tt0195685"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "2000",
-    "nominees": [
-      "Joan Allen"
-    ],
-    "movies": [
-      {
-        "title": "The Contender",
-        "tmdb_id": 6521,
-        "imdb_id": "tt0208874"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2000",
-    "nominees": [
-      "Juliette Binoche"
-    ],
-    "movies": [
-      {
-        "title": "Chocolat",
-        "tmdb_id": 392,
-        "imdb_id": "tt0241303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2000",
-    "nominees": [
-      "Ellen Burstyn"
-    ],
-    "movies": [
-      {
-        "title": "Requiem for a Dream",
-        "tmdb_id": 641,
-        "imdb_id": "tt0180093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2000",
-    "nominees": [
-      "Laura Linney"
-    ],
-    "movies": [
-      {
-        "title": "You Can Count on Me",
-        "tmdb_id": 14295,
-        "imdb_id": "tt0203230"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2000",
-    "nominees": [
-      "Benicio del Toro"
-    ],
-    "movies": [
-      {
-        "title": "Traffic",
-        "tmdb_id": 1900,
-        "imdb_id": "tt0181865"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2000",
-    "nominees": [
-      "Jeff Bridges"
-    ],
-    "movies": [
-      {
-        "title": "The Contender",
-        "tmdb_id": 6521,
-        "imdb_id": "tt0208874"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2000",
-    "nominees": [
-      "Willem Dafoe"
-    ],
-    "movies": [
-      {
-        "title": "Shadow of the Vampire",
-        "tmdb_id": 10873,
-        "imdb_id": "tt0189998"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2000",
-    "nominees": [
-      "Albert Finney"
-    ],
-    "movies": [
-      {
-        "title": "Erin Brockovich",
-        "tmdb_id": 462,
-        "imdb_id": "tt0195685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2000",
-    "nominees": [
-      "Joaquin Phoenix"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2000",
-    "nominees": [
-      "Marcia Gay Harden"
-    ],
-    "movies": [
-      {
-        "title": "Pollock",
-        "tmdb_id": 12509,
-        "imdb_id": "tt0183659"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2000",
-    "nominees": [
-      "Judi Dench"
-    ],
-    "movies": [
-      {
-        "title": "Chocolat",
-        "tmdb_id": 392,
-        "imdb_id": "tt0241303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2000",
-    "nominees": [
-      "Kate Hudson"
-    ],
-    "movies": [
-      {
-        "title": "Almost Famous",
-        "tmdb_id": 786,
-        "imdb_id": "tt0181875"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2000",
-    "nominees": [
-      "Frances McDormand"
-    ],
-    "movies": [
-      {
-        "title": "Almost Famous",
-        "tmdb_id": 786,
-        "imdb_id": "tt0181875"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2000",
-    "nominees": [
-      "Julie Waters"
-    ],
-    "movies": [
-      {
-        "title": "Billy Elliot",
-        "tmdb_id": 71,
-        "imdb_id": "tt0249462"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2000",
-    "nominees": [
-      "Steven Soderbergh"
-    ],
-    "movies": [
-      {
-        "title": "Traffic",
-        "tmdb_id": 1900,
-        "imdb_id": "tt0181865"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "2000",
-    "nominees": [
-      "Stephen Daldry"
-    ],
-    "movies": [
-      {
-        "title": "Billy Elliot",
-        "tmdb_id": 71,
-        "imdb_id": "tt0249462"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2000",
-    "nominees": [
-      "Ang Lee"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2000",
-    "nominees": [
-      "Steven Soderbergh"
-    ],
-    "movies": [
-      {
-        "title": "Erin Brockovich",
-        "tmdb_id": 462,
-        "imdb_id": "tt0195685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2000",
-    "nominees": [
-      "Ridley Scott"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2000",
-    "nominees": [
-      "Stephen Gaghan"
-    ],
-    "movies": [
-      {
-        "title": "Traffic",
-        "tmdb_id": 1900,
-        "imdb_id": "tt0181865"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2000",
-    "nominees": [
-      "Robert Nelson Jacobs"
-    ],
-    "movies": [
-      {
-        "title": "Chocolat",
-        "tmdb_id": 392,
-        "imdb_id": "tt0241303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2000",
-    "nominees": [
-      "James Schamus",
-      "Kuo Jung Tsai",
-      "Hui-Ling Wang"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2000",
-    "nominees": [
-      "Joel Coen",
-      "Ethan Coen"
-    ],
-    "movies": [
-      {
-        "title": "O Brother, Where Art Thou?",
-        "tmdb_id": 134,
-        "imdb_id": "tt0190590"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2000",
-    "nominees": [
-      "Steve Kloves"
-    ],
-    "movies": [
-      {
-        "title": "Wonder Boys",
-        "tmdb_id": 11004,
-        "imdb_id": "tt0185014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2000",
-    "nominees": [
-      "Cameron Crowe"
-    ],
-    "movies": [
-      {
-        "title": "Almost Famous",
-        "tmdb_id": 786,
-        "imdb_id": "tt0181875"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2000",
-    "nominees": [
-      "Lee Hall"
-    ],
-    "movies": [
-      {
-        "title": "Billy Elliot",
-        "tmdb_id": 71,
-        "imdb_id": "tt0249462"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2000",
-    "nominees": [
-      "Susannah Grant"
-    ],
-    "movies": [
-      {
-        "title": "Erin Brockovich",
-        "tmdb_id": 462,
-        "imdb_id": "tt0195685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2000",
-    "nominees": [
-      "David Franzoni",
-      "John Logan",
-      "William Nicholson"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2000",
-    "nominees": [
-      "Kenneth Lonergan"
-    ],
-    "movies": [
-      {
-        "title": "You Can Count on Me",
-        "tmdb_id": 14295,
-        "imdb_id": "tt0203230"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2000",
-    "nominees": [
-      "Tan Dun"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "2000",
-    "nominees": [
-      "Rachel Portman"
-    ],
-    "movies": [
-      {
-        "title": "Chocolat",
-        "tmdb_id": 392,
-        "imdb_id": "tt0241303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2000",
-    "nominees": [
-      "Hans Zimmer"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2000",
-    "nominees": [
-      "Ennio Morricone"
-    ],
-    "movies": [
-      {
-        "title": "Malena",
-        "tmdb_id": 10867,
-        "imdb_id": "tt0213847"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2000",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "The Patriot",
-        "tmdb_id": 2024,
-        "imdb_id": "tt0187393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2000",
-    "nominees": [
-      "Things Have Changed"
-    ],
-    "movies": [
-      {
-        "title": "Wonder Boys",
-        "tmdb_id": 11004,
-        "imdb_id": "tt0185014"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2000",
-    "nominees": [
-      "A Fool in Love"
-    ],
-    "movies": [
-      {
-        "title": "Meet the Parents",
-        "tmdb_id": 1597,
-        "imdb_id": "tt0212338"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2000",
-    "nominees": [
-      "I've Seen It All"
-    ],
-    "movies": [
-      {
-        "title": "Dancer in the Dark",
-        "tmdb_id": 16,
-        "imdb_id": "tt0168629"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2000",
-    "nominees": [
-      "A Love Before Time"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2000",
-    "nominees": [
-      "My Funny Friend",
-      "Me"
-    ],
-    "movies": [
-      {
-        "title": "The Emperor's New Groove",
-        "tmdb_id": 11688,
-        "imdb_id": "tt0120917"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2000",
-    "nominees": [
-      "Crouching Tiger, Hidden Dragon"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2000",
-    "nominees": [
-      "Amores Perros"
-    ],
-    "movies": [
-      {
-        "title": "Amores Perros",
-        "tmdb_id": 55,
-        "imdb_id": "tt0245712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2000",
-    "nominees": [
-      "Divided We Fall"
-    ],
-    "movies": [
-      {
-        "title": "Divided We Fall",
-        "tmdb_id": 29937,
-        "imdb_id": "tt0234288"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2000",
-    "nominees": [
-      "Everybody's Famous!"
-    ],
-    "movies": [
-      {
-        "title": "Everybody's Famous!",
-        "tmdb_id": 58886,
-        "imdb_id": "tt0209037"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2000",
-    "nominees": [
-      "The Taste of Others"
-    ],
-    "movies": [
-      {
-        "title": "The Taste of Others",
-        "tmdb_id": 10697,
-        "imdb_id": "tt0216787"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2000",
-    "nominees": [
-      "Into the Arms of Strangers: Stories of the Kindertransport"
-    ],
-    "movies": [
-      {
-        "title": "Into the Arms of Strangers: Stories of the Kindertransport",
-        "tmdb_id": 58062,
-        "imdb_id": "tt0248912"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2000",
-    "nominees": [
-      "Legacy"
-    ],
-    "movies": [
-      {
-        "title": "Legacy",
-        "tmdb_id": 26779,
-        "imdb_id": "tt0188028"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2000",
-    "nominees": [
-      "Long Night's Journey Into Day"
-    ],
-    "movies": [
-      {
-        "title": "Long Night's Journey Into Day",
-        "tmdb_id": 95682,
-        "imdb_id": "tt0236447"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2000",
-    "nominees": [
-      "Scottsboro: An American Tragedy"
-    ],
-    "movies": [
-      {
-        "title": "Scottsboro: An American Tragedy",
-        "tmdb_id": 70564,
-        "imdb_id": "tt0240885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2000",
-    "nominees": [
-      "Sound and Fury"
-    ],
-    "movies": [
-      {
-        "title": "Sound and Fury",
-        "tmdb_id": 62529,
-        "imdb_id": "tt0240912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2000",
-    "nominees": [
-      "Big Mama"
-    ],
-    "movies": [
-      {
-        "title": "Big Mama",
-        "tmdb_id": 244965,
-        "imdb_id": "tt0280353"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2000",
-    "nominees": [
-      "Curtain Call"
-    ],
-    "movies": [
-      {
-        "title": "Curtain Call",
-        "tmdb_id": 244969,
-        "imdb_id": "tt0280580"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2000",
-    "nominees": [
-      "Dolphins"
-    ],
-    "movies": [
-      {
-        "title": "Dolphins",
-        "tmdb_id": 19356,
-        "imdb_id": "tt0263278"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2000",
-    "nominees": [
-      "The Man on Lincoln's Nose"
-    ],
-    "movies": [
-      {
-        "title": "The Man on Lincoln's Nose",
-        "tmdb_id": 136955,
-        "imdb_id": "tt0271628"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2000",
-    "nominees": [
-      "On Tiptoe: Gentle Steps to Freedom"
-    ],
-    "movies": [
-      {
-        "title": "On Tiptoe: Gentle Steps to Freedom",
-        "tmdb_id": 244972,
-        "imdb_id": "tt0254621"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2000",
-    "nominees": [
-      "Father and Daughter"
-    ],
-    "movies": [
-      {
-        "title": "Father and Daughter",
-        "tmdb_id": 48617,
-        "imdb_id": "tt0279079"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2000",
-    "nominees": [
-      "The Periwig-Maker"
-    ],
-    "movies": [
-      {
-        "title": "The Periwig-Maker",
-        "tmdb_id": 48522,
-        "imdb_id": "tt0239797"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2000",
-    "nominees": [
-      "Rejected"
-    ],
-    "movies": [
-      {
-        "title": "Rejected",
-        "tmdb_id": 32536,
-        "imdb_id": "tt0234588"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2000",
-    "nominees": [
-      "I Want to Be"
-    ],
-    "movies": [
-      {
-        "title": "I Want to Be",
-        "tmdb_id": 244954,
-        "imdb_id": "tt0216131"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2000",
-    "nominees": [
-      "By Courier"
-    ],
-    "movies": [
-      {
-        "title": "By Courier",
-        "tmdb_id": 244957,
-        "imdb_id": "tt0278378"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2000",
-    "nominees": [
-      "One Day Crossing"
-    ],
-    "movies": [
-      {
-        "title": "One Day Crossing",
-        "tmdb_id": 244958,
-        "imdb_id": "tt0269658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2000",
-    "nominees": [
-      "Seraglio"
-    ],
-    "movies": [
-      {
-        "title": "Seraglio",
-        "tmdb_id": 244960,
-        "imdb_id": "tt0262758"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2000",
-    "nominees": [
-      "A Soccer Story"
-    ],
-    "movies": [
-      {
-        "title": "A Soccer Story",
-        "tmdb_id": 244962,
-        "imdb_id": "tt0207112"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Timmy Yip"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Michael Corenblith",
-      "Merideth Boswell"
-    ],
-    "movies": [
-      {
-        "title": "How the Grinch Stole Christmas",
-        "tmdb_id": 8871,
-        "imdb_id": "tt0170016"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Arthur Max",
-      "Crispian Sallis"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Martin Childs",
-      "Jill Quertier"
-    ],
-    "movies": [
-      {
-        "title": "Quills",
-        "tmdb_id": 10876,
-        "imdb_id": "tt0180073"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Jean Rabasse",
-      "Francoise Benoit-Fresco"
-    ],
-    "movies": [
-      {
-        "title": "Vatel",
-        "tmdb_id": 7093,
-        "imdb_id": "tt0190861"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2000",
-    "nominees": [
-      "Peter Pau"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2000",
-    "nominees": [
-      "John Mathieson"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2000",
-    "nominees": [
-      "Lajos Koltai"
-    ],
-    "movies": [
-      {
-        "title": "Malena",
-        "tmdb_id": 10867,
-        "imdb_id": "tt0213847"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2000",
-    "nominees": [
-      "Roger Deakins"
-    ],
-    "movies": [
-      {
-        "title": "O Brother, Where Art Thou?",
-        "tmdb_id": 134,
-        "imdb_id": "tt0190590"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2000",
-    "nominees": [
-      "Caleb Deschanel"
-    ],
-    "movies": [
-      {
-        "title": "The Patriot",
-        "tmdb_id": 2024,
-        "imdb_id": "tt0187393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2000",
-    "nominees": [
-      "Stephen Mirrione"
-    ],
-    "movies": [
-      {
-        "title": "Traffic",
-        "tmdb_id": 1900,
-        "imdb_id": "tt0181865"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2000",
-    "nominees": [
-      "Joe Hutshing",
-      "Saar Klein"
-    ],
-    "movies": [
-      {
-        "title": "Almost Famous",
-        "tmdb_id": 786,
-        "imdb_id": "tt0181875"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2000",
-    "nominees": [
-      "Tim Squyres"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2000",
-    "nominees": [
-      "Pietro Scalia"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2000",
-    "nominees": [
-      "Dede Allen"
-    ],
-    "movies": [
-      {
-        "title": "Wonder Boys",
-        "tmdb_id": 11004,
-        "imdb_id": "tt0185014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2000",
-    "nominees": [
-      "John Nelson",
-      "Neil Corbould",
-      "Tim Burke",
-      "Rob Harvey"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2000",
-    "nominees": [
-      "Scott E. Anderson",
-      "Craig Hayes",
-      "Scott Stokdyk",
-      "Stan Parks"
-    ],
-    "movies": [
-      {
-        "title": "Hollow Man",
-        "tmdb_id": 9383,
-        "imdb_id": "tt0164052"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2000",
-    "nominees": [
-      "Stefen Fangmeier",
-      "Habib Zargarpour"
-    ],
-    "movies": [
-      {
-        "title": "The Perfect Storm",
-        "tmdb_id": 2133,
-        "imdb_id": "tt0177971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2000",
-    "nominees": [
-      "Bob Beemer",
-      "Scott Millan",
-      "Ken Weston"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2000",
-    "nominees": [
-      "Randy Thom",
-      "Tom Johnson",
-      "Dennis S. Sands",
-      "William B. Kaplan"
-    ],
-    "movies": [
-      {
-        "title": "Cast Away",
-        "tmdb_id": 8358,
-        "imdb_id": "tt0162222"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2000",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Lee Orloff"
-    ],
-    "movies": [
-      {
-        "title": "The Patriot",
-        "tmdb_id": 2024,
-        "imdb_id": "tt0187393"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2000",
-    "nominees": [
-      "John T. Reitz",
-      "Gregg Rudloff",
-      "David E. Campbell",
-      "Keith A. Wester"
-    ],
-    "movies": [
-      {
-        "title": "The Perfect Storm",
-        "tmdb_id": 2133,
-        "imdb_id": "tt0177971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2000",
-    "nominees": [
-      "Steve Maslow",
-      "Gregg Landaker",
-      "Rick Kline",
-      "Ivan Sharrock"
-    ],
-    "movies": [
-      {
-        "title": "U-571",
-        "tmdb_id": 3536,
-        "imdb_id": "tt0141926"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2000",
-    "nominees": [
-      "Jon Johnson"
-    ],
-    "movies": [
-      {
-        "title": "U-571",
-        "tmdb_id": 3536,
-        "imdb_id": "tt0141926"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2000",
-    "nominees": [
-      "Bub Asman",
-      "Alan Robert Murray"
-    ],
-    "movies": [
-      {
-        "title": "Space Cowboys",
-        "tmdb_id": 5551,
-        "imdb_id": "tt0186566"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2000",
-    "nominees": [
-      "Rick Baker",
-      "Gail Rowell-Ryan"
-    ],
-    "movies": [
-      {
-        "title": "How the Grinch Stole Christmas",
-        "tmdb_id": 8871,
-        "imdb_id": "tt0170016"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2000",
-    "nominees": [
-      "Michele Burke",
-      "Edouard F. Henriques"
-    ],
-    "movies": [
-      {
-        "title": "The Cell",
-        "tmdb_id": 8843,
-        "imdb_id": "tt0209958"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2000",
-    "nominees": [
-      "Ann Buchanan",
-      "Amber Sibley"
-    ],
-    "movies": [
-      {
-        "title": "Shadow of the Vampire",
-        "tmdb_id": 10873,
-        "imdb_id": "tt0189998"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Janty Yates"
-    ],
-    "movies": [
-      {
-        "title": "Gladiator",
-        "tmdb_id": 98,
-        "imdb_id": "tt0172495"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Tim Yip"
-    ],
-    "movies": [
-      {
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tmdb_id": 146,
-        "imdb_id": "tt0190332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Rita Ryack"
-    ],
-    "movies": [
-      {
-        "title": "How the Grinch Stole Christmas",
-        "tmdb_id": 8871,
-        "imdb_id": "tt0170016"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Anthony Powell"
-    ],
-    "movies": [
-      {
-        "title": "102 Dalmatians",
-        "tmdb_id": 10481,
-        "imdb_id": "tt0211181"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2000",
-    "nominees": [
-      "Jacqueline West"
-    ],
-    "movies": [
-      {
-        "title": "Quills",
-        "tmdb_id": 10876,
-        "imdb_id": "tt0180073"
-      }
-    ],
-    "won": false
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Before Night Falls",
+    "FilmId": "tt0247196",
+    "Name": "Javier Bardem",
+    "Nominees": "Javier Bardem",
+    "NomineeIds": "nm0000849",
+    "Winner": "",
+    "Detail": "Reinaldo Arenas",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Russell Crowe",
+    "Nominees": "Russell Crowe",
+    "NomineeIds": "nm0000128",
+    "Winner": "True",
+    "Detail": "Maximus Decimus Meridius",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Cast Away",
+    "FilmId": "tt0162222",
+    "Name": "Tom Hanks",
+    "Nominees": "Tom Hanks",
+    "NomineeIds": "nm0000158",
+    "Winner": "",
+    "Detail": "Chuck Noland",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Pollock",
+    "FilmId": "tt0183659",
+    "Name": "Ed Harris",
+    "Nominees": "Ed Harris",
+    "NomineeIds": "nm0000438",
+    "Winner": "",
+    "Detail": "Jackson Pollock",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Quills",
+    "FilmId": "tt0180073",
+    "Name": "Geoffrey Rush",
+    "Nominees": "Geoffrey Rush",
+    "NomineeIds": "nm0001691",
+    "Winner": "",
+    "Detail": "The Marquis de Sade",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Contender",
+    "FilmId": "tt0208874",
+    "Name": "Jeff Bridges",
+    "Nominees": "Jeff Bridges",
+    "NomineeIds": "nm0000313",
+    "Winner": "",
+    "Detail": "President Jackson Evans",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Shadow of the Vampire",
+    "FilmId": "tt0189998",
+    "Name": "Willem Dafoe",
+    "Nominees": "Willem Dafoe",
+    "NomineeIds": "nm0000353",
+    "Winner": "",
+    "Detail": "Max Schreck",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Traffic",
+    "FilmId": "tt0181865",
+    "Name": "Benicio Del Toro",
+    "Nominees": "Benicio Del Toro",
+    "NomineeIds": "nm0001125",
+    "Winner": "True",
+    "Detail": "Javier Rodriguez",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Erin Brockovich",
+    "FilmId": "tt0195685",
+    "Name": "Albert Finney",
+    "Nominees": "Albert Finney",
+    "NomineeIds": "nm0001215",
+    "Winner": "",
+    "Detail": "Ed Masry",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Joaquin Phoenix",
+    "Nominees": "Joaquin Phoenix",
+    "NomineeIds": "nm0001618",
+    "Winner": "",
+    "Detail": "Commodus",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Contender",
+    "FilmId": "tt0208874",
+    "Name": "Joan Allen",
+    "Nominees": "Joan Allen",
+    "NomineeIds": "nm0000260",
+    "Winner": "",
+    "Detail": "Laine Hanson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Chocolat",
+    "FilmId": "tt0241303",
+    "Name": "Juliette Binoche",
+    "Nominees": "Juliette Binoche",
+    "NomineeIds": "nm0000300",
+    "Winner": "",
+    "Detail": "Vianne Rocher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Requiem for a Dream",
+    "FilmId": "tt0180093",
+    "Name": "Ellen Burstyn",
+    "Nominees": "Ellen Burstyn",
+    "NomineeIds": "nm0000995",
+    "Winner": "",
+    "Detail": "Sara Goldfarb",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "You Can Count on Me",
+    "FilmId": "tt0203230",
+    "Name": "Laura Linney",
+    "Nominees": "Laura Linney",
+    "NomineeIds": "nm0001473",
+    "Winner": "",
+    "Detail": "Samantha 'Sammy' Prescott",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Erin Brockovich",
+    "FilmId": "tt0195685",
+    "Name": "Julia Roberts",
+    "Nominees": "Julia Roberts",
+    "NomineeIds": "nm0000210",
+    "Winner": "True",
+    "Detail": "Erin Brockovich",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Chocolat",
+    "FilmId": "tt0241303",
+    "Name": "Judi Dench",
+    "Nominees": "Judi Dench",
+    "NomineeIds": "nm0001132",
+    "Winner": "",
+    "Detail": "Armande Voizin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Pollock",
+    "FilmId": "tt0183659",
+    "Name": "Marcia Gay Harden",
+    "Nominees": "Marcia Gay Harden",
+    "NomineeIds": "nm0001315",
+    "Winner": "True",
+    "Detail": "Lee Krasner",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Almost Famous",
+    "FilmId": "tt0181875",
+    "Name": "Kate Hudson",
+    "Nominees": "Kate Hudson",
+    "NomineeIds": "nm0005028",
+    "Winner": "",
+    "Detail": "Penny Lane",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Almost Famous",
+    "FilmId": "tt0181875",
+    "Name": "Frances McDormand",
+    "Nominees": "Frances McDormand",
+    "NomineeIds": "nm0000531",
+    "Winner": "",
+    "Detail": "Elaine Miller",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Billy Elliot",
+    "FilmId": "tt0249462",
+    "Name": "Julie Walters",
+    "Nominees": "Julie Walters",
+    "NomineeIds": "nm0910278",
+    "Winner": "",
+    "Detail": "Mrs. Wilkinson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Tim Yip",
+    "Nominees": "Tim Yip",
+    "NomineeIds": "nm0947315",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Dr. Seuss' How the Grinch Stole Christmas",
+    "FilmId": "tt0170016",
+    "Name": "Art Direction: Michael Corenblith; Set Decoration: Merideth Boswell",
+    "Nominees": "Michael Corenblith|Merideth Boswell",
+    "NomineeIds": "nm0179749|nm0098353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Art Direction: Arthur Max; Set Decoration: Crispian Sallis",
+    "Nominees": "Arthur Max|Crispian Sallis",
+    "NomineeIds": "nm0561480|nm0758605",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Quills",
+    "FilmId": "tt0180073",
+    "Name": "Art Direction: Martin Childs; Set Decoration: Jill Quertier",
+    "Nominees": "Martin Childs|Jill Quertier",
+    "NomineeIds": "nm0157575|nm0703296",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Vatel",
+    "FilmId": "tt0190861",
+    "Name": "Art Direction: Jean Rabasse; Set Decoration: Françoise Benoît-Fresco",
+    "Nominees": "Jean Rabasse|Françoise Benoît-Fresco",
+    "NomineeIds": "nm0704740|nm0072326",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Peter Pau",
+    "Nominees": "Peter Pau",
+    "NomineeIds": "nm0666702",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "John Mathieson",
+    "Nominees": "John Mathieson",
+    "NomineeIds": "nm0558822",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Malèna",
+    "FilmId": "tt0213847",
+    "Name": "Lajos Koltai",
+    "Nominees": "Lajos Koltai",
+    "NomineeIds": "nm0005759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "O Brother, Where Art Thou?",
+    "FilmId": "tt0190590",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Patriot",
+    "FilmId": "tt0187393",
+    "Name": "Caleb Deschanel",
+    "Nominees": "Caleb Deschanel",
+    "NomineeIds": "nm0221042",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Tim Yip",
+    "Nominees": "Tim Yip",
+    "NomineeIds": "nm0947315",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Dr. Seuss' How the Grinch Stole Christmas",
+    "FilmId": "tt0170016",
+    "Name": "Rita Ryack",
+    "Nominees": "Rita Ryack",
+    "NomineeIds": "nm0752374",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Janty Yates",
+    "Nominees": "Janty Yates",
+    "NomineeIds": "nm0946765",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "102 Dalmatians",
+    "FilmId": "tt0211181",
+    "Name": "Anthony Powell",
+    "Nominees": "Anthony Powell",
+    "NomineeIds": "nm0694018",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Quills",
+    "FilmId": "tt0180073",
+    "Name": "Jacqueline West",
+    "Nominees": "Jacqueline West",
+    "NomineeIds": "nm0922113",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Billy Elliot",
+    "FilmId": "tt0249462",
+    "Name": "Stephen Daldry",
+    "Nominees": "Stephen Daldry",
+    "NomineeIds": "nm0197636",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Ang Lee",
+    "Nominees": "Ang Lee",
+    "NomineeIds": "nm0000487",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Erin Brockovich",
+    "FilmId": "tt0195685",
+    "Name": "Steven Soderbergh",
+    "Nominees": "Steven Soderbergh",
+    "NomineeIds": "nm0001752",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Ridley Scott",
+    "Nominees": "Ridley Scott",
+    "NomineeIds": "nm0000631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Traffic",
+    "FilmId": "tt0181865",
+    "Name": "Steven Soderbergh",
+    "Nominees": "Steven Soderbergh",
+    "NomineeIds": "nm0001752",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Into the Arms of Strangers: Stories of the Kindertransport",
+    "FilmId": "tt0248912",
+    "Name": "Mark Jonathan Harris, Deborah Oppenheimer",
+    "Nominees": "Mark Jonathan Harris|Deborah Oppenheimer",
+    "NomineeIds": "nm0365057|nm0649179",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Legacy",
+    "FilmId": "tt0188028",
+    "Name": "Tod Lending",
+    "Nominees": "Tod Lending",
+    "NomineeIds": "nm0501781",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Long Night's Journey into Day",
+    "FilmId": "tt0236447",
+    "Name": "Frances Reid, Deborah Hoffmann",
+    "Nominees": "Frances Reid|Deborah Hoffmann",
+    "NomineeIds": "nm0717266|nm0389161",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Scottsboro: An American Tragedy",
+    "FilmId": "tt0240885",
+    "Name": "Barak Goodman, Daniel Anker",
+    "Nominees": "Barak Goodman|Daniel Anker",
+    "NomineeIds": "nm0329014|nm0030155",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Sound and Fury",
+    "FilmId": "tt0240912",
+    "Name": "Josh Aronson, Roger Weisberg",
+    "Nominees": "Josh Aronson|Roger Weisberg",
+    "NomineeIds": "nm0036977|nm0918724",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Big Mama",
+    "FilmId": "tt0280353",
+    "Name": "Tracy Seretean",
+    "Nominees": "Tracy Seretean",
+    "NomineeIds": "nm0785033",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Curtain Call",
+    "FilmId": "tt0280580",
+    "Name": "Chuck Braverman, Steve Kalafer",
+    "Nominees": "Chuck Braverman|Steve Kalafer",
+    "NomineeIds": "nm0106015|nm0435470",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Dolphins",
+    "FilmId": "tt0263278",
+    "Name": "Greg MacGillivray, Alec Lorimore",
+    "Nominees": "Greg MacGillivray|Alec Lorimore",
+    "NomineeIds": "nm0532263|nm0520975",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Man on Lincoln's Nose",
+    "FilmId": "tt0271628",
+    "Name": "Daniel Raim",
+    "Nominees": "Daniel Raim",
+    "NomineeIds": "nm0706888",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "On Tiptoe: Gentle Steps to Freedom",
+    "FilmId": "tt0254621",
+    "Name": "Eric Simonson, Leelai Demoz",
+    "Nominees": "Eric Simonson|Leelai Demoz",
+    "NomineeIds": "nm0800787|nm0218695",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Almost Famous",
+    "FilmId": "tt0181875",
+    "Name": "Joe Hutshing, Saar Klein",
+    "Nominees": "Joe Hutshing|Saar Klein",
+    "NomineeIds": "nm0404528|nm0458964",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Tim Squyres",
+    "Nominees": "Tim Squyres",
+    "NomineeIds": "nm0820163",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Pietro Scalia",
+    "Nominees": "Pietro Scalia",
+    "NomineeIds": "nm0768817",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Traffic",
+    "FilmId": "tt0181865",
+    "Name": "Stephen Mirrione",
+    "Nominees": "Stephen Mirrione",
+    "NomineeIds": "nm0592537",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Wonder Boys",
+    "FilmId": "tt0185014",
+    "Name": "Dede Allen",
+    "Nominees": "Dede Allen",
+    "NomineeIds": "nm0020441",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Amores Perros",
+    "FilmId": "tt0245712",
+    "Name": "Mexico",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Taiwan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Divided We Fall",
+    "FilmId": "tt0234288",
+    "Name": "Czech Republic",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Everybody Famous!",
+    "FilmId": "tt0209037",
+    "Name": "Belgium",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Taste of Others",
+    "FilmId": "tt0216787",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Cell",
+    "FilmId": "tt0209958",
+    "Name": "Michèle Burke, Edouard Henriques",
+    "Nominees": "Michèle Burke|Edouard Henriques",
+    "NomineeIds": "nm0121807|nm0377667",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Dr. Seuss' How the Grinch Stole Christmas",
+    "FilmId": "tt0170016",
+    "Name": "Rick Baker, Gail Ryan",
+    "Nominees": "Rick Baker|Gail Ryan",
+    "NomineeIds": "nm0000711|nm0746648",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Shadow of the Vampire",
+    "FilmId": "tt0189998",
+    "Name": "Ann Buchanan, Amber Sibley",
+    "Nominees": "Ann Buchanan|Amber Sibley",
+    "NomineeIds": "nm0117973|nm0796282",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Chocolat",
+    "FilmId": "tt0241303",
+    "Name": "Rachel Portman",
+    "Nominees": "Rachel Portman",
+    "NomineeIds": "nm0006235",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Tan Dun",
+    "Nominees": "Tan Dun",
+    "NomineeIds": "nm0241753",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Malèna",
+    "FilmId": "tt0213847",
+    "Name": "Ennio Morricone",
+    "Nominees": "Ennio Morricone",
+    "NomineeIds": "nm0001553",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Patriot",
+    "FilmId": "tt0187393",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Meet the Parents",
+    "FilmId": "tt0212338",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "A Fool In Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Dancer in the Dark",
+    "FilmId": "tt0168629",
+    "Name": "Music by Björk; Lyric by Lars von Trier and Sjon Sigurdsson",
+    "Nominees": "Björk|Lars von Trier|Sjon Sigurdsson",
+    "NomineeIds": "nm0001951|nm0001885|nm0797604",
+    "Winner": "",
+    "Detail": "I've Seen It All",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Music by Jorge Calandrelli and Tan Dun; Lyric by James Schamus",
+    "Nominees": "Jorge Calandrelli|Tan Dun|James Schamus",
+    "NomineeIds": "nm0129326|nm0241753|nm0770005",
+    "Winner": "",
+    "Detail": "A Love Before Time",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Emperor's New Groove",
+    "FilmId": "tt0120917",
+    "Name": "Music by Sting and David Hartley; Lyric by Sting",
+    "Nominees": "Sting|David Hartley",
+    "NomineeIds": "nm0001776|nm0366817",
+    "Winner": "",
+    "Detail": "My Funny Friend And Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Wonder Boys",
+    "FilmId": "tt0185014",
+    "Name": "Music and Lyric by Bob Dylan",
+    "Nominees": "Bob Dylan",
+    "NomineeIds": "nm0001168",
+    "Winner": "True",
+    "Detail": "Things Have Changed",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Chocolat",
+    "FilmId": "tt0241303",
+    "Name": "David Brown, Kit Golden and Leslie Holleran, Producers",
+    "Nominees": "David Brown|Kit Golden|Leslie Holleran",
+    "NomineeIds": "nm0113360|nm0325455|nm0390970",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Bill Kong, Hsu Li Kong and Ang Lee, Producers",
+    "Nominees": "Bill Kong|Hsu Li Kong|Ang Lee",
+    "NomineeIds": "nm0465067|nm0398836|nm0000487",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Erin Brockovich",
+    "FilmId": "tt0195685",
+    "Name": "Danny DeVito, Michael Shamberg and Stacey Sher, Producers",
+    "Nominees": "Danny DeVito|Michael Shamberg|Stacey Sher",
+    "NomineeIds": "nm0000362|nm0787834|nm0792049",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Douglas Wick, David Franzoni and Branko Lustig, Producers",
+    "Nominees": "Douglas Wick|David Franzoni|Branko Lustig",
+    "NomineeIds": "nm0926824|nm0291905|nm0527322",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Traffic",
+    "FilmId": "tt0181865",
+    "Name": "Edward Zwick, Marshall Herskovitz and Laura Bickford, Producers",
+    "Nominees": "Edward Zwick|Marshall Herskovitz|Laura Bickford",
+    "NomineeIds": "nm0001880|nm0380980|nm0081046",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Father and Daughter",
+    "FilmId": "tt0279079",
+    "Name": "Michael Dudok de Wit",
+    "Nominees": "Michael Dudok de Wit",
+    "NomineeIds": "nm0240196",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Periwig-Maker",
+    "FilmId": "tt0239797",
+    "Name": "Steffen Schäffler, Annette Schäffler",
+    "Nominees": "Steffen Schäffler|Annette Schäffler",
+    "NomineeIds": "nm0778108|nm0778105",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Rejected",
+    "FilmId": "tt0234588",
+    "Name": "Don Hertzfeldt",
+    "Nominees": "Don Hertzfeldt",
+    "NomineeIds": "nm0381116",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "By Courier",
+    "FilmId": "tt0278378",
+    "Name": "Peter Riegert, Ericka Frederick",
+    "Nominees": "Peter Riegert|Ericka Frederick",
+    "NomineeIds": "nm0726200|nm0292778",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "One Day Crossing",
+    "FilmId": "tt0269658",
+    "Name": "Joan Stein, Christina Lazaridi",
+    "Nominees": "Joan Stein|Christina Lazaridi",
+    "NomineeIds": "nm0825513|nm0973408",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Quiero Ser (I want to be...)",
+    "FilmId": "tt0216131",
+    "Name": "Florian Gallenberger",
+    "Nominees": "Florian Gallenberger",
+    "NomineeIds": "nm0302780",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Seraglio",
+    "FilmId": "tt0262758",
+    "Name": "Gail Lerner, Colin Campbell",
+    "Nominees": "Gail Lerner|Colin Campbell",
+    "NomineeIds": "nm0503611|nm0132330",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "A Soccer Story (Uma Historia de Futebol)",
+    "FilmId": "tt0207112",
+    "Name": "Paulo Machline",
+    "Nominees": "Paulo Machline",
+    "NomineeIds": "nm0003884",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Cast Away",
+    "FilmId": "tt0162222",
+    "Name": "Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",
+    "Nominees": "Randy Thom|Tom Johnson|Dennis Sands|William B. Kaplan",
+    "NomineeIds": "nm0858378|nm0426348|nm0762304|nm0438202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Scott Millan, Bob Beemer, Ken Weston",
+    "Nominees": "Scott Millan|Bob Beemer|Ken Weston",
+    "NomineeIds": "nm0586793|nm0066446|nm0922984",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Patriot",
+    "FilmId": "tt0187393",
+    "Name": "Kevin O'Connell, Greg P. Russell, Lee Orloff",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Lee Orloff",
+    "NomineeIds": "nm0640114|nm0751169|nm0650090",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Perfect Storm",
+    "FilmId": "tt0177971",
+    "Name": "John Reitz, Gregg Rudloff, David Campbell, Keith A. Wester",
+    "Nominees": "John Reitz|Gregg Rudloff|David Campbell|Keith A. Wester",
+    "NomineeIds": "nm0718676|nm0748832|nm0132372|nm0199492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "U-571",
+    "FilmId": "tt0141926",
+    "Name": "Steve Maslow, Gregg Landaker, Rick Kline, Ivan Sharrock",
+    "Nominees": "Steve Maslow|Gregg Landaker|Rick Kline|Ivan Sharrock",
+    "NomineeIds": "nm0556541|nm0484414|nm0459662|nm0789331",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Space Cowboys",
+    "FilmId": "tt0186566",
+    "Name": "Alan Robert Murray, Bub Asman",
+    "Nominees": "Alan Robert Murray|Bub Asman",
+    "NomineeIds": "nm0614812|nm0039544",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "U-571",
+    "FilmId": "tt0141926",
+    "Name": "Jon Johnson",
+    "Nominees": "Jon Johnson",
+    "NomineeIds": "nm0425416",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "John Nelson, Neil Corbould, Tim Burke, Rob Harvey",
+    "Nominees": "John Nelson|Neil Corbould|Tim Burke|Rob Harvey",
+    "NomineeIds": "nm0625471|nm0179273|nm0121888|nm0367690",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Hollow Man",
+    "FilmId": "tt0164052",
+    "Name": "Scott E. Anderson, Craig Hayes, Scott Stokdyk, Stan Parks",
+    "Nominees": "Scott E. Anderson|Craig Hayes|Scott Stokdyk|Stan Parks",
+    "NomineeIds": "nm0027423|nm0370960|nm0831282|nm0663012",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Perfect Storm",
+    "FilmId": "tt0177971",
+    "Name": "Stefen Fangmeier, Habib Zargarpour, John Frazier, Walt Conti",
+    "Nominees": "Stefen Fangmeier|Habib Zargarpour|John Frazier|Walt Conti",
+    "NomineeIds": "nm0266777|nm0953464|nm0292594|nm0176408",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Chocolat",
+    "FilmId": "tt0241303",
+    "Name": "Screenplay by Robert Nelson Jacobs",
+    "Nominees": "Robert Nelson Jacobs",
+    "NomineeIds": "nm0414608",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "FilmId": "tt0190332",
+    "Name": "Written by Wang Hui Ling and James Schamus and Tsai Kuo Jung",
+    "Nominees": "Wang Hui Ling|James Schamus|Tsai Kuo Jung",
+    "NomineeIds": "nm0910924|nm0770005|nm0874631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "O Brother, Where Art Thou?",
+    "FilmId": "tt0190590",
+    "Name": "Written by Ethan Coen & Joel Coen",
+    "Nominees": "Ethan Coen|Joel Coen",
+    "NomineeIds": "nm0001053|nm0001054",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Traffic",
+    "FilmId": "tt0181865",
+    "Name": "Screenplay by Stephen Gaghan",
+    "Nominees": "Stephen Gaghan",
+    "NomineeIds": "nm0300866",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Wonder Boys",
+    "FilmId": "tt0185014",
+    "Name": "Screenplay by Steve Kloves",
+    "Nominees": "Steve Kloves",
+    "NomineeIds": "nm0460141",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Almost Famous",
+    "FilmId": "tt0181875",
+    "Name": "Written by Cameron Crowe",
+    "Nominees": "Cameron Crowe",
+    "NomineeIds": "nm0001081",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Billy Elliot",
+    "FilmId": "tt0249462",
+    "Name": "Written by Lee Hall",
+    "Nominees": "Lee Hall",
+    "NomineeIds": "nm0355822",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Erin Brockovich",
+    "FilmId": "tt0195685",
+    "Name": "Written by Susannah Grant",
+    "Nominees": "Susannah Grant",
+    "NomineeIds": "nm0335666",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Gladiator",
+    "FilmId": "tt0172495",
+    "Name": "Screenplay by David Franzoni and John Logan and William Nicholson; Story by David Franzoni",
+    "Nominees": "David Franzoni|John Logan|William Nicholson",
+    "NomineeIds": "nm0291905|nm0517589|nm0629933",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "You Can Count on Me",
+    "FilmId": "tt0203230",
+    "Name": "Written by Kenneth Lonergan",
+    "Nominees": "Kenneth Lonergan",
+    "NomineeIds": "nm0518836",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jack Cardiff",
+    "NomineeIds": "nm0002153",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Jack Cardiff, master of light and color."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ernest Lehman",
+    "NomineeIds": "nm0499626",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Ernest Lehman, in appreciation of a body of varied and enduring work."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Dino De Laurentiis",
+    "Nominees": "Dino De Laurentiis",
+    "NomineeIds": "nm0209569",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Irwin W. Young",
+    "NomineeIds": "nm0949625",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Irwin W. Young"
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Rob Cook|Loren Carpenter|Ed Catmull",
+    "NomineeIds": "nm0177251|nm0139406|nm0146216",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "Their broad professional influence in the industry continues to inspire and contribute to the advancement of computer-generated imagery for motion pictures.",
+    "Citation": "To ROB COOK, LOREN CARPENTER and ED CATMULL for their significant advancements to the field of motion picture rendering as exemplified in Pixar's \\\"Renderman.\\"
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Al Mayer Sr.|Al Mayer Jr.|Iain Neil|Brian Dang",
+    "NomineeIds": "nm2353419|?|?|?",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "This camera brings the full uncompromised performance of larger heavy-duty cameras to the lightest weight category with ruggedness and advanced features previously expected only in specialized or effects cameras.",
+    "Citation": "To AL MAYER, SR. and AL MAYER, JR., for the mechanical design, IAIN NEIL for the optical design and BRIAN DANG for the electronic design of the Panavision Millennium XL Camera System."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joe Wary|Gerald Painter|Colin F. Mossman",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "This release print system at Deluxe Laboratories utilizes a revolutionary design allowing for higher print volumes, reduced space requirements for loop racks and elevators, and safer operation.",
+    "Citation": "To JOE WARY, GERALD PAINTER and COLIN F. MOSSMAN for the design and development of the Deluxe Laboratories Multi Roller Film Transport System."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ALVAH J. MILLER|PAUL JOHNSON",
+    "NomineeIds": "nm0587868|nm0425970",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "This camera motor, operated with programmable microprocessors, achieves an unprecedented range of precisely controlled speeds in stand-alone cameras or when synchronized to motion-control systems.",
+    "Citation": "To ALVAH J. MILLER and PAUL JOHNSON of Lynx Robotics for the electronic and software design of the Lynx C-50 Camera Motor System."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Akai Digital",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "[These] digital audio dubbers have afforded the post-production community a faster, more cost-effective means of playing back hundreds of digital audio tracks for pre-mixing or final mixing in creating motion picture sound tracks. They also offer individual track slipping in multiple track configurations, random access recall, and both destructive and non-destructive editing capabilities, eliminating the requirements for razor blade conforming.",
+    "Citation": "To AKAI DIGITAL for the design and development of the DD8plus digital audio dubber specifically designed for the motion picture industry."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fairlight",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "[These] digital audio dubbers have afforded the post-production community a faster, more cost-effective means of playing back hundreds of digital audio tracks for pre-mixing or final mixing in creating motion picture sound tracks. They also offer individual track slipping in multiple track configurations, random access recall, and both destructive and non-destructive editing capabilities, eliminating the requirements for razor blade conforming.",
+    "Citation": "To FAIRLIGHT for the design and development of the DAD digital audio dubber specifically designed for the motion picture industry."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ADVANCED DIGITAL SYSTEMS GROUP (ADSG)",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "[These] digital audio dubbers have afforded the post-production community a faster, more cost-effective means of playing back hundreds of digital audio tracks for pre-mixing or final mixing in creating motion picture sound tracks. They also offer individual track slipping in multiple track configurations, random access recall, and both destructive and non-destructive editing capabilities, eliminating the requirements for razor blade conforming.",
+    "Citation": "To ADVANCED DIGITAL SYSTEMS GROUP (ADSG) for the design and development of the Sony DADR 5000 digital audio dubber specifically designed for the motion picture industry."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Timeline Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "[These] digital audio dubbers have afforded the post-production community a faster, more cost-effective means of playing back hundreds of digital audio tracks for pre-mixing or final mixing in creating motion picture sound tracks. They also offer individual track slipping in multiple track configurations, random access recall, and both destructive and non-destructive editing capabilities, eliminating the requirements for razor blade conforming.",
+    "Citation": "To TIMELINE, INCORPORATED for the design and development of the MMR 8 digital audio dubber specifically designed for the motion picture industry."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Leonard Pincus|Ashot Nalbandyan|George Johnson|Thomas Kong|David Pringle",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "With the ability to dim these very high powered lights at essentially constant Kelvin temperature and without flicker, these units produce a bright and even light source for general set lighting. The availability of very high wattage units allows production to extend the hours of work past the time when the crew would otherwise have \\\"lost the light.\\",
+    "Citation": "To LEONARD PINCUS, ASHOT NALBANDYAN, GEORGE JOHNSON, THOMAS KONG and DAVID PRINGLE for the design and development of the SoftSun low pressure xenon long-arc light sources, their power supplies and fixtures."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Vic Armstrong",
+    "NomineeIds": "nm0002184",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "Considered a standard of the industry, the Fan Descender provides a means for significantly increasing the safety of very high stunt falls. The system permits falls to be made under controlled deceleration and with a highly predictable stopping point without limitation of camera angles.",
+    "Citation": "To VIC ARMSTRONG for the refinement and application to the film industry of the Fan Descender for accurately and safely arresting the descent of stunt persons in high freefalls."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "PHILIP GREENSTREET",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "This unique photographic scenic backing allows a smooth transition from day to night views with a single backing. The Roscolight backings provide an important new creative tool to filmmakers, saving time, money and stage space.",
+    "Citation": "To PHILIP GREENSTREET of Rosco Laboratories for the concept and development of the Roscolight Day/Night Backdrop."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Udo Schauss|Hildegard Ebbesmeier|Karl Lenhardt|Ralf Linn|Norbert Brinker",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "These projection lenses provide a significant improvement in the quality of the cinema viewing experience.",
+    "Citation": "To UDO SCHAUSS, HILDEGARD EBBESMEIER and KARL LENHARDT for the optical design, and RALF LINN and NORBERT BRINKER for the mechanical design of the Schneider Super Cinelux lenses for motion picture projection."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Glenn M. Berggren|Horst Linge|Wolfgang Reinecke",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "The unique optical design of the Ultra-Star Plus projection lenses achieves unprecedented edge-to-edge uniformity of illumination, combined with a significant increase in screen brightness, thus providing a substantial improvement in the cinema viewing experience.",
+    "Citation": "To GLENN M. BERGGREN for the concept, HORST LINGE for research and development, and WOLFGANG REINECKE for the optical design of the ISCO Ultra-Star Plus lenses for motion picture projection."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "BILL TONDREAU|ALVAH J. MILLER|PAUL JOHNSON|DAVID STUMP",
+    "NomineeIds": "nm0867140|nm0587868|nm0425970|nm0003432",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "These systems digitally record live action camera and axis data with practically no impact on the live action production process, allowing compositing for visual effects to become faster and more cost-effective.",
+    "Citation": "To BILL TONDREAU of Kuper Systems, ALVAH J. MILLER and PAUL JOHNSON of Lynx Robotics, and DAVID STUMP of Visual Effects Rental Services for the conception, design and development of data capture systems that enable superior accuracy, efficiency and economy in the creation of composite imagery."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Venkat Krishnamurthy",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "This system streamlines the creation of 3D computer graphics models by allowing artists to convert the data from automatically scanned physical models into a user-specified configuration of patches well suited for use in computer applications.",
+    "Citation": "To VENKAT KRISHNAMURTHY for the creation of the Paraform Software for 3D Digital Form Development."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "George Borshukov|Kim Libreri|Dan Piponi",
+    "NomineeIds": "nm0097474|nm0508912|nm0685004",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "This component of the Manex Visual Effects Virtual Cinematography System provides theatrical-quality virtual settings.",
+    "Citation": "To GEORGE BORSHUKOV, KIM LIBRERI and DAN PIPONI for the development of a system for image-based rendering allowing choreographed camera movements through computer graphic reconstructed sets."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John P. Pytlak",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The LAD system has become the standard method used by film laboratories and digital film recording facilities for the effecient and uniform control of color and exposure in camera negatives, interpositives and duplicate negatives.",
+    "Citation": "To JOHN P. PYTLAK for the development of the Laboratory Aim Density (LAD) system."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ioan Allen|Robin Bransbury|Mark Harrah",
+    "NomineeIds": "nm2344873|?|nm0364040",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The adoption of the TASA loudness standard has led directly to better sound in the cinema for trailers and features alike.",
+    "Citation": "To Ioan Allen for the concept, Robin Bransbury for the design and Mark Harrah for the implementation of the Trailer Audio Standards Association (TASA) Loudness Standard."
+  },
+  {
+    "Ceremony": 73,
+    "Year": 2000,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "N. Paul Kenworthy Jr.",
+    "NomineeIds": "nm0448949",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To N. Paul Kenworthy, Jr. in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

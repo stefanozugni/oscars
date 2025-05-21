@@ -1,1682 +1,2194 @@
 [
   {
-    "category": "Best Picture",
-    "year": "2001",
-    "nominees": [
-      "A Beautiful Mind"
-    ],
-    "movies": [
-      {
-        "title": "A Beautiful Mind",
-        "tmdb_id": 453,
-        "imdb_id": "tt0268978"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "2001",
-    "nominees": [
-      "Gosford Park"
-    ],
-    "movies": [
-      {
-        "title": "Gosford Park",
-        "tmdb_id": 5279,
-        "imdb_id": "tt0280707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2001",
-    "nominees": [
-      "In the Bedroom"
-    ],
-    "movies": [
-      {
-        "title": "In the Bedroom",
-        "tmdb_id": 1999,
-        "imdb_id": "tt0247425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2001",
-    "nominees": [
-      "The Lord of the Rings: The Fellowship of the Ring"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2001",
-    "nominees": [
-      "Moulin Rouge!"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge!",
-        "tmdb_id": 824,
-        "imdb_id": "tt0203009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2001",
-    "nominees": [
-      "Denzel Washington"
-    ],
-    "movies": [
-      {
-        "title": "Training Day",
-        "tmdb_id": 2034,
-        "imdb_id": "tt0139654"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "2001",
-    "nominees": [
-      "Russell Crowe"
-    ],
-    "movies": [
-      {
-        "title": "A Beautiful Mind",
-        "tmdb_id": 453,
-        "imdb_id": "tt0268978"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2001",
-    "nominees": [
-      "Sean Penn"
-    ],
-    "movies": [
-      {
-        "title": "I Am Sam",
-        "tmdb_id": 10950,
-        "imdb_id": "tt0277027"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2001",
-    "nominees": [
-      "Will Smith"
-    ],
-    "movies": [
-      {
-        "title": "Ali",
-        "tmdb_id": 8489,
-        "imdb_id": "tt0248667"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2001",
-    "nominees": [
-      "Tom Wilkinson"
-    ],
-    "movies": [
-      {
-        "title": "In the Bedroom",
-        "tmdb_id": 1999,
-        "imdb_id": "tt0247425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2001",
-    "nominees": [
-      "Halle Berry"
-    ],
-    "movies": [
-      {
-        "title": "Monster's Ball",
-        "tmdb_id": 1365,
-        "imdb_id": "tt0285742"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "2001",
-    "nominees": [
-      "Judi Dench"
-    ],
-    "movies": [
-      {
-        "title": "Iris",
-        "tmdb_id": 11889,
-        "imdb_id": "tt0280778"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2001",
-    "nominees": [
-      "Nicole Kidman"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge!",
-        "tmdb_id": 824,
-        "imdb_id": "tt0203009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2001",
-    "nominees": [
-      "Sissy Spacek"
-    ],
-    "movies": [
-      {
-        "title": "In the Bedroom",
-        "tmdb_id": 1999,
-        "imdb_id": "tt0247425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2001",
-    "nominees": [
-      "Renee Zellweger"
-    ],
-    "movies": [
-      {
-        "title": "Bridget Jones's Diary",
-        "tmdb_id": 634,
-        "imdb_id": "tt0243155"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2001",
-    "nominees": [
-      "Jim Broadbent"
-    ],
-    "movies": [
-      {
-        "title": "Iris",
-        "tmdb_id": 11889,
-        "imdb_id": "tt0280778"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2001",
-    "nominees": [
-      "Ethan Hawke"
-    ],
-    "movies": [
-      {
-        "title": "Training Day",
-        "tmdb_id": 2034,
-        "imdb_id": "tt0139654"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2001",
-    "nominees": [
-      "Ben Kingsley"
-    ],
-    "movies": [
-      {
-        "title": "Sexy Beast",
-        "tmdb_id": 11826,
-        "imdb_id": "tt0203119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2001",
-    "nominees": [
-      "Ian McKellen"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2001",
-    "nominees": [
-      "Jon Voight"
-    ],
-    "movies": [
-      {
-        "title": "Ali",
-        "tmdb_id": 8489,
-        "imdb_id": "tt0248667"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2001",
-    "nominees": [
-      "Jennifer Connelly"
-    ],
-    "movies": [
-      {
-        "title": "A Beautiful Mind",
-        "tmdb_id": 453,
-        "imdb_id": "tt0268978"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2001",
-    "nominees": [
-      "Helen Mirren"
-    ],
-    "movies": [
-      {
-        "title": "Gosford Park",
-        "tmdb_id": 5279,
-        "imdb_id": "tt0280707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2001",
-    "nominees": [
-      "Maggie Smith"
-    ],
-    "movies": [
-      {
-        "title": "Gosford Park",
-        "tmdb_id": 5279,
-        "imdb_id": "tt0280707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2001",
-    "nominees": [
-      "Marisa Tomei"
-    ],
-    "movies": [
-      {
-        "title": "In the Bedroom",
-        "tmdb_id": 1999,
-        "imdb_id": "tt0247425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2001",
-    "nominees": [
-      "Kate Winslet"
-    ],
-    "movies": [
-      {
-        "title": "Iris",
-        "tmdb_id": 11889,
-        "imdb_id": "tt0280778"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2001",
-    "nominees": [
-      "Ron Howard"
-    ],
-    "movies": [
-      {
-        "title": "A Beautiful Mind",
-        "tmdb_id": 453,
-        "imdb_id": "tt0268978"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "2001",
-    "nominees": [
-      "Robert Altman"
-    ],
-    "movies": [
-      {
-        "title": "Gosford Park",
-        "tmdb_id": 5279,
-        "imdb_id": "tt0280707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2001",
-    "nominees": [
-      "Peter Jackson"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2001",
-    "nominees": [
-      "David Lynch"
-    ],
-    "movies": [
-      {
-        "title": "Mulholland Drive",
-        "tmdb_id": 1018,
-        "imdb_id": "tt0166924"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2001",
-    "nominees": [
-      "Ridley Scott"
-    ],
-    "movies": [
-      {
-        "title": "Black Hawk Down",
-        "tmdb_id": 855,
-        "imdb_id": "tt0265086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Akiva Goldsman"
-    ],
-    "movies": [
-      {
-        "title": "A Beautiful Mind",
-        "tmdb_id": 453,
-        "imdb_id": "tt0268978"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Daniel Clowes",
-      "Terry Zwigoff"
-    ],
-    "movies": [
-      {
-        "title": "Ghost World",
-        "tmdb_id": 1548,
-        "imdb_id": "tt0162346"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Todd Field",
-      "Robert Festinger"
-    ],
-    "movies": [
-      {
-        "title": "In the Bedroom",
-        "tmdb_id": 1999,
-        "imdb_id": "tt0247425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Peter Jackson",
-      "Fran Walsh",
-      "Philippa Boyens"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Ted Elliott",
-      "Terry Rossio",
-      "Joe Stillman",
-      "Roger S. H. Schulman"
-    ],
-    "movies": [
-      {
-        "title": "Shrek",
-        "tmdb_id": 808,
-        "imdb_id": "tt0126029"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Julian Fellowes"
-    ],
-    "movies": [
-      {
-        "title": "Gosford Park",
-        "tmdb_id": 5279,
-        "imdb_id": "tt0280707"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Guillaume Laurant",
-      "Jean-Pierre Jeunet"
-    ],
-    "movies": [
-      {
-        "title": "Amélie",
-        "tmdb_id": 194,
-        "imdb_id": "tt0211915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Christopher Nolan",
-      "Jonathan Nolan"
-    ],
-    "movies": [
-      {
-        "title": "Memento",
-        "tmdb_id": 77,
-        "imdb_id": "tt0209144"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Milo Addica",
-      "Will Rokos"
-    ],
-    "movies": [
-      {
-        "title": "Monster's Ball",
-        "tmdb_id": 1365,
-        "imdb_id": "tt0285742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2001",
-    "nominees": [
-      "Wes Anderson",
-      "Owen Wilson"
-    ],
-    "movies": [
-      {
-        "title": "The Royal Tenenbaums",
-        "tmdb_id": 9428,
-        "imdb_id": "tt0265666"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2001",
-    "nominees": [
-      "Howard Shore"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "2001",
-    "nominees": [
-      "James Horner"
-    ],
-    "movies": [
-      {
-        "title": "A Beautiful Mind",
-        "tmdb_id": 453,
-        "imdb_id": "tt0268978"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2001",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Harry Potter and the Philosopher's Stone",
-        "tmdb_id": 671,
-        "imdb_id": "tt0241527"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2001",
-    "nominees": [
-      "Randy Newman"
-    ],
-    "movies": [
-      {
-        "title": "Monsters, Inc.",
-        "tmdb_id": 585,
-        "imdb_id": "tt0198781"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2001",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "A.I. Artificial Intelligence",
-        "tmdb_id": 644,
-        "imdb_id": "tt0212720"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2001",
-    "nominees": [
-      "If I Didn't Have You"
-    ],
-    "movies": [
-      {
-        "title": "Monsters, Inc.",
-        "tmdb_id": 585,
-        "imdb_id": "tt0198781"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2001",
-    "nominees": [
-      "May It Be"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2001",
-    "nominees": [
-      "There You'll Be"
-    ],
-    "movies": [
-      {
-        "title": "Pearl Harbor",
-        "tmdb_id": 676,
-        "imdb_id": "tt0213149"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2001",
-    "nominees": [
-      "Until..."
-    ],
-    "movies": [
-      {
-        "title": "Kate & Leopold",
-        "tmdb_id": 11232,
-        "imdb_id": "tt0035423"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2001",
-    "nominees": [
-      "Vanilla Sky"
-    ],
-    "movies": [
-      {
-        "title": "Vanilla Sky",
-        "tmdb_id": 1903,
-        "imdb_id": "tt0259711"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2001",
-    "nominees": [
-      "No Man's Land"
-    ],
-    "movies": [
-      {
-        "title": "No Man's Land",
-        "tmdb_id": 8342,
-        "imdb_id": "tt0283509"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2001",
-    "nominees": [
-      "Amélie"
-    ],
-    "movies": [
-      {
-        "title": "Amélie",
-        "tmdb_id": 194,
-        "imdb_id": "tt0211915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2001",
-    "nominees": [
-      "Elling"
-    ],
-    "movies": [
-      {
-        "title": "Elling",
-        "tmdb_id": 6007,
-        "imdb_id": "tt0279064"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2001",
-    "nominees": [
-      "Lagaan: Once Upon a Time in India"
-    ],
-    "movies": [
-      {
-        "title": "Lagaan: Once Upon a Time in India",
-        "tmdb_id": 19666,
-        "imdb_id": "tt0169102"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2001",
-    "nominees": [
-      "Son of the Bride"
-    ],
-    "movies": [
-      {
-        "title": "Son of the Bride",
-        "tmdb_id": 19460,
-        "imdb_id": "tt0292542"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2001",
-    "nominees": [
-      "Murder on a Sunday Morning"
-    ],
-    "movies": [
-      {
-        "title": "Murder on a Sunday Morning",
-        "tmdb_id": 51391,
-        "imdb_id": "tt0307197"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2001",
-    "nominees": [
-      "Children Underground"
-    ],
-    "movies": [
-      {
-        "title": "Children Underground",
-        "tmdb_id": 51722,
-        "imdb_id": "tt0264476"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2001",
-    "nominees": [
-      "LaLee's Kin: The Legacy of Cotton"
-    ],
-    "movies": [
-      {
-        "title": "LaLee's Kin: The Legacy of Cotton",
-        "tmdb_id": 112906,
-        "imdb_id": "tt0274622"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2001",
-    "nominees": [
-      "Promises"
-    ],
-    "movies": [
-      {
-        "title": "Promises",
-        "tmdb_id": 38880,
-        "imdb_id": "tt0282864"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2001",
-    "nominees": [
-      "War Photographer"
-    ],
-    "movies": [
-      {
-        "title": "War Photographer",
-        "tmdb_id": 12722,
-        "imdb_id": "tt0309061"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2001",
-    "nominees": [
-      "Thoth"
-    ],
-    "movies": [
-      {
-        "title": "Thoth",
-        "tmdb_id": 87292,
-        "imdb_id": "tt0299178"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2001",
-    "nominees": [
-      "Artists and Orphans: A True Drama"
-    ],
-    "movies": [
-      {
-        "title": "Artists and Orphans: A True Drama",
-        "tmdb_id": 244976,
-        "imdb_id": "tt0289073"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2001",
-    "nominees": [
-      "Sing!"
-    ],
-    "movies": [
-      {
-        "title": "Sing!",
-        "tmdb_id": 244978,
-        "imdb_id": "tt0308899"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2001",
-    "nominees": [
-      "Shrek"
-    ],
-    "movies": [
-      {
-        "title": "Shrek",
-        "tmdb_id": 808,
-        "imdb_id": "tt0126029"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2001",
-    "nominees": [
-      "Jimmy Neutron: Boy Genius"
-    ],
-    "movies": [
-      {
-        "title": "Jimmy Neutron: Boy Genius",
-        "tmdb_id": 12589,
-        "imdb_id": "tt0268397"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2001",
-    "nominees": [
-      "Monsters, Inc."
-    ],
-    "movies": [
-      {
-        "title": "Monsters, Inc.",
-        "tmdb_id": 585,
-        "imdb_id": "tt0198781"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2001",
-    "nominees": [
-      "For the Birds"
-    ],
-    "movies": [
-      {
-        "title": "For the Birds",
-        "tmdb_id": 13930,
-        "imdb_id": "tt0248808"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2001",
-    "nominees": [
-      "Fifty Percent Grey"
-    ],
-    "movies": [
-      {
-        "title": "Fifty Percent Grey",
-        "tmdb_id": 85358,
-        "imdb_id": "tt0303336"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2001",
-    "nominees": [
-      "Give Up Yer Aul Sins"
-    ],
-    "movies": [
-      {
-        "title": "Give Up Yer Aul Sins",
-        "tmdb_id": 89671,
-        "imdb_id": "tt0308317"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2001",
-    "nominees": [
-      "Strange Invaders"
-    ],
-    "movies": [
-      {
-        "title": "Strange Invaders",
-        "tmdb_id": 48488,
-        "imdb_id": "tt0296874"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2001",
-    "nominees": [
-      "Stubble Trouble"
-    ],
-    "movies": [
-      {
-        "title": "Stubble Trouble",
-        "tmdb_id": 89672,
-        "imdb_id": "tt0309121"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2001",
-    "nominees": [
-      "The Accountant"
-    ],
-    "movies": [
-      {
-        "title": "The Accountant",
-        "tmdb_id": 36733,
-        "imdb_id": "tt0222675"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2001",
-    "nominees": [
-      "Copy Shop"
-    ],
-    "movies": [
-      {
-        "title": "Copy Shop",
-        "tmdb_id": 53981,
-        "imdb_id": "tt0182014"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2001",
-    "nominees": [
-      "Gregor's Greatest Invention"
-    ],
-    "movies": [
-      {
-        "title": "Gregor's Greatest Invention",
-        "tmdb_id": 244973,
-        "imdb_id": "tt0304107"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2001",
-    "nominees": [
-      "A Man Thing"
-    ],
-    "movies": [
-      {
-        "title": "A Man Thing",
-        "tmdb_id": 122388,
-        "imdb_id": "tt0304394"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2001",
-    "nominees": [
-      "Speed for Thespians"
-    ],
-    "movies": [
-      {
-        "title": "Speed for Thespians",
-        "tmdb_id": 244975,
-        "imdb_id": "tt0269899"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Catherine Martin",
-      "Brigitte Broch"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge!",
-        "tmdb_id": 824,
-        "imdb_id": "tt0203009"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Aline Bonetto",
-      "Marie-Laure Valla"
-    ],
-    "movies": [
-      {
-        "title": "Amélie",
-        "tmdb_id": 194,
-        "imdb_id": "tt0211915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Stephen Altman",
-      "Anna Pinnock"
-    ],
-    "movies": [
-      {
-        "title": "Gosford Park",
-        "tmdb_id": 5279,
-        "imdb_id": "tt0280707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Stuart Craig",
-      "Stephenie McMillan"
-    ],
-    "movies": [
-      {
-        "title": "Harry Potter and the Philosopher's Stone",
-        "tmdb_id": 671,
-        "imdb_id": "tt0241527"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Grant Major",
-      "Dan Hennah"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2001",
-    "nominees": [
-      "Andrew Lesnie"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2001",
-    "nominees": [
-      "Bruno Delbonnel"
-    ],
-    "movies": [
-      {
-        "title": "Amélie",
-        "tmdb_id": 194,
-        "imdb_id": "tt0211915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2001",
-    "nominees": [
-      "Sławomir Idziak"
-    ],
-    "movies": [
-      {
-        "title": "Black Hawk Down",
-        "tmdb_id": 855,
-        "imdb_id": "tt0265086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2001",
-    "nominees": [
-      "Roger Deakins"
-    ],
-    "movies": [
-      {
-        "title": "The Man Who Wasn't There",
-        "tmdb_id": 10778,
-        "imdb_id": "tt0243133"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2001",
-    "nominees": [
-      "Donald M. McAlpine"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge!",
-        "tmdb_id": 824,
-        "imdb_id": "tt0203009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2001",
-    "nominees": [
-      "Pietro Scalia"
-    ],
-    "movies": [
-      {
-        "title": "Black Hawk Down",
-        "tmdb_id": 855,
-        "imdb_id": "tt0265086"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2001",
-    "nominees": [
-      "Mike Hill",
-      "Dan Hanley"
-    ],
-    "movies": [
-      {
-        "title": "A Beautiful Mind",
-        "tmdb_id": 453,
-        "imdb_id": "tt0268978"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2001",
-    "nominees": [
-      "John Gilbert"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2001",
-    "nominees": [
-      "Dody Dorn"
-    ],
-    "movies": [
-      {
-        "title": "Memento",
-        "tmdb_id": 77,
-        "imdb_id": "tt0209144"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2001",
-    "nominees": [
-      "Jill Bilcock"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge!",
-        "tmdb_id": 824,
-        "imdb_id": "tt0203009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2001",
-    "nominees": [
-      "Jim Rygiel",
-      "Randall William Cook",
-      "Richard Taylor",
-      "Mark Stetson"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2001",
-    "nominees": [
-      "Dennis Muren",
-      "Scott Farrar",
-      "Stan Winston",
-      "Michael Lantieri"
-    ],
-    "movies": [
-      {
-        "title": "A.I. Artificial Intelligence",
-        "tmdb_id": 644,
-        "imdb_id": "tt0212720"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2001",
-    "nominees": [
-      "Eric Brevig",
-      "John Frazier",
-      "Ed Hirsch",
-      "Ben Snow"
-    ],
-    "movies": [
-      {
-        "title": "Pearl Harbor",
-        "tmdb_id": 676,
-        "imdb_id": "tt0213149"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2001",
-    "nominees": [
-      "Michael Minkler",
-      "Chris Munro",
-      "Myron Nettinga"
-    ],
-    "movies": [
-      {
-        "title": "Black Hawk Down",
-        "tmdb_id": 855,
-        "imdb_id": "tt0265086"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2001",
-    "nominees": [
-      "Vincent Arnardi",
-      "Guillaume Leriche",
-      "Jean Umansky"
-    ],
-    "movies": [
-      {
-        "title": "Amélie",
-        "tmdb_id": 194,
-        "imdb_id": "tt0211915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2001",
-    "nominees": [
-      "Christopher Boyes",
-      "Michael Semanick",
-      "Gethin Creagh",
-      "Hammond Peek"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2001",
-    "nominees": [
-      "Andy Nelson",
-      "Anna Behlmer",
-      "Roger Savage",
-      "Guntis Sics"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge!",
-        "tmdb_id": 824,
-        "imdb_id": "tt0203009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2001",
-    "nominees": [
-      "Greg P. Russell",
-      "Peter J. Devlin",
-      "Kevin O'Connell"
-    ],
-    "movies": [
-      {
-        "title": "Pearl Harbor",
-        "tmdb_id": 676,
-        "imdb_id": "tt0213149"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2001",
-    "nominees": [
-      "George Watters",
-      "Christopher Boyes"
-    ],
-    "movies": [
-      {
-        "title": "Pearl Harbor",
-        "tmdb_id": 676,
-        "imdb_id": "tt0213149"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2001",
-    "nominees": [
-      "Gary Rydstrom",
-      "Michael Silvers"
-    ],
-    "movies": [
-      {
-        "title": "Monsters, Inc.",
-        "tmdb_id": 585,
-        "imdb_id": "tt0198781"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2001",
-    "nominees": [
-      "Peter Owen",
-      "Richard Taylor"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2001",
-    "nominees": [
-      "Greg Cannom",
-      "Colleen Callaghan"
-    ],
-    "movies": [
-      {
-        "title": "A Beautiful Mind",
-        "tmdb_id": 453,
-        "imdb_id": "tt0268978"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2001",
-    "nominees": [
-      "Maurizio Silvi",
-      "Aldo Signoretti"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge!",
-        "tmdb_id": 824,
-        "imdb_id": "tt0203009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Catherine Martin",
-      "Angus Strathie"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge!",
-        "tmdb_id": 824,
-        "imdb_id": "tt0203009"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Milena Canonero"
-    ],
-    "movies": [
-      {
-        "title": "The Affair of the Necklace",
-        "tmdb_id": 19076,
-        "imdb_id": "tt0242252"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Jenny Beavan"
-    ],
-    "movies": [
-      {
-        "title": "Gosford Park",
-        "tmdb_id": 5279,
-        "imdb_id": "tt0280707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Judianna Makovsky"
-    ],
-    "movies": [
-      {
-        "title": "Harry Potter and the Philosopher's Stone",
-        "tmdb_id": 671,
-        "imdb_id": "tt0241527"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2001",
-    "nominees": [
-      "Ngila Dickson",
-      "Richard Taylor"
-    ],
-    "movies": [
-      {
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tmdb_id": 120,
-        "imdb_id": "tt0120737"
-      }
-    ],
-    "won": false
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "A Beautiful Mind",
+    "FilmId": "tt0268978",
+    "Name": "Russell Crowe",
+    "Nominees": "Russell Crowe",
+    "NomineeIds": "nm0000128",
+    "Winner": "",
+    "Detail": "John Nash",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "I Am Sam",
+    "FilmId": "tt0277027",
+    "Name": "Sean Penn",
+    "Nominees": "Sean Penn",
+    "NomineeIds": "nm0000576",
+    "Winner": "",
+    "Detail": "Sam Dawson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Ali",
+    "FilmId": "tt0248667",
+    "Name": "Will Smith",
+    "Nominees": "Will Smith",
+    "NomineeIds": "nm0000226",
+    "Winner": "",
+    "Detail": "Muhammad Ali",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Training Day",
+    "FilmId": "tt0139654",
+    "Name": "Denzel Washington",
+    "Nominees": "Denzel Washington",
+    "NomineeIds": "nm0000243",
+    "Winner": "True",
+    "Detail": "Alonzo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "In the Bedroom",
+    "FilmId": "tt0247425",
+    "Name": "Tom Wilkinson",
+    "Nominees": "Tom Wilkinson",
+    "NomineeIds": "nm0929489",
+    "Winner": "",
+    "Detail": "Matt Fowler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Iris",
+    "FilmId": "tt0280778",
+    "Name": "Jim Broadbent",
+    "Nominees": "Jim Broadbent",
+    "NomineeIds": "nm0000980",
+    "Winner": "True",
+    "Detail": "John Bayley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Training Day",
+    "FilmId": "tt0139654",
+    "Name": "Ethan Hawke",
+    "Nominees": "Ethan Hawke",
+    "NomineeIds": "nm0000160",
+    "Winner": "",
+    "Detail": "Jake",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Sexy Beast",
+    "FilmId": "tt0203119",
+    "Name": "Ben Kingsley",
+    "Nominees": "Ben Kingsley",
+    "NomineeIds": "nm0001426",
+    "Winner": "",
+    "Detail": "Don Logan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Ian McKellen",
+    "Nominees": "Ian McKellen",
+    "NomineeIds": "nm0005212",
+    "Winner": "",
+    "Detail": "Gandalf",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Ali",
+    "FilmId": "tt0248667",
+    "Name": "Jon Voight",
+    "Nominees": "Jon Voight",
+    "NomineeIds": "nm0000685",
+    "Winner": "",
+    "Detail": "Howard Cosell",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Monster's Ball",
+    "FilmId": "tt0285742",
+    "Name": "Halle Berry",
+    "Nominees": "Halle Berry",
+    "NomineeIds": "nm0000932",
+    "Winner": "True",
+    "Detail": "Leticia Musgrove",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Iris",
+    "FilmId": "tt0280778",
+    "Name": "Judi Dench",
+    "Nominees": "Judi Dench",
+    "NomineeIds": "nm0001132",
+    "Winner": "",
+    "Detail": "Iris Murdoch",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0203009",
+    "Name": "Nicole Kidman",
+    "Nominees": "Nicole Kidman",
+    "NomineeIds": "nm0000173",
+    "Winner": "",
+    "Detail": "Satine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "In the Bedroom",
+    "FilmId": "tt0247425",
+    "Name": "Sissy Spacek",
+    "Nominees": "Sissy Spacek",
+    "NomineeIds": "nm0000651",
+    "Winner": "",
+    "Detail": "Ruth Fowler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Bridget Jones's Diary",
+    "FilmId": "tt0243155",
+    "Name": "Renée Zellweger",
+    "Nominees": "Renée Zellweger",
+    "NomineeIds": "nm0000250",
+    "Winner": "",
+    "Detail": "Bridget Jones",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "A Beautiful Mind",
+    "FilmId": "tt0268978",
+    "Name": "Jennifer Connelly",
+    "Nominees": "Jennifer Connelly",
+    "NomineeIds": "nm0000124",
+    "Winner": "True",
+    "Detail": "Alicia Nash",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Gosford Park",
+    "FilmId": "tt0280707",
+    "Name": "Helen Mirren",
+    "Nominees": "Helen Mirren",
+    "NomineeIds": "nm0000545",
+    "Winner": "",
+    "Detail": "Mrs. Wilson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Gosford Park",
+    "FilmId": "tt0280707",
+    "Name": "Maggie Smith",
+    "Nominees": "Maggie Smith",
+    "NomineeIds": "nm0001749",
+    "Winner": "",
+    "Detail": "Constance, Countess of Trentham",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "In the Bedroom",
+    "FilmId": "tt0247425",
+    "Name": "Marisa Tomei",
+    "Nominees": "Marisa Tomei",
+    "NomineeIds": "nm0000673",
+    "Winner": "",
+    "Detail": "Natalie Strout",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Iris",
+    "FilmId": "tt0280778",
+    "Name": "Kate Winslet",
+    "Nominees": "Kate Winslet",
+    "NomineeIds": "nm0000701",
+    "Winner": "",
+    "Detail": "Young Iris Murdoch",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Jimmy Neutron: Boy Genius",
+    "FilmId": "tt0268397",
+    "Name": "Steve Oedekerk, John A. Davis",
+    "Nominees": "Steve Oedekerk|John A. Davis",
+    "NomineeIds": "nm0644203|nm0204884",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Monsters, Inc.",
+    "FilmId": "tt0198781",
+    "Name": "Pete Docter, John Lasseter",
+    "Nominees": "Pete Docter|John Lasseter",
+    "NomineeIds": "nm0230032|nm0005124",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Shrek",
+    "FilmId": "tt0126029",
+    "Name": "Aron Warner",
+    "Nominees": "Aron Warner",
+    "NomineeIds": "nm0912403",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Amélie",
+    "FilmId": "tt0211915",
+    "Name": "Art Direction: Aline Bonetto; Set Decoration: Marie-Laure Valla",
+    "Nominees": "Aline Bonetto|Marie-Laure Valla",
+    "NomineeIds": "nm0094355|nm0884831",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Gosford Park",
+    "FilmId": "tt0280707",
+    "Name": "Art Direction: Stephen Altman; Set Decoration: Anna Pinnock",
+    "Nominees": "Stephen Altman|Anna Pinnock",
+    "NomineeIds": "nm0022939|nm0003519",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Harry Potter and the Sorcerer's Stone",
+    "FilmId": "tt0241527",
+    "Name": "Art Direction: Stuart Craig; Set Decoration: Stephenie McMillan",
+    "Nominees": "Stuart Craig|Stephenie McMillan",
+    "NomineeIds": "nm0186023|nm0573328",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Art Direction: Grant Major; Set Decoration: Dan Hennah",
+    "Nominees": "Grant Major|Dan Hennah",
+    "NomineeIds": "nm0538194|nm0377172",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0203009",
+    "Name": "Art Direction: Catherine Martin; Set Decoration: Brigitte Broch",
+    "Nominees": "Catherine Martin|Brigitte Broch",
+    "NomineeIds": "nm0552039|nm0110488",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Amélie",
+    "FilmId": "tt0211915",
+    "Name": "Bruno Delbonnel",
+    "Nominees": "Bruno Delbonnel",
+    "NomineeIds": "nm0216632",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Black Hawk Down",
+    "FilmId": "tt0265086",
+    "Name": "Slawomir Idziak",
+    "Nominees": "Slawomir Idziak",
+    "NomineeIds": "nm0005744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Andrew Lesnie",
+    "Nominees": "Andrew Lesnie",
+    "NomineeIds": "nm0504226",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Man Who Wasn't There",
+    "FilmId": "tt0243133",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0203009",
+    "Name": "Donald M. McAlpine",
+    "Nominees": "Donald M. McAlpine",
+    "NomineeIds": "nm0005791",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Affair of the Necklace",
+    "FilmId": "tt0242252",
+    "Name": "Milena Canonero",
+    "Nominees": "Milena Canonero",
+    "NomineeIds": "nm0134382",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Gosford Park",
+    "FilmId": "tt0280707",
+    "Name": "Jenny Beavan",
+    "Nominees": "Jenny Beavan",
+    "NomineeIds": "nm0064746",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Harry Potter and the Sorcerer's Stone",
+    "FilmId": "tt0241527",
+    "Name": "Judianna Makovsky",
+    "Nominees": "Judianna Makovsky",
+    "NomineeIds": "nm0538721",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Ngila Dickson, Richard Taylor",
+    "Nominees": "Ngila Dickson|Richard Taylor",
+    "NomineeIds": "nm0225699|nm0853050",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0203009",
+    "Name": "Catherine Martin, Angus Strathie",
+    "Nominees": "Catherine Martin|Angus Strathie",
+    "NomineeIds": "nm0552039|nm0833572",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "A Beautiful Mind",
+    "FilmId": "tt0268978",
+    "Name": "Ron Howard",
+    "Nominees": "Ron Howard",
+    "NomineeIds": "nm0000165",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Black Hawk Down",
+    "FilmId": "tt0265086",
+    "Name": "Ridley Scott",
+    "Nominees": "Ridley Scott",
+    "NomineeIds": "nm0000631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Gosford Park",
+    "FilmId": "tt0280707",
+    "Name": "Robert Altman",
+    "Nominees": "Robert Altman",
+    "NomineeIds": "nm0000265",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Peter Jackson",
+    "Nominees": "Peter Jackson",
+    "NomineeIds": "nm0001392",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Mulholland Drive",
+    "FilmId": "tt0166924",
+    "Name": "David Lynch",
+    "Nominees": "David Lynch",
+    "NomineeIds": "nm0000186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Children Underground",
+    "FilmId": "tt0264476",
+    "Name": "Edet Belzberg",
+    "Nominees": "Edet Belzberg",
+    "NomineeIds": "nm0069797",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "LaLee's Kin: The Legacy of Cotton",
+    "FilmId": "tt0274622",
+    "Name": "Susan Froemke, Deborah Dickson",
+    "Nominees": "Susan Froemke|Deborah Dickson",
+    "NomineeIds": "nm0297085|nm0225630",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Murder on a Sunday Morning",
+    "FilmId": "tt0307197",
+    "Name": "Jean-Xavier de Lestrade, Denis Poncet",
+    "Nominees": "Jean-Xavier de Lestrade|Denis Poncet",
+    "NomineeIds": "nm0994355|nm1119350",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Promises",
+    "FilmId": "tt0282864",
+    "Name": "Justine Shapiro, B.Z. Goldberg",
+    "Nominees": "Justine Shapiro|B.Z. Goldberg",
+    "NomineeIds": "nm0035184|nm0325148",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "War Photographer",
+    "FilmId": "tt0309061",
+    "Name": "Christian Frei",
+    "Nominees": "Christian Frei",
+    "NomineeIds": "nm0293726",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Artists and Orphans: A True Drama",
+    "FilmId": "tt0289073",
+    "Name": "Lianne Klapper McNally",
+    "Nominees": "Lianne Klapper McNally",
+    "NomineeIds": "nm0458259",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Sing!",
+    "FilmId": "tt0308899",
+    "Name": "Freida Lee Mock, Jessica Sanders",
+    "Nominees": "Freida Lee Mock|Jessica Sanders",
+    "NomineeIds": "nm0595131|nm1124618",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Thoth",
+    "FilmId": "tt0299178",
+    "Name": "Sarah Kernochan, Lynn Appelle",
+    "Nominees": "Sarah Kernochan|Lynn Appelle",
+    "NomineeIds": "nm0449576|nm0032258",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "A Beautiful Mind",
+    "FilmId": "tt0268978",
+    "Name": "Mike Hill, Dan Hanley",
+    "Nominees": "Mike Hill|Dan Hanley",
+    "NomineeIds": "nm0384528|nm0360067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Black Hawk Down",
+    "FilmId": "tt0265086",
+    "Name": "Pietro Scalia",
+    "Nominees": "Pietro Scalia",
+    "NomineeIds": "nm0768817",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "John Gilbert",
+    "Nominees": "John Gilbert",
+    "NomineeIds": "nm0003016",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Memento",
+    "FilmId": "tt0209144",
+    "Name": "Dody Dorn",
+    "Nominees": "Dody Dorn",
+    "NomineeIds": "nm0233827",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0203009",
+    "Name": "Jill Bilcock",
+    "Nominees": "Jill Bilcock",
+    "NomineeIds": "nm0082162",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Amélie",
+    "FilmId": "tt0211915",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Elling",
+    "FilmId": "tt0279064",
+    "Name": "Norway",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Lagaan",
+    "FilmId": "tt0169102",
+    "Name": "India",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "No Man's Land",
+    "FilmId": "tt0283509",
+    "Name": "Bosnia & Herzegovina",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Son of the Bride",
+    "FilmId": "tt0292542",
+    "Name": "Argentina",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "A Beautiful Mind",
+    "FilmId": "tt0268978",
+    "Name": "Greg Cannom, Colleen Callaghan",
+    "Nominees": "Greg Cannom|Colleen Callaghan",
+    "NomineeIds": "nm0134148|nm0130128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Peter Owen, Richard Taylor",
+    "Nominees": "Peter Owen|Richard Taylor",
+    "NomineeIds": "nm0654232|nm0853050",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0203009",
+    "Name": "Maurizio Silvi, Aldo Signoretti",
+    "Nominees": "Maurizio Silvi|Aldo Signoretti",
+    "NomineeIds": "nm0799198|nm0797532",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "A.I. Artificial Intelligence",
+    "FilmId": "tt0212720",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "A Beautiful Mind",
+    "FilmId": "tt0268978",
+    "Name": "James Horner",
+    "Nominees": "James Horner",
+    "NomineeIds": "nm0000035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Harry Potter and the Sorcerer's Stone",
+    "FilmId": "tt0241527",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Howard Shore",
+    "Nominees": "Howard Shore",
+    "NomineeIds": "nm0006290",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Monsters, Inc.",
+    "FilmId": "tt0198781",
+    "Name": "Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Monsters, Inc.",
+    "FilmId": "tt0198781",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "True",
+    "Detail": "If I Didn't Have You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Music and Lyric by Enya, Nicky Ryan and Roma Ryan",
+    "Nominees": "Enya|Nicky Ryan|Roma Ryan",
+    "NomineeIds": "nm0258216|nm1211393|nm0752822",
+    "Winner": "",
+    "Detail": "May It Be",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Pearl Harbor",
+    "FilmId": "tt0213149",
+    "Name": "Music and Lyric by Diane Warren",
+    "Nominees": "Diane Warren",
+    "NomineeIds": "nm0005534",
+    "Winner": "",
+    "Detail": "There You'll Be",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Kate & Leopold",
+    "FilmId": "tt0035423",
+    "Name": "Music and Lyric by Sting",
+    "Nominees": "Sting",
+    "NomineeIds": "nm0001776",
+    "Winner": "",
+    "Detail": "Until",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Vanilla Sky",
+    "FilmId": "tt0259711",
+    "Name": "Music and Lyric by Paul McCartney",
+    "Nominees": "Paul McCartney",
+    "NomineeIds": "nm0005200",
+    "Winner": "",
+    "Detail": "Vanilla Sky",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "A Beautiful Mind",
+    "FilmId": "tt0268978",
+    "Name": "Brian Grazer and Ron Howard, Producers",
+    "Nominees": "Brian Grazer|Ron Howard",
+    "NomineeIds": "nm0004976|nm0000165",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Gosford Park",
+    "FilmId": "tt0280707",
+    "Name": "Robert Altman, Bob Balaban and David Levy, Producers",
+    "Nominees": "Robert Altman|Bob Balaban|David Levy",
+    "NomineeIds": "nm0000265|nm0000837|nm0506379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "In the Bedroom",
+    "FilmId": "tt0247425",
+    "Name": "Graham Leader, Ross Katz and Todd Field, Producers",
+    "Nominees": "Graham Leader|Ross Katz|Todd Field",
+    "NomineeIds": "nm0494910|nm0441839|nm0276062",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Peter Jackson, Fran Walsh and Barrie M. Osborne, Producers",
+    "Nominees": "Peter Jackson|Fran Walsh|Barrie M. Osborne",
+    "NomineeIds": "nm0001392|nm0909638|nm0651614",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0203009",
+    "Name": "Martin Brown, Baz Luhrmann and Fred Baron, Producers",
+    "Nominees": "Martin Brown|Baz Luhrmann|Fred Baron",
+    "NomineeIds": "nm0114213|nm0525303|nm0056236",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Fifty Percent Grey",
+    "FilmId": "tt0303336",
+    "Name": "Ruairi Robinson, Seamus Byrne",
+    "Nominees": "Ruairi Robinson|Seamus Byrne",
+    "NomineeIds": "nm1099711|nm0126289",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "For the Birds",
+    "FilmId": "tt0248808",
+    "Name": "Ralph Eggleston",
+    "Nominees": "Ralph Eggleston",
+    "NomineeIds": "nm0250995",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Give Up Yer Aul Sins",
+    "FilmId": "tt0308317",
+    "Name": "Cathal Gaffney, Darragh O'Connell",
+    "Nominees": "Cathal Gaffney|Darragh O'Connell",
+    "NomineeIds": "nm1124614|nm1124615",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Strange Invaders",
+    "FilmId": "tt0296874",
+    "Name": "Cordell Barker",
+    "Nominees": "Cordell Barker",
+    "NomineeIds": "nm0054855",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Stubble Trouble",
+    "FilmId": "tt0309121",
+    "Name": "Joseph E. Merideth",
+    "Nominees": "Joseph E. Merideth",
+    "NomineeIds": "nm1124616",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "the accountant",
+    "FilmId": "tt0222675",
+    "Name": "Ray McKinnon, Lisa Blount",
+    "Nominees": "Ray McKinnon|Lisa Blount",
+    "NomineeIds": "nm0571964|nm0089408",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Copy Shop",
+    "FilmId": "tt0182014",
+    "Name": "Virgil Widrich",
+    "Nominees": "Virgil Widrich",
+    "NomineeIds": "nm0927179",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Gregor's Greatest Invention",
+    "FilmId": "tt0304107",
+    "Name": "Johannes Kiefer",
+    "Nominees": "Johannes Kiefer",
+    "NomineeIds": "nm0452374",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "A Man Thing (Meska Sprawa)",
+    "FilmId": "tt0304394",
+    "Name": "Slawomir Fabicki, Bogumil Godfrejow",
+    "Nominees": "Slawomir Fabicki|Bogumil Godfrejow",
+    "NomineeIds": "nm0264614|nm0323950",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Speed for Thespians",
+    "FilmId": "tt0269899",
+    "Name": "Kalman Apple, Shameela Bakhsh",
+    "Nominees": "Kalman Apple|Shameela Bakhsh",
+    "NomineeIds": "nm0032315|nm0049075",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Amélie",
+    "FilmId": "tt0211915",
+    "Name": "Vincent Arnardi, Guillaume Leriche, Jean Umansky",
+    "Nominees": "Vincent Arnardi|Guillaume Leriche|Jean Umansky",
+    "NomineeIds": "nm0003399|nm1054914|nm0880796",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Black Hawk Down",
+    "FilmId": "tt0265086",
+    "Name": "Michael Minkler, Myron Nettinga, Chris Munro",
+    "Nominees": "Michael Minkler|Myron Nettinga|Chris Munro",
+    "NomineeIds": "nm0591444|nm0002383|nm0613101",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Christopher Boyes, Michael Semanick, Gethin Creagh, Hammond Peek",
+    "Nominees": "Christopher Boyes|Michael Semanick|Gethin Creagh|Hammond Peek",
+    "NomineeIds": "nm0102110|nm0783713|nm0187098|nm0003827",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0203009",
+    "Name": "Andy Nelson, Anna Behlmer, Roger Savage, Guntis Sics",
+    "Nominees": "Andy Nelson|Anna Behlmer|Roger Savage|Guntis Sics",
+    "NomineeIds": "nm0625144|nm0066933|nm0767373|nm0796456",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Pearl Harbor",
+    "FilmId": "tt0213149",
+    "Name": "Kevin O'Connell, Greg P. Russell, Peter J. Devlin",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Peter J. Devlin",
+    "NomineeIds": "nm0640114|nm0751169|nm0222818",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Monsters, Inc.",
+    "FilmId": "tt0198781",
+    "Name": "Gary Rydstrom, Michael Silvers",
+    "Nominees": "Gary Rydstrom|Michael Silvers",
+    "NomineeIds": "nm0003977|nm0799011",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Pearl Harbor",
+    "FilmId": "tt0213149",
+    "Name": "George Watters II, Christopher Boyes",
+    "Nominees": "George Watters II|Christopher Boyes",
+    "NomineeIds": "nm0915036|nm0102110",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "A.I. Artificial Intelligence",
+    "FilmId": "tt0212720",
+    "Name": "Dennis Muren, Scott Farrar, Stan Winston, Michael Lantieri",
+    "Nominees": "Dennis Muren|Scott Farrar|Stan Winston|Michael Lantieri",
+    "NomineeIds": "nm0613830|nm0268141|nm0935644|nm0487177",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Jim Rygiel, Randall William Cook, Richard Taylor, Mark Stetson",
+    "Nominees": "Jim Rygiel|Randall William Cook|Richard Taylor|Mark Stetson",
+    "NomineeIds": "nm0753277|nm0177241|nm0853050|nm0828078",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Pearl Harbor",
+    "FilmId": "tt0213149",
+    "Name": "Eric Brevig, John Frazier, Ed Hirsh, Ben Snow",
+    "Nominees": "Eric Brevig|John Frazier|Ed Hirsh|Ben Snow",
+    "NomineeIds": "nm0108094|nm0292594|nm0386644|nm0811240",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "A Beautiful Mind",
+    "FilmId": "tt0268978",
+    "Name": "Written by Akiva Goldsman",
+    "Nominees": "Akiva Goldsman",
+    "NomineeIds": "nm0326040",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Ghost World",
+    "FilmId": "tt0162346",
+    "Name": "Written by Daniel Clowes & Terry Zwigoff",
+    "Nominees": "Daniel Clowes|Terry Zwigoff",
+    "NomineeIds": "nm0167280|nm0959062",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "In the Bedroom",
+    "FilmId": "tt0247425",
+    "Name": "Screenplay by Rob Festinger and Todd Field",
+    "Nominees": "Rob Festinger|Todd Field",
+    "NomineeIds": "nm0275284|nm0276062",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Lord of the Rings: The Fellowship of the Ring",
+    "FilmId": "tt0120737",
+    "Name": "Screenplay by Fran Walsh, Philippa Boyens, Peter Jackson",
+    "Nominees": "Fran Walsh|Philippa Boyens|Peter Jackson",
+    "NomineeIds": "nm0909638|nm0101991|nm0001392",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Shrek",
+    "FilmId": "tt0126029",
+    "Name": "Written by Ted Elliott & Terry Rossio and Joe Stillman and Roger S.H. Schulman",
+    "Nominees": "Ted Elliott|Terry Rossio|Joe Stillman|Roger S.H. Schulman",
+    "NomineeIds": "nm0254645|nm0744429|nm0830294|nm0776107",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Amélie",
+    "FilmId": "tt0211915",
+    "Name": "Screenplay by Guillaume Laurant and Jean-Pierre Jeunet; Dialogue by Guillaume Laurant",
+    "Nominees": "Guillaume Laurant|Jean-Pierre Jeunet",
+    "NomineeIds": "nm0491011|nm0000466",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Gosford Park",
+    "FilmId": "tt0280707",
+    "Name": "Written by Julian Fellowes",
+    "Nominees": "Julian Fellowes",
+    "NomineeIds": "nm0271501",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Memento",
+    "FilmId": "tt0209144",
+    "Name": "Screenplay by Christopher Nolan; Story by Jonathan Nolan",
+    "Nominees": "Christopher Nolan|Jonathan Nolan",
+    "NomineeIds": "nm0634240|nm0634300",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Monster's Ball",
+    "FilmId": "tt0285742",
+    "Name": "Written by Milo Addica & Will Rokos",
+    "Nominees": "Milo Addica|Will Rokos",
+    "NomineeIds": "nm0995906|nm0737993",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "The Royal Tenenbaums",
+    "FilmId": "tt0265666",
+    "Name": "Written by Wes Anderson & Owen Wilson",
+    "Nominees": "Wes Anderson|Owen Wilson",
+    "NomineeIds": "nm0027572|nm0005562",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Arthur Hiller",
+    "Nominees": "Arthur Hiller",
+    "NomineeIds": "nm0002137",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Sidney Poitier",
+    "NomineeIds": "nm0001627",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Sidney Poitier in recognition of his remarkable accomplishments as an artist and as a human being."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Robert Redford",
+    "NomineeIds": "nm0000602",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Robert Redford: Actor, director, producer, creator of Sundance, inspiration to independent and innovative filmmakers everywhere."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Edmund M. Di Giulio",
+    "NomineeIds": "nm0223907",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Edmund M. Di Giulio"
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John M. Eargle|D.B. Keele|Mark E. Engebretson",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "The work of John M. Eargle, D.B. \\\"Don\\\" Keele and Mark E. Engebretson has resulted in the over 20-year dominance of constant-directivity, direct radiator bass style cinema loudspeaker systems.",
+    "Citation": "To JOHN M. EARGLE, D.B. \\\"DON\\\" KEELE and MARK E. ENGEBRETSON for the concept, design and engineering of the modern constant-directivity, direct radiator style motion picture loudspeaker systems."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Iain Neil|Al Saiki",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "This compact, wide-angle, macro focus lens enhances and expands the picture-capturing ability, both technically and artistically, of the cinematographer. It is the first cine lens that allows macro photography while still being able to zoom.",
+    "Citation": "To IAIN NEIL for the concept and optical design and AL SAIKI for the mechanical design of the Panavision Primo Macro Zoom Lens (PMZ)."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Franz Kraus|Johannes Steurer|Wolfgang Riedel",
+    "NomineeIds": "nm0470117|?|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "The ARRILASER film recorder demonstrates a high level of engineering resulting in a compact, user-friendly, low-maintenance device while at the same time maintaining outstanding speed, exposure ratings and image quality.",
+    "Citation": "To FRANZ KRAUS, JOHANNES STEURER and WOLFGANG RIEDEL for the design and development of the ARRILASER Film Recorder."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Peter Kuran|Sean Coughlin|Joseph A. Olivier|William Conner",
+    "NomineeIds": "nm0475571|nm1992966|?|nm0175190",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "This photo-chemical process restores color to faded color negative using off-the-shelf film stocks with a unique approach. The resulting film intermediate can be used to create a new internegative.",
+    "Citation": "To PETER KURAN for the invention, and SEAN COUGHLIN, JOSEPH A. OLIVIER and WILLIAM CONNER for the engineering and development of the RCI-Color Film Restoration Process."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Makoto Tsukada",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "This liquid-gate optical printer offers ease of set-up and change-over to various formats from 35mm to 65mm 15-perf with both additive and subtractive lamp houses.",
+    "Citation": "To MAKOTO TSUKADA, SHOJI KANEKO and the TECHNICAL STAFF OF IMAGICA CORPORATION, and DAIJIRO FUJIE of Nikon Corporation for the engineering excellence and the impact on the motion picture industry of the Imagica 65/35 Multi-Format Optical Printer."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steven Gerlach|Gregory Farrell|Christian Lurin",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "Allowing all four soundtrack systems to be exposed on a single negative with relative ease, this stock has allowed single inventory prints, facilitating the more economic distribution of motion pictures.",
+    "Citation": "To STEVEN GERLACH, GREGORY FARRELL and CHRISTIAN LURIN for the design, engineering and implementation of the Kodak Panchromatic Sound Recording Film."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Paul J. Constantine|Peter M. Constantine",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "CELCO recorder products have had a significant impact on the industry through continual improvements in their technology.",
+    "Citation": "To PAUL J. CONSTANTINE and PETER M. CONSTANTINE for the design and development of the CELCO Digital Film Recorder products."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Pete Romano",
+    "NomineeIds": "nm0738943",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "The Remote AquaCam brings to the industry an underwater camera housing specifically designed for remote and high-speed operation. Its hydro-dynamic shape facilitates ease of operation for surface hand-held filming, and its remote capabilities allow it to film in confined areas or in situations where an operator cannot be near the camera.",
+    "Citation": "To PETE ROMANO for the design and development of the Remote AquaCam, an underwater camera housing system for use in motion pictures."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jordan Klein",
+    "NomineeIds": "nm0458630",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "With over 50 years of involvement in the design and development of underwater camera housings, Jordan Klein's work has had significant influence in the field of underwater photography.",
+    "Citation": "To JORDAN KLEIN for his pioneering efforts in the development and application of underwater camera housings for motion pictures."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bernard M. Werner|William Gelow",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "Employing both tapered line array and filtered line array technologies and unique passive and active filter networks, their work with cinema loudspeakers was both innovative and dedicated specifically to cinema applications.",
+    "Citation": "To BERNARD M. WERNER and WILLIAM GELOW for the engineering and design of filtered line arrays and screen spreading compensation as applied to motion picture loudspeaker systems."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Tomlinson Holman",
+    "NomineeIds": "nm0391642",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "For over 20 years Tomlinson Holman has been involved in the research and integration of the constant-directivity, direct radiator bass type of cinema loudspeaker systems.",
+    "Citation": "To TOMLINSON HOLMAN for the research and systems integration resulting in the improvement of motion picture loudspeaker systems."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Geoff Jackson|Roger Woodburn",
+    "NomineeIds": "nm8032955|?",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "This well-engineered camera motor features built-in time-lapse programmability and is useful in an unusually wide range of applications, including MOS production filming, high-speed photography, animation and motion control.",
+    "Citation": "To GEOFF JACKSON and ROGER WOODBURN for their DMS 120S Camera Motor."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thomas Major Barron|Chas Smith|Gordon Seitz",
+    "NomineeIds": "?|?|nm2554169",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "This motion control camera crane represents an unprecedented combination of long reach, high speed, and a novel approach to its transport, which allows a very rapid setup on location.",
+    "Citation": "To THOMAS MAJOR BARRON for the overall concept and design; CHAS SMITH for the structural engineering; and GORDON SEITZ for the mechanical engineering of the Bulldog Motion Control Camera Crane."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John R. Anderson|Jim Hourihan|Cary Phillips|Sebastian Marino",
+    "NomineeIds": "nm0026944|nm0396606|nm0680288|nm1852632",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This system makes hair, clothing, skin, flesh and muscle simulation both directable and integrated within a character animation and rigging environment.",
+    "Citation": "To JOHN R. ANDERSON, JIM HOURIHAN, CARY PHILLIPS and SEBASTIAN MARINO for the development of the ILM Creature Dynamics System."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steve Sullivan|Eric R.L. Schafer",
+    "NomineeIds": "nm0838354|nm0769774",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The MARS system provides analysis of camera motion and object motion, and their dimensions. It employs a rich set of user-interface tools and sophisticated algorithms.",
+    "Citation": "To STEVE SULLIVAN and ERIC R.L. SCHAFER for the development of the ILM Motion and Structure Recovery System (MARS)."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CARL LUDWIG|JOHN M. CONSTANTINE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "CELCO recorder products have had a significant impact on the industry through continual improvements in their technology.",
+    "Citation": "To CARL LUDWIG and JOHN M. CONSTANTINE, JR. for their contributions to CELCO Digital Film Recorder products."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bill Spitzak|Paul Van Camp|Jonathan Egstad|Price Pethel",
+    "NomineeIds": "nm0819163|nm0885844|nm0251132|nm0677487",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The Nuke-2D compositing software allows for the creation of complex interactive digital composites using relatively modest computing hardware.",
+    "Citation": "To BILL SPITZAK, PAUL VAN CAMP, JONATHAN EGSTAD and PRICE PETHEL for their pioneering effort on the NUKE-2D Compositing Software."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Lance J. Williams",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The ongoing influence of Lance Williams is exemplified in his three seminal papers \\\"Casting Shadows on Curved Surfaces,\\\" \\\"Pyramidal Parametrics\\\" and \\\"View Interpolation for Image Synthesis.\\",
+    "Citation": "To DR. LANCE J. WILLIAMS for his pioneering influence in the field of computer-generated animation and effects for motion pictures."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Uwe Sassenberg|Rolf Schneider",
+    "NomineeIds": "?|nm2245514",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This dominant commercial tracking system provides \\\"survey-free\\\" tracking, which significantly reduces the need for painstaking, error-prone measurements on sets.",
+    "Citation": "To DR. UWE SASSENBERG and ROLF SCHNEIDER for the development of \\\"3D Equalizer,\\\" an advanced and robust camera and object match-moving system."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Garland Stern",
+    "NomineeIds": "nm1302541",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "All current cel painting applications in the motion picture industry can be traced back to the original idea and pioneering implementation of Garland Stern.",
+    "Citation": "To DR. GARLAND STERN for the concept and implementation of the Cel Paint Software System."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mic Rodgers|Matt Sweeney",
+    "NomineeIds": "nm0734747|nm0842157",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "This self-contained, low bed picture car carrier and camera platform enables the safe, economic and realistic filming of action sequences that may involve principal actors and dialogue.",
+    "Citation": "To MIC RODGERS and MATT SWEENEY for the concept, design and realization of the \\\"Mic Rig.\\"
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Rune Ericson",
+    "NomineeIds": "nm0259173",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Super 16mm film format has achieved a significant impact on the worldwide film industry by playing a major role in empowering low budget films to be produced for theatrical release.",
+    "Citation": "To Rune Ericson for his pioneering development and 30 years of dedication to the Super 16mm format for motion pictures."
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The American Society of Cinematographers",
+    "NomineeIds": "co0065738",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Born from \\\"The Cinematographic Annual,\\\" first published by the ASC in 1930, the \\\"American Cinematographer Manual\\\" has become an essential bible for cinematographers. Currently in its eighth edition, this premier reference manual has had a significant impact on decades of motion picture photography around the world.",
+    "Citation": "To the American Society of Cinematographers (ASC) for the continued publication of the \\\"American Cinematographer Manual.\\"
+  },
+  {
+    "Ceremony": 74,
+    "Year": 2001,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ray Feeney",
+    "NomineeIds": "nm2990419",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Ray Feeney in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

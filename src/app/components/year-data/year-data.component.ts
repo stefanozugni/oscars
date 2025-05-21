@@ -18,7 +18,7 @@ interface GroupedNominations {
 export class YearDataComponent implements OnChanges {
   @Input() year!: number | string;
   @Input() isImdb: boolean = false;
-  
+
   groupedNominations: GroupedNominations = {};
 
   constructor(private dataService: DataService) { }
@@ -30,28 +30,43 @@ export class YearDataComponent implements OnChanges {
   }
 
   loadDataForYear(): void {
-  this.dataService.getDataByYear(this.year).subscribe({
-    next: (data: Nomination[]) => {
-      this.groupedNominations = this.groupByCategory(data);
-    },
-    error: err => {
-      console.error("Errore nel caricamento dei dati per l'anno ${this.year}:", err);
-      this.groupedNominations = {};
-    }
-  });
-}
+    this.dataService.getDataByYear(this.year).subscribe({
+      next: (data: Nomination[]) => {
+        //console.log('Nominations ricevute:', data);
+        this.groupedNominations = this.groupByCategory(data);
+      },
+      error: err => {
+        console.error(`Errore nel caricamento dei dati per l'anno ${this.year}:`, err);
+        this.groupedNominations = {};
+      }
+    });
+  }
 
   private groupByCategory(nominations: Nomination[]): GroupedNominations {
     return nominations.reduce((acc: GroupedNominations, nomination) => {
-      if (!acc[nomination.category]) {
-        acc[nomination.category] = [];
+      const category = nomination.CanonicalCategory || 'Uncategorized';
+      if (!acc[category]) {
+        acc[category] = [];
       }
-      acc[nomination.category].push(nomination);
+      acc[category].push(nomination);
       return acc;
     }, {});
   }
 
+
   getCategories(): string[] {
     return Object.keys(this.groupedNominations);
   }
+
+  getNomineesWithLinks(nomination: any): { name: string, imdbId?: string }[] {
+    const names: string[] = nomination.Nominees?.split(',').map((n: string) => n.trim()) || [];
+    const ids: string[] = nomination.NomineeIds?.split(',').map((id: string) => id.trim()) || [];
+
+    return names.map((name: string, index: number) => ({
+      name,
+      imdbId: ids[index] || undefined
+    }));
+  }
+
+
 }

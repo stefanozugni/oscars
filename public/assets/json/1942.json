@@ -1,2615 +1,3042 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "Mrs. Miniver"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "49th Parallel"
-    ],
-    "movies": [
-      {
-        "title": "49th Parallel",
-        "tmdb_id": 21735,
-        "imdb_id": "tt0033627"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "Kings Row"
-    ],
-    "movies": [
-      {
-        "title": "Kings Row",
-        "tmdb_id": 53779,
-        "imdb_id": "tt0034946"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "The Magnificent Ambersons"
-    ],
-    "movies": [
-      {
-        "title": "The Magnificent Ambersons",
-        "tmdb_id": 965,
-        "imdb_id": "tt0035015"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "The Pied Piper"
-    ],
-    "movies": [
-      {
-        "title": "The Pied Piper",
-        "tmdb_id": 84085,
-        "imdb_id": "tt0035189"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "The Pride of the Yankees"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "Random Harvest"
-    ],
-    "movies": [
-      {
-        "title": "Random Harvest",
-        "tmdb_id": 22387,
-        "imdb_id": "tt0035238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "The Talk of the Town"
-    ],
-    "movies": [
-      {
-        "title": "The Talk of the Town",
-        "tmdb_id": 23159,
-        "imdb_id": "tt0035417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "Wake Island"
-    ],
-    "movies": [
-      {
-        "title": "Wake Island",
-        "tmdb_id": 43786,
-        "imdb_id": "tt0035530"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1942",
-    "nominees": [
-      "Yankee Doodle Dandy"
-    ],
-    "movies": [
-      {
-        "title": "Yankee Doodle Dandy",
-        "tmdb_id": 3087,
-        "imdb_id": "tt0035575"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1942",
-    "nominees": [
-      "James Cagney"
-    ],
-    "movies": [
-      {
-        "title": "Yankee Doodle Dandy",
-        "tmdb_id": 3087,
-        "imdb_id": "tt0035575"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1942",
-    "nominees": [
-      "Ronald Colman"
-    ],
-    "movies": [
-      {
-        "title": "Random Harvest",
-        "tmdb_id": 22387,
-        "imdb_id": "tt0035238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1942",
-    "nominees": [
-      "Gary Cooper"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1942",
-    "nominees": [
-      "Walter Pidgeon"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1942",
-    "nominees": [
-      "Monty Woolley"
-    ],
-    "movies": [
-      {
-        "title": "The Pied Piper",
-        "tmdb_id": 84085,
-        "imdb_id": "tt0035189"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1942",
-    "nominees": [
-      "Greer Garson"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1942",
-    "nominees": [
-      "Bette Davis"
-    ],
-    "movies": [
-      {
-        "title": "Now, Voyager",
-        "tmdb_id": 32847,
-        "imdb_id": "tt0035140"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1942",
-    "nominees": [
-      "Katharine Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "Woman of the Year",
-        "tmdb_id": 20640,
-        "imdb_id": "tt0035567"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1942",
-    "nominees": [
-      "Rosalind Russell"
-    ],
-    "movies": [
-      {
-        "title": "My Sister Eileen",
-        "tmdb_id": 33052,
-        "imdb_id": "tt0035105"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1942",
-    "nominees": [
-      "Teresa Wright"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1942",
-    "nominees": [
-      "Van Heflin"
-    ],
-    "movies": [
-      {
-        "title": "Johnny Eager",
-        "tmdb_id": 41495,
-        "imdb_id": "tt0033774"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1942",
-    "nominees": [
-      "William Bendix"
-    ],
-    "movies": [
-      {
-        "title": "Wake Island",
-        "tmdb_id": 43786,
-        "imdb_id": "tt0035530"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1942",
-    "nominees": [
-      "Walter Huston"
-    ],
-    "movies": [
-      {
-        "title": "Yankee Doodle Dandy",
-        "tmdb_id": 3087,
-        "imdb_id": "tt0035575"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1942",
-    "nominees": [
-      "Frank Morgan"
-    ],
-    "movies": [
-      {
-        "title": "Tortilla Flat",
-        "tmdb_id": 79372,
-        "imdb_id": "tt0035460"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1942",
-    "nominees": [
-      "Henry Travers"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1942",
-    "nominees": [
-      "Teresa Wright"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1942",
-    "nominees": [
-      "Gladys Cooper"
-    ],
-    "movies": [
-      {
-        "title": "Now, Voyager",
-        "tmdb_id": 32847,
-        "imdb_id": "tt0035140"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1942",
-    "nominees": [
-      "Agnes Moorehead"
-    ],
-    "movies": [
-      {
-        "title": "The Magnificent Ambersons",
-        "tmdb_id": 965,
-        "imdb_id": "tt0035015"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1942",
-    "nominees": [
-      "Susan Peters"
-    ],
-    "movies": [
-      {
-        "title": "Random Harvest",
-        "tmdb_id": 22387,
-        "imdb_id": "tt0035238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1942",
-    "nominees": [
-      "Dame May Whitty"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1942",
-    "nominees": [
-      "William Wyler"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1942",
-    "nominees": [
-      "Michael Curtiz"
-    ],
-    "movies": [
-      {
-        "title": "Yankee Doodle Dandy",
-        "tmdb_id": 3087,
-        "imdb_id": "tt0035575"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1942",
-    "nominees": [
-      "John Farrow"
-    ],
-    "movies": [
-      {
-        "title": "Wake Island",
-        "tmdb_id": 43786,
-        "imdb_id": "tt0035530"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1942",
-    "nominees": [
-      "Mervyn LeRoy"
-    ],
-    "movies": [
-      {
-        "title": "Random Harvest",
-        "tmdb_id": 22387,
-        "imdb_id": "tt0035238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1942",
-    "nominees": [
-      "Sam Wood"
-    ],
-    "movies": [
-      {
-        "title": "Kings Row",
-        "tmdb_id": 53779,
-        "imdb_id": "tt0034946"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1942",
-    "nominees": [
-      "George Froeschl",
-      "James Hilton",
-      "Claudine West",
-      "Arthur Wimperis"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1942",
-    "nominees": [
-      "Rodney Ackland",
-      "Emeric Pressburger"
-    ],
-    "movies": [
-      {
-        "title": "The Invaders",
-        "tmdb_id": 1088679,
-        "imdb_id": "tt23622738"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1942",
-    "nominees": [
-      "Sidney Buchman",
-      "Irwin Shaw"
-    ],
-    "movies": [
-      {
-        "title": "The Talk of the Town",
-        "tmdb_id": 23159,
-        "imdb_id": "tt0035417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1942",
-    "nominees": [
-      "George Froeschl",
-      "Claudine West",
-      "Arthur Wimperis"
-    ],
-    "movies": [
-      {
-        "title": "Random Harvest",
-        "tmdb_id": 22387,
-        "imdb_id": "tt0035238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1942",
-    "nominees": [
-      "Herman J. Mankiewicz",
-      "Jo Swerling"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1942",
-    "nominees": [
-      "Michael Kanin",
-      "Ring Lardner Jr."
-    ],
-    "movies": [
-      {
-        "title": "Woman of the Year",
-        "tmdb_id": 20640,
-        "imdb_id": "tt0035567"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1942",
-    "nominees": [
-      "W. R. Burnett",
-      "Frank Butler"
-    ],
-    "movies": [
-      {
-        "title": "Wake Island",
-        "tmdb_id": 43786,
-        "imdb_id": "tt0035530"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1942",
-    "nominees": [
-      "Frank Butler",
-      "Don Hartman"
-    ],
-    "movies": [
-      {
-        "title": "Road to Morocco",
-        "tmdb_id": 31805,
-        "imdb_id": "tt0035262"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1942",
-    "nominees": [
-      "George Oppenheimer"
-    ],
-    "movies": [
-      {
-        "title": "The War Against Mrs. Hadley",
-        "tmdb_id": 100528,
-        "imdb_id": "tt0035531"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1942",
-    "nominees": [
-      "Michael Powell",
-      "Emeric Pressburger"
-    ],
-    "movies": [
-      {
-        "title": "One of Our Aircraft Is Missing",
-        "tmdb_id": 43780,
-        "imdb_id": "tt0035153"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1942",
-    "nominees": [
-      "Emeric Pressburger"
-    ],
-    "movies": [
-      {
-        "title": "49th Parallel",
-        "tmdb_id": 21735,
-        "imdb_id": "tt0033627"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1942",
-    "nominees": [
-      "Irving Berlin"
-    ],
-    "movies": [
-      {
-        "title": "Holiday Inn",
-        "tmdb_id": 13485,
-        "imdb_id": "tt0034862"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1942",
-    "nominees": [
-      "Robert Buckner"
-    ],
-    "movies": [
-      {
-        "title": "Yankee Doodle Dandy",
-        "tmdb_id": 3087,
-        "imdb_id": "tt0035575"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1942",
-    "nominees": [
-      "Paul Gallico"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1942",
-    "nominees": [
-      "Sidney Harman"
-    ],
-    "movies": [
-      {
-        "title": "The Talk of the Town",
-        "tmdb_id": 23159,
-        "imdb_id": "tt0035417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "Now, Voyager",
-        "tmdb_id": 32847,
-        "imdb_id": "tt0035140"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Frank Churchill",
-      "Edward Plumb"
-    ],
-    "movies": [
-      {
-        "title": "Bambi",
-        "tmdb_id": 3170,
-        "imdb_id": "tt0034492"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Richard Hageman"
-    ],
-    "movies": [
-      {
-        "title": "The Shanghai Gesture",
-        "tmdb_id": 42678,
-        "imdb_id": "tt0034175"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Leigh Harline"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Werner Heymann"
-    ],
-    "movies": [
-      {
-        "title": "To Be or Not to Be",
-        "tmdb_id": 198,
-        "imdb_id": "tt0035446"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Frederick Hollander",
-      "Morris Stoloff"
-    ],
-    "movies": [
-      {
-        "title": "The Talk of the Town",
-        "tmdb_id": 23159,
-        "imdb_id": "tt0035417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Edward Kay"
-    ],
-    "movies": [
-      {
-        "title": "Klondike Fury",
-        "tmdb_id": 218289,
-        "imdb_id": "tt0034948"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Black Swan",
-        "tmdb_id": 29882,
-        "imdb_id": "tt0034522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Miklos Rozsa"
-    ],
-    "movies": [
-      {
-        "title": "Jungle Book",
-        "tmdb_id": 23033,
-        "imdb_id": "tt0034928"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Frank Skinner"
-    ],
-    "movies": [
-      {
-        "title": "Arabian Nights",
-        "tmdb_id": 60488,
-        "imdb_id": "tt0034465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Herbert Stothart"
-    ],
-    "movies": [
-      {
-        "title": "Random Harvest",
-        "tmdb_id": 22387,
-        "imdb_id": "tt0035238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Max Terr"
-    ],
-    "movies": [
-      {
-        "title": "The Gold Brick",
-        "tmdb_id": 100740,
-        "imdb_id": "tt0154539"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Dimitri Tiomkin"
-    ],
-    "movies": [
-      {
-        "title": "The Corsican Brothers",
-        "tmdb_id": 43800,
-        "imdb_id": "tt0033490"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Roy Webb"
-    ],
-    "movies": [
-      {
-        "title": "I Married a Witch",
-        "tmdb_id": 25970,
-        "imdb_id": "tt0034881"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Roy Webb"
-    ],
-    "movies": [
-      {
-        "title": "Joan of Paris",
-        "tmdb_id": 45801,
-        "imdb_id": "tt0034919"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Flying Tigers",
-        "tmdb_id": 29372,
-        "imdb_id": "tt0034742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Silver Queen",
-        "tmdb_id": 110306,
-        "imdb_id": "tt0035335"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1942",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Take a Letter, Darling",
-        "tmdb_id": 121010,
-        "imdb_id": "tt0035413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1942",
-    "nominees": [
-      "Ray Heindorf",
-      "Heinz Roemheld"
-    ],
-    "movies": [
-      {
-        "title": "Yankee Doodle Dandy",
-        "tmdb_id": 3087,
-        "imdb_id": "tt0035575"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1942",
-    "nominees": [
-      "Roger Edens",
-      "Georgie Stoll"
-    ],
-    "movies": [
-      {
-        "title": "For Me and My Gal",
-        "tmdb_id": 27017,
-        "imdb_id": "tt0034746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1942",
-    "nominees": [
-      "Robert Emmett Dolan"
-    ],
-    "movies": [
-      {
-        "title": "Holiday Inn",
-        "tmdb_id": 13485,
-        "imdb_id": "tt0034862"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1942",
-    "nominees": [
-      "Leigh Harline"
-    ],
-    "movies": [
-      {
-        "title": "You Were Never Lovelier",
-        "tmdb_id": 43787,
-        "imdb_id": "tt0035583"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1942",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "My Gal Sal",
-        "tmdb_id": 109933,
-        "imdb_id": "tt0035103"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1942",
-    "nominees": [
-      "Charles Previn",
-      "Hans Salter"
-    ],
-    "movies": [
-      {
-        "title": "It Started with Eve",
-        "tmdb_id": 33112,
-        "imdb_id": "tt0033766"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1942",
-    "nominees": [
-      "Walter Scharf"
-    ],
-    "movies": [
-      {
-        "title": "Johnny Doughboy",
-        "tmdb_id": 218294,
-        "imdb_id": "tt0034921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1942",
-    "nominees": [
-      "Edward Ward"
-    ],
-    "movies": [
-      {
-        "title": "Flying with Music",
-        "tmdb_id": 110189,
-        "imdb_id": "tt0034743"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "White Christmas"
-    ],
-    "movies": [
-      {
-        "title": "Holiday Inn",
-        "tmdb_id": 13485,
-        "imdb_id": "tt0034862"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "Always in My Heart"
-    ],
-    "movies": [
-      {
-        "title": "Always in My Heart",
-        "tmdb_id": 97767,
-        "imdb_id": "tt0034454"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "Dearly Beloved"
-    ],
-    "movies": [
-      {
-        "title": "You Were Never Lovelier",
-        "tmdb_id": 43787,
-        "imdb_id": "tt0035583"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "How About You?"
-    ],
-    "movies": [
-      {
-        "title": "Babes on Broadway",
-        "tmdb_id": 43790,
-        "imdb_id": "tt0034485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "It Seems I Heard That Song Before"
-    ],
-    "movies": [
-      {
-        "title": "Youth on Parade",
-        "tmdb_id": 218298,
-        "imdb_id": "tt0035587"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "I've Got a Gal in Kalamazoo"
-    ],
-    "movies": [
-      {
-        "title": "Orchestra Wives",
-        "tmdb_id": 43781,
-        "imdb_id": "tt0035157"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "Love is a Song"
-    ],
-    "movies": [
-      {
-        "title": "Bambi",
-        "tmdb_id": 3170,
-        "imdb_id": "tt0034492"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "Pennies for Peppino"
-    ],
-    "movies": [
-      {
-        "title": "Flying with Music",
-        "tmdb_id": 110189,
-        "imdb_id": "tt0034743"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "Pig Foot Pete"
-    ],
-    "movies": [
-      {
-        "title": "Hellzapoppin'",
-        "tmdb_id": 19136,
-        "imdb_id": "tt0033704"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1942",
-    "nominees": [
-      "There's a Breeze on Lake Louise"
-    ],
-    "movies": [
-      {
-        "title": "The Mayor of 44th Street",
-        "tmdb_id": 218299,
-        "imdb_id": "tt0035048"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1942",
-    "nominees": [
-      "The Battle of Midway",
-      "Kokoda Front Line!",
-      "Moscow Strikes Back",
-      "Prelude to War"
-    ],
-    "movies": [
-      {
-        "title": "The Battle of Midway",
-        "tmdb_id": 56143,
-        "imdb_id": "tt0034498"
-      },
-      {
-        "title": "Kokoda Front Line!",
-        "tmdb_id": 93331,
-        "imdb_id": "tt0034951"
-      },
-      {
-        "title": "Moscow Strikes Back",
-        "tmdb_id": 93333,
-        "imdb_id": "tt0035085"
-      },
-      {
-        "title": "Prelude to War",
-        "tmdb_id": 23336,
-        "imdb_id": "tt0035209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1942",
-    "nominees": [
-      "Africa, Prelude to Victory",
-      "Combat Report",
-      "Conquer by the Clock",
-      "The Grain That Built a Hemisphere",
-      "Henry Browne, Farmer"
-    ],
-    "movies": [
-      {
-        "title": "Africa, Prelude to Victory",
-        "tmdb_id": 236844,
-        "imdb_id": "tt0034434"
-      },
-      {
-        "title": "Combat Report",
-        "tmdb_id": 236846,
-        "imdb_id": "tt0034608"
-      },
-      {
-        "title": "Conquer by the Clock",
-        "tmdb_id": 236847,
-        "imdb_id": "tt0034610"
-      },
-      {
-        "title": "The Grain That Built a Hemisphere",
-        "tmdb_id": 64698,
-        "imdb_id": "tt0034806"
-      },
-      {
-        "title": "Henry Browne, Farmer",
-        "tmdb_id": 236848,
-        "imdb_id": "tt0034843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1942",
-    "nominees": [
-      "High Over the Borders",
-      "High Stakes in the East",
-      "Inside Fighting China",
-      "It's Everybody's War",
-      "Listen to Britain"
-    ],
-    "movies": [
-      {
-        "title": "High Over the Borders",
-        "tmdb_id": 236849,
-        "imdb_id": "tt0034851"
-      },
-      {
-        "title": "High Stakes in the East",
-        "tmdb_id": 236850,
-        "imdb_id": "tt0034852"
-      },
-      {
-        "title": "Inside Fighting China",
-        "tmdb_id": 236851,
-        "imdb_id": "tt0034897"
-      },
-      {
-        "title": "It's Everybody's War",
-        "tmdb_id": 236852,
-        "imdb_id": "tt0034906"
-      },
-      {
-        "title": "Listen to Britain",
-        "tmdb_id": 88609,
-        "imdb_id": "tt0034978"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1942",
-    "nominees": [
-      "Little Belgium",
-      "Little Isles of Freedom",
-      "Mr. Blabbermouth!",
-      "Mr. Gardenia Jones",
-      "The New Spirit",
-      "The Price of Victory"
-    ],
-    "movies": [
-      {
-        "title": "Little Belgium",
-        "tmdb_id": 236853,
-        "imdb_id": "tt0034979"
-      },
-      {
-        "title": "Little Isles of Freedom",
-        "tmdb_id": 236854,
-        "imdb_id": "tt0034981"
-      },
-      {
-        "title": "Mr. Blabbermouth!",
-        "tmdb_id": 100255,
-        "imdb_id": "tt0035088"
-      },
-      {
-        "title": "Mr. Gardenia Jones",
-        "tmdb_id": 236855,
-        "imdb_id": "tt0035091"
-      },
-      {
-        "title": "The New Spirit",
-        "tmdb_id": 64701,
-        "imdb_id": "tt0035120"
-      },
-      {
-        "title": "The Price of Victory",
-        "tmdb_id": 236856,
-        "imdb_id": "tt0035210"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1942",
-    "nominees": [
-      "A Ship Is Born",
-      "Twenty-One Miles",
-      "We Refuse to Die",
-      "The White Eagle",
-      "Winning Your Wings"
-    ],
-    "movies": [
-      {
-        "title": "A Ship Is Born",
-        "tmdb_id": 236857,
-        "imdb_id": "tt0035321"
-      },
-      {
-        "title": "Twenty-One Miles",
-        "tmdb_id": 236858,
-        "imdb_id": "tt0035478"
-      },
-      {
-        "title": "We Refuse to Die",
-        "tmdb_id": 236859,
-        "imdb_id": "tt0035536"
-      },
-      {
-        "title": "The White Eagle",
-        "tmdb_id": 236861,
-        "imdb_id": "tt0035554"
-      },
-      {
-        "title": "Winning Your Wings",
-        "tmdb_id": 152237,
-        "imdb_id": "tt0035565"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1942",
-    "nominees": [
-      "Der Fuehrer's Face"
-    ],
-    "movies": [
-      {
-        "title": "Der Fuehrer's Face",
-        "tmdb_id": 33600,
-        "imdb_id": "tt0035794"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1942",
-    "nominees": [
-      "All Out for 'V'"
-    ],
-    "movies": [
-      {
-        "title": "All Out for 'V'",
-        "tmdb_id": 236843,
-        "imdb_id": "tt0034448"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1942",
-    "nominees": [
-      "Blitz Wolf"
-    ],
-    "movies": [
-      {
-        "title": "Blitz Wolf",
-        "tmdb_id": 84669,
-        "imdb_id": "tt0034524"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1942",
-    "nominees": [
-      "Juke Box Jamboree"
-    ],
-    "movies": [
-      {
-        "title": "Juke Box Jamboree",
-        "tmdb_id": 236612,
-        "imdb_id": "tt0034925"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1942",
-    "nominees": [
-      "Pigs in a Polka"
-    ],
-    "movies": [
-      {
-        "title": "Pigs in a Polka",
-        "tmdb_id": 100323,
-        "imdb_id": "tt0036264"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1942",
-    "nominees": [
-      "Tulips Shall Grow"
-    ],
-    "movies": [
-      {
-        "title": "Tulips Shall Grow",
-        "tmdb_id": 146928,
-        "imdb_id": "tt0035476"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1942",
-    "nominees": [
-      "Speaking of Animals and Their Families"
-    ],
-    "movies": [
-      {
-        "title": "Speaking of Animals and Their Families",
-        "tmdb_id": 236838,
-        "imdb_id": "tt0035366"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1942",
-    "nominees": [
-      "Desert Wonderland"
-    ],
-    "movies": [
-      {
-        "title": "Desert Wonderland",
-        "tmdb_id": 236839,
-        "imdb_id": "tt0034644"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1942",
-    "nominees": [
-      "Marines in the Making"
-    ],
-    "movies": [
-      {
-        "title": "Marines in the Making",
-        "tmdb_id": 236840,
-        "imdb_id": "tt0035041"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1942",
-    "nominees": [
-      "The United States Marine Band"
-    ],
-    "movies": [
-      {
-        "title": "The United States Marine Band",
-        "tmdb_id": 236842,
-        "imdb_id": "tt0035493"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1942",
-    "nominees": [
-      "Beyond the Line of Duty"
-    ],
-    "movies": [
-      {
-        "title": "Beyond the Line of Duty",
-        "tmdb_id": 236836,
-        "imdb_id": "tt0034511"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1942",
-    "nominees": [
-      "Don't Talk"
-    ],
-    "movies": [
-      {
-        "title": "Don't Talk",
-        "tmdb_id": 131801,
-        "imdb_id": "tt0034666"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1942",
-    "nominees": [
-      "Private Smith of the U.S.A."
-    ],
-    "movies": [
-      {
-        "title": "Private Smith of the U.S.A.",
-        "tmdb_id": 236837,
-        "imdb_id": "tt0035219"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Richard Day",
-      "Joseph Wright",
-      "Thomas Little"
-    ],
-    "movies": [
-      {
-        "title": "This Above All",
-        "tmdb_id": 110628,
-        "imdb_id": "tt0035431"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Lionel Banks",
-      "Rudolph Sternad",
-      "Fay Babcock"
-    ],
-    "movies": [
-      {
-        "title": "The Talk of the Town",
-        "tmdb_id": 23159,
-        "imdb_id": "tt0035417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Ralph Berger",
-      "Emile Kuri"
-    ],
-    "movies": [
-      {
-        "title": "Silver Queen",
-        "tmdb_id": 110306,
-        "imdb_id": "tt0035335"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Albert S. D'Agostino",
-      "Al Fields",
-      "Darrell Silvera"
-    ],
-    "movies": [
-      {
-        "title": "The Magnificent Ambersons",
-        "tmdb_id": 965,
-        "imdb_id": "tt0035015"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Hans Dreier",
-      "Roland Anderson",
-      "Samuel M. Comer"
-    ],
-    "movies": [
-      {
-        "title": "Take a Letter, Darling",
-        "tmdb_id": 121010,
-        "imdb_id": "tt0035413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Perry Ferguson",
-      "Howard Bristol"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Cedric Gibbons",
-      "Randall Duell",
-      "Edwin B. Willis",
-      "Jack Moore"
-    ],
-    "movies": [
-      {
-        "title": "Random Harvest",
-        "tmdb_id": 22387,
-        "imdb_id": "tt0035238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Boris Leven"
-    ],
-    "movies": [
-      {
-        "title": "The Shanghai Gesture",
-        "tmdb_id": 42678,
-        "imdb_id": "tt0034175"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Max Parker",
-      "Mark-Lee Kirk",
-      "Casey Roberts"
-    ],
-    "movies": [
-      {
-        "title": "George Washington Slept Here",
-        "tmdb_id": 35262,
-        "imdb_id": "tt0034780"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "John B. Goodman",
-      "Jack Otterson",
-      "Russell A. Gausman",
-      "Edward Ray Robinson"
-    ],
-    "movies": [
-      {
-        "title": "The Spoilers",
-        "tmdb_id": 43785,
-        "imdb_id": "tt0035369"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1942",
-    "nominees": [
-      "Richard Day",
-      "Joseph Wright",
-      "Thomas Little"
-    ],
-    "movies": [
-      {
-        "title": "My Gal Sal",
-        "tmdb_id": 109933,
-        "imdb_id": "tt0035103"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1942",
-    "nominees": [
-      "Hans Dreier",
-      "Roland Anderson",
-      "George Sawley"
-    ],
-    "movies": [
-      {
-        "title": "Reap the Wild Wind",
-        "tmdb_id": 63617,
-        "imdb_id": "tt0035244"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1942",
-    "nominees": [
-      "Alexander Golitzen",
-      "Jack Otterson",
-      "Russell A. Gausman",
-      "Ira S. Webb"
-    ],
-    "movies": [
-      {
-        "title": "Arabian Nights",
-        "tmdb_id": 60488,
-        "imdb_id": "tt0034465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1942",
-    "nominees": [
-      "Vincent Korda",
-      "Julia Heron"
-    ],
-    "movies": [
-      {
-        "title": "Jungle Book",
-        "tmdb_id": 23033,
-        "imdb_id": "tt0034928"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1942",
-    "nominees": [
-      "Ted Smith",
-      "Casey Roberts"
-    ],
-    "movies": [
-      {
-        "title": "Captains of the Clouds",
-        "tmdb_id": 32921,
-        "imdb_id": "tt0034578"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Joseph Ruttenberg"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Charles G. Clarke"
-    ],
-    "movies": [
-      {
-        "title": "Moontide",
-        "tmdb_id": 42062,
-        "imdb_id": "tt0035082"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Stanley Cortez"
-    ],
-    "movies": [
-      {
-        "title": "The Magnificent Ambersons",
-        "tmdb_id": 965,
-        "imdb_id": "tt0035015"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Edward Cronjager"
-    ],
-    "movies": [
-      {
-        "title": "The Pied Piper",
-        "tmdb_id": 84085,
-        "imdb_id": "tt0035189"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "James Wong Howe"
-    ],
-    "movies": [
-      {
-        "title": "Kings Row",
-        "tmdb_id": 53779,
-        "imdb_id": "tt0034946"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Rudolph Mate"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "John Mescall"
-    ],
-    "movies": [
-      {
-        "title": "Take a Letter, Darling",
-        "tmdb_id": 121010,
-        "imdb_id": "tt0035413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Arthur C. Miller"
-    ],
-    "movies": [
-      {
-        "title": "This Above All",
-        "tmdb_id": 110628,
-        "imdb_id": "tt0035431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Leon Shamroy"
-    ],
-    "movies": [
-      {
-        "title": "Ten Gentlemen from West Point",
-        "tmdb_id": 218302,
-        "imdb_id": "tt0035421"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1942",
-    "nominees": [
-      "Ted Tetzlaff"
-    ],
-    "movies": [
-      {
-        "title": "The Talk of the Town",
-        "tmdb_id": 23159,
-        "imdb_id": "tt0035417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1942",
-    "nominees": [
-      "Leon Shamroy"
-    ],
-    "movies": [
-      {
-        "title": "The Black Swan",
-        "tmdb_id": 29882,
-        "imdb_id": "tt0034522"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1942",
-    "nominees": [
-      "Edward Cronjager",
-      "William V. Skall"
-    ],
-    "movies": [
-      {
-        "title": "To the Shores of Tripoli",
-        "tmdb_id": 58035,
-        "imdb_id": "tt0035447"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1942",
-    "nominees": [
-      "W. Howard Greene"
-    ],
-    "movies": [
-      {
-        "title": "Jungle Book",
-        "tmdb_id": 23033,
-        "imdb_id": "tt0034928"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1942",
-    "nominees": [
-      "Milton Krasner",
-      "William V. Skall",
-      "W. Howard Greene"
-    ],
-    "movies": [
-      {
-        "title": "Arabian Nights",
-        "tmdb_id": 60488,
-        "imdb_id": "tt0034465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1942",
-    "nominees": [
-      "Victor Milner",
-      "William V. Skall"
-    ],
-    "movies": [
-      {
-        "title": "Reap the Wild Wind",
-        "tmdb_id": 63617,
-        "imdb_id": "tt0035244"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1942",
-    "nominees": [
-      "Sol Polito"
-    ],
-    "movies": [
-      {
-        "title": "Captains of the Clouds",
-        "tmdb_id": 32921,
-        "imdb_id": "tt0034578"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1942",
-    "nominees": [
-      "Daniel Mandell"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1942",
-    "nominees": [
-      "George Amy"
-    ],
-    "movies": [
-      {
-        "title": "Yankee Doodle Dandy",
-        "tmdb_id": 3087,
-        "imdb_id": "tt0035575"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1942",
-    "nominees": [
-      "Harold F. Kress"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1942",
-    "nominees": [
-      "Otto Meyer"
-    ],
-    "movies": [
-      {
-        "title": "The Talk of the Town",
-        "tmdb_id": 23159,
-        "imdb_id": "tt0035417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1942",
-    "nominees": [
-      "Walter A. Thompson"
-    ],
-    "movies": [
-      {
-        "title": "This Above All",
-        "tmdb_id": 110628,
-        "imdb_id": "tt0035431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "Farciot Edouart",
-      "Gordon Jennings",
-      "William L. Pereira",
-      "Louis Mesenko"
-    ],
-    "movies": [
-      {
-        "title": "Reap the Wild Wind",
-        "tmdb_id": 63617,
-        "imdb_id": "tt0035244"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "Lawrence W. Butler",
-      "William H. Wilmarth"
-    ],
-    "movies": [
-      {
-        "title": "Jungle Book",
-        "tmdb_id": 23033,
-        "imdb_id": "tt0034928"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "Jack Cosgrove",
-      "Ray Binger",
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "John P. Fulton",
-      "Bernard B. Brown"
-    ],
-    "movies": [
-      {
-        "title": "Invisible Agent",
-        "tmdb_id": 28426,
-        "imdb_id": "tt0034902"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "A. Arnold Gillespie",
-      "Warren Newcombe",
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "Byron Haskin",
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "Desperate Journey",
-        "tmdb_id": 55236,
-        "imdb_id": "tt0034646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "Howard Lydecker",
-      "Daniel J. Bloomberg"
-    ],
-    "movies": [
-      {
-        "title": "Flying Tigers",
-        "tmdb_id": 29372,
-        "imdb_id": "tt0034742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "Ronald Neame",
-      "C. C. Stevens"
-    ],
-    "movies": [
-      {
-        "title": "One of Our Aircraft Is Missing",
-        "tmdb_id": 43780,
-        "imdb_id": "tt0035153"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "Fred Sersen",
-      "Roger Heman Sr.",
-      "George Leverett"
-    ],
-    "movies": [
-      {
-        "title": "The Black Swan",
-        "tmdb_id": 29882,
-        "imdb_id": "tt0034522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1942",
-    "nominees": [
-      "Vernon L. Walker",
-      "James G. Stewart"
-    ],
-    "movies": [
-      {
-        "title": "The Navy Comes Through",
-        "tmdb_id": 99674,
-        "imdb_id": "tt0035113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "Yankee Doodle Dandy",
-        "tmdb_id": 3087,
-        "imdb_id": "tt0035575"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "Bernard B. Brown"
-    ],
-    "movies": [
-      {
-        "title": "Arabian Nights",
-        "tmdb_id": 60488,
-        "imdb_id": "tt0034465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "Sam Slyfield"
-    ],
-    "movies": [
-      {
-        "title": "Bambi",
-        "tmdb_id": 3170,
-        "imdb_id": "tt0034492"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "Daniel Bloomberg"
-    ],
-    "movies": [
-      {
-        "title": "Flying Tigers",
-        "tmdb_id": 29372,
-        "imdb_id": "tt0034742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "Jack Whitney"
-    ],
-    "movies": [
-      {
-        "title": "Friendly Enemies",
-        "tmdb_id": 98195,
-        "imdb_id": "tt0034757"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "James L. Fields"
-    ],
-    "movies": [
-      {
-        "title": "The Gold Brick",
-        "tmdb_id": 100740,
-        "imdb_id": "tt0154539"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Miniver",
-        "tmdb_id": 27367,
-        "imdb_id": "tt0035093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "Stephen Dunn"
-    ],
-    "movies": [
-      {
-        "title": "Once Upon a Honeymoon",
-        "tmdb_id": 43779,
-        "imdb_id": "tt0035151"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of the Yankees",
-        "tmdb_id": 19140,
-        "imdb_id": "tt0035211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "Loren Ryder"
-    ],
-    "movies": [
-      {
-        "title": "Road to Morocco",
-        "tmdb_id": 31805,
-        "imdb_id": "tt0035262"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "E.H. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "This Above All",
-        "tmdb_id": 110628,
-        "imdb_id": "tt0035431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1942",
-    "nominees": [
-      "John Livadary"
-    ],
-    "movies": [
-      {
-        "title": "You Were Never Lovelier",
-        "tmdb_id": 43787,
-        "imdb_id": "tt0035583"
-      }
-    ],
-    "won": false
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Yankee Doodle Dandy",
+    "FilmId": "tt0035575",
+    "Name": "James Cagney",
+    "Nominees": "James Cagney",
+    "NomineeIds": "nm0000010",
+    "Winner": "True",
+    "Detail": "George M. Cohan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Random Harvest",
+    "FilmId": "tt0035238",
+    "Name": "Ronald Colman",
+    "Nominees": "Ronald Colman",
+    "NomineeIds": "nm0172903",
+    "Winner": "",
+    "Detail": "Charles Ranier",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Gary Cooper",
+    "Nominees": "Gary Cooper",
+    "NomineeIds": "nm0000011",
+    "Winner": "",
+    "Detail": "Lou Gehrig",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Walter Pidgeon",
+    "Nominees": "Walter Pidgeon",
+    "NomineeIds": "nm0682074",
+    "Winner": "",
+    "Detail": "Clem Miniver",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Pied Piper",
+    "FilmId": "tt0035189",
+    "Name": "Monty Woolley",
+    "Nominees": "Monty Woolley",
+    "NomineeIds": "nm0941253",
+    "Winner": "",
+    "Detail": "Howard",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Wake Island",
+    "FilmId": "tt0035530",
+    "Name": "William Bendix",
+    "Nominees": "William Bendix",
+    "NomineeIds": "nm0000904",
+    "Winner": "",
+    "Detail": "Smacksie Randall",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Johnny Eager",
+    "FilmId": "tt0033774",
+    "Name": "Van Heflin",
+    "Nominees": "Van Heflin",
+    "NomineeIds": "nm0001336",
+    "Winner": "True",
+    "Detail": "Jeff Hartnett",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Yankee Doodle Dandy",
+    "FilmId": "tt0035575",
+    "Name": "Walter Huston",
+    "Nominees": "Walter Huston",
+    "NomineeIds": "nm0404158",
+    "Winner": "",
+    "Detail": "Jerry Cohan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Tortilla Flat",
+    "FilmId": "tt0035460",
+    "Name": "Frank Morgan",
+    "Nominees": "Frank Morgan",
+    "NomineeIds": "nm0604656",
+    "Winner": "",
+    "Detail": "The Pirate",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Henry Travers",
+    "Nominees": "Henry Travers",
+    "NomineeIds": "nm0871287",
+    "Winner": "",
+    "Detail": "Mr. Ballard",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Now, Voyager",
+    "FilmId": "tt0035140",
+    "Name": "Bette Davis",
+    "Nominees": "Bette Davis",
+    "NomineeIds": "nm0000012",
+    "Winner": "",
+    "Detail": "Charlotte Vale",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Greer Garson",
+    "Nominees": "Greer Garson",
+    "NomineeIds": "nm0002093",
+    "Winner": "True",
+    "Detail": "Kay Miniver",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Woman of the Year",
+    "FilmId": "tt0035567",
+    "Name": "Katharine Hepburn",
+    "Nominees": "Katharine Hepburn",
+    "NomineeIds": "nm0000031",
+    "Winner": "",
+    "Detail": "Tess Harding",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "My Sister Eileen",
+    "FilmId": "tt0035105",
+    "Name": "Rosalind Russell",
+    "Nominees": "Rosalind Russell",
+    "NomineeIds": "nm0751426",
+    "Winner": "",
+    "Detail": "Ruth Sherwood",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Teresa Wright",
+    "Nominees": "Teresa Wright",
+    "NomineeIds": "nm0942863",
+    "Winner": "",
+    "Detail": "Eleanor Gehrig",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Now, Voyager",
+    "FilmId": "tt0035140",
+    "Name": "Gladys Cooper",
+    "Nominees": "Gladys Cooper",
+    "NomineeIds": "nm0178066",
+    "Winner": "",
+    "Detail": "Mrs. Vale",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Magnificent Ambersons",
+    "FilmId": "tt0035015",
+    "Name": "Agnes Moorehead",
+    "Nominees": "Agnes Moorehead",
+    "NomineeIds": "nm0001547",
+    "Winner": "",
+    "Detail": "Fanny Minafer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Random Harvest",
+    "FilmId": "tt0035238",
+    "Name": "Susan Peters",
+    "Nominees": "Susan Peters",
+    "NomineeIds": "nm0676688",
+    "Winner": "",
+    "Detail": "Kitty",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Dame May Whitty",
+    "Nominees": "Dame May Whitty",
+    "NomineeIds": "nm0926599",
+    "Winner": "",
+    "Detail": "Lady Beldon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Teresa Wright",
+    "Nominees": "Teresa Wright",
+    "NomineeIds": "nm0942863",
+    "Winner": "True",
+    "Detail": "Carol Beldon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "George Washington Slept Here",
+    "FilmId": "tt0034780",
+    "Name": "Art Direction: Max Parker, Mark-Lee Kirk; Interior Decoration: Casey Roberts",
+    "Nominees": "Max Parker|Mark-Lee Kirk|Casey Roberts",
+    "NomineeIds": "nm0662483|nm0456521|nm0730914",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Magnificent Ambersons",
+    "FilmId": "tt0035015",
+    "Name": "Art Direction: Albert S. D'Agostino; Interior Decoration: Darrell Silvera, Al Fields",
+    "Nominees": "Albert S. D'Agostino|Darrell Silvera|Al Fields",
+    "NomineeIds": "nm0194875|nm0798822|nm0276177",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Art Direction: Perry Ferguson; Interior Decoration: Howard Bristol",
+    "Nominees": "Perry Ferguson|Howard Bristol",
+    "NomineeIds": "nm0272572|nm0109924",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Random Harvest",
+    "FilmId": "tt0035238",
+    "Name": "Art Direction: Cedric Gibbons, Randall Duell; Interior Decoration: Edwin B. Willis, Jack Moore",
+    "Nominees": "Cedric Gibbons|Randall Duell|Edwin B. Willis|Jack Moore",
+    "NomineeIds": "nm0316539|nm0240237|nm0932320|nm0601301",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Shanghai Gesture",
+    "FilmId": "tt0034175",
+    "Name": "Art Direction: Boris Leven; Interior Decoration: Boris Leven",
+    "Nominees": "Boris Leven",
+    "NomineeIds": "nm0505227",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Silver Queen",
+    "FilmId": "tt0035335",
+    "Name": "Art Direction: Ralph Berger; Interior Decoration: Emile Kuri",
+    "Nominees": "Ralph Berger|Emile Kuri",
+    "NomineeIds": "nm0074326|nm0475689",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Spoilers",
+    "FilmId": "tt0035369",
+    "Name": "Art Direction: Jack Otterson, John B. Goodman; Interior Decoration: Russell A. Gausman, Edward R. Robinson",
+    "Nominees": "Jack Otterson|John B. Goodman|Russell A. Gausman|Edward R. Robinson",
+    "NomineeIds": "nm0653163|nm0329129|nm0310199|nm0732589",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Take a Letter, Darling",
+    "FilmId": "tt0035413",
+    "Name": "Art Direction: Hans Dreier, Roland Anderson; Interior Decoration: Sam Comer",
+    "Nominees": "Hans Dreier|Roland Anderson|Sam Comer",
+    "NomineeIds": "nm0237417|nm0027380|nm0173754",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Talk of the Town",
+    "FilmId": "tt0035417",
+    "Name": "Art Direction: Lionel Banks, Rudolph Sternad; Interior Decoration: Fay Babcock",
+    "Nominees": "Lionel Banks|Rudolph Sternad|Fay Babcock",
+    "NomineeIds": "nm0052206|nm0827889|nm0044833",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "This above All",
+    "FilmId": "tt0035431",
+    "Name": "Art Direction: Richard Day, Joseph Wright; Interior Decoration: Thomas Little",
+    "Nominees": "Richard Day|Joseph Wright|Thomas Little",
+    "NomineeIds": "nm0206554|nm0942532|nm0514673",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Arabian Nights",
+    "FilmId": "tt0034465",
+    "Name": "Art Direction: Jack Otterson, Alexander Golitzen; Interior Decoration: Russell A. Gausman, Ira S. Webb",
+    "Nominees": "Jack Otterson|Alexander Golitzen|Russell A. Gausman|Ira S. Webb",
+    "NomineeIds": "nm0653163|nm0326529|nm0310199|nm0916129",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Captains of the Clouds",
+    "FilmId": "tt0034578",
+    "Name": "Art Direction: Ted Smith; Interior Decoration: Casey Roberts",
+    "Nominees": "Ted Smith|Casey Roberts",
+    "NomineeIds": "nm0810106|nm0730914",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Jungle Book",
+    "FilmId": "tt0034928",
+    "Name": "Art Direction: Vincent Korda; Interior Decoration: Julia Heron",
+    "Nominees": "Vincent Korda|Julia Heron",
+    "NomineeIds": "nm0466112|nm0380243",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "My Gal Sal",
+    "FilmId": "tt0035103",
+    "Name": "Art Direction: Richard Day, Joseph Wright; Interior Decoration: Thomas Little",
+    "Nominees": "Richard Day|Joseph Wright|Thomas Little",
+    "NomineeIds": "nm0206554|nm0942532|nm0514673",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Reap the Wild Wind",
+    "FilmId": "tt0035244",
+    "Name": "Art Direction: Hans Dreier, Roland Anderson; Interior Decoration: George Sawley",
+    "Nominees": "Hans Dreier|Roland Anderson|George Sawley",
+    "NomineeIds": "nm0237417|nm0027380|nm0768120",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Kings Row",
+    "FilmId": "tt0034946",
+    "Name": "James Wong Howe",
+    "Nominees": "James Wong Howe",
+    "NomineeIds": "nm0002146",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Magnificent Ambersons",
+    "FilmId": "tt0035015",
+    "Name": "Stanley Cortez",
+    "Nominees": "Stanley Cortez",
+    "NomineeIds": "nm0005673",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Joseph Ruttenberg",
+    "Nominees": "Joseph Ruttenberg",
+    "NomineeIds": "nm0005853",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Moontide",
+    "FilmId": "tt0035082",
+    "Name": "Charles Clarke",
+    "Nominees": "Charles Clarke",
+    "NomineeIds": "nm0164690",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Pied Piper",
+    "FilmId": "tt0035189",
+    "Name": "Edward Cronjager",
+    "Nominees": "Edward Cronjager",
+    "NomineeIds": "nm0005676",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Rudolph Maté",
+    "Nominees": "Rudolph Maté",
+    "NomineeIds": "nm0005789",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Take a Letter, Darling",
+    "FilmId": "tt0035413",
+    "Name": "John Mescall",
+    "Nominees": "John Mescall",
+    "NomineeIds": "nm0005796",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Talk of the Town",
+    "FilmId": "tt0035417",
+    "Name": "Ted Tetzlaff",
+    "Nominees": "Ted Tetzlaff",
+    "NomineeIds": "nm0005898",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Ten Gentlemen from West Point",
+    "FilmId": "tt0035421",
+    "Name": "Leon Shamroy",
+    "Nominees": "Leon Shamroy",
+    "NomineeIds": "nm0005872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "This above All",
+    "FilmId": "tt0035431",
+    "Name": "Arthur Miller",
+    "Nominees": "Arthur Miller",
+    "NomineeIds": "nm0587926",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Arabian Nights",
+    "FilmId": "tt0034465",
+    "Name": "Milton Krasner, William V. Skall, W. Howard Greene",
+    "Nominees": "Milton Krasner|William V. Skall|W. Howard Greene",
+    "NomineeIds": "nm0005762|nm0005877|nm0338946",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Black Swan",
+    "FilmId": "tt0034522",
+    "Name": "Leon Shamroy",
+    "Nominees": "Leon Shamroy",
+    "NomineeIds": "nm0005872",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Captains of the Clouds",
+    "FilmId": "tt0034578",
+    "Name": "Sol Polito",
+    "Nominees": "Sol Polito",
+    "NomineeIds": "nm0005835",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Jungle Book",
+    "FilmId": "tt0034928",
+    "Name": "W. Howard Greene",
+    "Nominees": "W. Howard Greene",
+    "NomineeIds": "nm0338946",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Reap the Wild Wind",
+    "FilmId": "tt0035244",
+    "Name": "Victor Milner, William V. Skall",
+    "Nominees": "Victor Milner|William V. Skall",
+    "NomineeIds": "nm0005800|nm0005877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "To the Shores of Tripoli",
+    "FilmId": "tt0035447",
+    "Name": "Edward Cronjager, William V. Skall",
+    "Nominees": "Edward Cronjager|William V. Skall",
+    "NomineeIds": "nm0005676|nm0005877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Kings Row",
+    "FilmId": "tt0034946",
+    "Name": "Sam Wood",
+    "Nominees": "Sam Wood",
+    "NomineeIds": "nm0939992",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "William Wyler",
+    "Nominees": "William Wyler",
+    "NomineeIds": "nm0943758",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Random Harvest",
+    "FilmId": "tt0035238",
+    "Name": "Mervyn LeRoy",
+    "Nominees": "Mervyn LeRoy",
+    "NomineeIds": "nm0503777",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Wake Island",
+    "FilmId": "tt0035530",
+    "Name": "John Farrow",
+    "Nominees": "John Farrow",
+    "NomineeIds": "nm0268513",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Yankee Doodle Dandy",
+    "FilmId": "tt0035575",
+    "Name": "Michael Curtiz",
+    "Nominees": "Michael Curtiz",
+    "NomineeIds": "nm0002031",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Africa, Prelude to Victory",
+    "FilmId": "tt0034434",
+    "Name": "The March of Time",
+    "Nominees": "The March of Time",
+    "NomineeIds": "co0047855",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "The Battle of Midway",
+    "FilmId": "tt0034498",
+    "Name": "United States Navy",
+    "Nominees": "United States Navy",
+    "NomineeIds": "co0077018",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: \\\"A special award to Battle of Midway for the historical value of its achievement in offering a camera record of one of the decisive battles of the world - a record unique both for the courage of those who made it under fire, and for its magnificent portrayal of the gallantry of our armed forces in battle.\\",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Combat Report",
+    "FilmId": "tt0034608",
+    "Name": "United States Army Signal Corps",
+    "Nominees": "United States Army Signal Corps",
+    "NomineeIds": "co0141760",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Conquer by the Clock",
+    "FilmId": "tt0034610",
+    "Name": "Frederic Ullman, Jr., Producer",
+    "Nominees": "Frederic Ullman Jr.",
+    "NomineeIds": "nm0880485",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "The Grain That Built a Hemisphere",
+    "FilmId": "tt0034806",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Henry Browne, Farmer",
+    "FilmId": "tt0034843",
+    "Name": "United States Department of Agriculture",
+    "Nominees": "United States Department of Agriculture",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "High over the Borders",
+    "FilmId": "tt0034851",
+    "Name": "National Film Board of Canada",
+    "Nominees": "National Film Board of Canada",
+    "NomineeIds": "co0006414",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "High Stakes in the East",
+    "FilmId": "tt0034852",
+    "Name": "The Netherlands Information Bureau",
+    "Nominees": "The Netherlands Information Bureau",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Inside Fighting China",
+    "FilmId": "tt0034897",
+    "Name": "National Film Board of Canada",
+    "Nominees": "National Film Board of Canada",
+    "NomineeIds": "co0006414",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "It's Everybody's War",
+    "FilmId": "tt0034906",
+    "Name": "United States Office of War Information",
+    "Nominees": "United States Office of War Information",
+    "NomineeIds": "co0020185",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Kokoda Front Line!",
+    "FilmId": "tt0034951",
+    "Name": "Australian News & Information Bureau",
+    "Nominees": "Australian News|Information Bureau",
+    "NomineeIds": "?|?",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: \\\"A special award to Kokoda Front Line! for its effectiveness in portraying, simply yet forcefully, the scene of war in New Guinea and for its moving presentation of the bravery and fortitude of our Australian comrades in arms.\\",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Listen to Britain",
+    "FilmId": "tt0034978",
+    "Name": "British Ministry of Information",
+    "Nominees": "British Ministry of Information",
+    "NomineeIds": "co0103143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Little Belgium",
+    "FilmId": "tt0034979",
+    "Name": "Belgian Ministry of Information",
+    "Nominees": "Belgian Ministry of Information",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Little Isles of Freedom",
+    "FilmId": "tt0034981",
+    "Name": "Victor Stoloff and Edgar Loew, Producers",
+    "Nominees": "Victor Stoloff|Edgar Loew",
+    "NomineeIds": "nm0831580|nm0517335",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Mr. Blabbermouth!",
+    "FilmId": "tt0035088",
+    "Name": "United States Office of War Information",
+    "Nominees": "United States Office of War Information",
+    "NomineeIds": "co0020185",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Mr. Gardenia Jones",
+    "FilmId": "tt0035091",
+    "Name": "United States Office of War Information",
+    "Nominees": "United States Office of War Information",
+    "NomineeIds": "co0020185",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Moscow Strikes Back",
+    "FilmId": "tt0035085",
+    "Name": "Artkino",
+    "Nominees": "Artkino",
+    "NomineeIds": "co0154885",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: \\\"A special award to Moscow Strikes Back for its vivid presentation of the heroism of the Russian Army and of the Russian people in the defense of Moscow, and for its achievement in so doing under conditions of extreme difficulty and danger.\\",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "The New Spirit",
+    "FilmId": "tt0035120",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Prelude to War",
+    "FilmId": "tt0035209",
+    "Name": "United States Army Special Services",
+    "Nominees": "United States Army Special Services",
+    "NomineeIds": "co0038466",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: \\\"A special award to Prelude to War for its trenchant conception and authentic and stirring dramatization of the events which forced our nation into the war and of the ideals for which we fight.\\",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "The Price of Victory",
+    "FilmId": "tt0035210",
+    "Name": "William H. Pine, Producer",
+    "Nominees": "William H. Pine",
+    "NomineeIds": "nm0683993",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "A Ship Is Born",
+    "FilmId": "tt0035321",
+    "Name": "United States Merchant Marine",
+    "Nominees": "United States Merchant Marine",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Twenty-One Miles",
+    "FilmId": "tt0035478",
+    "Name": "British Ministry of Information",
+    "Nominees": "British Ministry of Information",
+    "NomineeIds": "co0103143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "We Refuse to Die",
+    "FilmId": "tt0035536",
+    "Name": "William C. Thomas, Producer",
+    "Nominees": "William C. Thomas",
+    "NomineeIds": "nm0859651",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "White Eagle",
+    "FilmId": "tt0035554",
+    "Name": "Concanen Films",
+    "Nominees": "Concanen Films",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY",
+    "Film": "Winning Your Wings",
+    "FilmId": "tt0035565",
+    "Name": "United States Army Air Force",
+    "Nominees": "United States Army Air Force",
+    "NomineeIds": "co0141760",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Harold F. Kress",
+    "Nominees": "Harold F. Kress",
+    "NomineeIds": "nm0470932",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Daniel Mandell",
+    "Nominees": "Daniel Mandell",
+    "NomineeIds": "nm0541721",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Talk of the Town",
+    "FilmId": "tt0035417",
+    "Name": "Otto Meyer",
+    "Nominees": "Otto Meyer",
+    "NomineeIds": "nm0583301",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "This above All",
+    "FilmId": "tt0035431",
+    "Name": "Walter Thompson",
+    "Nominees": "Walter Thompson",
+    "NomineeIds": "nm0860828",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Yankee Doodle Dandy",
+    "FilmId": "tt0035575",
+    "Name": "George Amy",
+    "Nominees": "George Amy",
+    "NomineeIds": "nm0025497",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Arabian Nights",
+    "FilmId": "tt0034465",
+    "Name": "Frank Skinner",
+    "Nominees": "Frank Skinner",
+    "NomineeIds": "nm0804244",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Bambi",
+    "FilmId": "tt0034492",
+    "Name": "Frank Churchill, Edward Plumb",
+    "Nominees": "Frank Churchill|Edward Plumb",
+    "NomineeIds": "nm0161430|nm0687570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Black Swan",
+    "FilmId": "tt0034522",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Corsican Brothers",
+    "FilmId": "tt0033490",
+    "Name": "Dimitri Tiomkin",
+    "Nominees": "Dimitri Tiomkin",
+    "NomineeIds": "nm0006323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Flying Tigers",
+    "FilmId": "tt0034742",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Gold Rush",
+    "FilmId": "tt0015864",
+    "Name": "Max Terr",
+    "Nominees": "Max Terr",
+    "NomineeIds": "nm0855720",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "I Married a Witch",
+    "FilmId": "tt0034881",
+    "Name": "Roy Webb",
+    "Nominees": "Roy Webb",
+    "NomineeIds": "nm0002202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Joan of Paris",
+    "FilmId": "tt0034919",
+    "Name": "Roy Webb",
+    "Nominees": "Roy Webb",
+    "NomineeIds": "nm0002202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Jungle Book",
+    "FilmId": "tt0034928",
+    "Name": "Miklos Rozsa",
+    "Nominees": "Miklos Rozsa",
+    "NomineeIds": "nm0000067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Klondike Fury",
+    "FilmId": "tt0034948",
+    "Name": "Edward Kay",
+    "Nominees": "Edward Kay",
+    "NomineeIds": "nm0443033",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Now, Voyager",
+    "FilmId": "tt0035140",
+    "Name": "Max Steiner",
+    "Nominees": "Max Steiner",
+    "NomineeIds": "nm0000070",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Leigh Harline",
+    "Nominees": "Leigh Harline",
+    "NomineeIds": "nm0363316",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Random Harvest",
+    "FilmId": "tt0035238",
+    "Name": "Herbert Stothart",
+    "Nominees": "Herbert Stothart",
+    "NomineeIds": "nm0006307",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Shanghai Gesture",
+    "FilmId": "tt0034175",
+    "Name": "Richard Hageman",
+    "Nominees": "Richard Hageman",
+    "NomineeIds": "nm0006119",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Silver Queen",
+    "FilmId": "tt0035335",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Take a Letter, Darling",
+    "FilmId": "tt0035413",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Talk of the Town",
+    "FilmId": "tt0035417",
+    "Name": "Frederick Hollander, Morris Stoloff",
+    "Nominees": "Frederick Hollander|Morris Stoloff",
+    "NomineeIds": "nm0006130|nm0006304",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "To Be or Not to Be",
+    "FilmId": "tt0035446",
+    "Name": "Werner Heymann",
+    "Nominees": "Werner Heymann",
+    "NomineeIds": "nm0006128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Flying with Music",
+    "FilmId": "tt0034743",
+    "Name": "Edward Ward",
+    "Nominees": "Edward Ward",
+    "NomineeIds": "nm0911518",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "For Me and My Gal",
+    "FilmId": "tt0034746",
+    "Name": "Roger Edens, Georgie Stoll",
+    "Nominees": "Roger Edens|Georgie Stoll",
+    "NomineeIds": "nm0249136|nm0006303",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Holiday Inn",
+    "FilmId": "tt0034862",
+    "Name": "Robert Emmett Dolan",
+    "Nominees": "Robert Emmett Dolan",
+    "NomineeIds": "nm0006040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "It Started with Eve",
+    "FilmId": "tt0033766",
+    "Name": "Hans Salter, Charles Previn",
+    "Nominees": "Hans Salter|Charles Previn",
+    "NomineeIds": "nm0006270|nm0006239",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Johnny Doughboy",
+    "FilmId": "tt0034921",
+    "Name": "Walter Scharf",
+    "Nominees": "Walter Scharf",
+    "NomineeIds": "nm0770127",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "My Gal Sal",
+    "FilmId": "tt0035103",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Yankee Doodle Dandy",
+    "FilmId": "tt0035575",
+    "Name": "Ray Heindorf, Heinz Roemheld",
+    "Nominees": "Ray Heindorf|Heinz Roemheld",
+    "NomineeIds": "nm0006127|nm0006257",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "You Were Never Lovelier",
+    "FilmId": "tt0035583",
+    "Name": "Leigh Harline",
+    "Nominees": "Leigh Harline",
+    "NomineeIds": "nm0363316",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Always in My Heart",
+    "FilmId": "tt0034454",
+    "Name": "Music by Ernesto Lecuona; Lyrics by Kim Gannon",
+    "Nominees": "Ernesto Lecuona|Kim Gannon",
+    "NomineeIds": "nm0496368|nm0304469",
+    "Winner": "",
+    "Detail": "Always In My Heart",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "You Were Never Lovelier",
+    "FilmId": "tt0035583",
+    "Name": "Music by Jerome Kern; Lyrics by Johnny Mercer",
+    "Nominees": "Jerome Kern|Johnny Mercer",
+    "NomineeIds": "nm0006153|nm0006197",
+    "Winner": "",
+    "Detail": "Dearly Beloved",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Babes on Broadway",
+    "FilmId": "tt0034485",
+    "Name": "Music by Burton Lane; Lyrics by Ralph Freed",
+    "Nominees": "Burton Lane|Ralph Freed",
+    "NomineeIds": "nm0485263|nm0293128",
+    "Winner": "",
+    "Detail": "How About You?",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Youth on Parade",
+    "FilmId": "tt0035587",
+    "Name": "Music by Jule Styne; Lyrics by Sammy Cahn",
+    "Nominees": "Jule Styne|Sammy Cahn",
+    "NomineeIds": "nm0006312|nm0005991",
+    "Winner": "",
+    "Detail": "It Seems I Heard That Song Before",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Orchestra Wives",
+    "FilmId": "tt0035157",
+    "Name": "Music by Harry Warren; Lyrics by Mack Gordon",
+    "Nominees": "Harry Warren|Mack Gordon",
+    "NomineeIds": "nm0912851|nm0330418",
+    "Winner": "",
+    "Detail": "I've Got A Gal In Kalamazoo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Bambi",
+    "FilmId": "tt0034492",
+    "Name": "Music by Frank Churchill; Lyrics by Larry Morey",
+    "Nominees": "Frank Churchill|Larry Morey",
+    "NomineeIds": "nm0161430|nm0604392",
+    "Winner": "",
+    "Detail": "Love Is A Song",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Flying with Music",
+    "FilmId": "tt0034743",
+    "Name": "Music by Edward Ward; Lyrics by Chet Forrest and Bob Wright",
+    "Nominees": "Edward Ward|Chet Forrest|Bob Wright",
+    "NomineeIds": "nm0911518|nm0286609|nm0942243",
+    "Winner": "",
+    "Detail": "Pennies For Peppino",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Hellzapoppin'",
+    "FilmId": "tt0033704",
+    "Name": "Music by Gene de Paul; Lyrics by Don Raye",
+    "Nominees": "Gene de Paul|Don Raye",
+    "NomineeIds": "nm0210877|nm0713098",
+    "Winner": "",
+    "Detail": "Pig Foot Pete",
+    "Note": "NOTE: This nomination is a mystery. Both the nominations list and the program from the Awards dinner list the song as being from Hellzapoppin', a 1942 release for Awards purposes. The song does not appear in that film, but did appear in Keep 'Em Flying, a 1941 release from the same production company and studio, and was therefore ineligible for a 1942 nomination.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Mayor of 44th Street",
+    "FilmId": "tt0035048",
+    "Name": "Music by Harry Revel; Lyrics by Mort Greene",
+    "Nominees": "Harry Revel|Mort Greene",
+    "NomineeIds": "nm0720779|nm0338876",
+    "Winner": "",
+    "Detail": "There's A Breeze On Lake Louise",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Holiday Inn",
+    "FilmId": "tt0034862",
+    "Name": "Music and Lyrics by Irving Berlin",
+    "Nominees": "Irving Berlin",
+    "NomineeIds": "nm0000927",
+    "Winner": "True",
+    "Detail": "White Christmas",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "The Invaders",
+    "FilmId": "tt0033627",
+    "Name": "Ortus",
+    "Nominees": "Ortus",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Kings Row",
+    "FilmId": "tt0034946",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "The Magnificent Ambersons",
+    "FilmId": "tt0035015",
+    "Name": "Mercury",
+    "Nominees": "Mercury",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "The Pied Piper",
+    "FilmId": "tt0035189",
+    "Name": "20th Century-Fox",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Samuel Goldwyn Productions",
+    "Nominees": "Samuel Goldwyn Productions",
+    "NomineeIds": "co0058013",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Random Harvest",
+    "FilmId": "tt0035238",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "The Talk of the Town",
+    "FilmId": "tt0035417",
+    "Name": "Columbia",
+    "Nominees": "Columbia",
+    "NomineeIds": "co0050868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Wake Island",
+    "FilmId": "tt0035530",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING MOTION PICTURE",
+    "Film": "Yankee Doodle Dandy",
+    "FilmId": "tt0035575",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "All Out for 'V'",
+    "FilmId": "tt0034448",
+    "Name": "20th Century-Fox",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Blitz Wolf",
+    "FilmId": "tt0034524",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Der Fuehrer's Face",
+    "FilmId": "tt0035794",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Juke Box Jamboree",
+    "FilmId": "tt0034925",
+    "Name": "Walter Lantz, Producer",
+    "Nominees": "Walter Lantz",
+    "NomineeIds": "nm0487237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Pigs in a Polka",
+    "FilmId": "tt0036264",
+    "Name": "Leon Schlesinger, Producer",
+    "Nominees": "Leon Schlesinger",
+    "NomineeIds": "nm0772266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Tulips Shall Grow",
+    "FilmId": "tt0035476",
+    "Name": "George Pal, Producer",
+    "Nominees": "George Pal",
+    "NomineeIds": "nm0657162",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Desert Wonderland",
+    "FilmId": "tt0034644",
+    "Name": "20th Century-Fox",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Marines in the Making",
+    "FilmId": "tt0035041",
+    "Name": "Pete Smith, Producer",
+    "Nominees": "Pete Smith",
+    "NomineeIds": "nm0809570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Speaking of Animals and Their Families",
+    "FilmId": "tt0035366",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "United States Marine Band",
+    "FilmId": "tt0035493",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Beyond the Line of Duty",
+    "FilmId": "tt0034511",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Don't Talk",
+    "FilmId": "tt0034666",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Private Smith of the U.S.A.",
+    "FilmId": "tt0035219",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Arabian Nights",
+    "FilmId": "tt0034465",
+    "Name": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+    "Nominees": "Universal|Bernard B. Brown",
+    "NomineeIds": "co0005073|nm0113094",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Bambi",
+    "FilmId": "tt0034492",
+    "Name": "Walt Disney Studio Sound Department, Sam Slyfield, Sound Director",
+    "Nominees": "Walt Disney Studios|Sam Slyfield",
+    "NomineeIds": "co0008970|nm0806351",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Flying Tigers",
+    "FilmId": "tt0034742",
+    "Name": "Republic Studio Sound Department, Daniel Bloomberg, Sound Director",
+    "Nominees": "Republic|Daniel Bloomberg",
+    "NomineeIds": "co0020540|nm0089253",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Friendly Enemies",
+    "FilmId": "tt0034757",
+    "Name": "Sound Service, Inc., Jack Whitney, Sound Director",
+    "Nominees": "Sound Service Inc.|Jack Whitney",
+    "NomineeIds": "?|nm0926303",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Gold Rush",
+    "FilmId": "tt0015864",
+    "Name": "RCA Sound, James Fields, Sound Director",
+    "Nominees": "RCA Sound|James Fields",
+    "NomineeIds": "co0097233|nm0276264",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Douglas Shearer",
+    "NomineeIds": "co0007143|nm0790428",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Once upon a Honeymoon",
+    "FilmId": "tt0035151",
+    "Name": "RKO Radio Studio Sound Department, Steve Dunn, Sound Director",
+    "Nominees": "RKO Radio|Steve Dunn",
+    "NomineeIds": "co0041421|nm0242772",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+    "Nominees": "Samuel Goldwyn|Thomas T. Moulton",
+    "NomineeIds": "co0058013|nm0609771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Road to Morocco",
+    "FilmId": "tt0035262",
+    "Name": "Paramount Studio Sound Department, Loren Ryder, Sound Director",
+    "Nominees": "Paramount|Loren Ryder",
+    "NomineeIds": "co0023400|nm0753122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "This above All",
+    "FilmId": "tt0035431",
+    "Name": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+    "Nominees": "20th Century-Fox|E. H. Hansen",
+    "NomineeIds": "co0028775|nm0360770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Yankee Doodle Dandy",
+    "FilmId": "tt0035575",
+    "Name": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+    "Nominees": "Warner Bros.|Nathan Levinson",
+    "NomineeIds": "co0080422|nm0506080",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "You Were Never Lovelier",
+    "FilmId": "tt0035583",
+    "Name": "Columbia Studio Sound Department, John Livadary, Sound Director",
+    "Nominees": "Columbia|John Livadary",
+    "NomineeIds": "co0050868|nm0515093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Black Swan",
+    "FilmId": "tt0034522",
+    "Name": "Photographic Effects by Fred Sersen; Sound Effects by Roger Heman, George Leverett",
+    "Nominees": "Fred Sersen|Roger Heman|George Leverett",
+    "NomineeIds": "nm0785731|nm0002703|nm0505336",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Desperate Journey",
+    "FilmId": "tt0034646",
+    "Name": "Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson",
+    "Nominees": "Byron Haskin|Nathan Levinson",
+    "NomineeIds": "nm0005738|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Flying Tigers",
+    "FilmId": "tt0034742",
+    "Name": "Photographic Effects by Howard Lydecker; Sound Effects by Daniel J. Bloomberg",
+    "Nominees": "Howard Lydecker|Daniel J. Bloomberg",
+    "NomineeIds": "nm0527964|nm0089253",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Invisible Agent",
+    "FilmId": "tt0034902",
+    "Name": "Photographic Effects by John Fulton; Sound Effects by Bernard B. Brown",
+    "Nominees": "John Fulton|Bernard B. Brown",
+    "NomineeIds": "nm0298483|nm0113094",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Jungle Book",
+    "FilmId": "tt0034928",
+    "Name": "Photographic Effects by Lawrence Butler; Sound Effects by William H. Wilmarth",
+    "Nominees": "Lawrence Butler|William H. Wilmarth",
+    "NomineeIds": "nm0125022|nm0932806",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Photographic Effects by A. Arnold Gillespie, Warren Newcombe; Sound Effects by Douglas Shearer",
+    "Nominees": "A. Arnold Gillespie|Warren Newcombe|Douglas Shearer",
+    "NomineeIds": "nm0318901|nm0627766|nm0790428",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Navy Comes Through",
+    "FilmId": "tt0035113",
+    "Name": "Photographic Effects by Vernon L. Walker; Sound Effects by James G. Stewart",
+    "Nominees": "Vernon L. Walker|James G. Stewart",
+    "NomineeIds": "nm0908289|nm0829468",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "One of Our Aircraft Is Missing",
+    "FilmId": "tt0035153",
+    "Name": "Photographic Effects by Ronald Neame; Sound Effects by C. C. Stevens",
+    "Nominees": "Ronald Neame|C. C. Stevens",
+    "NomineeIds": "nm0623768|nm0828296",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Photographic Effects by Jack Cosgrove, Ray Binger; Sound Effects by Thomas T. Moulton",
+    "Nominees": "Jack Cosgrove|Ray Binger|Thomas T. Moulton",
+    "NomineeIds": "nm0181832|nm0082915|nm0609771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Reap the Wild Wind",
+    "FilmId": "tt0035244",
+    "Name": "Photographic Effects by Gordon Jennings, Farciot Edouart, William L. Pereira; Sound Effects by Louis Mesenkop",
+    "Nominees": "Gordon Jennings|Farciot Edouart|William L. Pereira|Louis Mesenkop",
+    "NomineeIds": "nm0421157|nm0249643|nm0673233|nm0581820",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "Holiday Inn",
+    "FilmId": "tt0034862",
+    "Name": "Irving Berlin",
+    "Nominees": "Irving Berlin",
+    "NomineeIds": "nm0000927",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "The Invaders",
+    "FilmId": "tt0033627",
+    "Name": "Emeric Pressburger",
+    "Nominees": "Emeric Pressburger",
+    "NomineeIds": "nm0696247",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Paul Gallico",
+    "Nominees": "Paul Gallico",
+    "NomineeIds": "nm0302904",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "The Talk of the Town",
+    "FilmId": "tt0035417",
+    "Name": "Sidney Harmon",
+    "Nominees": "Sidney Harmon",
+    "NomineeIds": "nm0363563",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "Yankee Doodle Dandy",
+    "FilmId": "tt0035575",
+    "Name": "Robert Buckner",
+    "Nominees": "Robert Buckner",
+    "NomineeIds": "nm0118758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "One of Our Aircraft Is Missing",
+    "FilmId": "tt0035153",
+    "Name": "Michael Powell, Emeric Pressburger",
+    "Nominees": "Michael Powell|Emeric Pressburger",
+    "NomineeIds": "nm0003836|nm0696247",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Road to Morocco",
+    "FilmId": "tt0035262",
+    "Name": "Frank Butler, Don Hartman",
+    "Nominees": "Frank Butler|Don Hartman",
+    "NomineeIds": "nm0124918|nm0366942",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Wake Island",
+    "FilmId": "tt0035530",
+    "Name": "W. R. Burnett, Frank Butler",
+    "Nominees": "W. R. Burnett|Frank Butler",
+    "NomineeIds": "nm0122446|nm0124918",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The War against Mrs. Hadley",
+    "FilmId": "tt0035531",
+    "Name": "George Oppenheimer",
+    "Nominees": "George Oppenheimer",
+    "NomineeIds": "nm0649183",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Woman of the Year",
+    "FilmId": "tt0035567",
+    "Name": "Ring Lardner, Jr., Michael Kanin",
+    "Nominees": "Ring Lardner Jr.|Michael Kanin",
+    "NomineeIds": "nm0488057|nm0437720",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Invaders",
+    "FilmId": "tt0033627",
+    "Name": "Rodney Ackland, Emeric Pressburger",
+    "Nominees": "Rodney Ackland|Emeric Pressburger",
+    "NomineeIds": "nm0010063|nm0696247",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Mrs. Miniver",
+    "FilmId": "tt0035093",
+    "Name": "Arthur Wimperis, George Froeschel, James Hilton, Claudine West",
+    "Nominees": "Arthur Wimperis|George Froeschel|James Hilton|Claudine West",
+    "NomineeIds": "nm0934497|nm0296207|nm0385264|nm0921995",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Pride of the Yankees",
+    "FilmId": "tt0035211",
+    "Name": "Jo Swerling, Herman J. Mankiewicz",
+    "Nominees": "Jo Swerling|Herman J. Mankiewicz",
+    "NomineeIds": "nm0842485|nm0542534",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Random Harvest",
+    "FilmId": "tt0035238",
+    "Name": "Claudine West, George Froeschel, Arthur Wimperis",
+    "Nominees": "Claudine West|George Froeschel|Arthur Wimperis",
+    "NomineeIds": "nm0921995|nm0296207|nm0934497",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Talk of the Town",
+    "FilmId": "tt0035417",
+    "Name": "Irwin Shaw, Sidney Buchman",
+    "Nominees": "Irwin Shaw|Sidney Buchman",
+    "NomineeIds": "nm0789758|nm0118227",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles Boyer",
+    "NomineeIds": "nm0000964",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Charles Boyer for his progressive cultural achievement in establishing the French Research Foundation in Los Angeles as a source of reference for the Hollywood Motion Picture Industry."
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "In Which We Serve",
+    "FilmId": "tt0034891",
+    "Name": "",
+    "Nominees": "Noel Coward",
+    "NomineeIds": "nm0002021",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Noel Coward for his outstanding production achievement in In Which We Serve."
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Metro-Goldwyn-Mayer for its achievement in representing the American Way of Life in the production of the \\\"Andy Hardy\\\" series of films."
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Sidney Franklin",
+    "Nominees": "Sidney Franklin",
+    "NomineeIds": "nm0291548",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Carroll Clark|F. Thomas Thompson|Rko Radio",
+    "NomineeIds": "nm0163754|?|co0041421",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To CARROLL CLARK, F. THOMAS THOMPSON and the RKO RADIO STUDIO ART and MINIATURE DEPARTMENTS for the design and construction of a moving cloud and horizon machine."
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DANIEL B. CLARK|the 20TH CENTURY-FOX FILM CORP.",
+    "NomineeIds": "nm0163820|?",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To DANIEL B. CLARK and the 20TH CENTURY-FOX FILM CORP. for the development of a lens calibration system and the application of this system to exposure control in cinematography."
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Robert Henderson|Paramount Studio",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To ROBERT HENDERSON and the PARAMOUNT STUDIO ENGINEERING and TRANSPARENCY DEPARTMENTS for the design and construction of adjustable light bridges and screen frames for transparency process photography."
+  },
+  {
+    "Ceremony": 15,
+    "Year": 1942,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Daniel J. Bloomberg|Republic",
+    "NomineeIds": "nm0089253|co0020540",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To DANIEL J. BLOOMBERG and the REPUBLIC STUDIO SOUND DEPARTMENT for the design and application to motion picture production of a device for marking action negative for pre-selection purposes."
   }
 ]

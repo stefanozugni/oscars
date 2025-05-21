@@ -1,1673 +1,2066 @@
 [
   {
-    "category": "Best Picture",
-    "year": "2005",
-    "nominees": [
-      "Crash"
-    ],
-    "movies": [
-      {
-        "title": "Crash",
-        "tmdb_id": 1640,
-        "imdb_id": "tt0375679"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "2005",
-    "nominees": [
-      "Brokeback Mountain"
-    ],
-    "movies": [
-      {
-        "title": "Brokeback Mountain",
-        "tmdb_id": 142,
-        "imdb_id": "tt0388795"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2005",
-    "nominees": [
-      "Capote"
-    ],
-    "movies": [
-      {
-        "title": "Capote",
-        "tmdb_id": 398,
-        "imdb_id": "tt0379725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2005",
-    "nominees": [
-      "Good Night, and Good Luck."
-    ],
-    "movies": [
-      {
-        "title": "Good Night, and Good Luck.",
-        "tmdb_id": 3291,
-        "imdb_id": "tt0433383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2005",
-    "nominees": [
-      "Munich"
-    ],
-    "movies": [
-      {
-        "title": "Munich",
-        "tmdb_id": 612,
-        "imdb_id": "tt0408306"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2005",
-    "nominees": [
-      "Philip Seymour Hoffman"
-    ],
-    "movies": [
-      {
-        "title": "Capote",
-        "tmdb_id": 398,
-        "imdb_id": "tt0379725"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "2005",
-    "nominees": [
-      "Terrence Howard"
-    ],
-    "movies": [
-      {
-        "title": "Hustle & Flow",
-        "tmdb_id": 10476,
-        "imdb_id": "tt0410097"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2005",
-    "nominees": [
-      "Heath Ledger"
-    ],
-    "movies": [
-      {
-        "title": "Brokeback Mountain",
-        "tmdb_id": 142,
-        "imdb_id": "tt0388795"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2005",
-    "nominees": [
-      "Joaquin Phoenix"
-    ],
-    "movies": [
-      {
-        "title": "Walk the Line",
-        "tmdb_id": 69,
-        "imdb_id": "tt0358273"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2005",
-    "nominees": [
-      "David Strathairn"
-    ],
-    "movies": [
-      {
-        "title": "Good Night, and Good Luck.",
-        "tmdb_id": 3291,
-        "imdb_id": "tt0433383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2005",
-    "nominees": [
-      "Reese Witherspoon"
-    ],
-    "movies": [
-      {
-        "title": "Walk the Line",
-        "tmdb_id": 69,
-        "imdb_id": "tt0358273"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "2005",
-    "nominees": [
-      "Judi Dench"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Henderson Presents",
-        "tmdb_id": 10773,
-        "imdb_id": "tt0413015"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2005",
-    "nominees": [
-      "Felicity Huffman"
-    ],
-    "movies": [
-      {
-        "title": "Transamerica",
-        "tmdb_id": 546,
-        "imdb_id": "tt0407265"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2005",
-    "nominees": [
-      "Keira Knightley"
-    ],
-    "movies": [
-      {
-        "title": "Pride & Prejudice",
-        "tmdb_id": 4348,
-        "imdb_id": "tt0414387"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2005",
-    "nominees": [
-      "Charlize Theron"
-    ],
-    "movies": [
-      {
-        "title": "North Country",
-        "tmdb_id": 9701,
-        "imdb_id": "tt0395972"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2005",
-    "nominees": [
-      "George Clooney"
-    ],
-    "movies": [
-      {
-        "title": "Syriana",
-        "tmdb_id": 231,
-        "imdb_id": "tt0365737"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2005",
-    "nominees": [
-      "Matt Dillon"
-    ],
-    "movies": [
-      {
-        "title": "Crash",
-        "tmdb_id": 1640,
-        "imdb_id": "tt0375679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2005",
-    "nominees": [
-      "Paul Giamatti"
-    ],
-    "movies": [
-      {
-        "title": "Cinderella Man",
-        "tmdb_id": 921,
-        "imdb_id": "tt0352248"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2005",
-    "nominees": [
-      "Jake Gyllenhaal"
-    ],
-    "movies": [
-      {
-        "title": "Brokeback Mountain",
-        "tmdb_id": 142,
-        "imdb_id": "tt0388795"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2005",
-    "nominees": [
-      "William Hurt"
-    ],
-    "movies": [
-      {
-        "title": "A History of Violence",
-        "tmdb_id": 59,
-        "imdb_id": "tt0399146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2005",
-    "nominees": [
-      "Rachel Weisz"
-    ],
-    "movies": [
-      {
-        "title": "The Constant Gardener",
-        "tmdb_id": 1985,
-        "imdb_id": "tt0387131"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2005",
-    "nominees": [
-      "Amy Adams"
-    ],
-    "movies": [
-      {
-        "title": "Junebug",
-        "tmdb_id": 1444,
-        "imdb_id": "tt0418773"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2005",
-    "nominees": [
-      "Catherine Keener"
-    ],
-    "movies": [
-      {
-        "title": "Capote",
-        "tmdb_id": 398,
-        "imdb_id": "tt0379725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2005",
-    "nominees": [
-      "Frances McDormand"
-    ],
-    "movies": [
-      {
-        "title": "North Country",
-        "tmdb_id": 9701,
-        "imdb_id": "tt0395972"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2005",
-    "nominees": [
-      "Michelle Williams"
-    ],
-    "movies": [
-      {
-        "title": "Brokeback Mountain",
-        "tmdb_id": 142,
-        "imdb_id": "tt0388795"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2005",
-    "nominees": [
-      "Ang Lee"
-    ],
-    "movies": [
-      {
-        "title": "Brokeback Mountain",
-        "tmdb_id": 142,
-        "imdb_id": "tt0388795"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "2005",
-    "nominees": [
-      "George Clooney"
-    ],
-    "movies": [
-      {
-        "title": "Good Night, and Good Luck.",
-        "tmdb_id": 3291,
-        "imdb_id": "tt0433383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2005",
-    "nominees": [
-      "Paul Haggis"
-    ],
-    "movies": [
-      {
-        "title": "Crash",
-        "tmdb_id": 1640,
-        "imdb_id": "tt0375679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2005",
-    "nominees": [
-      "Bennett Miller"
-    ],
-    "movies": [
-      {
-        "title": "Capote",
-        "tmdb_id": 398,
-        "imdb_id": "tt0379725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2005",
-    "nominees": [
-      "Steven Spielberg"
-    ],
-    "movies": [
-      {
-        "title": "Munich",
-        "tmdb_id": 612,
-        "imdb_id": "tt0408306"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2005",
-    "nominees": [
-      "Larry McMurtry",
-      "Diana Ossana"
-    ],
-    "movies": [
-      {
-        "title": "Brokeback Mountain",
-        "tmdb_id": 142,
-        "imdb_id": "tt0388795"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2005",
-    "nominees": [
-      "Dan Futterman"
-    ],
-    "movies": [
-      {
-        "title": "Capote",
-        "tmdb_id": 398,
-        "imdb_id": "tt0379725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2005",
-    "nominees": [
-      "Jeffrey Caine"
-    ],
-    "movies": [
-      {
-        "title": "The Constant Gardener",
-        "tmdb_id": 1985,
-        "imdb_id": "tt0387131"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2005",
-    "nominees": [
-      "Josh Olson"
-    ],
-    "movies": [
-      {
-        "title": "A History of Violence",
-        "tmdb_id": 59,
-        "imdb_id": "tt0399146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2005",
-    "nominees": [
-      "Tony Kushner",
-      "Eric Roth"
-    ],
-    "movies": [
-      {
-        "title": "Munich",
-        "tmdb_id": 612,
-        "imdb_id": "tt0408306"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2005",
-    "nominees": [
-      "Paul Haggis",
-      "Bobby Moresco"
-    ],
-    "movies": [
-      {
-        "title": "Crash",
-        "tmdb_id": 1640,
-        "imdb_id": "tt0375679"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2005",
-    "nominees": [
-      "George Clooney",
-      "Grant Heslov"
-    ],
-    "movies": [
-      {
-        "title": "Good Night, and Good Luck.",
-        "tmdb_id": 3291,
-        "imdb_id": "tt0433383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2005",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Match Point",
-        "tmdb_id": 116,
-        "imdb_id": "tt0416320"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2005",
-    "nominees": [
-      "Noah Baumbach"
-    ],
-    "movies": [
-      {
-        "title": "The Squid and the Whale",
-        "tmdb_id": 10707,
-        "imdb_id": "tt0367089"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2005",
-    "nominees": [
-      "Stephen Gaghan"
-    ],
-    "movies": [
-      {
-        "title": "Syriana",
-        "tmdb_id": 231,
-        "imdb_id": "tt0365737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2005",
-    "nominees": [
-      "Gustavo Santaolalla"
-    ],
-    "movies": [
-      {
-        "title": "Brokeback Mountain",
-        "tmdb_id": 142,
-        "imdb_id": "tt0388795"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "2005",
-    "nominees": [
-      "Alberto Iglesias"
-    ],
-    "movies": [
-      {
-        "title": "The Constant Gardener",
-        "tmdb_id": 1985,
-        "imdb_id": "tt0387131"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2005",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Memoirs of a Geisha",
-        "tmdb_id": 1904,
-        "imdb_id": "tt0397535"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2005",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Munich",
-        "tmdb_id": 612,
-        "imdb_id": "tt0408306"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2005",
-    "nominees": [
-      "Dario Marianelli"
-    ],
-    "movies": [
-      {
-        "title": "Pride & Prejudice",
-        "tmdb_id": 4348,
-        "imdb_id": "tt0414387"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2005",
-    "nominees": [
-      "It's Hard out Here for a Pimp"
-    ],
-    "movies": [
-      {
-        "title": "Hustle & Flow",
-        "tmdb_id": 10476,
-        "imdb_id": "tt0410097"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2005",
-    "nominees": [
-      "In the Deep"
-    ],
-    "movies": [
-      {
-        "title": "Crash",
-        "tmdb_id": 1640,
-        "imdb_id": "tt0375679"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2005",
-    "nominees": [
-      "Travelin' Thru"
-    ],
-    "movies": [
-      {
-        "title": "Transamerica",
-        "tmdb_id": 546,
-        "imdb_id": "tt0407265"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2005",
-    "nominees": [
-      "Tsotsi"
-    ],
-    "movies": [
-      {
-        "title": "Tsotsi",
-        "tmdb_id": 868,
-        "imdb_id": "tt0468565"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2005",
-    "nominees": [
-      "Don't Tell"
-    ],
-    "movies": [
-      {
-        "title": "Don't Tell",
-        "tmdb_id": 18219,
-        "imdb_id": "tt0443446"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2005",
-    "nominees": [
-      "Joyeux Noel"
-    ],
-    "movies": [
-      {
-        "title": "Joyeux Noel",
-        "tmdb_id": 11661,
-        "imdb_id": "tt0424205"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2005",
-    "nominees": [
-      "Paradise Now"
-    ],
-    "movies": [
-      {
-        "title": "Paradise Now",
-        "tmdb_id": 67,
-        "imdb_id": "tt0445620"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2005",
-    "nominees": [
-      "Sophie Scholl: The Final Days"
-    ],
-    "movies": [
-      {
-        "title": "Sophie Scholl: The Final Days",
-        "tmdb_id": 2117,
-        "imdb_id": "tt0426578"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2005",
-    "nominees": [
-      "March of the Penguins"
-    ],
-    "movies": [
-      {
-        "title": "March of the Penguins",
-        "tmdb_id": 1667,
-        "imdb_id": "tt0428803"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2005",
-    "nominees": [
-      "Darwin's Nightmare"
-    ],
-    "movies": [
-      {
-        "title": "Darwin's Nightmare",
-        "tmdb_id": 415253,
-        "imdb_id": "tt0424024"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2005",
-    "nominees": [
-      "Enron: The Smartest Guys in the Room"
-    ],
-    "movies": [
-      {
-        "title": "Enron: The Smartest Guys in the Room",
-        "tmdb_id": 13020,
-        "imdb_id": "tt1016268"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2005",
-    "nominees": [
-      "Murderball"
-    ],
-    "movies": [
-      {
-        "title": "Murderball",
-        "tmdb_id": 14278,
-        "imdb_id": "tt0436613"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2005",
-    "nominees": [
-      "Street Fight"
-    ],
-    "movies": [
-      {
-        "title": "Street Fight",
-        "tmdb_id": 29044,
-        "imdb_id": "tt0457496"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2005",
-    "nominees": [
-      "A Note of Triumph: The Golden Age of Norman Corwin"
-    ],
-    "movies": [
-      {
-        "title": "A Note of Triumph: The Golden Age of Norman Corwin",
-        "tmdb_id": 245013,
-        "imdb_id": "tt0491795"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2005",
-    "nominees": [
-      "The Death of Kevin Carter: Casualty of the Bang Bang Club"
-    ],
-    "movies": [
-      {
-        "title": "The Death of Kevin Carter: Casualty of the Bang Bang Club",
-        "tmdb_id": 214187,
-        "imdb_id": "tt0439676"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2005",
-    "nominees": [
-      "God Sleeps in Rwanda"
-    ],
-    "movies": [
-      {
-        "title": "God Sleeps in Rwanda",
-        "tmdb_id": 245014,
-        "imdb_id": "tt0480247"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2005",
-    "nominees": [
-      "The Mushroom Club"
-    ],
-    "movies": [
-      {
-        "title": "The Mushroom Club",
-        "tmdb_id": 245016,
-        "imdb_id": "tt0762119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2005",
-    "nominees": [
-      "Wallace & Gromit: The Curse of the Were-Rabbit"
-    ],
-    "movies": [
-      {
-        "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
-        "tmdb_id": 533,
-        "imdb_id": "tt0312004"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2005",
-    "nominees": [
-      "Corpse Bride"
-    ],
-    "movies": [
-      {
-        "title": "Corpse Bride",
-        "tmdb_id": 3933,
-        "imdb_id": "tt0121164"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2005",
-    "nominees": [
-      "Howl's Moving Castle"
-    ],
-    "movies": [
-      {
-        "title": "Howl's Moving Castle",
-        "tmdb_id": 4935,
-        "imdb_id": "tt0347149"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2005",
-    "nominees": [
-      "The Moon and the Son: An Imagined Conversation"
-    ],
-    "movies": [
-      {
-        "title": "The Moon and the Son: An Imagined Conversation",
-        "tmdb_id": 44360,
-        "imdb_id": "tt0449619"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2005",
-    "nominees": [
-      "Badgered"
-    ],
-    "movies": [
-      {
-        "title": "Badgered",
-        "tmdb_id": 220867,
-        "imdb_id": "tt0455912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2005",
-    "nominees": [
-      "The Mysterious Geographic Explorations of Jasper Morello"
-    ],
-    "movies": [
-      {
-        "title": "The Mysterious Geographic Explorations of Jasper Morello",
-        "tmdb_id": 52762,
-        "imdb_id": "tt0469146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2005",
-    "nominees": [
-      "9"
-    ],
-    "movies": [
-      {
-        "title": "9",
-        "tmdb_id": 98622,
-        "imdb_id": "tt0443424"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2005",
-    "nominees": [
-      "One Man Band"
-    ],
-    "movies": [
-      {
-        "title": "One Man Band",
-        "tmdb_id": 13933,
-        "imdb_id": "tt0479113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2005",
-    "nominees": [
-      "Six Shooter"
-    ],
-    "movies": [
-      {
-        "title": "Six Shooter",
-        "tmdb_id": 25126,
-        "imdb_id": "tt0425458"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2005",
-    "nominees": [
-      "The Runaway"
-    ],
-    "movies": [
-      {
-        "title": "The Runaway",
-        "tmdb_id": 245012,
-        "imdb_id": "tt0452139"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2005",
-    "nominees": [
-      "Cashback"
-    ],
-    "movies": [
-      {
-        "title": "Cashback",
-        "tmdb_id": 444308,
-        "imdb_id": "tt0409799"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2005",
-    "nominees": [
-      "The Last Farm"
-    ],
-    "movies": [
-      {
-        "title": "The Last Farm",
-        "tmdb_id": 104062,
-        "imdb_id": "tt0461847"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2005",
-    "nominees": [
-      "Our Time Is Up"
-    ],
-    "movies": [
-      {
-        "title": "Our Time Is Up",
-        "tmdb_id": 47054,
-        "imdb_id": "tt0427617"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "John Myhre",
-      "Gretchen Rau"
-    ],
-    "movies": [
-      {
-        "title": "Memoirs of a Geisha",
-        "tmdb_id": 1904,
-        "imdb_id": "tt0397535"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "Jim Bissell",
-      "Jan Pascale"
-    ],
-    "movies": [
-      {
-        "title": "Good Night, and Good Luck.",
-        "tmdb_id": 3291,
-        "imdb_id": "tt0433383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "Stuart Craig",
-      "Stephenie McMillan"
-    ],
-    "movies": [
-      {
-        "title": "Harry Potter and the Goblet of Fire",
-        "tmdb_id": 674,
-        "imdb_id": "tt0330373"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "Grant Major",
-      "Dan Hennah",
-      "Simon Bright"
-    ],
-    "movies": [
-      {
-        "title": "King Kong",
-        "tmdb_id": 254,
-        "imdb_id": "tt0360717"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "Sarah Greenwood",
-      "Katie Spencer"
-    ],
-    "movies": [
-      {
-        "title": "Pride & Prejudice",
-        "tmdb_id": 4348,
-        "imdb_id": "tt0414387"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2005",
-    "nominees": [
-      "Dion Beebe"
-    ],
-    "movies": [
-      {
-        "title": "Memoirs of a Geisha",
-        "tmdb_id": 1904,
-        "imdb_id": "tt0397535"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2005",
-    "nominees": [
-      "Wally Pfister"
-    ],
-    "movies": [
-      {
-        "title": "Batman Begins",
-        "tmdb_id": 272,
-        "imdb_id": "tt0372784"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2005",
-    "nominees": [
-      "Rodrigo Prieto"
-    ],
-    "movies": [
-      {
-        "title": "Brokeback Mountain",
-        "tmdb_id": 142,
-        "imdb_id": "tt0388795"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2005",
-    "nominees": [
-      "Robert Elswit"
-    ],
-    "movies": [
-      {
-        "title": "Good Night, and Good Luck.",
-        "tmdb_id": 3291,
-        "imdb_id": "tt0433383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2005",
-    "nominees": [
-      "Emmanuel Lubezki"
-    ],
-    "movies": [
-      {
-        "title": "The New World",
-        "tmdb_id": 11400,
-        "imdb_id": "tt0402399"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2005",
-    "nominees": [
-      "Hughes Winborne"
-    ],
-    "movies": [
-      {
-        "title": "Crash",
-        "tmdb_id": 1640,
-        "imdb_id": "tt0375679"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2005",
-    "nominees": [
-      "Mike Hill",
-      "Dan Hanley"
-    ],
-    "movies": [
-      {
-        "title": "Cinderella Man",
-        "tmdb_id": 921,
-        "imdb_id": "tt0352248"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2005",
-    "nominees": [
-      "Claire Simpson"
-    ],
-    "movies": [
-      {
-        "title": "The Constant Gardener",
-        "tmdb_id": 1985,
-        "imdb_id": "tt0387131"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2005",
-    "nominees": [
-      "Michael Kahn"
-    ],
-    "movies": [
-      {
-        "title": "Munich",
-        "tmdb_id": 612,
-        "imdb_id": "tt0408306"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2005",
-    "nominees": [
-      "Michael McCusker"
-    ],
-    "movies": [
-      {
-        "title": "Walk the Line",
-        "tmdb_id": 69,
-        "imdb_id": "tt0358273"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2005",
-    "nominees": [
-      "Joe Letteri",
-      "Brian Van't Hul",
-      "Christian Rivers",
-      "Richard Taylor"
-    ],
-    "movies": [
-      {
-        "title": "King Kong",
-        "tmdb_id": 254,
-        "imdb_id": "tt0360717"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2005",
-    "nominees": [
-      "Dean Wright",
-      "Bill Westenhofer",
-      "Jim Berney",
-      "Scott Farrar"
-    ],
-    "movies": [
-      {
-        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-        "tmdb_id": 411,
-        "imdb_id": "tt0363771"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2005",
-    "nominees": [
-      "Dennis Muren",
-      "Pablo Helman",
-      "Randal M. Dutra",
-      "Daniel Sudick"
-    ],
-    "movies": [
-      {
-        "title": "War of the Worlds",
-        "tmdb_id": 74,
-        "imdb_id": "tt0407304"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2005",
-    "nominees": [
-      "Christopher Boyes",
-      "Michael Semanick",
-      "Michael Hedges",
-      "Hammond Peek"
-    ],
-    "movies": [
-      {
-        "title": "King Kong",
-        "tmdb_id": 254,
-        "imdb_id": "tt0360717"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2005",
-    "nominees": [
-      "Terry Porter",
-      "Dean A. Zupancic",
-      "Tony Johnson"
-    ],
-    "movies": [
-      {
-        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-        "tmdb_id": 411,
-        "imdb_id": "tt0363771"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2005",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Rick Kline",
-      "John Pritchett"
-    ],
-    "movies": [
-      {
-        "title": "Memoirs of a Geisha",
-        "tmdb_id": 1904,
-        "imdb_id": "tt0397535"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2005",
-    "nominees": [
-      "Paul Massey",
-      "Doug Hemphill",
-      "Peter Kurland"
-    ],
-    "movies": [
-      {
-        "title": "Walk the Line",
-        "tmdb_id": 69,
-        "imdb_id": "tt0358273"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2005",
-    "nominees": [
-      "Andy Nelson",
-      "Anna Behlmer",
-      "Ron Judkins"
-    ],
-    "movies": [
-      {
-        "title": "War of the Worlds",
-        "tmdb_id": 74,
-        "imdb_id": "tt0407304"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2005",
-    "nominees": [
-      "Mike Hopkins",
-      "Ethan Van der Ryn"
-    ],
-    "movies": [
-      {
-        "title": "King Kong",
-        "tmdb_id": 254,
-        "imdb_id": "tt0360717"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2005",
-    "nominees": [
-      "Richard King"
-    ],
-    "movies": [
-      {
-        "title": "War of the Worlds",
-        "tmdb_id": 74,
-        "imdb_id": "tt0407304"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2005",
-    "nominees": [
-      "Wylie Stateman"
-    ],
-    "movies": [
-      {
-        "title": "Memoirs of a Geisha",
-        "tmdb_id": 1904,
-        "imdb_id": "tt0397535"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2005",
-    "nominees": [
-      "Howard Berger",
-      "Tami Lane"
-    ],
-    "movies": [
-      {
-        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-        "tmdb_id": 411,
-        "imdb_id": "tt0363771"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2005",
-    "nominees": [
-      "David Leroy Anderson",
-      "Lance Anderson"
-    ],
-    "movies": [
-      {
-        "title": "Cinderella Man",
-        "tmdb_id": 921,
-        "imdb_id": "tt0352248"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2005",
-    "nominees": [
-      "Dave Elsey",
-      "Nikki Gooley"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars: Episode III - Revenge of the Sith",
-        "tmdb_id": 1895,
-        "imdb_id": "tt0121766"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "Colleen Atwood"
-    ],
-    "movies": [
-      {
-        "title": "Memoirs of a Geisha",
-        "tmdb_id": 1904,
-        "imdb_id": "tt0397535"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "Gabriella Pescucci"
-    ],
-    "movies": [
-      {
-        "title": "Charlie and the Chocolate Factory",
-        "tmdb_id": 118,
-        "imdb_id": "tt0367594"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "Sandy Powell"
-    ],
-    "movies": [
-      {
-        "title": "Mrs. Henderson Presents",
-        "tmdb_id": 10773,
-        "imdb_id": "tt0413015"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "Jacqueline Durran"
-    ],
-    "movies": [
-      {
-        "title": "Pride & Prejudice",
-        "tmdb_id": 4348,
-        "imdb_id": "tt0414387"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2005",
-    "nominees": [
-      "Arianne Phillips"
-    ],
-    "movies": [
-      {
-        "title": "Walk the Line",
-        "tmdb_id": 69,
-        "imdb_id": "tt0358273"
-      }
-    ],
-    "won": false
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Capote",
+    "FilmId": "tt0379725",
+    "Name": "Philip Seymour Hoffman",
+    "Nominees": "Philip Seymour Hoffman",
+    "NomineeIds": "nm0000450",
+    "Winner": "True",
+    "Detail": "Truman Capote",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Hustle & Flow",
+    "FilmId": "tt0410097",
+    "Name": "Terrence Howard",
+    "Nominees": "Terrence Howard",
+    "NomineeIds": "nm0005024",
+    "Winner": "",
+    "Detail": "DJay",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Brokeback Mountain",
+    "FilmId": "tt0388795",
+    "Name": "Heath Ledger",
+    "Nominees": "Heath Ledger",
+    "NomineeIds": "nm0005132",
+    "Winner": "",
+    "Detail": "Ennis Del Mar",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Walk the Line",
+    "FilmId": "tt0358273",
+    "Name": "Joaquin Phoenix",
+    "Nominees": "Joaquin Phoenix",
+    "NomineeIds": "nm0001618",
+    "Winner": "",
+    "Detail": "John R. Cash",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Good Night, and Good Luck.",
+    "FilmId": "tt0433383",
+    "Name": "David Strathairn",
+    "Nominees": "David Strathairn",
+    "NomineeIds": "nm0000657",
+    "Winner": "",
+    "Detail": "Edward R. Murrow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Syriana",
+    "FilmId": "tt0365737",
+    "Name": "George Clooney",
+    "Nominees": "George Clooney",
+    "NomineeIds": "nm0000123",
+    "Winner": "True",
+    "Detail": "Bob Barnes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Crash",
+    "FilmId": "tt0375679",
+    "Name": "Matt Dillon",
+    "Nominees": "Matt Dillon",
+    "NomineeIds": "nm0000369",
+    "Winner": "",
+    "Detail": "Officer Ryan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Cinderella Man",
+    "FilmId": "tt0352248",
+    "Name": "Paul Giamatti",
+    "Nominees": "Paul Giamatti",
+    "NomineeIds": "nm0316079",
+    "Winner": "",
+    "Detail": "Joe Gould",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Brokeback Mountain",
+    "FilmId": "tt0388795",
+    "Name": "Jake Gyllenhaal",
+    "Nominees": "Jake Gyllenhaal",
+    "NomineeIds": "nm0350453",
+    "Winner": "",
+    "Detail": "Jack Twist",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A History of Violence",
+    "FilmId": "tt0399146",
+    "Name": "William Hurt",
+    "Nominees": "William Hurt",
+    "NomineeIds": "nm0000458",
+    "Winner": "",
+    "Detail": "Richie Cusack",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Mrs. Henderson Presents",
+    "FilmId": "tt0413015",
+    "Name": "Judi Dench",
+    "Nominees": "Judi Dench",
+    "NomineeIds": "nm0001132",
+    "Winner": "",
+    "Detail": "Mrs. Laura Henderson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Transamerica",
+    "FilmId": "tt0407265",
+    "Name": "Felicity Huffman",
+    "Nominees": "Felicity Huffman",
+    "NomineeIds": "nm0005031",
+    "Winner": "",
+    "Detail": "Bree",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Pride & Prejudice",
+    "FilmId": "tt0414387",
+    "Name": "Keira Knightley",
+    "Nominees": "Keira Knightley",
+    "NomineeIds": "nm0461136",
+    "Winner": "",
+    "Detail": "Elizabeth Bennet",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "North Country",
+    "FilmId": "tt0395972",
+    "Name": "Charlize Theron",
+    "Nominees": "Charlize Theron",
+    "NomineeIds": "nm0000234",
+    "Winner": "",
+    "Detail": "Josey Aimes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Walk the Line",
+    "FilmId": "tt0358273",
+    "Name": "Reese Witherspoon",
+    "Nominees": "Reese Witherspoon",
+    "NomineeIds": "nm0000702",
+    "Winner": "True",
+    "Detail": "June Carter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Junebug",
+    "FilmId": "tt0418773",
+    "Name": "Amy Adams",
+    "Nominees": "Amy Adams",
+    "NomineeIds": "nm0010736",
+    "Winner": "",
+    "Detail": "Ashley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Capote",
+    "FilmId": "tt0379725",
+    "Name": "Catherine Keener",
+    "Nominees": "Catherine Keener",
+    "NomineeIds": "nm0001416",
+    "Winner": "",
+    "Detail": "Nelle Harper Lee",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "North Country",
+    "FilmId": "tt0395972",
+    "Name": "Frances McDormand",
+    "Nominees": "Frances McDormand",
+    "NomineeIds": "nm0000531",
+    "Winner": "",
+    "Detail": "Glory",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Constant Gardener",
+    "FilmId": "tt0387131",
+    "Name": "Rachel Weisz",
+    "Nominees": "Rachel Weisz",
+    "NomineeIds": "nm0001838",
+    "Winner": "True",
+    "Detail": "Tessa Quayle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Brokeback Mountain",
+    "FilmId": "tt0388795",
+    "Name": "Michelle Williams",
+    "Nominees": "Michelle Williams",
+    "NomineeIds": "nm0931329",
+    "Winner": "",
+    "Detail": "Alma",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Howl's Moving Castle",
+    "FilmId": "tt0347149",
+    "Name": "Hayao Miyazaki",
+    "Nominees": "Hayao Miyazaki",
+    "NomineeIds": "nm0594503",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Tim Burton's Corpse Bride",
+    "FilmId": "tt0121164",
+    "Name": "Mike Johnson and Tim Burton",
+    "Nominees": "Mike Johnson|Tim Burton",
+    "NomineeIds": "nm0425843|nm0000318",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Wallace & Gromit in The Curse of the Were-Rabbit",
+    "FilmId": "tt0312004",
+    "Name": "Nick Park and Steve Box",
+    "Nominees": "Nick Park|Steve Box",
+    "NomineeIds": "nm0661910|nm0101508",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Good Night, and Good Luck.",
+    "FilmId": "tt0433383",
+    "Name": "Art Direction: Jim Bissell; Set Decoration: Jan Pascale",
+    "Nominees": "Jim Bissell|Jan Pascale",
+    "NomineeIds": "nm0084304|nm0664308",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Harry Potter and the Goblet of Fire",
+    "FilmId": "tt0330373",
+    "Name": "Art Direction: Stuart Craig; Set Decoration: Stephenie McMillan",
+    "Nominees": "Stuart Craig|Stephenie McMillan",
+    "NomineeIds": "nm0186023|nm0573328",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "King Kong",
+    "FilmId": "tt0360717",
+    "Name": "Art Direction: Grant Major; Set Decoration: Dan Hennah and Simon Bright",
+    "Nominees": "Grant Major|Dan Hennah|Simon Bright",
+    "NomineeIds": "nm0538194|nm0377172|nm0109186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Memoirs of a Geisha",
+    "FilmId": "tt0397535",
+    "Name": "Art Direction: John Myhre; Set Decoration: Gretchen Rau",
+    "Nominees": "John Myhre|Gretchen Rau",
+    "NomineeIds": "nm0616924|nm0711956",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Pride & Prejudice",
+    "FilmId": "tt0414387",
+    "Name": "Art Direction: Sarah Greenwood; Set Decoration: Katie Spencer",
+    "Nominees": "Sarah Greenwood|Katie Spencer",
+    "NomineeIds": "nm0339391|nm0818005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Batman Begins",
+    "FilmId": "tt0372784",
+    "Name": "Wally Pfister",
+    "Nominees": "Wally Pfister",
+    "NomineeIds": "nm0002892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Brokeback Mountain",
+    "FilmId": "tt0388795",
+    "Name": "Rodrigo Prieto",
+    "Nominees": "Rodrigo Prieto",
+    "NomineeIds": "nm0006509",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Good Night, and Good Luck.",
+    "FilmId": "tt0433383",
+    "Name": "Robert Elswit",
+    "Nominees": "Robert Elswit",
+    "NomineeIds": "nm0005696",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Memoirs of a Geisha",
+    "FilmId": "tt0397535",
+    "Name": "Dion Beebe",
+    "Nominees": "Dion Beebe",
+    "NomineeIds": "nm0066244",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The New World",
+    "FilmId": "tt0402399",
+    "Name": "Emmanuel Lubezki",
+    "Nominees": "Emmanuel Lubezki",
+    "NomineeIds": "nm0523881",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Charlie and the Chocolate Factory",
+    "FilmId": "tt0367594",
+    "Name": "Gabriella Pescucci",
+    "Nominees": "Gabriella Pescucci",
+    "NomineeIds": "nm0675951",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Memoirs of a Geisha",
+    "FilmId": "tt0397535",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Mrs. Henderson Presents",
+    "FilmId": "tt0413015",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Pride & Prejudice",
+    "FilmId": "tt0414387",
+    "Name": "Jacqueline Durran",
+    "Nominees": "Jacqueline Durran",
+    "NomineeIds": "nm0244330",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Walk the Line",
+    "FilmId": "tt0358273",
+    "Name": "Arianne Phillips",
+    "Nominees": "Arianne Phillips",
+    "NomineeIds": "nm0680218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Brokeback Mountain",
+    "FilmId": "tt0388795",
+    "Name": "Ang Lee",
+    "Nominees": "Ang Lee",
+    "NomineeIds": "nm0000487",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Capote",
+    "FilmId": "tt0379725",
+    "Name": "Bennett Miller",
+    "Nominees": "Bennett Miller",
+    "NomineeIds": "nm0587955",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Crash",
+    "FilmId": "tt0375679",
+    "Name": "Paul Haggis",
+    "Nominees": "Paul Haggis",
+    "NomineeIds": "nm0353673",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Good Night, and Good Luck.",
+    "FilmId": "tt0433383",
+    "Name": "George Clooney",
+    "Nominees": "George Clooney",
+    "NomineeIds": "nm0000123",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Munich",
+    "FilmId": "tt0408306",
+    "Name": "Steven Spielberg",
+    "Nominees": "Steven Spielberg",
+    "NomineeIds": "nm0000229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Darwin's Nightmare",
+    "FilmId": "tt0424024",
+    "Name": "Hubert Sauper",
+    "Nominees": "Hubert Sauper",
+    "NomineeIds": "nm0767012",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Enron: The Smartest Guys in the Room",
+    "FilmId": "tt1016268",
+    "Name": "Alex Gibney and Jason Kliot",
+    "Nominees": "Alex Gibney|Jason Kliot",
+    "NomineeIds": "nm0316795|nm0459852",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "March of the Penguins",
+    "FilmId": "tt0428803",
+    "Name": "Luc Jacquet and Yves Darondeau",
+    "Nominees": "Luc Jacquet|Yves Darondeau",
+    "NomineeIds": "nm0415207|nm1818327",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Murderball",
+    "FilmId": "tt0436613",
+    "Name": "Henry-Alex Rubin and Dana Adam Shapiro",
+    "Nominees": "Henry-Alex Rubin|Dana Adam Shapiro",
+    "NomineeIds": "nm0748066|nm1785691",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Street Fight",
+    "FilmId": "tt0457496",
+    "Name": "Marshall Curry",
+    "Nominees": "Marshall Curry",
+    "NomineeIds": "nm1903582",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Death of Kevin Carter: Casualty of the Bang Bang Club",
+    "FilmId": "tt0439676",
+    "Name": "Dan Krauss",
+    "Nominees": "Dan Krauss",
+    "NomineeIds": "nm1830532",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "God Sleeps in Rwanda",
+    "FilmId": "tt0480247",
+    "Name": "Kimberlee Acquaro and Stacy Sherman",
+    "Nominees": "Kimberlee Acquaro|Stacy Sherman",
+    "NomineeIds": "nm2042880|nm1995411",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Mushroom Club",
+    "FilmId": "tt0762119",
+    "Name": "Steven Okazaki",
+    "Nominees": "Steven Okazaki",
+    "NomineeIds": "nm0645574",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Note of Triumph: The Golden Age of Norman Corwin",
+    "FilmId": "tt0491795",
+    "Name": "Corinne Marrinan and Eric Simonson",
+    "Nominees": "Corinne Marrinan|Eric Simonson",
+    "NomineeIds": "nm0550158|nm0800787",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Cinderella Man",
+    "FilmId": "tt0352248",
+    "Name": "Mike Hill and Dan Hanley",
+    "Nominees": "Mike Hill|Dan Hanley",
+    "NomineeIds": "nm0384528|nm0360067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Constant Gardener",
+    "FilmId": "tt0387131",
+    "Name": "Claire Simpson",
+    "Nominees": "Claire Simpson",
+    "NomineeIds": "nm0800943",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Crash",
+    "FilmId": "tt0375679",
+    "Name": "Hughes Winborne",
+    "Nominees": "Hughes Winborne",
+    "NomineeIds": "nm0003893",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Munich",
+    "FilmId": "tt0408306",
+    "Name": "Michael Kahn",
+    "Nominees": "Michael Kahn",
+    "NomineeIds": "nm0434883",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Walk the Line",
+    "FilmId": "tt0358273",
+    "Name": "Michael McCusker",
+    "Nominees": "Michael McCusker",
+    "NomineeIds": "nm0567331",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Don't Tell",
+    "FilmId": "tt0443446",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Joyeux Noël",
+    "FilmId": "tt0424205",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Paradise Now",
+    "FilmId": "tt0445620",
+    "Name": "The Palestinian Territories",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Sophie Scholl - The Final Days",
+    "FilmId": "tt0426578",
+    "Name": "Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Tsotsi",
+    "FilmId": "tt0468565",
+    "Name": "South Africa",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "FilmId": "tt0363771",
+    "Name": "Howard Berger and Tami Lane",
+    "Nominees": "Howard Berger|Tami Lane",
+    "NomineeIds": "nm0074205|nm0485577",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Cinderella Man",
+    "FilmId": "tt0352248",
+    "Name": "David Leroy Anderson and Lance Anderson",
+    "Nominees": "David Leroy Anderson|Lance Anderson",
+    "NomineeIds": "nm0026600|nm0027052",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Star Wars: Episode III Revenge of the Sith",
+    "FilmId": "tt0121766",
+    "Name": "Dave Elsey and Nikki Gooley",
+    "Nominees": "Dave Elsey|Nikki Gooley",
+    "NomineeIds": "nm0255642|nm0329618",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Brokeback Mountain",
+    "FilmId": "tt0388795",
+    "Name": "Gustavo Santaolalla",
+    "Nominees": "Gustavo Santaolalla",
+    "NomineeIds": "nm0763395",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Constant Gardener",
+    "FilmId": "tt0387131",
+    "Name": "Alberto Iglesias",
+    "Nominees": "Alberto Iglesias",
+    "NomineeIds": "nm0407076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Memoirs of a Geisha",
+    "FilmId": "tt0397535",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Munich",
+    "FilmId": "tt0408306",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Pride & Prejudice",
+    "FilmId": "tt0414387",
+    "Name": "Dario Marianelli",
+    "Nominees": "Dario Marianelli",
+    "NomineeIds": "nm0547050",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Crash",
+    "FilmId": "tt0375679",
+    "Name": "Music by Kathleen \\\"Bird\\\" York and Michael Becker; Lyric by Kathleen \\\"Bird\\\" York",
+    "Nominees": "Kathleen \\\"Bird\\\" York|Michael Becker",
+    "NomineeIds": "nm0948723|nm0065528",
+    "Winner": "",
+    "Detail": "In The Deep",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Hustle & Flow",
+    "FilmId": "tt0410097",
+    "Name": "Music and Lyric by Jordan Houston, Cedric Coleman and Paul Beauregard",
+    "Nominees": "Jordan Houston|Cedric Coleman|Paul Beauregard",
+    "NomineeIds": "nm1435812|nm2202418|nm1434516",
+    "Winner": "True",
+    "Detail": "It's Hard Out Here For A Pimp",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Transamerica",
+    "FilmId": "tt0407265",
+    "Name": "Music and Lyric by Dolly Parton",
+    "Nominees": "Dolly Parton",
+    "NomineeIds": "nm0000573",
+    "Winner": "",
+    "Detail": "Travelin' Thru",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Brokeback Mountain",
+    "FilmId": "tt0388795",
+    "Name": "Diana Ossana and James Schamus, Producers",
+    "Nominees": "Diana Ossana|James Schamus",
+    "NomineeIds": "nm0652223|nm0770005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Capote",
+    "FilmId": "tt0379725",
+    "Name": "Caroline Baron, William Vince and Michael Ohoven, Producers",
+    "Nominees": "Caroline Baron|William Vince|Michael Ohoven",
+    "NomineeIds": "nm0056205|nm0898549|nm0645164",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Crash",
+    "FilmId": "tt0375679",
+    "Name": "Paul Haggis and Cathy Schulman, Producers",
+    "Nominees": "Paul Haggis|Cathy Schulman",
+    "NomineeIds": "nm0353673|nm0776072",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Good Night, and Good Luck.",
+    "FilmId": "tt0433383",
+    "Name": "Grant Heslov, Producer",
+    "Nominees": "Grant Heslov",
+    "NomineeIds": "nm0381416",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Munich",
+    "FilmId": "tt0408306",
+    "Name": "Kathleen Kennedy, Steven Spielberg and Barry Mendel, Producers",
+    "Nominees": "Kathleen Kennedy|Steven Spielberg|Barry Mendel",
+    "NomineeIds": "nm0005086|nm0000229|nm0578814",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Badgered",
+    "FilmId": "tt0455912",
+    "Name": "Sharon Colman",
+    "Nominees": "Sharon Colman",
+    "NomineeIds": "nm1880529",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Moon and the Son: An Imagined Conversation",
+    "FilmId": "tt0449619",
+    "Name": "John Canemaker and Peggy Stern",
+    "Nominees": "John Canemaker|Peggy Stern",
+    "NomineeIds": "nm0133866|nm1852268",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Mysterious Geographic Explorations of Jasper Morello",
+    "FilmId": "tt0469146",
+    "Name": "Anthony Lucas",
+    "Nominees": "Anthony Lucas",
+    "NomineeIds": "nm0524077",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": 9,
+    "FilmId": "tt0443424",
+    "Name": "Shane Acker",
+    "Nominees": "Shane Acker",
+    "NomineeIds": "nm0009942",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "One Man Band",
+    "FilmId": "tt0479113",
+    "Name": "Andrew Jimenez and Mark Andrews",
+    "Nominees": "Andrew Jimenez|Mark Andrews",
+    "NomineeIds": "nm1285750|nm0028764",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Ausreisser (The Runaway)",
+    "FilmId": "tt0452139",
+    "Name": "Ulrike Grote",
+    "Nominees": "Ulrike Grote",
+    "NomineeIds": "nm0343826",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Cashback",
+    "FilmId": "tt0409799",
+    "Name": "Sean Ellis and Lene Bausager",
+    "Nominees": "Sean Ellis|Lene Bausager",
+    "NomineeIds": "nm1193346|nm1184392",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Last Farm",
+    "FilmId": "tt0461847",
+    "Name": "Rúnar Rúnarsson and Thor S. Sigurjónsson",
+    "Nominees": "Rúnar Rúnarsson|Thor S. Sigurjónsson",
+    "NomineeIds": "nm1242172|nm0797609",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Our Time Is Up",
+    "FilmId": "tt0427617",
+    "Name": "Rob Pearlstein and Pia Clemente",
+    "Nominees": "Rob Pearlstein|Pia Clemente",
+    "NomineeIds": "nm1745389|nm0166161",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Six Shooter",
+    "FilmId": "tt0425458",
+    "Name": "Martin McDonagh",
+    "Nominees": "Martin McDonagh",
+    "NomineeIds": "nm1732981",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "King Kong",
+    "FilmId": "tt0360717",
+    "Name": "Mike Hopkins and Ethan Van der Ryn",
+    "Nominees": "Mike Hopkins|Ethan Van der Ryn",
+    "NomineeIds": "nm0394243|nm0886399",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Memoirs of a Geisha",
+    "FilmId": "tt0397535",
+    "Name": "Wylie Stateman",
+    "Nominees": "Wylie Stateman",
+    "NomineeIds": "nm0823758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "War of the Worlds",
+    "FilmId": "tt0407304",
+    "Name": "Richard King",
+    "Nominees": "Richard King",
+    "NomineeIds": "nm0455185",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "FilmId": "tt0363771",
+    "Name": "Terry Porter, Dean A. Zupancic and Tony Johnson",
+    "Nominees": "Terry Porter|Dean A. Zupancic|Tony Johnson",
+    "NomineeIds": "nm0692310|nm0958711|nm0426357",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "King Kong",
+    "FilmId": "tt0360717",
+    "Name": "Christopher Boyes, Michael Semanick, Michael Hedges and Hammond Peek",
+    "Nominees": "Christopher Boyes|Michael Semanick|Michael Hedges|Hammond Peek",
+    "NomineeIds": "nm0102110|nm0783713|nm0373276|nm0003827",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Memoirs of a Geisha",
+    "FilmId": "tt0397535",
+    "Name": "Kevin O'Connell, Greg P. Russell, Rick Kline and John Pritchett",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Rick Kline|John Pritchett",
+    "NomineeIds": "nm0640114|nm0751169|nm0459662|nm0698099",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Walk the Line",
+    "FilmId": "tt0358273",
+    "Name": "Paul Massey, D.M. Hemphill and Peter F. Kurland",
+    "Nominees": "Paul Massey|D.M. Hemphill|Peter F. Kurland",
+    "NomineeIds": "nm0557338|nm0376153|nm0004212",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "War of the Worlds",
+    "FilmId": "tt0407304",
+    "Name": "Andy Nelson, Anna Behlmer and Ronald Judkins",
+    "Nominees": "Andy Nelson|Anna Behlmer|Ronald Judkins",
+    "NomineeIds": "nm0625144|nm0066933|nm0431954",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "FilmId": "tt0363771",
+    "Name": "Dean Wright, Bill Westenhofer, Jim Berney and Scott Farrar",
+    "Nominees": "Dean Wright|Bill Westenhofer|Jim Berney|Scott Farrar",
+    "NomineeIds": "nm0942331|nm0922543|nm0076737|nm0268141",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "King Kong",
+    "FilmId": "tt0360717",
+    "Name": "Joe Letteri, Brian Van't Hul, Christian Rivers and Richard Taylor",
+    "Nominees": "Joe Letteri|Brian Van't Hul|Christian Rivers|Richard Taylor",
+    "NomineeIds": "nm0504784|nm0401314|nm0729514|nm0853050",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "War of the Worlds",
+    "FilmId": "tt0407304",
+    "Name": "Dennis Muren, Pablo Helman, Randal M. Dutra and Daniel Sudick",
+    "Nominees": "Dennis Muren|Pablo Helman|Randal M. Dutra|Daniel Sudick",
+    "NomineeIds": "nm0613830|nm0375666|nm0244833|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Brokeback Mountain",
+    "FilmId": "tt0388795",
+    "Name": "Screenplay by Larry McMurtry & Diana Ossana",
+    "Nominees": "Larry McMurtry|Diana Ossana",
+    "NomineeIds": "nm0573505|nm0652223",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Capote",
+    "FilmId": "tt0379725",
+    "Name": "Screenplay by Dan Futterman",
+    "Nominees": "Dan Futterman",
+    "NomineeIds": "nm0001246",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Constant Gardener",
+    "FilmId": "tt0387131",
+    "Name": "Screenplay by Jeffrey Caine",
+    "Nominees": "Jeffrey Caine",
+    "NomineeIds": "nm0128997",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "A History of Violence",
+    "FilmId": "tt0399146",
+    "Name": "Screenplay by Josh Olson",
+    "Nominees": "Josh Olson",
+    "NomineeIds": "nm0647939",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Munich",
+    "FilmId": "tt0408306",
+    "Name": "Screenplay by Tony Kushner and Eric Roth",
+    "Nominees": "Tony Kushner|Eric Roth",
+    "NomineeIds": "nm1065785|nm0744839",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Crash",
+    "FilmId": "tt0375679",
+    "Name": "Screenplay by Paul Haggis & Bobby Moresco; Story by Paul Haggis",
+    "Nominees": "Paul Haggis|Bobby Moresco",
+    "NomineeIds": "nm0353673|nm0604263",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Good Night, and Good Luck.",
+    "FilmId": "tt0433383",
+    "Name": "Screenplay by George Clooney & Grant Heslov",
+    "Nominees": "George Clooney|Grant Heslov",
+    "NomineeIds": "nm0000123|nm0381416",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Match Point",
+    "FilmId": "tt0416320",
+    "Name": "Written by Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Squid and the Whale",
+    "FilmId": "tt0367089",
+    "Name": "Written by Noah Baumbach",
+    "Nominees": "Noah Baumbach",
+    "NomineeIds": "nm0000876",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Syriana",
+    "FilmId": "tt0365737",
+    "Name": "Written by Stephen Gaghan",
+    "Nominees": "Stephen Gaghan",
+    "NomineeIds": "nm0300866",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Robert Altman",
+    "NomineeIds": "nm0000265",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Robert Altman in recognition of a career that has repeatedly reinvented the art form and inspired filmmakers and audiences alike."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gary Demos",
+    "NomineeIds": "nm1164179",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Gary Demos"
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Grober|Scott Lewallen",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "Perfect Horizon effectively neutralizes the extraneous motion encountered in boats, camera cars, snowmobiles or other vehicles, leaving the pan/tilt head and camera stable and level with the horizon.",
+    "Citation": "To DAVID GROBER for the concept and mechanical design and SCOTT LEWALLEN for the electronic and software design of the Perfect Horizon camera stabilization head."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Anatoliy Kokush|Yuriy Popovsky|Oleksiy Zolotarov",
+    "NomineeIds": "nm4624648|?|nm4164200",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "The Russian Arm and Flight Head opened new possibilities for filmmakers. With the ability to be mounted on the roof of almost any car, this remotely-operated crane and camera head can move smoothly in a 360 degree circle around the car, even while it is being driven at high speeds by actors, creating heretofore impossible perspectives.",
+    "Citation": "To ANATOLIY KOKUSH, YURIY POPOVSKY and OLEKSIY ZOLOTAROV for the concept and development of the Russian Arm gyro-stabilized camera crane and the Flight Head."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Anatoliy Kokush",
+    "NomineeIds": "nm4624648",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "The lightweight structure of the Cascade and Traveling Cascade Cranes enables the filmmaker to achieve heights of up to 70 feet, allowing for the placement of the camera in otherwise impossible locations.",
+    "Citation": "To ANATOLIY KOKUSH for the concept and development of the Cascade series of motion picture cranes."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Garrett Brown",
+    "NomineeIds": "nm0113593",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "In creating the first remote-controlled, cable-supported flying camera system, Garrett Brown's pioneering efforts have influenced all subsequent development in this area of technology.",
+    "Citation": "To GARRETT BROWN for the original concept of the Skycam flying camera system -- the first use of 3-D volumetric cable technology for motion picture cinematography."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Baraff|Michael Kass|Andrew Witkin",
+    "NomineeIds": "nm1071982|nm0440791|nm0936793",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Their 1998 paper titled \\\"Large Steps in Cloth Simulation\\\" was a seminal work, providing the key in demonstrating to the industry that the calculations necessary to simulate realistic, complex cloth could be achieved efficiently and robustly. Their work provided the conceptual foundation for many cloth simulation systems in use today.",
+    "Citation": "To DAVID BARAFF, MICHAEL KASS and ANDREW WITKIN for their pioneering work in physically-based computer-generated techniques used to simulate realistic cloth in motion pictures."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Laurie Frost|Peter Hannan|Richard Loncraine",
+    "NomineeIds": "nm0296531|nm0360346|?",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "In use for over a quarter of a century, the Hot-Head has brought the possibility of safe, remotely-operated shots to every filmmaker.",
+    "Citation": "To LAURIE FROST, PETER HANNAN and RICHARD LONCRAINE for the development of the remote camera head known as the Hot-Head."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gary Thieltges",
+    "NomineeIds": "nm0857982",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "This well-integrated remote system enables filmmakers to remotely pan and tilt their camera from virtually any moving vehicle, giving the opportunity for unprecedented dynamic camera angles.",
+    "Citation": "To GARY THIELTGES for the design and development of the remotely-operated, lightweight camera head known as the Sparrow Head."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Frank Fletcher|Dave Sherwin",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "The Power Pod system enables filmmakers to configure a remote controlled head to meet their own unique requirements.",
+    "Citation": "To FRANK FLETCHER and DAVE SHERWIN for the introduction and continuing development of the Power Pod modular camera head system."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Alvah Miller|Michael Sorensen|J. Walt Adamczyk",
+    "NomineeIds": "nm0587868|?|?",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "This remote head not only serves the needs of the live-action filmmaker, but also provides the functionality of a motion-controlled head, allowing for sophisticated tiling and pre-visualization techniques.",
+    "Citation": "To ALVAH MILLER, MICHAEL SORENSEN and J. WALT ADAMCZYK for the design and development of the Aerohead motion control camera head and the J-Viz Pre-Visualization system."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Scott Leva",
+    "NomineeIds": "nm0505119",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "The Precision Stunt Airbag is designed to envelop the stunt jumper, even on off-center hits. This feature serves to enhance the safety of stunt performers in falls from up to 200 feet.",
+    "Citation": "To SCOTT LEVA for the design and development of the Precision Stunt Airbag for motion picture stunt falls."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Lev Yevstratov|George Peters|Vasiliy Orlov",
+    "NomineeIds": "nm3122411|nm0676441|nm6208165",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "Representing a significant evolutionary improvement in camera car technology, this remotely-controlled, gyro-stabilized and flexible camera crane offers a highly stable platform for high-speed, rough terrain action shots. Its ingenious applications of sophisticated technology solve many of the problems inherent in chase vehicle filming.",
+    "Citation": "To LEV YEVSTRATOV, GEORGE PETERS and VASILIY ORLOV for the development of the Ultimate Arm Camera Crane System for specialized vehicle photography."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James Rodnunsky|ALEX MacDONALD|Mark Chapman",
+    "NomineeIds": "nm0734951|nm1223275|nm1839441",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "The evolution of the Cablecam technology has made it possible to move a camera safely and accurately anywhere through a three-dimensional space.",
+    "Citation": "To JAMES RODNUNSKY, ALEX MacDONALD and MARK CHAPMAN for the development of the Cablecam 3-D volumetric suspended cable camera technologies."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Tim Drnec|Ben Britten Smith|Matt Davis",
+    "NomineeIds": "nm0238151|nm1413522|nm1491690",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "The evolution of the Spydercam technology has made it possible to move a camera safely and accurately anywhere through a three-dimensional space.",
+    "Citation": "To TIM DRNEC, BEN BRITTEN SMITH and MATT DAVIS for the development of the Spydercam 3-D volumetric suspended cable camera technologies."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Platt|Demetri Terzopoulos",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Their 1987 paper \\\"Elastically Deformable Models\\\" was a milestone in computer graphics, introducing the concept of physically-based techniques to simulate moving, deforming objects.",
+    "Citation": "To JOHN PLATT and DEMETRI TERZOPOULOS for their pioneering work in physically-based computer-generated techniques used to simulate realistic cloth in motion pictures."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ed Catmull|TONY DeROSE|Jos Stam",
+    "NomineeIds": "nm0146216|nm0220540|?",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Subdivision surfaces have become a preferred modeling primitive for many types of motion picture computer graphics.",
+    "Citation": "To ED CATMULL, for the original concept, and TONY DeROSE and JOS STAM for their scientific and practical implementation of subdivision surfaces as a modeling technique in motion picture production."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Harold Rattray|Terry Claborn|Steve Garlick|Bill Hogue|Tim Reynolds",
+    "NomineeIds": "?|nm0163087|?|?|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "This system provides a method by which filmmakers can preview real-time color corrections using actual film prints, reducing both the turnaround time and the number of reprints required.",
+    "Citation": "To HAROLD RATTRAY, TERRY CLABORN, STEVE GARLICK, BILL HOGUE and TIM REYNOLDS for the design, engineering and implementation of the Technicolor Real Time Answer Print System."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Udo Schauss|Hildegard Ebbesmeier|Nicole Wemken|Michael Anderer",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "The Cinelux Premiere Lenses incorporate an iris and aspheric elements which provide a more uniform modulation transfer function and better light transmission to the sides and corners of the theater projection screen. This reduces the traditional problems of softness in the corners, hot-spotting and varying brightness between film formats.",
+    "Citation": "To UDO SCHAUSS and HILDEGARD EBBESMEIER for the optical design and NICOLE WEMKEN and MICHAEL ANDERER for the mechanical design of the Cinelux Premiere Cinema Projection Lenses."
+  },
+  {
+    "Ceremony": 78,
+    "Year": 2005,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Don Hall",
+    "NomineeIds": "nm0355249",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Don Hall in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

@@ -1,1869 +1,2162 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2018",
-        "nominees": [
-            "Green Book"
-        ],
-        "movies": [
-            {
-                "title": "Green Book",
-                "tmdb_id": 490132,
-                "imdb_id": "tt6966692"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2018",
-        "nominees": [
-            "BlackKklansman"
-        ],
-        "movies": [
-            {
-                "title": "BlacKkKlansman",
-                "tmdb_id": 487558,
-                "imdb_id": "tt7349662"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2018",
-        "nominees": [
-            "Bohemian Rhapsody"
-        ],
-        "movies": [
-            {
-                "title": "Bohemian Rhapsody",
-                "tmdb_id": 424694,
-                "imdb_id": "tt1727824"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2018",
-        "nominees": [
-            "The Favourite"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2018",
-        "nominees": [
-            "Black Panther"
-        ],
-        "movies": [
-            {
-                "title": "Black Panther",
-                "tmdb_id": 284054,
-                "imdb_id": "tt1825683"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2018",
-        "nominees": [
-            "Roma"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2018",
-        "nominees": [
-            "A Star is Born"
-        ],
-        "movies": [
-            {
-                "title": "A Star Is Born",
-                "tmdb_id": 332562,
-                "imdb_id": "tt1517451"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2018",
-        "nominees": [
-            "Vice"
-        ],
-        "movies": [
-            {
-                "title": "Vice",
-                "tmdb_id": 429197,
-                "imdb_id": "tt6266538"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2018",
-        "nominees": [
-            "Rami Malek"
-        ],
-        "movies": [
-            {
-                "title": "Bohemian Rhapsody",
-                "tmdb_id": 424694,
-                "imdb_id": "tt1727824"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2018",
-        "nominees": [
-            "Bradley Cooper"
-        ],
-        "movies": [
-            {
-                "title": "A Star Is Born",
-                "tmdb_id": 332562,
-                "imdb_id": "tt1517451"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2018",
-        "nominees": [
-            "Christian Bale"
-        ],
-        "movies": [
-            {
-                "title": "Vice",
-                "tmdb_id": 429197,
-                "imdb_id": "tt6266538"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2018",
-        "nominees": [
-            "Willem Dafoe"
-        ],
-        "movies": [
-            {
-                "title": "At Eternity's Gate",
-                "tmdb_id": 491472,
-                "imdb_id": "tt6938828"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2018",
-        "nominees": [
-            "Viggo Mortensen"
-        ],
-        "movies": [
-            {
-                "title": "Green Book",
-                "tmdb_id": 490132,
-                "imdb_id": "tt6966692"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2018",
-        "nominees": [
-            "Olivia Colman"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2018",
-        "nominees": [
-            "Glenn Close"
-        ],
-        "movies": [
-            {
-                "title": "The Wife",
-                "tmdb_id": 340613,
-                "imdb_id": "tt3750872"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2018",
-        "nominees": [
-            "Yalitza Aparicio"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2018",
-        "nominees": [
-            "Melissa McCarthy"
-        ],
-        "movies": [
-            {
-                "title": "Can You Ever Forgive Me?",
-                "tmdb_id": 401847,
-                "imdb_id": "tt4595882"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2018",
-        "nominees": [
-            "Lady Gaga"
-        ],
-        "movies": [
-            {
-                "title": "A Star Is Born",
-                "tmdb_id": 332562,
-                "imdb_id": "tt1517451"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2018",
-        "nominees": [
-            "Mahershala Ali"
-        ],
-        "movies": [
-            {
-                "title": "Green Book",
-                "tmdb_id": 490132,
-                "imdb_id": "tt6966692"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2018",
-        "nominees": [
-            "Richard E. Grant"
-        ],
-        "movies": [
-            {
-                "title": "Can You Ever Forgive Me?",
-                "tmdb_id": 401847,
-                "imdb_id": "tt4595882"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2018",
-        "nominees": [
-            "Sam Elliot"
-        ],
-        "movies": [
-            {
-                "title": "A Star Is Born",
-                "tmdb_id": 332562,
-                "imdb_id": "tt1517451"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2018",
-        "nominees": [
-            "Adam Driver"
-        ],
-        "movies": [
-            {
-                "title": "BlacKkKlansman",
-                "tmdb_id": 487558,
-                "imdb_id": "tt7349662"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2018",
-        "nominees": [
-            "Sam Rockwell"
-        ],
-        "movies": [
-            {
-                "title": "Vice",
-                "tmdb_id": 429197,
-                "imdb_id": "tt6266538"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2018",
-        "nominees": [
-            "Regina King"
-        ],
-        "movies": [
-            {
-                "title": "If Beale Street Could Talk",
-                "tmdb_id": 465914,
-                "imdb_id": "tt7125860"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2018",
-        "nominees": [
-            "Amy Adams"
-        ],
-        "movies": [
-            {
-                "title": "Vice",
-                "tmdb_id": 429197,
-                "imdb_id": "tt6266538"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2018",
-        "nominees": [
-            "Marina de Tavira"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2018",
-        "nominees": [
-            "Rachel Weisz"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2018",
-        "nominees": [
-            "Emma Stone"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2018",
-        "nominees": [
-            "Alfonso Cuaron"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2018",
-        "nominees": [
-            "Yorgos Lanthimos"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2018",
-        "nominees": [
-            "Pawel Pawlikowski"
-        ],
-        "movies": [
-            {
-                "title": "Cold War",
-                "tmdb_id": 440298,
-                "imdb_id": "tt6543652"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2018",
-        "nominees": [
-            "Adam McKay"
-        ],
-        "movies": [
-            {
-                "title": "Vice",
-                "tmdb_id": 429197,
-                "imdb_id": "tt6266538"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2018",
-        "nominees": [
-            "Spike Lee"
-        ],
-        "movies": [
-            {
-                "title": "BlacKkKlansman",
-                "tmdb_id": 487558,
-                "imdb_id": "tt7349662"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Charlie Wachtel",
-            "David Rabinowitz",
-            "Kevin Willmott",
-            "Spike Lee"
-        ],
-        "movies": [
-            {
-                "title": "BlacKkKlansman",
-                "tmdb_id": 487558,
-                "imdb_id": "tt7349662"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Joel Coen",
-            "Ethan Coen"
-        ],
-        "movies": [
-            {
-                "title": "The Ballad of Buster Scruggs",
-                "tmdb_id": 537996,
-                "imdb_id": "tt6412452"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Barry Jenkins"
-        ],
-        "movies": [
-            {
-                "title": "If Beale Street Could Talk",
-                "tmdb_id": 465914,
-                "imdb_id": "tt7125860"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Nicole Holofcener",
-            "Jeff Whitty"
-        ],
-        "movies": [
-            {
-                "title": "Can You Ever Forgive Me?",
-                "tmdb_id": 401847,
-                "imdb_id": "tt4595882"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Eric Roth",
-            "Bradley Cooper",
-            "Will Fetters"
-        ],
-        "movies": [
-            {
-                "title": "A Star Is Born",
-                "tmdb_id": 332562,
-                "imdb_id": "tt1517451"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Nick Vallelonga",
-            "Brian Currie",
-            "Peter Farrelly"
-        ],
-        "movies": [
-            {
-                "title": "Green Book",
-                "tmdb_id": 490132,
-                "imdb_id": "tt6966692"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Deborah Davis",
-            "Tony McNamara"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Paul Schrader"
-        ],
-        "movies": [
-            {
-                "title": "First Reformed",
-                "tmdb_id": 458737,
-                "imdb_id": "tt6053438"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Alfonso Cuaron"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2018",
-        "nominees": [
-            "Adam McKay"
-        ],
-        "movies": [
-            {
-                "title": "Vice",
-                "tmdb_id": 429197,
-                "imdb_id": "tt6266538"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2018",
-        "nominees": [
-            "Ludwig Goransson"
-        ],
-        "movies": [
-            {
-                "title": "Black Panther",
-                "tmdb_id": 284054,
-                "imdb_id": "tt1825683"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2018",
-        "nominees": [
-            "Terence Blanchard"
-        ],
-        "movies": [
-            {
-                "title": "BlacKkKlansman",
-                "tmdb_id": 487558,
-                "imdb_id": "tt7349662"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2018",
-        "nominees": [
-            "Nicholas Britell"
-        ],
-        "movies": [
-            {
-                "title": "If Beale Street Could Talk",
-                "tmdb_id": 465914,
-                "imdb_id": "tt7125860"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2018",
-        "nominees": [
-            "Alexandre Desplat"
-        ],
-        "movies": [
-            {
-                "title": "Isle of Dogs",
-                "tmdb_id": 399174,
-                "imdb_id": "tt5104604"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2018",
-        "nominees": [
-            "Marc Shaiman"
-        ],
-        "movies": [
-            {
-                "title": "Mary Poppins Returns",
-                "tmdb_id": 400650,
-                "imdb_id": "tt5028340"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2018",
-        "nominees": [
-            "Shallow"
-        ],
-        "movies": [
-            {
-                "title": "A Star Is Born",
-                "tmdb_id": 332562,
-                "imdb_id": "tt1517451"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2018",
-        "nominees": [
-            "All the Stars"
-        ],
-        "movies": [
-            {
-                "title": "Black Panther",
-                "tmdb_id": 284054,
-                "imdb_id": "tt1825683"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2018",
-        "nominees": [
-            "I'll Fight"
-        ],
-        "movies": [
-            {
-                "title": "RBG",
-                "tmdb_id": 493099,
-                "imdb_id": "tt7689964"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2018",
-        "nominees": [
-            "The Place Where Lost Things Go"
-        ],
-        "movies": [
-            {
-                "title": "Mary Poppins Returns",
-                "tmdb_id": 400650,
-                "imdb_id": "tt5028340"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2018",
-        "nominees": [
-            "When A Cowboy Trades His Spurs for Wings"
-        ],
-        "movies": [
-            {
-                "title": "The Ballad of Buster Scruggs",
-                "tmdb_id": 537996,
-                "imdb_id": "tt6412452"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2018",
-        "nominees": [
-            "Roma"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2018",
-        "nominees": [
-            "Capernaum"
-        ],
-        "movies": [
-            {
-                "title": "Capernaum",
-                "tmdb_id": 517814,
-                "imdb_id": "tt8267604"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2018",
-        "nominees": [
-            "Cold War"
-        ],
-        "movies": [
-            {
-                "title": "Cold War",
-                "tmdb_id": 440298,
-                "imdb_id": "tt6543652"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2018",
-        "nominees": [
-            "Never Look Away"
-        ],
-        "movies": [
-            {
-                "title": "Never Look Away",
-                "tmdb_id": 423612,
-                "imdb_id": "tt5311542"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2018",
-        "nominees": [
-            "Shoplifters"
-        ],
-        "movies": [
-            {
-                "title": "Shoplifters",
-                "tmdb_id": 505192,
-                "imdb_id": "tt8075192"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2018",
-        "nominees": [
-            "Free Solo"
-        ],
-        "movies": [
-            {
-                "title": "Free Solo",
-                "tmdb_id": 515042,
-                "imdb_id": "tt7775622"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2018",
-        "nominees": [
-            "RBG"
-        ],
-        "movies": [
-            {
-                "title": "RBG",
-                "tmdb_id": 493099,
-                "imdb_id": "tt7689964"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2018",
-        "nominees": [
-            "Hale County This Morning, This Evening"
-        ],
-        "movies": [
-            {
-                "title": "Hale County This Morning, This Evening",
-                "tmdb_id": 490785,
-                "imdb_id": "tt6634646"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2018",
-        "nominees": [
-            "Minding the Gap"
-        ],
-        "movies": [
-            {
-                "title": "Minding the Gap",
-                "tmdb_id": 489985,
-                "imdb_id": "tt7476236"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2018",
-        "nominees": [
-            "Of Fathers and Sons"
-        ],
-        "movies": [
-            {
-                "title": "Of Fathers and Sons",
-                "tmdb_id": 488740,
-                "imdb_id": "tt7519174"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2018",
-        "nominees": [
-            "Period. End of Sentence."
-        ],
-        "movies": [
-            {
-                "title": "Period. End of Sentence.",
-                "tmdb_id": 524288,
-                "imdb_id": "tt6939026"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2018",
-        "nominees": [
-            "End Game"
-        ],
-        "movies": [
-            {
-                "title": "End Game",
-                "tmdb_id": 510258,
-                "imdb_id": "tt7879350"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2018",
-        "nominees": [
-            "Lifeboat"
-        ],
-        "movies": [
-            {
-                "title": "Lifeboat",
-                "tmdb_id": 543809,
-                "imdb_id": "tt7446332"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2018",
-        "nominees": [
-            "A Night at the Garden"
-        ],
-        "movies": [
-            {
-                "title": "A Night at the Garden",
-                "tmdb_id": 480429,
-                "imdb_id": "tt7535612"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2018",
-        "nominees": [
-            "Black Sheep"
-        ],
-        "movies": [
-            {
-                "title": "Black Sheep",
-                "tmdb_id": 543803,
-                "imdb_id": "tt7440094"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2018",
-        "nominees": [
-            "Spider-Man: Into the Spider-Verse"
-        ],
-        "movies": [
-            {
-                "title": "Spider-Man: Into the Spider-Verse",
-                "tmdb_id": 324857,
-                "imdb_id": "tt4633694"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2018",
-        "nominees": [
-            "Incredibles 2"
-        ],
-        "movies": [
-            {
-                "title": "Incredibles 2",
-                "tmdb_id": 260513,
-                "imdb_id": "tt3606756"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2018",
-        "nominees": [
-            "Mirai"
-        ],
-        "movies": [
-            {
-                "title": "Mirai",
-                "tmdb_id": 475215,
-                "imdb_id": "tt6900448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2018",
-        "nominees": [
-            "Isle of Dogs"
-        ],
-        "movies": [
-            {
-                "title": "Isle of Dogs",
-                "tmdb_id": 399174,
-                "imdb_id": "tt5104604"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2018",
-        "nominees": [
-            "Ralph Breaks the Internet"
-        ],
-        "movies": [
-            {
-                "title": "Ralph Breaks the Internet",
-                "tmdb_id": 404368,
-                "imdb_id": "tt5848272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2018",
-        "nominees": [
-            "Bao"
-        ],
-        "movies": [
-            {
-                "title": "Bao",
-                "tmdb_id": 514754,
-                "imdb_id": "tt8075496"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2018",
-        "nominees": [
-            "Animal Behaviour"
-        ],
-        "movies": [
-            {
-                "title": "Animal Behaviour",
-                "tmdb_id": 511138,
-                "imdb_id": "tt8615478"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2018",
-        "nominees": [
-            "Late Afternoon"
-        ],
-        "movies": [
-            {
-                "title": "Late Afternoon",
-                "tmdb_id": 500688,
-                "imdb_id": "tt7077824"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2018",
-        "nominees": [
-            "One Small Step"
-        ],
-        "movies": [
-            {
-                "title": "One Small Step",
-                "tmdb_id": 549484,
-                "imdb_id": "tt8783042"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2018",
-        "nominees": [
-            "Weekends"
-        ],
-        "movies": [
-            {
-                "title": "Weekends",
-                "tmdb_id": 1018418,
-                "imdb_id": "tt10075404"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2018",
-        "nominees": [
-            "Skin"
-        ],
-        "movies": [
-            {
-                "title": "Skin",
-                "tmdb_id": 569485,
-                "imdb_id": "tt7332306"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2018",
-        "nominees": [
-            "Fauve"
-        ],
-        "movies": [
-            {
-                "title": "Fauve",
-                "tmdb_id": 504969,
-                "imdb_id": "tt7467476"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2018",
-        "nominees": [
-            "Marguerite"
-        ],
-        "movies": [
-            {
-                "title": "Marguerite",
-                "tmdb_id": 487625,
-                "imdb_id": "tt6803040"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2018",
-        "nominees": [
-            "Mother"
-        ],
-        "movies": [
-            {
-                "title": "Mother",
-                "tmdb_id": 466874,
-                "imdb_id": "tt6597824"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2018",
-        "nominees": [
-            "Detainment"
-        ],
-        "movies": [
-            {
-                "title": "Detainment",
-                "tmdb_id": 569499,
-                "imdb_id": "tt6813264"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "Hannah Beachler",
-            "Jay Hart"
-        ],
-        "movies": [
-            {
-                "title": "Black Panther",
-                "tmdb_id": 284054,
-                "imdb_id": "tt1825683"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "Fiona Crombie",
-            "Alice Felton"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "Nathan Crowley",
-            "Kathy Lucas"
-        ],
-        "movies": [
-            {
-                "title": "First Man",
-                "tmdb_id": 369972,
-                "imdb_id": "tt1213641"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "John Myhre",
-            "Gordon Sim"
-        ],
-        "movies": [
-            {
-                "title": "Mary Poppins Returns",
-                "tmdb_id": 400650,
-                "imdb_id": "tt5028340"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "Eugenio Caballero",
-            "Barbara Enriquez"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2018",
-        "nominees": [
-            "Alfonso Cuaron"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2018",
-        "nominees": [
-            "Robbie Ryan"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2018",
-        "nominees": [
-            "Caleb Deschanel"
-        ],
-        "movies": [
-            {
-                "title": "Never Look Away",
-                "tmdb_id": 423612,
-                "imdb_id": "tt5311542"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2018",
-        "nominees": [
-            "Lukas Zal"
-        ],
-        "movies": [
-            {
-                "title": "Cold War",
-                "tmdb_id": 440298,
-                "imdb_id": "tt6543652"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2018",
-        "nominees": [
-            "Matthew Libatique"
-        ],
-        "movies": [
-            {
-                "title": "A Star Is Born",
-                "tmdb_id": 332562,
-                "imdb_id": "tt1517451"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2018",
-        "nominees": [
-            "John Ottman"
-        ],
-        "movies": [
-            {
-                "title": "Bohemian Rhapsody",
-                "tmdb_id": 424694,
-                "imdb_id": "tt1727824"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2018",
-        "nominees": [
-            "Barry Alexander Brown"
-        ],
-        "movies": [
-            {
-                "title": "BlacKkKlansman",
-                "tmdb_id": 487558,
-                "imdb_id": "tt7349662"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2018",
-        "nominees": [
-            "Patrick J. Don Vito"
-        ],
-        "movies": [
-            {
-                "title": "Green Book",
-                "tmdb_id": 490132,
-                "imdb_id": "tt6966692"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2018",
-        "nominees": [
-            "Yorgos Mavropsaridis"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2018",
-        "nominees": [
-            "Hank Corwin"
-        ],
-        "movies": [
-            {
-                "title": "Vice",
-                "tmdb_id": 429197,
-                "imdb_id": "tt6266538"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2018",
-        "nominees": [
-            "Paul Lambert",
-            "Ian Hunter",
-            "Tristan Myles",
-            "J. D. Schwalm"
-        ],
-        "movies": [
-            {
-                "title": "First Man",
-                "tmdb_id": 369972,
-                "imdb_id": "tt1213641"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2018",
-        "nominees": [
-            "Christopher Lawrence",
-            "Michael Eames",
-            "Theo Jones",
-            "Chris Corbould"
-        ],
-        "movies": [
-            {
-                "title": "Christopher Robin",
-                "tmdb_id": 420814,
-                "imdb_id": "tt4575576"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2018",
-        "nominees": [
-            "Dan DeLeeuw",
-            "Kelly Port",
-            "Russell Earl",
-            "Dan Sudick"
-        ],
-        "movies": [
-            {
-                "title": "Avengers: Infinity War",
-                "tmdb_id": 299536,
-                "imdb_id": "tt4154756"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2018",
-        "nominees": [
-            "Roger Guyett",
-            "Grady Cofer",
-            "Matthew E. Butler",
-            "Dave Shirk"
-        ],
-        "movies": [
-            {
-                "title": "Ready Player One",
-                "tmdb_id": 333339,
-                "imdb_id": "tt1677720"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2018",
-        "nominees": [
-            "Rob Bredow",
-            "Patrick Tubach",
-            "Neil Scanlan",
-            "Dominic Tuohy"
-        ],
-        "movies": [
-            {
-                "title": "Solo: A Star Wars Story",
-                "tmdb_id": 348350,
-                "imdb_id": "tt3778644"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2018",
-        "nominees": [
-            "John Warhurst",
-            "Nina Hartstone"
-        ],
-        "movies": [
-            {
-                "title": "Bohemian Rhapsody",
-                "tmdb_id": 424694,
-                "imdb_id": "tt1727824"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2018",
-        "nominees": [
-            "Benjamin A. Burtt",
-            "Steve Boeddeker"
-        ],
-        "movies": [
-            {
-                "title": "Black Panther",
-                "tmdb_id": 284054,
-                "imdb_id": "tt1825683"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2018",
-        "nominees": [
-            "Ai-Ling Lee",
-            "Mildred Iatrou Morgan"
-        ],
-        "movies": [
-            {
-                "title": "First Man",
-                "tmdb_id": 369972,
-                "imdb_id": "tt1213641"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2018",
-        "nominees": [
-            "Ethan Van der Ryn",
-            "Erik Aadahl"
-        ],
-        "movies": [
-            {
-                "title": "A Quiet Place",
-                "tmdb_id": 447332,
-                "imdb_id": "tt6644200"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2018",
-        "nominees": [
-            "Sergio Diaz",
-            "Skip Lievsay"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2018",
-        "nominees": [
-            "Paul Massey",
-            "Tim Cavagin",
-            "John Casali"
-        ],
-        "movies": [
-            {
-                "title": "Bohemian Rhapsody",
-                "tmdb_id": 424694,
-                "imdb_id": "tt1727824"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2018",
-        "nominees": [
-            "Steve Boeddeker",
-            "Brandon Proctor",
-            "Peter Devlin"
-        ],
-        "movies": [
-            {
-                "title": "Black Panther",
-                "tmdb_id": 284054,
-                "imdb_id": "tt1825683"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2018",
-        "nominees": [
-            "Jon Taylor",
-            "Frank A. Montano",
-            "Ai-Ling Lee",
-            "Mary H. Ellis"
-        ],
-        "movies": [
-            {
-                "title": "First Man",
-                "tmdb_id": 369972,
-                "imdb_id": "tt1213641"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2018",
-        "nominees": [
-            "Tom Ozanich",
-            "Dean Zupancic",
-            "Jason Ruder",
-            "Steve Morrow"
-        ],
-        "movies": [
-            {
-                "title": "A Star Is Born",
-                "tmdb_id": 332562,
-                "imdb_id": "tt1517451"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2018",
-        "nominees": [
-            "Skip Lievsay",
-            "Craig Henighan",
-            "Jose Antonio Garcia"
-        ],
-        "movies": [
-            {
-                "title": "Roma",
-                "tmdb_id": 426426,
-                "imdb_id": "tt6155172"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2018",
-        "nominees": [
-            "Greg Cannom",
-            "Kate Biscoe",
-            "Patricia Dehaney"
-        ],
-        "movies": [
-            {
-                "title": "Vice",
-                "tmdb_id": 429197,
-                "imdb_id": "tt6266538"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2018",
-        "nominees": [
-            "Jenny Shircore",
-            "Marc Pilcher",
-            "Jessica Brooks"
-        ],
-        "movies": [
-            {
-                "title": "Mary Queen of Scots",
-                "tmdb_id": 457136,
-                "imdb_id": "tt2328900"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2018",
-        "nominees": [
-            "Goran Lundstrom",
-            "Pamela Goldammer"
-        ],
-        "movies": [
-            {
-                "title": "Border",
-                "tmdb_id": 517839,
-                "imdb_id": "tt5501104"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "Ruth E. Carter"
-        ],
-        "movies": [
-            {
-                "title": "Black Panther",
-                "tmdb_id": 284054,
-                "imdb_id": "tt1825683"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "Mary Zophres"
-        ],
-        "movies": [
-            {
-                "title": "The Ballad of Buster Scruggs",
-                "tmdb_id": 537996,
-                "imdb_id": "tt6412452"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "Sandy Powell"
-        ],
-        "movies": [
-            {
-                "title": "The Favourite",
-                "tmdb_id": 375262,
-                "imdb_id": "tt5083738"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "Sandy Powell"
-        ],
-        "movies": [
-            {
-                "title": "Mary Poppins Returns",
-                "tmdb_id": 400650,
-                "imdb_id": "tt5028340"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2018",
-        "nominees": [
-            "Alexandra Byrne"
-        ],
-        "movies": [
-            {
-                "title": "Mary Queen of Scots",
-                "tmdb_id": 457136,
-                "imdb_id": "tt2328900"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Vice",
+    "FilmId": "tt6266538",
+    "Name": "Christian Bale",
+    "Nominees": "Christian Bale",
+    "NomineeIds": "nm0000288",
+    "Winner": "",
+    "Detail": "Dick Cheney",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "A Star Is Born",
+    "FilmId": "tt1517451",
+    "Name": "Bradley Cooper",
+    "Nominees": "Bradley Cooper",
+    "NomineeIds": "nm0177896",
+    "Winner": "",
+    "Detail": "Jack",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "At Eternity's Gate",
+    "FilmId": "tt6938828",
+    "Name": "Willem Dafoe",
+    "Nominees": "Willem Dafoe",
+    "NomineeIds": "nm0000353",
+    "Winner": "",
+    "Detail": "Vincent Van Gogh",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Bohemian Rhapsody",
+    "FilmId": "tt1727824",
+    "Name": "Rami Malek",
+    "Nominees": "Rami Malek",
+    "NomineeIds": "nm1785339",
+    "Winner": "True",
+    "Detail": "Freddie Mercury",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Green Book",
+    "FilmId": "tt6966692",
+    "Name": "Viggo Mortensen",
+    "Nominees": "Viggo Mortensen",
+    "NomineeIds": "nm0001557",
+    "Winner": "",
+    "Detail": "Tony Lip",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Green Book",
+    "FilmId": "tt6966692",
+    "Name": "Mahershala Ali",
+    "Nominees": "Mahershala Ali",
+    "NomineeIds": "nm0991810",
+    "Winner": "True",
+    "Detail": "Dr. Donald Shirley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "BlacKkKlansman",
+    "FilmId": "tt7349662",
+    "Name": "Adam Driver",
+    "Nominees": "Adam Driver",
+    "NomineeIds": "nm3485845",
+    "Winner": "",
+    "Detail": "Flip Zimmerman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A Star Is Born",
+    "FilmId": "tt1517451",
+    "Name": "Sam Elliott",
+    "Nominees": "Sam Elliott",
+    "NomineeIds": "nm0000385",
+    "Winner": "",
+    "Detail": "Bobby",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Can You Ever Forgive Me?",
+    "FilmId": "tt4595882",
+    "Name": "Richard E. Grant",
+    "Nominees": "Richard E. Grant",
+    "NomineeIds": "nm0001290",
+    "Winner": "",
+    "Detail": "Jack Hock",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Vice",
+    "FilmId": "tt6266538",
+    "Name": "Sam Rockwell",
+    "Nominees": "Sam Rockwell",
+    "NomineeIds": "nm0005377",
+    "Winner": "",
+    "Detail": "George W. Bush",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Yalitza Aparicio",
+    "Nominees": "Yalitza Aparicio",
+    "NomineeIds": "nm8611957",
+    "Winner": "",
+    "Detail": "Cleo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Wife",
+    "FilmId": "tt3750872",
+    "Name": "Glenn Close",
+    "Nominees": "Glenn Close",
+    "NomineeIds": "nm0000335",
+    "Winner": "",
+    "Detail": "Joan Castleman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Olivia Colman",
+    "Nominees": "Olivia Colman",
+    "NomineeIds": "nm1469236",
+    "Winner": "True",
+    "Detail": "Queen Anne",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "A Star Is Born",
+    "FilmId": "tt1517451",
+    "Name": "Lady Gaga",
+    "Nominees": "Lady Gaga",
+    "NomineeIds": "nm3078932",
+    "Winner": "",
+    "Detail": "Ally",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Can You Ever Forgive Me?",
+    "FilmId": "tt4595882",
+    "Name": "Melissa McCarthy",
+    "Nominees": "Melissa McCarthy",
+    "NomineeIds": "nm0565250",
+    "Winner": "",
+    "Detail": "Lee Israel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Vice",
+    "FilmId": "tt6266538",
+    "Name": "Amy Adams",
+    "Nominees": "Amy Adams",
+    "NomineeIds": "nm0010736",
+    "Winner": "",
+    "Detail": "Lynne Cheney",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Marina de Tavira",
+    "Nominees": "Marina de Tavira",
+    "NomineeIds": "nm0211920",
+    "Winner": "",
+    "Detail": "Sra. Sofia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "If Beale Street Could Talk",
+    "FilmId": "tt7125860",
+    "Name": "Regina King",
+    "Nominees": "Regina King",
+    "NomineeIds": "nm0005093",
+    "Winner": "True",
+    "Detail": "Sharon Rivers",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Emma Stone",
+    "Nominees": "Emma Stone",
+    "NomineeIds": "nm1297015",
+    "Winner": "",
+    "Detail": "Abigail",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Rachel Weisz",
+    "Nominees": "Rachel Weisz",
+    "NomineeIds": "nm0001838",
+    "Winner": "",
+    "Detail": "Lady Sarah",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Incredibles 2",
+    "FilmId": "tt3606756",
+    "Name": "Brad Bird, John Walker and Nicole Paradis Grindle",
+    "Nominees": "Brad Bird|John Walker|Nicole Paradis Grindle",
+    "NomineeIds": "nm0083348|nm0907869|nm0342430",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Isle of Dogs",
+    "FilmId": "tt5104604",
+    "Name": "Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson",
+    "Nominees": "Wes Anderson|Scott Rudin|Steven Rales|Jeremy Dawson",
+    "NomineeIds": "nm0027572|nm0748784|nm2262509|nm0206154",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Mirai",
+    "FilmId": "tt6900448",
+    "Name": "Mamoru Hosoda and Yuichiro Saito",
+    "Nominees": "Mamoru Hosoda|Yuichiro Saito",
+    "NomineeIds": "nm0396074|nm2510203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Ralph Breaks the Internet",
+    "FilmId": "tt5848272",
+    "Name": "Rich Moore, Phil Johnston and Clark Spencer",
+    "Nominees": "Rich Moore|Phil Johnston|Clark Spencer",
+    "NomineeIds": "nm0601781|nm1601882|nm1192875",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Spider-Man: Into the Spider-Verse",
+    "FilmId": "tt4633694",
+    "Name": "Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord and Christopher Miller",
+    "Nominees": "Bob Persichetti|Peter Ramsey|Rodney Rothman|Phil Lord|Christopher Miller",
+    "NomineeIds": "nm2130108|nm0709056|nm0745247|nm0520488|nm0588087",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Cold War",
+    "FilmId": "tt6543652",
+    "Name": "Lukasz Zal",
+    "Nominees": "Lukasz Zal",
+    "NomineeIds": "nm2617994",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Robbie Ryan",
+    "Nominees": "Robbie Ryan",
+    "NomineeIds": "nm0752811",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Never Look Away",
+    "FilmId": "tt5311542",
+    "Name": "Caleb Deschanel",
+    "Nominees": "Caleb Deschanel",
+    "NomineeIds": "nm0221042",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Alfonso Cuarón",
+    "Nominees": "Alfonso Cuarón",
+    "NomineeIds": "nm0190859",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "A Star Is Born",
+    "FilmId": "tt1517451",
+    "Name": "Matthew Libatique",
+    "Nominees": "Matthew Libatique",
+    "NomineeIds": "nm0508732",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Ballad of Buster Scruggs",
+    "FilmId": "tt6412452",
+    "Name": "Mary Zophres",
+    "Nominees": "Mary Zophres",
+    "NomineeIds": "nm0957861",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Black Panther",
+    "FilmId": "tt1825683",
+    "Name": "Ruth Carter",
+    "Nominees": "Ruth Carter",
+    "NomineeIds": "nm0141921",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Mary Poppins Returns",
+    "FilmId": "tt5028340",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Mary Queen of Scots",
+    "FilmId": "tt2328900",
+    "Name": "Alexandra Byrne",
+    "Nominees": "Alexandra Byrne",
+    "NomineeIds": "nm0126107",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "BlacKkKlansman",
+    "FilmId": "tt7349662",
+    "Name": "Spike Lee",
+    "Nominees": "Spike Lee",
+    "NomineeIds": "nm0000490",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Cold War",
+    "FilmId": "tt6543652",
+    "Name": "Pawel Pawlikowski",
+    "Nominees": "Pawel Pawlikowski",
+    "NomineeIds": "nm0667734",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Yorgos Lanthimos",
+    "Nominees": "Yorgos Lanthimos",
+    "NomineeIds": "nm0487166",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Alfonso Cuarón",
+    "Nominees": "Alfonso Cuarón",
+    "NomineeIds": "nm0190859",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Vice",
+    "FilmId": "tt6266538",
+    "Name": "Adam McKay",
+    "Nominees": "Adam McKay",
+    "NomineeIds": "nm0570912",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Free Solo",
+    "FilmId": "tt7775622",
+    "Name": "Elizabeth Chai Vasarhelyi, Jimmy Chin, Evan Hayes and Shannon Dill",
+    "Nominees": "Elizabeth Chai Vasarhelyi|Jimmy Chin|Evan Hayes|Shannon Dill",
+    "NomineeIds": "nm1888091|nm3011011|nm0371010|nm1634261",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Hale County This Morning, This Evening",
+    "FilmId": "tt6634646",
+    "Name": "RaMell Ross, Joslyn Barnes and Su Kim",
+    "Nominees": "RaMell Ross|Joslyn Barnes|Su Kim",
+    "NomineeIds": "nm8840476|nm0055656|nm1756893",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Minding the Gap",
+    "FilmId": "tt7476236",
+    "Name": "Bing Liu and Diane Quon",
+    "Nominees": "Bing Liu|Diane Quon",
+    "NomineeIds": "nm3294913|nm8568884",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Of Fathers and Sons",
+    "FilmId": "tt7519174",
+    "Name": "Talal Derki, Ansgar Frerich, Eva Kemme and Tobias N. Siebert",
+    "Nominees": "Talal Derki|Ansgar Frerich|Eva Kemme|Tobias N. Siebert",
+    "NomineeIds": "nm5957513|nm1236527|nm1936245|nm1250460",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "RBG",
+    "FilmId": "tt7689964",
+    "Name": "Betsy West and Julie Cohen",
+    "Nominees": "Betsy West|Julie Cohen",
+    "NomineeIds": "nm1723335|nm3792517",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Black Sheep",
+    "FilmId": "tt7440094",
+    "Name": "Ed Perkins and Jonathan Chinn",
+    "Nominees": "Ed Perkins|Jonathan Chinn",
+    "NomineeIds": "nm3598290|nm0157934",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "End Game",
+    "FilmId": "tt7879350",
+    "Name": "Rob Epstein and Jeffrey Friedman",
+    "Nominees": "Rob Epstein|Jeffrey Friedman",
+    "NomineeIds": "nm0258531|nm0295243",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Lifeboat",
+    "FilmId": "tt7446332",
+    "Name": "Skye Fitzgerald and Bryn Mooser",
+    "Nominees": "Skye Fitzgerald|Bryn Mooser",
+    "NomineeIds": "nm1148695|nm1666274",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Night at The Garden",
+    "FilmId": "tt7535612",
+    "Name": "Marshall Curry",
+    "Nominees": "Marshall Curry",
+    "NomineeIds": "nm1903582",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Period. End of Sentence.",
+    "FilmId": "tt6939026",
+    "Name": "Rayka Zehtabchi and Melissa Berton",
+    "Nominees": "Rayka Zehtabchi|Melissa Berton",
+    "NomineeIds": "nm3593950|nm9021258",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "BlacKkKlansman",
+    "FilmId": "tt7349662",
+    "Name": "Barry Alexander Brown",
+    "Nominees": "Barry Alexander Brown",
+    "NomineeIds": "nm0113084",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Bohemian Rhapsody",
+    "FilmId": "tt1727824",
+    "Name": "John Ottman",
+    "Nominees": "John Ottman",
+    "NomineeIds": "nm0653211",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Yorgos Mavropsaridis",
+    "Nominees": "Yorgos Mavropsaridis",
+    "NomineeIds": "nm0561430",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Green Book",
+    "FilmId": "tt6966692",
+    "Name": "Patrick J. Don Vito",
+    "Nominees": "Patrick J. Don Vito",
+    "NomineeIds": "nm0004011",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Vice",
+    "FilmId": "tt6266538",
+    "Name": "Hank Corwin",
+    "Nominees": "Hank Corwin",
+    "NomineeIds": "nm0181650",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Capernaum",
+    "FilmId": "tt8267604",
+    "Name": "Lebanon",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Cold War",
+    "FilmId": "tt6543652",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Never Look Away",
+    "FilmId": "tt5311542",
+    "Name": "Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Mexico",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Shoplifters",
+    "FilmId": "tt8075192",
+    "Name": "Japan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Border",
+    "FilmId": "tt5501104",
+    "Name": "Göran Lundström and Pamela Goldammer",
+    "Nominees": "Göran Lundström|Pamela Goldammer",
+    "NomineeIds": "nm0526615|nm1744062",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Mary Queen of Scots",
+    "FilmId": "tt2328900",
+    "Name": "Jenny Shircore, Marc Pilcher and Jessica Brooks",
+    "Nominees": "Jenny Shircore|Marc Pilcher|Jessica Brooks",
+    "NomineeIds": "nm0794246|nm1706094|nm1928126",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Vice",
+    "FilmId": "tt6266538",
+    "Name": "Greg Cannom, Kate Biscoe and Patricia Dehaney",
+    "Nominees": "Greg Cannom|Kate Biscoe|Patricia Dehaney",
+    "NomineeIds": "nm0134148|nm0083917|nm0214912",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Black Panther",
+    "FilmId": "tt1825683",
+    "Name": "Ludwig Goransson",
+    "Nominees": "Ludwig Goransson",
+    "NomineeIds": "nm3234869",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "BlacKkKlansman",
+    "FilmId": "tt7349662",
+    "Name": "Terence Blanchard",
+    "Nominees": "Terence Blanchard",
+    "NomineeIds": "nm0005966",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "If Beale Street Could Talk",
+    "FilmId": "tt7125860",
+    "Name": "Nicholas Britell",
+    "Nominees": "Nicholas Britell",
+    "NomineeIds": "nm1615109",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Isle of Dogs",
+    "FilmId": "tt5104604",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Mary Poppins Returns",
+    "FilmId": "tt5028340",
+    "Name": "Marc Shaiman",
+    "Nominees": "Marc Shaiman",
+    "NomineeIds": "nm0003299",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Black Panther",
+    "FilmId": "tt1825683",
+    "Name": "Music by Kendrick Lamar, Mark \\\"Sounwave\\\" Spears and Anthony \\\"Top Dawg\\\" Tiffith; Lyric by Kendrick Lamar, SZA and Anthony \\\"Top Dawg\\\" Tiffith",
+    "Nominees": "Kendrick Lamar|Mark \\\"Sounwave\\\" Spears|Anthony \\\"Top Dawg\\\" Tiffith|SZA",
+    "NomineeIds": "nm5302509|nm6263328|nm7873889|nm6855916",
+    "Winner": "",
+    "Detail": "All The Stars",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "RBG",
+    "FilmId": "tt7689964",
+    "Name": "Music and Lyric by Diane Warren",
+    "Nominees": "Diane Warren",
+    "NomineeIds": "nm0005534",
+    "Winner": "",
+    "Detail": "I'll Fight",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Mary Poppins Returns",
+    "FilmId": "tt5028340",
+    "Name": "Music by Marc Shaiman; Lyric by Scott Wittman and Marc Shaiman",
+    "Nominees": "Marc Shaiman|Scott Wittman",
+    "NomineeIds": "nm0003299|nm0937096",
+    "Winner": "",
+    "Detail": "The Place Where Lost Things Go",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt1517451",
+    "Name": "Music and Lyric by Lady Gaga, Mark Ronson, Anthony Rossomando and Andrew Wyatt",
+    "Nominees": "Lady Gaga|Mark Ronson|Anthony Rossomando|Andrew Wyatt",
+    "NomineeIds": "nm3078932|nm1053148|nm2327017|nm1961278",
+    "Winner": "True",
+    "Detail": "Shallow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Ballad of Buster Scruggs",
+    "FilmId": "tt6412452",
+    "Name": "Music and Lyric by Gillian Welch and David Rawlings",
+    "Nominees": "Gillian Welch|David Rawlings",
+    "NomineeIds": "nm0919553|nm1062848",
+    "Winner": "",
+    "Detail": "When A Cowboy Trades His Spurs For Wings",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Black Panther",
+    "FilmId": "tt1825683",
+    "Name": "Kevin Feige, Producer",
+    "Nominees": "Kevin Feige",
+    "NomineeIds": "nm0270559",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "BlacKkKlansman",
+    "FilmId": "tt7349662",
+    "Name": "Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele and Spike Lee, Producers",
+    "Nominees": "Sean McKittrick|Jason Blum|Raymond Mansfield|Jordan Peele|Spike Lee",
+    "NomineeIds": "nm0572014|nm0089658|nm1506448|nm1443502|nm0000490",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Bohemian Rhapsody",
+    "FilmId": "tt1727824",
+    "Name": "Graham King, Producer",
+    "Nominees": "Graham King",
+    "NomineeIds": "nm0454752",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos, Producers",
+    "Nominees": "Ceci Dempsey|Ed Guiney|Lee Magiday|Yorgos Lanthimos",
+    "NomineeIds": "nm0218714|nm0347384|nm3717662|nm0487166",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Green Book",
+    "FilmId": "tt6966692",
+    "Name": "Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",
+    "Nominees": "Jim Burke|Charles B. Wessler|Brian Currie|Peter Farrelly|Nick Vallelonga",
+    "NomineeIds": "nm0121724|nm0921853|nm0192942|nm0268380|nm0885014",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Gabriela Rodríguez and Alfonso Cuarón, Producers",
+    "Nominees": "Gabriela Rodríguez|Alfonso Cuarón",
+    "NomineeIds": "nm2342288|nm0190859",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "A Star Is Born",
+    "FilmId": "tt1517451",
+    "Name": "Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",
+    "Nominees": "Bill Gerber|Bradley Cooper|Lynette Howell Taylor",
+    "NomineeIds": "nm0314088|nm0177896|nm1987578",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Vice",
+    "FilmId": "tt6266538",
+    "Name": "Dede Gardner, Jeremy Kleiner, Adam McKay and Kevin Messick, Producers",
+    "Nominees": "Dede Gardner|Jeremy Kleiner|Adam McKay|Kevin Messick",
+    "NomineeIds": "nm0306890|nm1250070|nm0570912|nm0582111",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Black Panther",
+    "FilmId": "tt1825683",
+    "Name": "Production Design: Hannah Beachler; Set Decoration: Jay Hart",
+    "Nominees": "Hannah Beachler|Jay Hart",
+    "NomineeIds": "nm1667545|nm0366345",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Production Design: Fiona Crombie; Set Decoration: Alice Felton",
+    "Nominees": "Fiona Crombie|Alice Felton",
+    "NomineeIds": "nm2356249|nm1818912",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "First Man",
+    "FilmId": "tt1213641",
+    "Name": "Production Design: Nathan Crowley; Set Decoration: Kathy Lucas",
+    "Nominees": "Nathan Crowley|Kathy Lucas",
+    "NomineeIds": "nm0189769|nm0524205",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Mary Poppins Returns",
+    "FilmId": "tt5028340",
+    "Name": "Production Design: John Myhre; Set Decoration: Gordon Sim",
+    "Nominees": "John Myhre|Gordon Sim",
+    "NomineeIds": "nm0616924|nm0799246",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Production Design: Eugenio Caballero; Set Decoration: Bárbara Enríquez",
+    "Nominees": "Eugenio Caballero|Bárbara Enríquez",
+    "NomineeIds": "nm0127429|nm1735500",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Animal Behaviour",
+    "FilmId": "tt8615478",
+    "Name": "Alison Snowden and David Fine",
+    "Nominees": "Alison Snowden|David Fine",
+    "NomineeIds": "nm0811345|nm0277599",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Bao",
+    "FilmId": "tt8075496",
+    "Name": "Domee Shi and Becky Neiman-Cobb",
+    "Nominees": "Domee Shi|Becky Neiman-Cobb",
+    "NomineeIds": "nm7626019|nm2169250",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Late Afternoon",
+    "FilmId": "tt7077824",
+    "Name": "Louise Bagnall and Nuria González Blanco",
+    "Nominees": "Louise Bagnall|Nuria González Blanco",
+    "NomineeIds": "nm5370400|nm4447482",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "One Small Step",
+    "FilmId": "tt8783042",
+    "Name": "Andrew Chesworth and Bobby Pontillas",
+    "Nominees": "Andrew Chesworth|Bobby Pontillas",
+    "NomineeIds": "nm2314791|nm4668167",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Weekends",
+    "FilmId": "tt7375186",
+    "Name": "Trevor Jimenez",
+    "Nominees": "Trevor Jimenez",
+    "NomineeIds": "nm3266016",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Detainment",
+    "FilmId": "tt6813264",
+    "Name": "Vincent Lambe and Darren Mahon",
+    "Nominees": "Vincent Lambe|Darren Mahon",
+    "NomineeIds": "nm1564793|nm6978857",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Fauve",
+    "FilmId": "tt7467476",
+    "Name": "Jeremy Comte and Maria Gracia Turgeon",
+    "Nominees": "Jeremy Comte|Maria Gracia Turgeon",
+    "NomineeIds": "nm4478405|nm5637080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Marguerite",
+    "FilmId": "tt6803040",
+    "Name": "Marianne Farley and Marie-Hélène Panisset",
+    "Nominees": "Marianne Farley|Marie-Hélène Panisset",
+    "NomineeIds": "nm0857584|nm0659527",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Mother",
+    "FilmId": "tt6597824",
+    "Name": "Rodrigo Sorogoyen and María del Puy Alvarado",
+    "Nominees": "Rodrigo Sorogoyen|María del Puy Alvarado",
+    "NomineeIds": "nm2507695|nm1966854",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Skin",
+    "FilmId": "tt7332306",
+    "Name": "Guy Nattiv and Jaime Ray Newman",
+    "Nominees": "Guy Nattiv|Jaime Ray Newman",
+    "NomineeIds": "nm1142235|nm0628120",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Black Panther",
+    "FilmId": "tt1825683",
+    "Name": "Benjamin A. Burtt and Steve Boeddeker",
+    "Nominees": "Benjamin A. Burtt|Steve Boeddeker",
+    "NomineeIds": "nm8991894|nm0006655",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Bohemian Rhapsody",
+    "FilmId": "tt1727824",
+    "Name": "John Warhurst and Nina Hartstone",
+    "Nominees": "John Warhurst|Nina Hartstone",
+    "NomineeIds": "nm1341243|nm0367243",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "First Man",
+    "FilmId": "tt1213641",
+    "Name": "Ai-Ling Lee and Mildred Iatrou Morgan",
+    "Nominees": "Ai-Ling Lee|Mildred Iatrou Morgan",
+    "NomineeIds": "nm0496763|nm0406375",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "A Quiet Place",
+    "FilmId": "tt6644200",
+    "Name": "Ethan Van der Ryn and Erik Aadahl",
+    "Nominees": "Ethan Van der Ryn|Erik Aadahl",
+    "NomineeIds": "nm0886399|nm0007321",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Sergio Díaz and Skip Lievsay",
+    "Nominees": "Sergio Díaz|Skip Lievsay",
+    "NomineeIds": "nm1784142|nm0509792",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Black Panther",
+    "FilmId": "tt1825683",
+    "Name": "Steve Boeddeker, Brandon Proctor and Peter Devlin",
+    "Nominees": "Steve Boeddeker|Brandon Proctor|Peter Devlin",
+    "NomineeIds": "nm0006655|nm0698367|nm0222818",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Bohemian Rhapsody",
+    "FilmId": "tt1727824",
+    "Name": "Paul Massey, Tim Cavagin and John Casali",
+    "Nominees": "Paul Massey|Tim Cavagin|John Casali",
+    "NomineeIds": "nm0557338|nm0146687|nm0142841",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "First Man",
+    "FilmId": "tt1213641",
+    "Name": "Jon Taylor, Frank A. Montaño, Ai-Ling Lee and Mary H. Ellis",
+    "Nominees": "Jon Taylor|Frank A. Montaño|Ai-Ling Lee|Mary H. Ellis",
+    "NomineeIds": "nm0852656|nm0599057|nm0496763|nm0254978",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Skip Lievsay, Craig Henighan and José Antonio García",
+    "Nominees": "Skip Lievsay|Craig Henighan|José Antonio García",
+    "NomineeIds": "nm0509792|nm0003357|nm0306223",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "A Star Is Born",
+    "FilmId": "tt1517451",
+    "Name": "Tom Ozanich, Dean Zupancic, Jason Ruder and Steve Morrow",
+    "Nominees": "Tom Ozanich|Dean Zupancic|Jason Ruder|Steve Morrow",
+    "NomineeIds": "nm0654696|nm0958711|nm1720819|nm0607551",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Avengers: Infinity War",
+    "FilmId": "tt4154756",
+    "Name": "Dan DeLeeuw, Kelly Port, Russell Earl and Dan Sudick",
+    "Nominees": "Dan DeLeeuw|Kelly Port|Russell Earl|Dan Sudick",
+    "NomineeIds": "nm0216699|nm0691883|nm0247270|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Christopher Robin",
+    "FilmId": "tt4575576",
+    "Name": "Christopher Lawrence, Michael Eames, Theo Jones and Chris Corbould",
+    "Nominees": "Christopher Lawrence|Michael Eames|Theo Jones|Chris Corbould",
+    "NomineeIds": "nm1165856|nm0247192|nm1623356|nm0179269",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "First Man",
+    "FilmId": "tt1213641",
+    "Name": "Paul Lambert, Ian Hunter, Tristan Myles and J.D. Schwalm",
+    "Nominees": "Paul Lambert|Ian Hunter|Tristan Myles|J.D. Schwalm",
+    "NomineeIds": "nm0995902|nm0402843|nm1629597|nm0777069",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Ready Player One",
+    "FilmId": "tt1677720",
+    "Name": "Roger Guyett, Grady Cofer, Matthew E. Butler and David Shirk",
+    "Nominees": "Roger Guyett|Grady Cofer|Matthew E. Butler|David Shirk",
+    "NomineeIds": "nm0004361|nm0168819|nm0125056|nm1874068",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Solo: A Star Wars Story",
+    "FilmId": "tt3778644",
+    "Name": "Rob Bredow, Patrick Tubach, Neal Scanlan and Dominic Tuohy",
+    "Nominees": "Rob Bredow|Patrick Tubach|Neal Scanlan|Dominic Tuohy",
+    "NomineeIds": "nm0106650|nm0875604|nm0768943|nm0876716",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Ballad of Buster Scruggs",
+    "FilmId": "tt6412452",
+    "Name": "Written by Joel Coen & Ethan Coen",
+    "Nominees": "Joel Coen|Ethan Coen",
+    "NomineeIds": "nm0001054|nm0001053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "BlacKkKlansman",
+    "FilmId": "tt7349662",
+    "Name": "Written by Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee",
+    "Nominees": "Charlie Wachtel|David Rabinowitz|Kevin Willmott|Spike Lee",
+    "NomineeIds": "nm4478735|nm5161275|nm0932551|nm0000490",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Can You Ever Forgive Me?",
+    "FilmId": "tt4595882",
+    "Name": "Screenplay by Nicole Holofcener and Jeff Whitty",
+    "Nominees": "Nicole Holofcener|Jeff Whitty",
+    "NomineeIds": "nm0392237|nm1036221",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "If Beale Street Could Talk",
+    "FilmId": "tt7125860",
+    "Name": "Written for the screen by Barry Jenkins",
+    "Nominees": "Barry Jenkins",
+    "NomineeIds": "nm1503575",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt1517451",
+    "Name": "Screenplay by Eric Roth and Bradley Cooper & Will Fetters",
+    "Nominees": "Eric Roth|Bradley Cooper|Will Fetters",
+    "NomineeIds": "nm0744839|nm0177896|nm3391497",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Favourite",
+    "FilmId": "tt5083738",
+    "Name": "Written by Deborah Davis and Tony McNamara",
+    "Nominees": "Deborah Davis|Tony McNamara",
+    "NomineeIds": "nm7629302|nm1110111",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "First Reformed",
+    "FilmId": "tt6053438",
+    "Name": "Written by Paul Schrader",
+    "Nominees": "Paul Schrader",
+    "NomineeIds": "nm0001707",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Green Book",
+    "FilmId": "tt6966692",
+    "Name": "Written by Nick Vallelonga, Brian Currie, Peter Farrelly",
+    "Nominees": "Nick Vallelonga|Brian Currie|Peter Farrelly",
+    "NomineeIds": "nm0885014|nm0192942|nm0268380",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Roma",
+    "FilmId": "tt6155172",
+    "Name": "Written by Alfonso Cuarón",
+    "Nominees": "Alfonso Cuarón",
+    "NomineeIds": "nm0190859",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Vice",
+    "FilmId": "tt6266538",
+    "Name": "Written by Adam McKay",
+    "Nominees": "Adam McKay",
+    "NomineeIds": "nm0570912",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Marvin Levy",
+    "NomineeIds": "nm1297363",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Marvin Levy, for an exemplary career in publicity that has brought films to the minds, hearts and souls of audiences all over the world."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Lalo Schifrin",
+    "NomineeIds": "nm0006277",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Lalo Schifrin, in recognition of his unique musical style, compositional integrity and influential contributions to the art of film scoring."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Cicely Tyson",
+    "NomineeIds": "nm0001807",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Cicely Tyson, whose unforgettable performances and personal integrity have inspired generations of filmmakers, actors and audiences."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Kathleen Kennedy and Frank Marshall",
+    "Nominees": "Kathleen Kennedy|Frank Marshall",
+    "NomineeIds": "nm0005086|nm0550881",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Simons|Daniel Wilk|James Acquavella|Michael Natkin|David M. Cotter",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "After Effects' pioneering use of consumer hardware to host an application that is extensible, efficient and artist-focused has made it the preeminent motion graphics tool in film production, allowing motion designers to create complex animated elements for title design, screen graphics and fictional user interfaces.",
+    "Citation": "To DAVID SIMONS, DANIEL WILK, JAMES ACQUAVELLA, MICHAEL NATKIN and DAVID M. COTTER for the design and development of the Adobe After Effects software for motion graphics."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thomas Knoll|John Knoll|Mark Hamburg",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Photoshop's efficient, extensible architecture, innovative virtual-memory design and powerful layering system introduced a new level of user interactivity, which led to its adoption as the preferred artistic tool for digital painting and image manipulation across the motion picture industry.",
+    "Citation": "To THOMAS KNOLL and JOHN KNOLL for the original architecture, design and development, and to MARK HAMBURG for his continued development and engineering of Adobe Photoshop."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Edwin Catmull|TONY DeROSE|Jos Stam",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Their creation of essential geometric operations and sustained research on the fundamental mathematics of subdivision surfaces helped transform the way digital artists represent 3D geometry throughout the motion picture industry.",
+    "Citation": "To EDWIN CATMULL for the original concept, and to TONY DeROSE and JOS STAM for their pioneering advancement of the underlying science of subdivision surfaces as 3D geometric modeling primitives."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eric Dachs|Erik Bielefeldt|Craig Wood|PAUL McREYNOLDS",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "PIX System's robust approach to secure media access has enabled wide adoption of their remotely collaborative dailies-review system by the motion picture industry.",
+    "Citation": "To ERIC DACHS, ERIK BIELEFELDT, CRAIG WOOD and PAUL McREYNOLDS for the design and development of the PIX System's novel security mechanism for distributing media."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Per-Anders Arvid Edwards",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "MoGraph provides a fast, non-destructive and intuitive workflow for motion designers to create animated 3D graphics, as used for title design and fictional user interfaces in motion pictures.",
+    "Citation": "To PER-ANDERS ARVID EDWARDS for the initial design and development of the MoGraph toolset in Cinema 4D for motion graphics."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Paul Thomas Miller|Marco Paolini",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Silhouette provides a comprehensive solution for painting, rotoscoping and image manipulation of high-resolution image sequences. Its fast, scalable and extensible architecture has resulted in wide adoption in motion picture post-production.",
+    "Citation": "To PAUL THOMAS MILLER for the software design, principal engineering and continued innovation, and to MARCO PAOLINI for the efficient, artist-friendly workflow design of the Silhouette rotoscope and paint system."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Paul Debevec|TIMOTHY HAWKINS|WAN-CHUN MA|XUEMING YU",
+    "NomineeIds": "nm1663206|nm3105618|nm4717486|nm8087199",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Polarized Spherical Gradient Illumination was a breakthrough in facial capture technology allowing shape and reflectance capture of an actor's face with sub-millimeter detail, enabling the faithful recreation of hero character faces. The Light Stage X structure was the foundation for all subsequent innovation and has been the keystone of the method's evolution into a production system.",
+    "Citation": "To PAUL DEBEVEC, TIMOTHY HAWKINS and WAN-CHUN MA for the invention of the Polarized Spherical Gradient Illumination facial appearance capture method, and to XUEMING YU for the design and engineering of the Light Stage X capture system."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thabo Beeler|Derek Bradley|Bernd Bickel|Markus Gross",
+    "NomineeIds": "nm6198530|nm6455221|nm6455222|nm6455226",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Medusa captures exceptionally dense animated meshes without markers or makeup, pushing the boundaries of visual fidelity and productivity for character facial performances in motion pictures.",
+    "Citation": "To THABO BEELER, DEREK BRADLEY, BERND BICKEL and MARKUS GROSS for the conception, design and engineering of the Medusa Performance Capture System."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles Teorell Loop",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "Loop's 1987 master's thesis, \\\"Smooth Subdivision Surfaces Based on Triangles,\\\" together with his subsequent research and publications, extended the theory of subdivision surfaces and inspired further development of methods that transformed the way digital artists represent 3D geometry throughout the motion picture industry.",
+    "Citation": "To CHARLES TEORELL LOOP for his influential research on the fundamental scientific properties of subdivision surfaces as 3D geometric modeling primitives."
+  },
+  {
+    "Ceremony": 91,
+    "Year": 2018,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Curtis Clark",
+    "NomineeIds": "nm0163797",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Curtis Clark in recognition of extraordinary service to the motion picture industry."
+  }
 ]

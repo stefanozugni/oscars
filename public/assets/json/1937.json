@@ -1,1800 +1,2146 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "The Life of Emile Zola"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "The Awful Truth"
-    ],
-    "movies": [
-      {
-        "title": "The Awful Truth",
-        "tmdb_id": 14675,
-        "imdb_id": "tt0028597"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "Captains Courageous"
-    ],
-    "movies": [
-      {
-        "title": "Captains Courageous",
-        "tmdb_id": 16515,
-        "imdb_id": "tt0028691"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "Dead End"
-    ],
-    "movies": [
-      {
-        "title": "Dead End",
-        "tmdb_id": 27973,
-        "imdb_id": "tt0028773"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "The Good Earth"
-    ],
-    "movies": [
-      {
-        "title": "The Good Earth",
-        "tmdb_id": 36652,
-        "imdb_id": "tt0028944"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "In Old Chicago"
-    ],
-    "movies": [
-      {
-        "title": "In Old Chicago",
-        "tmdb_id": 78734,
-        "imdb_id": "tt0029047"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "Lost Horizon"
-    ],
-    "movies": [
-      {
-        "title": "Lost Horizon",
-        "tmdb_id": 3598,
-        "imdb_id": "tt0029162"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "One Hundred Men and a Girl"
-    ],
-    "movies": [
-      {
-        "title": "One Hundred Men and a Girl",
-        "tmdb_id": 61647,
-        "imdb_id": "tt0029347"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "Stage Door"
-    ],
-    "movies": [
-      {
-        "title": "Stage Door",
-        "tmdb_id": 43864,
-        "imdb_id": "tt0029604"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1937",
-    "nominees": [
-      "A Star is Born"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 22692,
-        "imdb_id": "tt0029606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1937",
-    "nominees": [
-      "Spencer Tracy"
-    ],
-    "movies": [
-      {
-        "title": "Captains Courageous",
-        "tmdb_id": 16515,
-        "imdb_id": "tt0028691"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1937",
-    "nominees": [
-      "Charles Boyer"
-    ],
-    "movies": [
-      {
-        "title": "Conquest",
-        "tmdb_id": 30630,
-        "imdb_id": "tt0028739"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1937",
-    "nominees": [
-      "Fredric March"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 22692,
-        "imdb_id": "tt0029606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1937",
-    "nominees": [
-      "Robert Montgomery"
-    ],
-    "movies": [
-      {
-        "title": "Night Must Fall",
-        "tmdb_id": 91727,
-        "imdb_id": "tt0029310"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1937",
-    "nominees": [
-      "Paul Muni"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1937",
-    "nominees": [
-      "Luise Rainer"
-    ],
-    "movies": [
-      {
-        "title": "The Good Earth",
-        "tmdb_id": 36652,
-        "imdb_id": "tt0028944"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1937",
-    "nominees": [
-      "Irene Dunne"
-    ],
-    "movies": [
-      {
-        "title": "The Awful Truth",
-        "tmdb_id": 14675,
-        "imdb_id": "tt0028597"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1937",
-    "nominees": [
-      "Greta Garbo"
-    ],
-    "movies": [
-      {
-        "title": "Camille",
-        "tmdb_id": 43874,
-        "imdb_id": "tt0028683"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1937",
-    "nominees": [
-      "Janet Gaynor"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 22692,
-        "imdb_id": "tt0029606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1937",
-    "nominees": [
-      "Barbara Stanwyck"
-    ],
-    "movies": [
-      {
-        "title": "Stella Dallas",
-        "tmdb_id": 43865,
-        "imdb_id": "tt0029608"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1937",
-    "nominees": [
-      "Joseph Schildkraut"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1937",
-    "nominees": [
-      "Ralph Bellamy"
-    ],
-    "movies": [
-      {
-        "title": "The Awful Truth",
-        "tmdb_id": 14675,
-        "imdb_id": "tt0028597"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1937",
-    "nominees": [
-      "Thomas Mitchell"
-    ],
-    "movies": [
-      {
-        "title": "The Hurricane",
-        "tmdb_id": 77250,
-        "imdb_id": "tt0029030"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1937",
-    "nominees": [
-      "H. B. Warner"
-    ],
-    "movies": [
-      {
-        "title": "Lost Horizon",
-        "tmdb_id": 3598,
-        "imdb_id": "tt0029162"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1937",
-    "nominees": [
-      "Roland Young"
-    ],
-    "movies": [
-      {
-        "title": "Topper",
-        "tmdb_id": 23101,
-        "imdb_id": "tt0029682"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1937",
-    "nominees": [
-      "Alice Brady"
-    ],
-    "movies": [
-      {
-        "title": "In Old Chicago",
-        "tmdb_id": 78734,
-        "imdb_id": "tt0029047"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1937",
-    "nominees": [
-      "Andrea Leeds"
-    ],
-    "movies": [
-      {
-        "title": "Stage Door",
-        "tmdb_id": 43864,
-        "imdb_id": "tt0029604"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1937",
-    "nominees": [
-      "Anne Shirley"
-    ],
-    "movies": [
-      {
-        "title": "Stella Dallas",
-        "tmdb_id": 43865,
-        "imdb_id": "tt0029608"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1937",
-    "nominees": [
-      "Claire Trevor"
-    ],
-    "movies": [
-      {
-        "title": "Dead End",
-        "tmdb_id": 27973,
-        "imdb_id": "tt0028773"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1937",
-    "nominees": [
-      "Dame May Whitty"
-    ],
-    "movies": [
-      {
-        "title": "Night Must Fall",
-        "tmdb_id": 91727,
-        "imdb_id": "tt0029310"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1937",
-    "nominees": [
-      "Leo McCarey"
-    ],
-    "movies": [
-      {
-        "title": "The Awful Truth",
-        "tmdb_id": 14675,
-        "imdb_id": "tt0028597"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1937",
-    "nominees": [
-      "William Dieterle"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1937",
-    "nominees": [
-      "Sidney Franklin"
-    ],
-    "movies": [
-      {
-        "title": "The Good Earth",
-        "tmdb_id": 36652,
-        "imdb_id": "tt0028944"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1937",
-    "nominees": [
-      "Gregory La Cava"
-    ],
-    "movies": [
-      {
-        "title": "Stage Door",
-        "tmdb_id": 43864,
-        "imdb_id": "tt0029604"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1937",
-    "nominees": [
-      "William Wellman"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 22692,
-        "imdb_id": "tt0029606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1937",
-    "nominees": [
-      "Robert Webb"
-    ],
-    "movies": [
-      {
-        "title": "In Old Chicago",
-        "tmdb_id": 78734,
-        "imdb_id": "tt0029047"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1937",
-    "nominees": [
-      "C. C. Coleman Jr."
-    ],
-    "movies": [
-      {
-        "title": "Lost Horizon",
-        "tmdb_id": 3598,
-        "imdb_id": "tt0029162"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1937",
-    "nominees": [
-      "Russ Saunders"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1937",
-    "nominees": [
-      "Eric G. Stacey"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 22692,
-        "imdb_id": "tt0029606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1937",
-    "nominees": [
-      "Hal Walker"
-    ],
-    "movies": [
-      {
-        "title": "Souls at Sea",
-        "tmdb_id": 43419,
-        "imdb_id": "tt0029593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1937",
-    "nominees": [
-      "Hermes Pan"
-    ],
-    "movies": [
-      {
-        "title": "A Damsel in Distress",
-        "tmdb_id": 66473,
-        "imdb_id": "tt0028757"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1937",
-    "nominees": [
-      "Busby Berkeley"
-    ],
-    "movies": [
-      {
-        "title": "Varsity Show",
-        "tmdb_id": 190024,
-        "imdb_id": "tt0029725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1937",
-    "nominees": [
-      "Bobby Connolly"
-    ],
-    "movies": [
-      {
-        "title": "Ready, Willing and Able",
-        "tmdb_id": 190076,
-        "imdb_id": "tt0029467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1937",
-    "nominees": [
-      "Dave Gould"
-    ],
-    "movies": [
-      {
-        "title": "A Day at the Races",
-        "tmdb_id": 11939,
-        "imdb_id": "tt0028772"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1937",
-    "nominees": [
-      "Sammy Lee"
-    ],
-    "movies": [
-      {
-        "title": "Ali Baba Goes to Town",
-        "tmdb_id": 106515,
-        "imdb_id": "tt0028566"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1937",
-    "nominees": [
-      "LeRoy Prinz"
-    ],
-    "movies": [
-      {
-        "title": "Waikiki Wedding",
-        "tmdb_id": 74130,
-        "imdb_id": "tt0029742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Dance Direction",
-    "year": "1937",
-    "nominees": [
-      "Harry Losee"
-    ],
-    "movies": [
-      {
-        "title": "Thin Ice",
-        "tmdb_id": 43868,
-        "imdb_id": "tt0029659"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1937",
-    "nominees": [
-      "Heinz Herald",
-      "Geza Herczeg",
-      "Norman Reilly Raine"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1937",
-    "nominees": [
-      "Morris Ryskind",
-      "Anthony Veiller"
-    ],
-    "movies": [
-      {
-        "title": "Stage Door",
-        "tmdb_id": 43864,
-        "imdb_id": "tt0029604"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1937",
-    "nominees": [
-      "Alan Campbell",
-      "Dorothy Parker",
-      "Robert Carson"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 22692,
-        "imdb_id": "tt0029606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1937",
-    "nominees": [
-      "Vina Delmar"
-    ],
-    "movies": [
-      {
-        "title": "The Awful Truth",
-        "tmdb_id": 14675,
-        "imdb_id": "tt0028597"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1937",
-    "nominees": [
-      "John Lee Mahin",
-      "Marc Connelly",
-      "Dale Van Every"
-    ],
-    "movies": [
-      {
-        "title": "Captains Courageous",
-        "tmdb_id": 16515,
-        "imdb_id": "tt0028691"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1937",
-    "nominees": [
-      "Robert Carson",
-      "William Wellman"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 22692,
-        "imdb_id": "tt0029606"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1937",
-    "nominees": [
-      "Niven Busch"
-    ],
-    "movies": [
-      {
-        "title": "In Old Chicago",
-        "tmdb_id": 78734,
-        "imdb_id": "tt0029047"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1937",
-    "nominees": [
-      "Heinz Herald",
-      "Geza Herczeg"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1937",
-    "nominees": [
-      "Hans Kraly"
-    ],
-    "movies": [
-      {
-        "title": "One Hundred Men and a Girl",
-        "tmdb_id": 61647,
-        "imdb_id": "tt0029347"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1937",
-    "nominees": [
-      "Robert Lord"
-    ],
-    "movies": [
-      {
-        "title": "Black Legion",
-        "tmdb_id": 42683,
-        "imdb_id": "tt0027367"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "One Hundred Men and a Girl"
-    ],
-    "movies": [
-      {
-        "title": "One Hundred Men and a Girl",
-        "tmdb_id": 61647,
-        "imdb_id": "tt0029347"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "Lost Horizon"
-    ],
-    "movies": [
-      {
-        "title": "Lost Horizon",
-        "tmdb_id": 3598,
-        "imdb_id": "tt0029162"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "The Hurricane"
-    ],
-    "movies": [
-      {
-        "title": "The Hurricane",
-        "tmdb_id": 77250,
-        "imdb_id": "tt0029030"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "Something to Sing About"
-    ],
-    "movies": [
-      {
-        "title": "Something to Sing About",
-        "tmdb_id": 76464,
-        "imdb_id": "tt0029588"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "Way Out West"
-    ],
-    "movies": [
-      {
-        "title": "Way Out West",
-        "tmdb_id": 25599,
-        "imdb_id": "tt0029747"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "Maytime"
-    ],
-    "movies": [
-      {
-        "title": "Maytime",
-        "tmdb_id": 43862,
-        "imdb_id": "tt0029222"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "Souls at Sea"
-    ],
-    "movies": [
-      {
-        "title": "Souls at Sea",
-        "tmdb_id": 43419,
-        "imdb_id": "tt0029593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "Make a Wish"
-    ],
-    "movies": [
-      {
-        "title": "Make a Wish",
-        "tmdb_id": 218341,
-        "imdb_id": "tt0029193"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "Portia on Trial"
-    ],
-    "movies": [
-      {
-        "title": "Portia on Trial",
-        "tmdb_id": 218342,
-        "imdb_id": "tt0029433"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "Quality Street"
-    ],
-    "movies": [
-      {
-        "title": "Quality Street",
-        "tmdb_id": 52237,
-        "imdb_id": "tt0029454"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "The Prisoner of Zenda"
-    ],
-    "movies": [
-      {
-        "title": "The Prisoner of Zenda",
-        "tmdb_id": 43867,
-        "imdb_id": "tt0029442"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "In Old Chicago"
-    ],
-    "movies": [
-      {
-        "title": "In Old Chicago",
-        "tmdb_id": 78734,
-        "imdb_id": "tt0029047"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "Snow White and the Seven Dwarfs"
-    ],
-    "movies": [
-      {
-        "title": "Snow White and the Seven Dwarfs",
-        "tmdb_id": 408,
-        "imdb_id": "tt0029583"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1937",
-    "nominees": [
-      "The Life of Emile Zola"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1937",
-    "nominees": [
-      "Sweet Leilani"
-    ],
-    "movies": [
-      {
-        "title": "Waikiki Wedding",
-        "tmdb_id": 74130,
-        "imdb_id": "tt0029742"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1937",
-    "nominees": [
-      "Remember Me"
-    ],
-    "movies": [
-      {
-        "title": "Mr. Dodd Takes the Air",
-        "tmdb_id": 218343,
-        "imdb_id": "tt0029267"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1937",
-    "nominees": [
-      "That Old Feeling"
-    ],
-    "movies": [
-      {
-        "title": "Vogues of 1938",
-        "tmdb_id": 151914,
-        "imdb_id": "tt0029737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1937",
-    "nominees": [
-      "They Can't Take That Away From Me"
-    ],
-    "movies": [
-      {
-        "title": "Shall We Dance",
-        "tmdb_id": 31530,
-        "imdb_id": "tt0029546"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1937",
-    "nominees": [
-      "Whispers in the Dark"
-    ],
-    "movies": [
-      {
-        "title": "Artists & Models",
-        "tmdb_id": 180004,
-        "imdb_id": "tt0028587"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1937",
-    "nominees": [
-      "The Old Mill"
-    ],
-    "movies": [
-      {
-        "title": "The Old Mill",
-        "tmdb_id": 72640,
-        "imdb_id": "tt0029339"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1937",
-    "nominees": [
-      "Educated Fish"
-    ],
-    "movies": [
-      {
-        "title": "Educated Fish",
-        "tmdb_id": 205251,
-        "imdb_id": "tt0028819"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1937",
-    "nominees": [
-      "The Little Match Girl"
-    ],
-    "movies": [
-      {
-        "title": "The Little Match Girl",
-        "tmdb_id": 219543,
-        "imdb_id": "tt0029151"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1937",
-    "nominees": [
-      "The Private Life of the Gannets"
-    ],
-    "movies": [
-      {
-        "title": "The Private Life of the Gannets",
-        "tmdb_id": 183187,
-        "imdb_id": "tt0029443"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1937",
-    "nominees": [
-      "A Night at the Movies"
-    ],
-    "movies": [
-      {
-        "title": "A Night at the Movies",
-        "tmdb_id": 208527,
-        "imdb_id": "tt0029311"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1937",
-    "nominees": [
-      "Romance of Radium"
-    ],
-    "movies": [
-      {
-        "title": "Romance of Radium",
-        "tmdb_id": 170636,
-        "imdb_id": "tt0029497"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1937",
-    "nominees": [
-      "Torture Money"
-    ],
-    "movies": [
-      {
-        "title": "Torture Money",
-        "tmdb_id": 130503,
-        "imdb_id": "tt0029684"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1937",
-    "nominees": [
-      "Deep South"
-    ],
-    "movies": [
-      {
-        "title": "Deep South",
-        "tmdb_id": 233703,
-        "imdb_id": "tt0028777"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1937",
-    "nominees": [
-      "Should Wives Work?"
-    ],
-    "movies": [
-      {
-        "title": "Should Wives Work?",
-        "tmdb_id": 233704,
-        "imdb_id": "tt0029555"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Color)",
-    "year": "1937",
-    "nominees": [
-      "Penny Wisdom"
-    ],
-    "movies": [
-      {
-        "title": "Penny Wisdom",
-        "tmdb_id": 233708,
-        "imdb_id": "tt0029385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Color)",
-    "year": "1937",
-    "nominees": [
-      "The Man Without a Country"
-    ],
-    "movies": [
-      {
-        "title": "The Man Without a Country",
-        "tmdb_id": 233710,
-        "imdb_id": "tt0029204"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Color)",
-    "year": "1937",
-    "nominees": [
-      "Popular Science J-7-1"
-    ],
-    "movies": [
-      {
-        "title": "Popular Science J-7-1",
-        "tmdb_id": 233713,
-        "imdb_id": "tt0029416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Stephen Goosson"
-    ],
-    "movies": [
-      {
-        "title": "Lost Horizon",
-        "tmdb_id": 3598,
-        "imdb_id": "tt0029162"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Carroll Clark"
-    ],
-    "movies": [
-      {
-        "title": "A Damsel in Distress",
-        "tmdb_id": 66473,
-        "imdb_id": "tt0028757"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "William S. Darling",
-      "David S. Hall"
-    ],
-    "movies": [
-      {
-        "title": "Wee Willie Winkie",
-        "tmdb_id": 43869,
-        "imdb_id": "tt0029751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Richard Day"
-    ],
-    "movies": [
-      {
-        "title": "Dead End",
-        "tmdb_id": 27973,
-        "imdb_id": "tt0028773"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Hans Dreier",
-      "Roland Anderson"
-    ],
-    "movies": [
-      {
-        "title": "Souls at Sea",
-        "tmdb_id": 43419,
-        "imdb_id": "tt0029593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Cedric Gibbons",
-      "William Horning"
-    ],
-    "movies": [
-      {
-        "title": "Conquest",
-        "tmdb_id": 30630,
-        "imdb_id": "tt0028739"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Anton Grot"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Wiard Ihnen"
-    ],
-    "movies": [
-      {
-        "title": "Every Day's a Holiday",
-        "tmdb_id": 131773,
-        "imdb_id": "tt0028843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "John Victor Mackay"
-    ],
-    "movies": [
-      {
-        "title": "Manhattan Merry-Go-Round",
-        "tmdb_id": 218345,
-        "imdb_id": "tt0029209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Jack Otterson"
-    ],
-    "movies": [
-      {
-        "title": "You're a Sweetheart",
-        "tmdb_id": 218347,
-        "imdb_id": "tt0029809"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Alexander Toluboff"
-    ],
-    "movies": [
-      {
-        "title": "Vogues of 1938",
-        "tmdb_id": 151914,
-        "imdb_id": "tt0029737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Lyle Wheeler"
-    ],
-    "movies": [
-      {
-        "title": "The Prisoner of Zenda",
-        "tmdb_id": 43867,
-        "imdb_id": "tt0029442"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Karl Freund"
-    ],
-    "movies": [
-      {
-        "title": "The Good Earth",
-        "tmdb_id": 36652,
-        "imdb_id": "tt0028944"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Gregg Toland"
-    ],
-    "movies": [
-      {
-        "title": "Dead End",
-        "tmdb_id": 27973,
-        "imdb_id": "tt0028773"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1937",
-    "nominees": [
-      "Joseph Valentine"
-    ],
-    "movies": [
-      {
-        "title": "Wings Over Honolulu",
-        "tmdb_id": 97226,
-        "imdb_id": "tt0029784"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1937",
-    "nominees": [
-      "W. Howard Greene"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 22692,
-        "imdb_id": "tt0029606"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1937",
-    "nominees": [
-      "Gene Havlick",
-      "Gene Milford"
-    ],
-    "movies": [
-      {
-        "title": "Lost Horizon",
-        "tmdb_id": 3598,
-        "imdb_id": "tt0029162"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1937",
-    "nominees": [
-      "Bernard W. Burton"
-    ],
-    "movies": [
-      {
-        "title": "One Hundred Men and a Girl",
-        "tmdb_id": 61647,
-        "imdb_id": "tt0029347"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1937",
-    "nominees": [
-      "Al Clark"
-    ],
-    "movies": [
-      {
-        "title": "The Awful Truth",
-        "tmdb_id": 14675,
-        "imdb_id": "tt0028597"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1937",
-    "nominees": [
-      "Elmo Veron"
-    ],
-    "movies": [
-      {
-        "title": "Captains Courageous",
-        "tmdb_id": 16515,
-        "imdb_id": "tt0028691"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1937",
-    "nominees": [
-      "Basil Wrangell"
-    ],
-    "movies": [
-      {
-        "title": "The Good Earth",
-        "tmdb_id": 36652,
-        "imdb_id": "tt0028944"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "Thomas Moulton"
-    ],
-    "movies": [
-      {
-        "title": "The Hurricane",
-        "tmdb_id": 77250,
-        "imdb_id": "tt0029030"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "A.E. Kaye"
-    ],
-    "movies": [
-      {
-        "title": "The Girl Said No",
-        "tmdb_id": 218351,
-        "imdb_id": "tt0028931"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "John Aalberg"
-    ],
-    "movies": [
-      {
-        "title": "Hitting a New High",
-        "tmdb_id": 77870,
-        "imdb_id": "tt0029006"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "E.H. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "In Old Chicago",
-        "tmdb_id": 78734,
-        "imdb_id": "tt0029047"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "The Life of Emile Zola",
-        "tmdb_id": 43278,
-        "imdb_id": "tt0029146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "John Livadary"
-    ],
-    "movies": [
-      {
-        "title": "Lost Horizon",
-        "tmdb_id": 3598,
-        "imdb_id": "tt0029162"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "Maytime",
-        "tmdb_id": 43862,
-        "imdb_id": "tt0029222"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "Homer G. Tasker"
-    ],
-    "movies": [
-      {
-        "title": "One Hundred Men and a Girl",
-        "tmdb_id": 61647,
-        "imdb_id": "tt0029347"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "Elmer Raguse"
-    ],
-    "movies": [
-      {
-        "title": "Topper",
-        "tmdb_id": 23101,
-        "imdb_id": "tt0029682"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1937",
-    "nominees": [
-      "Loren L. Ryder"
-    ],
-    "movies": [
-      {
-        "title": "Wells Fargo",
-        "tmdb_id": 111997,
-        "imdb_id": "tt0029752"
-      }
-    ],
-    "won": false
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Conquest",
+    "FilmId": "tt0028739",
+    "Name": "Charles Boyer",
+    "Nominees": "Charles Boyer",
+    "NomineeIds": "nm0000964",
+    "Winner": "",
+    "Detail": "Napoleon Bonaparte",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0029606",
+    "Name": "Fredric March",
+    "Nominees": "Fredric March",
+    "NomineeIds": "nm0545298",
+    "Winner": "",
+    "Detail": "Norman Maine (Alfred Hinkel)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Night Must Fall",
+    "FilmId": "tt0029310",
+    "Name": "Robert Montgomery",
+    "Nominees": "Robert Montgomery",
+    "NomineeIds": "nm0599910",
+    "Winner": "",
+    "Detail": "Danny",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "Paul Muni",
+    "Nominees": "Paul Muni",
+    "NomineeIds": "nm0612847",
+    "Winner": "",
+    "Detail": "Emile Zola",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Captains Courageous",
+    "FilmId": "tt0028691",
+    "Name": "Spencer Tracy",
+    "Nominees": "Spencer Tracy",
+    "NomineeIds": "nm0000075",
+    "Winner": "True",
+    "Detail": "Manuel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Awful Truth",
+    "FilmId": "tt0028597",
+    "Name": "Ralph Bellamy",
+    "Nominees": "Ralph Bellamy",
+    "NomineeIds": "nm0000897",
+    "Winner": "",
+    "Detail": "Daniel Leeson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Hurricane",
+    "FilmId": "tt0029030",
+    "Name": "Thomas Mitchell",
+    "Nominees": "Thomas Mitchell",
+    "NomineeIds": "nm0593775",
+    "Winner": "",
+    "Detail": "Doctor Kersaint",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "Joseph Schildkraut",
+    "Nominees": "Joseph Schildkraut",
+    "NomineeIds": "nm0771584",
+    "Winner": "True",
+    "Detail": "Captain Alfred Dreyfus",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Lost Horizon",
+    "FilmId": "tt0029162",
+    "Name": "H. B. Warner",
+    "Nominees": "H. B. Warner",
+    "NomineeIds": "nm0912478",
+    "Winner": "",
+    "Detail": "Chang",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Topper",
+    "FilmId": "tt0029682",
+    "Name": "Roland Young",
+    "Nominees": "Roland Young",
+    "NomineeIds": "nm0950019",
+    "Winner": "",
+    "Detail": "Cosmo Topper",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Awful Truth",
+    "FilmId": "tt0028597",
+    "Name": "Irene Dunne",
+    "Nominees": "Irene Dunne",
+    "NomineeIds": "nm0002050",
+    "Winner": "",
+    "Detail": "Lucy Warriner",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Camille",
+    "FilmId": "tt0028683",
+    "Name": "Greta Garbo",
+    "Nominees": "Greta Garbo",
+    "NomineeIds": "nm0001256",
+    "Winner": "",
+    "Detail": "Marguerite Gautier (Camille)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0029606",
+    "Name": "Janet Gaynor",
+    "Nominees": "Janet Gaynor",
+    "NomineeIds": "nm0310980",
+    "Winner": "",
+    "Detail": "Esther Blodgett/Vicki Lester",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Good Earth",
+    "FilmId": "tt0028944",
+    "Name": "Luise Rainer",
+    "Nominees": "Luise Rainer",
+    "NomineeIds": "nm0707023",
+    "Winner": "True",
+    "Detail": "O-Lan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Stella Dallas",
+    "FilmId": "tt0029608",
+    "Name": "Barbara Stanwyck",
+    "Nominees": "Barbara Stanwyck",
+    "NomineeIds": "nm0001766",
+    "Winner": "",
+    "Detail": "Stella Dallas",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "In Old Chicago",
+    "FilmId": "tt0029047",
+    "Name": "Alice Brady",
+    "Nominees": "Alice Brady",
+    "NomineeIds": "nm0103567",
+    "Winner": "True",
+    "Detail": "Molly O'Leary",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Stage Door",
+    "FilmId": "tt0029604",
+    "Name": "Andrea Leeds",
+    "Nominees": "Andrea Leeds",
+    "NomineeIds": "nm0498571",
+    "Winner": "",
+    "Detail": "Kaye Hamilton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Stella Dallas",
+    "FilmId": "tt0029608",
+    "Name": "Anne Shirley",
+    "Nominees": "Anne Shirley",
+    "NomineeIds": "nm0794297",
+    "Winner": "",
+    "Detail": "Laurel Dallas",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Dead End",
+    "FilmId": "tt0028773",
+    "Name": "Claire Trevor",
+    "Nominees": "Claire Trevor",
+    "NomineeIds": "nm0872456",
+    "Winner": "",
+    "Detail": "Francie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Night Must Fall",
+    "FilmId": "tt0029310",
+    "Name": "Dame May Whitty",
+    "Nominees": "Dame May Whitty",
+    "NomineeIds": "nm0926599",
+    "Winner": "",
+    "Detail": "Mrs. Bramson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Conquest",
+    "FilmId": "tt0028739",
+    "Name": "Cedric Gibbons, William Horning",
+    "Nominees": "Cedric Gibbons|William Horning",
+    "NomineeIds": "nm0316539|nm0395178",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "A Damsel in Distress",
+    "FilmId": "tt0028757",
+    "Name": "Carroll Clark",
+    "Nominees": "Carroll Clark",
+    "NomineeIds": "nm0163754",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Dead End",
+    "FilmId": "tt0028773",
+    "Name": "Richard Day",
+    "Nominees": "Richard Day",
+    "NomineeIds": "nm0206554",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Every Day's a Holiday",
+    "FilmId": "tt0028843",
+    "Name": "Wiard Ihnen",
+    "Nominees": "Wiard Ihnen",
+    "NomineeIds": "nm0407311",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "Anton Grot",
+    "Nominees": "Anton Grot",
+    "NomineeIds": "nm0343819",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Lost Horizon",
+    "FilmId": "tt0029162",
+    "Name": "Stephen Goosson",
+    "Nominees": "Stephen Goosson",
+    "NomineeIds": "nm0329684",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Manhattan Merry-Go-Round",
+    "FilmId": "tt0029209",
+    "Name": "John Victor Mackay",
+    "Nominees": "John Victor Mackay",
+    "NomineeIds": "nm0533179",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Prisoner of Zenda",
+    "FilmId": "tt0029442",
+    "Name": "Lyle Wheeler",
+    "Nominees": "Lyle Wheeler",
+    "NomineeIds": "nm0923907",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Souls at Sea",
+    "FilmId": "tt0029593",
+    "Name": "Hans Dreier, Roland Anderson",
+    "Nominees": "Hans Dreier|Roland Anderson",
+    "NomineeIds": "nm0237417|nm0027380",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Walter Wanger's Vogues of 1938",
+    "FilmId": "tt0029737",
+    "Name": "Alexander Toluboff",
+    "Nominees": "Alexander Toluboff",
+    "NomineeIds": "nm0866266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Wee Willie Winkie",
+    "FilmId": "tt0029751",
+    "Name": "William S. Darling, David Hall",
+    "Nominees": "William S. Darling|David Hall",
+    "NomineeIds": "nm0201419|nm0355465",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "You're a Sweetheart",
+    "FilmId": "tt0029809",
+    "Name": "Jack Otterson",
+    "Nominees": "Jack Otterson",
+    "NomineeIds": "nm0653163",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "ASSISTANT DIRECTOR",
+    "Category": "ASSISTANT DIRECTOR",
+    "Film": "In Old Chicago",
+    "FilmId": "tt0029047",
+    "Name": "Robert Webb",
+    "Nominees": "Robert Webb",
+    "NomineeIds": "nm0916271",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "ASSISTANT DIRECTOR",
+    "Category": "ASSISTANT DIRECTOR",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "Russ Saunders",
+    "Nominees": "Russ Saunders",
+    "NomineeIds": "nm0766951",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "ASSISTANT DIRECTOR",
+    "Category": "ASSISTANT DIRECTOR",
+    "Film": "Lost Horizon",
+    "FilmId": "tt0029162",
+    "Name": "C. C. Coleman, Jr.",
+    "Nominees": "C. C. Coleman Jr.",
+    "NomineeIds": "nm0170973",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "ASSISTANT DIRECTOR",
+    "Category": "ASSISTANT DIRECTOR",
+    "Film": "Souls at Sea",
+    "FilmId": "tt0029593",
+    "Name": "Hal Walker",
+    "Nominees": "Hal Walker",
+    "NomineeIds": "nm0907779",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "ASSISTANT DIRECTOR",
+    "Category": "ASSISTANT DIRECTOR",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0029606",
+    "Name": "Eric Stacey",
+    "Nominees": "Eric Stacey",
+    "NomineeIds": "nm0820947",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Dead End",
+    "FilmId": "tt0028773",
+    "Name": "Gregg Toland",
+    "Nominees": "Gregg Toland",
+    "NomineeIds": "nm0005904",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Good Earth",
+    "FilmId": "tt0028944",
+    "Name": "Karl Freund",
+    "Nominees": "Karl Freund",
+    "NomineeIds": "nm0005713",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Wings over Honolulu",
+    "FilmId": "tt0029784",
+    "Name": "Joseph Valentine",
+    "Nominees": "Joseph Valentine",
+    "NomineeIds": "nm0884252",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Varsity Show",
+    "FilmId": "tt0029725",
+    "Name": "Busby Berkeley",
+    "Nominees": "Busby Berkeley",
+    "NomineeIds": "nm0000923",
+    "Winner": "",
+    "Detail": "The Finale",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Ready, Willing and Able",
+    "FilmId": "tt0029467",
+    "Name": "Bobby Connolly",
+    "Nominees": "Bobby Connolly",
+    "NomineeIds": "nm0175265",
+    "Winner": "",
+    "Detail": "Too Marvelous for Words",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "A Day at the Races",
+    "FilmId": "tt0028772",
+    "Name": "Dave Gould",
+    "Nominees": "Dave Gould",
+    "NomineeIds": "nm0332346",
+    "Winner": "",
+    "Detail": "All God's Children Got Rhythm",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Ali Baba Goes to Town",
+    "FilmId": "tt0028566",
+    "Name": "Sammy Lee",
+    "Nominees": "Sammy Lee",
+    "NomineeIds": "nm0498192",
+    "Winner": "",
+    "Detail": "Swing Is Here to Stay",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Thin Ice",
+    "FilmId": "tt0029659",
+    "Name": "Harry Losee",
+    "Nominees": "Harry Losee",
+    "NomineeIds": "nm0521313",
+    "Winner": "",
+    "Detail": "Prince Igor Suite",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "A Damsel in Distress",
+    "FilmId": "tt0028757",
+    "Name": "Hermes Pan",
+    "Nominees": "Hermes Pan",
+    "NomineeIds": "nm0659009",
+    "Winner": "True",
+    "Detail": "Fun House",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "DANCE DIRECTION",
+    "Category": "DANCE DIRECTION",
+    "Film": "Waikiki Wedding",
+    "FilmId": "tt0029742",
+    "Name": "LeRoy Prinz",
+    "Nominees": "LeRoy Prinz",
+    "NomineeIds": "nm0697895",
+    "Winner": "",
+    "Detail": "Luau",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Awful Truth",
+    "FilmId": "tt0028597",
+    "Name": "Leo McCarey",
+    "Nominees": "Leo McCarey",
+    "NomineeIds": "nm0564970",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Good Earth",
+    "FilmId": "tt0028944",
+    "Name": "Sidney Franklin",
+    "Nominees": "Sidney Franklin",
+    "NomineeIds": "nm0291548",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "William Dieterle",
+    "Nominees": "William Dieterle",
+    "NomineeIds": "nm0226189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Stage Door",
+    "FilmId": "tt0029604",
+    "Name": "Gregory La Cava",
+    "Nominees": "Gregory La Cava",
+    "NomineeIds": "nm0478441",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0029606",
+    "Name": "William Wellman",
+    "Nominees": "William Wellman",
+    "NomineeIds": "nm0920074",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Awful Truth",
+    "FilmId": "tt0028597",
+    "Name": "Al Clark",
+    "Nominees": "Al Clark",
+    "NomineeIds": "nm0163617",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Captains Courageous",
+    "FilmId": "tt0028691",
+    "Name": "Elmo Veron",
+    "Nominees": "Elmo Veron",
+    "NomineeIds": "nm0894762",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Good Earth",
+    "FilmId": "tt0028944",
+    "Name": "Basil Wrangell",
+    "Nominees": "Basil Wrangell",
+    "NomineeIds": "nm0942007",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Lost Horizon",
+    "FilmId": "tt0029162",
+    "Name": "Gene Havlick, Gene Milford",
+    "Nominees": "Gene Havlick|Gene Milford",
+    "NomineeIds": "nm0369879|nm0587332",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "One Hundred Men and a Girl",
+    "FilmId": "tt0029347",
+    "Name": "Bernard W. Burton",
+    "Nominees": "Bernard W. Burton",
+    "NomineeIds": "nm0123521",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "The Hurricane",
+    "FilmId": "tt0029030",
+    "Name": "Samuel Goldwyn Studio Music Department, Alfred Newman, head of department (Score by Alfred Newman)",
+    "Nominees": "Samuel Goldwyn|Alfred Newman",
+    "NomineeIds": "co0058013|nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "In Old Chicago",
+    "FilmId": "tt0029047",
+    "Name": "20th Century-Fox Studio Music Department, Louis Silvers, head of department (no composer credit)",
+    "Nominees": "20th Century-Fox|Louis Silvers",
+    "NomineeIds": "co0028775|nm0799007",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "Warner Bros. Studio Music Department, Leo Forbstein, head of department (Score by Max Steiner)",
+    "Nominees": "Warner Bros.|Leo Forbstein|Max Steiner",
+    "NomineeIds": "co0080422|nm0006079|nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Lost Horizon",
+    "FilmId": "tt0029162",
+    "Name": "Columbia Studio Music Department, Morris Stoloff, head of department (Score by Dimitri Tiomkin)",
+    "Nominees": "Columbia|Morris Stoloff|Dimitri Tiomkin",
+    "NomineeIds": "co0050868|nm0006304|nm0006323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Make a Wish",
+    "FilmId": "tt0029193",
+    "Name": "Principal Productions, Dr. Hugo Riesenfeld, musical director (Score by Dr. Hugo Riesenfeld)",
+    "Nominees": "Principal Productions|Dr. Hugo Riesenfeld",
+    "NomineeIds": "co0030758|nm0006252",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Maytime",
+    "FilmId": "tt0029222",
+    "Name": "Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department (Score by Herbert Stothart)",
+    "Nominees": "Metro-Goldwyn-Mayer|Nat W. Finston|Herbert Stothart",
+    "NomineeIds": "co0007143|nm0278358|nm0006307",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "One Hundred Men and a Girl",
+    "FilmId": "tt0029347",
+    "Name": "Universal Studio Music Department, Charles Previn, head of department (no composer credit)",
+    "Nominees": "Universal|Charles Previn",
+    "NomineeIds": "co0005073|nm0006239",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Portia on Trial",
+    "FilmId": "tt0029433",
+    "Name": "Republic Studio Music Department, Alberto Colombo, head of department (Score by Alberto Colombo)",
+    "Nominees": "Republic|Alberto Colombo",
+    "NomineeIds": "co0020540|nm0173027",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "The Prisoner of Zenda",
+    "FilmId": "tt0029442",
+    "Name": "Selznick International Pictures Music Department, Alfred Newman, musical director (Score by Alfred Newman)",
+    "Nominees": "Selznick International Pictures|Alfred Newman",
+    "NomineeIds": "co0130901|nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Quality Street",
+    "FilmId": "tt0029454",
+    "Name": "RKO Radio Studio Music Department, Roy Webb, musical director (Score by Roy Webb)",
+    "Nominees": "RKO Radio|Roy Webb",
+    "NomineeIds": "co0041421|nm0002202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Snow White and the Seven Dwarfs",
+    "FilmId": "tt0029583",
+    "Name": "Walt Disney Studio Music Department, Leigh Harline, head of department (Score by Frank Churchill, Leigh Harline and Paul J. Smith)",
+    "Nominees": "Walt Disney Studios|Leigh Harline|Frank Churchill|Paul J. Smith",
+    "NomineeIds": "co0008970|nm0363316|nm0161430|nm1345229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Something to Sing About",
+    "FilmId": "tt0029588",
+    "Name": "Grand National Studio Music Department, C. Bakaleinikoff, musical director (Score by Victor Schertzinger)",
+    "Nominees": "Grand National|C. Bakaleinikoff|Victor Schertzinger",
+    "NomineeIds": "co0035646|nm0005954|nm0006276",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Souls at Sea",
+    "FilmId": "tt0029593",
+    "Name": "Paramount Studio Music Department, Boris Morros, head of department (Score by W. Franke Harling and Milan Roder)",
+    "Nominees": "Paramount|Boris Morros|W. Franke Harling|Milan Roder",
+    "NomineeIds": "co0023400|nm0607448|nm0006123|nm0006255",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Way Out West",
+    "FilmId": "tt0029747",
+    "Name": "Hal Roach Studio Music Department, Marvin Hatley, head of department (Score by Marvin Hatley)",
+    "Nominees": "Hal Roach|Marvin Hatley",
+    "NomineeIds": "co0075561|nm0368943",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Mr. Dodd Takes the Air",
+    "FilmId": "tt0029267",
+    "Name": "Music by Harry Warren; Lyrics by Al Dubin",
+    "Nominees": "Harry Warren|Al Dubin",
+    "NomineeIds": "nm0912851|nm0006048",
+    "Winner": "",
+    "Detail": "Remember Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Waikiki Wedding",
+    "FilmId": "tt0029742",
+    "Name": "Music and Lyrics by Harry Owens",
+    "Nominees": "Harry Owens",
+    "NomineeIds": "nm0654374",
+    "Winner": "True",
+    "Detail": "Sweet Leilani",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Walter Wanger's Vogues of 1938",
+    "FilmId": "tt0029737",
+    "Name": "Music by Sammy Fain; Lyrics by Lew Brown",
+    "Nominees": "Sammy Fain|Lew Brown",
+    "NomineeIds": "nm0006066|nm0114095",
+    "Winner": "",
+    "Detail": "That Old Feeling",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Shall We Dance",
+    "FilmId": "tt0029546",
+    "Name": "Music by George Gershwin; Lyrics by Ira Gershwin",
+    "Nominees": "George Gershwin|Ira Gershwin",
+    "NomineeIds": "nm0006097|nm0314857",
+    "Winner": "",
+    "Detail": "They Can't Take That Away From Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Artists and Models",
+    "FilmId": "tt0028587",
+    "Name": "Music by Frederick Hollander; Lyrics by Leo Robin",
+    "Nominees": "Frederick Hollander|Leo Robin",
+    "NomineeIds": "nm0006130|nm0732209",
+    "Winner": "",
+    "Detail": "Whispers In The Dark",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Awful Truth",
+    "FilmId": "tt0028597",
+    "Name": "Columbia",
+    "Nominees": "Columbia",
+    "NomineeIds": "co0050868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Captains Courageous",
+    "FilmId": "tt0028691",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Dead End",
+    "FilmId": "tt0028773",
+    "Name": "Samuel Goldwyn Productions",
+    "Nominees": "Samuel Goldwyn Productions",
+    "NomineeIds": "co0058013",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Good Earth",
+    "FilmId": "tt0028944",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "In Old Chicago",
+    "FilmId": "tt0029047",
+    "Name": "20th Century-Fox",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Lost Horizon",
+    "FilmId": "tt0029162",
+    "Name": "Columbia",
+    "Nominees": "Columbia",
+    "NomineeIds": "co0050868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "One Hundred Men and a Girl",
+    "FilmId": "tt0029347",
+    "Name": "Universal",
+    "Nominees": "Universal",
+    "NomineeIds": "co0005073",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Stage Door",
+    "FilmId": "tt0029604",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0029606",
+    "Name": "Selznick International Pictures",
+    "Nominees": "Selznick International Pictures",
+    "NomineeIds": "co0130901",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Educated Fish",
+    "FilmId": "tt0028819",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Little Match Girl",
+    "FilmId": "tt0029151",
+    "Name": "Charles Mintz, Producer",
+    "Nominees": "Charles Mintz",
+    "NomineeIds": "nm0591762",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Old Mill",
+    "FilmId": "tt0029339",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Color)",
+    "Category": "SHORT SUBJECT (Color)",
+    "Film": "The Man without a Country",
+    "FilmId": "tt0029204",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Color)",
+    "Category": "SHORT SUBJECT (Color)",
+    "Film": "Penny Wisdom",
+    "FilmId": "tt0029385",
+    "Name": "Pete Smith, Producer",
+    "Nominees": "Pete Smith",
+    "NomineeIds": "nm0809570",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Color)",
+    "Category": "SHORT SUBJECT (Color)",
+    "Film": "Popular Science J-7-1",
+    "FilmId": "tt0029416",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "A Night at the Movies",
+    "FilmId": "tt0029311",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "The Private Life of the Gannets",
+    "FilmId": "tt0029443",
+    "Name": "Skibo Productions",
+    "Nominees": "Skibo Productions",
+    "NomineeIds": "co0019661",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Romance of Radium",
+    "FilmId": "tt0029497",
+    "Name": "Pete Smith, Producer",
+    "Nominees": "Pete Smith",
+    "NomineeIds": "nm0809570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Deep South",
+    "FilmId": "tt0028777",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Should Wives Work?",
+    "FilmId": "tt0029555",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Torture Money",
+    "FilmId": "tt0029684",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Girl Said No",
+    "FilmId": "tt0028931",
+    "Name": "Grand National Studio Sound Department, A. E. Kaye, Sound Director",
+    "Nominees": "Grand National|A. E. Kaye",
+    "NomineeIds": "co0035646|nm0443253",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Hitting a New High",
+    "FilmId": "tt0029006",
+    "Name": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+    "Nominees": "RKO Radio|John Aalberg",
+    "NomineeIds": "co0041421|nm0007356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Hurricane",
+    "FilmId": "tt0029030",
+    "Name": "United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",
+    "Nominees": "United Artists|Thomas T. Moulton",
+    "NomineeIds": "co0026841|nm0609771",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "In Old Chicago",
+    "FilmId": "tt0029047",
+    "Name": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+    "Nominees": "20th Century-Fox|E. H. Hansen",
+    "NomineeIds": "co0028775|nm0360770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+    "Nominees": "Warner Bros.|Nathan Levinson",
+    "NomineeIds": "co0080422|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Lost Horizon",
+    "FilmId": "tt0029162",
+    "Name": "Columbia Studio Sound Department, John Livadary, Sound Director",
+    "Nominees": "Columbia|John Livadary",
+    "NomineeIds": "co0050868|nm0515093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Maytime",
+    "FilmId": "tt0029222",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Douglas Shearer",
+    "NomineeIds": "co0007143|nm0790428",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "One Hundred Men and a Girl",
+    "FilmId": "tt0029347",
+    "Name": "Universal Studio Sound Department, Homer G. Tasker, Sound Director",
+    "Nominees": "Universal|Homer G. Tasker",
+    "NomineeIds": "co0005073|nm0850920",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Topper",
+    "FilmId": "tt0029682",
+    "Name": "Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",
+    "Nominees": "Hal Roach|Elmer A. Raguse",
+    "NomineeIds": "co0075561|nm0706649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Wells Fargo",
+    "FilmId": "tt0029752",
+    "Name": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+    "Nominees": "Paramount|Loren L. Ryder",
+    "NomineeIds": "co0023400|nm0753122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Black Legion",
+    "FilmId": "tt0027367",
+    "Name": "Robert Lord",
+    "Nominees": "Robert Lord",
+    "NomineeIds": "nm0520501",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "In Old Chicago",
+    "FilmId": "tt0029047",
+    "Name": "Niven Busch",
+    "Nominees": "Niven Busch",
+    "NomineeIds": "nm0124002",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "Heinz Herald, Geza Herczeg",
+    "Nominees": "Heinz Herald|Geza Herczeg",
+    "NomineeIds": "nm0378431|nm0378773",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "One Hundred Men and a Girl",
+    "FilmId": "tt0029347",
+    "Name": "Hans Kraly",
+    "Nominees": "Hans Kraly",
+    "NomineeIds": "nm0473134",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0029606",
+    "Name": "William A. Wellman, Robert Carson",
+    "Nominees": "William A. Wellman|Robert Carson",
+    "NomineeIds": "nm0920074|nm0308604",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Awful Truth",
+    "FilmId": "tt0028597",
+    "Name": "Vina Delmar",
+    "Nominees": "Vina Delmar",
+    "NomineeIds": "nm0217568",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Captains Courageous",
+    "FilmId": "tt0028691",
+    "Name": "John Lee Mahin, Marc Connelly, Dale Van Every",
+    "Nominees": "John Lee Mahin|Marc Connelly|Dale Van Every",
+    "NomineeIds": "nm0536941|nm0175091|nm0886861",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Life of Emile Zola",
+    "FilmId": "tt0029146",
+    "Name": "Norman Reilly Raine, Heinz Herald, Geza Herczeg",
+    "Nominees": "Norman Reilly Raine|Heinz Herald|Geza Herczeg",
+    "NomineeIds": "nm0706993|nm0378431|nm0378773",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Stage Door",
+    "FilmId": "tt0029604",
+    "Name": "Morris Ryskind, Anthony Veiller",
+    "Nominees": "Morris Ryskind|Anthony Veiller",
+    "NomineeIds": "nm0753452|nm0892044",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0029606",
+    "Name": "Dorothy Parker, Alan Campbell, Robert Carson",
+    "Nominees": "Dorothy Parker|Alan Campbell|Robert Carson",
+    "NomineeIds": "nm0662213|nm0132180|nm0308604",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mack Sennett",
+    "NomineeIds": "nm0784407",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Mack Sennett, \\\"for his lasting contribution to the comedy technique of the screen, the basic principles of which are as important today as when they were first put into practice, the Academy presents a Special Award to that master of fun, discoverer of stars, sympathetic, kindly, understanding comedy genius - Mack Sennett.\\"
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Edgar Bergen",
+    "NomineeIds": "nm0001944",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Edgar Bergen for his outstanding comedy creation, \\\"Charlie McCarthy.\\"
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Museum of Modern Art Film Library",
+    "NomineeIds": "co0089684",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To The Museum of Modern Art Film Library for its significant work in collecting films dating from 1895 to the present and for the first time making available to the public the means of studying the historical and aesthetic development of the motion picture as one of the major arts."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0029606",
+    "Name": "",
+    "Nominees": "W. Howard Greene",
+    "NomineeIds": "nm0338946",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To W. Howard Greene for the color photography of A Star Is Born. (This Award was recommended by a committee of leading cinematographers after viewing all the color pictures made during the year.)"
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Darryl F. Zanuck",
+    "Nominees": "Darryl F. Zanuck",
+    "NomineeIds": "nm0953123",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Agfa Ansco Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To AGFA ANSCO CORPORATION for Agfa Supreme and Agfa Ultra Speed pan motion picture negatives."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Walt Disney Productions",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Cartoon Process",
+    "Note": "",
+    "Citation": "To WALT DISNEY PRODUCTIONS, LTD. for the design and application to production of the Multi-Plane Camera."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eastman Kodak Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To EASTMAN KODAK COMPANY for two fine-grain duplicating film stocks."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "FARCIOT EDOUART|PARAMOUNT PICTURES",
+    "NomineeIds": "nm0249643|co0023400",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To FARCIOT EDOUART and PARAMOUNT PICTURES, INC. for the development of the Paramount dual screen transparency camera setup."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Douglas Shearer|Metro-Goldwyn-Mayer",
+    "NomineeIds": "nm0790428|co0007143",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To DOUGLAS SHEARER and the METRO-GOLDWYN-MAYER STUDIO SOUND DEPARTMENT for a method of varying the scanning width of variable density sound tracks (squeeze tracks) for the purpose of obtaining an increased amount of noise reduction."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Arnold|Metro-Goldwyn-Mayer",
+    "NomineeIds": "nm0036507|co0007143",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To JOHN ARNOLD and the METRO-GOLDWYN-MAYER STUDIO CAMERA DEPARTMENT for their improvement of the semi-automatic follow focus device and its application to all of the cameras used by the Metro-Goldwyn-Mayer Studio."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Livadary",
+    "NomineeIds": "nm0515093",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JOHN LIVADARY, Director of Sound Recording for Columbia Pictures Corporation, for the application of the bi-planar light valve to motion picture sound recording."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thomas T. Moulton|United Artists",
+    "NomineeIds": "nm0609771|co0026841",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To THOMAS T. MOULTON and the UNITED ARTISTS STUDIO SOUND DEPARTMENT for the application to motion picture sound recording of volume indicators which have peak reading response and linear decibel scales."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Rca Manufacturing Co. Inc.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To RCA MANUFACTURING CO., INC. for the introduction of the modulated high-frequency method of determining optimum photographic processing conditions for variable width sound tracks."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JOSEPH E. ROBBINS|PARAMOUNT PICTURES",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To JOSEPH E. ROBBINS and PARAMOUNT PICTURES, INC. for an exceptional application of acoustic principles to the sound proofing of gasoline generators and water pumps."
+  },
+  {
+    "Ceremony": 10,
+    "Year": 1937,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Douglas Shearer|Metro-Goldwyn-Mayer",
+    "NomineeIds": "nm0790428|co0007143",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To DOUGLAS SHEARER and the METRO-GOLDWYN-MAYER STUDIO SOUND DEPARTMENT for the design of the film drive mechanism as incorporated in the ERPI 1010 reproducer."
   }
 ]

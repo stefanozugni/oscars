@@ -1,1868 +1,2162 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2015",
-        "nominees": [
-            "Spotlight"
-        ],
-        "movies": [
-            {
-                "title": "Spotlight",
-                "tmdb_id": 314365,
-                "imdb_id": "tt1895587"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2015",
-        "nominees": [
-            "Bridge of Spies"
-        ],
-        "movies": [
-            {
-                "title": "Bridge of Spies",
-                "tmdb_id": 296098,
-                "imdb_id": "tt3682448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2015",
-        "nominees": [
-            "Brooklyn"
-        ],
-        "movies": [
-            {
-                "title": "Brooklyn",
-                "tmdb_id": 167073,
-                "imdb_id": "tt2381111"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2015",
-        "nominees": [
-            "The Big Short"
-        ],
-        "movies": [
-            {
-                "title": "The Big Short",
-                "tmdb_id": 318846,
-                "imdb_id": "tt1596363"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2015",
-        "nominees": [
-            "Mad Max: Fury Road"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2015",
-        "nominees": [
-            "The Martian"
-        ],
-        "movies": [
-            {
-                "title": "The Martian",
-                "tmdb_id": 286217,
-                "imdb_id": "tt3659388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2015",
-        "nominees": [
-            "The Revenant"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2015",
-        "nominees": [
-            "Room"
-        ],
-        "movies": [
-            {
-                "title": "Room",
-                "tmdb_id": 264644,
-                "imdb_id": "tt3170832"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2015",
-        "nominees": [
-            "Leonardo DiCaprio"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2015",
-        "nominees": [
-            "Bryan Cranston"
-        ],
-        "movies": [
-            {
-                "title": "Trumbo",
-                "tmdb_id": 294016,
-                "imdb_id": "tt3203606"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2015",
-        "nominees": [
-            "Matt Damon"
-        ],
-        "movies": [
-            {
-                "title": "The Martian",
-                "tmdb_id": 286217,
-                "imdb_id": "tt3659388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2015",
-        "nominees": [
-            "Michael Fassbender"
-        ],
-        "movies": [
-            {
-                "title": "Steve Jobs",
-                "tmdb_id": 321697,
-                "imdb_id": "tt2080374"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2015",
-        "nominees": [
-            "Eddie Redmayne"
-        ],
-        "movies": [
-            {
-                "title": "The Danish Girl",
-                "tmdb_id": 306819,
-                "imdb_id": "tt0810819"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2015",
-        "nominees": [
-            "Brie Larson"
-        ],
-        "movies": [
-            {
-                "title": "Room",
-                "tmdb_id": 264644,
-                "imdb_id": "tt3170832"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2015",
-        "nominees": [
-            "Cate Blanchett"
-        ],
-        "movies": [
-            {
-                "title": "Carol",
-                "tmdb_id": 258480,
-                "imdb_id": "tt2402927"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2015",
-        "nominees": [
-            "Jennifer Lawrence"
-        ],
-        "movies": [
-            {
-                "title": "Joy",
-                "tmdb_id": 274479,
-                "imdb_id": "tt2446980"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2015",
-        "nominees": [
-            "Charlotte Rampling"
-        ],
-        "movies": [
-            {
-                "title": "45 Years",
-                "tmdb_id": 311291,
-                "imdb_id": "tt3544082"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2015",
-        "nominees": [
-            "Saoirse Ronan"
-        ],
-        "movies": [
-            {
-                "title": "Brooklyn",
-                "tmdb_id": 167073,
-                "imdb_id": "tt2381111"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2015",
-        "nominees": [
-            "Mark Rylance"
-        ],
-        "movies": [
-            {
-                "title": "Bridge of Spies",
-                "tmdb_id": 296098,
-                "imdb_id": "tt3682448"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2015",
-        "nominees": [
-            "Christian Bale"
-        ],
-        "movies": [
-            {
-                "title": "The Big Short",
-                "tmdb_id": 318846,
-                "imdb_id": "tt1596363"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2015",
-        "nominees": [
-            "Tom Hardy"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2015",
-        "nominees": [
-            "Mark Ruffalo"
-        ],
-        "movies": [
-            {
-                "title": "Spotlight",
-                "tmdb_id": 314365,
-                "imdb_id": "tt1895587"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2015",
-        "nominees": [
-            "Sylvester Stallone"
-        ],
-        "movies": [
-            {
-                "title": "Creed",
-                "tmdb_id": 312221,
-                "imdb_id": "tt3076658"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2015",
-        "nominees": [
-            "Alicia Vikander"
-        ],
-        "movies": [
-            {
-                "title": "The Danish Girl",
-                "tmdb_id": 306819,
-                "imdb_id": "tt0810819"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2015",
-        "nominees": [
-            "Jennifer Jason Leigh"
-        ],
-        "movies": [
-            {
-                "title": "The Hateful Eight",
-                "tmdb_id": 273248,
-                "imdb_id": "tt3460252"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2015",
-        "nominees": [
-            "Rooney Mara"
-        ],
-        "movies": [
-            {
-                "title": "Carol",
-                "tmdb_id": 258480,
-                "imdb_id": "tt2402927"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2015",
-        "nominees": [
-            "Rachel McAdams"
-        ],
-        "movies": [
-            {
-                "title": "Spotlight",
-                "tmdb_id": 314365,
-                "imdb_id": "tt1895587"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2015",
-        "nominees": [
-            "Kate Winslet"
-        ],
-        "movies": [
-            {
-                "title": "Steve Jobs",
-                "tmdb_id": 321697,
-                "imdb_id": "tt2080374"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2015",
-        "nominees": [
-            "Alejandro G. Inarritu"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2015",
-        "nominees": [
-            "Lenny Abrahamson"
-        ],
-        "movies": [
-            {
-                "title": "Room",
-                "tmdb_id": 264644,
-                "imdb_id": "tt3170832"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2015",
-        "nominees": [
-            "Tom McCarthy"
-        ],
-        "movies": [
-            {
-                "title": "Spotlight",
-                "tmdb_id": 314365,
-                "imdb_id": "tt1895587"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2015",
-        "nominees": [
-            "Adam McKay"
-        ],
-        "movies": [
-            {
-                "title": "The Big Short",
-                "tmdb_id": 318846,
-                "imdb_id": "tt1596363"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2015",
-        "nominees": [
-            "George Miller"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Charles Randolph",
-            "Adam McKay"
-        ],
-        "movies": [
-            {
-                "title": "The Big Short",
-                "tmdb_id": 318846,
-                "imdb_id": "tt1596363"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Phyllis Nagy"
-        ],
-        "movies": [
-            {
-                "title": "Carol",
-                "tmdb_id": 258480,
-                "imdb_id": "tt2402927"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Drew Goddard"
-        ],
-        "movies": [
-            {
-                "title": "The Martian",
-                "tmdb_id": 286217,
-                "imdb_id": "tt3659388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Emma Donoghue"
-        ],
-        "movies": [
-            {
-                "title": "Room",
-                "tmdb_id": 264644,
-                "imdb_id": "tt3170832"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Nick Hornby"
-        ],
-        "movies": [
-            {
-                "title": "Brooklyn",
-                "tmdb_id": 167073,
-                "imdb_id": "tt2381111"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Josh Singer",
-            "Tom McCarthy"
-        ],
-        "movies": [
-            {
-                "title": "Spotlight",
-                "tmdb_id": 314365,
-                "imdb_id": "tt1895587"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Matt Charman",
-            "Ethan Coen",
-            "Joel Coen"
-        ],
-        "movies": [
-            {
-                "title": "Bridge of Spies",
-                "tmdb_id": 296098,
-                "imdb_id": "tt3682448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Alex Garland"
-        ],
-        "movies": [
-            {
-                "title": "Ex Machina",
-                "tmdb_id": 264660,
-                "imdb_id": "tt0470752"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Pete Docter",
-            "Meg LeFauve",
-            "Ronnie del Carmen",
-            "Josh Cooley"
-        ],
-        "movies": [
-            {
-                "title": "Inside Out",
-                "tmdb_id": 150540,
-                "imdb_id": "tt2096673"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2015",
-        "nominees": [
-            "Jonathan Herman",
-            "Andrea Berloff",
-            "S. Leigh Savidge",
-            "Alan Wenkus"
-        ],
-        "movies": [
-            {
-                "title": "Straight Outta Compton",
-                "tmdb_id": 277216,
-                "imdb_id": "tt1398426"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2015",
-        "nominees": [
-            "Ennio Morricone"
-        ],
-        "movies": [
-            {
-                "title": "The Hateful Eight",
-                "tmdb_id": 273248,
-                "imdb_id": "tt3460252"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2015",
-        "nominees": [
-            "Thomas Newman"
-        ],
-        "movies": [
-            {
-                "title": "Bridge of Spies",
-                "tmdb_id": 296098,
-                "imdb_id": "tt3682448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2015",
-        "nominees": [
-            "Carter Burwell"
-        ],
-        "movies": [
-            {
-                "title": "Carol",
-                "tmdb_id": 258480,
-                "imdb_id": "tt2402927"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2015",
-        "nominees": [
-            "Johann Johannsson"
-        ],
-        "movies": [
-            {
-                "title": "Sicario",
-                "tmdb_id": 273481,
-                "imdb_id": "tt3397884"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2015",
-        "nominees": [
-            "John Williams"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Force Awakens",
-                "tmdb_id": 140607,
-                "imdb_id": "tt2488496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2015",
-        "nominees": [
-            "Writing's On The Wall"
-        ],
-        "movies": [
-            {
-                "title": "Spectre",
-                "tmdb_id": 206647,
-                "imdb_id": "tt2379713"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2015",
-        "nominees": [
-            "Earned It"
-        ],
-        "movies": [
-            {
-                "title": "Fifty Shades of Grey",
-                "tmdb_id": 216015,
-                "imdb_id": "tt2322441"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2015",
-        "nominees": [
-            "Manta Ray"
-        ],
-        "movies": [
-            {
-                "title": "Racing Extinction",
-                "tmdb_id": 300792,
-                "imdb_id": "tt1618448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2015",
-        "nominees": [
-            "Simple Song #3"
-        ],
-        "movies": [
-            {
-                "title": "Youth",
-                "tmdb_id": 310593,
-                "imdb_id": "tt3312830"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2015",
-        "nominees": [
-            "Til It Happens to You"
-        ],
-        "movies": [
-            {
-                "title": "The Hunting Ground",
-                "tmdb_id": 319091,
-                "imdb_id": "tt4185572"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2015",
-        "nominees": [
-            "Son of Saul"
-        ],
-        "movies": [
-            {
-                "title": "Son of Saul",
-                "tmdb_id": 336050,
-                "imdb_id": "tt3808342"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2015",
-        "nominees": [
-            "Mustang"
-        ],
-        "movies": [
-            {
-                "title": "Mustang",
-                "tmdb_id": 336804,
-                "imdb_id": "tt3966404"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2015",
-        "nominees": [
-            "Theeb"
-        ],
-        "movies": [
-            {
-                "title": "Theeb",
-                "tmdb_id": 287628,
-                "imdb_id": "tt3170902"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2015",
-        "nominees": [
-            "A War"
-        ],
-        "movies": [
-            {
-                "title": "A War",
-                "tmdb_id": 348674,
-                "imdb_id": "tt3830162"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2015",
-        "nominees": [
-            "Embrace of the Serpent"
-        ],
-        "movies": [
-            {
-                "title": "Embrace of the Serpent",
-                "tmdb_id": 336808,
-                "imdb_id": "tt4285496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2015",
-        "nominees": [
-            "Amy"
-        ],
-        "movies": [
-            {
-                "title": "Amy",
-                "tmdb_id": 331781,
-                "imdb_id": "tt2870648"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2015",
-        "nominees": [
-            "Cartel Land"
-        ],
-        "movies": [
-            {
-                "title": "Cartel Land",
-                "tmdb_id": 317952,
-                "imdb_id": "tt4126304"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2015",
-        "nominees": [
-            "The Look of Silence"
-        ],
-        "movies": [
-            {
-                "title": "The Look of Silence",
-                "tmdb_id": 267480,
-                "imdb_id": "tt3521134"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2015",
-        "nominees": [
-            "What Happened, Miss Simone?"
-        ],
-        "movies": [
-            {
-                "title": "What Happened, Miss Simone?",
-                "tmdb_id": 318044,
-                "imdb_id": "tt4284010"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2015",
-        "nominees": [
-            "Winter on Fire: Ukraine's Fight for Freedom"
-        ],
-        "movies": [
-            {
-                "title": "Winter on Fire: Ukraine's Fight for Freedom",
-                "tmdb_id": 355020,
-                "imdb_id": "tt4908644"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2015",
-        "nominees": [
-            "A Girl in the River: The Price of Forgiveness"
-        ],
-        "movies": [
-            {
-                "title": "A Girl in the River: The Price of Forgiveness",
-                "tmdb_id": 369364,
-                "imdb_id": "tt5144072"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2015",
-        "nominees": [
-            "Body Team 12"
-        ],
-        "movies": [
-            {
-                "title": "Body Team 12",
-                "tmdb_id": 365447,
-                "imdb_id": "tt4430002"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2015",
-        "nominees": [
-            "Chau, Beyond the Lines"
-        ],
-        "movies": [
-            {
-                "title": "Chau, Beyond the Lines",
-                "tmdb_id": 369362,
-                "imdb_id": "tt4084844"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2015",
-        "nominees": [
-            "Claude Lanzmann: Spectres of the Shoah"
-        ],
-        "movies": [
-            {
-                "title": "Claude Lanzmann: Spectres of the Shoah",
-                "tmdb_id": 369363,
-                "imdb_id": "tt4815426"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2015",
-        "nominees": [
-            "Last Day of Freedom"
-        ],
-        "movies": [
-            {
-                "title": "Last Day of Freedom",
-                "tmdb_id": 369366,
-                "imdb_id": "tt4172096"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2015",
-        "nominees": [
-            "Inside Out"
-        ],
-        "movies": [
-            {
-                "title": "Inside Out",
-                "tmdb_id": 150540,
-                "imdb_id": "tt2096673"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2015",
-        "nominees": [
-            "Shaun the Sheep Movie"
-        ],
-        "movies": [
-            {
-                "title": "Shaun the Sheep Movie",
-                "tmdb_id": 263109,
-                "imdb_id": "tt2872750"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2015",
-        "nominees": [
-            "When Marnie Was There"
-        ],
-        "movies": [
-            {
-                "title": "When Marnie Was There",
-                "tmdb_id": 242828,
-                "imdb_id": "tt3398268"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2015",
-        "nominees": [
-            "Anomalisa"
-        ],
-        "movies": [
-            {
-                "title": "Anomalisa",
-                "tmdb_id": 291270,
-                "imdb_id": "tt2401878"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2015",
-        "nominees": [
-            "Boy & the World"
-        ],
-        "movies": [
-            {
-                "title": "Boy & the World",
-                "tmdb_id": 223706,
-                "imdb_id": "tt3183630"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2015",
-        "nominees": [
-            "Bear Story"
-        ],
-        "movies": [
-            {
-                "title": "Bear Story",
-                "tmdb_id": 351981,
-                "imdb_id": "tt3829254"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2015",
-        "nominees": [
-            "Prologue"
-        ],
-        "movies": [
-            {
-                "title": "Prologue",
-                "tmdb_id": 359549,
-                "imdb_id": "tt4955294"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2015",
-        "nominees": [
-            "Sanjay's Super Team"
-        ],
-        "movies": [
-            {
-                "title": "Sanjay's Super Team",
-                "tmdb_id": 345637,
-                "imdb_id": "tt4661600"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2015",
-        "nominees": [
-            "We Can't Live Without Cosmos"
-        ],
-        "movies": [
-            {
-                "title": "We Can't Live Without Cosmos",
-                "tmdb_id": 329063,
-                "imdb_id": "tt3965660"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2015",
-        "nominees": [
-            "World of Tomorrow"
-        ],
-        "movies": [
-            {
-                "title": "World of Tomorrow",
-                "tmdb_id": 303867,
-                "imdb_id": "tt4171032"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2015",
-        "nominees": [
-            "Stutterer"
-        ],
-        "movies": [
-            {
-                "title": "Stutterer",
-                "tmdb_id": 369373,
-                "imdb_id": "tt4817576"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2015",
-        "nominees": [
-            "Ave Maria"
-        ],
-        "movies": [
-            {
-                "title": "Ave Maria",
-                "tmdb_id": 348396,
-                "imdb_id": "tt4419794"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2015",
-        "nominees": [
-            "Day One"
-        ],
-        "movies": [
-            {
-                "title": "Day One",
-                "tmdb_id": 335026,
-                "imdb_id": "tt4122886"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2015",
-        "nominees": [
-            "Everything Will Be Okay"
-        ],
-        "movies": [
-            {
-                "title": "Everything Will Be Okay",
-                "tmdb_id": 365909,
-                "imdb_id": "tt4324518"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2015",
-        "nominees": [
-            "Friend"
-        ],
-        "movies": [
-            {
-                "title": "Friend",
-                "tmdb_id": 366736,
-                "imdb_id": "tt4273570"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Colin Gibson",
-            "Lisa Thompson"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Adam Stockhausen",
-            "Rena DeAngelo",
-            "Bernhard Henrich"
-        ],
-        "movies": [
-            {
-                "title": "Bridge of Spies",
-                "tmdb_id": 296098,
-                "imdb_id": "tt3682448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Eve Stewart",
-            "Michael Standish"
-        ],
-        "movies": [
-            {
-                "title": "The Danish Girl",
-                "tmdb_id": 306819,
-                "imdb_id": "tt0810819"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Arthur Max",
-            "Celia Bobak"
-        ],
-        "movies": [
-            {
-                "title": "The Martian",
-                "tmdb_id": 286217,
-                "imdb_id": "tt3659388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Jack Fisk",
-            "Hamish Purdy"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2015",
-        "nominees": [
-            "Emmanuel Lubezki"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2015",
-        "nominees": [
-            "Ed Lachman"
-        ],
-        "movies": [
-            {
-                "title": "Carol",
-                "tmdb_id": 258480,
-                "imdb_id": "tt2402927"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2015",
-        "nominees": [
-            "Robert Richardson"
-        ],
-        "movies": [
-            {
-                "title": "The Hateful Eight",
-                "tmdb_id": 273248,
-                "imdb_id": "tt3460252"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2015",
-        "nominees": [
-            "John Seale"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2015",
-        "nominees": [
-            "Roger Deakins"
-        ],
-        "movies": [
-            {
-                "title": "Sicario",
-                "tmdb_id": 273481,
-                "imdb_id": "tt3397884"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2015",
-        "nominees": [
-            "Margaret Sixel"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2015",
-        "nominees": [
-            "Hank Corwin"
-        ],
-        "movies": [
-            {
-                "title": "The Big Short",
-                "tmdb_id": 318846,
-                "imdb_id": "tt1596363"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2015",
-        "nominees": [
-            "Stephen Mirrione"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2015",
-        "nominees": [
-            "Tom McArdle"
-        ],
-        "movies": [
-            {
-                "title": "Spotlight",
-                "tmdb_id": 314365,
-                "imdb_id": "tt1895587"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2015",
-        "nominees": [
-            "Maryann Brandon",
-            "Mary Jo Markey"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Force Awakens",
-                "tmdb_id": 140607,
-                "imdb_id": "tt2488496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2015",
-        "nominees": [
-            "Andrew Whitehurst",
-            "Paul Norris",
-            "Mark Ardington",
-            "Sara Bennett"
-        ],
-        "movies": [
-            {
-                "title": "Ex Machina",
-                "tmdb_id": 264660,
-                "imdb_id": "tt0470752"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2015",
-        "nominees": [
-            "Andrew Jackson",
-            "Tom Wood",
-            "Dan Oliver",
-            "Andy Williams"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2015",
-        "nominees": [
-            "Richard Stammers",
-            "Anders Langlands",
-            "Chris Lawrence",
-            "Steven Warner"
-        ],
-        "movies": [
-            {
-                "title": "The Martian",
-                "tmdb_id": 286217,
-                "imdb_id": "tt3659388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2015",
-        "nominees": [
-            "Roger Guyett",
-            "Patrick Tubach",
-            "Neal Scanlan",
-            "Chris Corbould"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Force Awakens",
-                "tmdb_id": 140607,
-                "imdb_id": "tt2488496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2015",
-        "nominees": [
-            "Rich McBride",
-            "Matthew Shumway",
-            "Jason Smith",
-            "Cameron Waldbauer"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2015",
-        "nominees": [
-            "Chris Jenkins",
-            "Gregg Rudloff",
-            "Ben Osmo"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2015",
-        "nominees": [
-            "Andy Nelson",
-            "Gary Rydstrom",
-            "Drew Kunin"
-        ],
-        "movies": [
-            {
-                "title": "Bridge of Spies",
-                "tmdb_id": 296098,
-                "imdb_id": "tt3682448"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2015",
-        "nominees": [
-            "Paul Massey",
-            "Mark Taylor",
-            "Mac Ruth"
-        ],
-        "movies": [
-            {
-                "title": "The Martian",
-                "tmdb_id": 286217,
-                "imdb_id": "tt3659388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2015",
-        "nominees": [
-            "Jon Taylor",
-            "Frank A. Montano",
-            "Randy Thom",
-            "Chris Duesterdiek"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2015",
-        "nominees": [
-            "Andy Nelson",
-            "Christopher Scarabosio",
-            "Stuart Wilson"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Force Awakens",
-                "tmdb_id": 140607,
-                "imdb_id": "tt2488496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2015",
-        "nominees": [
-            "Mark Mangini",
-            "David White"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2015",
-        "nominees": [
-            "Matthew Wood",
-            "David Acord"
-        ],
-        "movies": [
-            {
-                "title": "Star Wars: The Force Awakens",
-                "tmdb_id": 140607,
-                "imdb_id": "tt2488496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2015",
-        "nominees": [
-            "Oliver Tarney"
-        ],
-        "movies": [
-            {
-                "title": "The Martian",
-                "tmdb_id": 286217,
-                "imdb_id": "tt3659388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2015",
-        "nominees": [
-            "Martin Hernandez",
-            "Lon Bender"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2015",
-        "nominees": [
-            "Alan Robert Murray"
-        ],
-        "movies": [
-            {
-                "title": "Sicario",
-                "tmdb_id": 273481,
-                "imdb_id": "tt3397884"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2015",
-        "nominees": [
-            "Lesley Vanderwalt",
-            "Elka Wardega",
-            "Damian Martin"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2015",
-        "nominees": [
-            "Love Larson",
-            "Eva von Bahr"
-        ],
-        "movies": [
-            {
-                "title": "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
-                "tmdb_id": 145247,
-                "imdb_id": "tt2113681"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2015",
-        "nominees": [
-            "Sian Grigg",
-            "Duncan Jarman",
-            "Robert Pandini"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Jenny Beavan"
-        ],
-        "movies": [
-            {
-                "title": "Mad Max: Fury Road",
-                "tmdb_id": 76341,
-                "imdb_id": "tt1392190"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Sandy Powell"
-        ],
-        "movies": [
-            {
-                "title": "Carol",
-                "tmdb_id": 258480,
-                "imdb_id": "tt2402927"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Sandy Powell"
-        ],
-        "movies": [
-            {
-                "title": "Cinderella",
-                "tmdb_id": 150689,
-                "imdb_id": "tt1661199"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Paco Delgado"
-        ],
-        "movies": [
-            {
-                "title": "The Danish Girl",
-                "tmdb_id": 306819,
-                "imdb_id": "tt0810819"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2015",
-        "nominees": [
-            "Jacqueline West"
-        ],
-        "movies": [
-            {
-                "title": "The Revenant",
-                "tmdb_id": 281957,
-                "imdb_id": "tt1663202"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Trumbo",
+    "FilmId": "tt3203606",
+    "Name": "Bryan Cranston",
+    "Nominees": "Bryan Cranston",
+    "NomineeIds": "nm0186505",
+    "Winner": "",
+    "Detail": "Dalton Trumbo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Martian",
+    "FilmId": "tt3659388",
+    "Name": "Matt Damon",
+    "Nominees": "Matt Damon",
+    "NomineeIds": "nm0000354",
+    "Winner": "",
+    "Detail": "Mark Watney",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Leonardo DiCaprio",
+    "Nominees": "Leonardo DiCaprio",
+    "NomineeIds": "nm0000138",
+    "Winner": "True",
+    "Detail": "Hugh Glass",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Steve Jobs",
+    "FilmId": "tt2080374",
+    "Name": "Michael Fassbender",
+    "Nominees": "Michael Fassbender",
+    "NomineeIds": "nm1055413",
+    "Winner": "",
+    "Detail": "Steve Jobs",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Danish Girl",
+    "FilmId": "tt0810819",
+    "Name": "Eddie Redmayne",
+    "Nominees": "Eddie Redmayne",
+    "NomineeIds": "nm1519666",
+    "Winner": "",
+    "Detail": "Lili",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Big Short",
+    "FilmId": "tt1596363",
+    "Name": "Christian Bale",
+    "Nominees": "Christian Bale",
+    "NomineeIds": "nm0000288",
+    "Winner": "",
+    "Detail": "Michael Burry",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Tom Hardy",
+    "Nominees": "Tom Hardy",
+    "NomineeIds": "nm0362766",
+    "Winner": "",
+    "Detail": "John Fitzgerald",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Spotlight",
+    "FilmId": "tt1895587",
+    "Name": "Mark Ruffalo",
+    "Nominees": "Mark Ruffalo",
+    "NomineeIds": "nm0749263",
+    "Winner": "",
+    "Detail": "Mike Rezendes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Bridge of Spies",
+    "FilmId": "tt3682448",
+    "Name": "Mark Rylance",
+    "Nominees": "Mark Rylance",
+    "NomineeIds": "nm0753314",
+    "Winner": "True",
+    "Detail": "Rudolf Abel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Creed",
+    "FilmId": "tt3076658",
+    "Name": "Sylvester Stallone",
+    "Nominees": "Sylvester Stallone",
+    "NomineeIds": "nm0000230",
+    "Winner": "",
+    "Detail": "Rocky Balboa",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Carol",
+    "FilmId": "tt2402927",
+    "Name": "Cate Blanchett",
+    "Nominees": "Cate Blanchett",
+    "NomineeIds": "nm0000949",
+    "Winner": "",
+    "Detail": "Carol Aird",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Room",
+    "FilmId": "tt3170832",
+    "Name": "Brie Larson",
+    "Nominees": "Brie Larson",
+    "NomineeIds": "nm0488953",
+    "Winner": "True",
+    "Detail": "Ma",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Joy",
+    "FilmId": "tt2446980",
+    "Name": "Jennifer Lawrence",
+    "Nominees": "Jennifer Lawrence",
+    "NomineeIds": "nm2225369",
+    "Winner": "",
+    "Detail": "Joy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "45 Years",
+    "FilmId": "tt3544082",
+    "Name": "Charlotte Rampling",
+    "Nominees": "Charlotte Rampling",
+    "NomineeIds": "nm0001648",
+    "Winner": "",
+    "Detail": "Kate Mercer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Brooklyn",
+    "FilmId": "tt2381111",
+    "Name": "Saoirse Ronan",
+    "Nominees": "Saoirse Ronan",
+    "NomineeIds": "nm1519680",
+    "Winner": "",
+    "Detail": "Eilis",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Hateful Eight",
+    "FilmId": "tt3460252",
+    "Name": "Jennifer Jason Leigh",
+    "Nominees": "Jennifer Jason Leigh",
+    "NomineeIds": "nm0000492",
+    "Winner": "",
+    "Detail": "Daisy Domergue",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Carol",
+    "FilmId": "tt2402927",
+    "Name": "Rooney Mara",
+    "Nominees": "Rooney Mara",
+    "NomineeIds": "nm1913734",
+    "Winner": "",
+    "Detail": "Therese Belivet",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Spotlight",
+    "FilmId": "tt1895587",
+    "Name": "Rachel McAdams",
+    "Nominees": "Rachel McAdams",
+    "NomineeIds": "nm1046097",
+    "Winner": "",
+    "Detail": "Sacha Pfeiffer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Danish Girl",
+    "FilmId": "tt0810819",
+    "Name": "Alicia Vikander",
+    "Nominees": "Alicia Vikander",
+    "NomineeIds": "nm2539953",
+    "Winner": "True",
+    "Detail": "Gerda",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Steve Jobs",
+    "FilmId": "tt2080374",
+    "Name": "Kate Winslet",
+    "Nominees": "Kate Winslet",
+    "NomineeIds": "nm0000701",
+    "Winner": "",
+    "Detail": "Joanna Hoffman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Anomalisa",
+    "FilmId": "tt2401878",
+    "Name": "Charlie Kaufman, Duke Johnson and Rosa Tran",
+    "Nominees": "Charlie Kaufman|Duke Johnson|Rosa Tran",
+    "NomineeIds": "nm0442109|nm2122478|nm1533266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Boy and the World",
+    "FilmId": "tt3183630",
+    "Name": "Alê Abreu",
+    "Nominees": "Alê Abreu",
+    "NomineeIds": "nm0994245",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Inside Out",
+    "FilmId": "tt2096673",
+    "Name": "Pete Docter and Jonas Rivera",
+    "Nominees": "Pete Docter|Jonas Rivera",
+    "NomineeIds": "nm0230032|nm0729304",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Shaun the Sheep Movie",
+    "FilmId": "tt2872750",
+    "Name": "Mark Burton and Richard Starzak",
+    "Nominees": "Mark Burton|Richard Starzak",
+    "NomineeIds": "nm0123666|nm0326450",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "When Marnie Was There",
+    "FilmId": "tt3398268",
+    "Name": "Hiromasa Yonebayashi and Yoshiaki Nishimura",
+    "Nominees": "Hiromasa Yonebayashi|Yoshiaki Nishimura",
+    "NomineeIds": "nm0948488|nm2052679",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Carol",
+    "FilmId": "tt2402927",
+    "Name": "Ed Lachman",
+    "Nominees": "Ed Lachman",
+    "NomineeIds": "nm0005767",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Hateful Eight",
+    "FilmId": "tt3460252",
+    "Name": "Robert Richardson",
+    "Nominees": "Robert Richardson",
+    "NomineeIds": "nm0724744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "John Seale",
+    "Nominees": "John Seale",
+    "NomineeIds": "nm0005868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Emmanuel Lubezki",
+    "Nominees": "Emmanuel Lubezki",
+    "NomineeIds": "nm0523881",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Sicario",
+    "FilmId": "tt3397884",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Carol",
+    "FilmId": "tt2402927",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Cinderella",
+    "FilmId": "tt1661199",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Danish Girl",
+    "FilmId": "tt0810819",
+    "Name": "Paco Delgado",
+    "Nominees": "Paco Delgado",
+    "NomineeIds": "nm0214625",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "Jenny Beavan",
+    "Nominees": "Jenny Beavan",
+    "NomineeIds": "nm0064746",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Jacqueline West",
+    "Nominees": "Jacqueline West",
+    "NomineeIds": "nm0922113",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Big Short",
+    "FilmId": "tt1596363",
+    "Name": "Adam McKay",
+    "Nominees": "Adam McKay",
+    "NomineeIds": "nm0570912",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "George Miller",
+    "Nominees": "George Miller",
+    "NomineeIds": "nm0004306",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Alejandro G. Iñárritu",
+    "Nominees": "Alejandro G. Iñárritu",
+    "NomineeIds": "nm0327944",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Room",
+    "FilmId": "tt3170832",
+    "Name": "Lenny Abrahamson",
+    "Nominees": "Lenny Abrahamson",
+    "NomineeIds": "nm1049433",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Spotlight",
+    "FilmId": "tt1895587",
+    "Name": "Tom McCarthy",
+    "Nominees": "Tom McCarthy",
+    "NomineeIds": "nm0565336",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Amy",
+    "FilmId": "tt2870648",
+    "Name": "Asif Kapadia and James Gay-Rees",
+    "Nominees": "Asif Kapadia|James Gay-Rees",
+    "NomineeIds": "nm0438090|nm0310813",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Cartel Land",
+    "FilmId": "tt4126304",
+    "Name": "Matthew Heineman and Tom Yellin",
+    "Nominees": "Matthew Heineman|Tom Yellin",
+    "NomineeIds": "nm1292648|nm0947400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Look of Silence",
+    "FilmId": "tt3521134",
+    "Name": "Joshua Oppenheimer and Signe Byrge Sørensen",
+    "Nominees": "Joshua Oppenheimer|Signe Byrge Sørensen",
+    "NomineeIds": "nm1484791|nm1718147",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "What Happened, Miss Simone?",
+    "FilmId": "tt4284010",
+    "Name": "Liz Garbus, Amy Hobby and Justin Wilkes",
+    "Nominees": "Liz Garbus|Amy Hobby|Justin Wilkes",
+    "NomineeIds": "nm0305017|nm0387646|nm1461710",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Winter on Fire: Ukraine's Fight for Freedom",
+    "FilmId": "tt4908644",
+    "Name": "Evgeny Afineevsky and Den Tolmor",
+    "Nominees": "Evgeny Afineevsky|Den Tolmor",
+    "NomineeIds": "nm1017958|nm5236230",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Body Team 12",
+    "FilmId": "tt4430002",
+    "Name": "David Darg and Bryn Mooser",
+    "Nominees": "David Darg|Bryn Mooser",
+    "NomineeIds": "nm4093026|nm1666274",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Chau, beyond the Lines",
+    "FilmId": "tt4084844",
+    "Name": "Courtney Marsh and Jerry Franck",
+    "Nominees": "Courtney Marsh|Jerry Franck",
+    "NomineeIds": "nm3229589|nm3192902",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Claude Lanzmann: Spectres of the Shoah",
+    "FilmId": "tt4815426",
+    "Name": "Adam Benzine",
+    "Nominees": "Adam Benzine",
+    "NomineeIds": "nm6887155",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Girl in the River: The Price of Forgiveness",
+    "FilmId": "tt5144072",
+    "Name": "Sharmeen Obaid-Chinoy",
+    "Nominees": "Sharmeen Obaid-Chinoy",
+    "NomineeIds": "nm1581464",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Last Day of Freedom",
+    "FilmId": "tt4172096",
+    "Name": "Dee Hibbert-Jones and Nomi Talisman",
+    "Nominees": "Dee Hibbert-Jones|Nomi Talisman",
+    "NomineeIds": "nm6889620|nm6889621",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Big Short",
+    "FilmId": "tt1596363",
+    "Name": "Hank Corwin",
+    "Nominees": "Hank Corwin",
+    "NomineeIds": "nm0181650",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "Margaret Sixel",
+    "Nominees": "Margaret Sixel",
+    "NomineeIds": "nm0803459",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Stephen Mirrione",
+    "Nominees": "Stephen Mirrione",
+    "NomineeIds": "nm0592537",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Spotlight",
+    "FilmId": "tt1895587",
+    "Name": "Tom McArdle",
+    "Nominees": "Tom McArdle",
+    "NomineeIds": "nm0002500",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Star Wars: The Force Awakens",
+    "FilmId": "tt2488496",
+    "Name": "Maryann Brandon and Mary Jo Markey",
+    "Nominees": "Maryann Brandon|Mary Jo Markey",
+    "NomineeIds": "nm0104783|nm0548407",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Embrace of the Serpent",
+    "FilmId": "tt4285496",
+    "Name": "Colombia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Mustang",
+    "FilmId": "tt3966404",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Son of Saul",
+    "FilmId": "tt3808342",
+    "Name": "Hungary",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Theeb",
+    "FilmId": "tt3170902",
+    "Name": "Jordan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A War",
+    "FilmId": "tt3830162",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "Lesley Vanderwalt, Elka Wardega and Damian Martin",
+    "Nominees": "Lesley Vanderwalt|Elka Wardega|Damian Martin",
+    "NomineeIds": "nm0886488|nm0911975|nm1914735",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "The 100-Year-Old Man Who Climbed out the Window and Disappeared",
+    "FilmId": "tt2113681",
+    "Name": "Love Larson and Eva von Bahr",
+    "Nominees": "Love Larson|Eva von Bahr",
+    "NomineeIds": "nm1037627|nm0901913",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Siân Grigg, Duncan Jarman and Robert Pandini",
+    "Nominees": "Siân Grigg|Duncan Jarman|Robert Pandini",
+    "NomineeIds": "nm0341812|nm0418749|nm0006453",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Bridge of Spies",
+    "FilmId": "tt3682448",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Carol",
+    "FilmId": "tt2402927",
+    "Name": "Carter Burwell",
+    "Nominees": "Carter Burwell",
+    "NomineeIds": "nm0001980",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Hateful Eight",
+    "FilmId": "tt3460252",
+    "Name": "Ennio Morricone",
+    "Nominees": "Ennio Morricone",
+    "NomineeIds": "nm0001553",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Sicario",
+    "FilmId": "tt3397884",
+    "Name": "Jóhann Jóhannsson",
+    "Nominees": "Jóhann Jóhannsson",
+    "NomineeIds": "nm0433580",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Star Wars: The Force Awakens",
+    "FilmId": "tt2488496",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Fifty Shades of Grey",
+    "FilmId": "tt2322441",
+    "Name": "Music and Lyric by The Weeknd, Ahmad Balshe, Jason Quenneville and Stephan Moccio",
+    "Nominees": "The Weeknd|Ahmad Balshe|Jason Quenneville|Stephan Moccio",
+    "NomineeIds": "nm1070597|nm6803523|nm7850935|nm0595066",
+    "Winner": "",
+    "Detail": "Earned It",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Racing Extinction",
+    "FilmId": "tt1618448",
+    "Name": "Music by J. Ralph; Lyric by Anohni",
+    "Nominees": "J. Ralph|Anohni",
+    "NomineeIds": "nm0707775|nm1359744",
+    "Winner": "",
+    "Detail": "Manta Ray",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Youth",
+    "FilmId": "tt3312830",
+    "Name": "Music and Lyric by David Lang",
+    "Nominees": "David Lang",
+    "NomineeIds": "nm1012893",
+    "Winner": "",
+    "Detail": "Simple Song #3",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Hunting Ground",
+    "FilmId": "tt4185572",
+    "Name": "Music and Lyric by Diane Warren and Lady Gaga",
+    "Nominees": "Diane Warren|Lady Gaga",
+    "NomineeIds": "nm0005534|nm3078932",
+    "Winner": "",
+    "Detail": "Til It Happens To You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Spectre",
+    "FilmId": "tt2379713",
+    "Name": "Music and Lyric by Jimmy Napes and Sam Smith",
+    "Nominees": "Jimmy Napes|Sam Smith",
+    "NomineeIds": "nm4438244|nm3094994",
+    "Winner": "True",
+    "Detail": "Writing's On The Wall",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Big Short",
+    "FilmId": "tt1596363",
+    "Name": "Brad Pitt, Dede Gardner and Jeremy Kleiner, Producers",
+    "Nominees": "Brad Pitt|Dede Gardner|Jeremy Kleiner",
+    "NomineeIds": "nm0000093|nm0306890|nm1250070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Bridge of Spies",
+    "FilmId": "tt3682448",
+    "Name": "Steven Spielberg, Marc Platt and Kristie Macosko Krieger, Producers",
+    "Nominees": "Steven Spielberg|Marc Platt|Kristie Macosko Krieger",
+    "NomineeIds": "nm0000229|nm0686887|nm1069736",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Brooklyn",
+    "FilmId": "tt2381111",
+    "Name": "Finola Dwyer and Amanda Posey, Producers",
+    "Nominees": "Finola Dwyer|Amanda Posey",
+    "NomineeIds": "nm0245493|nm0692656",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "Doug Mitchell and George Miller, Producers",
+    "Nominees": "Doug Mitchell|George Miller",
+    "NomineeIds": "nm0593294|nm0004306",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Martian",
+    "FilmId": "tt3659388",
+    "Name": "Simon Kinberg, Ridley Scott, Michael Schaefer and Mark Huffam, Producers",
+    "Nominees": "Simon Kinberg|Ridley Scott|Michael Schaefer|Mark Huffam",
+    "NomineeIds": "nm1334526|nm0000631|nm0769644|nm0400240",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent and Keith Redmon, Producers",
+    "Nominees": "Arnon Milchan|Steve Golin|Alejandro G. Iñárritu|Mary Parent|Keith Redmon",
+    "NomineeIds": "nm0586969|nm0326512|nm0327944|nm0661289|nm2166024",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Room",
+    "FilmId": "tt3170832",
+    "Name": "Ed Guiney, Producer",
+    "Nominees": "Ed Guiney",
+    "NomineeIds": "nm0347384",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Spotlight",
+    "FilmId": "tt1895587",
+    "Name": "Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",
+    "Nominees": "Michael Sugar|Steve Golin|Nicole Rocklin|Blye Pagon Faust",
+    "NomineeIds": "nm0837386|nm0326512|nm2140746|nm1421308",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Bridge of Spies",
+    "FilmId": "tt3682448",
+    "Name": "Production Design: Adam Stockhausen; Set Decoration: Rena DeAngelo and Bernhard Henrich",
+    "Nominees": "Adam Stockhausen|Rena DeAngelo|Bernhard Henrich",
+    "NomineeIds": "nm1360914|nm0213076|nm0377520",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Danish Girl",
+    "FilmId": "tt0810819",
+    "Name": "Production Design: Eve Stewart; Set Decoration: Michael Standish",
+    "Nominees": "Eve Stewart|Michael Standish",
+    "NomineeIds": "nm0829378|nm0822086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "Production Design: Colin Gibson; Set Decoration: Lisa Thompson",
+    "Nominees": "Colin Gibson|Lisa Thompson",
+    "NomineeIds": "nm0316904|nm0860424",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Martian",
+    "FilmId": "tt3659388",
+    "Name": "Production Design: Arthur Max; Set Decoration: Celia Bobak",
+    "Nominees": "Arthur Max|Celia Bobak",
+    "NomineeIds": "nm0561480|nm0090278",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Production Design: Jack Fisk; Set Decoration: Hamish Purdy",
+    "Nominees": "Jack Fisk|Hamish Purdy",
+    "NomineeIds": "nm0279926|nm0700827",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Bear Story",
+    "FilmId": "tt3829254",
+    "Name": "Gabriel Osorio and Pato Escala",
+    "Nominees": "Gabriel Osorio|Pato Escala",
+    "NomineeIds": "nm6594925|nm6594926",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Prologue",
+    "FilmId": "tt4955294",
+    "Name": "Richard Williams and Imogen Sutton",
+    "Nominees": "Richard Williams|Imogen Sutton",
+    "NomineeIds": "nm0931530|nm1803609",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Sanjay's Super Team",
+    "FilmId": "tt4661600",
+    "Name": "Sanjay Patel and Nicole Grindle",
+    "Nominees": "Sanjay Patel|Nicole Grindle",
+    "NomineeIds": "nm0665396|nm0342430",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "We Can't Live without Cosmos",
+    "FilmId": "tt3965660",
+    "Name": "Konstantin Bronzit",
+    "Nominees": "Konstantin Bronzit",
+    "NomineeIds": "nm0111588",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "World of Tomorrow",
+    "FilmId": "tt4171032",
+    "Name": "Don Hertzfeldt",
+    "Nominees": "Don Hertzfeldt",
+    "NomineeIds": "nm0381116",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Ave Maria",
+    "FilmId": "tt4419794",
+    "Name": "Basil Khalil and Eric Dupont",
+    "Nominees": "Basil Khalil|Eric Dupont",
+    "NomineeIds": "nm1869150|nm1415447",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Day One",
+    "FilmId": "tt4122886",
+    "Name": "Henry Hughes",
+    "Nominees": "Henry Hughes",
+    "NomineeIds": "nm6846478",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Everything Will Be Okay (Alles Wird Gut)",
+    "FilmId": "tt4324518",
+    "Name": "Patrick Vollrath",
+    "Nominees": "Patrick Vollrath",
+    "NomineeIds": "nm2573530",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Shok",
+    "FilmId": "tt4273570",
+    "Name": "Jamie Donoughue",
+    "Nominees": "Jamie Donoughue",
+    "NomineeIds": "nm4385546",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Stutterer",
+    "FilmId": "tt4817576",
+    "Name": "Benjamin Cleary and Serena Armitage",
+    "Nominees": "Benjamin Cleary|Serena Armitage",
+    "NomineeIds": "nm6526715|nm4928252",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "Mark Mangini and David White",
+    "Nominees": "Mark Mangini|David White",
+    "NomineeIds": "nm0005625|nm0924674",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Martian",
+    "FilmId": "tt3659388",
+    "Name": "Oliver Tarney",
+    "Nominees": "Oliver Tarney",
+    "NomineeIds": "nm0850549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Martin Hernandez and Lon Bender",
+    "Nominees": "Martin Hernandez|Lon Bender",
+    "NomineeIds": "nm0380057|nm0070489",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Sicario",
+    "FilmId": "tt3397884",
+    "Name": "Alan Robert Murray",
+    "Nominees": "Alan Robert Murray",
+    "NomineeIds": "nm0614812",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Star Wars: The Force Awakens",
+    "FilmId": "tt2488496",
+    "Name": "Matthew Wood and David Acord",
+    "Nominees": "Matthew Wood|David Acord",
+    "NomineeIds": "nm0003214|nm0004198",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Bridge of Spies",
+    "FilmId": "tt3682448",
+    "Name": "Andy Nelson, Gary Rydstrom and Drew Kunin",
+    "Nominees": "Andy Nelson|Gary Rydstrom|Drew Kunin",
+    "NomineeIds": "nm0625144|nm0003977|nm0475168",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "Chris Jenkins, Gregg Rudloff and Ben Osmo",
+    "Nominees": "Chris Jenkins|Gregg Rudloff|Ben Osmo",
+    "NomineeIds": "nm0420804|nm0748832|nm0652096",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Martian",
+    "FilmId": "tt3659388",
+    "Name": "Paul Massey, Mark Taylor and Mac Ruth",
+    "Nominees": "Paul Massey|Mark Taylor|Mac Ruth",
+    "NomineeIds": "nm0557338|nm0852837|nm0002314",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Jon Taylor, Frank A. Montaño, Randy Thom and Chris Duesterdiek",
+    "Nominees": "Jon Taylor|Frank A. Montaño|Randy Thom|Chris Duesterdiek",
+    "NomineeIds": "nm0852656|nm0599057|nm0858378|nm0240292",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Star Wars: The Force Awakens",
+    "FilmId": "tt2488496",
+    "Name": "Andy Nelson, Christopher Scarabosio and Stuart Wilson",
+    "Nominees": "Andy Nelson|Christopher Scarabosio|Stuart Wilson",
+    "NomineeIds": "nm0625144|nm0769042|nm0934184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Ex Machina",
+    "FilmId": "tt0470752",
+    "Name": "Andrew Whitehurst, Paul Norris, Mark Ardington and Sara Bennett",
+    "Nominees": "Andrew Whitehurst|Paul Norris|Mark Ardington|Sara Bennett",
+    "NomineeIds": "nm1443095|nm0635878|nm3251988|nm1025904",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Mad Max: Fury Road",
+    "FilmId": "tt1392190",
+    "Name": "Andrew Jackson, Tom Wood, Dan Oliver and Andy Williams",
+    "Nominees": "Andrew Jackson|Tom Wood|Dan Oliver|Andy Williams",
+    "NomineeIds": "nm1886497|nm0940054|nm0646807|nm0930024",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Martian",
+    "FilmId": "tt3659388",
+    "Name": "Richard Stammers, Anders Langlands, Chris Lawrence and Steven Warner",
+    "Nominees": "Richard Stammers|Anders Langlands|Chris Lawrence|Steven Warner",
+    "NomineeIds": "nm0821868|nm1619365|nm1165856|nm0912599",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Revenant",
+    "FilmId": "tt1663202",
+    "Name": "Rich McBride, Matthew Shumway, Jason Smith and Cameron Waldbauer",
+    "Nominees": "Rich McBride|Matthew Shumway|Jason Smith|Cameron Waldbauer",
+    "NomineeIds": "nm1407302|nm1331297|nm1643981|nm0907030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Star Wars: The Force Awakens",
+    "FilmId": "tt2488496",
+    "Name": "Roger Guyett, Patrick Tubach, Neal Scanlan and Chris Corbould",
+    "Nominees": "Roger Guyett|Patrick Tubach|Neal Scanlan|Chris Corbould",
+    "NomineeIds": "nm0004361|nm0875604|nm0768943|nm0179269",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Big Short",
+    "FilmId": "tt1596363",
+    "Name": "Screenplay by Charles Randolph and Adam McKay",
+    "Nominees": "Charles Randolph|Adam McKay",
+    "NomineeIds": "nm1017488|nm0570912",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Brooklyn",
+    "FilmId": "tt2381111",
+    "Name": "Screenplay by Nick Hornby",
+    "Nominees": "Nick Hornby",
+    "NomineeIds": "nm0394984",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Carol",
+    "FilmId": "tt2402927",
+    "Name": "Screenplay by Phyllis Nagy",
+    "Nominees": "Phyllis Nagy",
+    "NomineeIds": "nm0619507",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Martian",
+    "FilmId": "tt3659388",
+    "Name": "Screenplay by Drew Goddard",
+    "Nominees": "Drew Goddard",
+    "NomineeIds": "nm1206844",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Room",
+    "FilmId": "tt3170832",
+    "Name": "Screenplay by Emma Donoghue",
+    "Nominees": "Emma Donoghue",
+    "NomineeIds": "nm1480980",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Bridge of Spies",
+    "FilmId": "tt3682448",
+    "Name": "Written by Matt Charman and Ethan Coen & Joel Coen",
+    "Nominees": "Matt Charman|Ethan Coen|Joel Coen",
+    "NomineeIds": "nm4131020|nm0001053|nm0001054",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Ex Machina",
+    "FilmId": "tt0470752",
+    "Name": "Written by Alex Garland",
+    "Nominees": "Alex Garland",
+    "NomineeIds": "nm0307497",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Inside Out",
+    "FilmId": "tt2096673",
+    "Name": "Screenplay by Pete Docter, Meg LeFauve, Josh Cooley; Original story by Pete Docter, Ronnie del Carmen",
+    "Nominees": "Pete Docter|Meg LeFauve|Josh Cooley|Ronnie del Carmen",
+    "NomineeIds": "nm0230032|nm0498834|nm2155757|nm0215455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Spotlight",
+    "FilmId": "tt1895587",
+    "Name": "Written by Josh Singer & Tom McCarthy",
+    "Nominees": "Josh Singer|Tom McCarthy",
+    "NomineeIds": "nm1802857|nm0565336",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Straight Outta Compton",
+    "FilmId": "tt1398426",
+    "Name": "Screenplay by Jonathan Herman and Andrea Berloff; Story by S. Leigh Savidge & Alan Wenkus and Andrea Berloff",
+    "Nominees": "Jonathan Herman|Andrea Berloff|S. Leigh Savidge|Alan Wenkus",
+    "NomineeIds": "nm6707680|nm0075696|nm0767655|nm0921023",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Debbie Reynolds",
+    "Nominees": "Debbie Reynolds",
+    "NomineeIds": "nm0001666",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Spike Lee",
+    "NomineeIds": "nm0000490",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Spike Lee, filmmaker, educator, motivator, iconoclast, artist."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gena Rowlands",
+    "NomineeIds": "nm0001687",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Gena Rowlands, who has illuminated the human experience through her brilliant, passionate and fearless performances."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "BRIAN McLEAN|Martin Meunier",
+    "NomineeIds": "nm3293221|nm3174497",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "LAIKA's inventive use of rapid prototyping has enabled artistic leaps in character expressiveness, facial animation, motion blur and effects animation. Through highly specialized pipelines and techniques, 3D printing capabilities have been harnessed with color uniformity, mechanical repeatability, and the scale required to significantly enhance stop-motion animated feature films.",
+    "Citation": "To BRIAN McLEAN and MARTIN MEUNIER for pioneering the use of rapid prototyping for character animation in stop-motion film production."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jack Greasley|Kiyoyuki Nakagaki|Duncan Hopkins|Carl Rand",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Combining powerful, multilayer painting tools and a unique texture-management system, MARI simplifies working with large, high-resolution texture sets. It has achieved broad adoption in the visual effects industry, often supplanting long-term in-house systems.",
+    "Citation": "To JACK GREASLEY, KIYOYUKI NAKAGAKI, DUNCAN HOPKINS and CARL RAND for the design and engineering of the MARI 3D texture painting system."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Michael John Keesling",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "The Image Shaker was unique and superior to alternatives in use when it was invented two decades ago, and it continues to be used today.",
+    "Citation": "To MICHAEL JOHN KEESLING for the design and development of Image Shaker, an optical system that convincingly creates the illusion of the camera shaking in a variable and repeatable manner."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DAVID McINTOSH|Steve Smith|Mike Branham|Michael Kirilenko",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "This system of modular inflatable panels can be erected on location, at lengths reaching hundreds of feet, with exceptional speed and safety. When used to support blue or green screens, the Airwall permits composite shots of unprecedented scale.",
+    "Citation": "To DAVID McINTOSH, STEVE SMITH, MIKE BRANHAM and MICHAEL KIRILENKO for the engineering and development of the Aircover Inflatables Airwall."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Trevor Davies|Thomas Wan|Jon Scott Miller|Jared Smith|Matthew Robinson",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Apparatuses Technology",
+    "Note": "The PRM's pioneering and innovative design allows the stable, accurate representation of images with the entire luminance range and color gamut used in contemporary theatrical feature presentation.",
+    "Citation": "To TREVOR DAVIES, THOMAS WAN, JON SCOTT MILLER, JARED SMITH and MATTHEW ROBINSON for the development of the Dolby Laboratories PRM Series Reference Color Monitors."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ronald Mallet|Christoph Bregler",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Geometry Tracker facilitates convincing interaction of digital and live-action elements within a scene. Its precise results and tight integration with other ILM animation technologies solve a wider range of match-animation challenges than was previously possible.",
+    "Citation": "To RONALD MALLET and CHRISTOPH BREGLER for the design and engineering of the Industrial Light & Magic Geometry Tracker, a novel, general-purpose tracker and solver."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jim Hourihan|Alan Trombla|Seth Rosenthal",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "RV's multi-platform toolset for review and playback, with comprehensive APIs, has allowed studios of all sizes to take advantage of a state-of-the-art workflow and has achieved widespread adoption in the motion picture industry.",
+    "Citation": "To JIM HOURIHAN, ALAN TROMBLA and SETH ROSENTHAL for the design and development of the Tweak Software RV system, a highly extensible media player system."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard Chuang|Rahul C. Thakkar|Andrew Pilgrim|Stewart Birnam|Mark Kirk",
+    "NomineeIds": "nm0160928|nm1178316|nm3994784|nm1291203|?",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Over its nearly two decades of development, this pioneering system enabled desktop and digital theater review. It continues to provide artist-driven, integrated, consistent and highly scalable studio-wide playback and interactive reviews.",
+    "Citation": "To RICHARD CHUANG and RAHUL C. THAKKAR for the groundbreaking design, and to ANDREW PILGRIM, STEWART BIRNAM and MARK KIRK for the review workflows and advanced playback features, of the DreamWorks Animation Media Review System."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Keith Goldfarb|Steve Linn|Brian Green|Raymond Chih",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This consistent, integrated, production database-backed review system enables a recordable workflow and an efficient, collaborative content review process across multiple sites and time zones.",
+    "Citation": "To KEITH GOLDFARB, STEVE LINN, BRIAN GREEN and RAYMOND CHIH for the development of the Rhythm & Hues Global DDR System."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "J Robert Ray|Cottalango Leon|Sam Richards",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "With an extensive plugin API and comprehensive facility integration including editorial functions, Itview provides an intuitive and flexible creative review environment that can be deployed globally for highly efficient collaboration.",
+    "Citation": "To J ROBERT RAY, COTTALANGO LEON and SAM RICHARDS for the design, engineering and continuous development of Sony Pictures Imageworks Itview."
+  },
+  {
+    "Ceremony": 88,
+    "Year": 2015,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Special Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Special Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Society of Motion Picture and Television Engineers",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To the Society of Motion Picture and Television Engineers - For one hundred years, the Society's members have nurtured technology, provided essential standards, and offered the expertise, support, tools and infrastructure for the creation and post-production of motion pictures."
+  }
 ]

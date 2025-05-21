@@ -1,1839 +1,2114 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2011",
-        "nominees": [
-            "The Artist"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2011",
-        "nominees": [
-            "The Descendants"
-        ],
-        "movies": [
-            {
-                "title": "The Descendants",
-                "tmdb_id": 65057,
-                "imdb_id": "tt1033575"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2011",
-        "nominees": [
-            "Extremely Loud & Incredibly Close"
-        ],
-        "movies": [
-            {
-                "title": "Extremely Loud & Incredibly Close",
-                "tmdb_id": 64685,
-                "imdb_id": "tt0477302"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2011",
-        "nominees": [
-            "The Help"
-        ],
-        "movies": [
-            {
-                "title": "The Help",
-                "tmdb_id": 50014,
-                "imdb_id": "tt1454029"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2011",
-        "nominees": [
-            "Hugo"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2011",
-        "nominees": [
-            "Midnight in Paris"
-        ],
-        "movies": [
-            {
-                "title": "Midnight in Paris",
-                "tmdb_id": 59436,
-                "imdb_id": "tt1605783"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2011",
-        "nominees": [
-            "Moneyball"
-        ],
-        "movies": [
-            {
-                "title": "Moneyball",
-                "tmdb_id": 60308,
-                "imdb_id": "tt1210166"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2011",
-        "nominees": [
-            "The Tree of Life"
-        ],
-        "movies": [
-            {
-                "title": "The Tree of Life",
-                "tmdb_id": 8967,
-                "imdb_id": "tt0478304"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2011",
-        "nominees": [
-            "War Horse"
-        ],
-        "movies": [
-            {
-                "title": "War Horse",
-                "tmdb_id": 57212,
-                "imdb_id": "tt1568911"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2011",
-        "nominees": [
-            "Jean Dujardin"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2011",
-        "nominees": [
-            "Demian Bichir"
-        ],
-        "movies": [
-            {
-                "title": "A Better Life",
-                "tmdb_id": 55720,
-                "imdb_id": "tt1554091"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2011",
-        "nominees": [
-            "George Clooney"
-        ],
-        "movies": [
-            {
-                "title": "The Descendants",
-                "tmdb_id": 65057,
-                "imdb_id": "tt1033575"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2011",
-        "nominees": [
-            "Gary Oldman"
-        ],
-        "movies": [
-            {
-                "title": "Tinker Tailor Soldier Spy",
-                "tmdb_id": 49517,
-                "imdb_id": "tt1340800"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2011",
-        "nominees": [
-            "Brad Pitt"
-        ],
-        "movies": [
-            {
-                "title": "Moneyball",
-                "tmdb_id": 60308,
-                "imdb_id": "tt1210166"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2011",
-        "nominees": [
-            "Meryl Streep"
-        ],
-        "movies": [
-            {
-                "title": "The Iron Lady",
-                "tmdb_id": 71688,
-                "imdb_id": "tt1007029"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2011",
-        "nominees": [
-            "Glenn Close"
-        ],
-        "movies": [
-            {
-                "title": "Albert Nobbs",
-                "tmdb_id": 73873,
-                "imdb_id": "tt1602098"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2011",
-        "nominees": [
-            "Viola Davis"
-        ],
-        "movies": [
-            {
-                "title": "The Help",
-                "tmdb_id": 50014,
-                "imdb_id": "tt1454029"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2011",
-        "nominees": [
-            "Rooney Mara"
-        ],
-        "movies": [
-            {
-                "title": "The Girl with the Dragon Tattoo",
-                "tmdb_id": 65754,
-                "imdb_id": "tt1568346"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2011",
-        "nominees": [
-            "Michele Williams"
-        ],
-        "movies": [
-            {
-                "title": "My Week with Marilyn",
-                "tmdb_id": 75900,
-                "imdb_id": "tt1655420"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2011",
-        "nominees": [
-            "Christopher Plummer"
-        ],
-        "movies": [
-            {
-                "title": "Beginners",
-                "tmdb_id": 55347,
-                "imdb_id": "tt1532503"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2011",
-        "nominees": [
-            "Kenneth Branagh"
-        ],
-        "movies": [
-            {
-                "title": "My Week with Marilyn",
-                "tmdb_id": 75900,
-                "imdb_id": "tt1655420"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2011",
-        "nominees": [
-            "Jonah Hill"
-        ],
-        "movies": [
-            {
-                "title": "Moneyball",
-                "tmdb_id": 60308,
-                "imdb_id": "tt1210166"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2011",
-        "nominees": [
-            "Nick Nolte"
-        ],
-        "movies": [
-            {
-                "title": "Warrior",
-                "tmdb_id": 59440,
-                "imdb_id": "tt1291584"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2011",
-        "nominees": [
-            "Max von Sydow"
-        ],
-        "movies": [
-            {
-                "title": "Extremely Loud & Incredibly Close",
-                "tmdb_id": 64685,
-                "imdb_id": "tt0477302"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2011",
-        "nominees": [
-            "Octavia Spencer"
-        ],
-        "movies": [
-            {
-                "title": "The Help",
-                "tmdb_id": 50014,
-                "imdb_id": "tt1454029"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2011",
-        "nominees": [
-            "Berenice Bejo"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2011",
-        "nominees": [
-            "Jessica Chastain"
-        ],
-        "movies": [
-            {
-                "title": "The Help",
-                "tmdb_id": 50014,
-                "imdb_id": "tt1454029"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2011",
-        "nominees": [
-            "Melissa McCarthy"
-        ],
-        "movies": [
-            {
-                "title": "Bridesmaids",
-                "tmdb_id": 55721,
-                "imdb_id": "tt1478338"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2011",
-        "nominees": [
-            "Janet McTeer"
-        ],
-        "movies": [
-            {
-                "title": "Albert Nobbs",
-                "tmdb_id": 73873,
-                "imdb_id": "tt1602098"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2011",
-        "nominees": [
-            "Michel Hazanavicius"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2011",
-        "nominees": [
-            "Woody Allen"
-        ],
-        "movies": [
-            {
-                "title": "Midnight in Paris",
-                "tmdb_id": 59436,
-                "imdb_id": "tt1605783"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2011",
-        "nominees": [
-            "Terrence Malick"
-        ],
-        "movies": [
-            {
-                "title": "The Tree of Life",
-                "tmdb_id": 8967,
-                "imdb_id": "tt0478304"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2011",
-        "nominees": [
-            "Alexander Payne"
-        ],
-        "movies": [
-            {
-                "title": "The Descendants",
-                "tmdb_id": 65057,
-                "imdb_id": "tt1033575"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2011",
-        "nominees": [
-            "Martin Scorsese"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2011",
-        "nominees": [
-            "Alexander Payne",
-            "Nat Faxon",
-            "Jim Rash"
-        ],
-        "movies": [
-            {
-                "title": "The Descendants",
-                "tmdb_id": 65057,
-                "imdb_id": "tt1033575"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2011",
-        "nominees": [
-            "John Logan"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2011",
-        "nominees": [
-            "George Clooney",
-            "Grant Heslov",
-            "Beau Willimon"
-        ],
-        "movies": [
-            {
-                "title": "The Ides of March",
-                "tmdb_id": 10316,
-                "imdb_id": "tt1124035"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2011",
-        "nominees": [
-            "Steven Zaillian",
-            "Aaron Sorkin",
-            "Stan Chervin"
-        ],
-        "movies": [
-            {
-                "title": "Moneyball",
-                "tmdb_id": 60308,
-                "imdb_id": "tt1210166"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2011",
-        "nominees": [
-            "Bridget O'Connor",
-            "Peter Straughan"
-        ],
-        "movies": [
-            {
-                "title": "Tinker Tailor Soldier Spy",
-                "tmdb_id": 49517,
-                "imdb_id": "tt1340800"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2011",
-        "nominees": [
-            "Woody Allen"
-        ],
-        "movies": [
-            {
-                "title": "Midnight in Paris",
-                "tmdb_id": 59436,
-                "imdb_id": "tt1605783"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2011",
-        "nominees": [
-            "Michel Hazanavicius"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2011",
-        "nominees": [
-            "Kristen Wiig",
-            "Annie Mumolo"
-        ],
-        "movies": [
-            {
-                "title": "Bridesmaids",
-                "tmdb_id": 55721,
-                "imdb_id": "tt1478338"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2011",
-        "nominees": [
-            "J. C. Chandor"
-        ],
-        "movies": [
-            {
-                "title": "Margin Call",
-                "tmdb_id": 50839,
-                "imdb_id": "tt1615147"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2011",
-        "nominees": [
-            "Asghar Farhadi"
-        ],
-        "movies": [
-            {
-                "title": "A Separation",
-                "tmdb_id": 60243,
-                "imdb_id": "tt1832382"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2011",
-        "nominees": [
-            "Ludovic Bource"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2011",
-        "nominees": [
-            "John Williams"
-        ],
-        "movies": [
-            {
-                "title": "The Adventures of Tintin",
-                "tmdb_id": 17578,
-                "imdb_id": "tt0983193"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2011",
-        "nominees": [
-            "Howard Shore"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2011",
-        "nominees": [
-            "Alberto Iglesias"
-        ],
-        "movies": [
-            {
-                "title": "Tinker Tailor Soldier Spy",
-                "tmdb_id": 49517,
-                "imdb_id": "tt1340800"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2011",
-        "nominees": [
-            "John Williams"
-        ],
-        "movies": [
-            {
-                "title": "War Horse",
-                "tmdb_id": 57212,
-                "imdb_id": "tt1568911"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2011",
-        "nominees": [
-            "Man or Muppet"
-        ],
-        "movies": [
-            {
-                "title": "The Muppets",
-                "tmdb_id": 64328,
-                "imdb_id": "tt1204342"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2011",
-        "nominees": [
-            "Real in Rio"
-        ],
-        "movies": [
-            {
-                "title": "Rio",
-                "tmdb_id": 46195,
-                "imdb_id": "tt1436562"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2011",
-        "nominees": [
-            "A Separation"
-        ],
-        "movies": [
-            {
-                "title": "A Separation",
-                "tmdb_id": 60243,
-                "imdb_id": "tt1832382"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2011",
-        "nominees": [
-            "Bullhead"
-        ],
-        "movies": [
-            {
-                "title": "Bullhead",
-                "tmdb_id": 63310,
-                "imdb_id": "tt1821593"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2011",
-        "nominees": [
-            "Footnote"
-        ],
-        "movies": [
-            {
-                "title": "Footnote",
-                "tmdb_id": 72551,
-                "imdb_id": "tt1445520"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2011",
-        "nominees": [
-            "In Darkness"
-        ],
-        "movies": [
-            {
-                "title": "In Darkness",
-                "tmdb_id": 73686,
-                "imdb_id": "tt1417075"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2011",
-        "nominees": [
-            "Monsieur Lazhar"
-        ],
-        "movies": [
-            {
-                "title": "Monsieur Lazhar",
-                "tmdb_id": 78480,
-                "imdb_id": "tt2011971"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2011",
-        "nominees": [
-            "Undefeated"
-        ],
-        "movies": [
-            {
-                "title": "Undefeated",
-                "tmdb_id": 82620,
-                "imdb_id": "tt1860355"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2011",
-        "nominees": [
-            "Hell and Back Again"
-        ],
-        "movies": [
-            {
-                "title": "Hell and Back Again",
-                "tmdb_id": 74310,
-                "imdb_id": "tt1748043"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2011",
-        "nominees": [
-            "If a Tree Falls: A Story of the Earth Liberation Front"
-        ],
-        "movies": [
-            {
-                "title": "If a Tree Falls: A Story of the Earth Liberation Front",
-                "tmdb_id": 79042,
-                "imdb_id": "tt1787725"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2011",
-        "nominees": [
-            "Paradise Lost 3: Purgatory"
-        ],
-        "movies": [
-            {
-                "title": "Paradise Lost 3: Purgatory",
-                "tmdb_id": 83660,
-                "imdb_id": "tt2028530"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2011",
-        "nominees": [
-            "Pina"
-        ],
-        "movies": [
-            {
-                "title": "Pina",
-                "tmdb_id": 57276,
-                "imdb_id": "tt1440266"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2011",
-        "nominees": [
-            "Saving Face"
-        ],
-        "movies": [
-            {
-                "title": "Saving Face",
-                "tmdb_id": 89191,
-                "imdb_id": "tt2140371"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2011",
-        "nominees": [
-            "The Barber of Birmingham: Foot Soldier of the Civil Rights Movement"
-        ],
-        "movies": [
-            {
-                "title": "The Barber of Birmingham: Foot Soldier of the Civil Rights Movement",
-                "tmdb_id": 89194,
-                "imdb_id": "tt1844056"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2011",
-        "nominees": [
-            "God is the Bigger Elvis"
-        ],
-        "movies": [
-            {
-                "title": "God is the Bigger Elvis",
-                "tmdb_id": 103528,
-                "imdb_id": "tt2210633"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2011",
-        "nominees": [
-            "Incident in New Baghdad"
-        ],
-        "movies": [
-            {
-                "title": "Incident in New Baghdad",
-                "tmdb_id": 89196,
-                "imdb_id": "tt1746180"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2011",
-        "nominees": [
-            "The Tsunami and the Cherry Blossom"
-        ],
-        "movies": [
-            {
-                "title": "The Tsunami and the Cherry Blossom",
-                "tmdb_id": 84346,
-                "imdb_id": "tt2028578"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2011",
-        "nominees": [
-            "Rango"
-        ],
-        "movies": [
-            {
-                "title": "Rango",
-                "tmdb_id": 44896,
-                "imdb_id": "tt1192628"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2011",
-        "nominees": [
-            "A Cat in Paris"
-        ],
-        "movies": [
-            {
-                "title": "A Cat in Paris",
-                "tmdb_id": 52264,
-                "imdb_id": "tt1673702"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2011",
-        "nominees": [
-            "Chico & Rita"
-        ],
-        "movies": [
-            {
-                "title": "Chico & Rita",
-                "tmdb_id": 63498,
-                "imdb_id": "tt1235830"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2011",
-        "nominees": [
-            "Kung Fu Panda 2"
-        ],
-        "movies": [
-            {
-                "title": "Kung Fu Panda 2",
-                "tmdb_id": 49444,
-                "imdb_id": "tt1302011"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2011",
-        "nominees": [
-            "Puss in Boots"
-        ],
-        "movies": [
-            {
-                "title": "Puss in Boots",
-                "tmdb_id": 417859,
-                "imdb_id": "tt0448694"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2011",
-        "nominees": [
-            "The Fantastic Flying Books of Mr Morris Lessmore"
-        ],
-        "movies": [
-            {
-                "title": "The Fantastic Flying Books of Mr Morris Lessmore",
-                "tmdb_id": 86412,
-                "imdb_id": "tt1778342"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2011",
-        "nominees": [
-            "Sunday"
-        ],
-        "movies": [
-            {
-                "title": "Sunday",
-                "tmdb_id": 91512,
-                "imdb_id": "tt1895334"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2011",
-        "nominees": [
-            "La luna"
-        ],
-        "movies": [
-            {
-                "title": "La luna",
-                "tmdb_id": 83564,
-                "imdb_id": "tt1957945"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2011",
-        "nominees": [
-            "A Morning Stroll"
-        ],
-        "movies": [
-            {
-                "title": "A Morning Stroll",
-                "tmdb_id": 91516,
-                "imdb_id": "tt1964446"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2011",
-        "nominees": [
-            "Wild Life"
-        ],
-        "movies": [
-            {
-                "title": "Wild Life",
-                "tmdb_id": 91515,
-                "imdb_id": "tt2097943"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2011",
-        "nominees": [
-            "The Shore"
-        ],
-        "movies": [
-            {
-                "title": "The Shore",
-                "tmdb_id": 92965,
-                "imdb_id": "tt2201259"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2011",
-        "nominees": [
-            "Pentecost"
-        ],
-        "movies": [
-            {
-                "title": "Pentecost",
-                "tmdb_id": 99581,
-                "imdb_id": "tt1866218"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2011",
-        "nominees": [
-            "Raju"
-        ],
-        "movies": [
-            {
-                "title": "Raju",
-                "tmdb_id": 92967,
-                "imdb_id": "tt1819651"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2011",
-        "nominees": [
-            "Time Freak"
-        ],
-        "movies": [
-            {
-                "title": "Time Freak",
-                "tmdb_id": 92968,
-                "imdb_id": "tt1733689"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2011",
-        "nominees": [
-            "Tuba Atlantic"
-        ],
-        "movies": [
-            {
-                "title": "Tuba Atlantic",
-                "tmdb_id": 92190,
-                "imdb_id": "tt2061843"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Dante Ferretti",
-            "Francesca Lo Schiavo"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Laurence Bennett",
-            "Robert Gould"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Stuart Craig",
-            "Stephenie McMillan"
-        ],
-        "movies": [
-            {
-                "title": "Harry Potter and the Deathly Hallows: Part 2",
-                "tmdb_id": 12445,
-                "imdb_id": "tt1201607"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Anne Seibel",
-            "Helene Dubreuil"
-        ],
-        "movies": [
-            {
-                "title": "Midnight in Paris",
-                "tmdb_id": 59436,
-                "imdb_id": "tt1605783"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Rick Carter",
-            "Lee Sandales"
-        ],
-        "movies": [
-            {
-                "title": "War Horse",
-                "tmdb_id": 57212,
-                "imdb_id": "tt1568911"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2011",
-        "nominees": [
-            "Robert Richardson"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2011",
-        "nominees": [
-            "Guillaume Schiffman"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2011",
-        "nominees": [
-            "Jeff Cronenweth"
-        ],
-        "movies": [
-            {
-                "title": "The Girl with the Dragon Tattoo",
-                "tmdb_id": 65754,
-                "imdb_id": "tt1568346"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2011",
-        "nominees": [
-            "Emmanuel Lubezki"
-        ],
-        "movies": [
-            {
-                "title": "The Tree of Life",
-                "tmdb_id": 8967,
-                "imdb_id": "tt0478304"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2011",
-        "nominees": [
-            "Janusz Kaminski"
-        ],
-        "movies": [
-            {
-                "title": "War Horse",
-                "tmdb_id": 57212,
-                "imdb_id": "tt1568911"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2011",
-        "nominees": [
-            "Angus Wall",
-            "Kirk Baxter"
-        ],
-        "movies": [
-            {
-                "title": "The Girl with the Dragon Tattoo",
-                "tmdb_id": 65754,
-                "imdb_id": "tt1568346"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2011",
-        "nominees": [
-            "Anne-Sophie Bion",
-            "Michel Hazanavicius"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2011",
-        "nominees": [
-            "Kevin Tent"
-        ],
-        "movies": [
-            {
-                "title": "The Descendants",
-                "tmdb_id": 65057,
-                "imdb_id": "tt1033575"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2011",
-        "nominees": [
-            "Thelma Schoonmaker"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2011",
-        "nominees": [
-            "Christopher Tellefsen"
-        ],
-        "movies": [
-            {
-                "title": "Moneyball",
-                "tmdb_id": 60308,
-                "imdb_id": "tt1210166"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2011",
-        "nominees": [
-            "Rob Legato",
-            "Joss Williams",
-            "Ben Grossmann",
-            "Alex Henning"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2011",
-        "nominees": [
-            "Tim Burke",
-            "David Vickery",
-            "Greg Butler",
-            "John Richardson"
-        ],
-        "movies": [
-            {
-                "title": "Harry Potter and the Deathly Hallows: Part 2",
-                "tmdb_id": 12445,
-                "imdb_id": "tt1201607"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2011",
-        "nominees": [
-            "Erik Nash",
-            "John Rosengrant",
-            "Danny Gordon Taylor",
-            "Swen Gillberg"
-        ],
-        "movies": [
-            {
-                "title": "Real Steel",
-                "tmdb_id": 39254,
-                "imdb_id": "tt0433035"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2011",
-        "nominees": [
-            "Joe Letteri",
-            "Dan Lemmon",
-            "R. Christopher White",
-            "Daniel Barrett"
-        ],
-        "movies": [
-            {
-                "title": "Rise of the Planet of the Apes",
-                "tmdb_id": 61791,
-                "imdb_id": "tt1318514"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2011",
-        "nominees": [
-            "Scott Farrar",
-            "Scott Benza",
-            "Matthew E. Butler",
-            "John Frazier"
-        ],
-        "movies": [
-            {
-                "title": "Transformers: Dark of the Moon",
-                "tmdb_id": 38356,
-                "imdb_id": "tt1399103"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2011",
-        "nominees": [
-            "Tom Fleischman",
-            "John Midgley"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2011",
-        "nominees": [
-            "David Parker",
-            "Michael Semanick",
-            "Ren Klyce",
-            "Bo Persson"
-        ],
-        "movies": [
-            {
-                "title": "The Girl with the Dragon Tattoo",
-                "tmdb_id": 65754,
-                "imdb_id": "tt1568346"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2011",
-        "nominees": [
-            "Deb Adair",
-            "Ron Bochar",
-            "Dave Giammarco",
-            "Ed Novick"
-        ],
-        "movies": [
-            {
-                "title": "Moneyball",
-                "tmdb_id": 60308,
-                "imdb_id": "tt1210166"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2011",
-        "nominees": [
-            "Greg P. Russell",
-            "Gary Simmers",
-            "Jeffrey J. Haboush",
-            "Peter J. Devlin"
-        ],
-        "movies": [
-            {
-                "title": "Transformers: Dark of the Moon",
-                "tmdb_id": 38356,
-                "imdb_id": "tt1399103"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2011",
-        "nominees": [
-            "Gary Rydstrom",
-            "Andy Nelson",
-            "Tom Johnson",
-            "Stuart Wilson"
-        ],
-        "movies": [
-            {
-                "title": "War Horse",
-                "tmdb_id": 57212,
-                "imdb_id": "tt1568911"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2011",
-        "nominees": [
-            "Eugene Gearty",
-            "Philip Stockton"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2011",
-        "nominees": [
-            "Lon Bender",
-            "Victor Ray Ennis"
-        ],
-        "movies": [
-            {
-                "title": "Drive",
-                "tmdb_id": 64690,
-                "imdb_id": "tt0780504"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2011",
-        "nominees": [
-            "Ren Klyce"
-        ],
-        "movies": [
-            {
-                "title": "The Girl with the Dragon Tattoo",
-                "tmdb_id": 65754,
-                "imdb_id": "tt1568346"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2011",
-        "nominees": [
-            "Erik Aadahl",
-            "Ethan Van der Ryn"
-        ],
-        "movies": [
-            {
-                "title": "Transformers: Dark of the Moon",
-                "tmdb_id": 38356,
-                "imdb_id": "tt1399103"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2011",
-        "nominees": [
-            "Richard Hymns",
-            "Gary Rydstrom"
-        ],
-        "movies": [
-            {
-                "title": "War Horse",
-                "tmdb_id": 57212,
-                "imdb_id": "tt1568911"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2011",
-        "nominees": [
-            "Mark Coulier",
-            "J. Roy Helland"
-        ],
-        "movies": [
-            {
-                "title": "The Iron Lady",
-                "tmdb_id": 71688,
-                "imdb_id": "tt1007029"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2011",
-        "nominees": [
-            "Martial Corneville",
-            "Lynn Johnston",
-            "Matthew W. Mungle"
-        ],
-        "movies": [
-            {
-                "title": "Albert Nobbs",
-                "tmdb_id": 73873,
-                "imdb_id": "tt1602098"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2011",
-        "nominees": [
-            "Nick Dudman",
-            "Amanda Knight",
-            "Lisa Tomblin"
-        ],
-        "movies": [
-            {
-                "title": "Harry Potter and the Deathly Hallows: Part 2",
-                "tmdb_id": 12445,
-                "imdb_id": "tt1201607"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Mark Bridges"
-        ],
-        "movies": [
-            {
-                "title": "The Artist",
-                "tmdb_id": 74643,
-                "imdb_id": "tt1655442"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Lisy Christl"
-        ],
-        "movies": [
-            {
-                "title": "Anonymous",
-                "tmdb_id": 61891,
-                "imdb_id": "tt1521197"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Sandy Powell"
-        ],
-        "movies": [
-            {
-                "title": "Hugo",
-                "tmdb_id": 44826,
-                "imdb_id": "tt0970179"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Michael O'Connor"
-        ],
-        "movies": [
-            {
-                "title": "Jane Eyre",
-                "tmdb_id": 38684,
-                "imdb_id": "tt1229822"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2011",
-        "nominees": [
-            "Arianne Phillips"
-        ],
-        "movies": [
-            {
-                "title": "W.E.",
-                "tmdb_id": 80591,
-                "imdb_id": "tt1536048"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "A Better Life",
+    "FilmId": "tt1554091",
+    "Name": "Demián Bichir",
+    "Nominees": "Demián Bichir",
+    "NomineeIds": "nm0065007",
+    "Winner": "",
+    "Detail": "Carlos Galindo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Descendants",
+    "FilmId": "tt1033575",
+    "Name": "George Clooney",
+    "Nominees": "George Clooney",
+    "NomineeIds": "nm0000123",
+    "Winner": "",
+    "Detail": "Matt King",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Jean Dujardin",
+    "Nominees": "Jean Dujardin",
+    "NomineeIds": "nm0241121",
+    "Winner": "True",
+    "Detail": "George Valentin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Tinker Tailor Soldier Spy",
+    "FilmId": "tt1340800",
+    "Name": "Gary Oldman",
+    "Nominees": "Gary Oldman",
+    "NomineeIds": "nm0000198",
+    "Winner": "",
+    "Detail": "George Smiley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Moneyball",
+    "FilmId": "tt1210166",
+    "Name": "Brad Pitt",
+    "Nominees": "Brad Pitt",
+    "NomineeIds": "nm0000093",
+    "Winner": "",
+    "Detail": "Billy Beane",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "My Week with Marilyn",
+    "FilmId": "tt1655420",
+    "Name": "Kenneth Branagh",
+    "Nominees": "Kenneth Branagh",
+    "NomineeIds": "nm0000110",
+    "Winner": "",
+    "Detail": "Sir Laurence Olivier",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Moneyball",
+    "FilmId": "tt1210166",
+    "Name": "Jonah Hill",
+    "Nominees": "Jonah Hill",
+    "NomineeIds": "nm1706767",
+    "Winner": "",
+    "Detail": "Peter Brand",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Warrior",
+    "FilmId": "tt1291584",
+    "Name": "Nick Nolte",
+    "Nominees": "Nick Nolte",
+    "NomineeIds": "nm0000560",
+    "Winner": "",
+    "Detail": "Paddy Conlon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Beginners",
+    "FilmId": "tt1532503",
+    "Name": "Christopher Plummer",
+    "Nominees": "Christopher Plummer",
+    "NomineeIds": "nm0001626",
+    "Winner": "True",
+    "Detail": "Hal",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Extremely Loud & Incredibly Close",
+    "FilmId": "tt0477302",
+    "Name": "Max von Sydow",
+    "Nominees": "Max von Sydow",
+    "NomineeIds": "nm0001884",
+    "Winner": "",
+    "Detail": "The Renter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Albert Nobbs",
+    "FilmId": "tt1602098",
+    "Name": "Glenn Close",
+    "Nominees": "Glenn Close",
+    "NomineeIds": "nm0000335",
+    "Winner": "",
+    "Detail": "Albert Nobbs",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Help",
+    "FilmId": "tt1454029",
+    "Name": "Viola Davis",
+    "Nominees": "Viola Davis",
+    "NomineeIds": "nm0205626",
+    "Winner": "",
+    "Detail": "Aibileen Clark",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Girl with the Dragon Tattoo",
+    "FilmId": "tt1568346",
+    "Name": "Rooney Mara",
+    "Nominees": "Rooney Mara",
+    "NomineeIds": "nm1913734",
+    "Winner": "",
+    "Detail": "Lisbeth Salander",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Iron Lady",
+    "FilmId": "tt1007029",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "True",
+    "Detail": "Margaret Thatcher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "My Week with Marilyn",
+    "FilmId": "tt1655420",
+    "Name": "Michelle Williams",
+    "Nominees": "Michelle Williams",
+    "NomineeIds": "nm0931329",
+    "Winner": "",
+    "Detail": "Marilyn Monroe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Bérénice Bejo",
+    "Nominees": "Bérénice Bejo",
+    "NomineeIds": "nm0067367",
+    "Winner": "",
+    "Detail": "Peppy Miller",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Help",
+    "FilmId": "tt1454029",
+    "Name": "Jessica Chastain",
+    "Nominees": "Jessica Chastain",
+    "NomineeIds": "nm1567113",
+    "Winner": "",
+    "Detail": "Celia Foote",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Bridesmaids",
+    "FilmId": "tt1478338",
+    "Name": "Melissa McCarthy",
+    "Nominees": "Melissa McCarthy",
+    "NomineeIds": "nm0565250",
+    "Winner": "",
+    "Detail": "Megan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Albert Nobbs",
+    "FilmId": "tt1602098",
+    "Name": "Janet McTeer",
+    "Nominees": "Janet McTeer",
+    "NomineeIds": "nm0005216",
+    "Winner": "",
+    "Detail": "Hubert Page",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Help",
+    "FilmId": "tt1454029",
+    "Name": "Octavia Spencer",
+    "Nominees": "Octavia Spencer",
+    "NomineeIds": "nm0818055",
+    "Winner": "True",
+    "Detail": "Minny Jackson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "A Cat in Paris",
+    "FilmId": "tt1673702",
+    "Name": "Alain Gagnol and Jean-Loup Felicioli",
+    "Nominees": "Alain Gagnol|Jean-Loup Felicioli",
+    "NomineeIds": "nm0300944|nm0271246",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Chico & Rita",
+    "FilmId": "tt1235830",
+    "Name": "Fernando Trueba and Javier Mariscal",
+    "Nominees": "Fernando Trueba|Javier Mariscal",
+    "NomineeIds": "nm0874096|nm0973475",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Kung Fu Panda 2",
+    "FilmId": "tt1302011",
+    "Name": "Jennifer Yuh Nelson",
+    "Nominees": "Jennifer Yuh Nelson",
+    "NomineeIds": "nm0950775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Puss in Boots",
+    "FilmId": "tt0448694",
+    "Name": "Chris Miller",
+    "Nominees": "Chris Miller",
+    "NomineeIds": "nm1844237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Rango",
+    "FilmId": "tt1192628",
+    "Name": "Gore Verbinski",
+    "Nominees": "Gore Verbinski",
+    "NomineeIds": "nm0893659",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Production Design: Laurence Bennett; Set Decoration: Robert Gould",
+    "Nominees": "Laurence Bennett|Robert Gould",
+    "NomineeIds": "nm0071879|nm0332481",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Harry Potter and the Deathly Hallows Part 2",
+    "FilmId": "tt1201607",
+    "Name": "Production Design: Stuart Craig; Set Decoration: Stephenie McMillan",
+    "Nominees": "Stuart Craig|Stephenie McMillan",
+    "NomineeIds": "nm0186023|nm0573328",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Production Design: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+    "Nominees": "Dante Ferretti|Francesca Lo Schiavo",
+    "NomineeIds": "nm0274721|nm0521302",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Midnight in Paris",
+    "FilmId": "tt1605783",
+    "Name": "Production Design: Anne Seibel; Set Decoration: Hélène Dubreuil",
+    "Nominees": "Anne Seibel|Hélène Dubreuil",
+    "NomineeIds": "nm0796740|nm0239571",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "War Horse",
+    "FilmId": "tt1568911",
+    "Name": "Production Design: Rick Carter; Set Decoration: Lee Sandales",
+    "Nominees": "Rick Carter|Lee Sandales",
+    "NomineeIds": "nm0141437|nm0761227",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Guillaume Schiffman",
+    "Nominees": "Guillaume Schiffman",
+    "NomineeIds": "nm0771526",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Girl with the Dragon Tattoo",
+    "FilmId": "tt1568346",
+    "Name": "Jeff Cronenweth",
+    "Nominees": "Jeff Cronenweth",
+    "NomineeIds": "nm0188729",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Robert Richardson",
+    "Nominees": "Robert Richardson",
+    "NomineeIds": "nm0724744",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Tree of Life",
+    "FilmId": "tt0478304",
+    "Name": "Emmanuel Lubezki",
+    "Nominees": "Emmanuel Lubezki",
+    "NomineeIds": "nm0523881",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "War Horse",
+    "FilmId": "tt1568911",
+    "Name": "Janusz Kaminski",
+    "Nominees": "Janusz Kaminski",
+    "NomineeIds": "nm0001405",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Anonymous",
+    "FilmId": "tt1521197",
+    "Name": "Lisy Christl",
+    "Nominees": "Lisy Christl",
+    "NomineeIds": "nm0160425",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Mark Bridges",
+    "Nominees": "Mark Bridges",
+    "NomineeIds": "nm0108775",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Jane Eyre",
+    "FilmId": "tt1229822",
+    "Name": "Michael O'Connor",
+    "Nominees": "Michael O'Connor",
+    "NomineeIds": "nm0640445",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "W.E.",
+    "FilmId": "tt1536048",
+    "Name": "Arianne Phillips",
+    "Nominees": "Arianne Phillips",
+    "NomineeIds": "nm0680218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Michel Hazanavicius",
+    "Nominees": "Michel Hazanavicius",
+    "NomineeIds": "nm0371890",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Descendants",
+    "FilmId": "tt1033575",
+    "Name": "Alexander Payne",
+    "Nominees": "Alexander Payne",
+    "NomineeIds": "nm0668247",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Martin Scorsese",
+    "Nominees": "Martin Scorsese",
+    "NomineeIds": "nm0000217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Midnight in Paris",
+    "FilmId": "tt1605783",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Tree of Life",
+    "FilmId": "tt0478304",
+    "Name": "Terrence Malick",
+    "Nominees": "Terrence Malick",
+    "NomineeIds": "nm0000517",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Hell and Back Again",
+    "FilmId": "tt1748043",
+    "Name": "Danfung Dennis and Mike Lerner",
+    "Nominees": "Danfung Dennis|Mike Lerner",
+    "NomineeIds": "nm3653362|nm0503631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "If a Tree Falls: A Story of the Earth Liberation Front",
+    "FilmId": "tt1787725",
+    "Name": "Marshall Curry and Sam Cullman",
+    "Nominees": "Marshall Curry|Sam Cullman",
+    "NomineeIds": "nm1903582|nm2014414",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Paradise Lost 3: Purgatory",
+    "FilmId": "tt2028530",
+    "Name": "Joe Berlinger and Bruce Sinofsky",
+    "Nominees": "Joe Berlinger|Bruce Sinofsky",
+    "NomineeIds": "nm0075666|nm0802501",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Pina",
+    "FilmId": "tt1440266",
+    "Name": "Wim Wenders and Gian-Piero Ringel",
+    "Nominees": "Wim Wenders|Gian-Piero Ringel",
+    "NomineeIds": "nm0000694|nm1868176",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Undefeated",
+    "FilmId": "tt1860355",
+    "Name": "TJ Martin, Dan Lindsay and Rich Middlemas",
+    "Nominees": "TJ Martin|Dan Lindsay|Rich Middlemas",
+    "NomineeIds": "nm1390562|nm2418675|nm4375657",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Barber of Birmingham: Foot Soldier of the Civil Rights Movement",
+    "FilmId": "tt1844056",
+    "Name": "Robin Fryday and Gail Dolgin",
+    "Nominees": "Robin Fryday|Gail Dolgin",
+    "NomineeIds": "nm4325872|nm0231000",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "God Is the Bigger Elvis",
+    "FilmId": "tt2210633",
+    "Name": "Rebecca Cammisa and Julie Anderson",
+    "Nominees": "Rebecca Cammisa|Julie Anderson",
+    "NomineeIds": "nm1095640|nm1088893",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Incident in New Baghdad",
+    "FilmId": "tt1746180",
+    "Name": "James Spione",
+    "Nominees": "James Spione",
+    "NomineeIds": "nm0819011",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Saving Face",
+    "FilmId": "tt2140371",
+    "Name": "Daniel Junge and Sharmeen Obaid-Chinoy",
+    "Nominees": "Daniel Junge|Sharmeen Obaid-Chinoy",
+    "NomineeIds": "nm0432616|nm1581464",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Tsunami and the Cherry Blossom",
+    "FilmId": "tt2028578",
+    "Name": "Lucy Walker and Kira Carstensen",
+    "Nominees": "Lucy Walker|Kira Carstensen",
+    "NomineeIds": "nm1013671|nm0141379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Anne-Sophie Bion and Michel Hazanavicius",
+    "Nominees": "Anne-Sophie Bion|Michel Hazanavicius",
+    "NomineeIds": "nm2691134|nm0371890",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Descendants",
+    "FilmId": "tt1033575",
+    "Name": "Kevin Tent",
+    "Nominees": "Kevin Tent",
+    "NomineeIds": "nm0855188",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Girl with the Dragon Tattoo",
+    "FilmId": "tt1568346",
+    "Name": "Kirk Baxter and Angus Wall",
+    "Nominees": "Kirk Baxter|Angus Wall",
+    "NomineeIds": "nm0062775|nm0908370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Thelma Schoonmaker",
+    "Nominees": "Thelma Schoonmaker",
+    "NomineeIds": "nm0774817",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Moneyball",
+    "FilmId": "tt1210166",
+    "Name": "Christopher Tellefsen",
+    "Nominees": "Christopher Tellefsen",
+    "NomineeIds": "nm0854403",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Bullhead",
+    "FilmId": "tt1821593",
+    "Name": "Belgium",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Footnote",
+    "FilmId": "tt1445520",
+    "Name": "Israel",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "In Darkness",
+    "FilmId": "tt1417075",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Monsieur Lazhar",
+    "FilmId": "tt2011971",
+    "Name": "Canada",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A Separation",
+    "FilmId": "tt1832382",
+    "Name": "Iran",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Albert Nobbs",
+    "FilmId": "tt1602098",
+    "Name": "Martial Corneville, Lynn Johnston and Matthew W. Mungle",
+    "Nominees": "Martial Corneville|Lynn Johnston|Matthew W. Mungle",
+    "NomineeIds": "nm0180355|nm0425699|nm0612817",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Harry Potter and the Deathly Hallows Part 2",
+    "FilmId": "tt1201607",
+    "Name": "Nick Dudman, Amanda Knight and Lisa Tomblin",
+    "Nominees": "Nick Dudman|Amanda Knight|Lisa Tomblin",
+    "NomineeIds": "nm0240183|nm0460792|nm0866566",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Iron Lady",
+    "FilmId": "tt1007029",
+    "Name": "Mark Coulier and J. Roy Helland",
+    "Nominees": "Mark Coulier|J. Roy Helland",
+    "NomineeIds": "nm0183418|nm0375187",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Adventures of Tintin",
+    "FilmId": "tt0983193",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Ludovic Bource",
+    "Nominees": "Ludovic Bource",
+    "NomineeIds": "nm0099753",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Howard Shore",
+    "Nominees": "Howard Shore",
+    "NomineeIds": "nm0006290",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Tinker Tailor Soldier Spy",
+    "FilmId": "tt1340800",
+    "Name": "Alberto Iglesias",
+    "Nominees": "Alberto Iglesias",
+    "NomineeIds": "nm0407076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "War Horse",
+    "FilmId": "tt1568911",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Muppets",
+    "FilmId": "tt1204342",
+    "Name": "Music and Lyric by Bret McKenzie",
+    "Nominees": "Bret McKenzie",
+    "NomineeIds": "nm1235366",
+    "Winner": "True",
+    "Detail": "Man Or Muppet",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Rio",
+    "FilmId": "tt1436562",
+    "Name": "Music by Sergio Mendes and Carlinhos Brown; Lyric by Siedah Garrett",
+    "Nominees": "Sergio Mendes|Carlinhos Brown|Siedah Garrett",
+    "NomineeIds": "nm0005223|nm0113198|nm0308206",
+    "Winner": "",
+    "Detail": "Real In Rio",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Thomas Langmann, Producer",
+    "Nominees": "Thomas Langmann",
+    "NomineeIds": "nm0486627",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Descendants",
+    "FilmId": "tt1033575",
+    "Name": "Jim Burke, Alexander Payne and Jim Taylor, Producers",
+    "Nominees": "Jim Burke|Alexander Payne|Jim Taylor",
+    "NomineeIds": "nm0121724|nm0668247|nm0852591",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Extremely Loud & Incredibly Close",
+    "FilmId": "tt0477302",
+    "Name": "Scott Rudin, Producer",
+    "Nominees": "Scott Rudin",
+    "NomineeIds": "nm0748784",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Help",
+    "FilmId": "tt1454029",
+    "Name": "Brunson Green, Chris Columbus and Michael Barnathan, Producers",
+    "Nominees": "Brunson Green|Chris Columbus|Michael Barnathan",
+    "NomineeIds": "nm0337676|nm0001060|nm0055431",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Graham King and Martin Scorsese, Producers",
+    "Nominees": "Graham King|Martin Scorsese",
+    "NomineeIds": "nm0454752|nm0000217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Midnight in Paris",
+    "FilmId": "tt1605783",
+    "Name": "Letty Aronson and Stephen Tenenbaum, Producers",
+    "Nominees": "Letty Aronson|Stephen Tenenbaum",
+    "NomineeIds": "nm0036981|nm1008264",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Moneyball",
+    "FilmId": "tt1210166",
+    "Name": "Michael De Luca, Rachael Horovitz and Brad Pitt, Producers",
+    "Nominees": "Michael De Luca|Rachael Horovitz|Brad Pitt",
+    "NomineeIds": "nm0006894|nm0395267|nm0000093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Tree of Life",
+    "FilmId": "tt0478304",
+    "Name": "Sarah Green, Bill Pohlad, Dede Gardner and Grant Hill, Producers",
+    "Nominees": "Sarah Green|Bill Pohlad|Dede Gardner|Grant Hill",
+    "NomineeIds": "nm0338320|nm0688361|nm0306890|nm0384294",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "War Horse",
+    "FilmId": "tt1568911",
+    "Name": "Steven Spielberg and Kathleen Kennedy, Producers",
+    "Nominees": "Steven Spielberg|Kathleen Kennedy",
+    "NomineeIds": "nm0000229|nm0005086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Dimanche/Sunday",
+    "FilmId": "tt1895334",
+    "Name": "Patrick Doyon",
+    "Nominees": "Patrick Doyon",
+    "NomineeIds": "nm4420977",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Fantastic Flying Books of Mr. Morris Lessmore",
+    "FilmId": "tt1778342",
+    "Name": "William Joyce and Brandon Oldenburg",
+    "Nominees": "William Joyce|Brandon Oldenburg",
+    "NomineeIds": "nm0431622|nm1099141",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "La Luna",
+    "FilmId": "tt1957945",
+    "Name": "Enrico Casarosa",
+    "Nominees": "Enrico Casarosa",
+    "NomineeIds": "nm1154836",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "A Morning Stroll",
+    "FilmId": "tt1964446",
+    "Name": "Grant Orchard and Sue Goffe",
+    "Nominees": "Grant Orchard|Sue Goffe",
+    "NomineeIds": "nm1487762|nm1516583",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Wild Life",
+    "FilmId": "tt2097943",
+    "Name": "Amanda Forbis and Wendy Tilby",
+    "Nominees": "Amanda Forbis|Wendy Tilby",
+    "NomineeIds": "nm0285428|nm0863195",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Pentecost",
+    "FilmId": "tt1866218",
+    "Name": "Peter McDonald and Eimear O'Kane",
+    "Nominees": "Peter McDonald|Eimear O'Kane",
+    "NomineeIds": "nm0567945|nm2276885",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Raju",
+    "FilmId": "tt1819651",
+    "Name": "Max Zähle and Stefan Gieren",
+    "Nominees": "Max Zähle|Stefan Gieren",
+    "NomineeIds": "nm2020448|nm4269794",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Shore",
+    "FilmId": "tt2201259",
+    "Name": "Terry George and Oorlagh George",
+    "Nominees": "Terry George|Oorlagh George",
+    "NomineeIds": "nm0313623|nm1599010",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Time Freak",
+    "FilmId": "tt1733689",
+    "Name": "Andrew Bowler and Gigi Causey",
+    "Nominees": "Andrew Bowler|Gigi Causey",
+    "NomineeIds": "nm1577772|nm0146592",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Tuba Atlantic",
+    "FilmId": "tt2061843",
+    "Name": "Hallvar Witzø",
+    "Nominees": "Hallvar Witzø",
+    "NomineeIds": "nm2523083",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. After the awards ceremony on February 26, 2012, the Academy was made aware that Tuba Atlantic had been shown on Norwegian television in 2010, making the film ineligible for the 84th Awards under the rules governing the category. In July 2012, the nomination was rescinded by the Board of Governors.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Drive",
+    "FilmId": "tt0780504",
+    "Name": "Lon Bender and Victor Ray Ennis",
+    "Nominees": "Lon Bender|Victor Ray Ennis",
+    "NomineeIds": "nm0070489|nm0257905",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Girl with the Dragon Tattoo",
+    "FilmId": "tt1568346",
+    "Name": "Ren Klyce",
+    "Nominees": "Ren Klyce",
+    "NomineeIds": "nm0460274",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Philip Stockton and Eugene Gearty",
+    "Nominees": "Philip Stockton|Eugene Gearty",
+    "NomineeIds": "nm0830958|nm0311267",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Transformers: Dark of the Moon",
+    "FilmId": "tt1399103",
+    "Name": "Ethan Van der Ryn and Erik Aadahl",
+    "Nominees": "Ethan Van der Ryn|Erik Aadahl",
+    "NomineeIds": "nm0886399|nm0007321",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "War Horse",
+    "FilmId": "tt1568911",
+    "Name": "Richard Hymns and Gary Rydstrom",
+    "Nominees": "Richard Hymns|Gary Rydstrom",
+    "NomineeIds": "nm0405232|nm0003977",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Girl with the Dragon Tattoo",
+    "FilmId": "tt1568346",
+    "Name": "David Parker, Michael Semanick, Ren Klyce and Bo Persson",
+    "Nominees": "David Parker|Michael Semanick|Ren Klyce|Bo Persson",
+    "NomineeIds": "nm0662188|nm0783713|nm0460274|nm0675565",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Tom Fleischman and John Midgley",
+    "Nominees": "Tom Fleischman|John Midgley",
+    "NomineeIds": "nm0281530|nm0585611",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Moneyball",
+    "FilmId": "tt1210166",
+    "Name": "Deb Adair, Ron Bochar, David Giammarco and Ed Novick",
+    "Nominees": "Deb Adair|Ron Bochar|David Giammarco|Ed Novick",
+    "NomineeIds": "nm0010426|nm0090580|nm0316102|nm0637085",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Transformers: Dark of the Moon",
+    "FilmId": "tt1399103",
+    "Name": "Greg P. Russell, Gary Summers, Jeffrey J. Haboush and Peter J. Devlin",
+    "Nominees": "Greg P. Russell|Gary Summers|Jeffrey J. Haboush|Peter J. Devlin",
+    "NomineeIds": "nm0751169|nm0838707|nm0352300|nm0222818",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "War Horse",
+    "FilmId": "tt1568911",
+    "Name": "Gary Rydstrom, Andy Nelson, Tom Johnson and Stuart Wilson",
+    "Nominees": "Gary Rydstrom|Andy Nelson|Tom Johnson|Stuart Wilson",
+    "NomineeIds": "nm0003977|nm0625144|nm0426348|nm0934184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Harry Potter and the Deathly Hallows Part 2",
+    "FilmId": "tt1201607",
+    "Name": "Tim Burke, David Vickery, Greg Butler and John Richardson",
+    "Nominees": "Tim Burke|David Vickery|Greg Butler|John Richardson",
+    "NomineeIds": "nm0121888|nm1316134|nm0124935|nm0724624",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Rob Legato, Joss Williams, Ben Grossmann and Alex Henning",
+    "Nominees": "Rob Legato|Joss Williams|Ben Grossmann|Alex Henning",
+    "NomineeIds": "nm0499215|nm0930998|nm1322973|nm1639884",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Real Steel",
+    "FilmId": "tt0433035",
+    "Name": "Erik Nash, John Rosengrant, Dan Taylor and Swen Gillberg",
+    "Nominees": "Erik Nash|John Rosengrant|Dan Taylor|Swen Gillberg",
+    "NomineeIds": "nm0621716|nm0742603|nm0852199|nm1089828",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Rise of the Planet of the Apes",
+    "FilmId": "tt1318514",
+    "Name": "Joe Letteri, Dan Lemmon, R. Christopher White and Daniel Barrett",
+    "Nominees": "Joe Letteri|Dan Lemmon|R. Christopher White|Daniel Barrett",
+    "NomineeIds": "nm0504784|nm0501424|nm0925341|nm2280778",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Transformers: Dark of the Moon",
+    "FilmId": "tt1399103",
+    "Name": "Scott Farrar, Scott Benza, Matthew Butler and John Frazier",
+    "Nominees": "Scott Farrar|Scott Benza|Matthew Butler|John Frazier",
+    "NomineeIds": "nm0268141|nm1388484|nm0125056|nm0292594",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Descendants",
+    "FilmId": "tt1033575",
+    "Name": "Screenplay by Alexander Payne and Nat Faxon & Jim Rash",
+    "Nominees": "Alexander Payne|Nat Faxon|Jim Rash",
+    "NomineeIds": "nm0668247|nm0269542|nm0711110",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Hugo",
+    "FilmId": "tt0970179",
+    "Name": "Screenplay by John Logan",
+    "Nominees": "John Logan",
+    "NomineeIds": "nm0517589",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Ides of March",
+    "FilmId": "tt1124035",
+    "Name": "Screenplay by George Clooney & Grant Heslov and Beau Willimon",
+    "Nominees": "George Clooney|Grant Heslov|Beau Willimon",
+    "NomineeIds": "nm0000123|nm0381416|nm2802722",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Moneyball",
+    "FilmId": "tt1210166",
+    "Name": "Screenplay by Steven Zaillian and Aaron Sorkin; Story by Stan Chervin",
+    "Nominees": "Steven Zaillian|Aaron Sorkin|Stan Chervin",
+    "NomineeIds": "nm0001873|nm0815070|nm3133181",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Tinker Tailor Soldier Spy",
+    "FilmId": "tt1340800",
+    "Name": "Screenplay by Bridget O'Connor & Peter Straughan",
+    "Nominees": "Bridget O'Connor|Peter Straughan",
+    "NomineeIds": "nm2091799|nm1661186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Artist",
+    "FilmId": "tt1655442",
+    "Name": "Written by Michel Hazanavicius",
+    "Nominees": "Michel Hazanavicius",
+    "NomineeIds": "nm0371890",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Bridesmaids",
+    "FilmId": "tt1478338",
+    "Name": "Written by Annie Mumolo & Kristen Wiig",
+    "Nominees": "Annie Mumolo|Kristen Wiig",
+    "NomineeIds": "nm1754239|nm1325419",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Margin Call",
+    "FilmId": "tt1615147",
+    "Name": "Written by J.C. Chandor",
+    "Nominees": "J.C. Chandor",
+    "NomineeIds": "nm1170855",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Midnight in Paris",
+    "FilmId": "tt1605783",
+    "Name": "Written by Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "A Separation",
+    "FilmId": "tt1832382",
+    "Name": "Written by Asghar Farhadi",
+    "Nominees": "Asghar Farhadi",
+    "NomineeIds": "nm1410815",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Oprah Winfrey",
+    "Nominees": "Oprah Winfrey",
+    "NomineeIds": "nm0001856",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James Earl Jones",
+    "NomineeIds": "nm0000469",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To James Earl Jones for his legacy of consistent excellence and uncommon versatility."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dick Smith",
+    "NomineeIds": "nm0004615",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Dick Smith for his unparalleled mastery of texture, shade, form and illusion."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Douglas Trumbull",
+    "NomineeIds": "nm0874320",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Douglas Trumbull"
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Franz Kraus|Johannes Steurer|Wolfgang Riedel",
+    "NomineeIds": "nm0470117|?|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "The ARRILASER film recorder demonstrates a high level of engineering resulting in a compact, user-friendly, low-maintenance device, while at the same time maintaining outstanding speed, exposure ratings and image quality.",
+    "Citation": "To FRANZ KRAUS, JOHANNES STEURER and WOLFGANG RIEDEL for the design and development of the ARRILASER Film Recorder."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Radu Corlan|Andy Jantzen|Petru Pop|Richard F. Toftness",
+    "NomineeIds": "nm7502595|nm7502597|nm7502596|nm7502598",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "The Phantom family of high-speed digital cameras, including the Phantom Flex and HD Gold, provide imagery at speeds and efficacy surpassing photochemical technology, while seamlessly intercutting with conventional film production.",
+    "Citation": "To RADU CORLAN, ANDY JANTZEN, PETRU POP and RICHARD F. TOFTNESS for the design and engineering of the Phantom family of high-speed cameras for motion picture production."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Jürgen Noffke|Uwe Weber",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "The Master Primes have achieved a full stop advance in speed over existing lenses, while maintaining state-of-the-art optical quality. This lens family was also the first to eliminate the magnification change that accompanied extreme focus shifts.",
+    "Citation": "To DR. JÜRGEN NOFFKE for the optical design and UWE WEBER for the mechanical design of the ARRI Zeiss Master Prime Lenses for motion picture photography."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Michael Lewis|Greg Marsden|Raigo Alas|Michael Vellekoop",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "The Pictorvision Eclipse system allows cinematographers to capture aerial footage at faster flying speeds with aggressive platform maneuvering.",
+    "Citation": "To MICHAEL LEWIS, GREG MARSDEN, RAIGO ALAS and MICHAEL VELLEKOOP for the concept, design and implementation of the Pictorvision Eclipse, an electronically stabilized aerial camera platform."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "E.F. \\\"BOB\\\" Nettmann|Michael Sayovitz|Brad Fritzel|Fred Miller",
+    "NomineeIds": "nm6240625|?|?|?",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "This versatile family of 5-axis camera and lens stabilizers allows any standard motion picture camera to be fitted into the open architecture of the structure. The system can be quickly balanced and made ready for shooting platforms such as helicopters, boats, camera cars or cranes.",
+    "Citation": "To E.F. \\\"BOB\\\" NETTMANN for the concept and system architecture, MICHAEL SAYOVITZ for the electronic packaging and integration, BRAD FRITZEL for the electronic engineering, and FRED MILLER for the mechanical engineering of the Stab-C Classic, Super-G and Stab-C Compact stabilizing heads."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John D. Lowry|Ian Cavén|Ian Godin|Kimball Thurston|Tim Connolly",
+    "NomineeIds": "nm5542919|?|nm2933640|nm2933596|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The \\\"Lowry Process\\\" uses advanced GPU-accelerated, motion estimation-based image processing tools to enhance image quality.",
+    "Citation": "To JOHN D. LOWRY, IAN CAVÉN, IAN GODIN, KIMBALL THURSTON and TIM CONNOLLY for the development of a unique and efficient system for the reduction of noise and other artifacts, thereby providing high-quality images required by the filmmaking process."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fujifilm Corporation|Hideyuki Shirai|Dr. Katsuhisa Oozeki|Hiroshi Hirano",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "Specifically designed for laser film recording and widely used in the industry today, the high-resolution FUJIFILM ETERNA-RDS 4791 film stock is an important step in protecting the heritage of the motion picture industry.",
+    "Citation": "To FUJIFILM CORPORATION, HIDEYUKI SHIRAI, DR. KATSUHISA OOZEKI and HIROSHI HIRANO for the design and development of the FUJIFILM black and white recording film ETERNA-RDS 4791 for use in the archival preservation of film and digital images."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Andrew Clinton|Mark Elendt",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This work allowed, for the first time, unified and efficient rendering of volumetric effects such as smoke and clouds, together with other computer graphics objects, in a micro-polygon imaging pipeline.",
+    "Citation": "To ANDREW CLINTON and MARK ELENDT for the invention and integration of micro-voxels in the Mantra software."
+  },
+  {
+    "Ceremony": 84,
+    "Year": 2011,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jonathan Erland",
+    "NomineeIds": "nm0259510",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Jonathan Erland in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  }
 ]

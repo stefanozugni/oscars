@@ -1,1678 +1,1970 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1982",
-    "nominees": [
-      "Gandhi"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1982",
-    "nominees": [
-      "E.T. the Extra-Terrestrial"
-    ],
-    "movies": [
-      {
-        "title": "E.T. the Extra-Terrestrial",
-        "tmdb_id": 601,
-        "imdb_id": "tt0083866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1982",
-    "nominees": [
-      "Missing"
-    ],
-    "movies": [
-      {
-        "title": "Missing",
-        "tmdb_id": 15600,
-        "imdb_id": "tt0084335"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1982",
-    "nominees": [
-      "Tootsie"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1982",
-    "nominees": [
-      "The Verdict"
-    ],
-    "movies": [
-      {
-        "title": "The Verdict",
-        "tmdb_id": 24226,
-        "imdb_id": "tt0084855"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1982",
-    "nominees": [
-      "Ben Kingsley"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1982",
-    "nominees": [
-      "Dustin Hoffman"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1982",
-    "nominees": [
-      "Jack Lemmon"
-    ],
-    "movies": [
-      {
-        "title": "Missing",
-        "tmdb_id": 15600,
-        "imdb_id": "tt0084335"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1982",
-    "nominees": [
-      "Paul Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Verdict",
-        "tmdb_id": 24226,
-        "imdb_id": "tt0084855"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1982",
-    "nominees": [
-      "Peter O'Toole"
-    ],
-    "movies": [
-      {
-        "title": "My Favorite Year",
-        "tmdb_id": 31044,
-        "imdb_id": "tt0084370"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1982",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "Sophie's Choice",
-        "tmdb_id": 15764,
-        "imdb_id": "tt0084707"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1982",
-    "nominees": [
-      "Julie Andrews"
-    ],
-    "movies": [
-      {
-        "title": "Victor/Victoria",
-        "tmdb_id": 12614,
-        "imdb_id": "tt0084865"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1982",
-    "nominees": [
-      "Jessica Lange"
-    ],
-    "movies": [
-      {
-        "title": "Frances",
-        "tmdb_id": 3526,
-        "imdb_id": "tt0083967"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1982",
-    "nominees": [
-      "Sissy Spacek"
-    ],
-    "movies": [
-      {
-        "title": "Missing",
-        "tmdb_id": 15600,
-        "imdb_id": "tt0084335"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1982",
-    "nominees": [
-      "Debra Winger"
-    ],
-    "movies": [
-      {
-        "title": "An Officer and a Gentleman",
-        "tmdb_id": 2623,
-        "imdb_id": "tt0084434"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1982",
-    "nominees": [
-      "Louis Gossett Jr."
-    ],
-    "movies": [
-      {
-        "title": "An Officer and a Gentleman",
-        "tmdb_id": 2623,
-        "imdb_id": "tt0084434"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1982",
-    "nominees": [
-      "Charles Durning"
-    ],
-    "movies": [
-      {
-        "title": "The Best Little Whorehouse in Texas",
-        "tmdb_id": 16363,
-        "imdb_id": "tt0083642"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1982",
-    "nominees": [
-      "John Lithgow"
-    ],
-    "movies": [
-      {
-        "title": "The World According to Garp",
-        "tmdb_id": 11307,
-        "imdb_id": "tt0084917"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1982",
-    "nominees": [
-      "James Mason"
-    ],
-    "movies": [
-      {
-        "title": "The Verdict",
-        "tmdb_id": 24226,
-        "imdb_id": "tt0084855"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1982",
-    "nominees": [
-      "Robert Preston"
-    ],
-    "movies": [
-      {
-        "title": "Victor/Victoria",
-        "tmdb_id": 12614,
-        "imdb_id": "tt0084865"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1982",
-    "nominees": [
-      "Jessica Lange"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1982",
-    "nominees": [
-      "Glenn Close"
-    ],
-    "movies": [
-      {
-        "title": "The World According to Garp",
-        "tmdb_id": 11307,
-        "imdb_id": "tt0084917"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1982",
-    "nominees": [
-      "Teri Garr"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1982",
-    "nominees": [
-      "Kim Stanley"
-    ],
-    "movies": [
-      {
-        "title": "Frances",
-        "tmdb_id": 3526,
-        "imdb_id": "tt0083967"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1982",
-    "nominees": [
-      "Lesley Ann Warren"
-    ],
-    "movies": [
-      {
-        "title": "Victor/Victoria",
-        "tmdb_id": 12614,
-        "imdb_id": "tt0084865"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1982",
-    "nominees": [
-      "Richard Attenborough"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1982",
-    "nominees": [
-      "Wolfgang Petersen"
-    ],
-    "movies": [
-      {
-        "title": "Das Boot",
-        "tmdb_id": 387,
-        "imdb_id": "tt0082096"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1982",
-    "nominees": [
-      "Steven Spielberg"
-    ],
-    "movies": [
-      {
-        "title": "E.T. the Extra-Terrestrial",
-        "tmdb_id": 601,
-        "imdb_id": "tt0083866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1982",
-    "nominees": [
-      "Sydney Pollack"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1982",
-    "nominees": [
-      "Sidney Lumet"
-    ],
-    "movies": [
-      {
-        "title": "The Verdict",
-        "tmdb_id": 24226,
-        "imdb_id": "tt0084855"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1982",
-    "nominees": [
-      "Costa-Gavras",
-      "Donald E. Stewart"
-    ],
-    "movies": [
-      {
-        "title": "Missing",
-        "tmdb_id": 15600,
-        "imdb_id": "tt0084335"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1982",
-    "nominees": [
-      "Wolfgang Petersen"
-    ],
-    "movies": [
-      {
-        "title": "Das Boot",
-        "tmdb_id": 387,
-        "imdb_id": "tt0082096"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1982",
-    "nominees": [
-      "Alan J. Pakula"
-    ],
-    "movies": [
-      {
-        "title": "Sophie's Choice",
-        "tmdb_id": 15764,
-        "imdb_id": "tt0084707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1982",
-    "nominees": [
-      "David Mamet"
-    ],
-    "movies": [
-      {
-        "title": "The Verdict",
-        "tmdb_id": 24226,
-        "imdb_id": "tt0084855"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1982",
-    "nominees": [
-      "Blake Edwards"
-    ],
-    "movies": [
-      {
-        "title": "Victor/Victoria",
-        "tmdb_id": 12614,
-        "imdb_id": "tt0084865"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1982",
-    "nominees": [
-      "John Briley"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1982",
-    "nominees": [
-      "Barry Levinson"
-    ],
-    "movies": [
-      {
-        "title": "Diner",
-        "tmdb_id": 13776,
-        "imdb_id": "tt0083833"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1982",
-    "nominees": [
-      "Melissa Mathison"
-    ],
-    "movies": [
-      {
-        "title": "E.T. the Extra-Terrestrial",
-        "tmdb_id": 601,
-        "imdb_id": "tt0083866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1982",
-    "nominees": [
-      "Douglas Day Stewart"
-    ],
-    "movies": [
-      {
-        "title": "An Officer and a Gentleman",
-        "tmdb_id": 2623,
-        "imdb_id": "tt0084434"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1982",
-    "nominees": [
-      "Larry Gelbart",
-      "Murray Schisgal",
-      "Don McGuire"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1982",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "E.T. the Extra-Terrestrial",
-        "tmdb_id": 601,
-        "imdb_id": "tt0083866"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1982",
-    "nominees": [
-      "Ravi Shankar",
-      "George Fenton"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1982",
-    "nominees": [
-      "Jack Nitzsche"
-    ],
-    "movies": [
-      {
-        "title": "An Officer and a Gentleman",
-        "tmdb_id": 2623,
-        "imdb_id": "tt0084434"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1982",
-    "nominees": [
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "Poltergeist",
-        "tmdb_id": 609,
-        "imdb_id": "tt0084516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1982",
-    "nominees": [
-      "Marvin Hamlisch"
-    ],
-    "movies": [
-      {
-        "title": "Sophie's Choice",
-        "tmdb_id": 15764,
-        "imdb_id": "tt0084707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1982",
-    "nominees": [
-      "Henry Mancini",
-      "Leslie Bricusse"
-    ],
-    "movies": [
-      {
-        "title": "Victor/Victoria",
-        "tmdb_id": 12614,
-        "imdb_id": "tt0084865"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1982",
-    "nominees": [
-      "Ralph Burns"
-    ],
-    "movies": [
-      {
-        "title": "Annie",
-        "tmdb_id": 15739,
-        "imdb_id": "tt0083564"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1982",
-    "nominees": [
-      "Tom Waits"
-    ],
-    "movies": [
-      {
-        "title": "One from the Heart",
-        "tmdb_id": 41291,
-        "imdb_id": "tt0084445"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1982",
-    "nominees": [
-      "Up Where We Belong"
-    ],
-    "movies": [
-      {
-        "title": "An Officer and a Gentleman",
-        "tmdb_id": 2623,
-        "imdb_id": "tt0084434"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1982",
-    "nominees": [
-      "Eye of the Tiger"
-    ],
-    "movies": [
-      {
-        "title": "Rocky III",
-        "tmdb_id": 1371,
-        "imdb_id": "tt0084602"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1982",
-    "nominees": [
-      "How Do You Keep the Music Playing?"
-    ],
-    "movies": [
-      {
-        "title": "Best Friends",
-        "tmdb_id": 45840,
-        "imdb_id": "tt0083641"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1982",
-    "nominees": [
-      "If We Were in Love"
-    ],
-    "movies": [
-      {
-        "title": "Yes, Giorgio",
-        "tmdb_id": 88451,
-        "imdb_id": "tt0084931"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1982",
-    "nominees": [
-      "It Might Be You"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1982",
-    "nominees": [
-      "To Begin Again"
-    ],
-    "movies": [
-      {
-        "title": "To Begin Again",
-        "tmdb_id": 81346,
-        "imdb_id": "tt0084874"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1982",
-    "nominees": [
-      "Alsino and the Condor"
-    ],
-    "movies": [
-      {
-        "title": "Alsino and the Condor",
-        "tmdb_id": 192721,
-        "imdb_id": "tt0083543"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1982",
-    "nominees": [
-      "Coup de Torchon"
-    ],
-    "movies": [
-      {
-        "title": "Coup de Torchon",
-        "tmdb_id": 35797,
-        "imdb_id": "tt0082206"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1982",
-    "nominees": [
-      "The Flight of the Eagle"
-    ],
-    "movies": [
-      {
-        "title": "The Flight of the Eagle",
-        "tmdb_id": 72785,
-        "imdb_id": "tt0084136"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1982",
-    "nominees": [
-      "Private Life"
-    ],
-    "movies": [
-      {
-        "title": "Private Life",
-        "tmdb_id": 202783,
-        "imdb_id": "tt0083732"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1982",
-    "nominees": [
-      "Just Another Missing Kid"
-    ],
-    "movies": [
-      {
-        "title": "Just Another Missing Kid",
-        "tmdb_id": 114517,
-        "imdb_id": "tt0084185"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1982",
-    "nominees": [
-      "A Portrait of Giselle"
-    ],
-    "movies": [
-      {
-        "title": "A Portrait of Giselle",
-        "tmdb_id": 149368,
-        "imdb_id": "tt0084524"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1982",
-    "nominees": [
-      "After the Axe"
-    ],
-    "movies": [
-      {
-        "title": "After the Axe",
-        "tmdb_id": 136674,
-        "imdb_id": "tt0083525"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1982",
-    "nominees": [
-      "Ben's Mill"
-    ],
-    "movies": [
-      {
-        "title": "Ben's Mill",
-        "tmdb_id": 149372,
-        "imdb_id": "tt0083638"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1982",
-    "nominees": [
-      "In Our Water"
-    ],
-    "movies": [
-      {
-        "title": "In Our Water",
-        "tmdb_id": 149370,
-        "imdb_id": "tt0084127"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1982",
-    "nominees": [
-      "If You Love This Planet"
-    ],
-    "movies": [
-      {
-        "title": "If You Love This Planet",
-        "tmdb_id": 244415,
-        "imdb_id": "tt0084118"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1982",
-    "nominees": [
-      "Gods of Metal"
-    ],
-    "movies": [
-      {
-        "title": "Gods of Metal",
-        "tmdb_id": 244424,
-        "imdb_id": "tt0084009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1982",
-    "nominees": [
-      "The Klan: A Legacy of Hate in America"
-    ],
-    "movies": [
-      {
-        "title": "The Klan: A Legacy of Hate in America",
-        "tmdb_id": 244428,
-        "imdb_id": "tt0084213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1982",
-    "nominees": [
-      "To Live or Let Die"
-    ],
-    "movies": [
-      {
-        "title": "To Live or Let Die",
-        "tmdb_id": 244434,
-        "imdb_id": "tt0084798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1982",
-    "nominees": [
-      "Traveling Hopefully"
-    ],
-    "movies": [
-      {
-        "title": "Traveling Hopefully",
-        "tmdb_id": 244435,
-        "imdb_id": "tt0084820"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1982",
-    "nominees": [
-      "Tango"
-    ],
-    "movies": [
-      {
-        "title": "Tango",
-        "tmdb_id": 48496,
-        "imdb_id": "tt0084764"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1982",
-    "nominees": [
-      "The Great Cognito"
-    ],
-    "movies": [
-      {
-        "title": "The Great Cognito",
-        "tmdb_id": 210963,
-        "imdb_id": "tt0084023"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1982",
-    "nominees": [
-      "The Snowman"
-    ],
-    "movies": [
-      {
-        "title": "The Snowman",
-        "tmdb_id": 13396,
-        "imdb_id": "tt0084701"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1982",
-    "nominees": [
-      "A Shocking Accident"
-    ],
-    "movies": [
-      {
-        "title": "A Shocking Accident",
-        "tmdb_id": 244404,
-        "imdb_id": "tt0084672"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1982",
-    "nominees": [
-      "Ballet Robotique"
-    ],
-    "movies": [
-      {
-        "title": "Ballet Robotique",
-        "tmdb_id": 244405,
-        "imdb_id": "tt0083615"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1982",
-    "nominees": [
-      "The Silence"
-    ],
-    "movies": [
-      {
-        "title": "The Silence",
-        "tmdb_id": 244407,
-        "imdb_id": "tt0084683"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1982",
-    "nominees": [
-      "Split Cherry Tree"
-    ],
-    "movies": [
-      {
-        "title": "Split Cherry Tree",
-        "tmdb_id": 244408,
-        "imdb_id": "tt0084713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1982",
-    "nominees": [
-      "Sredni Vashtar"
-    ],
-    "movies": [
-      {
-        "title": "Sredni Vashtar",
-        "tmdb_id": 244412,
-        "imdb_id": "tt0084722"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Stuart Craig",
-      "Robert W. Laing",
-      "Michael Seaton"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Dale Hennesy",
-      "Marvin March"
-    ],
-    "movies": [
-      {
-        "title": "Annie",
-        "tmdb_id": 15739,
-        "imdb_id": "tt0083564"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Lawrence G. Paull",
-      "David L. Snyder",
-      "Linda DeScenna"
-    ],
-    "movies": [
-      {
-        "title": "Blade Runner",
-        "tmdb_id": 78,
-        "imdb_id": "tt0083658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Franco Zeffirelli",
-      "Gianni Quaranta"
-    ],
-    "movies": [
-      {
-        "title": "La traviata",
-        "tmdb_id": 48561,
-        "imdb_id": "tt0084821"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Rodger Maus",
-      "Tim Hutchinson",
-      "William Craig Smith",
-      "Harry Cordwell"
-    ],
-    "movies": [
-      {
-        "title": "Victor/Victoria",
-        "tmdb_id": 12614,
-        "imdb_id": "tt0084865"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1982",
-    "nominees": [
-      "Billy Williams",
-      "Ronnie Taylor"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1982",
-    "nominees": [
-      "Jost Vacano"
-    ],
-    "movies": [
-      {
-        "title": "Das Boot",
-        "tmdb_id": 387,
-        "imdb_id": "tt0082096"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1982",
-    "nominees": [
-      "Allen Daviau"
-    ],
-    "movies": [
-      {
-        "title": "E.T. the Extra-Terrestrial",
-        "tmdb_id": 601,
-        "imdb_id": "tt0083866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1982",
-    "nominees": [
-      "Nestor Almendros"
-    ],
-    "movies": [
-      {
-        "title": "Sophie's Choice",
-        "tmdb_id": 15764,
-        "imdb_id": "tt0084707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1982",
-    "nominees": [
-      "Owen Roizman"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1982",
-    "nominees": [
-      "John Bloom"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1982",
-    "nominees": [
-      "Hannes Nikel"
-    ],
-    "movies": [
-      {
-        "title": "Das Boot",
-        "tmdb_id": 387,
-        "imdb_id": "tt0082096"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1982",
-    "nominees": [
-      "Carol Littleton"
-    ],
-    "movies": [
-      {
-        "title": "E.T. the Extra-Terrestrial",
-        "tmdb_id": 601,
-        "imdb_id": "tt0083866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1982",
-    "nominees": [
-      "Peter Zinner"
-    ],
-    "movies": [
-      {
-        "title": "An Officer and a Gentleman",
-        "tmdb_id": 2623,
-        "imdb_id": "tt0084434"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1982",
-    "nominees": [
-      "Fredric Steinkamp",
-      "William Steinkamp"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1982",
-    "nominees": [
-      "Carlo Rambaldi",
-      "Dennis Muren",
-      "Kenneth F. Smith"
-    ],
-    "movies": [
-      {
-        "title": "E.T. the Extra-Terrestrial",
-        "tmdb_id": 601,
-        "imdb_id": "tt0083866"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1982",
-    "nominees": [
-      "Douglas Trumbull",
-      "Richard Yuricich",
-      "David Dryer"
-    ],
-    "movies": [
-      {
-        "title": "Blade Runner",
-        "tmdb_id": 78,
-        "imdb_id": "tt0083658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1982",
-    "nominees": [
-      "Richard Edlund",
-      "Michael Wood",
-      "Bruce Nicholson"
-    ],
-    "movies": [
-      {
-        "title": "Poltergeist",
-        "tmdb_id": 609,
-        "imdb_id": "tt0084516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1982",
-    "nominees": [
-      "Robert Knudson",
-      "Robert Glass",
-      "Don Digirolamo",
-      "Gene Cantamessa"
-    ],
-    "movies": [
-      {
-        "title": "E.T. the Extra-Terrestrial",
-        "tmdb_id": 601,
-        "imdb_id": "tt0083866"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1982",
-    "nominees": [
-      "Milan Bor",
-      "Trevor Pyke",
-      "Mike Le Mare"
-    ],
-    "movies": [
-      {
-        "title": "Das Boot",
-        "tmdb_id": 387,
-        "imdb_id": "tt0082096"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1982",
-    "nominees": [
-      "Gerry Humphreys",
-      "Robin O'Donoghue",
-      "Jonathan Bates",
-      "Simon Kaye"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1982",
-    "nominees": [
-      "Arthur Piantadosi",
-      "Les Fresholtz",
-      "Dick Alexander",
-      "Les Lazarowitz"
-    ],
-    "movies": [
-      {
-        "title": "Tootsie",
-        "tmdb_id": 9576,
-        "imdb_id": "tt0084805"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1982",
-    "nominees": [
-      "Michael Minkler",
-      "Bob Minkler",
-      "Lee Minkler",
-      "James LaRue"
-    ],
-    "movies": [
-      {
-        "title": "Tron",
-        "tmdb_id": 97,
-        "imdb_id": "tt0084827"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1982",
-    "nominees": [
-      "Charles Campbell",
-      "Ben Burtt"
-    ],
-    "movies": [
-      {
-        "title": "E.T. the Extra-Terrestrial",
-        "tmdb_id": 601,
-        "imdb_id": "tt0083866"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1982",
-    "nominees": [
-      "Mike Le-Mare"
-    ],
-    "movies": [
-      {
-        "title": "Das Boot",
-        "tmdb_id": 387,
-        "imdb_id": "tt0082096"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1982",
-    "nominees": [
-      "Stephen Hunter Flick",
-      "Richard Anderson"
-    ],
-    "movies": [
-      {
-        "title": "Poltergeist",
-        "tmdb_id": 609,
-        "imdb_id": "tt0084516"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1982",
-    "nominees": [
-      "Sarah Monzani",
-      "Michele Burke"
-    ],
-    "movies": [
-      {
-        "title": "Quest for Fire",
-        "tmdb_id": 62204,
-        "imdb_id": "tt0082484"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1982",
-    "nominees": [
-      "Tom Smith"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Bhanu Athaiya",
-      "John Mollo"
-    ],
-    "movies": [
-      {
-        "title": "Gandhi",
-        "tmdb_id": 783,
-        "imdb_id": "tt0083987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Piero Tosi"
-    ],
-    "movies": [
-      {
-        "title": "La traviata",
-        "tmdb_id": 48561,
-        "imdb_id": "tt0084821"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Albert Wolsky"
-    ],
-    "movies": [
-      {
-        "title": "Sophie's Choice",
-        "tmdb_id": 15764,
-        "imdb_id": "tt0084707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Elois Jenssen",
-      "Rosanna Norton"
-    ],
-    "movies": [
-      {
-        "title": "Tron",
-        "tmdb_id": 97,
-        "imdb_id": "tt0084827"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1982",
-    "nominees": [
-      "Patricia Norris"
-    ],
-    "movies": [
-      {
-        "title": "Victor/Victoria",
-        "tmdb_id": 12614,
-        "imdb_id": "tt0084865"
-      }
-    ],
-    "won": false
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Dustin Hoffman",
+    "Nominees": "Dustin Hoffman",
+    "NomineeIds": "nm0000163",
+    "Winner": "",
+    "Detail": "Michael Dorsey/Dorothy Michaels",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "Ben Kingsley",
+    "Nominees": "Ben Kingsley",
+    "NomineeIds": "nm0001426",
+    "Winner": "True",
+    "Detail": "Mahatma Gandhi",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Missing",
+    "FilmId": "tt0084335",
+    "Name": "Jack Lemmon",
+    "Nominees": "Jack Lemmon",
+    "NomineeIds": "nm0000493",
+    "Winner": "",
+    "Detail": "Edmund Horman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Verdict",
+    "FilmId": "tt0084855",
+    "Name": "Paul Newman",
+    "Nominees": "Paul Newman",
+    "NomineeIds": "nm0000056",
+    "Winner": "",
+    "Detail": "Frank Galvin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "My Favorite Year",
+    "FilmId": "tt0084370",
+    "Name": "Peter O'Toole",
+    "Nominees": "Peter O'Toole",
+    "NomineeIds": "nm0000564",
+    "Winner": "",
+    "Detail": "Alan Swann",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Best Little Whorehouse in Texas",
+    "FilmId": "tt0083642",
+    "Name": "Charles Durning",
+    "Nominees": "Charles Durning",
+    "NomineeIds": "nm0001164",
+    "Winner": "",
+    "Detail": "The Governor",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "An Officer and a Gentleman",
+    "FilmId": "tt0084434",
+    "Name": "Louis Gossett, Jr.",
+    "Nominees": "Louis Gossett Jr.",
+    "NomineeIds": "nm0001283",
+    "Winner": "True",
+    "Detail": "Sgt. Emil Foley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The World According to Garp",
+    "FilmId": "tt0084917",
+    "Name": "John Lithgow",
+    "Nominees": "John Lithgow",
+    "NomineeIds": "nm0001475",
+    "Winner": "",
+    "Detail": "Roberta Muldoon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Verdict",
+    "FilmId": "tt0084855",
+    "Name": "James Mason",
+    "Nominees": "James Mason",
+    "NomineeIds": "nm0000051",
+    "Winner": "",
+    "Detail": "Edward Concannon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Victor/Victoria",
+    "FilmId": "tt0084865",
+    "Name": "Robert Preston",
+    "Nominees": "Robert Preston",
+    "NomineeIds": "nm0696481",
+    "Winner": "",
+    "Detail": "Toddy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Victor/Victoria",
+    "FilmId": "tt0084865",
+    "Name": "Julie Andrews",
+    "Nominees": "Julie Andrews",
+    "NomineeIds": "nm0000267",
+    "Winner": "",
+    "Detail": "Victor/Victoria",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Frances",
+    "FilmId": "tt0083967",
+    "Name": "Jessica Lange",
+    "Nominees": "Jessica Lange",
+    "NomineeIds": "nm0001448",
+    "Winner": "",
+    "Detail": "Frances Farmer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Missing",
+    "FilmId": "tt0084335",
+    "Name": "Sissy Spacek",
+    "Nominees": "Sissy Spacek",
+    "NomineeIds": "nm0000651",
+    "Winner": "",
+    "Detail": "Beth Horman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Sophie's Choice",
+    "FilmId": "tt0084707",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "True",
+    "Detail": "Sophie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "An Officer and a Gentleman",
+    "FilmId": "tt0084434",
+    "Name": "Debra Winger",
+    "Nominees": "Debra Winger",
+    "NomineeIds": "nm0000700",
+    "Winner": "",
+    "Detail": "Paula Pokrifki",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The World According to Garp",
+    "FilmId": "tt0084917",
+    "Name": "Glenn Close",
+    "Nominees": "Glenn Close",
+    "NomineeIds": "nm0000335",
+    "Winner": "",
+    "Detail": "Jenny Fields",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Teri Garr",
+    "Nominees": "Teri Garr",
+    "NomineeIds": "nm0000414",
+    "Winner": "",
+    "Detail": "Sandy Lester",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Jessica Lange",
+    "Nominees": "Jessica Lange",
+    "NomineeIds": "nm0001448",
+    "Winner": "True",
+    "Detail": "Julie Nichols",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Frances",
+    "FilmId": "tt0083967",
+    "Name": "Kim Stanley",
+    "Nominees": "Kim Stanley",
+    "NomineeIds": "nm0822535",
+    "Winner": "",
+    "Detail": "Lillian Farmer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Victor/Victoria",
+    "FilmId": "tt0084865",
+    "Name": "Lesley Ann Warren",
+    "Nominees": "Lesley Ann Warren",
+    "NomineeIds": "nm0000690",
+    "Winner": "",
+    "Detail": "Norma",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Annie",
+    "FilmId": "tt0083564",
+    "Name": "Art Direction: Dale Hennesy; Set Decoration: Marvin March",
+    "Nominees": "Dale Hennesy|Marvin March",
+    "NomineeIds": "nm0377322|nm0545322",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Blade Runner",
+    "FilmId": "tt0083658",
+    "Name": "Art Direction: Lawrence G. Paull, David L. Snyder; Set Decoration: Linda DeScenna",
+    "Nominees": "Lawrence G. Paull|David L. Snyder|Linda DeScenna",
+    "NomineeIds": "nm0667223|nm0811435|nm0220984",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "Art Direction: Stuart Craig, Bob Laing; Set Decoration: Michael Seirton",
+    "Nominees": "Stuart Craig|Bob Laing|Michael Seirton",
+    "NomineeIds": "nm0186023|nm0481925|nm0509715",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "La Traviata",
+    "FilmId": "tt0084821",
+    "Name": "Art Direction: Franco Zeffirelli; Set Decoration: Gianni Quaranta",
+    "Nominees": "Franco Zeffirelli|Gianni Quaranta",
+    "NomineeIds": "nm0001874|nm0702892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Victor/Victoria",
+    "FilmId": "tt0084865",
+    "Name": "Art Direction: Rodger Maus, Tim Hutchinson, William Craig Smith; Set Decoration: Harry Cordwell",
+    "Nominees": "Rodger Maus|Tim Hutchinson|William Craig Smith|Harry Cordwell",
+    "NomineeIds": "nm0561312|nm0404407|nm0807778|nm0179681",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Das Boot",
+    "FilmId": "tt0082096",
+    "Name": "Jost Vacano",
+    "Nominees": "Jost Vacano",
+    "NomineeIds": "nm0005911",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "E.T. The Extra-Terrestrial",
+    "FilmId": "tt0083866",
+    "Name": "Allen Daviau",
+    "Nominees": "Allen Daviau",
+    "NomineeIds": "nm0005679",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "Billy Williams, Ronnie Taylor",
+    "Nominees": "Billy Williams|Ronnie Taylor",
+    "NomineeIds": "nm0930119|nm0853111",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Sophie's Choice",
+    "FilmId": "tt0084707",
+    "Name": "Nestor Almendros",
+    "Nominees": "Nestor Almendros",
+    "NomineeIds": "nm0000743",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Owen Roizman",
+    "Nominees": "Owen Roizman",
+    "NomineeIds": "nm0005845",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "John Mollo, Bhanu Athaiya",
+    "Nominees": "John Mollo|Bhanu Athaiya",
+    "NomineeIds": "nm0597087|nm0040390",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "La Traviata",
+    "FilmId": "tt0084821",
+    "Name": "Piero Tosi",
+    "Nominees": "Piero Tosi",
+    "NomineeIds": "nm0869200",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Sophie's Choice",
+    "FilmId": "tt0084707",
+    "Name": "Albert Wolsky",
+    "Nominees": "Albert Wolsky",
+    "NomineeIds": "nm0938717",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Tron",
+    "FilmId": "tt0084827",
+    "Name": "Elois Jenssen, Rosanna Norton",
+    "Nominees": "Elois Jenssen|Rosanna Norton",
+    "NomineeIds": "nm0421784|nm0636287",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Victor/Victoria",
+    "FilmId": "tt0084865",
+    "Name": "Patricia Norris",
+    "Nominees": "Patricia Norris",
+    "NomineeIds": "nm0635876",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Das Boot",
+    "FilmId": "tt0082096",
+    "Name": "Wolfgang Petersen",
+    "Nominees": "Wolfgang Petersen",
+    "NomineeIds": "nm0000583",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "E.T. The Extra-Terrestrial",
+    "FilmId": "tt0083866",
+    "Name": "Steven Spielberg",
+    "Nominees": "Steven Spielberg",
+    "NomineeIds": "nm0000229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "Richard Attenborough",
+    "Nominees": "Richard Attenborough",
+    "NomineeIds": "nm0000277",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Sydney Pollack",
+    "Nominees": "Sydney Pollack",
+    "NomineeIds": "nm0001628",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Verdict",
+    "FilmId": "tt0084855",
+    "Name": "Sidney Lumet",
+    "Nominees": "Sidney Lumet",
+    "NomineeIds": "nm0001486",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "After the Axe",
+    "FilmId": "tt0083525",
+    "Name": "Sturla Gunnarsson and Steve Lucas, Producers",
+    "Nominees": "Sturla Gunnarsson|Steve Lucas",
+    "NomineeIds": "nm0348274|nm0524286",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Ben's Mill",
+    "FilmId": "tt0083638",
+    "Name": "John Karol and Michel Chalufour, Producers",
+    "Nominees": "John Karol|Michel Chalufour",
+    "NomineeIds": "nm0439871|nm0150077",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "In Our Water",
+    "FilmId": "tt0084127",
+    "Name": "Meg Switzgable, Producer",
+    "Nominees": "Meg Switzgable",
+    "NomineeIds": "nm0842837",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Just Another Missing Kid",
+    "FilmId": "tt0169446",
+    "Name": "John Zaritsky, Producer",
+    "Nominees": "John Zaritsky",
+    "NomineeIds": "nm0953508",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "A Portrait of Giselle",
+    "FilmId": "tt0084524",
+    "Name": "Joseph Wishy, Producer",
+    "Nominees": "Joseph Wishy",
+    "NomineeIds": "nm0936552",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Gods of Metal",
+    "FilmId": "tt0084009",
+    "Name": "Robert Richter, Producer",
+    "Nominees": "Robert Richter",
+    "NomineeIds": "nm0724905",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "If You Love This Planet",
+    "FilmId": "tt0084118",
+    "Name": "Edward Le Lorrain and Terri Nash, Producers",
+    "Nominees": "Edward Le Lorrain|Terri Nash",
+    "NomineeIds": "nm0494396|nm0621815",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Klan: A Legacy of Hate in America",
+    "FilmId": "tt0084213",
+    "Name": "Charles Guggenheim and Werner Schumann, Producers",
+    "Nominees": "Charles Guggenheim|Werner Schumann",
+    "NomineeIds": "nm0346549|nm0776740",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "To Live or Let Die",
+    "FilmId": "tt0084798",
+    "Name": "Freida Lee Mock, Producer",
+    "Nominees": "Freida Lee Mock",
+    "NomineeIds": "nm0595131",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Traveling Hopefully",
+    "FilmId": "tt0084820",
+    "Name": "John G. Avildsen, Producer",
+    "Nominees": "John G. Avildsen",
+    "NomineeIds": "nm0000814",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Das Boot",
+    "FilmId": "tt0082096",
+    "Name": "Hannes Nikel",
+    "Nominees": "Hannes Nikel",
+    "NomineeIds": "nm0631649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "E.T. The Extra-Terrestrial",
+    "FilmId": "tt0083866",
+    "Name": "Carol Littleton",
+    "Nominees": "Carol Littleton",
+    "NomineeIds": "nm0514746",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "John Bloom",
+    "Nominees": "John Bloom",
+    "NomineeIds": "nm0089182",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "An Officer and a Gentleman",
+    "FilmId": "tt0084434",
+    "Name": "Peter Zinner",
+    "Nominees": "Peter Zinner",
+    "NomineeIds": "nm0957038",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Fredric Steinkamp, William Steinkamp",
+    "Nominees": "Fredric Steinkamp|William Steinkamp",
+    "NomineeIds": "nm0826114|nm0826119",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Alsino and the Condor",
+    "FilmId": "tt0083543",
+    "Name": "Nicaragua",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Coup de Torchon ('Clean Slate')",
+    "FilmId": "tt0082206",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Flight of the Eagle",
+    "FilmId": "tt0084136",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Private Life",
+    "FilmId": "tt0083732",
+    "Name": "Union of Soviet Socialist Republics",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Volver a Empezar ('To Begin Again')",
+    "FilmId": "tt0084874",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "Tom Smith",
+    "Nominees": "Tom Smith",
+    "NomineeIds": "nm0810182",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Quest for Fire",
+    "FilmId": "tt0082484",
+    "Name": "Sarah Monzani, Michèle Burke",
+    "Nominees": "Sarah Monzani|Michèle Burke",
+    "NomineeIds": "nm0600389|nm0121807",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "E.T. The Extra-Terrestrial",
+    "FilmId": "tt0083866",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "Ravi Shankar, George Fenton",
+    "Nominees": "Ravi Shankar|George Fenton",
+    "NomineeIds": "nm0788170|nm0006070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "An Officer and a Gentleman",
+    "FilmId": "tt0084434",
+    "Name": "Jack Nitzsche",
+    "Nominees": "Jack Nitzsche",
+    "NomineeIds": "nm0006217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Poltergeist",
+    "FilmId": "tt0084516",
+    "Name": "Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Sophie's Choice",
+    "FilmId": "tt0084707",
+    "Name": "Marvin Hamlisch",
+    "Nominees": "Marvin Hamlisch",
+    "NomineeIds": "nm0006121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)",
+    "Film": "Annie",
+    "FilmId": "tt0083564",
+    "Name": "Adaptation Score by Ralph Burns",
+    "Nominees": "Ralph Burns",
+    "NomineeIds": "nm0005985",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)",
+    "Film": "One from the Heart",
+    "FilmId": "tt0084445",
+    "Name": "Song Score by Tom Waits",
+    "Nominees": "Tom Waits",
+    "NomineeIds": "nm0001823",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)",
+    "Film": "Victor/Victoria",
+    "FilmId": "tt0084865",
+    "Name": "Song Score by Henry Mancini and Leslie Bricusse; Adaptation Score by Henry Mancini",
+    "Nominees": "Henry Mancini|Leslie Bricusse",
+    "NomineeIds": "nm0000049|nm0108634",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Rocky III",
+    "FilmId": "tt0084602",
+    "Name": "Music and Lyric by Jim Peterik and Frankie Sullivan III",
+    "Nominees": "Jim Peterik|Frankie Sullivan III",
+    "NomineeIds": "nm1221512|nm0838071",
+    "Winner": "",
+    "Detail": "Eye Of The Tiger",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Best Friends",
+    "FilmId": "tt0083641",
+    "Name": "Music by Michel Legrand; Lyric by Alan Bergman and Marilyn Bergman",
+    "Nominees": "Michel Legrand|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0006166|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "How Do You Keep The Music Playing?",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Yes, Giorgio",
+    "FilmId": "tt0084931",
+    "Name": "Music by John Williams; Lyric by Alan Bergman and Marilyn Bergman",
+    "Nominees": "John Williams|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0002354|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "If We Were In Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Music by Dave Grusin; Lyric by Alan Bergman and Marilyn Bergman",
+    "Nominees": "Dave Grusin|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0006115|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "It Might Be You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "An Officer and a Gentleman",
+    "FilmId": "tt0084434",
+    "Name": "Music by Jack Nitzsche and Buffy Sainte-Marie; Lyric by Will Jennings",
+    "Nominees": "Jack Nitzsche|Buffy Sainte-Marie|Will Jennings",
+    "NomineeIds": "nm0006217|nm0756763|nm0421263",
+    "Winner": "True",
+    "Detail": "Up Where We Belong",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "E.T. The Extra-Terrestrial",
+    "FilmId": "tt0083866",
+    "Name": "Steven Spielberg and Kathleen Kennedy, Producers",
+    "Nominees": "Steven Spielberg|Kathleen Kennedy",
+    "NomineeIds": "nm0000229|nm0005086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "Richard Attenborough, Producer",
+    "Nominees": "Richard Attenborough",
+    "NomineeIds": "nm0000277",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Missing",
+    "FilmId": "tt0084335",
+    "Name": "Edward Lewis and Mildred Lewis, Producers",
+    "Nominees": "Edward Lewis|Mildred Lewis",
+    "NomineeIds": "nm0507151|nm0507561",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Sydney Pollack and Dick Richards, Producers",
+    "Nominees": "Sydney Pollack|Dick Richards",
+    "NomineeIds": "nm0001628|nm0724059",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Verdict",
+    "FilmId": "tt0084855",
+    "Name": "Richard D. Zanuck and David Brown, Producers",
+    "Nominees": "Richard D. Zanuck|David Brown",
+    "NomineeIds": "nm0005573|nm0113360",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Great Cognito",
+    "FilmId": "tt0084023",
+    "Name": "Will Vinton, Producer",
+    "Nominees": "Will Vinton",
+    "NomineeIds": "nm0899139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Snowman",
+    "FilmId": "tt0084701",
+    "Name": "John Coates, Producer",
+    "Nominees": "John Coates",
+    "NomineeIds": "nm0167641",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Tango",
+    "FilmId": "tt0084764",
+    "Name": "Zbigniew Rybczynski, Producer",
+    "Nominees": "Zbigniew Rybczynski",
+    "NomineeIds": "nm0752960",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Ballet Robotique",
+    "FilmId": "tt0083615",
+    "Name": "Bob Rogers, Producer",
+    "Nominees": "Bob Rogers",
+    "NomineeIds": "nm0736748",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "A Shocking Accident",
+    "FilmId": "tt0084672",
+    "Name": "Christine Oestreicher, Producer",
+    "Nominees": "Christine Oestreicher",
+    "NomineeIds": "nm0644325",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Silence",
+    "FilmId": "tt0084683",
+    "Name": "Michael Toshiyuki Uno and Joseph Benson, Producers",
+    "Nominees": "Michael Toshiyuki Uno|Joseph Benson",
+    "NomineeIds": "nm0881306|nm0072544",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Split Cherry Tree",
+    "FilmId": "tt0084713",
+    "Name": "Jan Saunders, Producer",
+    "Nominees": "Jan Saunders",
+    "NomineeIds": "nm0766834",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Sredni Vashtar",
+    "FilmId": "tt0084722",
+    "Name": "Andrew Birkin, Producer",
+    "Nominees": "Andrew Birkin",
+    "NomineeIds": "nm0001949",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Das Boot",
+    "FilmId": "tt0082096",
+    "Name": "Milan Bor, Trevor Pyke, Mike Le-Mare",
+    "Nominees": "Milan Bor|Trevor Pyke|Mike Le-Mare",
+    "NomineeIds": "nm0095914|nm0701483|nm0494420",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "E.T. The Extra-Terrestrial",
+    "FilmId": "tt0083866",
+    "Name": "Robert Knudson, Robert Glass, Don Digirolamo, Gene Cantamessa",
+    "Nominees": "Robert Knudson|Robert Glass|Don Digirolamo|Gene Cantamessa",
+    "NomineeIds": "nm0461702|nm0321915|nm0226564|nm0134481",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "Gerry Humphreys, Robin O'Donoghue, Jonathan Bates, Simon Kaye",
+    "Nominees": "Gerry Humphreys|Robin O'Donoghue|Jonathan Bates|Simon Kaye",
+    "NomineeIds": "nm0006836|nm0640877|nm0060952|nm0443393",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Arthur Piantadosi, Les Fresholtz, Dick Alexander, Les Lazarowitz",
+    "Nominees": "Arthur Piantadosi|Les Fresholtz|Dick Alexander|Les Lazarowitz",
+    "NomineeIds": "nm0681250|nm0294370|nm1219804|nm0493796",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Tron",
+    "FilmId": "tt0084827",
+    "Name": "Michael Minkler, Bob Minkler, Lee Minkler, Jim La Rue",
+    "Nominees": "Michael Minkler|Bob Minkler|Lee Minkler|Jim La Rue",
+    "NomineeIds": "nm0591444|nm0591440|nm0591443|nm0489341",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Das Boot",
+    "FilmId": "tt0082096",
+    "Name": "Mike Le-Mare",
+    "Nominees": "Mike Le-Mare",
+    "NomineeIds": "nm0494420",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "E.T. The Extra-Terrestrial",
+    "FilmId": "tt0083866",
+    "Name": "Charles L. Campbell, Ben Burtt",
+    "Nominees": "Charles L. Campbell|Ben Burtt",
+    "NomineeIds": "nm0132287|nm0123785",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Poltergeist",
+    "FilmId": "tt0084516",
+    "Name": "Stephen Hunter Flick, Richard L. Anderson",
+    "Nominees": "Stephen Hunter Flick|Richard L. Anderson",
+    "NomineeIds": "nm0282276|nm0027328",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Blade Runner",
+    "FilmId": "tt0083658",
+    "Name": "Douglas Trumbull, Richard Yuricich, David Dryer",
+    "Nominees": "Douglas Trumbull|Richard Yuricich|David Dryer",
+    "NomineeIds": "nm0874320|nm0951047|nm0238734",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "E.T. The Extra-Terrestrial",
+    "FilmId": "tt0083866",
+    "Name": "Carlo Rambaldi, Dennis Muren, Kenneth F. Smith",
+    "Nominees": "Carlo Rambaldi|Dennis Muren|Kenneth F. Smith",
+    "NomineeIds": "nm0708058|nm0613830|nm0808946",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Poltergeist",
+    "FilmId": "tt0084516",
+    "Name": "Richard Edlund, Michael Wood, Bruce Nicholson",
+    "Nominees": "Richard Edlund|Michael Wood|Bruce Nicholson",
+    "NomineeIds": "nm0249430|nm0939887|nm0629785",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Das Boot",
+    "FilmId": "tt0082096",
+    "Name": "Wolfgang Petersen",
+    "Nominees": "Wolfgang Petersen",
+    "NomineeIds": "nm0000583",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Missing",
+    "FilmId": "tt0084335",
+    "Name": "Costa-Gavras, Donald Stewart",
+    "Nominees": "Costa-Gavras|Donald Stewart",
+    "NomineeIds": "nm0002020|nm0829329",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Sophie's Choice",
+    "FilmId": "tt0084707",
+    "Name": "Alan J. Pakula",
+    "Nominees": "Alan J. Pakula",
+    "NomineeIds": "nm0001587",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "The Verdict",
+    "FilmId": "tt0084855",
+    "Name": "David Mamet",
+    "Nominees": "David Mamet",
+    "NomineeIds": "nm0000519",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Victor/Victoria",
+    "FilmId": "tt0084865",
+    "Name": "Blake Edwards",
+    "Nominees": "Blake Edwards",
+    "NomineeIds": "nm0001175",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Diner",
+    "FilmId": "tt0083833",
+    "Name": "Barry Levinson",
+    "Nominees": "Barry Levinson",
+    "NomineeIds": "nm0001469",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "E.T. The Extra-Terrestrial",
+    "FilmId": "tt0083866",
+    "Name": "Melissa Mathison",
+    "Nominees": "Melissa Mathison",
+    "NomineeIds": "nm0558953",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Gandhi",
+    "FilmId": "tt0083987",
+    "Name": "John Briley",
+    "Nominees": "John Briley",
+    "NomineeIds": "nm0109300",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "An Officer and a Gentleman",
+    "FilmId": "tt0084434",
+    "Name": "Douglas Day Stewart",
+    "Nominees": "Douglas Day Stewart",
+    "NomineeIds": "nm0829343",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Tootsie",
+    "FilmId": "tt0084805",
+    "Name": "Screenplay by Larry Gelbart, Murray Schisgal; Story by Don McGuire, Larry Gelbart",
+    "Nominees": "Larry Gelbart|Murray Schisgal|Don McGuire",
+    "NomineeIds": "nm0312205|nm0772003|nm0570190",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Walter Mirisch",
+    "Nominees": "Walter Mirisch",
+    "NomineeIds": "nm0592387",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mickey Rooney",
+    "NomineeIds": "nm0001682",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Mickey Rooney, in recognition of his 60 years of versatility in a variety of memorable film performances."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John O. Aalberg",
+    "NomineeIds": "nm0007356",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "John O. Aalberg"
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "AUGUST ARNOLD|ERICH KAESTNER",
+    "NomineeIds": "nm2107998|nm3802684",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To AUGUST ARNOLD and ERICH KAESTNER of Arnold & Richter, GmbH, for the concept and engineering of the first operational 35mm, hand-held, spinning-mirror reflex, motion picture camera."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "COLIN F. MOSSMAN|RANK FILM LABORATORIES",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To COLIN F. MOSSMAN and THE RESEARCH AND DEVELOPMENT GROUP OF RANK FILM LABORATORIES, LONDON, for the engineering and implementation of a 4,000 meter printing system for motion picture laboratories."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "SANTE ZELLI|SALVATORE ZELLI",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To SANTE ZELLI and SALVATORE ZELLI of Elemack Italia S.r.l., Rome, Italy, for the continuing engineering, design and development that has resulted in the Elemack Camera Dolly System for motion picture production."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Leonard Chapman",
+    "NomineeIds": "nm0502585",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To LEONARD CHAPMAN for the engineering design, development and manufacture of the PeeWee Camera Dolly for motion picture production."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DR. MOHAMMAD S. NOZARI",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To DR. MOHAMMAD S. NOZARI of Minnesota Mining and Manufacturing Company for the research and development of the 3M Photogard protective coating for motion picture film."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "BRIANNE MURPHY|DONALD SCHISLER",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To BRIANNE MURPHY and DONALD SCHISLER of Mitchell Insert Systems, Incorporated, for the concept, design and manufacture of the MISI Camera Insert Car and Process Trailer."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jacobus L. Dimmers",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JACOBUS L. DIMMERS for the engineering and manufacture of the Teccon Enterprises' magnetic transducer for motion picture sound recording and playback."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard W. Deats",
+    "NomineeIds": "nm0213263",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To RICHARD W. DEATS for the design and manufacture of the \\\"Little Big Crane\\\" for motion picture production."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CONSTANT TRESFON|ADRIAAN DE ROOY|ED PHILLIPS|CARLOS DE MATTOS",
+    "NomineeIds": "nm0872245|?|?|nm1887850",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To CONSTANT TRESFON and ADRIAAN DE ROOY of Egripment, and to ED PHILLIPS and CARLOS DE MATTOS of Matthews Studio Equipment, Incorporated, for the design and manufacture of the \\\"Tulip Crane\\\" for motion picture production."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "BRAN FERREN",
+    "NomineeIds": "nm0274512",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To BRAN FERREN of Associates and Ferren for the design and development of a computerized lightning effect system for motion picture photography."
+  },
+  {
+    "Ceremony": 55,
+    "Year": 1982,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CHRISTIE ELECTRIC CORPORATION|LaVEZZI MACHINE WORKS INCORPORATED",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To CHRISTIE ELECTRIC CORPORATION and LaVEZZI MACHINE WORKS, INCORPORATED, for the design and manufacture of the Ultramittent film transport for Christie motion picture projectors."
   }
 ]

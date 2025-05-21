@@ -1,1555 +1,1906 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1981",
-    "nominees": [
-      "Chariots of Fire"
-    ],
-    "movies": [
-      {
-        "title": "Chariots of Fire",
-        "tmdb_id": 9443,
-        "imdb_id": "tt0082158"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1981",
-    "nominees": [
-      "Atlantic City"
-    ],
-    "movies": [
-      {
-        "title": "Atlantic City",
-        "tmdb_id": 23954,
-        "imdb_id": "tt0080388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1981",
-    "nominees": [
-      "On Golden Pond"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1981",
-    "nominees": [
-      "Raiders of the Lost Ark"
-    ],
-    "movies": [
-      {
-        "title": "Raiders of the Lost Ark",
-        "tmdb_id": 85,
-        "imdb_id": "tt0082971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1981",
-    "nominees": [
-      "Reds"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1981",
-    "nominees": [
-      "Henry Fonda"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1981",
-    "nominees": [
-      "Warren Beatty"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1981",
-    "nominees": [
-      "Burt Lancaster"
-    ],
-    "movies": [
-      {
-        "title": "Atlantic City",
-        "tmdb_id": 23954,
-        "imdb_id": "tt0080388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1981",
-    "nominees": [
-      "Dudley Moore"
-    ],
-    "movies": [
-      {
-        "title": "Arthur",
-        "tmdb_id": 13665,
-        "imdb_id": "tt0082031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1981",
-    "nominees": [
-      "Paul Newman"
-    ],
-    "movies": [
-      {
-        "title": "Absence of Malice",
-        "tmdb_id": 19429,
-        "imdb_id": "tt0081974"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1981",
-    "nominees": [
-      "Katharine Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1981",
-    "nominees": [
-      "Diane Keaton"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1981",
-    "nominees": [
-      "Marsha Mason"
-    ],
-    "movies": [
-      {
-        "title": "Only When I Laugh",
-        "tmdb_id": 42146,
-        "imdb_id": "tt0082853"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1981",
-    "nominees": [
-      "Susan Sarandon"
-    ],
-    "movies": [
-      {
-        "title": "Atlantic City",
-        "tmdb_id": 23954,
-        "imdb_id": "tt0080388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1981",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "The French Lieutenant's Woman",
-        "tmdb_id": 12537,
-        "imdb_id": "tt0082416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1981",
-    "nominees": [
-      "John Gielgud"
-    ],
-    "movies": [
-      {
-        "title": "Arthur",
-        "tmdb_id": 13665,
-        "imdb_id": "tt0082031"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1981",
-    "nominees": [
-      "James Coco"
-    ],
-    "movies": [
-      {
-        "title": "Only When I Laugh",
-        "tmdb_id": 42146,
-        "imdb_id": "tt0082853"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1981",
-    "nominees": [
-      "Ian Holm"
-    ],
-    "movies": [
-      {
-        "title": "Chariots of Fire",
-        "tmdb_id": 9443,
-        "imdb_id": "tt0082158"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1981",
-    "nominees": [
-      "Jack Nicholson"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1981",
-    "nominees": [
-      "Howard E. Rollins Jr."
-    ],
-    "movies": [
-      {
-        "title": "Ragtime",
-        "tmdb_id": 25566,
-        "imdb_id": "tt0082970"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1981",
-    "nominees": [
-      "Maureen Stapleton"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1981",
-    "nominees": [
-      "Melinda Dillon"
-    ],
-    "movies": [
-      {
-        "title": "Absence of Malice",
-        "tmdb_id": 19429,
-        "imdb_id": "tt0081974"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1981",
-    "nominees": [
-      "Jane Fonda"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1981",
-    "nominees": [
-      "Joan Hackett"
-    ],
-    "movies": [
-      {
-        "title": "Only When I Laugh",
-        "tmdb_id": 42146,
-        "imdb_id": "tt0082853"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1981",
-    "nominees": [
-      "Elizabeth McGovern"
-    ],
-    "movies": [
-      {
-        "title": "Ragtime",
-        "tmdb_id": 25566,
-        "imdb_id": "tt0082970"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1981",
-    "nominees": [
-      "Warren Beatty"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1981",
-    "nominees": [
-      "Louis Malle"
-    ],
-    "movies": [
-      {
-        "title": "Atlantic City",
-        "tmdb_id": 23954,
-        "imdb_id": "tt0080388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1981",
-    "nominees": [
-      "Hugh Hudson"
-    ],
-    "movies": [
-      {
-        "title": "Chariots of Fire",
-        "tmdb_id": 9443,
-        "imdb_id": "tt0082158"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1981",
-    "nominees": [
-      "Mark Rydell"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1981",
-    "nominees": [
-      "Steven Spielberg"
-    ],
-    "movies": [
-      {
-        "title": "Raiders of the Lost Ark",
-        "tmdb_id": 85,
-        "imdb_id": "tt0082971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1981",
-    "nominees": [
-      "Ernest Thompson"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1981",
-    "nominees": [
-      "Harold Pinter"
-    ],
-    "movies": [
-      {
-        "title": "The French Lieutenant's Woman",
-        "tmdb_id": 12537,
-        "imdb_id": "tt0082416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1981",
-    "nominees": [
-      "Dennis Potter"
-    ],
-    "movies": [
-      {
-        "title": "Pennies from Heaven",
-        "tmdb_id": 17450,
-        "imdb_id": "tt0082894"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1981",
-    "nominees": [
-      "Jay Presson Allen",
-      "Sidney Lumet"
-    ],
-    "movies": [
-      {
-        "title": "Prince of the City",
-        "tmdb_id": 32047,
-        "imdb_id": "tt0082945"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1981",
-    "nominees": [
-      "Michael Weller"
-    ],
-    "movies": [
-      {
-        "title": "Ragtime",
-        "tmdb_id": 25566,
-        "imdb_id": "tt0082970"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1981",
-    "nominees": [
-      "Colin Welland"
-    ],
-    "movies": [
-      {
-        "title": "Chariots of Fire",
-        "tmdb_id": 9443,
-        "imdb_id": "tt0082158"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1981",
-    "nominees": [
-      "Kurt Luedtke"
-    ],
-    "movies": [
-      {
-        "title": "Absence of Malice",
-        "tmdb_id": 19429,
-        "imdb_id": "tt0081974"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1981",
-    "nominees": [
-      "Steve Gordon"
-    ],
-    "movies": [
-      {
-        "title": "Arthur",
-        "tmdb_id": 13665,
-        "imdb_id": "tt0082031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1981",
-    "nominees": [
-      "John Guare"
-    ],
-    "movies": [
-      {
-        "title": "Atlantic City",
-        "tmdb_id": 23954,
-        "imdb_id": "tt0080388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1981",
-    "nominees": [
-      "Warren Beatty",
-      "Trevor Griffiths"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1981",
-    "nominees": [
-      "Vangelis"
-    ],
-    "movies": [
-      {
-        "title": "Chariots of Fire",
-        "tmdb_id": 9443,
-        "imdb_id": "tt0082158"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1981",
-    "nominees": [
-      "Dave Grusin"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1981",
-    "nominees": [
-      "Alex North"
-    ],
-    "movies": [
-      {
-        "title": "Dragonslayer",
-        "tmdb_id": 848,
-        "imdb_id": "tt0082288"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1981",
-    "nominees": [
-      "Randy Newman"
-    ],
-    "movies": [
-      {
-        "title": "Ragtime",
-        "tmdb_id": 25566,
-        "imdb_id": "tt0082970"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1981",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Raiders of the Lost Ark",
-        "tmdb_id": 85,
-        "imdb_id": "tt0082971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1981",
-    "nominees": [
-      "Arthur's Theme (Best That You Can Do)"
-    ],
-    "movies": [
-      {
-        "title": "Arthur",
-        "tmdb_id": 13665,
-        "imdb_id": "tt0082031"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1981",
-    "nominees": [
-      "Endless Love"
-    ],
-    "movies": [
-      {
-        "title": "Endless Love",
-        "tmdb_id": 19114,
-        "imdb_id": "tt0082329"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1981",
-    "nominees": [
-      "The First Time It Happens"
-    ],
-    "movies": [
-      {
-        "title": "The Great Muppet Caper",
-        "tmdb_id": 14900,
-        "imdb_id": "tt0082474"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1981",
-    "nominees": [
-      "For Your Eyes Only"
-    ],
-    "movies": [
-      {
-        "title": "For Your Eyes Only",
-        "tmdb_id": 699,
-        "imdb_id": "tt0082398"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1981",
-    "nominees": [
-      "One More Hour"
-    ],
-    "movies": [
-      {
-        "title": "Ragtime",
-        "tmdb_id": 25566,
-        "imdb_id": "tt0082970"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1981",
-    "nominees": [
-      "Mephisto"
-    ],
-    "movies": [
-      {
-        "title": "Mephisto",
-        "tmdb_id": 11911,
-        "imdb_id": "tt0082736"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1981",
-    "nominees": [
-      "The Boat Is Full"
-    ],
-    "movies": [
-      {
-        "title": "The Boat Is Full",
-        "tmdb_id": 42140,
-        "imdb_id": "tt0082095"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1981",
-    "nominees": [
-      "Man of Iron"
-    ],
-    "movies": [
-      {
-        "title": "Man of Iron",
-        "tmdb_id": 225,
-        "imdb_id": "tt0082222"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1981",
-    "nominees": [
-      "Muddy River"
-    ],
-    "movies": [
-      {
-        "title": "Muddy River",
-        "tmdb_id": 125257,
-        "imdb_id": "tt0082280"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1981",
-    "nominees": [
-      "Three Brothers"
-    ],
-    "movies": [
-      {
-        "title": "Three Brothers",
-        "tmdb_id": 42150,
-        "imdb_id": "tt0083226"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1981",
-    "nominees": [
-      "Genocide"
-    ],
-    "movies": [
-      {
-        "title": "Genocide",
-        "tmdb_id": 114516,
-        "imdb_id": "tt0082443"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1981",
-    "nominees": [
-      "Fantozzi Against the Wind",
-      "Against Wind and Tide: A Cuban Odyssey"
-    ],
-    "movies": [
-      {
-        "title": "Fantozzi Against the Wind",
-        "tmdb_id": 41663,
-        "imdb_id": "tt0080719"
-      },
-      {
-        "title": "Against Wind and Tide: A Cuban Odyssey",
-        "tmdb_id": 149365,
-        "imdb_id": "tt0081988"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1981",
-    "nominees": [
-      "Brooklyn Bridge"
-    ],
-    "movies": [
-      {
-        "title": "Brooklyn Bridge",
-        "tmdb_id": 67079,
-        "imdb_id": "tt0082106"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1981",
-    "nominees": [
-      "Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott"
-    ],
-    "movies": [
-      {
-        "title": "Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott",
-        "tmdb_id": 149366,
-        "imdb_id": "tt0082312"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1981",
-    "nominees": [
-      "El Salvador: Another Vietnam"
-    ],
-    "movies": [
-      {
-        "title": "El Salvador: Another Vietnam",
-        "tmdb_id": 149367,
-        "imdb_id": "tt0082315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1981",
-    "nominees": [
-      "Close Harmony"
-    ],
-    "movies": [
-      {
-        "title": "Close Harmony",
-        "tmdb_id": 244396,
-        "imdb_id": "tt0082187"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1981",
-    "nominees": [
-      "Americas in Transition"
-    ],
-    "movies": [
-      {
-        "title": "Americas in Transition",
-        "tmdb_id": 244399,
-        "imdb_id": "tt0082012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1981",
-    "nominees": [
-      "Journey for Survival"
-    ],
-    "movies": [
-      {
-        "title": "Journey for Survival",
-        "tmdb_id": 244397,
-        "imdb_id": "tt0082587"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1981",
-    "nominees": [
-      "See What I Say"
-    ],
-    "movies": [
-      {
-        "title": "See What I Say",
-        "tmdb_id": 244400,
-        "imdb_id": "tt0083044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1981",
-    "nominees": [
-      "Urge to Build"
-    ],
-    "movies": [
-      {
-        "title": "Urge to Build",
-        "tmdb_id": 244402,
-        "imdb_id": "tt0083265"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1981",
-    "nominees": [
-      "Crac"
-    ],
-    "movies": [
-      {
-        "title": "Crac",
-        "tmdb_id": 90781,
-        "imdb_id": "tt0082209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1981",
-    "nominees": [
-      "The Creation"
-    ],
-    "movies": [
-      {
-        "title": "The Creation",
-        "tmdb_id": 244385,
-        "imdb_id": "tt0082212"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1981",
-    "nominees": [
-      "The Tender Tale of Cinderella Penguin"
-    ],
-    "movies": [
-      {
-        "title": "The Tender Tale of Cinderella Penguin",
-        "tmdb_id": 244389,
-        "imdb_id": "tt0083182"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1981",
-    "nominees": [
-      "Violet"
-    ],
-    "movies": [
-      {
-        "title": "Violet",
-        "tmdb_id": 244391,
-        "imdb_id": "tt0083293"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1981",
-    "nominees": [
-      "Couples and Robbers"
-    ],
-    "movies": [
-      {
-        "title": "Couples and Robbers",
-        "tmdb_id": 244393,
-        "imdb_id": "tt0082207"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1981",
-    "nominees": [
-      "First Winter"
-    ],
-    "movies": [
-      {
-        "title": "First Winter",
-        "tmdb_id": 244395,
-        "imdb_id": "tt0082383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "Norman Reynolds",
-      "Leslie Dilley",
-      "Michael D. Ford"
-    ],
-    "movies": [
-      {
-        "title": "Raiders of the Lost Ark",
-        "tmdb_id": 85,
-        "imdb_id": "tt0082971"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "Assheton Gorton",
-      "Ann Mollo"
-    ],
-    "movies": [
-      {
-        "title": "The French Lieutenant's Woman",
-        "tmdb_id": 12537,
-        "imdb_id": "tt0082416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "Tambi Larsen",
-      "Jim Berkey"
-    ],
-    "movies": [
-      {
-        "title": "Heaven's Gate",
-        "tmdb_id": 10935,
-        "imdb_id": "tt0080855"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "John Graysmark",
-      "Patrizia von Brandenstein",
-      "Tony Reading",
-      "George DeTitta Sr.",
-      "George DeTitta Jr.",
-      "Peter Howitt"
-    ],
-    "movies": [
-      {
-        "title": "Ragtime",
-        "tmdb_id": 25566,
-        "imdb_id": "tt0082970"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "Richard Sylbert",
-      "Michael Seaton"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1981",
-    "nominees": [
-      "Vittorio Storaro"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1981",
-    "nominees": [
-      "Alex Thomson"
-    ],
-    "movies": [
-      {
-        "title": "Excalibur",
-        "tmdb_id": 11527,
-        "imdb_id": "tt0082348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1981",
-    "nominees": [
-      "Billy Williams"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1981",
-    "nominees": [
-      "Miroslav Ondricek"
-    ],
-    "movies": [
-      {
-        "title": "Ragtime",
-        "tmdb_id": 25566,
-        "imdb_id": "tt0082970"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1981",
-    "nominees": [
-      "Douglas Slocombe"
-    ],
-    "movies": [
-      {
-        "title": "Raiders of the Lost Ark",
-        "tmdb_id": 85,
-        "imdb_id": "tt0082971"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1981",
-    "nominees": [
-      "Michael Kahn"
-    ],
-    "movies": [
-      {
-        "title": "Raiders of the Lost Ark",
-        "tmdb_id": 85,
-        "imdb_id": "tt0082971"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1981",
-    "nominees": [
-      "Terry Rawlings"
-    ],
-    "movies": [
-      {
-        "title": "Chariots of Fire",
-        "tmdb_id": 9443,
-        "imdb_id": "tt0082158"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1981",
-    "nominees": [
-      "John Bloom"
-    ],
-    "movies": [
-      {
-        "title": "The French Lieutenant's Woman",
-        "tmdb_id": 12537,
-        "imdb_id": "tt0082416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1981",
-    "nominees": [
-      "Robert L. Wolfe"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1981",
-    "nominees": [
-      "Dede Allen",
-      "Craig McKay"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1981",
-    "nominees": [
-      "Richard Edlund",
-      "Kit West",
-      "Bruce Nicholson",
-      "Joe Johnston"
-    ],
-    "movies": [
-      {
-        "title": "Raiders of the Lost Ark",
-        "tmdb_id": 85,
-        "imdb_id": "tt0082971"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1981",
-    "nominees": [
-      "Dennis Muren",
-      "Phil Tippett",
-      "Ken Ralston",
-      "Brian Johnson"
-    ],
-    "movies": [
-      {
-        "title": "Dragonslayer",
-        "tmdb_id": 848,
-        "imdb_id": "tt0082288"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1981",
-    "nominees": [
-      "Bill Varney",
-      "Steve Maslow",
-      "Gregg Landaker",
-      "Roy Charman"
-    ],
-    "movies": [
-      {
-        "title": "Raiders of the Lost Ark",
-        "tmdb_id": 85,
-        "imdb_id": "tt0082971"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1981",
-    "nominees": [
-      "Richard Portman",
-      "David M. Ronne"
-    ],
-    "movies": [
-      {
-        "title": "On Golden Pond",
-        "tmdb_id": 11816,
-        "imdb_id": "tt0082846"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1981",
-    "nominees": [
-      "John Wilkinson",
-      "Robert W. Glass Jr.",
-      "Robert Thirlwell",
-      "Robin Gregory"
-    ],
-    "movies": [
-      {
-        "title": "Outland",
-        "tmdb_id": 10540,
-        "imdb_id": "tt0082869"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1981",
-    "nominees": [
-      "Michael J. Kohut",
-      "Jay M. Harding",
-      "Richard Tyler",
-      "Al Overton Jr."
-    ],
-    "movies": [
-      {
-        "title": "Pennies from Heaven",
-        "tmdb_id": 17450,
-        "imdb_id": "tt0082894"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1981",
-    "nominees": [
-      "Dick Vorisek",
-      "Tom Fleischman",
-      "Simon Kaye"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1981",
-    "nominees": [
-      "Ben Burtt",
-      "Richard Anderson"
-    ],
-    "movies": [
-      {
-        "title": "Raiders of the Lost Ark",
-        "tmdb_id": 85,
-        "imdb_id": "tt0082971"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1981",
-    "nominees": [
-      "Rick Baker"
-    ],
-    "movies": [
-      {
-        "title": "An American Werewolf in London",
-        "tmdb_id": 814,
-        "imdb_id": "tt0082010"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1981",
-    "nominees": [
-      "Stan Winston"
-    ],
-    "movies": [
-      {
-        "title": "Heartbeeps",
-        "tmdb_id": 73247,
-        "imdb_id": "tt0082507"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "Milena Canonero"
-    ],
-    "movies": [
-      {
-        "title": "Chariots of Fire",
-        "tmdb_id": 9443,
-        "imdb_id": "tt0082158"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "Tom Rand"
-    ],
-    "movies": [
-      {
-        "title": "The French Lieutenant's Woman",
-        "tmdb_id": 12537,
-        "imdb_id": "tt0082416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "Anna Hill Johnstone"
-    ],
-    "movies": [
-      {
-        "title": "Ragtime",
-        "tmdb_id": 25566,
-        "imdb_id": "tt0082970"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "Shirley Russell"
-    ],
-    "movies": [
-      {
-        "title": "Reds",
-        "tmdb_id": 18254,
-        "imdb_id": "tt0082979"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1981",
-    "nominees": [
-      "Bob Mackie"
-    ],
-    "movies": [
-      {
-        "title": "Pennies from Heaven",
-        "tmdb_id": 17450,
-        "imdb_id": "tt0082894"
-      }
-    ],
-    "won": false
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Warren Beatty",
+    "Nominees": "Warren Beatty",
+    "NomineeIds": "nm0000886",
+    "Winner": "",
+    "Detail": "John 'Jack' Reed",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Henry Fonda",
+    "Nominees": "Henry Fonda",
+    "NomineeIds": "nm0000020",
+    "Winner": "True",
+    "Detail": "Norman Thayer, Jr.",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Atlantic City",
+    "FilmId": "tt0080388",
+    "Name": "Burt Lancaster",
+    "Nominees": "Burt Lancaster",
+    "NomineeIds": "nm0000044",
+    "Winner": "",
+    "Detail": "Lou",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Arthur",
+    "FilmId": "tt0082031",
+    "Name": "Dudley Moore",
+    "Nominees": "Dudley Moore",
+    "NomineeIds": "nm0001545",
+    "Winner": "",
+    "Detail": "Arthur Bach",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Absence of Malice",
+    "FilmId": "tt0081974",
+    "Name": "Paul Newman",
+    "Nominees": "Paul Newman",
+    "NomineeIds": "nm0000056",
+    "Winner": "",
+    "Detail": "Michael Gallagher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Only When I Laugh",
+    "FilmId": "tt0082853",
+    "Name": "James Coco",
+    "Nominees": "James Coco",
+    "NomineeIds": "nm0168394",
+    "Winner": "",
+    "Detail": "Jimmy Perry",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Arthur",
+    "FilmId": "tt0082031",
+    "Name": "John Gielgud",
+    "Nominees": "John Gielgud",
+    "NomineeIds": "nm0000024",
+    "Winner": "True",
+    "Detail": "Hobson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Chariots of Fire",
+    "FilmId": "tt0082158",
+    "Name": "Ian Holm",
+    "Nominees": "Ian Holm",
+    "NomineeIds": "nm0000453",
+    "Winner": "",
+    "Detail": "Sam Mussabini",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Jack Nicholson",
+    "Nominees": "Jack Nicholson",
+    "NomineeIds": "nm0000197",
+    "Winner": "",
+    "Detail": "Eugene O'Neill",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Ragtime",
+    "FilmId": "tt0082970",
+    "Name": "Howard E. Rollins, Jr.",
+    "Nominees": "Howard E. Rollins Jr.",
+    "NomineeIds": "nm0738415",
+    "Winner": "",
+    "Detail": "Coalhouse Walker, Jr.",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Katharine Hepburn",
+    "Nominees": "Katharine Hepburn",
+    "NomineeIds": "nm0000031",
+    "Winner": "True",
+    "Detail": "Ethel Thayer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Diane Keaton",
+    "Nominees": "Diane Keaton",
+    "NomineeIds": "nm0000473",
+    "Winner": "",
+    "Detail": "Louise Bryant",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Only When I Laugh",
+    "FilmId": "tt0082853",
+    "Name": "Marsha Mason",
+    "Nominees": "Marsha Mason",
+    "NomineeIds": "nm0556850",
+    "Winner": "",
+    "Detail": "Georgia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Atlantic City",
+    "FilmId": "tt0080388",
+    "Name": "Susan Sarandon",
+    "Nominees": "Susan Sarandon",
+    "NomineeIds": "nm0000215",
+    "Winner": "",
+    "Detail": "Sally",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The French Lieutenant's Woman",
+    "FilmId": "tt0082416",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Sara Woodruff/Anna",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Absence of Malice",
+    "FilmId": "tt0081974",
+    "Name": "Melinda Dillon",
+    "Nominees": "Melinda Dillon",
+    "NomineeIds": "nm0227039",
+    "Winner": "",
+    "Detail": "Teresa",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Jane Fonda",
+    "Nominees": "Jane Fonda",
+    "NomineeIds": "nm0000404",
+    "Winner": "",
+    "Detail": "Chelsea Thayer Wayne",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Only When I Laugh",
+    "FilmId": "tt0082853",
+    "Name": "Joan Hackett",
+    "Nominees": "Joan Hackett",
+    "NomineeIds": "nm0352466",
+    "Winner": "",
+    "Detail": "Toby Landau",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Ragtime",
+    "FilmId": "tt0082970",
+    "Name": "Elizabeth McGovern",
+    "Nominees": "Elizabeth McGovern",
+    "NomineeIds": "nm0001527",
+    "Winner": "",
+    "Detail": "Evelyn Nesbit",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Maureen Stapleton",
+    "Nominees": "Maureen Stapleton",
+    "NomineeIds": "nm0822972",
+    "Winner": "True",
+    "Detail": "Emma Goldman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The French Lieutenant's Woman",
+    "FilmId": "tt0082416",
+    "Name": "Art Direction: Assheton Gorton; Set Decoration: Ann Mollo",
+    "Nominees": "Assheton Gorton|Ann Mollo",
+    "NomineeIds": "nm0331378|nm0597082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Heaven's Gate",
+    "FilmId": "tt0080855",
+    "Name": "Art Direction: Tambi Larsen; Set Decoration: Jim Berkey",
+    "Nominees": "Tambi Larsen|Jim Berkey",
+    "NomineeIds": "nm0488910|nm0075391",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Ragtime",
+    "FilmId": "tt0082970",
+    "Name": "Art Direction: John Graysmark, Patrizia Von Brandenstein, Anthony Reading; Set Decoration: George de Titta, Sr., George de Titta, Jr., Peter Howitt",
+    "Nominees": "John Graysmark|Patrizia Von Brandenstein|Anthony Reading|George de Titta Sr.|George de Titta Jr.|Peter Howitt",
+    "NomineeIds": "nm0337067|nm0902038|nm0713937|nm0221891|nm0221890|nm0398184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Raiders of the Lost Ark",
+    "FilmId": "tt0082971",
+    "Name": "Art Direction: Norman Reynolds, Leslie Dilley; Set Decoration: Michael Ford",
+    "Nominees": "Norman Reynolds|Leslie Dilley|Michael Ford",
+    "NomineeIds": "nm0721888|nm0226896|nm0285785",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Art Direction: Richard Sylbert; Set Decoration: Michael Seirton",
+    "Nominees": "Richard Sylbert|Michael Seirton",
+    "NomineeIds": "nm0843129|nm0509715",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Excalibur",
+    "FilmId": "tt0082348",
+    "Name": "Alex Thomson",
+    "Nominees": "Alex Thomson",
+    "NomineeIds": "nm0004287",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Billy Williams",
+    "Nominees": "Billy Williams",
+    "NomineeIds": "nm0930119",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Ragtime",
+    "FilmId": "tt0082970",
+    "Name": "Miroslav Ondricek",
+    "Nominees": "Miroslav Ondricek",
+    "NomineeIds": "nm0005816",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Raiders of the Lost Ark",
+    "FilmId": "tt0082971",
+    "Name": "Douglas Slocombe",
+    "Nominees": "Douglas Slocombe",
+    "NomineeIds": "nm0005878",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Vittorio Storaro",
+    "Nominees": "Vittorio Storaro",
+    "NomineeIds": "nm0005886",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Chariots of Fire",
+    "FilmId": "tt0082158",
+    "Name": "Milena Canonero",
+    "Nominees": "Milena Canonero",
+    "NomineeIds": "nm0134382",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The French Lieutenant's Woman",
+    "FilmId": "tt0082416",
+    "Name": "Tom Rand",
+    "Nominees": "Tom Rand",
+    "NomineeIds": "nm0709497",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Pennies from Heaven",
+    "FilmId": "tt0082894",
+    "Name": "Bob Mackie",
+    "Nominees": "Bob Mackie",
+    "NomineeIds": "nm0533496",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Ragtime",
+    "FilmId": "tt0082970",
+    "Name": "Anna Hill Johnstone",
+    "Nominees": "Anna Hill Johnstone",
+    "NomineeIds": "nm0426895",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Shirley Russell",
+    "Nominees": "Shirley Russell",
+    "NomineeIds": "nm0751455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Atlantic City",
+    "FilmId": "tt0080388",
+    "Name": "Louis Malle",
+    "Nominees": "Louis Malle",
+    "NomineeIds": "nm0001501",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Chariots of Fire",
+    "FilmId": "tt0082158",
+    "Name": "Hugh Hudson",
+    "Nominees": "Hugh Hudson",
+    "NomineeIds": "nm0399853",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Mark Rydell",
+    "Nominees": "Mark Rydell",
+    "NomineeIds": "nm0041932",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Raiders of the Lost Ark",
+    "FilmId": "tt0082971",
+    "Name": "Steven Spielberg",
+    "Nominees": "Steven Spielberg",
+    "NomineeIds": "nm0000229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Warren Beatty",
+    "Nominees": "Warren Beatty",
+    "NomineeIds": "nm0000886",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Against Wind and Tide: A Cuban Odyssey",
+    "FilmId": "tt0081988",
+    "Name": "Suzanne Bauman, Paul Neshamkin and Jim Burroughs, Producers",
+    "Nominees": "Suzanne Bauman|Paul Neshamkin|Jim Burroughs",
+    "NomineeIds": "nm0062184|nm0626402|nm0123202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Brooklyn Bridge",
+    "FilmId": "tt0082106",
+    "Name": "Ken Burns, Producer",
+    "Nominees": "Ken Burns",
+    "NomineeIds": "nm0122741",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott",
+    "FilmId": "tt0082312",
+    "Name": "Mary Benjamin, Susanne Simpson and Boyd Estus, Producers",
+    "Nominees": "Mary Benjamin|Susanne Simpson|Boyd Estus",
+    "NomineeIds": "nm0071333|nm0801224|nm0261936",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "El Salvador: Another Vietnam",
+    "FilmId": "tt0082315",
+    "Name": "Glenn Silber and Tete Vasconcellos, Producers",
+    "Nominees": "Glenn Silber|Tete Vasconcellos",
+    "NomineeIds": "nm0797838|nm0890359",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Genocide",
+    "FilmId": "tt0082443",
+    "Name": "Arnold Schwartzman and Rabbi Marvin Hier, Producers",
+    "Nominees": "Arnold Schwartzman|Rabbi Marvin Hier",
+    "NomineeIds": "nm0777510|nm0383178",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Americas in Transition",
+    "FilmId": "tt0082012",
+    "Name": "Obie Benz, Producer",
+    "Nominees": "Obie Benz",
+    "NomineeIds": "nm0002312",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Close Harmony",
+    "FilmId": "tt0082187",
+    "Name": "Nigel Noble, Producer",
+    "Nominees": "Nigel Noble",
+    "NomineeIds": "nm0633649",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Journey for Survival",
+    "FilmId": "tt0082587",
+    "Name": "Dick Young, Producer",
+    "Nominees": "Dick Young",
+    "NomineeIds": "nm0949484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "See What I Say",
+    "FilmId": "tt0083044",
+    "Name": "Linda Chapman, Pam LeBlanc and Freddi Stevens, Producers",
+    "Nominees": "Linda Chapman|Pam LeBlanc|Freddi Stevens",
+    "NomineeIds": "nm0152450|nm0495739|nm0828408",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Urge to Build",
+    "FilmId": "tt0083265",
+    "Name": "Roland Hallé and John Hoover, Producers",
+    "Nominees": "Roland Hallé|John Hoover",
+    "NomineeIds": "nm0356806|nm0393898",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Chariots of Fire",
+    "FilmId": "tt0082158",
+    "Name": "Terry Rawlings",
+    "Nominees": "Terry Rawlings",
+    "NomineeIds": "nm0712625",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The French Lieutenant's Woman",
+    "FilmId": "tt0082416",
+    "Name": "John Bloom",
+    "Nominees": "John Bloom",
+    "NomineeIds": "nm0089182",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Robert L. Wolfe",
+    "Nominees": "Robert L. Wolfe",
+    "NomineeIds": "nm0938130",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Raiders of the Lost Ark",
+    "FilmId": "tt0082971",
+    "Name": "Michael Kahn",
+    "Nominees": "Michael Kahn",
+    "NomineeIds": "nm0434883",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Dede Allen, Craig McKay",
+    "Nominees": "Dede Allen|Craig McKay",
+    "NomineeIds": "nm0020441|nm0570947",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Boat Is Full",
+    "FilmId": "tt0082095",
+    "Name": "Switzerland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Man of Iron",
+    "FilmId": "tt0082222",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Mephisto",
+    "FilmId": "tt0082736",
+    "Name": "Hungary",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Muddy River",
+    "FilmId": "tt0082280",
+    "Name": "Japan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Three Brothers",
+    "FilmId": "tt0083226",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "An American Werewolf in London",
+    "FilmId": "tt0082010",
+    "Name": "Rick Baker",
+    "Nominees": "Rick Baker",
+    "NomineeIds": "nm0000711",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Heartbeeps",
+    "FilmId": "tt0082507",
+    "Name": "Stan Winston",
+    "Nominees": "Stan Winston",
+    "NomineeIds": "nm0935644",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Chariots of Fire",
+    "FilmId": "tt0082158",
+    "Name": "Vangelis",
+    "Nominees": "Vangelis",
+    "NomineeIds": "nm0006331",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Dragonslayer",
+    "FilmId": "tt0082288",
+    "Name": "Alex North",
+    "Nominees": "Alex North",
+    "NomineeIds": "nm0006218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Dave Grusin",
+    "Nominees": "Dave Grusin",
+    "NomineeIds": "nm0006115",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Ragtime",
+    "FilmId": "tt0082970",
+    "Name": "Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Raiders of the Lost Ark",
+    "FilmId": "tt0082971",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Arthur",
+    "FilmId": "tt0082031",
+    "Name": "Music and Lyric by Burt Bacharach, Carole Bayer Sager, Christopher Cross and Peter Allen",
+    "Nominees": "Burt Bacharach|Carole Bayer Sager|Christopher Cross|Peter Allen",
+    "NomineeIds": "nm0000820|nm0004728|nm0189131|nm0020899",
+    "Winner": "True",
+    "Detail": "Arthur's Theme (Best That You Can Do)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Endless Love",
+    "FilmId": "tt0082329",
+    "Name": "Music and Lyric by Lionel Richie",
+    "Nominees": "Lionel Richie",
+    "NomineeIds": "nm0005360",
+    "Winner": "",
+    "Detail": "Endless Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Great Muppet Caper",
+    "FilmId": "tt0082474",
+    "Name": "Music and Lyric by Joe Raposo",
+    "Nominees": "Joe Raposo",
+    "NomineeIds": "nm0710809",
+    "Winner": "",
+    "Detail": "The First Time It Happens",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "For Your Eyes Only",
+    "FilmId": "tt0082398",
+    "Name": "Music by Bill Conti; Lyric by Mick Leeson",
+    "Nominees": "Bill Conti|Mick Leeson",
+    "NomineeIds": "nm0006015|nm8750776",
+    "Winner": "",
+    "Detail": "For Your Eyes Only",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Ragtime",
+    "FilmId": "tt0082970",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "One More Hour",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Atlantic City",
+    "FilmId": "tt0080388",
+    "Name": "Denis Heroux and John Kemeny, Producers",
+    "Nominees": "Denis Heroux|John Kemeny",
+    "NomineeIds": "nm0405759|nm0447190",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Chariots of Fire",
+    "FilmId": "tt0082158",
+    "Name": "David Puttnam, Producer",
+    "Nominees": "David Puttnam",
+    "NomineeIds": "nm0701298",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Bruce Gilbert, Producer",
+    "Nominees": "Bruce Gilbert",
+    "NomineeIds": "nm0317982",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Raiders of the Lost Ark",
+    "FilmId": "tt0082971",
+    "Name": "Frank Marshall, Producer",
+    "Nominees": "Frank Marshall",
+    "NomineeIds": "nm0550881",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Warren Beatty, Producer",
+    "Nominees": "Warren Beatty",
+    "NomineeIds": "nm0000886",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Crac",
+    "FilmId": "tt0082209",
+    "Name": "Frédéric Back, Producer",
+    "Nominees": "Frédéric Back",
+    "NomineeIds": "nm0045610",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Creation",
+    "FilmId": "tt0082212",
+    "Name": "Will Vinton, Producer",
+    "Nominees": "Will Vinton",
+    "NomineeIds": "nm0899139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Tender Tale of Cinderella Penguin",
+    "FilmId": "tt0083182",
+    "Name": "Janet Perlman, Producer",
+    "Nominees": "Janet Perlman",
+    "NomineeIds": "nm0674222",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Couples and Robbers",
+    "FilmId": "tt0082207",
+    "Name": "Christine Oestreicher, Producer",
+    "Nominees": "Christine Oestreicher",
+    "NomineeIds": "nm0644325",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "First Winter",
+    "FilmId": "tt0082383",
+    "Name": "John N. Smith, Producer",
+    "Nominees": "John N. Smith",
+    "NomineeIds": "nm0808807",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Violet",
+    "FilmId": "tt0083293",
+    "Name": "Paul Kemp and Shelley Levinson, Producers",
+    "Nominees": "Paul Kemp|Shelley Levinson",
+    "NomineeIds": "nm0447351|nm0506099",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Richard Portman, David Ronne",
+    "Nominees": "Richard Portman|David Ronne",
+    "NomineeIds": "nm0692446|nm0740122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Outland",
+    "FilmId": "tt0082869",
+    "Name": "John K. Wilkinson, Robert W. Glass, Jr., Robert M. Thirlwell, Robin Gregory",
+    "Nominees": "John K. Wilkinson|Robert W. Glass Jr.|Robert M. Thirlwell|Robin Gregory",
+    "NomineeIds": "nm0929414|nm0321903|nm0858222|nm0339932",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Pennies from Heaven",
+    "FilmId": "tt0082894",
+    "Name": "Michael J. Kohut, Jay M. Harding, Richard Tyler, Al Overton",
+    "Nominees": "Michael J. Kohut|Jay M. Harding|Richard Tyler|Al Overton",
+    "NomineeIds": "nm0463489|nm0362326|nm0878889|nm0653929",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Raiders of the Lost Ark",
+    "FilmId": "tt0082971",
+    "Name": "Bill Varney, Steve Maslow, Gregg Landaker, Roy Charman",
+    "Nominees": "Bill Varney|Steve Maslow|Gregg Landaker|Roy Charman",
+    "NomineeIds": "nm0890106|nm0556541|nm0484414|nm0153335",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Dick Vorisek, Tom Fleischman, Simon Kaye",
+    "Nominees": "Dick Vorisek|Tom Fleischman|Simon Kaye",
+    "NomineeIds": "nm0903459|nm0281530|nm0443393",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Dragonslayer",
+    "FilmId": "tt0082288",
+    "Name": "Dennis Muren, Phil Tippett, Ken Ralston, Brian Johnson",
+    "Nominees": "Dennis Muren|Phil Tippett|Ken Ralston|Brian Johnson",
+    "NomineeIds": "nm0613830|nm0864138|nm0707822|nm0424644",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Raiders of the Lost Ark",
+    "FilmId": "tt0082971",
+    "Name": "Richard Edlund, Kit West, Bruce Nicholson, Joe Johnston",
+    "Nominees": "Richard Edlund|Kit West|Bruce Nicholson|Joe Johnston",
+    "NomineeIds": "nm0249430|nm0922187|nm0629785|nm0002653",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "The French Lieutenant's Woman",
+    "FilmId": "tt0082416",
+    "Name": "Harold Pinter",
+    "Nominees": "Harold Pinter",
+    "NomineeIds": "nm0056217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "On Golden Pond",
+    "FilmId": "tt0082846",
+    "Name": "Ernest Thompson",
+    "Nominees": "Ernest Thompson",
+    "NomineeIds": "nm0860125",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Pennies from Heaven",
+    "FilmId": "tt0082894",
+    "Name": "Dennis Potter",
+    "Nominees": "Dennis Potter",
+    "NomineeIds": "nm0693259",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Prince of the City",
+    "FilmId": "tt0082945",
+    "Name": "Jay Presson Allen, Sidney Lumet",
+    "Nominees": "Jay Presson Allen|Sidney Lumet",
+    "NomineeIds": "nm0696319|nm0001486",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Ragtime",
+    "FilmId": "tt0082970",
+    "Name": "Michael Weller",
+    "Nominees": "Michael Weller",
+    "NomineeIds": "nm0919876",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Absence of Malice",
+    "FilmId": "tt0081974",
+    "Name": "Kurt Luedtke",
+    "Nominees": "Kurt Luedtke",
+    "NomineeIds": "nm0525104",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Arthur",
+    "FilmId": "tt0082031",
+    "Name": "Steve Gordon",
+    "Nominees": "Steve Gordon",
+    "NomineeIds": "nm0330619",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Atlantic City",
+    "FilmId": "tt0080388",
+    "Name": "John Guare",
+    "Nominees": "John Guare",
+    "NomineeIds": "nm0345359",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Chariots of Fire",
+    "FilmId": "tt0082158",
+    "Name": "Colin Welland",
+    "Nominees": "Colin Welland",
+    "NomineeIds": "nm0919815",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Reds",
+    "FilmId": "tt0082979",
+    "Name": "Warren Beatty, Trevor Griffiths",
+    "Nominees": "Warren Beatty|Trevor Griffiths",
+    "NomineeIds": "nm0000886|nm0341767",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing)",
+    "Film": "Raiders of the Lost Ark",
+    "FilmId": "tt0082971",
+    "Name": "Ben Burtt, Richard L. Anderson",
+    "Nominees": "Ben Burtt|Richard L. Anderson",
+    "NomineeIds": "nm0123785|nm0027328",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Danny Kaye",
+    "Nominees": "Danny Kaye",
+    "NomineeIds": "nm0001414",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Barbara Stanwyck",
+    "NomineeIds": "nm0001766",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Barbara Stanwyck for superlative creativity and unique contribution to the art of screen acting."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Albert R. Broccoli",
+    "Nominees": "Albert R. Broccoli",
+    "NomineeIds": "nm0110482",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joseph B. Walker",
+    "NomineeIds": "nm0907900",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Joseph B. Walker"
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fuji Photo Film Company Ltd.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To FUJI PHOTO FILM COMPANY, LTD. for the research, development and introduction of a new Ultra-high-speed color negative film for motion pictures."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nelson Tyler",
+    "NomineeIds": "nm0878874",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To NELSON TYLER for the progressive development and improvement of the Tyler Helicopter motion picture camera platform."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Leonard Sokolow|HOWARD T. LaZARE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To LEONARD SOKOLOW for the concept and design and to HOWARD T. LaZARE for the development of the Consolidated Film Industries' Stroboscan motion picture film viewer."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard Edlund|Industrial Light And Magic Incorporated",
+    "NomineeIds": "nm0249430|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To RICHARD EDLUND and INDUSTRIAL LIGHT AND MAGIC, INCORPORATED for the concept and engineering of a beam-splitter optical composite motion picture printer."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard Edlund|Industrial Light And Magic Incorporated",
+    "NomineeIds": "nm0249430|?",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To RICHARD EDLUND and INDUSTRIAL LIGHT AND MAGIC, INCORPORATED for the engineering of the Empire Motion Picture Camera System."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "EDWARD J. BLASKO|RODERICK T. RYAN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To EDWARD J. BLASKO and DR. RODERICK T. RYAN of the Eastman Kodak Company for the application of the Prostar Microfilm Processor for motion picture title and special optical effects production."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hal Landaker|Alan D. Landaker",
+    "NomineeIds": "nm0484415|nm0484413",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To HAL LANDAKER for the concept and to ALAN D. LANDAKER for the engineering of the Burbank Studios' Production Sound Department 24-frame color video system."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "BILL HOGAN",
+    "NomineeIds": "nm1643397",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To BILL HOGAN of Ruxton, Ltd. and RICHARD J. STUMPF and DANIEL R. BREWER of Universal City Studios' Production Sound Department for the engineering of a 24-frame color video system."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JOHN DeMUTH",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JOHN DeMUTH for the engineering of a 24-frame video system."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ERNST F. NETTMANN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To ERNST F. NETTMANN of Continental Camera Systems, Inc. for the development of a pitching lens for motion picture photography."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "BILL TAYLOR",
+    "NomineeIds": "nm0852041",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To BILL TAYLOR of Universal City Studios for the concept and specifications for a Two Format, Rotating Head, Aerial Image Optical Printer."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "PETER D. PARKS",
+    "NomineeIds": "nm0662995",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To PETER D. PARKS of Oxford Scientific Films for the development of the OSF microcosmic zoom device for microscopic photography."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Louis Stankiewicz|H. L. Blachford",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To DR. LOUIS STANKIEWICZ and H. L. BLACHFORD for the development of Baryfol sound barrier materials."
+  },
+  {
+    "Ceremony": 54,
+    "Year": 1981,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DENNIS MUREN|STUART ZIFF",
+    "NomineeIds": "nm0613830|nm0956336",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To DENNIS MUREN and STUART ZIFF of Industrial Light and Magic, Incorporated for the development of a Motion Picture Figure Mover for animation photography."
   }
 ]

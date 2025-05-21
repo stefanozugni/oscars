@@ -1,1872 +1,2098 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1964",
-    "nominees": [
-      "My Fair Lady"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1964",
-    "nominees": [
-      "Becket"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1964",
-    "nominees": [
-      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "tmdb_id": 935,
-        "imdb_id": "tt0057012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1964",
-    "nominees": [
-      "Mary Poppins"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1964",
-    "nominees": [
-      "Zorba the Greek"
-    ],
-    "movies": [
-      {
-        "title": "Zorba the Greek",
-        "tmdb_id": 10604,
-        "imdb_id": "tt0057831"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1964",
-    "nominees": [
-      "Rex Harrison"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1964",
-    "nominees": [
-      "Richard Burton"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1964",
-    "nominees": [
-      "Peter O'Toole"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1964",
-    "nominees": [
-      "Anthony Quinn"
-    ],
-    "movies": [
-      {
-        "title": "Zorba the Greek",
-        "tmdb_id": 10604,
-        "imdb_id": "tt0057831"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1964",
-    "nominees": [
-      "Peter Sellers"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "tmdb_id": 935,
-        "imdb_id": "tt0057012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1964",
-    "nominees": [
-      "Julie Andrews"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1964",
-    "nominees": [
-      "Anne Bancroft"
-    ],
-    "movies": [
-      {
-        "title": "The Pumpkin Eater",
-        "tmdb_id": 69557,
-        "imdb_id": "tt0058500"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1964",
-    "nominees": [
-      "Sophia Loren"
-    ],
-    "movies": [
-      {
-        "title": "Marriage Italian Style",
-        "tmdb_id": 49687,
-        "imdb_id": "tt0058335"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1964",
-    "nominees": [
-      "Debbie Reynolds"
-    ],
-    "movies": [
-      {
-        "title": "The Unsinkable Molly Brown",
-        "tmdb_id": 42797,
-        "imdb_id": "tt0058708"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1964",
-    "nominees": [
-      "Kim Stanley"
-    ],
-    "movies": [
-      {
-        "title": "Seance on a Wet Afternoon",
-        "tmdb_id": 3092,
-        "imdb_id": "tt0058557"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1964",
-    "nominees": [
-      "Peter Ustinov"
-    ],
-    "movies": [
-      {
-        "title": "Topkapi",
-        "tmdb_id": 5052,
-        "imdb_id": "tt0058672"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1964",
-    "nominees": [
-      "John Gielgud"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1964",
-    "nominees": [
-      "Stanley Holloway"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1964",
-    "nominees": [
-      "Edmond O'Brien"
-    ],
-    "movies": [
-      {
-        "title": "Seven Days in May",
-        "tmdb_id": 23518,
-        "imdb_id": "tt0058576"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1964",
-    "nominees": [
-      "Lee Tracy"
-    ],
-    "movies": [
-      {
-        "title": "The Best Man",
-        "tmdb_id": 37315,
-        "imdb_id": "tt0057883"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1964",
-    "nominees": [
-      "Lila Kedrova"
-    ],
-    "movies": [
-      {
-        "title": "Zorba the Greek",
-        "tmdb_id": 10604,
-        "imdb_id": "tt0057831"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1964",
-    "nominees": [
-      "Gladys Cooper"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1964",
-    "nominees": [
-      "Edith Evans"
-    ],
-    "movies": [
-      {
-        "title": "The Chalk Garden",
-        "tmdb_id": 66022,
-        "imdb_id": "tt0057933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1964",
-    "nominees": [
-      "Grayson Hall"
-    ],
-    "movies": [
-      {
-        "title": "The Night of the Iguana",
-        "tmdb_id": 14703,
-        "imdb_id": "tt0058404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1964",
-    "nominees": [
-      "Agnes Moorehead"
-    ],
-    "movies": [
-      {
-        "title": "Hush... Hush, Sweet Charlotte",
-        "tmdb_id": 10299,
-        "imdb_id": "tt0058213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1964",
-    "nominees": [
-      "George Cukor"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1964",
-    "nominees": [
-      "Peter Glenville"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1964",
-    "nominees": [
-      "Stanley Kubrick"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "tmdb_id": 935,
-        "imdb_id": "tt0057012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1964",
-    "nominees": [
-      "Robert Stevenson"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1964",
-    "nominees": [
-      "Michael Cacoyannis"
-    ],
-    "movies": [
-      {
-        "title": "Zorba the Greek",
-        "tmdb_id": 10604,
-        "imdb_id": "tt0057831"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Edward Anhalt"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Stanley Kubrick",
-      "Terry Southern",
-      "Peter George"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "tmdb_id": 935,
-        "imdb_id": "tt0057012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Bill Walsh",
-      "Don Dagradi"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Alan Jay Lerner"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Michael Cacoyannis"
-    ],
-    "movies": [
-      {
-        "title": "Zorba the Greek",
-        "tmdb_id": 10604,
-        "imdb_id": "tt0057831"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Peter Stone",
-      "Frank Tarloff"
-    ],
-    "movies": [
-      {
-        "title": "Father Goose",
-        "tmdb_id": 30295,
-        "imdb_id": "tt0058092"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Alun Owen"
-    ],
-    "movies": [
-      {
-        "title": "A Hard Day's Night",
-        "tmdb_id": 704,
-        "imdb_id": "tt0058182"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Agenore Incrocci",
-      "Furio Scarpelli",
-      "Mario Monicelli"
-    ],
-    "movies": [
-      {
-        "title": "The Organizer",
-        "tmdb_id": 51092,
-        "imdb_id": "tt0056945"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Jean-Paul Rappeneau",
-      "Ariane Mnouchkine",
-      "Daniel Boulanger",
-      "Philippe de Broca"
-    ],
-    "movies": [
-      {
-        "title": "That Man from Rio",
-        "tmdb_id": 4034,
-        "imdb_id": "tt0058203"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1964",
-    "nominees": [
-      "Orville H. Hampton",
-      "Raphael Hayes"
-    ],
-    "movies": [
-      {
-        "title": "One Potato, Two Potato",
-        "tmdb_id": 143841,
-        "imdb_id": "tt0058429"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1964",
-    "nominees": [
-      "Richard M. Sherman",
-      "Robert B. Sherman"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1964",
-    "nominees": [
-      "Laurence Rosenthal"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1964",
-    "nominees": [
-      "Frank DeVol"
-    ],
-    "movies": [
-      {
-        "title": "Hush... Hush, Sweet Charlotte",
-        "tmdb_id": 10299,
-        "imdb_id": "tt0058213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1964",
-    "nominees": [
-      "Dimitri Tiomkin"
-    ],
-    "movies": [
-      {
-        "title": "The Fall of the Roman Empire",
-        "tmdb_id": 17277,
-        "imdb_id": "tt0058085"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1964",
-    "nominees": [
-      "Henry Mancini"
-    ],
-    "movies": [
-      {
-        "title": "The Pink Panther",
-        "tmdb_id": 936,
-        "imdb_id": "tt0057413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1964",
-    "nominees": [
-      "Andre Previn"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1964",
-    "nominees": [
-      "George Martin"
-    ],
-    "movies": [
-      {
-        "title": "A Hard Day's Night",
-        "tmdb_id": 704,
-        "imdb_id": "tt0058182"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1964",
-    "nominees": [
-      "Irwin Kostal"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1964",
-    "nominees": [
-      "Nelson Riddle"
-    ],
-    "movies": [
-      {
-        "title": "Robin and the 7 Hoods",
-        "tmdb_id": 17696,
-        "imdb_id": "tt0058529"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1964",
-    "nominees": [
-      "Robert Armbruster",
-      "Leo Arnaud",
-      "Jack Elliott",
-      "Jack Hayes",
-      "Calvin Jackson",
-      "Leo Shuken"
-    ],
-    "movies": [
-      {
-        "title": "The Unsinkable Molly Brown",
-        "tmdb_id": 42797,
-        "imdb_id": "tt0058708"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1964",
-    "nominees": [
-      "Chim Chim Cher-ee"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1964",
-    "nominees": [
-      "Dear Heart"
-    ],
-    "movies": [
-      {
-        "title": "Dear Heart",
-        "tmdb_id": 101226,
-        "imdb_id": "tt0057999"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1964",
-    "nominees": [
-      "Hush... Hush",
-      "Sweet Charlotte"
-    ],
-    "movies": [
-      {
-        "title": "Hush... Hush, Sweet Charlotte",
-        "tmdb_id": 10299,
-        "imdb_id": "tt0058213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1964",
-    "nominees": [
-      "My Kind of Town"
-    ],
-    "movies": [
-      {
-        "title": "Robin and the 7 Hoods",
-        "tmdb_id": 17696,
-        "imdb_id": "tt0058529"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1964",
-    "nominees": [
-      "Where Love Has Gone"
-    ],
-    "movies": [
-      {
-        "title": "Where Love Has Gone",
-        "tmdb_id": 73348,
-        "imdb_id": "tt0058745"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1964",
-    "nominees": [
-      "Yesterday, Today and Tomorrow"
-    ],
-    "movies": [
-      {
-        "title": "Yesterday, Today and Tomorrow",
-        "tmdb_id": 42801,
-        "imdb_id": "tt0057171"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1964",
-    "nominees": [
-      "Raven's End"
-    ],
-    "movies": [
-      {
-        "title": "Raven's End",
-        "tmdb_id": 47206,
-        "imdb_id": "tt0057237"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1964",
-    "nominees": [
-      "Sallah"
-    ],
-    "movies": [
-      {
-        "title": "Sallah",
-        "tmdb_id": 116762,
-        "imdb_id": "tt0058541"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1964",
-    "nominees": [
-      "The Umbrellas of Cherbourg"
-    ],
-    "movies": [
-      {
-        "title": "The Umbrellas of Cherbourg",
-        "tmdb_id": 5967,
-        "imdb_id": "tt0058450"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1964",
-    "nominees": [
-      "Woman in the Dunes"
-    ],
-    "movies": [
-      {
-        "title": "Woman in the Dunes",
-        "tmdb_id": 16672,
-        "imdb_id": "tt0058625"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1964",
-    "nominees": [
-      "World Without Sun"
-    ],
-    "movies": [
-      {
-        "title": "World Without Sun",
-        "tmdb_id": 91288,
-        "imdb_id": "tt0058364"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1964",
-    "nominees": [
-      "Over There, 1914-18"
-    ],
-    "movies": [
-      {
-        "title": "Over There, 1914-18",
-        "tmdb_id": 149286,
-        "imdb_id": "tt0056797"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1964",
-    "nominees": [
-      "Everyman"
-    ],
-    "movies": [
-      {
-        "title": "Everyman",
-        "tmdb_id": 39241,
-        "imdb_id": "tt0056819"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1964",
-    "nominees": [
-      "The Finest Hours"
-    ],
-    "movies": [
-      {
-        "title": "The Finest Hours",
-        "tmdb_id": 149291,
-        "imdb_id": "tt0058099"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1964",
-    "nominees": [
-      "Four Days In November"
-    ],
-    "movies": [
-      {
-        "title": "Four Days In November",
-        "tmdb_id": 139226,
-        "imdb_id": "tt0059197"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1964",
-    "nominees": [
-      "Nine from Little Rock"
-    ],
-    "movies": [
-      {
-        "title": "Nine from Little Rock",
-        "tmdb_id": 243260,
-        "imdb_id": "tt0058410"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1964",
-    "nominees": [
-      "Breaking the Habit"
-    ],
-    "movies": [
-      {
-        "title": "Breaking the Habit",
-        "tmdb_id": 243261,
-        "imdb_id": "tt0057898"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1964",
-    "nominees": [
-      "Children Without"
-    ],
-    "movies": [
-      {
-        "title": "Children Without",
-        "tmdb_id": 243263,
-        "imdb_id": "tt0057945"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1964",
-    "nominees": [
-      "Eskimo Artist: Kenojuak"
-    ],
-    "movies": [
-      {
-        "title": "Eskimo Artist: Kenojuak",
-        "tmdb_id": 243268,
-        "imdb_id": "tt0058260"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1964",
-    "nominees": [
-      "140 Days Under the World"
-    ],
-    "movies": [
-      {
-        "title": "140 Days Under the World",
-        "tmdb_id": 243271,
-        "imdb_id": "tt0057806"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1964",
-    "nominees": [
-      "The Pink Phink"
-    ],
-    "movies": [
-      {
-        "title": "The Pink Phink",
-        "tmdb_id": 149193,
-        "imdb_id": "tt0058472"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1964",
-    "nominees": [
-      "Christmas Cracker"
-    ],
-    "movies": [
-      {
-        "title": "Christmas Cracker",
-        "tmdb_id": 143198,
-        "imdb_id": "tt0055849"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1964",
-    "nominees": [
-      "How to Avoid Friendship"
-    ],
-    "movies": [
-      {
-        "title": "How to Avoid Friendship",
-        "tmdb_id": 243257,
-        "imdb_id": "tt0058211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1964",
-    "nominees": [
-      "Here's Nudnik"
-    ],
-    "movies": [
-      {
-        "title": "Here's Nudnik",
-        "tmdb_id": 220906,
-        "imdb_id": "tt0058416"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1964",
-    "nominees": [
-      "Casals Conducts: 1964"
-    ],
-    "movies": [
-      {
-        "title": "Casals Conducts: 1964",
-        "tmdb_id": 243253,
-        "imdb_id": "tt0057922"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1964",
-    "nominees": [
-      "Help! My Snowman's Burning Down"
-    ],
-    "movies": [
-      {
-        "title": "Help! My Snowman's Burning Down",
-        "tmdb_id": 243255,
-        "imdb_id": "tt0058189"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1964",
-    "nominees": [
-      "The Legend of Jimmy Blue Eyes"
-    ],
-    "movies": [
-      {
-        "title": "The Legend of Jimmy Blue Eyes",
-        "tmdb_id": 243256,
-        "imdb_id": "tt0058288"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Vassilis Fotopoulos"
-    ],
-    "movies": [
-      {
-        "title": "Zorba the Greek",
-        "tmdb_id": 10604,
-        "imdb_id": "tt0057831"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "William Glasgow",
-      "Raphael Bretton"
-    ],
-    "movies": [
-      {
-        "title": "Hush... Hush, Sweet Charlotte",
-        "tmdb_id": 10299,
-        "imdb_id": "tt0058213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Cary Odell",
-      "Edward G. Boyle"
-    ],
-    "movies": [
-      {
-        "title": "Seven Days in May",
-        "tmdb_id": 23518,
-        "imdb_id": "tt0058576"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "George Davis",
-      "Hans Peters",
-      "Elliott Scott",
-      "Henry Grace",
-      "Robert R. Benton"
-    ],
-    "movies": [
-      {
-        "title": "The Americanization of Emily",
-        "tmdb_id": 42791,
-        "imdb_id": "tt0057840"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Stephen Grimes"
-    ],
-    "movies": [
-      {
-        "title": "The Night of the Iguana",
-        "tmdb_id": 14703,
-        "imdb_id": "tt0058404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "Gene Allen",
-      "Cecil Beaton",
-      "George James Hopkins"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "John Bryan",
-      "Maurice Carter",
-      "Patrick McLoughlin",
-      "Robert Cartwright"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "Carroll Clark",
-      "William H. Tuntke",
-      "Emile Kuri",
-      "Hal Gausman"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "George Davis",
-      "E. Preston Ames",
-      "Henry Grace",
-      "Hugh Hunt"
-    ],
-    "movies": [
-      {
-        "title": "The Unsinkable Molly Brown",
-        "tmdb_id": 42797,
-        "imdb_id": "tt0058708"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "Jack Martin Smith",
-      "Ted Haworth",
-      "Walter M. Scott",
-      "Stuart A. Reiss"
-    ],
-    "movies": [
-      {
-        "title": "What a Way to Go!",
-        "tmdb_id": 23574,
-        "imdb_id": "tt0058743"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Walter Lassally"
-    ],
-    "movies": [
-      {
-        "title": "Zorba the Greek",
-        "tmdb_id": 10604,
-        "imdb_id": "tt0057831"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Joseph Biroc"
-    ],
-    "movies": [
-      {
-        "title": "Hush... Hush, Sweet Charlotte",
-        "tmdb_id": 10299,
-        "imdb_id": "tt0058213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Milton Krasner"
-    ],
-    "movies": [
-      {
-        "title": "Fate Is the Hunter",
-        "tmdb_id": 102286,
-        "imdb_id": "tt0058091"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Philip H. Lathrop"
-    ],
-    "movies": [
-      {
-        "title": "The Americanization of Emily",
-        "tmdb_id": 42791,
-        "imdb_id": "tt0057840"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Gabriel Figueroa"
-    ],
-    "movies": [
-      {
-        "title": "The Night of the Iguana",
-        "tmdb_id": 14703,
-        "imdb_id": "tt0058404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1964",
-    "nominees": [
-      "Harry Stradling"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1964",
-    "nominees": [
-      "Geoffrey Unsworth"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1964",
-    "nominees": [
-      "William H. Clothier"
-    ],
-    "movies": [
-      {
-        "title": "Cheyenne Autumn",
-        "tmdb_id": 40630,
-        "imdb_id": "tt0057940"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1964",
-    "nominees": [
-      "Edward Colman"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1964",
-    "nominees": [
-      "Daniel L. Fapp"
-    ],
-    "movies": [
-      {
-        "title": "The Unsinkable Molly Brown",
-        "tmdb_id": 42797,
-        "imdb_id": "tt0058708"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1964",
-    "nominees": [
-      "Cotton Warburton"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1964",
-    "nominees": [
-      "Michael Luciano"
-    ],
-    "movies": [
-      {
-        "title": "Hush... Hush, Sweet Charlotte",
-        "tmdb_id": 10299,
-        "imdb_id": "tt0058213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1964",
-    "nominees": [
-      "Anne V. Coates"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1964",
-    "nominees": [
-      "Ted J. Kent"
-    ],
-    "movies": [
-      {
-        "title": "Father Goose",
-        "tmdb_id": 30295,
-        "imdb_id": "tt0058092"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1964",
-    "nominees": [
-      "William Ziegler"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1964",
-    "nominees": [
-      "Peter Ellenshaw",
-      "Eustace Lycett",
-      "Hamilton Luske"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1964",
-    "nominees": [
-      "Jim Danforth"
-    ],
-    "movies": [
-      {
-        "title": "7 Faces of Dr. Lao",
-        "tmdb_id": 14241,
-        "imdb_id": "tt0057812"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1964",
-    "nominees": [
-      "George Groves"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1964",
-    "nominees": [
-      "John Cox"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1964",
-    "nominees": [
-      "Waldon O. Watson"
-    ],
-    "movies": [
-      {
-        "title": "Father Goose",
-        "tmdb_id": 30295,
-        "imdb_id": "tt0058092"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1964",
-    "nominees": [
-      "Robert O. Cook"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1964",
-    "nominees": [
-      "Franklin Milton"
-    ],
-    "movies": [
-      {
-        "title": "The Unsinkable Molly Brown",
-        "tmdb_id": 42797,
-        "imdb_id": "tt0058708"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1964",
-    "nominees": [
-      "Norman Wanstall"
-    ],
-    "movies": [
-      {
-        "title": "Goldfinger",
-        "tmdb_id": 658,
-        "imdb_id": "tt0058150"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1964",
-    "nominees": [
-      "Robert Bratton"
-    ],
-    "movies": [
-      {
-        "title": "The Lively Set",
-        "tmdb_id": 138411,
-        "imdb_id": "tt0058296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1964",
-    "nominees": [
-      "William J. Tuttle"
-    ],
-    "movies": [
-      {
-        "title": "7 Faces of Dr. Lao",
-        "tmdb_id": 14241,
-        "imdb_id": "tt0057812"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Dorothy Jeakins"
-    ],
-    "movies": [
-      {
-        "title": "The Night of the Iguana",
-        "tmdb_id": 14703,
-        "imdb_id": "tt0058404"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Edith Head"
-    ],
-    "movies": [
-      {
-        "title": "A House Is Not a Home",
-        "tmdb_id": 216661,
-        "imdb_id": "tt0058209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Norma Koch"
-    ],
-    "movies": [
-      {
-        "title": "Hush... Hush, Sweet Charlotte",
-        "tmdb_id": 10299,
-        "imdb_id": "tt0058213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Howard Shoup"
-    ],
-    "movies": [
-      {
-        "title": "Kisses for My President",
-        "tmdb_id": 212713,
-        "imdb_id": "tt0058266"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1964",
-    "nominees": [
-      "Rene Hubert"
-    ],
-    "movies": [
-      {
-        "title": "The Visit",
-        "tmdb_id": 151138,
-        "imdb_id": "tt0058724"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "Cecil Beaton"
-    ],
-    "movies": [
-      {
-        "title": "My Fair Lady",
-        "tmdb_id": 11113,
-        "imdb_id": "tt0058385"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "Margaret Furse"
-    ],
-    "movies": [
-      {
-        "title": "Becket",
-        "tmdb_id": 15421,
-        "imdb_id": "tt0057877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "Tony Walton"
-    ],
-    "movies": [
-      {
-        "title": "Mary Poppins",
-        "tmdb_id": 433,
-        "imdb_id": "tt0058331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "Morton Haack"
-    ],
-    "movies": [
-      {
-        "title": "The Unsinkable Molly Brown",
-        "tmdb_id": 42797,
-        "imdb_id": "tt0058708"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1964",
-    "nominees": [
-      "Edith Head",
-      "Moss Mabry"
-    ],
-    "movies": [
-      {
-        "title": "What a Way to Go!",
-        "tmdb_id": 23574,
-        "imdb_id": "tt0058743"
-      }
-    ],
-    "won": false
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Richard Burton",
+    "Nominees": "Richard Burton",
+    "NomineeIds": "nm0000009",
+    "Winner": "",
+    "Detail": "Thomas Becket",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Rex Harrison",
+    "Nominees": "Rex Harrison",
+    "NomineeIds": "nm0001322",
+    "Winner": "True",
+    "Detail": "Professor Henry Higgins",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Peter O'Toole",
+    "Nominees": "Peter O'Toole",
+    "NomineeIds": "nm0000564",
+    "Winner": "",
+    "Detail": "King Henry II",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Zorba the Greek",
+    "FilmId": "tt0057831",
+    "Name": "Anthony Quinn",
+    "Nominees": "Anthony Quinn",
+    "NomineeIds": "nm0000063",
+    "Winner": "",
+    "Detail": "Alexis Zorba",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "FilmId": "tt0057012",
+    "Name": "Peter Sellers",
+    "Nominees": "Peter Sellers",
+    "NomineeIds": "nm0000634",
+    "Winner": "",
+    "Detail": "Group Captain Lionel Mandrake/President Muffley/Dr. Strangelove",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "John Gielgud",
+    "Nominees": "John Gielgud",
+    "NomineeIds": "nm0000024",
+    "Winner": "",
+    "Detail": "King Louis VII of France",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Stanley Holloway",
+    "Nominees": "Stanley Holloway",
+    "NomineeIds": "nm0391361",
+    "Winner": "",
+    "Detail": "Alfred P. Doolittle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Seven Days in May",
+    "FilmId": "tt0058576",
+    "Name": "Edmond O'Brien",
+    "Nominees": "Edmond O'Brien",
+    "NomineeIds": "nm0639529",
+    "Winner": "",
+    "Detail": "Senator Raymond Clark",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Best Man",
+    "FilmId": "tt0057883",
+    "Name": "Lee Tracy",
+    "Nominees": "Lee Tracy",
+    "NomineeIds": "nm0870543",
+    "Winner": "",
+    "Detail": "Art Hockstader",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Topkapi",
+    "FilmId": "tt0058672",
+    "Name": "Peter Ustinov",
+    "Nominees": "Peter Ustinov",
+    "NomineeIds": "nm0001811",
+    "Winner": "True",
+    "Detail": "Arthur Simpson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Julie Andrews",
+    "Nominees": "Julie Andrews",
+    "NomineeIds": "nm0000267",
+    "Winner": "True",
+    "Detail": "Mary Poppins",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Pumpkin Eater",
+    "FilmId": "tt0058500",
+    "Name": "Anne Bancroft",
+    "Nominees": "Anne Bancroft",
+    "NomineeIds": "nm0000843",
+    "Winner": "",
+    "Detail": "Jo Armitage",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Marriage Italian Style",
+    "FilmId": "tt0058335",
+    "Name": "Sophia Loren",
+    "Nominees": "Sophia Loren",
+    "NomineeIds": "nm0000047",
+    "Winner": "",
+    "Detail": "Filomena Marturano",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Unsinkable Molly Brown",
+    "FilmId": "tt0058708",
+    "Name": "Debbie Reynolds",
+    "Nominees": "Debbie Reynolds",
+    "NomineeIds": "nm0001666",
+    "Winner": "",
+    "Detail": "Molly Brown",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Seance on a Wet Afternoon",
+    "FilmId": "tt0058557",
+    "Name": "Kim Stanley",
+    "Nominees": "Kim Stanley",
+    "NomineeIds": "nm0822535",
+    "Winner": "",
+    "Detail": "Myra Savage",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Gladys Cooper",
+    "Nominees": "Gladys Cooper",
+    "NomineeIds": "nm0178066",
+    "Winner": "",
+    "Detail": "Mrs. Higgins",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Chalk Garden",
+    "FilmId": "tt0057933",
+    "Name": "Dame Edith Evans",
+    "Nominees": "Dame Edith Evans",
+    "NomineeIds": "nm0262725",
+    "Winner": "",
+    "Detail": "Mrs. St. Maugham",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Night of the Iguana",
+    "FilmId": "tt0058404",
+    "Name": "Grayson Hall",
+    "Nominees": "Grayson Hall",
+    "NomineeIds": "nm0355621",
+    "Winner": "",
+    "Detail": "Judith Fellowes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Zorba the Greek",
+    "FilmId": "tt0057831",
+    "Name": "Lila Kedrova",
+    "Nominees": "Lila Kedrova",
+    "NomineeIds": "nm0444321",
+    "Winner": "True",
+    "Detail": "Madame Hortense",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Hush...Hush, Sweet Charlotte",
+    "FilmId": "tt0058213",
+    "Name": "Agnes Moorehead",
+    "Nominees": "Agnes Moorehead",
+    "NomineeIds": "nm0001547",
+    "Winner": "",
+    "Detail": "Velma Cruther",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Americanization of Emily",
+    "FilmId": "tt0057840",
+    "Name": "Art Direction: George W. Davis, Hans Peters, Elliot Scott; Set Decoration: Henry Grace, Robert R. Benton",
+    "Nominees": "George W. Davis|Hans Peters|Elliot Scott|Henry Grace|Robert R. Benton",
+    "NomineeIds": "nm0204649|nm0676462|nm0779089|nm0333352|nm0072960",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Hush...Hush, Sweet Charlotte",
+    "FilmId": "tt0058213",
+    "Name": "Art Direction: William Glasgow; Set Decoration: Raphael Bretton",
+    "Nominees": "William Glasgow|Raphael Bretton",
+    "NomineeIds": "nm0321881|nm0107987",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Night of the Iguana",
+    "FilmId": "tt0058404",
+    "Name": "Stephen Grimes",
+    "Nominees": "Stephen Grimes",
+    "NomineeIds": "nm0342242",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Seven Days in May",
+    "FilmId": "tt0058576",
+    "Name": "Art Direction: Cary Odell; Set Decoration: Edward G. Boyle",
+    "Nominees": "Cary Odell|Edward G. Boyle",
+    "NomineeIds": "nm0643970|nm0102231",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Zorba the Greek",
+    "FilmId": "tt0057831",
+    "Name": "Vassilis Fotopoulos",
+    "Nominees": "Vassilis Fotopoulos",
+    "NomineeIds": "nm0288193",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Art Direction: John Bryan, Maurice Carter; Set Decoration: Patrick McLoughlin, Robert Cartwright",
+    "Nominees": "John Bryan|Maurice Carter|Patrick McLoughlin|Robert Cartwright",
+    "NomineeIds": "nm0116961|nm0141806|nm0572947|nm0142204",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Art Direction: Carroll Clark, William H. Tuntke; Set Decoration: Emile Kuri, Hal Gausman",
+    "Nominees": "Carroll Clark|William H. Tuntke|Emile Kuri|Hal Gausman",
+    "NomineeIds": "nm0163754|nm0876700|nm0475689|nm0310198",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Art Direction: Gene Allen, Cecil Beaton; Set Decoration: George James Hopkins",
+    "Nominees": "Gene Allen|Cecil Beaton|George James Hopkins",
+    "NomineeIds": "nm0020537|nm0064100|nm0394166",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Unsinkable Molly Brown",
+    "FilmId": "tt0058708",
+    "Name": "Art Direction: George W. Davis, Preston Ames; Set Decoration: Henry Grace, Hugh Hunt",
+    "Nominees": "George W. Davis|Preston Ames|Henry Grace|Hugh Hunt",
+    "NomineeIds": "nm0204649|nm0024694|nm0333352|nm0402474",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "What a Way to Go!",
+    "FilmId": "tt0058743",
+    "Name": "Art Direction: Jack Martin Smith, Ted Haworth; Set Decoration: Walter M. Scott, Stuart A. Reiss",
+    "Nominees": "Jack Martin Smith|Ted Haworth|Walter M. Scott|Stuart A. Reiss",
+    "NomineeIds": "nm0005584|nm0370385|nm0779898|nm0718524",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Americanization of Emily",
+    "FilmId": "tt0057840",
+    "Name": "Philip H. Lathrop",
+    "Nominees": "Philip H. Lathrop",
+    "NomineeIds": "nm0005769",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Fate Is the Hunter",
+    "FilmId": "tt0058091",
+    "Name": "Milton Krasner",
+    "Nominees": "Milton Krasner",
+    "NomineeIds": "nm0005762",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Hush...Hush, Sweet Charlotte",
+    "FilmId": "tt0058213",
+    "Name": "Joseph Biroc",
+    "Nominees": "Joseph Biroc",
+    "NomineeIds": "nm0005657",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Night of the Iguana",
+    "FilmId": "tt0058404",
+    "Name": "Gabriel Figueroa",
+    "Nominees": "Gabriel Figueroa",
+    "NomineeIds": "nm0004195",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Zorba the Greek",
+    "FilmId": "tt0057831",
+    "Name": "Walter Lassally",
+    "Nominees": "Walter Lassally",
+    "NomineeIds": "nm0007178",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Geoffrey Unsworth",
+    "Nominees": "Geoffrey Unsworth",
+    "NomineeIds": "nm0005910",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Cheyenne Autumn",
+    "FilmId": "tt0057940",
+    "Name": "William H. Clothier",
+    "Nominees": "William H. Clothier",
+    "NomineeIds": "nm0005670",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Edward Colman",
+    "Nominees": "Edward Colman",
+    "NomineeIds": "nm0169344",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Harry Stradling",
+    "Nominees": "Harry Stradling",
+    "NomineeIds": "nm0005889",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Unsinkable Molly Brown",
+    "FilmId": "tt0058708",
+    "Name": "Daniel L. Fapp",
+    "Nominees": "Daniel L. Fapp",
+    "NomineeIds": "nm0005701",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "A House Is Not a Home",
+    "FilmId": "tt0058209",
+    "Name": "Edith Head",
+    "Nominees": "Edith Head",
+    "NomineeIds": "nm0372128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Hush...Hush, Sweet Charlotte",
+    "FilmId": "tt0058213",
+    "Name": "Norma Koch",
+    "Nominees": "Norma Koch",
+    "NomineeIds": "nm0462382",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Kisses for My President",
+    "FilmId": "tt0058266",
+    "Name": "Howard Shoup",
+    "Nominees": "Howard Shoup",
+    "NomineeIds": "nm0795251",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Night of the Iguana",
+    "FilmId": "tt0058404",
+    "Name": "Dorothy Jeakins",
+    "Nominees": "Dorothy Jeakins",
+    "NomineeIds": "nm0419820",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Visit",
+    "FilmId": "tt0058724",
+    "Name": "René Hubert",
+    "Nominees": "René Hubert",
+    "NomineeIds": "nm0399484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Margaret Furse",
+    "Nominees": "Margaret Furse",
+    "NomineeIds": "nm0299094",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Tony Walton",
+    "Nominees": "Tony Walton",
+    "NomineeIds": "nm0910589",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Cecil Beaton",
+    "Nominees": "Cecil Beaton",
+    "NomineeIds": "nm0064100",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Unsinkable Molly Brown",
+    "FilmId": "tt0058708",
+    "Name": "Morton Haack",
+    "Nominees": "Morton Haack",
+    "NomineeIds": "nm0351736",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "What a Way to Go!",
+    "FilmId": "tt0058743",
+    "Name": "Edith Head, Moss Mabry",
+    "Nominees": "Edith Head|Moss Mabry",
+    "NomineeIds": "nm0372128|nm0531117",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Peter Glenville",
+    "Nominees": "Peter Glenville",
+    "NomineeIds": "nm0322706",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "FilmId": "tt0057012",
+    "Name": "Stanley Kubrick",
+    "Nominees": "Stanley Kubrick",
+    "NomineeIds": "nm0000040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Robert Stevenson",
+    "Nominees": "Robert Stevenson",
+    "NomineeIds": "nm0829038",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "George Cukor",
+    "Nominees": "George Cukor",
+    "NomineeIds": "nm0002030",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Zorba the Greek",
+    "FilmId": "tt0057831",
+    "Name": "Michael Cacoyannis",
+    "Nominees": "Michael Cacoyannis",
+    "NomineeIds": "nm0128050",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Finest Hours",
+    "FilmId": "tt0058099",
+    "Name": "Jack Le Vien, Producer",
+    "Nominees": "Jack Le Vien",
+    "NomineeIds": "nm0505617",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Four Days in November",
+    "FilmId": "tt0059197",
+    "Name": "Mel Stuart, Producer",
+    "Nominees": "Mel Stuart",
+    "NomineeIds": "nm0835799",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Human Dutch",
+    "FilmId": "tt0056819",
+    "Name": "Bert Haanstra, Producer",
+    "Nominees": "Bert Haanstra",
+    "NomineeIds": "nm0351842",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Jacques-Yves Cousteau's World without Sun",
+    "FilmId": "tt0058364",
+    "Name": "Jacques-Yves Cousteau, Producer",
+    "Nominees": "Jacques-Yves Cousteau",
+    "NomineeIds": "nm0184150",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Over There, 1914-18",
+    "FilmId": "tt0056797",
+    "Name": "Jean Aurel, Producer",
+    "Nominees": "Jean Aurel",
+    "NomineeIds": "nm0042159",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Breaking the Habit",
+    "FilmId": "tt0057898",
+    "Name": "Henry Jacobs and John Korty, Producers",
+    "Nominees": "Henry Jacobs|John Korty",
+    "NomineeIds": "nm0414430|nm0466793",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Children Without",
+    "FilmId": "tt0057945",
+    "Name": "Charles Guggenheim, Producer",
+    "Nominees": "Charles Guggenheim",
+    "NomineeIds": "nm0346549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Kenojuak",
+    "FilmId": "tt0058260",
+    "Name": "National Film Board of Canada",
+    "Nominees": "National Film Board of Canada",
+    "NomineeIds": "co0006414",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Nine from Little Rock",
+    "FilmId": "tt0058410",
+    "Name": "Charles Guggenheim, Producer",
+    "Nominees": "Charles Guggenheim",
+    "NomineeIds": "nm0346549",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "140 Days under the World",
+    "FilmId": "tt0057806",
+    "Name": "Geoffrey Scott and Oxley Hughan, Producers",
+    "Nominees": "Geoffrey Scott|Oxley Hughan",
+    "NomineeIds": "nm0779180|nm0400419",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Anne Coates",
+    "Nominees": "Anne Coates",
+    "NomineeIds": "nm0167613",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Father Goose",
+    "FilmId": "tt0058092",
+    "Name": "Ted J. Kent",
+    "Nominees": "Ted J. Kent",
+    "NomineeIds": "nm0448867",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Hush...Hush, Sweet Charlotte",
+    "FilmId": "tt0058213",
+    "Name": "Michael Luciano",
+    "Nominees": "Michael Luciano",
+    "NomineeIds": "nm0524597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Cotton Warburton",
+    "Nominees": "Cotton Warburton",
+    "NomineeIds": "nm0911307",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "William Ziegler",
+    "Nominees": "William Ziegler",
+    "NomineeIds": "nm0956155",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Raven's End",
+    "FilmId": "tt0057237",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Sallah",
+    "FilmId": "tt0058541",
+    "Name": "Israel",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Umbrellas of Cherbourg",
+    "FilmId": "tt0058450",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Woman in the Dunes",
+    "FilmId": "tt0058625",
+    "Name": "Japan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Yesterday, Today and Tomorrow",
+    "FilmId": "tt0057171",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Laurence Rosenthal",
+    "Nominees": "Laurence Rosenthal",
+    "NomineeIds": "nm0002304",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "The Fall of the Roman Empire",
+    "FilmId": "tt0058085",
+    "Name": "Dimitri Tiomkin",
+    "Nominees": "Dimitri Tiomkin",
+    "NomineeIds": "nm0006323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "Hush...Hush, Sweet Charlotte",
+    "FilmId": "tt0058213",
+    "Name": "Frank DeVol",
+    "Nominees": "Frank DeVol",
+    "NomineeIds": "nm0006030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Richard M. Sherman, Robert B. Sherman",
+    "Nominees": "Richard M. Sherman|Robert B. Sherman",
+    "NomineeIds": "nm0792556|nm0792567",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "The Pink Panther",
+    "FilmId": "tt0057413",
+    "Name": "Henry Mancini",
+    "Nominees": "Henry Mancini",
+    "NomineeIds": "nm0000049",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "A Hard Day's Night",
+    "FilmId": "tt0058182",
+    "Name": "George Martin",
+    "Nominees": "George Martin",
+    "NomineeIds": "nm0552326",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Irwin Kostal",
+    "Nominees": "Irwin Kostal",
+    "NomineeIds": "nm0467348",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Andre Previn",
+    "Nominees": "Andre Previn",
+    "NomineeIds": "nm0006238",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Robin and the 7 Hoods",
+    "FilmId": "tt0058529",
+    "Name": "Nelson Riddle",
+    "Nominees": "Nelson Riddle",
+    "NomineeIds": "nm0725765",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "The Unsinkable Molly Brown",
+    "FilmId": "tt0058708",
+    "Name": "Robert Armbruster, Leo Arnaud, Jack Elliott, Jack Hayes, Calvin Jackson, Leo Shuken",
+    "Nominees": "Robert Armbruster|Leo Arnaud|Jack Elliott|Jack Hayes|Calvin Jackson|Leo Shuken",
+    "NomineeIds": "nm0035372|nm0036069|nm0254477|nm0369948|nm0413330|nm0795640",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Music and Lyrics by Richard M. Sherman and Robert B. Sherman",
+    "Nominees": "Richard M. Sherman|Robert B. Sherman",
+    "NomineeIds": "nm0792556|nm0792567",
+    "Winner": "True",
+    "Detail": "Chim Chim Cher-ee",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Dear Heart",
+    "FilmId": "tt0057999",
+    "Name": "Music by Henry Mancini; Lyrics by Jay Livingston and Ray Evans",
+    "Nominees": "Henry Mancini|Jay Livingston|Ray Evans",
+    "NomineeIds": "nm0000049|nm0515254|nm0263143",
+    "Winner": "",
+    "Detail": "Dear Heart",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Hush...Hush, Sweet Charlotte",
+    "FilmId": "tt0058213",
+    "Name": "Music by Frank DeVol; Lyrics by Mack David",
+    "Nominees": "Frank DeVol|Mack David",
+    "NomineeIds": "nm0006030|nm0202988",
+    "Winner": "",
+    "Detail": "Hush...Hush, Sweet Charlotte",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Robin and the 7 Hoods",
+    "FilmId": "tt0058529",
+    "Name": "Music by James Van Heusen; Lyrics by Sammy Cahn",
+    "Nominees": "James Van Heusen|Sammy Cahn",
+    "NomineeIds": "nm0006329|nm0005991",
+    "Winner": "",
+    "Detail": "My Kind Of Town",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Where Love Has Gone",
+    "FilmId": "tt0058745",
+    "Name": "Music by James Van Heusen; Lyrics by Sammy Cahn",
+    "Nominees": "James Van Heusen|Sammy Cahn",
+    "NomineeIds": "nm0006329|nm0005991",
+    "Winner": "",
+    "Detail": "Where Love Has Gone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Hal B. Wallis, Producer",
+    "Nominees": "Hal B. Wallis",
+    "NomineeIds": "nm0909259",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "FilmId": "tt0057012",
+    "Name": "Stanley Kubrick, Producer",
+    "Nominees": "Stanley Kubrick",
+    "NomineeIds": "nm0000040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Walt Disney and Bill Walsh, Producers",
+    "Nominees": "Walt Disney|Bill Walsh",
+    "NomineeIds": "nm0000370|nm0909556",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Jack L. Warner, Producer",
+    "Nominees": "Jack L. Warner",
+    "NomineeIds": "nm0912491",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Zorba the Greek",
+    "FilmId": "tt0057831",
+    "Name": "Michael Cacoyannis, Producer",
+    "Nominees": "Michael Cacoyannis",
+    "NomineeIds": "nm0128050",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Christmas Cracker",
+    "FilmId": "tt0055849",
+    "Name": "National Film Board of Canada",
+    "Nominees": "National Film Board of Canada",
+    "NomineeIds": "co0006414",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "How to Avoid Friendship",
+    "FilmId": "tt0058211",
+    "Name": "William L. Snyder, Producer",
+    "Nominees": "William L. Snyder",
+    "NomineeIds": "nm0811581",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Nudnik #2",
+    "FilmId": "tt0058416",
+    "Name": "William L. Snyder, Producer",
+    "Nominees": "William L. Snyder",
+    "NomineeIds": "nm0811581",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Pink Phink",
+    "FilmId": "tt0058472",
+    "Name": "David H. DePatie and Friz Freleng, Producers",
+    "Nominees": "David H. DePatie|Friz Freleng",
+    "NomineeIds": "nm0220039|nm0293989",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Casals Conducts: 1964",
+    "FilmId": "tt0057922",
+    "Name": "Edward Schreiber, Producer",
+    "Nominees": "Edward Schreiber",
+    "NomineeIds": "nm0775233",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Help! My Snowman's Burning Down",
+    "FilmId": "tt0058189",
+    "Name": "Carson Davidson, Producer",
+    "Nominees": "Carson Davidson",
+    "NomineeIds": "nm0203262",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "The Legend of Jimmy Blue Eyes",
+    "FilmId": "tt0058288",
+    "Name": "Robert Clouse, Producer",
+    "Nominees": "Robert Clouse",
+    "NomineeIds": "nm0167195",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Shepperton Studio Sound Department, John Cox, Sound Director",
+    "Nominees": "Shepperton|John Cox",
+    "NomineeIds": "co0103344|nm0185090",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Father Goose",
+    "FilmId": "tt0058092",
+    "Name": "Universal City Studio Sound Department, Waldon O. Watson, Sound Director",
+    "Nominees": "Universal City|Waldon O. Watson",
+    "NomineeIds": "co0005073|nm0910592",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",
+    "Nominees": "Walt Disney Studios|Robert O. Cook",
+    "NomineeIds": "co0008970|nm0177256",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Warner Bros. Studio Sound Department, George R. Groves, Sound Director",
+    "Nominees": "Warner Bros.|George R. Groves",
+    "NomineeIds": "co0080422|nm0344060",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Unsinkable Molly Brown",
+    "FilmId": "tt0058708",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Franklin E. Milton",
+    "NomineeIds": "co0007143|nm0590665",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS",
+    "Film": "Goldfinger",
+    "FilmId": "tt0058150",
+    "Name": "Norman Wanstall",
+    "Nominees": "Norman Wanstall",
+    "NomineeIds": "nm0911232",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS",
+    "Film": "The Lively Set",
+    "FilmId": "tt0058296",
+    "Name": "Robert L. Bratton",
+    "Nominees": "Robert L. Bratton",
+    "NomineeIds": "nm0105600",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Peter Ellenshaw, Eustace Lycett, Hamilton Luske",
+    "Nominees": "Peter Ellenshaw|Eustace Lycett|Hamilton Luske",
+    "NomineeIds": "nm0254002|nm0527941|nm0527217",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "7 Faces of Dr. Lao",
+    "FilmId": "tt0057812",
+    "Name": "Jim Danforth",
+    "Nominees": "Jim Danforth",
+    "NomineeIds": "nm0199453",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Becket",
+    "FilmId": "tt0057877",
+    "Name": "Edward Anhalt",
+    "Nominees": "Edward Anhalt",
+    "NomineeIds": "nm0030019",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "FilmId": "tt0057012",
+    "Name": "Stanley Kubrick, Peter George, Terry Southern",
+    "Nominees": "Stanley Kubrick|Peter George|Terry Southern",
+    "NomineeIds": "nm0000040|nm0313570|nm0816143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Mary Poppins",
+    "FilmId": "tt0058331",
+    "Name": "Bill Walsh, Don DaGradi",
+    "Nominees": "Bill Walsh|Don DaGradi",
+    "NomineeIds": "nm0909556|nm0196119",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "My Fair Lady",
+    "FilmId": "tt0058385",
+    "Name": "Alan Jay Lerner",
+    "Nominees": "Alan Jay Lerner",
+    "NomineeIds": "nm0503585",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Zorba the Greek",
+    "FilmId": "tt0057831",
+    "Name": "Michael Cacoyannis",
+    "Nominees": "Michael Cacoyannis",
+    "NomineeIds": "nm0128050",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Father Goose",
+    "FilmId": "tt0058092",
+    "Name": "Story by S. H. Barnett; Screenplay by Peter Stone, Frank Tarloff",
+    "Nominees": "S. H. Barnett|Peter Stone|Frank Tarloff",
+    "NomineeIds": "nm0055975|nm0832099|nm0850514",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "A Hard Day's Night",
+    "FilmId": "tt0058182",
+    "Name": "Alun Owen",
+    "Nominees": "Alun Owen",
+    "NomineeIds": "nm0654079",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "One Potato, Two Potato",
+    "FilmId": "tt0058429",
+    "Name": "Story by Orville H. Hampton; Screenplay by Raphael Hayes, Orville H. Hampton",
+    "Nominees": "Orville H. Hampton|Raphael Hayes",
+    "NomineeIds": "nm0359034|nm0371193",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "The Organizer",
+    "FilmId": "tt0056945",
+    "Name": "Age, Scarpelli, Mario Monicelli",
+    "Nominees": "Age|Scarpelli|Mario Monicelli",
+    "NomineeIds": "nm0408488|nm0769249|nm0598102",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "That Man from Rio",
+    "FilmId": "tt0058203",
+    "Name": "Jean-Paul Rappeneau, Ariane Mnouchkine, Daniel Boulanger, Philippe De Broca",
+    "Nominees": "Jean-Paul Rappeneau|Ariane Mnouchkine|Daniel Boulanger|Philippe De Broca",
+    "NomineeIds": "nm0710919|nm0594892|nm0099429|nm0003606",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "7 Faces of Dr. Lao.",
+    "FilmId": "tt0057812",
+    "Name": "",
+    "Nominees": "William Tuttle",
+    "NomineeIds": "nm0878369",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To William Tuttle for his outstanding make-up achievement for 7 Faces of Dr. Lao."
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Petro Vlahos|Wadsworth E. Pohl|Ub Iwerks",
+    "NomineeIds": "nm1468620|?|nm0412650",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To PETRO VLAHOS, WADSWORTH E. POHL and UB IWERKS for the conception and perfection of techniques for Color Traveling Matte Composite Cinematography."
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Sidney P. Solow|EDWARD H. REICHARD|CARL W. HAUGE|JOB SANDERSON",
+    "NomineeIds": "nm0813558|?|?|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To SIDNEY P. SOLOW, EDWARD H. REICHARD, CARL W. HAUGE and JOB SANDERSON of Consolidated Film Industries for the design and development of a versatile Automatic 35mm Composite Color Printer."
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Pierre Angenieux",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To PIERRE ANGENIEUX for the development of a ten-to-one Zoom Lens for cinematography."
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Milton Forman|RICHARD B. GLICKMAN|DANIEL J. PEARLMAN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To MILTON FORMAN, RICHARD B. GLICKMAN and DANIEL J. PEARLMAN of ColorTran Industries for advancements in the design and application to motion picture photography of lighting units using quartz iodine lamps."
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Stewart Filmscreen Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To STEWART FILMSCREEN CORPORATION for a seamless translucent Blue Screen for Traveling Matte Color Cinematography."
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Anthony Paglia|20Th Century-Fox Studio",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To ANTHONY PAGLIA and the 20TH CENTURY-FOX STUDIO MECHANICAL EFFECTS DEPARTMENT for an improved method of producing Explosion Flash Effects for motion pictures."
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "EDWARD H. REICHARD|CARL W. HAUGE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To EDWARD H. REICHARD and CARL W. HAUGE of Consolidated Film Industries for the design of a Proximity Cue Detector and its application to motion picture printers."
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Edward H. Reichard|LEONARD L. SOKOLOW|CARL W. HAUGE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To EDWARD H. REICHARD, LEONARD L. SOKOLOW and CARL W. HAUGE of Consolidated Film Industries for the design and application to motion picture laboratory practice of a Stroboscopic Scene Tester for color and black-and-white film."
+  },
+  {
+    "Ceremony": 37,
+    "Year": 1964,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nelson Tyler",
+    "NomineeIds": "nm0878874",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To NELSON TYLER for the design and construction of an improved Helicopter Camera System."
   }
 ]

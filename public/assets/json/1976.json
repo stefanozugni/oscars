@@ -1,1578 +1,1778 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1976",
-    "nominees": [
-      "Rocky"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1976",
-    "nominees": [
-      "All the President's Men"
-    ],
-    "movies": [
-      {
-        "title": "All the President's Men",
-        "tmdb_id": 891,
-        "imdb_id": "tt0074119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1976",
-    "nominees": [
-      "Bound for Glory"
-    ],
-    "movies": [
-      {
-        "title": "Bound for Glory",
-        "tmdb_id": 42232,
-        "imdb_id": "tt0074235"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1976",
-    "nominees": [
-      "Network"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1976",
-    "nominees": [
-      "Taxi Driver"
-    ],
-    "movies": [
-      {
-        "title": "Taxi Driver",
-        "tmdb_id": 103,
-        "imdb_id": "tt0075314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1976",
-    "nominees": [
-      "Peter Finch"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1976",
-    "nominees": [
-      "Robert De Niro"
-    ],
-    "movies": [
-      {
-        "title": "Taxi Driver",
-        "tmdb_id": 103,
-        "imdb_id": "tt0075314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1976",
-    "nominees": [
-      "Giancarlo Giannini"
-    ],
-    "movies": [
-      {
-        "title": "Seven Beauties",
-        "tmdb_id": 37550,
-        "imdb_id": "tt0075040"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1976",
-    "nominees": [
-      "William Holden"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1976",
-    "nominees": [
-      "Sylvester Stallone"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1976",
-    "nominees": [
-      "Faye Dunaway"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1976",
-    "nominees": [
-      "Marie-Christine Barrault"
-    ],
-    "movies": [
-      {
-        "title": "Cousin, Cousine",
-        "tmdb_id": 5618,
-        "imdb_id": "tt0072826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1976",
-    "nominees": [
-      "Talia Shire"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1976",
-    "nominees": [
-      "Sissy Spacek"
-    ],
-    "movies": [
-      {
-        "title": "Carrie",
-        "tmdb_id": 7340,
-        "imdb_id": "tt0074285"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1976",
-    "nominees": [
-      "Liv Ullmann"
-    ],
-    "movies": [
-      {
-        "title": "Face to Face",
-        "tmdb_id": 29454,
-        "imdb_id": "tt0074147"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1976",
-    "nominees": [
-      "Jason Robards"
-    ],
-    "movies": [
-      {
-        "title": "All the President's Men",
-        "tmdb_id": 891,
-        "imdb_id": "tt0074119"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1976",
-    "nominees": [
-      "Ned Beatty"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1976",
-    "nominees": [
-      "Burgess Meredith"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1976",
-    "nominees": [
-      "Laurence Olivier"
-    ],
-    "movies": [
-      {
-        "title": "Marathon Man",
-        "tmdb_id": 10518,
-        "imdb_id": "tt0074860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1976",
-    "nominees": [
-      "Burt Young"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1976",
-    "nominees": [
-      "Beatrice Straight"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1976",
-    "nominees": [
-      "Jane Alexander"
-    ],
-    "movies": [
-      {
-        "title": "All the President's Men",
-        "tmdb_id": 891,
-        "imdb_id": "tt0074119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1976",
-    "nominees": [
-      "Jodie Foster"
-    ],
-    "movies": [
-      {
-        "title": "Taxi Driver",
-        "tmdb_id": 103,
-        "imdb_id": "tt0075314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1976",
-    "nominees": [
-      "Lee Grant"
-    ],
-    "movies": [
-      {
-        "title": "Voyage of the Damned",
-        "tmdb_id": 75641,
-        "imdb_id": "tt0075406"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1976",
-    "nominees": [
-      "Piper Laurie"
-    ],
-    "movies": [
-      {
-        "title": "Carrie",
-        "tmdb_id": 7340,
-        "imdb_id": "tt0074285"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1976",
-    "nominees": [
-      "John G. Avildsen"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1976",
-    "nominees": [
-      "Ingmar Bergman"
-    ],
-    "movies": [
-      {
-        "title": "Face to Face",
-        "tmdb_id": 29454,
-        "imdb_id": "tt0074147"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1976",
-    "nominees": [
-      "Sidney Lumet"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1976",
-    "nominees": [
-      "Alan J. Pakula"
-    ],
-    "movies": [
-      {
-        "title": "All the President's Men",
-        "tmdb_id": 891,
-        "imdb_id": "tt0074119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1976",
-    "nominees": [
-      "Lina Wertmuller"
-    ],
-    "movies": [
-      {
-        "title": "Seven Beauties",
-        "tmdb_id": 37550,
-        "imdb_id": "tt0075040"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1976",
-    "nominees": [
-      "William Goldman"
-    ],
-    "movies": [
-      {
-        "title": "All the President's Men",
-        "tmdb_id": 891,
-        "imdb_id": "tt0074119"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1976",
-    "nominees": [
-      "Robert Getchell"
-    ],
-    "movies": [
-      {
-        "title": "Bound for Glory",
-        "tmdb_id": 42232,
-        "imdb_id": "tt0074235"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1976",
-    "nominees": [
-      "Federico Fellini",
-      "Bernardino Zapponi"
-    ],
-    "movies": [
-      {
-        "title": "Fellini's Casanova",
-        "tmdb_id": 42236,
-        "imdb_id": "tt0074291"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1976",
-    "nominees": [
-      "Nicholas Meyer"
-    ],
-    "movies": [
-      {
-        "title": "The Seven-Per-Cent Solution",
-        "tmdb_id": 29578,
-        "imdb_id": "tt0075194"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1976",
-    "nominees": [
-      "David Butler",
-      "Steve Shagan"
-    ],
-    "movies": [
-      {
-        "title": "Voyage of the Damned",
-        "tmdb_id": 75641,
-        "imdb_id": "tt0075406"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1976",
-    "nominees": [
-      "Paddy Chayefsky"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1976",
-    "nominees": [
-      "Jean-Charles Tacchella",
-      "Daniele Thompson"
-    ],
-    "movies": [
-      {
-        "title": "Cousin, Cousine",
-        "tmdb_id": 5618,
-        "imdb_id": "tt0072826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1976",
-    "nominees": [
-      "Walter Bernstein"
-    ],
-    "movies": [
-      {
-        "title": "The Front",
-        "tmdb_id": 1723,
-        "imdb_id": "tt0074554"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1976",
-    "nominees": [
-      "Sylvester Stallone"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1976",
-    "nominees": [
-      "Lina Wertmuller"
-    ],
-    "movies": [
-      {
-        "title": "Seven Beauties",
-        "tmdb_id": 37550,
-        "imdb_id": "tt0075040"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1976",
-    "nominees": [
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "The Omen",
-        "tmdb_id": 794,
-        "imdb_id": "tt0075005"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1976",
-    "nominees": [
-      "Bernard Herrmann"
-    ],
-    "movies": [
-      {
-        "title": "Obsession",
-        "tmdb_id": 4780,
-        "imdb_id": "tt0074991"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1976",
-    "nominees": [
-      "Jerry Fielding"
-    ],
-    "movies": [
-      {
-        "title": "The Outlaw Josey Wales",
-        "tmdb_id": 10747,
-        "imdb_id": "tt0075029"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1976",
-    "nominees": [
-      "Bernard Herrmann"
-    ],
-    "movies": [
-      {
-        "title": "Taxi Driver",
-        "tmdb_id": 103,
-        "imdb_id": "tt0075314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1976",
-    "nominees": [
-      "Lalo Schifrin"
-    ],
-    "movies": [
-      {
-        "title": "Voyage of the Damned",
-        "tmdb_id": 75641,
-        "imdb_id": "tt0075406"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1976",
-    "nominees": [
-      "Leonard Rosenman"
-    ],
-    "movies": [
-      {
-        "title": "Bound for Glory",
-        "tmdb_id": 42232,
-        "imdb_id": "tt0074235"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1976",
-    "nominees": [
-      "Paul Williams"
-    ],
-    "movies": [
-      {
-        "title": "Bugsy Malone",
-        "tmdb_id": 8446,
-        "imdb_id": "tt0074256"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1976",
-    "nominees": [
-      "Roger Kellaway"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 19610,
-        "imdb_id": "tt0075265"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1976",
-    "nominees": [
-      "Evergreen"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 19610,
-        "imdb_id": "tt0075265"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1976",
-    "nominees": [
-      "A World That Never Was"
-    ],
-    "movies": [
-      {
-        "title": "Half a House",
-        "tmdb_id": 216458,
-        "imdb_id": "tt0074601"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1976",
-    "nominees": [
-      "Ave Satani"
-    ],
-    "movies": [
-      {
-        "title": "The Omen",
-        "tmdb_id": 794,
-        "imdb_id": "tt0075005"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1976",
-    "nominees": [
-      "Come to Me"
-    ],
-    "movies": [
-      {
-        "title": "The Pink Panther Strikes Again",
-        "tmdb_id": 12268,
-        "imdb_id": "tt0075066"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1976",
-    "nominees": [
-      "Gonna Fly Now"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1976",
-    "nominees": [
-      "Black and White in Color"
-    ],
-    "movies": [
-      {
-        "title": "Black and White in Color",
-        "tmdb_id": 42238,
-        "imdb_id": "tt0074972"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1976",
-    "nominees": [
-      "Cousin, Cousine"
-    ],
-    "movies": [
-      {
-        "title": "Cousin, Cousine",
-        "tmdb_id": 5618,
-        "imdb_id": "tt0072826"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1976",
-    "nominees": [
-      "Jacob the Liar"
-    ],
-    "movies": [
-      {
-        "title": "Jacob the Liar",
-        "tmdb_id": 2200,
-        "imdb_id": "tt0071688"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1976",
-    "nominees": [
-      "Nights and Days"
-    ],
-    "movies": [
-      {
-        "title": "Nights and Days",
-        "tmdb_id": 110369,
-        "imdb_id": "tt0073460"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1976",
-    "nominees": [
-      "Seven Beauties"
-    ],
-    "movies": [
-      {
-        "title": "Seven Beauties",
-        "tmdb_id": 37550,
-        "imdb_id": "tt0075040"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1976",
-    "nominees": [
-      "Harlan County U.S.A."
-    ],
-    "movies": [
-      {
-        "title": "Harlan County U.S.A.",
-        "tmdb_id": 33324,
-        "imdb_id": "tt0074605"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1976",
-    "nominees": [
-      "Hollywood on Trial"
-    ],
-    "movies": [
-      {
-        "title": "Hollywood on Trial",
-        "tmdb_id": 136716,
-        "imdb_id": "tt0074635"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1976",
-    "nominees": [
-      "Off the Edge"
-    ],
-    "movies": [
-      {
-        "title": "Off the Edge",
-        "tmdb_id": 149344,
-        "imdb_id": "tt0074997"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1976",
-    "nominees": [
-      "People of the Wind"
-    ],
-    "movies": [
-      {
-        "title": "People of the Wind",
-        "tmdb_id": 149347,
-        "imdb_id": "tt0075052"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1976",
-    "nominees": [
-      "Volcano: An Inquiry into the Life and Death of Malcolm Lowry"
-    ],
-    "movies": [
-      {
-        "title": "Volcano: An Inquiry into the Life and Death of Malcolm Lowry",
-        "tmdb_id": 149348,
-        "imdb_id": "tt0070889"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1976",
-    "nominees": [
-      "Number Our Days"
-    ],
-    "movies": [
-      {
-        "title": "Number Our Days",
-        "tmdb_id": 243586,
-        "imdb_id": "tt0074987"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1976",
-    "nominees": [
-      "American Shoeshine"
-    ],
-    "movies": [
-      {
-        "title": "American Shoeshine",
-        "tmdb_id": 243587,
-        "imdb_id": "tt0074134"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1976",
-    "nominees": [
-      "Blackwood"
-    ],
-    "movies": [
-      {
-        "title": "Blackwood",
-        "tmdb_id": 243589,
-        "imdb_id": "tt0074215"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1976",
-    "nominees": [
-      "The End of the Road"
-    ],
-    "movies": [
-      {
-        "title": "The End of the Road",
-        "tmdb_id": 243591,
-        "imdb_id": "tt0074482"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1976",
-    "nominees": [
-      "Universe"
-    ],
-    "movies": [
-      {
-        "title": "Universe",
-        "tmdb_id": 243593,
-        "imdb_id": "tt0075373"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1976",
-    "nominees": [
-      "Leisure"
-    ],
-    "movies": [
-      {
-        "title": "Leisure",
-        "tmdb_id": 207437,
-        "imdb_id": "tt0074787"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1976",
-    "nominees": [
-      "Labyrinth"
-    ],
-    "movies": [
-      {
-        "title": "Labyrinth",
-        "tmdb_id": 243418,
-        "imdb_id": "tt0074386"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1976",
-    "nominees": [
-      "The Street"
-    ],
-    "movies": [
-      {
-        "title": "The Street",
-        "tmdb_id": 95380,
-        "imdb_id": "tt0075273"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1976",
-    "nominees": [
-      "In the Region of Ice"
-    ],
-    "movies": [
-      {
-        "title": "In the Region of Ice",
-        "tmdb_id": 243579,
-        "imdb_id": "tt0074675"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1976",
-    "nominees": [
-      "Kudzu"
-    ],
-    "movies": [
-      {
-        "title": "Kudzu",
-        "tmdb_id": 243580,
-        "imdb_id": "tt0074765"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1976",
-    "nominees": [
-      "The Morning Spider"
-    ],
-    "movies": [
-      {
-        "title": "The Morning Spider",
-        "tmdb_id": 243581,
-        "imdb_id": "tt0074919"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1976",
-    "nominees": [
-      "Nightlife"
-    ],
-    "movies": [
-      {
-        "title": "Nightlife",
-        "tmdb_id": 243583,
-        "imdb_id": "tt0074966"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1976",
-    "nominees": [
-      "Number One"
-    ],
-    "movies": [
-      {
-        "title": "Number One",
-        "tmdb_id": 243585,
-        "imdb_id": "tt0074986"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "George Jenkins",
-      "George Gaines"
-    ],
-    "movies": [
-      {
-        "title": "All the President's Men",
-        "tmdb_id": 891,
-        "imdb_id": "tt0074119"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "Elliot Scott",
-      "Norman Reynolds"
-    ],
-    "movies": [
-      {
-        "title": "The Incredible Sarah",
-        "tmdb_id": 147362,
-        "imdb_id": "tt0074678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "Gene Callahan",
-      "Jack Collis",
-      "Jerry Wunderlich"
-    ],
-    "movies": [
-      {
-        "title": "The Last Tycoon",
-        "tmdb_id": 37774,
-        "imdb_id": "tt0074777"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "Dale Hennesy",
-      "Robert De Vestel"
-    ],
-    "movies": [
-      {
-        "title": "Logan's Run",
-        "tmdb_id": 10803,
-        "imdb_id": "tt0074812"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "Robert F. Boyle",
-      "Arthur Jeph"
-    ],
-    "movies": [
-      {
-        "title": "The Shootist",
-        "tmdb_id": 12584,
-        "imdb_id": "tt0075213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1976",
-    "nominees": [
-      "Haskell Wexler"
-    ],
-    "movies": [
-      {
-        "title": "Bound for Glory",
-        "tmdb_id": 42232,
-        "imdb_id": "tt0074235"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1976",
-    "nominees": [
-      "Richard H. Kline"
-    ],
-    "movies": [
-      {
-        "title": "King Kong",
-        "tmdb_id": 10730,
-        "imdb_id": "tt0074751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1976",
-    "nominees": [
-      "Ernest Laszlo"
-    ],
-    "movies": [
-      {
-        "title": "Logan's Run",
-        "tmdb_id": 10803,
-        "imdb_id": "tt0074812"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1976",
-    "nominees": [
-      "Owen Roizman"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1976",
-    "nominees": [
-      "Robert L. Surtees"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 19610,
-        "imdb_id": "tt0075265"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1976",
-    "nominees": [
-      "Richard Halsey",
-      "Scott Conrad"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1976",
-    "nominees": [
-      "Robert L. Wolfe"
-    ],
-    "movies": [
-      {
-        "title": "All the President's Men",
-        "tmdb_id": 891,
-        "imdb_id": "tt0074119"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1976",
-    "nominees": [
-      "Robert C. Jones",
-      "Pembroke J. Herring"
-    ],
-    "movies": [
-      {
-        "title": "Bound for Glory",
-        "tmdb_id": 42232,
-        "imdb_id": "tt0074235"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1976",
-    "nominees": [
-      "Eve Newman",
-      "Walter Hannemann"
-    ],
-    "movies": [
-      {
-        "title": "Two-Minute Warning",
-        "tmdb_id": 6883,
-        "imdb_id": "tt0075359"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1976",
-    "nominees": [
-      "Alan Heim"
-    ],
-    "movies": [
-      {
-        "title": "Network",
-        "tmdb_id": 10774,
-        "imdb_id": "tt0074958"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1976",
-    "nominees": [
-      "Carlo Rambaldi",
-      "Glen Robinson",
-      "Frank Van der Veer"
-    ],
-    "movies": [
-      {
-        "title": "King Kong",
-        "tmdb_id": 10730,
-        "imdb_id": "tt0074751"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1976",
-    "nominees": [
-      "L. B. Abbott",
-      "Glen Robinson",
-      "Matthew Yuricich"
-    ],
-    "movies": [
-      {
-        "title": "Logan's Run",
-        "tmdb_id": 10803,
-        "imdb_id": "tt0074812"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1976",
-    "nominees": [
-      "Arthur Piantadosi",
-      "Les Fresholtz",
-      "Dick Alexander",
-      "Jim Webb"
-    ],
-    "movies": [
-      {
-        "title": "All the President's Men",
-        "tmdb_id": 891,
-        "imdb_id": "tt0074119"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1976",
-    "nominees": [
-      "Harry W. Tetrick",
-      "William McCaughey",
-      "Aaron Rochin",
-      "Jack Solomon"
-    ],
-    "movies": [
-      {
-        "title": "King Kong",
-        "tmdb_id": 10730,
-        "imdb_id": "tt0074751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1976",
-    "nominees": [
-      "Harry W. Tetrick",
-      "William McCaughey",
-      "Lyle J. Burbridge",
-      "Bud Alper"
-    ],
-    "movies": [
-      {
-        "title": "Rocky",
-        "tmdb_id": 1366,
-        "imdb_id": "tt0075148"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1976",
-    "nominees": [
-      "Donald O. Mitchell",
-      "Douglas O. Williams",
-      "Richard Tyler",
-      "Harold M. Etherington"
-    ],
-    "movies": [
-      {
-        "title": "Silver Streak",
-        "tmdb_id": 11558,
-        "imdb_id": "tt0075223"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1976",
-    "nominees": [
-      "Robert Knudson",
-      "Dan Wallin",
-      "Robert Glass",
-      "Tom Overton"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 19610,
-        "imdb_id": "tt0075265"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "Danilo Donati"
-    ],
-    "movies": [
-      {
-        "title": "Fellini's Casanova",
-        "tmdb_id": 42236,
-        "imdb_id": "tt0074291"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "William Ware Theiss"
-    ],
-    "movies": [
-      {
-        "title": "Bound for Glory",
-        "tmdb_id": 42232,
-        "imdb_id": "tt0074235"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "Anthony Mendleson"
-    ],
-    "movies": [
-      {
-        "title": "The Incredible Sarah",
-        "tmdb_id": 147362,
-        "imdb_id": "tt0074678"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "Mary Wills"
-    ],
-    "movies": [
-      {
-        "title": "The Passover Plot",
-        "tmdb_id": 152256,
-        "imdb_id": "tt0075043"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1976",
-    "nominees": [
-      "Alan Barrett"
-    ],
-    "movies": [
-      {
-        "title": "The Seven-Per-Cent Solution",
-        "tmdb_id": 29578,
-        "imdb_id": "tt0075194"
-      }
-    ],
-    "won": false
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Taxi Driver",
+    "FilmId": "tt0075314",
+    "Name": "Robert De Niro",
+    "Nominees": "Robert De Niro",
+    "NomineeIds": "nm0000134",
+    "Winner": "",
+    "Detail": "Travis Bickle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "Peter Finch",
+    "Nominees": "Peter Finch",
+    "NomineeIds": "nm0002075",
+    "Winner": "True",
+    "Detail": "Howard Beale",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Seven Beauties",
+    "FilmId": "tt0075040",
+    "Name": "Giancarlo Giannini",
+    "Nominees": "Giancarlo Giannini",
+    "NomineeIds": "nm0316284",
+    "Winner": "",
+    "Detail": "Pasqualino Frafuso",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "William Holden",
+    "Nominees": "William Holden",
+    "NomineeIds": "nm0000034",
+    "Winner": "",
+    "Detail": "Max Schumacher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "Sylvester Stallone",
+    "Nominees": "Sylvester Stallone",
+    "NomineeIds": "nm0000230",
+    "Winner": "",
+    "Detail": "Rocky Balboa",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "Ned Beatty",
+    "Nominees": "Ned Beatty",
+    "NomineeIds": "nm0000885",
+    "Winner": "",
+    "Detail": "Arthur Jensen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "Burgess Meredith",
+    "Nominees": "Burgess Meredith",
+    "NomineeIds": "nm0580565",
+    "Winner": "",
+    "Detail": "Mickey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Marathon Man",
+    "FilmId": "tt0074860",
+    "Name": "Laurence Olivier",
+    "Nominees": "Laurence Olivier",
+    "NomineeIds": "nm0000059",
+    "Winner": "",
+    "Detail": "Szell",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "All the President's Men",
+    "FilmId": "tt0074119",
+    "Name": "Jason Robards",
+    "Nominees": "Jason Robards",
+    "NomineeIds": "nm0001673",
+    "Winner": "True",
+    "Detail": "Ben Bradlee",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "Burt Young",
+    "Nominees": "Burt Young",
+    "NomineeIds": "nm0949350",
+    "Winner": "",
+    "Detail": "Paulie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Cousin, Cousine",
+    "FilmId": "tt0072826",
+    "Name": "Marie-Christine Barrault",
+    "Nominees": "Marie-Christine Barrault",
+    "NomineeIds": "nm0056763",
+    "Winner": "",
+    "Detail": "Marthe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "Faye Dunaway",
+    "Nominees": "Faye Dunaway",
+    "NomineeIds": "nm0001159",
+    "Winner": "True",
+    "Detail": "Diana Christensen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "Talia Shire",
+    "Nominees": "Talia Shire",
+    "NomineeIds": "nm0001735",
+    "Winner": "",
+    "Detail": "Adrian",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Carrie",
+    "FilmId": "tt0074285",
+    "Name": "Sissy Spacek",
+    "Nominees": "Sissy Spacek",
+    "NomineeIds": "nm0000651",
+    "Winner": "",
+    "Detail": "Carrie White",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Face to Face",
+    "FilmId": "tt0074147",
+    "Name": "Liv Ullmann",
+    "Nominees": "Liv Ullmann",
+    "NomineeIds": "nm0880521",
+    "Winner": "",
+    "Detail": "Dr. Jenny Isaksson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "All the President's Men",
+    "FilmId": "tt0074119",
+    "Name": "Jane Alexander",
+    "Nominees": "Jane Alexander",
+    "NomineeIds": "nm0000737",
+    "Winner": "",
+    "Detail": "The Bookkeeper",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Taxi Driver",
+    "FilmId": "tt0075314",
+    "Name": "Jodie Foster",
+    "Nominees": "Jodie Foster",
+    "NomineeIds": "nm0000149",
+    "Winner": "",
+    "Detail": "Iris",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Voyage of the Damned",
+    "FilmId": "tt0075406",
+    "Name": "Lee Grant",
+    "Nominees": "Lee Grant",
+    "NomineeIds": "nm0335519",
+    "Winner": "",
+    "Detail": "Lilian Rosen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Carrie",
+    "FilmId": "tt0074285",
+    "Name": "Piper Laurie",
+    "Nominees": "Piper Laurie",
+    "NomineeIds": "nm0001453",
+    "Winner": "",
+    "Detail": "Margaret White",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "Beatrice Straight",
+    "Nominees": "Beatrice Straight",
+    "NomineeIds": "nm0833152",
+    "Winner": "True",
+    "Detail": "Louise Schumacher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "All the President's Men",
+    "FilmId": "tt0074119",
+    "Name": "Art Direction: George Jenkins; Set Decoration: George Gaines",
+    "Nominees": "George Jenkins|George Gaines",
+    "NomineeIds": "nm0420846|nm0301321",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Incredible Sarah",
+    "FilmId": "tt0074678",
+    "Name": "Art Direction: Elliot Scott, Norman Reynolds; Set Decoration: Peter Howitt",
+    "Nominees": "Elliot Scott|Norman Reynolds|Peter Howitt",
+    "NomineeIds": "nm0779089|nm0721888|nm0398184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Last Tycoon",
+    "FilmId": "tt0074777",
+    "Name": "Art Direction: Gene Callahan, Jack Collis; Set Decoration: Jerry Wunderlich",
+    "Nominees": "Gene Callahan|Jack Collis|Jerry Wunderlich",
+    "NomineeIds": "nm0130194|nm0172795|nm0943332",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Logan's Run",
+    "FilmId": "tt0074812",
+    "Name": "Art Direction: Dale Hennesy; Set Decoration: Robert de Vestel",
+    "Nominees": "Dale Hennesy|Robert de Vestel",
+    "NomineeIds": "nm0377322|nm0212113",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Shootist",
+    "FilmId": "tt0075213",
+    "Name": "Art Direction: Robert F. Boyle; Set Decoration: Arthur Jeph Parker",
+    "Nominees": "Robert F. Boyle|Arthur Jeph Parker",
+    "NomineeIds": "nm0102327|nm0662057",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Bound for Glory",
+    "FilmId": "tt0074235",
+    "Name": "Haskell Wexler",
+    "Nominees": "Haskell Wexler",
+    "NomineeIds": "nm0005549",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "King Kong",
+    "FilmId": "tt0074751",
+    "Name": "Richard H. Kline",
+    "Nominees": "Richard H. Kline",
+    "NomineeIds": "nm0459660",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Logan's Run",
+    "FilmId": "tt0074812",
+    "Name": "Ernest Laszlo",
+    "Nominees": "Ernest Laszlo",
+    "NomineeIds": "nm0005768",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "Owen Roizman",
+    "Nominees": "Owen Roizman",
+    "NomineeIds": "nm0005845",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0075265",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Bound for Glory",
+    "FilmId": "tt0074235",
+    "Name": "William Theiss",
+    "Nominees": "William Theiss",
+    "NomineeIds": "nm0857377",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Fellini's Casanova",
+    "FilmId": "tt0074291",
+    "Name": "Danilo Donati",
+    "Nominees": "Danilo Donati",
+    "NomineeIds": "nm0232219",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Incredible Sarah",
+    "FilmId": "tt0074678",
+    "Name": "Anthony Mendleson",
+    "Nominees": "Anthony Mendleson",
+    "NomineeIds": "nm0579162",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Passover Plot",
+    "FilmId": "tt0075043",
+    "Name": "Mary Wills",
+    "Nominees": "Mary Wills",
+    "NomineeIds": "nm0932683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Seven-per-cent Solution",
+    "FilmId": "tt0075194",
+    "Name": "Alan Barrett",
+    "Nominees": "Alan Barrett",
+    "NomineeIds": "nm0057049",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "All the President's Men",
+    "FilmId": "tt0074119",
+    "Name": "Alan J. Pakula",
+    "Nominees": "Alan J. Pakula",
+    "NomineeIds": "nm0001587",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Face to Face",
+    "FilmId": "tt0074147",
+    "Name": "Ingmar Bergman",
+    "Nominees": "Ingmar Bergman",
+    "NomineeIds": "nm0000005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "Sidney Lumet",
+    "Nominees": "Sidney Lumet",
+    "NomineeIds": "nm0001486",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "John G. Avildsen",
+    "Nominees": "John G. Avildsen",
+    "NomineeIds": "nm0000814",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Seven Beauties",
+    "FilmId": "tt0075040",
+    "Name": "Lina Wertmüller",
+    "Nominees": "Lina Wertmüller",
+    "NomineeIds": "nm0921631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Harlan County, U.S.A.",
+    "FilmId": "tt0074605",
+    "Name": "Barbara Kopple, Producer",
+    "Nominees": "Barbara Kopple",
+    "NomineeIds": "nm0465932",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Hollywood on Trial",
+    "FilmId": "tt0074635",
+    "Name": "James Gutman and David Helpern, Jr., Producers",
+    "Nominees": "James Gutman|David Helpern Jr.",
+    "NomineeIds": "nm0349634|nm0375809",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Off the Edge",
+    "FilmId": "tt0074997",
+    "Name": "Michael Firth, Producer",
+    "Nominees": "Michael Firth",
+    "NomineeIds": "nm0278751",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "People of the Wind",
+    "FilmId": "tt0075052",
+    "Name": "Anthony Howarth and David Koff, Producers",
+    "Nominees": "Anthony Howarth|David Koff",
+    "NomineeIds": "nm0397700|nm0463007",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Volcano: An Inquiry into the Life and Death of Malcolm Lowry",
+    "FilmId": "tt0070889",
+    "Name": "Donald Brittain and Robert Duncan, Producers",
+    "Nominees": "Donald Brittain|Robert Duncan",
+    "NomineeIds": "nm0110086|nm0242086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "American Shoeshine",
+    "FilmId": "tt0074134",
+    "Name": "Sparky Greene, Producer",
+    "Nominees": "Sparky Greene",
+    "NomineeIds": "nm0338928",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Blackwood",
+    "FilmId": "tt0074215",
+    "Name": "Tony Ianzelo and Andy Thomson, Producers",
+    "Nominees": "Tony Ianzelo|Andy Thomson",
+    "NomineeIds": "nm0406349|nm0859851",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The End of the Road",
+    "FilmId": "tt0074482",
+    "Name": "John Armstrong, Producer",
+    "Nominees": "John Armstrong",
+    "NomineeIds": "nm0035761",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Number Our Days",
+    "FilmId": "tt0074987",
+    "Name": "Lynne Littman, Producer",
+    "Nominees": "Lynne Littman",
+    "NomineeIds": "nm0003313",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Universe",
+    "FilmId": "tt0075373",
+    "Name": "Lester Novros, Producer",
+    "Nominees": "Lester Novros",
+    "NomineeIds": "nm0637279",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "All the President's Men",
+    "FilmId": "tt0074119",
+    "Name": "Robert L. Wolfe",
+    "Nominees": "Robert L. Wolfe",
+    "NomineeIds": "nm0938130",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Bound for Glory",
+    "FilmId": "tt0074235",
+    "Name": "Robert Jones, Pembroke J. Herring",
+    "Nominees": "Robert Jones|Pembroke J. Herring",
+    "NomineeIds": "nm0002717|nm0380670",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "Alan Heim",
+    "Nominees": "Alan Heim",
+    "NomineeIds": "nm0374189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "Richard Halsey, Scott Conrad",
+    "Nominees": "Richard Halsey|Scott Conrad",
+    "NomineeIds": "nm0357041|nm0175722",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Two-Minute Warning",
+    "FilmId": "tt0075359",
+    "Name": "Eve Newman, Walter Hannemann",
+    "Nominees": "Eve Newman|Walter Hannemann",
+    "NomineeIds": "nm0628085|nm0360385",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Black and White in Color",
+    "FilmId": "tt0074972",
+    "Name": "Ivory Coast",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Cousin, Cousine",
+    "FilmId": "tt0072826",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Jacob, the Liar",
+    "FilmId": "tt0071688",
+    "Name": "German Democratic Republic",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Nights and Days",
+    "FilmId": "tt0073460",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Seven Beauties",
+    "FilmId": "tt0075040",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Obsession",
+    "FilmId": "tt0074991",
+    "Name": "Bernard Herrmann",
+    "Nominees": "Bernard Herrmann",
+    "NomineeIds": "nm0002136",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Omen",
+    "FilmId": "tt0075005",
+    "Name": "Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Outlaw Josey Wales",
+    "FilmId": "tt0075029",
+    "Name": "Jerry Fielding",
+    "Nominees": "Jerry Fielding",
+    "NomineeIds": "nm0006076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Taxi Driver",
+    "FilmId": "tt0075314",
+    "Name": "Bernard Herrmann",
+    "Nominees": "Bernard Herrmann",
+    "NomineeIds": "nm0002136",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Voyage of the Damned",
+    "FilmId": "tt0075406",
+    "Name": "Lalo Schifrin",
+    "Nominees": "Lalo Schifrin",
+    "NomineeIds": "nm0006277",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation or Adaptation Score)",
+    "Film": "Bound for Glory",
+    "FilmId": "tt0074235",
+    "Name": "Adaptation Score by Leonard Rosenman",
+    "Nominees": "Leonard Rosenman",
+    "NomineeIds": "nm0006260",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation or Adaptation Score)",
+    "Film": "Bugsy Malone",
+    "FilmId": "tt0074256",
+    "Name": "Song Score and Adaptation Score by Paul Williams",
+    "Nominees": "Paul Williams",
+    "NomineeIds": "nm0931437",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation or Adaptation Score)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0075265",
+    "Name": "Adaptation Score by Roger Kellaway",
+    "Nominees": "Roger Kellaway",
+    "NomineeIds": "nm0445524",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Omen",
+    "FilmId": "tt0075005",
+    "Name": "Music and Lyrics by Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "",
+    "Detail": "Ave Satani",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Pink Panther Strikes Again",
+    "FilmId": "tt0075066",
+    "Name": "Music by Henry Mancini; Lyrics by Don Black",
+    "Nominees": "Henry Mancini|Don Black",
+    "NomineeIds": "nm0000049|nm0085246",
+    "Winner": "",
+    "Detail": "Come To Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0075265",
+    "Name": "Music by Barbra Streisand; Lyrics by Paul Williams",
+    "Nominees": "Barbra Streisand|Paul Williams",
+    "NomineeIds": "nm0000659|nm0931437",
+    "Winner": "True",
+    "Detail": "Evergreen (Love Theme From A Star Is Born)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "Music by Bill Conti; Lyrics by Carol Connors and Ayn Robbins",
+    "Nominees": "Bill Conti|Carol Connors|Ayn Robbins",
+    "NomineeIds": "nm0006015|nm0175486|nm0730291",
+    "Winner": "",
+    "Detail": "Gonna Fly Now",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Half a House",
+    "FilmId": "tt0074601",
+    "Name": "Music by Sammy Fain; Lyrics by Paul Francis Webster",
+    "Nominees": "Sammy Fain|Paul Francis Webster",
+    "NomineeIds": "nm0006066|nm0916990",
+    "Winner": "",
+    "Detail": "A World That Never Was",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "All the President's Men",
+    "FilmId": "tt0074119",
+    "Name": "Walter Coblenz, Producer",
+    "Nominees": "Walter Coblenz",
+    "NomineeIds": "nm0003144",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Bound for Glory",
+    "FilmId": "tt0074235",
+    "Name": "Robert F. Blumofe and Harold Leventhal, Producers",
+    "Nominees": "Robert F. Blumofe|Harold Leventhal",
+    "NomineeIds": "nm0089868|nm0505294",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "Howard Gottfried, Producer",
+    "Nominees": "Howard Gottfried",
+    "NomineeIds": "nm0331907",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "Irwin Winkler and Robert Chartoff, Producers",
+    "Nominees": "Irwin Winkler|Robert Chartoff",
+    "NomineeIds": "nm0005563|nm0153590",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Taxi Driver",
+    "FilmId": "tt0075314",
+    "Name": "Michael Phillips and Julia Phillips, Producers",
+    "Nominees": "Michael Phillips|Julia Phillips",
+    "NomineeIds": "nm0680635|nm0680539",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Dedalo",
+    "FilmId": "tt0074386",
+    "Name": "Manfredo Manfredi, Producer",
+    "Nominees": "Manfredo Manfredi",
+    "NomineeIds": "nm0542061",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Leisure",
+    "FilmId": "tt0074787",
+    "Name": "Suzanne Baker, Producer",
+    "Nominees": "Suzanne Baker",
+    "NomineeIds": "nm0048952",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Street",
+    "FilmId": "tt0075273",
+    "Name": "Caroline Leaf and Guy Glover, Producers",
+    "Nominees": "Caroline Leaf|Guy Glover",
+    "NomineeIds": "nm0494937|nm0323123",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "In the Region of Ice",
+    "FilmId": "tt0074675",
+    "Name": "Andre Guttfreund and Peter Werner, Producers",
+    "Nominees": "Andre Guttfreund|Peter Werner",
+    "NomineeIds": "nm0349722|nm0921464",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Kudzu",
+    "FilmId": "tt0074765",
+    "Name": "Marjorie Anne Short, Producer",
+    "Nominees": "Marjorie Anne Short",
+    "NomineeIds": "nm0795083",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Morning Spider",
+    "FilmId": "tt0074919",
+    "Name": "Julian Chagrin and Claude Chagrin, Producers",
+    "Nominees": "Julian Chagrin|Claude Chagrin",
+    "NomineeIds": "nm0149615|nm0149613",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Nightlife",
+    "FilmId": "tt0074966",
+    "Name": "Claire Wilbur and Robin Lehman, Producers",
+    "Nominees": "Claire Wilbur|Robin Lehman",
+    "NomineeIds": "nm0928106|nm0499651",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Number One",
+    "FilmId": "tt0074986",
+    "Name": "Dyan Cannon and Vince Cannon, Producers",
+    "Nominees": "Dyan Cannon|Vince Cannon",
+    "NomineeIds": "nm0001007|nm0134278",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "All the President's Men",
+    "FilmId": "tt0074119",
+    "Name": "Arthur Piantadosi, Les Fresholtz, Dick Alexander, Jim Webb",
+    "Nominees": "Arthur Piantadosi|Les Fresholtz|Dick Alexander|Jim Webb",
+    "NomineeIds": "nm0681250|nm0294370|nm1219804|nm0916137",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "King Kong",
+    "FilmId": "tt0074751",
+    "Name": "Harry Warren Tetrick, William McCaughey, Aaron Rochin, Jack Solomon",
+    "Nominees": "Harry Warren Tetrick|William McCaughey|Aaron Rochin|Jack Solomon",
+    "NomineeIds": "nm0856555|nm0565477|nm0734099|nm0813349",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "Harry Warren Tetrick, William McCaughey, Lyle Burbridge, Bud Alper",
+    "Nominees": "Harry Warren Tetrick|William McCaughey|Lyle Burbridge|Bud Alper",
+    "NomineeIds": "nm0856555|nm0565477|nm0120769|nm0022356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Silver Streak",
+    "FilmId": "tt0075223",
+    "Name": "Donald Mitchell, Douglas Williams, Richard Tyler, Hal Etherington",
+    "Nominees": "Donald Mitchell|Douglas Williams|Richard Tyler|Hal Etherington",
+    "NomineeIds": "nm0593290|nm0930491|nm0878889|nm0262065",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0075265",
+    "Name": "Robert Knudson, Dan Wallin, Robert Glass, Tom Overton",
+    "Nominees": "Robert Knudson|Dan Wallin|Robert Glass|Tom Overton",
+    "NomineeIds": "nm0461702|nm0909163|nm0321915|nm0653966",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "All the President's Men",
+    "FilmId": "tt0074119",
+    "Name": "William Goldman",
+    "Nominees": "William Goldman",
+    "NomineeIds": "nm0001279",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Bound for Glory",
+    "FilmId": "tt0074235",
+    "Name": "Robert Getchell",
+    "Nominees": "Robert Getchell",
+    "NomineeIds": "nm0315205",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Fellini's Casanova",
+    "FilmId": "tt0074291",
+    "Name": "Federico Fellini, Bernardino Zapponi",
+    "Nominees": "Federico Fellini|Bernardino Zapponi",
+    "NomineeIds": "nm0000019|nm0953301",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Seven-per-cent Solution",
+    "FilmId": "tt0075194",
+    "Name": "Nicholas Meyer",
+    "Nominees": "Nicholas Meyer",
+    "NomineeIds": "nm0583292",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Voyage of the Damned",
+    "FilmId": "tt0075406",
+    "Name": "Steve Shagan, David Butler",
+    "Nominees": "Steve Shagan|David Butler",
+    "NomineeIds": "nm0787399|nm0124878",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "Cousin, Cousine",
+    "FilmId": "tt0072826",
+    "Name": "Story and Screenplay by Jean-Charles Tacchella; Adaptation by Daniele Thompson",
+    "Nominees": "Jean-Charles Tacchella|Daniele Thompson",
+    "NomineeIds": "nm0006621|nm0860019",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "The Front",
+    "FilmId": "tt0074554",
+    "Name": "Walter Bernstein",
+    "Nominees": "Walter Bernstein",
+    "NomineeIds": "nm0077159",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "Network",
+    "FilmId": "tt0074958",
+    "Name": "Paddy Chayefsky",
+    "Nominees": "Paddy Chayefsky",
+    "NomineeIds": "nm0154665",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "Rocky",
+    "FilmId": "tt0075148",
+    "Name": "Sylvester Stallone",
+    "Nominees": "Sylvester Stallone",
+    "NomineeIds": "nm0000230",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "Seven Beauties",
+    "FilmId": "tt0075040",
+    "Name": "Lina Wertmüller",
+    "Nominees": "Lina Wertmüller",
+    "NomineeIds": "nm0921631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Film": "King Kong",
+    "FilmId": "tt0074751",
+    "Name": "Carlo Rambaldi, Glen Robinson, Frank Van der Veer",
+    "Nominees": "Carlo Rambaldi|Glen Robinson|Frank Van der Veer",
+    "NomineeIds": "nm0708058|nm0732656|nm0886440",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Film": "Logan's Run",
+    "FilmId": "tt0074812",
+    "Name": "L. B. Abbott, Glen Robinson, Matthew Yuricich",
+    "Nominees": "L. B. Abbott|Glen Robinson|Matthew Yuricich",
+    "NomineeIds": "nm0008004|nm0732656|nm0951046",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Pandro S. Berman",
+    "Nominees": "Pandro S. Berman",
+    "NomineeIds": "nm0075825",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Consolidated Film Industries|Barnebey-Cheney Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To CONSOLIDATED FILM INDUSTRIES and the BARNEBEY-CHENEY COMPANY for the development of a system for the recovery of film-cleaning solvent vapors in a motion picture laboratory."
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "William L. Graham|MANFRED G. MICHELSON|GEOFFREY F. NORMAN|SIEGFRIED SEIBERT",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To WILLIAM L. GRAHAM, MANFRED G. MICHELSON, GEOFFREY F. NORMAN and SIEGFRIED SEIBERT of Technicolor for the development and engineering of a Continuous, High-Speed, Color Motion Picture Printing System."
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "FRED BARTSCHER|GLENN BERGGREN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To FRED BARTSCHER of Kollmorgen Corporation and to GLENN BERGGREN of the Schneider Corporation for the design and development of a single-lens magnifier for motion picture projection lenses."
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Panavision Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To PANAVISION INCORPORATED for the design and development of super-speed lenses for motion picture photography."
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "HIROSHI SUZUKAWA|WILTON R. HOLM",
+    "NomineeIds": "?|nm0391587",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To HIROSHI SUZUKAWA of Canon and WILTON R. HOLM of AMPTP Motion Picture and Television Research Center for the design and development of super-speed lenses for motion picture photography."
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Carl Zeiss Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To CARL ZEISS COMPANY for the design and development of super-speed lenses for motion picture photography."
+  },
+  {
+    "Ceremony": 49,
+    "Year": 1976,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Kollmorgen Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To PHOTO RESEARCH DIVISION OF THE KOLLMORGEN CORPORATION for the engineering and manufacture of the Spectra TriColor Meter."
   }
 ]

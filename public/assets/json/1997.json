@@ -1,1753 +1,2194 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1997",
-    "nominees": [
-      "Titanic"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1997",
-    "nominees": [
-      "As Good as It Gets"
-    ],
-    "movies": [
-      {
-        "title": "As Good as It Gets",
-        "tmdb_id": 2898,
-        "imdb_id": "tt0119822"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1997",
-    "nominees": [
-      "The Full Monty"
-    ],
-    "movies": [
-      {
-        "title": "The Full Monty",
-        "tmdb_id": 9427,
-        "imdb_id": "tt0119164"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1997",
-    "nominees": [
-      "Good Will Hunting"
-    ],
-    "movies": [
-      {
-        "title": "Good Will Hunting",
-        "tmdb_id": 489,
-        "imdb_id": "tt0119217"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1997",
-    "nominees": [
-      "L.A. Confidential"
-    ],
-    "movies": [
-      {
-        "title": "L.A. Confidential",
-        "tmdb_id": 2118,
-        "imdb_id": "tt0119488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1997",
-    "nominees": [
-      "Jack Nicholson"
-    ],
-    "movies": [
-      {
-        "title": "As Good as It Gets",
-        "tmdb_id": 2898,
-        "imdb_id": "tt0119822"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1997",
-    "nominees": [
-      "Matt Damon"
-    ],
-    "movies": [
-      {
-        "title": "Good Will Hunting",
-        "tmdb_id": 489,
-        "imdb_id": "tt0119217"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1997",
-    "nominees": [
-      "Robert Duvall"
-    ],
-    "movies": [
-      {
-        "title": "The Apostle",
-        "tmdb_id": 2895,
-        "imdb_id": "tt0118632"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1997",
-    "nominees": [
-      "Peter Fonda"
-    ],
-    "movies": [
-      {
-        "title": "Ulee's Gold",
-        "tmdb_id": 55306,
-        "imdb_id": "tt0120402"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1997",
-    "nominees": [
-      "Dustin Hoffman"
-    ],
-    "movies": [
-      {
-        "title": "Wag the Dog",
-        "tmdb_id": 586,
-        "imdb_id": "tt0120885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1997",
-    "nominees": [
-      "Helen Hunt"
-    ],
-    "movies": [
-      {
-        "title": "As Good as It Gets",
-        "tmdb_id": 2898,
-        "imdb_id": "tt0119822"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1997",
-    "nominees": [
-      "Helena Bonham Carter"
-    ],
-    "movies": [
-      {
-        "title": "The Wings of the Dove",
-        "tmdb_id": 45609,
-        "imdb_id": "tt0120520"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1997",
-    "nominees": [
-      "Julie Christie"
-    ],
-    "movies": [
-      {
-        "title": "Afterglow",
-        "tmdb_id": 26941,
-        "imdb_id": "tt0118566"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1997",
-    "nominees": [
-      "Judi Dench"
-    ],
-    "movies": [
-      {
-        "title": "Mrs Brown",
-        "tmdb_id": 17589,
-        "imdb_id": "tt0119280"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1997",
-    "nominees": [
-      "Kate Winslet"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1997",
-    "nominees": [
-      "Robin Williams"
-    ],
-    "movies": [
-      {
-        "title": "Good Will Hunting",
-        "tmdb_id": 489,
-        "imdb_id": "tt0119217"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1997",
-    "nominees": [
-      "Robert Forster"
-    ],
-    "movies": [
-      {
-        "title": "Jackie Brown",
-        "tmdb_id": 184,
-        "imdb_id": "tt0119396"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1997",
-    "nominees": [
-      "Anthony Hopkins"
-    ],
-    "movies": [
-      {
-        "title": "Amistad",
-        "tmdb_id": 11831,
-        "imdb_id": "tt0118607"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1997",
-    "nominees": [
-      "Greg Kinnear"
-    ],
-    "movies": [
-      {
-        "title": "As Good as It Gets",
-        "tmdb_id": 2898,
-        "imdb_id": "tt0119822"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1997",
-    "nominees": [
-      "Burt Reynolds"
-    ],
-    "movies": [
-      {
-        "title": "Boogie Nights",
-        "tmdb_id": 4995,
-        "imdb_id": "tt0118749"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1997",
-    "nominees": [
-      "Kim Basinger"
-    ],
-    "movies": [
-      {
-        "title": "L.A. Confidential",
-        "tmdb_id": 2118,
-        "imdb_id": "tt0119488"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1997",
-    "nominees": [
-      "Joan Cusack"
-    ],
-    "movies": [
-      {
-        "title": "In & Out",
-        "tmdb_id": 10806,
-        "imdb_id": "tt0119360"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1997",
-    "nominees": [
-      "Minnie Driver"
-    ],
-    "movies": [
-      {
-        "title": "Good Will Hunting",
-        "tmdb_id": 489,
-        "imdb_id": "tt0119217"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1997",
-    "nominees": [
-      "Julianne Moore"
-    ],
-    "movies": [
-      {
-        "title": "Boogie Nights",
-        "tmdb_id": 4995,
-        "imdb_id": "tt0118749"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1997",
-    "nominees": [
-      "Gloria Stuart"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1997",
-    "nominees": [
-      "James Cameron"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1997",
-    "nominees": [
-      "Peter Cattaneo"
-    ],
-    "movies": [
-      {
-        "title": "The Full Monty",
-        "tmdb_id": 9427,
-        "imdb_id": "tt0119164"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1997",
-    "nominees": [
-      "Atom Egoyan"
-    ],
-    "movies": [
-      {
-        "title": "The Sweet Hereafter",
-        "tmdb_id": 10217,
-        "imdb_id": "tt0120255"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1997",
-    "nominees": [
-      "Curtis Hanson"
-    ],
-    "movies": [
-      {
-        "title": "L.A. Confidential",
-        "tmdb_id": 2118,
-        "imdb_id": "tt0119488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1997",
-    "nominees": [
-      "Gus Van Sant"
-    ],
-    "movies": [
-      {
-        "title": "Good Will Hunting",
-        "tmdb_id": 489,
-        "imdb_id": "tt0119217"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1997",
-    "nominees": [
-      "Curtis Hanson",
-      "Brian Helgeland"
-    ],
-    "movies": [
-      {
-        "title": "L.A. Confidential",
-        "tmdb_id": 2118,
-        "imdb_id": "tt0119488"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1997",
-    "nominees": [
-      "Paul Attanasio"
-    ],
-    "movies": [
-      {
-        "title": "Donnie Brasco",
-        "tmdb_id": 9366,
-        "imdb_id": "tt0119008"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1997",
-    "nominees": [
-      "Atom Egoyan"
-    ],
-    "movies": [
-      {
-        "title": "The Sweet Hereafter",
-        "tmdb_id": 10217,
-        "imdb_id": "tt0120255"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1997",
-    "nominees": [
-      "David Mamet",
-      "Hilary Henkin"
-    ],
-    "movies": [
-      {
-        "title": "Wag the Dog",
-        "tmdb_id": 586,
-        "imdb_id": "tt0120885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1997",
-    "nominees": [
-      "Hossein Amini"
-    ],
-    "movies": [
-      {
-        "title": "The Wings of the Dove",
-        "tmdb_id": 45609,
-        "imdb_id": "tt0120520"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1997",
-    "nominees": [
-      "Ben Affleck",
-      "Matt Damon"
-    ],
-    "movies": [
-      {
-        "title": "Good Will Hunting",
-        "tmdb_id": 489,
-        "imdb_id": "tt0119217"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1997",
-    "nominees": [
-      "Mark Andrus",
-      "James L. Brooks"
-    ],
-    "movies": [
-      {
-        "title": "As Good as It Gets",
-        "tmdb_id": 2898,
-        "imdb_id": "tt0119822"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1997",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Deconstructing Harry",
-        "tmdb_id": 2639,
-        "imdb_id": "tt0118954"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1997",
-    "nominees": [
-      "Simon Beaufoy"
-    ],
-    "movies": [
-      {
-        "title": "The Full Monty",
-        "tmdb_id": 9427,
-        "imdb_id": "tt0119164"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1997",
-    "nominees": [
-      "Paul Thomas Anderson"
-    ],
-    "movies": [
-      {
-        "title": "Boogie Nights",
-        "tmdb_id": 4995,
-        "imdb_id": "tt0118749"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1997",
-    "nominees": [
-      "James Horner"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1997",
-    "nominees": [
-      "Danny Elfman"
-    ],
-    "movies": [
-      {
-        "title": "Good Will Hunting",
-        "tmdb_id": 489,
-        "imdb_id": "tt0119217"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1997",
-    "nominees": [
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "L.A. Confidential",
-        "tmdb_id": 2118,
-        "imdb_id": "tt0119488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1997",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Amistad",
-        "tmdb_id": 11831,
-        "imdb_id": "tt0118607"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1997",
-    "nominees": [
-      "Philip Glass"
-    ],
-    "movies": [
-      {
-        "title": "Kundun",
-        "tmdb_id": 9746,
-        "imdb_id": "tt0119485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1997",
-    "nominees": [
-      "Anne Dudley"
-    ],
-    "movies": [
-      {
-        "title": "The Full Monty",
-        "tmdb_id": 9427,
-        "imdb_id": "tt0119164"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1997",
-    "nominees": [
-      "Danny Elfman"
-    ],
-    "movies": [
-      {
-        "title": "Men in Black",
-        "tmdb_id": 607,
-        "imdb_id": "tt0119654"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1997",
-    "nominees": [
-      "Hans Zimmer"
-    ],
-    "movies": [
-      {
-        "title": "As Good as It Gets",
-        "tmdb_id": 2898,
-        "imdb_id": "tt0119822"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1997",
-    "nominees": [
-      "James Newton Howard"
-    ],
-    "movies": [
-      {
-        "title": "My Best Friend's Wedding",
-        "tmdb_id": 8874,
-        "imdb_id": "tt0119738"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1997",
-    "nominees": [
-      "Stephen Flaherty",
-      "Lynn Ahrens",
-      "David Newman"
-    ],
-    "movies": [
-      {
-        "title": "Anastasia",
-        "tmdb_id": 9444,
-        "imdb_id": "tt0118617"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1997",
-    "nominees": [
-      "My Heart Will Go On"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1997",
-    "nominees": [
-      "Journey to the Past"
-    ],
-    "movies": [
-      {
-        "title": "Anastasia",
-        "tmdb_id": 9444,
-        "imdb_id": "tt0118617"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1997",
-    "nominees": [
-      "How Do I Live"
-    ],
-    "movies": [
-      {
-        "title": "Con Air",
-        "tmdb_id": 1701,
-        "imdb_id": "tt0118880"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1997",
-    "nominees": [
-      "Miss Misery"
-    ],
-    "movies": [
-      {
-        "title": "Good Will Hunting",
-        "tmdb_id": 489,
-        "imdb_id": "tt0119217"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1997",
-    "nominees": [
-      "Go the Distance"
-    ],
-    "movies": [
-      {
-        "title": "Hercules",
-        "tmdb_id": 11970,
-        "imdb_id": "tt0119282"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1997",
-    "nominees": [
-      "Character"
-    ],
-    "movies": [
-      {
-        "title": "Character",
-        "tmdb_id": 17139,
-        "imdb_id": "tt0119448"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1997",
-    "nominees": [
-      "Beyond Silence"
-    ],
-    "movies": [
-      {
-        "title": "Beyond Silence",
-        "tmdb_id": 312,
-        "imdb_id": "tt0116692"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1997",
-    "nominees": [
-      "Four Days in September"
-    ],
-    "movies": [
-      {
-        "title": "Four Days in September",
-        "tmdb_id": 21253,
-        "imdb_id": "tt0119815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1997",
-    "nominees": [
-      "Secrets of the Heart"
-    ],
-    "movies": [
-      {
-        "title": "Secrets of the Heart",
-        "tmdb_id": 92603,
-        "imdb_id": "tt0120090"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1997",
-    "nominees": [
-      "The Thief"
-    ],
-    "movies": [
-      {
-        "title": "The Thief",
-        "tmdb_id": 46187,
-        "imdb_id": "tt0124207"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1997",
-    "nominees": [
-      "The Long Way Home"
-    ],
-    "movies": [
-      {
-        "title": "The Long Way Home",
-        "tmdb_id": 113290,
-        "imdb_id": "tt0119561"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1997",
-    "nominees": [
-      "Ayn Rand: A Sense of Life"
-    ],
-    "movies": [
-      {
-        "title": "Ayn Rand: A Sense of Life",
-        "tmdb_id": 49645,
-        "imdb_id": "tt0118662"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1997",
-    "nominees": [
-      "Colors Straight Up"
-    ],
-    "movies": [
-      {
-        "title": "Colors Straight Up",
-        "tmdb_id": 113287,
-        "imdb_id": "tt0126249"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1997",
-    "nominees": [
-      "4 Little Girls"
-    ],
-    "movies": [
-      {
-        "title": "4 Little Girls",
-        "tmdb_id": 26580,
-        "imdb_id": "tt0118540"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1997",
-    "nominees": [
-      "Waco: The Rules of Engagement"
-    ],
-    "movies": [
-      {
-        "title": "Waco: The Rules of Engagement",
-        "tmdb_id": 34044,
-        "imdb_id": "tt0120472"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1997",
-    "nominees": [
-      "A Story of Healing"
-    ],
-    "movies": [
-      {
-        "title": "A Story of Healing",
-        "tmdb_id": 244919,
-        "imdb_id": "tt0141858"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1997",
-    "nominees": [
-      "Alaska: Spirit of the Wild"
-    ],
-    "movies": [
-      {
-        "title": "Alaska: Spirit of the Wild",
-        "tmdb_id": 13795,
-        "imdb_id": "tt0130445"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1997",
-    "nominees": [
-      "Amazon"
-    ],
-    "movies": [
-      {
-        "title": "Amazon",
-        "tmdb_id": 13796,
-        "imdb_id": "tt0140803"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1997",
-    "nominees": [
-      "Daughter of the Bride"
-    ],
-    "movies": [
-      {
-        "title": "Daughter of the Bride",
-        "tmdb_id": 244920,
-        "imdb_id": "tt0129918"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1997",
-    "nominees": [
-      "Still Kicking: The Fabulous Palm Springs Follies"
-    ],
-    "movies": [
-      {
-        "title": "Still Kicking: The Fabulous Palm Springs Follies",
-        "tmdb_id": 244921,
-        "imdb_id": "tt0141856"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1997",
-    "nominees": [
-      "Geri's Game"
-    ],
-    "movies": [
-      {
-        "title": "Geri's Game",
-        "tmdb_id": 13929,
-        "imdb_id": "tt0131409"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1997",
-    "nominees": [
-      "Famous Fred"
-    ],
-    "movies": [
-      {
-        "title": "Famous Fred",
-        "tmdb_id": 224445,
-        "imdb_id": "tt0141005"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1997",
-    "nominees": [
-      "The Old Lady and the Pigeons"
-    ],
-    "movies": [
-      {
-        "title": "The Old Lady and the Pigeons",
-        "tmdb_id": 48347,
-        "imdb_id": "tt0127710"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1997",
-    "nominees": [
-      "Redux Riding Hood"
-    ],
-    "movies": [
-      {
-        "title": "Redux Riding Hood",
-        "tmdb_id": 121076,
-        "imdb_id": "tt0141560"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1997",
-    "nominees": [
-      "Rusalka (1909)"
-    ],
-    "movies": [
-      {
-        "title": "Rusalka (1909)",
-        "tmdb_id": 1262731,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1997",
-    "nominees": [
-      "Visas and Virtue"
-    ],
-    "movies": [
-      {
-        "title": "Visas and Virtue",
-        "tmdb_id": 244914,
-        "imdb_id": "tt0141963"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1997",
-    "nominees": [
-      "Dance Lexie Dance"
-    ],
-    "movies": [
-      {
-        "title": "Dance Lexie Dance",
-        "tmdb_id": 244915,
-        "imdb_id": "tt0140934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1997",
-    "nominees": [
-      "It's Good to Talk"
-    ],
-    "movies": [
-      {
-        "title": "It's Good to Talk",
-        "tmdb_id": 244916,
-        "imdb_id": "tt0141401"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1997",
-    "nominees": [
-      "Sweethearts?"
-    ],
-    "movies": [
-      {
-        "title": "Sweethearts?",
-        "tmdb_id": 210607,
-        "imdb_id": "tt0141868"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1997",
-    "nominees": [
-      "Wolfgang"
-    ],
-    "movies": [
-      {
-        "title": "Wolfgang",
-        "tmdb_id": 244918,
-        "imdb_id": "tt0141995"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Peter Lamont",
-      "Michael D. Ford"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Bo Welch",
-      "Cheryl Carasik"
-    ],
-    "movies": [
-      {
-        "title": "Men in Black",
-        "tmdb_id": 607,
-        "imdb_id": "tt0119654"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Dante Ferretti",
-      "Francesca Lo Schiavo"
-    ],
-    "movies": [
-      {
-        "title": "Kundun",
-        "tmdb_id": 9746,
-        "imdb_id": "tt0119485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Jan Roelfs",
-      "Nancy Nye"
-    ],
-    "movies": [
-      {
-        "title": "Gattaca",
-        "tmdb_id": 782,
-        "imdb_id": "tt0119177"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Jeannine Oppewall",
-      "Jay Hart"
-    ],
-    "movies": [
-      {
-        "title": "L.A. Confidential",
-        "tmdb_id": 2118,
-        "imdb_id": "tt0119488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1997",
-    "nominees": [
-      "Russell Carpenter"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1997",
-    "nominees": [
-      "Dante Spinotti"
-    ],
-    "movies": [
-      {
-        "title": "L.A. Confidential",
-        "tmdb_id": 2118,
-        "imdb_id": "tt0119488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1997",
-    "nominees": [
-      "Eduardo Serra"
-    ],
-    "movies": [
-      {
-        "title": "The Wings of the Dove",
-        "tmdb_id": 45609,
-        "imdb_id": "tt0120520"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1997",
-    "nominees": [
-      "Janusz Kaminski"
-    ],
-    "movies": [
-      {
-        "title": "Amistad",
-        "tmdb_id": 11831,
-        "imdb_id": "tt0118607"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1997",
-    "nominees": [
-      "Roger Deakins"
-    ],
-    "movies": [
-      {
-        "title": "Kundun",
-        "tmdb_id": 9746,
-        "imdb_id": "tt0119485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1997",
-    "nominees": [
-      "Conrad Buff",
-      "James Cameron",
-      "Richard A. Harris"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1997",
-    "nominees": [
-      "Peter Honess"
-    ],
-    "movies": [
-      {
-        "title": "L.A. Confidential",
-        "tmdb_id": 2118,
-        "imdb_id": "tt0119488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1997",
-    "nominees": [
-      "Pietro Scalia"
-    ],
-    "movies": [
-      {
-        "title": "Good Will Hunting",
-        "tmdb_id": 489,
-        "imdb_id": "tt0119217"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1997",
-    "nominees": [
-      "Richard Francis-Bruce"
-    ],
-    "movies": [
-      {
-        "title": "Air Force One",
-        "tmdb_id": 9772,
-        "imdb_id": "tt0118571"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1997",
-    "nominees": [
-      "Richard Marks"
-    ],
-    "movies": [
-      {
-        "title": "As Good as It Gets",
-        "tmdb_id": 2898,
-        "imdb_id": "tt0119822"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1997",
-    "nominees": [
-      "Robert Legato",
-      "Mark Lasoff",
-      "Thomas L. Fisher",
-      "Michael Kanfer"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1997",
-    "nominees": [
-      "Dennis Muren",
-      "Stan Winston",
-      "Randal M. Dutra",
-      "Michael Lantieri"
-    ],
-    "movies": [
-      {
-        "title": "The Lost World: Jurassic Park",
-        "tmdb_id": 330,
-        "imdb_id": "tt0119567"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1997",
-    "nominees": [
-      "Phil Tippett",
-      "Scott E. Anderson",
-      "Alec Gillis",
-      "John Richardson"
-    ],
-    "movies": [
-      {
-        "title": "Starship Troopers",
-        "tmdb_id": 563,
-        "imdb_id": "tt0120201"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1997",
-    "nominees": [
-      "Gary Rydstrom",
-      "Tom Johnson",
-      "Gary Summers",
-      "Mark Ulano"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1997",
-    "nominees": [
-      "Paul Massey",
-      "Rick Kline",
-      "Doug Hemphill",
-      "Keith A. Wester"
-    ],
-    "movies": [
-      {
-        "title": "Air Force One",
-        "tmdb_id": 9772,
-        "imdb_id": "tt0118571"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1997",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Art Rochester"
-    ],
-    "movies": [
-      {
-        "title": "Con Air",
-        "tmdb_id": 1701,
-        "imdb_id": "tt0118880"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1997",
-    "nominees": [
-      "Randy Thom",
-      "Tom Johnson Dennis S. Sands",
-      "William B. Kaplan"
-    ],
-    "movies": [
-      {
-        "title": "Contact",
-        "tmdb_id": 686,
-        "imdb_id": "tt0118884"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1997",
-    "nominees": [
-      "Andy Nelson",
-      "Anna Behlmer",
-      "Kirk Francis"
-    ],
-    "movies": [
-      {
-        "title": "L.A. Confidential",
-        "tmdb_id": 2118,
-        "imdb_id": "tt0119488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1997",
-    "nominees": [
-      "Tom Bellfort",
-      "Christopher Boyes"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1997",
-    "nominees": [
-      "Mark Stoeckinger",
-      "Per Hallberg"
-    ],
-    "movies": [
-      {
-        "title": "Mighty Ducks the Movie: The First Face-Off",
-        "tmdb_id": 59091,
-        "imdb_id": "tt0179976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1997",
-    "nominees": [
-      "Mark Mangini"
-    ],
-    "movies": [
-      {
-        "title": "The Fifth Element",
-        "tmdb_id": 18,
-        "imdb_id": "tt0119116"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1997",
-    "nominees": [
-      "Rick Baker",
-      "David LeRoy Anderson"
-    ],
-    "movies": [
-      {
-        "title": "Men in Black",
-        "tmdb_id": 607,
-        "imdb_id": "tt0119654"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1997",
-    "nominees": [
-      "Lisa Westcott",
-      "Veronica Brebner",
-      "Beverley Binda"
-    ],
-    "movies": [
-      {
-        "title": "Mrs Brown",
-        "tmdb_id": 17589,
-        "imdb_id": "tt0119280"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1997",
-    "nominees": [
-      "Tina Earnshaw",
-      "Greg Cannom",
-      "Simon Thompson"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Deborah Lynn Scott"
-    ],
-    "movies": [
-      {
-        "title": "Titanic",
-        "tmdb_id": 597,
-        "imdb_id": "tt0120338"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Dante Ferretti"
-    ],
-    "movies": [
-      {
-        "title": "Kundun",
-        "tmdb_id": 9746,
-        "imdb_id": "tt0119485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Janet Patterson"
-    ],
-    "movies": [
-      {
-        "title": "Oscar and Lucinda",
-        "tmdb_id": 39780,
-        "imdb_id": "tt0119843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Ruth E. Carter"
-    ],
-    "movies": [
-      {
-        "title": "Amistad",
-        "tmdb_id": 11831,
-        "imdb_id": "tt0118607"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1997",
-    "nominees": [
-      "Sandy Powell"
-    ],
-    "movies": [
-      {
-        "title": "The Wings of the Dove",
-        "tmdb_id": 45609,
-        "imdb_id": "tt0120520"
-      }
-    ],
-    "won": false
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Good Will Hunting",
+    "FilmId": "tt0119217",
+    "Name": "Matt Damon",
+    "Nominees": "Matt Damon",
+    "NomineeIds": "nm0000354",
+    "Winner": "",
+    "Detail": "Will Hunting",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Apostle",
+    "FilmId": "tt0118632",
+    "Name": "Robert Duvall",
+    "Nominees": "Robert Duvall",
+    "NomineeIds": "nm0000380",
+    "Winner": "",
+    "Detail": "The Apostle E.F.",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Ulee's Gold",
+    "FilmId": "tt0120402",
+    "Name": "Peter Fonda",
+    "Nominees": "Peter Fonda",
+    "NomineeIds": "nm0001228",
+    "Winner": "",
+    "Detail": "Ulee Jackson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Wag the Dog",
+    "FilmId": "tt0120885",
+    "Name": "Dustin Hoffman",
+    "Nominees": "Dustin Hoffman",
+    "NomineeIds": "nm0000163",
+    "Winner": "",
+    "Detail": "Stanley Motss",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "As Good as It Gets",
+    "FilmId": "tt0119822",
+    "Name": "Jack Nicholson",
+    "Nominees": "Jack Nicholson",
+    "NomineeIds": "nm0000197",
+    "Winner": "True",
+    "Detail": "Melvin Udall",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Jackie Brown",
+    "FilmId": "tt0119396",
+    "Name": "Robert Forster",
+    "Nominees": "Robert Forster",
+    "NomineeIds": "nm0001233",
+    "Winner": "",
+    "Detail": "Max Cherry",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Amistad",
+    "FilmId": "tt0118607",
+    "Name": "Anthony Hopkins",
+    "Nominees": "Anthony Hopkins",
+    "NomineeIds": "nm0000164",
+    "Winner": "",
+    "Detail": "John Quincy Adams",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "As Good as It Gets",
+    "FilmId": "tt0119822",
+    "Name": "Greg Kinnear",
+    "Nominees": "Greg Kinnear",
+    "NomineeIds": "nm0001427",
+    "Winner": "",
+    "Detail": "Simon Bishop",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Boogie Nights",
+    "FilmId": "tt0118749",
+    "Name": "Burt Reynolds",
+    "Nominees": "Burt Reynolds",
+    "NomineeIds": "nm0000608",
+    "Winner": "",
+    "Detail": "Jack Horner",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Good Will Hunting",
+    "FilmId": "tt0119217",
+    "Name": "Robin Williams",
+    "Nominees": "Robin Williams",
+    "NomineeIds": "nm0000245",
+    "Winner": "True",
+    "Detail": "Sean McGuire",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Wings of the Dove",
+    "FilmId": "tt0120520",
+    "Name": "Helena Bonham Carter",
+    "Nominees": "Helena Bonham Carter",
+    "NomineeIds": "nm0000307",
+    "Winner": "",
+    "Detail": "Kate Croy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Afterglow",
+    "FilmId": "tt0118566",
+    "Name": "Julie Christie",
+    "Nominees": "Julie Christie",
+    "NomineeIds": "nm0001046",
+    "Winner": "",
+    "Detail": "Phyllis Mann",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Mrs. Brown",
+    "FilmId": "tt0119280",
+    "Name": "Judi Dench",
+    "Nominees": "Judi Dench",
+    "NomineeIds": "nm0001132",
+    "Winner": "",
+    "Detail": "Queen Victoria",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "As Good as It Gets",
+    "FilmId": "tt0119822",
+    "Name": "Helen Hunt",
+    "Nominees": "Helen Hunt",
+    "NomineeIds": "nm0000166",
+    "Winner": "True",
+    "Detail": "Carol Connelly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Kate Winslet",
+    "Nominees": "Kate Winslet",
+    "NomineeIds": "nm0000701",
+    "Winner": "",
+    "Detail": "Rose DeWitt Bukater",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "L.A. Confidential",
+    "FilmId": "tt0119488",
+    "Name": "Kim Basinger",
+    "Nominees": "Kim Basinger",
+    "NomineeIds": "nm0000107",
+    "Winner": "True",
+    "Detail": "Lynn Bracken",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "In & Out",
+    "FilmId": "tt0119360",
+    "Name": "Joan Cusack",
+    "Nominees": "Joan Cusack",
+    "NomineeIds": "nm0000349",
+    "Winner": "",
+    "Detail": "Emily Montgomery",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Good Will Hunting",
+    "FilmId": "tt0119217",
+    "Name": "Minnie Driver",
+    "Nominees": "Minnie Driver",
+    "NomineeIds": "nm0000378",
+    "Winner": "",
+    "Detail": "Skylar",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Boogie Nights",
+    "FilmId": "tt0118749",
+    "Name": "Julianne Moore",
+    "Nominees": "Julianne Moore",
+    "NomineeIds": "nm0000194",
+    "Winner": "",
+    "Detail": "Amber Waves",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Gloria Stuart",
+    "Nominees": "Gloria Stuart",
+    "NomineeIds": "nm0001784",
+    "Winner": "",
+    "Detail": "Old Rose",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Gattaca",
+    "FilmId": "tt0119177",
+    "Name": "Art Direction: Jan Roelfs; Set Decoration: Nancy Nye",
+    "Nominees": "Jan Roelfs|Nancy Nye",
+    "NomineeIds": "nm0736360|nm0638577",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Kundun",
+    "FilmId": "tt0119485",
+    "Name": "Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+    "Nominees": "Dante Ferretti|Francesca Lo Schiavo",
+    "NomineeIds": "nm0274721|nm0521302",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "L.A. Confidential",
+    "FilmId": "tt0119488",
+    "Name": "Art Direction: Jeannine Oppewall; Set Decoration: Jay R. Hart",
+    "Nominees": "Jeannine Oppewall|Jay R. Hart",
+    "NomineeIds": "nm0649223|nm0366345",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Men in Black",
+    "FilmId": "tt0119654",
+    "Name": "Art Direction: Bo Welch; Set Decoration: Cheryl Carasik",
+    "Nominees": "Bo Welch|Cheryl Carasik",
+    "NomineeIds": "nm0919514|nm0135974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Art Direction: Peter Lamont; Set Decoration: Michael Ford",
+    "Nominees": "Peter Lamont|Michael Ford",
+    "NomineeIds": "nm0483682|nm0285785",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Amistad",
+    "FilmId": "tt0118607",
+    "Name": "Janusz Kaminski",
+    "Nominees": "Janusz Kaminski",
+    "NomineeIds": "nm0001405",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Kundun",
+    "FilmId": "tt0119485",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "L.A. Confidential",
+    "FilmId": "tt0119488",
+    "Name": "Dante Spinotti",
+    "Nominees": "Dante Spinotti",
+    "NomineeIds": "nm0005883",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Russell Carpenter",
+    "Nominees": "Russell Carpenter",
+    "NomineeIds": "nm0005665",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Wings of the Dove",
+    "FilmId": "tt0120520",
+    "Name": "Eduardo Serra",
+    "Nominees": "Eduardo Serra",
+    "NomineeIds": "nm0785381",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Amistad",
+    "FilmId": "tt0118607",
+    "Name": "Ruth E. Carter",
+    "Nominees": "Ruth E. Carter",
+    "NomineeIds": "nm0141921",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Kundun",
+    "FilmId": "tt0119485",
+    "Name": "Dante Ferretti",
+    "Nominees": "Dante Ferretti",
+    "NomineeIds": "nm0274721",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Oscar and Lucinda",
+    "FilmId": "tt0119843",
+    "Name": "Janet Patterson",
+    "Nominees": "Janet Patterson",
+    "NomineeIds": "nm0666253",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Deborah L. Scott",
+    "Nominees": "Deborah L. Scott",
+    "NomineeIds": "nm0779045",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Wings of the Dove",
+    "FilmId": "tt0120520",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Full Monty",
+    "FilmId": "tt0119164",
+    "Name": "Peter Cattaneo",
+    "Nominees": "Peter Cattaneo",
+    "NomineeIds": "nm0146341",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Good Will Hunting",
+    "FilmId": "tt0119217",
+    "Name": "Gus Van Sant",
+    "Nominees": "Gus Van Sant",
+    "NomineeIds": "nm0001814",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "L.A. Confidential",
+    "FilmId": "tt0119488",
+    "Name": "Curtis Hanson",
+    "Nominees": "Curtis Hanson",
+    "NomineeIds": "nm0000436",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Sweet Hereafter",
+    "FilmId": "tt0120255",
+    "Name": "Atom Egoyan",
+    "Nominees": "Atom Egoyan",
+    "NomineeIds": "nm0000382",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "James Cameron",
+    "Nominees": "James Cameron",
+    "NomineeIds": "nm0000116",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Ayn Rand: A Sense of Life",
+    "FilmId": "tt0118662",
+    "Name": "Michael Paxton",
+    "Nominees": "Michael Paxton",
+    "NomineeIds": "nm0668132",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Colors Straight Up",
+    "FilmId": "tt0126249",
+    "Name": "Michèle Ohayon, Julia Schachter",
+    "Nominees": "Michèle Ohayon|Julia Schachter",
+    "NomineeIds": "nm0644977|nm0769519",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "4 Little Girls",
+    "FilmId": "tt0118540",
+    "Name": "Spike Lee, Sam Pollard",
+    "Nominees": "Spike Lee|Sam Pollard",
+    "NomineeIds": "nm0000490|nm0689498",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Long Way Home",
+    "FilmId": "tt0119561",
+    "Name": "Rabbi Marvin Hier, Richard Trank",
+    "Nominees": "Rabbi Marvin Hier|Richard Trank",
+    "NomineeIds": "nm0383178|nm0870979",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Waco: The Rules of Engagement",
+    "FilmId": "tt0120472",
+    "Name": "Dan Gifford, William Gazecki",
+    "Nominees": "Dan Gifford|William Gazecki",
+    "NomineeIds": "nm0317516|nm0311086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Alaska: Spirit of the Wild",
+    "FilmId": "tt0130445",
+    "Name": "George Casey, Paul Novros",
+    "Nominees": "George Casey|Paul Novros",
+    "NomineeIds": "nm0143426|nm0637280",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Amazon",
+    "FilmId": "tt0140803",
+    "Name": "Kieth Merrill, Jonathan Stern",
+    "Nominees": "Kieth Merrill|Jonathan Stern",
+    "NomineeIds": "nm0581303|nm0827747",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Daughter of the Bride",
+    "FilmId": "tt0129918",
+    "Name": "Terri Randall",
+    "Nominees": "Terri Randall",
+    "NomineeIds": "nm0709697",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Still Kicking: The Fabulous Palm Springs Follies",
+    "FilmId": "tt0141856",
+    "Name": "Mel Damski, Andrea Blaugrund",
+    "Nominees": "Mel Damski|Andrea Blaugrund",
+    "NomineeIds": "nm0198991|nm0087895",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Story of Healing",
+    "FilmId": "tt0141858",
+    "Name": "Donna Dewey, Carol Pasternak",
+    "Nominees": "Donna Dewey|Carol Pasternak",
+    "NomineeIds": "nm0223123|nm0664986",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Air Force One",
+    "FilmId": "tt0118571",
+    "Name": "Richard Francis-Bruce",
+    "Nominees": "Richard Francis-Bruce",
+    "NomineeIds": "nm0290358",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "As Good as It Gets",
+    "FilmId": "tt0119822",
+    "Name": "Richard Marks",
+    "Nominees": "Richard Marks",
+    "NomineeIds": "nm0548943",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Good Will Hunting",
+    "FilmId": "tt0119217",
+    "Name": "Pietro Scalia",
+    "Nominees": "Pietro Scalia",
+    "NomineeIds": "nm0768817",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "L.A. Confidential",
+    "FilmId": "tt0119488",
+    "Name": "Peter Honess",
+    "Nominees": "Peter Honess",
+    "NomineeIds": "nm0392000",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Conrad Buff, James Cameron, Richard A. Harris",
+    "Nominees": "Conrad Buff|James Cameron|Richard A. Harris",
+    "NomineeIds": "nm0119322|nm0000116|nm0365239",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Beyond Silence",
+    "FilmId": "tt0116692",
+    "Name": "Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Character",
+    "FilmId": "tt0119448",
+    "Name": "The Netherlands",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Four Days in September",
+    "FilmId": "tt0119815",
+    "Name": "Brazil",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Secrets of the Heart",
+    "FilmId": "tt0120090",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Thief",
+    "FilmId": "tt0124207",
+    "Name": "Russia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Men in Black",
+    "FilmId": "tt0119654",
+    "Name": "Rick Baker, David LeRoy Anderson",
+    "Nominees": "Rick Baker|David LeRoy Anderson",
+    "NomineeIds": "nm0000711|nm0026600",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Mrs. Brown",
+    "FilmId": "tt0119280",
+    "Name": "Lisa Westcott, Veronica Brebner, Beverley Binda",
+    "Nominees": "Lisa Westcott|Veronica Brebner|Beverley Binda",
+    "NomineeIds": "nm0922509|nm0106494|nm0082762",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Tina Earnshaw, Greg Cannom, Simon Thompson",
+    "Nominees": "Tina Earnshaw|Greg Cannom|Simon Thompson",
+    "NomineeIds": "nm0247444|nm0134148|nm0860717",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Amistad",
+    "FilmId": "tt0118607",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Good Will Hunting",
+    "FilmId": "tt0119217",
+    "Name": "Danny Elfman",
+    "Nominees": "Danny Elfman",
+    "NomineeIds": "nm0000384",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Kundun",
+    "FilmId": "tt0119485",
+    "Name": "Philip Glass",
+    "Nominees": "Philip Glass",
+    "NomineeIds": "nm0001275",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "L.A. Confidential",
+    "FilmId": "tt0119488",
+    "Name": "Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "James Horner",
+    "Nominees": "James Horner",
+    "NomineeIds": "nm0000035",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Anastasia",
+    "FilmId": "tt0118617",
+    "Name": "Music by Stephen Flaherty; Lyrics by Lynn Ahrens; Orchestral Score by David Newman",
+    "Nominees": "Stephen Flaherty|Lynn Ahrens|David Newman",
+    "NomineeIds": "nm0280906|nm0014326|nm0628056",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "As Good as It Gets",
+    "FilmId": "tt0119822",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "The Full Monty",
+    "FilmId": "tt0119164",
+    "Name": "Anne Dudley",
+    "Nominees": "Anne Dudley",
+    "NomineeIds": "nm0006050",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Men in Black",
+    "FilmId": "tt0119654",
+    "Name": "Danny Elfman",
+    "Nominees": "Danny Elfman",
+    "NomineeIds": "nm0000384",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "My Best Friend's Wedding",
+    "FilmId": "tt0119738",
+    "Name": "James Newton Howard",
+    "Nominees": "James Newton Howard",
+    "NomineeIds": "nm0006133",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Hercules",
+    "FilmId": "tt0119282",
+    "Name": "Music by Alan Menken; Lyric by David Zippel",
+    "Nominees": "Alan Menken|David Zippel",
+    "NomineeIds": "nm0579678|nm0957138",
+    "Winner": "",
+    "Detail": "Go The Distance",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Con Air",
+    "FilmId": "tt0118880",
+    "Name": "Music and Lyric by Diane Warren",
+    "Nominees": "Diane Warren",
+    "NomineeIds": "nm0005534",
+    "Winner": "",
+    "Detail": "How Do I Live",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Anastasia",
+    "FilmId": "tt0118617",
+    "Name": "Music by Stephen Flaherty; Lyric by Lynn Ahrens",
+    "Nominees": "Stephen Flaherty|Lynn Ahrens",
+    "NomineeIds": "nm0280906|nm0014326",
+    "Winner": "",
+    "Detail": "Journey To The Past",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Good Will Hunting",
+    "FilmId": "tt0119217",
+    "Name": "Music and Lyric by Elliott Smith",
+    "Nominees": "Elliott Smith",
+    "NomineeIds": "nm0808129",
+    "Winner": "",
+    "Detail": "Miss Misery",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Music by James Horner; Lyric by Will Jennings",
+    "Nominees": "James Horner|Will Jennings",
+    "NomineeIds": "nm0000035|nm0421263",
+    "Winner": "True",
+    "Detail": "My Heart Will Go On",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "As Good as It Gets",
+    "FilmId": "tt0119822",
+    "Name": "James L. Brooks, Bridget Johnson and Kristi Zea, Producers",
+    "Nominees": "James L. Brooks|Bridget Johnson|Kristi Zea",
+    "NomineeIds": "nm0000985|nm0424660|nm0954034",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Full Monty",
+    "FilmId": "tt0119164",
+    "Name": "Uberto Pasolini, Producer",
+    "Nominees": "Uberto Pasolini",
+    "NomineeIds": "nm0664667",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Good Will Hunting",
+    "FilmId": "tt0119217",
+    "Name": "Lawrence Bender, Producer",
+    "Nominees": "Lawrence Bender",
+    "NomineeIds": "nm0004744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "L.A. Confidential",
+    "FilmId": "tt0119488",
+    "Name": "Arnon Milchan, Curtis Hanson and Michael Nathanson, Producers",
+    "Nominees": "Arnon Milchan|Curtis Hanson|Michael Nathanson",
+    "NomineeIds": "nm0586969|nm0000436|nm0622296",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "James Cameron and Jon Landau, Producers",
+    "Nominees": "James Cameron|Jon Landau",
+    "NomineeIds": "nm0000116|nm0484457",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Famous Fred",
+    "FilmId": "tt0141005",
+    "Name": "Joanna Quinn",
+    "Nominees": "Joanna Quinn",
+    "NomineeIds": "nm0703885",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Geri's Game",
+    "FilmId": "tt0131409",
+    "Name": "Jan Pinkava",
+    "Nominees": "Jan Pinkava",
+    "NomineeIds": "nm0684342",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "La Vieille Dame et les Pigeons (The Old Lady and the Pigeons)",
+    "FilmId": "tt0127710",
+    "Name": "Sylvain Chomet",
+    "Nominees": "Sylvain Chomet",
+    "NomineeIds": "nm0158984",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Mermaid",
+    "FilmId": "tt0130860",
+    "Name": "Alexander Petrov",
+    "Nominees": "Alexander Petrov",
+    "NomineeIds": "nm0678154",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Redux Riding Hood",
+    "FilmId": "tt0141560",
+    "Name": "Steve Moore, Dan O'Shannon",
+    "Nominees": "Steve Moore|Dan O'Shannon",
+    "NomineeIds": "nm0601696|nm0642591",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Dance Lexie Dance",
+    "FilmId": "tt0140934",
+    "Name": "Pearse Moore, Tim Loane",
+    "Nominees": "Pearse Moore|Tim Loane",
+    "NomineeIds": "nm0601734|nm0516385",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "It's Good to Talk",
+    "FilmId": "tt0141401",
+    "Name": "Roger Goldby, Barney Reisz",
+    "Nominees": "Roger Goldby|Barney Reisz",
+    "NomineeIds": "nm0325368|nm0718553",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Sweethearts?",
+    "FilmId": "tt0141868",
+    "Name": "Birger Larsen, Thomas Lydholm",
+    "Nominees": "Birger Larsen|Thomas Lydholm",
+    "NomineeIds": "nm0488715|nm0527980",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Visas and Virtue",
+    "FilmId": "tt0141963",
+    "Name": "Chris Tashima, Chris Donahue",
+    "Nominees": "Chris Tashima|Chris Donahue",
+    "NomineeIds": "nm0850875|nm0231934",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Wolfgang",
+    "FilmId": "tt0141995",
+    "Name": "Kim Magnusson, Anders Thomas Jensen",
+    "Nominees": "Kim Magnusson|Anders Thomas Jensen",
+    "NomineeIds": "nm0536385|nm0421314",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Air Force One",
+    "FilmId": "tt0118571",
+    "Name": "Paul Massey, Rick Kline, D. M. Hemphill, Keith A. Wester",
+    "Nominees": "Paul Massey|Rick Kline|D. M. Hemphill|Keith A. Wester",
+    "NomineeIds": "nm0557338|nm0459662|nm0376153|nm0199492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Con Air",
+    "FilmId": "tt0118880",
+    "Name": "Kevin O'Connell, Greg P. Russell, Arthur Rochester",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Arthur Rochester",
+    "NomineeIds": "nm0640114|nm0751169|nm0734053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Contact",
+    "FilmId": "tt0118884",
+    "Name": "Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",
+    "Nominees": "Randy Thom|Tom Johnson|Dennis Sands|William B. Kaplan",
+    "NomineeIds": "nm0858378|nm0426348|nm0762304|nm0438202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "L.A. Confidential",
+    "FilmId": "tt0119488",
+    "Name": "Andy Nelson, Anna Behlmer, Kirk Francis",
+    "Nominees": "Andy Nelson|Anna Behlmer|Kirk Francis",
+    "NomineeIds": "nm0625144|nm0066933|nm0290220",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Gary Rydstrom, Tom Johnson, Gary Summers, Mark Ulano",
+    "Nominees": "Gary Rydstrom|Tom Johnson|Gary Summers|Mark Ulano",
+    "NomineeIds": "nm0003977|nm0426348|nm0838707|nm0880360",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Face/Off",
+    "FilmId": "tt0119094",
+    "Name": "Mark P. Stoeckinger, Per Hallberg",
+    "Nominees": "Mark P. Stoeckinger|Per Hallberg",
+    "NomineeIds": "nm0831057|nm0356319",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "The Fifth Element",
+    "FilmId": "tt0119116",
+    "Name": "Mark Mangini",
+    "Nominees": "Mark Mangini",
+    "NomineeIds": "nm0005625",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Tom Bellfort, Christopher Boyes",
+    "Nominees": "Tom Bellfort|Christopher Boyes",
+    "NomineeIds": "nm0068938|nm0102110",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Lost World: Jurassic Park",
+    "FilmId": "tt0119567",
+    "Name": "Dennis Muren, Stan Winston, Randal M. Dutra, Michael Lantieri",
+    "Nominees": "Dennis Muren|Stan Winston|Randal M. Dutra|Michael Lantieri",
+    "NomineeIds": "nm0613830|nm0935644|nm0244833|nm0487177",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Starship Troopers",
+    "FilmId": "tt0120201",
+    "Name": "Phil Tippett, Scott E. Anderson, Alec Gillis, John Richardson",
+    "Nominees": "Phil Tippett|Scott E. Anderson|Alec Gillis|John Richardson",
+    "NomineeIds": "nm0864138|nm0027423|nm0319266|nm0724624",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Titanic",
+    "FilmId": "tt0120338",
+    "Name": "Robert Legato, Mark Lasoff, Thomas L. Fisher, Michael Kanfer",
+    "Nominees": "Robert Legato|Mark Lasoff|Thomas L. Fisher|Michael Kanfer",
+    "NomineeIds": "nm0499215|nm0489747|nm0279812|nm0437604",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Donnie Brasco",
+    "FilmId": "tt0119008",
+    "Name": "Paul Attanasio",
+    "Nominees": "Paul Attanasio",
+    "NomineeIds": "nm0001921",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "L.A. Confidential",
+    "FilmId": "tt0119488",
+    "Name": "Brian Helgeland, Curtis Hanson",
+    "Nominees": "Brian Helgeland|Curtis Hanson",
+    "NomineeIds": "nm0001338|nm0000436",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Sweet Hereafter",
+    "FilmId": "tt0120255",
+    "Name": "Atom Egoyan",
+    "Nominees": "Atom Egoyan",
+    "NomineeIds": "nm0000382",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Wag the Dog",
+    "FilmId": "tt0120885",
+    "Name": "Hilary Henkin, David Mamet",
+    "Nominees": "Hilary Henkin|David Mamet",
+    "NomineeIds": "nm0377088|nm0000519",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Wings of the Dove",
+    "FilmId": "tt0120520",
+    "Name": "Hossein Amini",
+    "Nominees": "Hossein Amini",
+    "NomineeIds": "nm0024925",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "As Good as It Gets",
+    "FilmId": "tt0119822",
+    "Name": "Screenplay by Mark Andrus, James L. Brooks; Story by Mark Andrus",
+    "Nominees": "Mark Andrus|James L. Brooks",
+    "NomineeIds": "nm0029125|nm0000985",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Boogie Nights",
+    "FilmId": "tt0118749",
+    "Name": "Paul Thomas Anderson",
+    "Nominees": "Paul Thomas Anderson",
+    "NomineeIds": "nm0000759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Deconstructing Harry",
+    "FilmId": "tt0118954",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "The Full Monty",
+    "FilmId": "tt0119164",
+    "Name": "Simon Beaufoy",
+    "Nominees": "Simon Beaufoy",
+    "NomineeIds": "nm0064479",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Good Will Hunting",
+    "FilmId": "tt0119217",
+    "Name": "Ben Affleck, Matt Damon",
+    "Nominees": "Ben Affleck|Matt Damon",
+    "NomineeIds": "nm0000255|nm0000354",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Stanley Donen",
+    "NomineeIds": "nm0002045",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Stanley Donen in appreciation of a body of work marked by grace, elegance, wit and visual innovation."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Don Iwerks",
+    "NomineeIds": "nm0412648",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Don Iwerks"
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gunnar P. Michelson",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To GUNNAR P. MICHELSON for the engineering and development of an improved, electronic, high-speed, precision light valve for use in motion picture printing machines."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "William Kovacs|Roy Hall",
+    "NomineeIds": "nm0468224|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To WILLIAM KOVACS for his creative leadership and ROY HALL for his principal engineering efforts that led to the Wavefront Advanced Visualizer computer graphics system."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Gibson|Rob Krieger|Milan Novacek|Glen Ozymok|Dave Springer",
+    "NomineeIds": "nm0317040|?|?|?|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JOHN GIBSON, ROB KRIEGER, MILAN NOVACEK, GLEN OZYMOK and DAVE SPRINGER for the development of the geometric modeling component of the Alias PowerAnimator System."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dominique Boisvert|Réjean|Daniel Langlois|Richard Laperriere",
+    "NomineeIds": "?|?|nm0486570|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To DOMINIQUE BOISVERT, RÉJEAN GAGNÉ, DANIEL LANGLOIS and RICHARD LAPERRIERE for the development of the \\\"Actor\\\" animation component of the Softimage computer animation system."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eben Ostby|William Reeves|Samuel J. Leffler|Tom Duff",
+    "NomineeIds": "nm0652296|nm0716315|nm0499001|nm0240416",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To EBEN OSTBY, WILLIAM REEVES, SAMUEL J. LEFFLER and TOM DUFF for the development of the Marionette Three-Dimensional Computer Animation System."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Craig W. Reynolds",
+    "NomineeIds": "nm0721662",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To CRAIG W. REYNOLDS for his pioneering contributions to the development of three-dimensional computer animation for motion picture production."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard Shoup|Alvy Ray Smith|Thomas Porter",
+    "NomineeIds": "nm1542930|nm0807286|nm0692312",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To RICHARD SHOUP, ALVY RAY SMITH and THOMAS PORTER for their pioneering efforts in the development of digital paint systems used in motion picture production."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Kirk Handley|Ray Meluch|Scott Robinson|Wilson H. Allen|John Neary",
+    "NomineeIds": "?|?|nm0733079|?|?",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To KIRK HANDLEY, RAY MELUCH, SCOTT ROBINSON, WILSON H. ALLEN and JOHN NEARY for the design, development and implementation of the Dolby CP500 Digital Cinema Processor."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JOEL W. JOHNSON",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To JOEL W. JOHNSON of the O'Connor Laboratories for the unique design improvement in fluid head counter-balancing techniques as used in their Model 2575."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Al Jensen|CHUCK HEADLEY|JEAN MESSNER|HAZEM NABULSI",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To AL JENSEN, CHUCK HEADLEY, JEAN MESSNER and HAZEM NABULSI of CEI Technology for the production of a self-contained, flicker-free, Color Video-Assist Camera."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Clark F. Crites",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To CLARK F. CRITES for the design and development of the Christie ELF 1-C Endless Loop Film Transport and Storage System."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dan Leimeter|Robert Weitz",
+    "NomineeIds": "?|nm0919359",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To DAN LEIMETER and ROBERT WEITZ for the development and implementation of a Portable Adjustment Tool for T-Style Slit Lens Assemblies."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Philip C. Cory",
+    "NomineeIds": "nm0179811",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To PHILIP C. CORY for the design and development of the Special Effects Spark Generator."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James M. Reilly|DOUGLAS W. NISHIMURA|MONIQUE C. FISCHER",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To JAMES M. REILLY, DOUGLAS W. NISHIMURA and MONIQUE C. FISCHER of the Rochester Institute of Technology for the creation of A-D Strips, a diagnostic tool for the detection of the presence of vinegar syndrome in processed acetate-based motion picture film."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jim Frazier|Iain Neil|Rick Gelbard",
+    "NomineeIds": "nm2149370|?|?",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To JIM FRAZIER, for the design concept, and IAIN NEIL and RICK GELBARD for the further design and development of the Panavision/Frazier Lens System for motion picture photography."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James F. Foley|Charles E. Converse|F. Edward Gardner|Robert W. Stoker Jr.|Matt Sweeney",
+    "NomineeIds": "?|?|?|nm0831289|nm0842157",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To JAMES F. FOLEY, CHARLES E. CONVERSE and F. EDWARD GARDNER of UCISCO; and to ROBERT W. STOKER, JR. and MATT SWEENEY for the development and realization of Liquid Synthetic Air."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jack Cashin|Roger Hibbard|Larry Jacobson",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To JACK CASHIN, ROGER HIBBARD and LARRY JACOBSON for the design, development and implementation of a projection system analyzer."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard Chuang|Glenn Entis|Carl Rosendahl",
+    "NomineeIds": "nm0160928|nm0258184|nm0742507",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To RICHARD CHUANG, GLENN ENTIS and CARL ROSENDAHL for the concept and architecture of the Pacific Data Images (PDI) Animation System."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Greg Hermanovic|Kim Davidson|Mark Elendt|Paul H. Breslin",
+    "NomineeIds": "nm1232700|?|?|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To GREG HERMANOVIC, KIM DAVIDSON, MARK ELENDT and PAUL H. BRESLIN for the development of the procedural modeling and animation components of the Prisms software package."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James J. Keating|Michael Wahrman|Richard Hollander",
+    "NomineeIds": "nm0444112|nm0906385|nm0390897",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JAMES J. KEATING, MICHAEL WAHRMAN and RICHARD HOLLANDER for their contributions that led to the Wavefront Advanced Visualizer computer graphics system."
+  },
+  {
+    "Ceremony": 70,
+    "Year": 1997,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Pete Clark",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Pete Clark in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

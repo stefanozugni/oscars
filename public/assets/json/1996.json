@@ -1,1733 +1,2098 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1996",
-    "nominees": [
-      "The English Patient"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1996",
-    "nominees": [
-      "Fargo"
-    ],
-    "movies": [
-      {
-        "title": "Fargo",
-        "tmdb_id": 275,
-        "imdb_id": "tt0116282"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1996",
-    "nominees": [
-      "Jerry Maguire"
-    ],
-    "movies": [
-      {
-        "title": "Jerry Maguire",
-        "tmdb_id": 9390,
-        "imdb_id": "tt0116695"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1996",
-    "nominees": [
-      "Secrets & Lies"
-    ],
-    "movies": [
-      {
-        "title": "Secrets & Lies",
-        "tmdb_id": 11159,
-        "imdb_id": "tt0117589"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1996",
-    "nominees": [
-      "Shine"
-    ],
-    "movies": [
-      {
-        "title": "Shine",
-        "tmdb_id": 7863,
-        "imdb_id": "tt0117631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1996",
-    "nominees": [
-      "Geoffrey Rush"
-    ],
-    "movies": [
-      {
-        "title": "Shine",
-        "tmdb_id": 7863,
-        "imdb_id": "tt0117631"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1996",
-    "nominees": [
-      "Tom Cruise"
-    ],
-    "movies": [
-      {
-        "title": "Jerry Maguire",
-        "tmdb_id": 9390,
-        "imdb_id": "tt0116695"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1996",
-    "nominees": [
-      "Ralph Fiennes"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1996",
-    "nominees": [
-      "Woody Harrelson"
-    ],
-    "movies": [
-      {
-        "title": "The People vs. Larry Flynt",
-        "tmdb_id": 1630,
-        "imdb_id": "tt0117318"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1996",
-    "nominees": [
-      "Billy Bob Thornton"
-    ],
-    "movies": [
-      {
-        "title": "Sling Blade",
-        "tmdb_id": 12498,
-        "imdb_id": "tt0117666"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1996",
-    "nominees": [
-      "Frances McDormand"
-    ],
-    "movies": [
-      {
-        "title": "Fargo",
-        "tmdb_id": 275,
-        "imdb_id": "tt0116282"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1996",
-    "nominees": [
-      "Brenda Blethyn"
-    ],
-    "movies": [
-      {
-        "title": "Secrets & Lies",
-        "tmdb_id": 11159,
-        "imdb_id": "tt0117589"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1996",
-    "nominees": [
-      "Diane Keaton"
-    ],
-    "movies": [
-      {
-        "title": "Marvin's Room",
-        "tmdb_id": 9819,
-        "imdb_id": "tt0116999"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1996",
-    "nominees": [
-      "Kristin Scott Thomas"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1996",
-    "nominees": [
-      "Emily Watson"
-    ],
-    "movies": [
-      {
-        "title": "Breaking the Waves",
-        "tmdb_id": 145,
-        "imdb_id": "tt0115751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1996",
-    "nominees": [
-      "Cuba Gooding Jr."
-    ],
-    "movies": [
-      {
-        "title": "Jerry Maguire",
-        "tmdb_id": 9390,
-        "imdb_id": "tt0116695"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1996",
-    "nominees": [
-      "William H. Macy"
-    ],
-    "movies": [
-      {
-        "title": "Fargo",
-        "tmdb_id": 275,
-        "imdb_id": "tt0116282"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1996",
-    "nominees": [
-      "Armin Mueller-Stahl"
-    ],
-    "movies": [
-      {
-        "title": "Shine",
-        "tmdb_id": 7863,
-        "imdb_id": "tt0117631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1996",
-    "nominees": [
-      "Edward Norton"
-    ],
-    "movies": [
-      {
-        "title": "Primal Fear",
-        "tmdb_id": 1592,
-        "imdb_id": "tt0117381"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1996",
-    "nominees": [
-      "James Woods"
-    ],
-    "movies": [
-      {
-        "title": "Ghosts of Mississippi",
-        "tmdb_id": 31908,
-        "imdb_id": "tt0116410"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1996",
-    "nominees": [
-      "Juliette Binoche"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1996",
-    "nominees": [
-      "Joan Allen"
-    ],
-    "movies": [
-      {
-        "title": "The Crucible",
-        "tmdb_id": 20539,
-        "imdb_id": "tt0115988"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1996",
-    "nominees": [
-      "Lauren Bacall"
-    ],
-    "movies": [
-      {
-        "title": "The Mirror Has Two Faces",
-        "tmdb_id": 25189,
-        "imdb_id": "tt0117057"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1996",
-    "nominees": [
-      "Barbara Hershey"
-    ],
-    "movies": [
-      {
-        "title": "The Portrait of a Lady",
-        "tmdb_id": 36758,
-        "imdb_id": "tt0117364"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1996",
-    "nominees": [
-      "Marianne Jean-Baptiste"
-    ],
-    "movies": [
-      {
-        "title": "Secrets & Lies",
-        "tmdb_id": 11159,
-        "imdb_id": "tt0117589"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1996",
-    "nominees": [
-      "Anthony Minghella"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1996",
-    "nominees": [
-      "Joel Coen"
-    ],
-    "movies": [
-      {
-        "title": "Fargo",
-        "tmdb_id": 275,
-        "imdb_id": "tt0116282"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1996",
-    "nominees": [
-      "Milos Forman"
-    ],
-    "movies": [
-      {
-        "title": "The People vs. Larry Flynt",
-        "tmdb_id": 1630,
-        "imdb_id": "tt0117318"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1996",
-    "nominees": [
-      "Scott Hicks"
-    ],
-    "movies": [
-      {
-        "title": "Shine",
-        "tmdb_id": 7863,
-        "imdb_id": "tt0117631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1996",
-    "nominees": [
-      "Mike Leigh"
-    ],
-    "movies": [
-      {
-        "title": "Secrets & Lies",
-        "tmdb_id": 11159,
-        "imdb_id": "tt0117589"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1996",
-    "nominees": [
-      "Billy Bob Thornton"
-    ],
-    "movies": [
-      {
-        "title": "Sling Blade",
-        "tmdb_id": 12498,
-        "imdb_id": "tt0117666"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1996",
-    "nominees": [
-      "Arthur Miller"
-    ],
-    "movies": [
-      {
-        "title": "The Crucible",
-        "tmdb_id": 20539,
-        "imdb_id": "tt0115988"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1996",
-    "nominees": [
-      "Anthony Minghella"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1996",
-    "nominees": [
-      "Kenneth Branagh"
-    ],
-    "movies": [
-      {
-        "title": "Hamlet",
-        "tmdb_id": 10549,
-        "imdb_id": "tt0116477"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1996",
-    "nominees": [
-      "John Hodge"
-    ],
-    "movies": [
-      {
-        "title": "Trainspotting",
-        "tmdb_id": 627,
-        "imdb_id": "tt0117951"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1996",
-    "nominees": [
-      "Joel",
-      "Ethan Coen"
-    ],
-    "movies": [
-      {
-        "title": "Fargo",
-        "tmdb_id": 275,
-        "imdb_id": "tt0116282"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1996",
-    "nominees": [
-      "Cameron Crowe"
-    ],
-    "movies": [
-      {
-        "title": "Jerry Maguire",
-        "tmdb_id": 9390,
-        "imdb_id": "tt0116695"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1996",
-    "nominees": [
-      "John Sayles"
-    ],
-    "movies": [
-      {
-        "title": "Lone Star",
-        "tmdb_id": 26748,
-        "imdb_id": "tt0116905"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1996",
-    "nominees": [
-      "Mike Leigh"
-    ],
-    "movies": [
-      {
-        "title": "Secrets & Lies",
-        "tmdb_id": 11159,
-        "imdb_id": "tt0117589"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1996",
-    "nominees": [
-      "Jan Sardi",
-      "Scott Hicks"
-    ],
-    "movies": [
-      {
-        "title": "Shine",
-        "tmdb_id": 7863,
-        "imdb_id": "tt0117631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1996",
-    "nominees": [
-      "Gabriel Yared"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1996",
-    "nominees": [
-      "Patrick Doyle"
-    ],
-    "movies": [
-      {
-        "title": "Hamlet",
-        "tmdb_id": 10549,
-        "imdb_id": "tt0116477"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1996",
-    "nominees": [
-      "Elliot Goldenthal"
-    ],
-    "movies": [
-      {
-        "title": "Michael Collins",
-        "tmdb_id": 1770,
-        "imdb_id": "tt0117039"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1996",
-    "nominees": [
-      "David Hirschfelder"
-    ],
-    "movies": [
-      {
-        "title": "Shine",
-        "tmdb_id": 7863,
-        "imdb_id": "tt0117631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1996",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Sleepers",
-        "tmdb_id": 819,
-        "imdb_id": "tt0117665"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1996",
-    "nominees": [
-      "Rachel Portman"
-    ],
-    "movies": [
-      {
-        "title": "Emma",
-        "tmdb_id": 3573,
-        "imdb_id": "tt0116191"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1996",
-    "nominees": [
-      "Marc Shaiman"
-    ],
-    "movies": [
-      {
-        "title": "The First Wives Club",
-        "tmdb_id": 2925,
-        "imdb_id": "tt0116313"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1996",
-    "nominees": [
-      "Alan Menken",
-      "Stephen Schwartz"
-    ],
-    "movies": [
-      {
-        "title": "The Hunchback of Notre Dame",
-        "tmdb_id": 10545,
-        "imdb_id": "tt0116583"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1996",
-    "nominees": [
-      "Randy Newman"
-    ],
-    "movies": [
-      {
-        "title": "James and the Giant Peach",
-        "tmdb_id": 10539,
-        "imdb_id": "tt0116683"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1996",
-    "nominees": [
-      "Hans Zimmer"
-    ],
-    "movies": [
-      {
-        "title": "The Preacher's Wife",
-        "tmdb_id": 21539,
-        "imdb_id": "tt0117372"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1996",
-    "nominees": [
-      "You Must Love Me"
-    ],
-    "movies": [
-      {
-        "title": "Evita",
-        "tmdb_id": 8818,
-        "imdb_id": "tt0116250"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1996",
-    "nominees": [
-      "I Finally Found Someone"
-    ],
-    "movies": [
-      {
-        "title": "The Mirror Has Two Faces",
-        "tmdb_id": 25189,
-        "imdb_id": "tt0117057"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1996",
-    "nominees": [
-      "For the First Time"
-    ],
-    "movies": [
-      {
-        "title": "One Fine Day",
-        "tmdb_id": 7300,
-        "imdb_id": "tt0117247"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1996",
-    "nominees": [
-      "That Thing You Do!"
-    ],
-    "movies": [
-      {
-        "title": "That Thing You Do!",
-        "tmdb_id": 9591,
-        "imdb_id": "tt0117887"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1996",
-    "nominees": [
-      "Because You Loved Me"
-    ],
-    "movies": [
-      {
-        "title": "Up Close & Personal",
-        "tmdb_id": 9302,
-        "imdb_id": "tt0118055"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1996",
-    "nominees": [
-      "Kolya"
-    ],
-    "movies": [
-      {
-        "title": "Kolya",
-        "tmdb_id": 784,
-        "imdb_id": "tt0116790"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1996",
-    "nominees": [
-      "A Chef in Love"
-    ],
-    "movies": [
-      {
-        "title": "A Chef in Love",
-        "tmdb_id": 105763,
-        "imdb_id": "tt0117050"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1996",
-    "nominees": [
-      "The Other Side of Sunday"
-    ],
-    "movies": [
-      {
-        "title": "The Other Side of Sunday",
-        "tmdb_id": 46754,
-        "imdb_id": "tt0117817"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1996",
-    "nominees": [
-      "Prisoner of the Mountains"
-    ],
-    "movies": [
-      {
-        "title": "Prisoner of the Mountains",
-        "tmdb_id": 55936,
-        "imdb_id": "tt0116754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1996",
-    "nominees": [
-      "Ridicule"
-    ],
-    "movies": [
-      {
-        "title": "Ridicule",
-        "tmdb_id": 12709,
-        "imdb_id": "tt0117477"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1996",
-    "nominees": [
-      "When We Were Kings"
-    ],
-    "movies": [
-      {
-        "title": "When We Were Kings",
-        "tmdb_id": 10548,
-        "imdb_id": "tt0118147"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1996",
-    "nominees": [
-      "The Line King: The Al Hirschfeld Story"
-    ],
-    "movies": [
-      {
-        "title": "The Line King: The Al Hirschfeld Story",
-        "tmdb_id": 124829,
-        "imdb_id": "tt0116886"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1996",
-    "nominees": [
-      "Mandela"
-    ],
-    "movies": [
-      {
-        "title": "Mandela",
-        "tmdb_id": 57016,
-        "imdb_id": "tt0116980"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1996",
-    "nominees": [
-      "Suzanne Farrell: Elusive Muse"
-    ],
-    "movies": [
-      {
-        "title": "Suzanne Farrell: Elusive Muse",
-        "tmdb_id": 126998,
-        "imdb_id": "tt0117793"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1996",
-    "nominees": [
-      "Tell the Truth and Run: George Seldes and the American Press"
-    ],
-    "movies": [
-      {
-        "title": "Tell the Truth and Run: George Seldes and the American Press",
-        "tmdb_id": 41221,
-        "imdb_id": "tt0117873"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1996",
-    "nominees": [
-      "Breathing Lessons: The Life and Work of Mark O'Brien"
-    ],
-    "movies": [
-      {
-        "title": "Breathing Lessons: The Life and Work of Mark O'Brien",
-        "tmdb_id": 244906,
-        "imdb_id": "tt0115753"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1996",
-    "nominees": [
-      "Cosmic Voyage"
-    ],
-    "movies": [
-      {
-        "title": "Cosmic Voyage",
-        "tmdb_id": 13799,
-        "imdb_id": "tt0115952"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1996",
-    "nominees": [
-      "An Essay on Matisse"
-    ],
-    "movies": [
-      {
-        "title": "An Essay on Matisse",
-        "tmdb_id": 244907,
-        "imdb_id": "tt0116234"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1996",
-    "nominees": [
-      "Special Effects: Anything Can Happen"
-    ],
-    "movies": [
-      {
-        "title": "Special Effects: Anything Can Happen",
-        "tmdb_id": 244909,
-        "imdb_id": "tt0117709"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1996",
-    "nominees": [
-      "The Wild Bunch: An Album in Montage"
-    ],
-    "movies": [
-      {
-        "title": "The Wild Bunch: An Album in Montage",
-        "tmdb_id": 61086,
-        "imdb_id": "tt0118167"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1996",
-    "nominees": [
-      "Quest"
-    ],
-    "movies": [
-      {
-        "title": "Quest",
-        "tmdb_id": 93114,
-        "imdb_id": "tt0117419"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1996",
-    "nominees": [
-      "Canhead"
-    ],
-    "movies": [
-      {
-        "title": "Canhead",
-        "tmdb_id": 220836,
-        "imdb_id": "tt0115817"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1996",
-    "nominees": [
-      "La Salla"
-    ],
-    "movies": [
-      {
-        "title": "La Salla",
-        "tmdb_id": 218775,
-        "imdb_id": "tt0117542"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1996",
-    "nominees": [
-      "Wat's Pig"
-    ],
-    "movies": [
-      {
-        "title": "Wat's Pig",
-        "tmdb_id": 48589,
-        "imdb_id": "tt0118123"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1996",
-    "nominees": [
-      "Dear Diary"
-    ],
-    "movies": [
-      {
-        "title": "Dear Diary",
-        "tmdb_id": 244901,
-        "imdb_id": "tt0116058"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1996",
-    "nominees": [
-      "De Tripas, Corazón"
-    ],
-    "movies": [
-      {
-        "title": "De Tripas, Corazón",
-        "tmdb_id": 244904,
-        "imdb_id": "tt0116044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1996",
-    "nominees": [
-      "Ernst & the Light"
-    ],
-    "movies": [
-      {
-        "title": "Ernst & the Light",
-        "tmdb_id": 210822,
-        "imdb_id": "tt0116214"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1996",
-    "nominees": [
-      "Linked"
-    ],
-    "movies": [
-      {
-        "title": "Linked",
-        "tmdb_id": 186701,
-        "imdb_id": "tt0116233"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1996",
-    "nominees": [
-      "Wordless"
-    ],
-    "movies": [
-      {
-        "title": "Wordless",
-        "tmdb_id": 244905,
-        "imdb_id": "tt0118191"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Stuart Craig",
-      "Stephenie McMillan"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Bo Welch",
-      "Cheryl Carasik"
-    ],
-    "movies": [
-      {
-        "title": "The Birdcage",
-        "tmdb_id": 11000,
-        "imdb_id": "tt0115685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Brian Morris",
-      "Philippe Turlure"
-    ],
-    "movies": [
-      {
-        "title": "Evita",
-        "tmdb_id": 8818,
-        "imdb_id": "tt0116250"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Tim Harvey"
-    ],
-    "movies": [
-      {
-        "title": "Hamlet",
-        "tmdb_id": 10549,
-        "imdb_id": "tt0116477"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Catherine Martin",
-      "Brigitte Broch"
-    ],
-    "movies": [
-      {
-        "title": "Romeo + Juliet",
-        "tmdb_id": 454,
-        "imdb_id": "tt0117509"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1996",
-    "nominees": [
-      "John Seale"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1996",
-    "nominees": [
-      "Darius Khondji"
-    ],
-    "movies": [
-      {
-        "title": "Evita",
-        "tmdb_id": 8818,
-        "imdb_id": "tt0116250"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1996",
-    "nominees": [
-      "Roger Deakins"
-    ],
-    "movies": [
-      {
-        "title": "Fargo",
-        "tmdb_id": 275,
-        "imdb_id": "tt0116282"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1996",
-    "nominees": [
-      "Caleb Deschanel"
-    ],
-    "movies": [
-      {
-        "title": "Fly Away Home",
-        "tmdb_id": 11076,
-        "imdb_id": "tt0116329"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1996",
-    "nominees": [
-      "Chris Menges"
-    ],
-    "movies": [
-      {
-        "title": "Michael Collins",
-        "tmdb_id": 1770,
-        "imdb_id": "tt0117039"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1996",
-    "nominees": [
-      "Walter Murch"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1996",
-    "nominees": [
-      "Gerry Hambling"
-    ],
-    "movies": [
-      {
-        "title": "Evita",
-        "tmdb_id": 8818,
-        "imdb_id": "tt0116250"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1996",
-    "nominees": [
-      "Roderick Jaynes (Joel Coen",
-      "Ethan Coen)"
-    ],
-    "movies": [
-      {
-        "title": "Fargo",
-        "tmdb_id": 275,
-        "imdb_id": "tt0116282"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1996",
-    "nominees": [
-      "Joe Hutshing"
-    ],
-    "movies": [
-      {
-        "title": "Jerry Maguire",
-        "tmdb_id": 9390,
-        "imdb_id": "tt0116695"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1996",
-    "nominees": [
-      "Pip Karmel"
-    ],
-    "movies": [
-      {
-        "title": "Shine",
-        "tmdb_id": 7863,
-        "imdb_id": "tt0117631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1996",
-    "nominees": [
-      "Volker Engel",
-      "Douglas Smith",
-      "Clay Pinney",
-      "Joseph Viskocil"
-    ],
-    "movies": [
-      {
-        "title": "Independence Day",
-        "tmdb_id": 602,
-        "imdb_id": "tt0116629"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1996",
-    "nominees": [
-      "Scott Squires",
-      "Phil Tippett",
-      "James Straus",
-      "Kit West"
-    ],
-    "movies": [
-      {
-        "title": "DragonHeart",
-        "tmdb_id": 8840,
-        "imdb_id": "tt0116136"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1996",
-    "nominees": [
-      "Stefen Fangmeier",
-      "John Frazier",
-      "Habib Zargarpour",
-      "Henry Labounta"
-    ],
-    "movies": [
-      {
-        "title": "Twister",
-        "tmdb_id": 664,
-        "imdb_id": "tt0117998"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1996",
-    "nominees": [
-      "Walter Murch",
-      "Mark Berger",
-      "David Parker",
-      "Chris Newman"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1996",
-    "nominees": [
-      "Andy Nelson",
-      "Anna Behlmer",
-      "Ken Weston"
-    ],
-    "movies": [
-      {
-        "title": "Evita",
-        "tmdb_id": 8818,
-        "imdb_id": "tt0116250"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1996",
-    "nominees": [
-      "Chris Carpenter",
-      "Bill W. Benton",
-      "Bob Beemer",
-      "Jeff Wexler"
-    ],
-    "movies": [
-      {
-        "title": "Independence Day",
-        "tmdb_id": 602,
-        "imdb_id": "tt0116629"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1996",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Keith A. Wester"
-    ],
-    "movies": [
-      {
-        "title": "The Rock",
-        "tmdb_id": 9802,
-        "imdb_id": "tt0117500"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1996",
-    "nominees": [
-      "Steve Maslow",
-      "Gregg Landaker",
-      "Kevin O'Connell",
-      "Geoffrey Patterson"
-    ],
-    "movies": [
-      {
-        "title": "Twister",
-        "tmdb_id": 664,
-        "imdb_id": "tt0117998"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1996",
-    "nominees": [
-      "Bruce Stambler"
-    ],
-    "movies": [
-      {
-        "title": "The Ghost and the Darkness",
-        "tmdb_id": 10586,
-        "imdb_id": "tt0116409"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1996",
-    "nominees": [
-      "Richard Anderson",
-      "David Whittaker"
-    ],
-    "movies": [
-      {
-        "title": "Daylight",
-        "tmdb_id": 11228,
-        "imdb_id": "tt0116040"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1996",
-    "nominees": [
-      "Alan Robert Murray",
-      "Bub Asman"
-    ],
-    "movies": [
-      {
-        "title": "Eraser",
-        "tmdb_id": 9268,
-        "imdb_id": "tt0116213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1996",
-    "nominees": [
-      "Rick Baker",
-      "David LeRoy Anderson"
-    ],
-    "movies": [
-      {
-        "title": "The Nutty Professor",
-        "tmdb_id": 9327,
-        "imdb_id": "tt0117218"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1996",
-    "nominees": [
-      "Matthew W. Mungle",
-      "Deborah La Mia Denaver"
-    ],
-    "movies": [
-      {
-        "title": "Ghosts of Mississippi",
-        "tmdb_id": 31908,
-        "imdb_id": "tt0116410"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1996",
-    "nominees": [
-      "Michael Westmore",
-      "Scott Wheeler",
-      "Jake Garber"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek: First Contact",
-        "tmdb_id": 199,
-        "imdb_id": "tt0117731"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Ann Roth"
-    ],
-    "movies": [
-      {
-        "title": "The English Patient",
-        "tmdb_id": 409,
-        "imdb_id": "tt0116209"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Paul Brown"
-    ],
-    "movies": [
-      {
-        "title": "Angels and Insects",
-        "tmdb_id": 8447,
-        "imdb_id": "tt0112365"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Alexandra Byrne"
-    ],
-    "movies": [
-      {
-        "title": "Hamlet",
-        "tmdb_id": 10549,
-        "imdb_id": "tt0116477"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Ruth Myers"
-    ],
-    "movies": [
-      {
-        "title": "Emma",
-        "tmdb_id": 3573,
-        "imdb_id": "tt0116191"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1996",
-    "nominees": [
-      "Janet Patterson"
-    ],
-    "movies": [
-      {
-        "title": "The Portrait of a Lady",
-        "tmdb_id": 36758,
-        "imdb_id": "tt0117364"
-      }
-    ],
-    "won": false
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Jerry Maguire",
+    "FilmId": "tt0116695",
+    "Name": "Tom Cruise",
+    "Nominees": "Tom Cruise",
+    "NomineeIds": "nm0000129",
+    "Winner": "",
+    "Detail": "Jerry Maguire",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Ralph Fiennes",
+    "Nominees": "Ralph Fiennes",
+    "NomineeIds": "nm0000146",
+    "Winner": "",
+    "Detail": "Almasy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The People vs. Larry Flynt",
+    "FilmId": "tt0117318",
+    "Name": "Woody Harrelson",
+    "Nominees": "Woody Harrelson",
+    "NomineeIds": "nm0000437",
+    "Winner": "",
+    "Detail": "Larry Flynt",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Shine",
+    "FilmId": "tt0117631",
+    "Name": "Geoffrey Rush",
+    "Nominees": "Geoffrey Rush",
+    "NomineeIds": "nm0001691",
+    "Winner": "True",
+    "Detail": "David Helfgott",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Sling Blade",
+    "FilmId": "tt0117666",
+    "Name": "Billy Bob Thornton",
+    "Nominees": "Billy Bob Thornton",
+    "NomineeIds": "nm0000671",
+    "Winner": "",
+    "Detail": "Karl Childers",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Jerry Maguire",
+    "FilmId": "tt0116695",
+    "Name": "Cuba Gooding, Jr.",
+    "Nominees": "Cuba Gooding Jr.",
+    "NomineeIds": "nm0000421",
+    "Winner": "True",
+    "Detail": "Rod Tidwell",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Fargo",
+    "FilmId": "tt0116282",
+    "Name": "William H. Macy",
+    "Nominees": "William H. Macy",
+    "NomineeIds": "nm0000513",
+    "Winner": "",
+    "Detail": "Jerry Lundegaard",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Shine",
+    "FilmId": "tt0117631",
+    "Name": "Armin Mueller-Stahl",
+    "Nominees": "Armin Mueller-Stahl",
+    "NomineeIds": "nm0000090",
+    "Winner": "",
+    "Detail": "Peter Helfgott",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Primal Fear",
+    "FilmId": "tt0117381",
+    "Name": "Edward Norton",
+    "Nominees": "Edward Norton",
+    "NomineeIds": "nm0001570",
+    "Winner": "",
+    "Detail": "Aaron Stampler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Ghosts of Mississippi",
+    "FilmId": "tt0116410",
+    "Name": "James Woods",
+    "Nominees": "James Woods",
+    "NomineeIds": "nm0000249",
+    "Winner": "",
+    "Detail": "Byron De La Beckwith",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Secrets & Lies",
+    "FilmId": "tt0117589",
+    "Name": "Brenda Blethyn",
+    "Nominees": "Brenda Blethyn",
+    "NomineeIds": "nm0000950",
+    "Winner": "",
+    "Detail": "Cynthia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Marvin's Room",
+    "FilmId": "tt0116999",
+    "Name": "Diane Keaton",
+    "Nominees": "Diane Keaton",
+    "NomineeIds": "nm0000473",
+    "Winner": "",
+    "Detail": "Bessie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Fargo",
+    "FilmId": "tt0116282",
+    "Name": "Frances McDormand",
+    "Nominees": "Frances McDormand",
+    "NomineeIds": "nm0000531",
+    "Winner": "True",
+    "Detail": "Marge Gunderson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Kristin Scott Thomas",
+    "Nominees": "Kristin Scott Thomas",
+    "NomineeIds": "nm0000218",
+    "Winner": "",
+    "Detail": "Katharine Clifton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Breaking the Waves",
+    "FilmId": "tt0115751",
+    "Name": "Emily Watson",
+    "Nominees": "Emily Watson",
+    "NomineeIds": "nm0001833",
+    "Winner": "",
+    "Detail": "Bess",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Crucible",
+    "FilmId": "tt0115988",
+    "Name": "Joan Allen",
+    "Nominees": "Joan Allen",
+    "NomineeIds": "nm0000260",
+    "Winner": "",
+    "Detail": "Elizabeth Proctor",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Mirror Has Two Faces",
+    "FilmId": "tt0117057",
+    "Name": "Lauren Bacall",
+    "Nominees": "Lauren Bacall",
+    "NomineeIds": "nm0000002",
+    "Winner": "",
+    "Detail": "Hannah Morgan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Juliette Binoche",
+    "Nominees": "Juliette Binoche",
+    "NomineeIds": "nm0000300",
+    "Winner": "True",
+    "Detail": "Hana",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Portrait of a Lady",
+    "FilmId": "tt0117364",
+    "Name": "Barbara Hershey",
+    "Nominees": "Barbara Hershey",
+    "NomineeIds": "nm0001347",
+    "Winner": "",
+    "Detail": "Madame Serena Merle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Secrets & Lies",
+    "FilmId": "tt0117589",
+    "Name": "Marianne Jean-Baptiste",
+    "Nominees": "Marianne Jean-Baptiste",
+    "NomineeIds": "nm0001399",
+    "Winner": "",
+    "Detail": "Hortense",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Birdcage",
+    "FilmId": "tt0115685",
+    "Name": "Art Direction: Bo Welch; Set Decoration: Cheryl Carasik",
+    "Nominees": "Bo Welch|Cheryl Carasik",
+    "NomineeIds": "nm0919514|nm0135974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Art Direction: Stuart Craig; Set Decoration: Stephenie McMillan",
+    "Nominees": "Stuart Craig|Stephenie McMillan",
+    "NomineeIds": "nm0186023|nm0573328",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Evita",
+    "FilmId": "tt0116250",
+    "Name": "Art Direction: Brian Morris; Set Decoration: Philippe Turlure",
+    "Nominees": "Brian Morris|Philippe Turlure",
+    "NomineeIds": "nm0606402|nm0877265",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Hamlet",
+    "FilmId": "tt0116477",
+    "Name": "Tim Harvey",
+    "Nominees": "Tim Harvey",
+    "NomineeIds": "nm0367733",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "William Shakespeare's Romeo & Juliet",
+    "FilmId": "tt0117509",
+    "Name": "Art Direction: Catherine Martin; Set Decoration: Brigitte Broch",
+    "Nominees": "Catherine Martin|Brigitte Broch",
+    "NomineeIds": "nm0552039|nm0110488",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "John Seale",
+    "Nominees": "John Seale",
+    "NomineeIds": "nm0005868",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Evita",
+    "FilmId": "tt0116250",
+    "Name": "Darius Khondji",
+    "Nominees": "Darius Khondji",
+    "NomineeIds": "nm0451787",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Fargo",
+    "FilmId": "tt0116282",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Fly Away Home",
+    "FilmId": "tt0116329",
+    "Name": "Caleb Deschanel",
+    "Nominees": "Caleb Deschanel",
+    "NomineeIds": "nm0221042",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Michael Collins",
+    "FilmId": "tt0117039",
+    "Name": "Chris Menges",
+    "Nominees": "Chris Menges",
+    "NomineeIds": "nm0579580",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Angels and Insects",
+    "FilmId": "tt0112365",
+    "Name": "Paul Brown",
+    "Nominees": "Paul Brown",
+    "NomineeIds": "nm0114397",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Emma",
+    "FilmId": "tt0116191",
+    "Name": "Ruth Myers",
+    "Nominees": "Ruth Myers",
+    "NomineeIds": "nm0616848",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Ann Roth",
+    "Nominees": "Ann Roth",
+    "NomineeIds": "nm0744778",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Hamlet",
+    "FilmId": "tt0116477",
+    "Name": "Alex Byrne",
+    "Nominees": "Alex Byrne",
+    "NomineeIds": "nm0126107",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Portrait of a Lady",
+    "FilmId": "tt0117364",
+    "Name": "Janet Patterson",
+    "Nominees": "Janet Patterson",
+    "NomineeIds": "nm0666253",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Anthony Minghella",
+    "Nominees": "Anthony Minghella",
+    "NomineeIds": "nm0005237",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Fargo",
+    "FilmId": "tt0116282",
+    "Name": "Joel Coen",
+    "Nominees": "Joel Coen",
+    "NomineeIds": "nm0001054",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The People vs. Larry Flynt",
+    "FilmId": "tt0117318",
+    "Name": "Milos Forman",
+    "Nominees": "Milos Forman",
+    "NomineeIds": "nm0001232",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Secrets & Lies",
+    "FilmId": "tt0117589",
+    "Name": "Mike Leigh",
+    "Nominees": "Mike Leigh",
+    "NomineeIds": "nm0005139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Shine",
+    "FilmId": "tt0117631",
+    "Name": "Scott Hicks",
+    "Nominees": "Scott Hicks",
+    "NomineeIds": "nm0382956",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Line King: The Al Hirschfeld Story",
+    "FilmId": "tt0116886",
+    "Name": "Susan W. Dryfoos",
+    "Nominees": "Susan W. Dryfoos",
+    "NomineeIds": "nm0238743",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Mandela",
+    "FilmId": "tt0116980",
+    "Name": "Jo Menell, Angus Gibson",
+    "Nominees": "Jo Menell|Angus Gibson",
+    "NomineeIds": "nm0579450|nm0316841",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Suzanne Farrell: Elusive Muse",
+    "FilmId": "tt0117793",
+    "Name": "Anne Belle, Deborah Dickson",
+    "Nominees": "Anne Belle|Deborah Dickson",
+    "NomineeIds": "nm0068791|nm0225630",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Tell the Truth and Run: George Seldes and the American Press",
+    "FilmId": "tt0117873",
+    "Name": "Rick Goldsmith",
+    "Nominees": "Rick Goldsmith",
+    "NomineeIds": "nm0326124",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "When We Were Kings",
+    "FilmId": "tt0118147",
+    "Name": "Leon Gast, David Sonenberg",
+    "Nominees": "Leon Gast|David Sonenberg",
+    "NomineeIds": "nm0309382|nm0814395",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Breathing Lessons: The Life and Work of Mark O'Brien",
+    "FilmId": "tt0115753",
+    "Name": "Jessica Yu",
+    "Nominees": "Jessica Yu",
+    "NomineeIds": "nm0950506",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Cosmic Voyage",
+    "FilmId": "tt0115952",
+    "Name": "Jeffrey Marvin, Bayley Silleck",
+    "Nominees": "Jeffrey Marvin|Bayley Silleck",
+    "NomineeIds": "nm0555539|nm0798078",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "An Essay on Matisse",
+    "FilmId": "tt0116234",
+    "Name": "Perry Wolff",
+    "Nominees": "Perry Wolff",
+    "NomineeIds": "nm0938306",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Special Effects",
+    "FilmId": "tt0117709",
+    "Name": "Susanne Simpson, Ben Burtt",
+    "Nominees": "Susanne Simpson|Ben Burtt",
+    "NomineeIds": "nm0801224|nm0123785",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Wild Bunch: An Album in Montage",
+    "FilmId": "tt0118167",
+    "Name": "Paul Seydor, Nick Redman",
+    "Nominees": "Paul Seydor|Nick Redman",
+    "NomineeIds": "nm0786732|nm0715018",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Walter Murch",
+    "Nominees": "Walter Murch",
+    "NomineeIds": "nm0004555",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Evita",
+    "FilmId": "tt0116250",
+    "Name": "Gerry Hambling",
+    "Nominees": "Gerry Hambling",
+    "NomineeIds": "nm0357421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Fargo",
+    "FilmId": "tt0116282",
+    "Name": "Roderick Jaynes",
+    "Nominees": "Roderick Jaynes",
+    "NomineeIds": "nm0001053,nm0001054",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Jerry Maguire",
+    "FilmId": "tt0116695",
+    "Name": "Joe Hutshing",
+    "Nominees": "Joe Hutshing",
+    "NomineeIds": "nm0404528",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Shine",
+    "FilmId": "tt0117631",
+    "Name": "Pip Karmel",
+    "Nominees": "Pip Karmel",
+    "NomineeIds": "nm0006729",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A Chef in Love",
+    "FilmId": "tt0117050",
+    "Name": "Georgia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Kolya",
+    "FilmId": "tt0116790",
+    "Name": "Czech Republic",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Other Side of Sunday",
+    "FilmId": "tt0117817",
+    "Name": "Norway",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Prisoner of the Mountains",
+    "FilmId": "tt0116754",
+    "Name": "Russia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Ridicule",
+    "FilmId": "tt0117477",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Ghosts of Mississippi",
+    "FilmId": "tt0116410",
+    "Name": "Matthew W. Mungle, Deborah La Mia Denaver",
+    "Nominees": "Matthew W. Mungle|Deborah La Mia Denaver",
+    "NomineeIds": "nm0612817|nm0218899",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Nutty Professor",
+    "FilmId": "tt0117218",
+    "Name": "Rick Baker, David LeRoy Anderson",
+    "Nominees": "Rick Baker|David LeRoy Anderson",
+    "NomineeIds": "nm0000711|nm0026600",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Star Trek: First Contact",
+    "FilmId": "tt0117731",
+    "Name": "Michael Westmore, Scott Wheeler, Jake Garber",
+    "Nominees": "Michael Westmore|Scott Wheeler|Jake Garber",
+    "NomineeIds": "nm0922878|nm0923958|nm0304948",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Gabriel Yared",
+    "Nominees": "Gabriel Yared",
+    "NomineeIds": "nm0001189",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Hamlet",
+    "FilmId": "tt0116477",
+    "Name": "Patrick Doyle",
+    "Nominees": "Patrick Doyle",
+    "NomineeIds": "nm0236462",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Michael Collins",
+    "FilmId": "tt0117039",
+    "Name": "Elliot Goldenthal",
+    "Nominees": "Elliot Goldenthal",
+    "NomineeIds": "nm0006106",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Shine",
+    "FilmId": "tt0117631",
+    "Name": "David Hirschfelder",
+    "Nominees": "David Hirschfelder",
+    "NomineeIds": "nm0386595",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Sleepers",
+    "FilmId": "tt0117665",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Emma",
+    "FilmId": "tt0116191",
+    "Name": "Rachel Portman",
+    "Nominees": "Rachel Portman",
+    "NomineeIds": "nm0006235",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "The First Wives Club",
+    "FilmId": "tt0116313",
+    "Name": "Marc Shaiman",
+    "Nominees": "Marc Shaiman",
+    "NomineeIds": "nm0003299",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "The Hunchback of Notre Dame",
+    "FilmId": "tt0116583",
+    "Name": "Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken",
+    "Nominees": "Alan Menken|Stephen Schwartz",
+    "NomineeIds": "nm0579678|nm0777451",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "James and the Giant Peach",
+    "FilmId": "tt0116683",
+    "Name": "Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "The Preacher's Wife",
+    "FilmId": "tt0117372",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Up Close and Personal",
+    "FilmId": "tt0118055",
+    "Name": "Music and Lyric by Diane Warren",
+    "Nominees": "Diane Warren",
+    "NomineeIds": "nm0005534",
+    "Winner": "",
+    "Detail": "Because You Loved Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "One Fine Day",
+    "FilmId": "tt0117247",
+    "Name": "Music and Lyric by James Newton Howard, Jud J. Friedman and Allan Dennis Rich",
+    "Nominees": "James Newton Howard|Jud J. Friedman|Allan Dennis Rich",
+    "NomineeIds": "nm0006133|nm0295267|nm0723591",
+    "Winner": "",
+    "Detail": "For The First Time",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Mirror Has Two Faces",
+    "FilmId": "tt0117057",
+    "Name": "Music and Lyric by Barbra Streisand, Marvin Hamlisch, Bryan Adams and Robert 'Mutt' Lange",
+    "Nominees": "Barbra Streisand|Marvin Hamlisch|Bryan Adams|Robert 'Mutt' Lange",
+    "NomineeIds": "nm0000659|nm0006121|nm0001898|nm0486172",
+    "Winner": "",
+    "Detail": "I Finally Found Someone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "That Thing You Do!",
+    "FilmId": "tt0117887",
+    "Name": "Music and Lyric by Adam Schlesinger",
+    "Nominees": "Adam Schlesinger",
+    "NomineeIds": "nm0772245",
+    "Winner": "",
+    "Detail": "That Thing You Do!",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Evita",
+    "FilmId": "tt0116250",
+    "Name": "Music by Andrew Lloyd Webber; Lyric by Tim Rice",
+    "Nominees": "Andrew Lloyd Webber|Tim Rice",
+    "NomineeIds": "nm0515908|nm0005358",
+    "Winner": "True",
+    "Detail": "You Must Love Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Saul Zaentz, Producer",
+    "Nominees": "Saul Zaentz",
+    "NomineeIds": "nm0951763",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Fargo",
+    "FilmId": "tt0116282",
+    "Name": "Ethan Coen, Producer",
+    "Nominees": "Ethan Coen",
+    "NomineeIds": "nm0001053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Jerry Maguire",
+    "FilmId": "tt0116695",
+    "Name": "James L. Brooks, Laurence Mark, Richard Sakai and Cameron Crowe, Producers",
+    "Nominees": "James L. Brooks|Laurence Mark|Richard Sakai|Cameron Crowe",
+    "NomineeIds": "nm0000985|nm0548257|nm0757017|nm0001081",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Secrets & Lies",
+    "FilmId": "tt0117589",
+    "Name": "Simon Channing-Williams, Producer",
+    "Nominees": "Simon Channing-Williams",
+    "NomineeIds": "nm0151925",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Shine",
+    "FilmId": "tt0117631",
+    "Name": "Jane Scott, Producer",
+    "Nominees": "Jane Scott",
+    "NomineeIds": "nm0779280",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Canhead",
+    "FilmId": "tt0115817",
+    "Name": "Timothy Hittle, Chris Peterson",
+    "Nominees": "Timothy Hittle|Chris Peterson",
+    "NomineeIds": "nm0386972|nm1470929",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "La Salla",
+    "FilmId": "tt0117542",
+    "Name": "Richard Condie",
+    "Nominees": "Richard Condie",
+    "NomineeIds": "nm0174345",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Quest",
+    "FilmId": "tt0117419",
+    "Name": "Tyron Montgomery, Thomas Stellmach",
+    "Nominees": "Tyron Montgomery|Thomas Stellmach",
+    "NomineeIds": "nm0599946|nm0826364",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Wat's Pig",
+    "FilmId": "tt0118123",
+    "Name": "Peter Lord",
+    "Nominees": "Peter Lord",
+    "NomineeIds": "nm0520485",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "De Tripas, Corazon",
+    "FilmId": "tt0116044",
+    "Name": "Antonio Urrutia",
+    "Nominees": "Antonio Urrutia",
+    "NomineeIds": "nm0882100",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Dear Diary",
+    "FilmId": "tt0116058",
+    "Name": "David Frankel, Barry Jossen",
+    "Nominees": "David Frankel|Barry Jossen",
+    "NomineeIds": "nm0291205|nm0430904",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Ernst & Lyset",
+    "FilmId": "tt0116214",
+    "Name": "Kim Magnusson, Anders Thomas Jensen",
+    "Nominees": "Kim Magnusson|Anders Thomas Jensen",
+    "NomineeIds": "nm0536385|nm0421314",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Esposados",
+    "FilmId": "tt0116233",
+    "Name": "Juan Carlos Fresnadillo",
+    "Nominees": "Juan Carlos Fresnadillo",
+    "NomineeIds": "nm0294379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Wordless",
+    "FilmId": "tt0118191",
+    "Name": "Bernadette Carranza, Antonello De Leo",
+    "Nominees": "Bernadette Carranza|Antonello De Leo",
+    "NomineeIds": "nm0139979|nm0209633",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Walter Murch, Mark Berger, David Parker, Chris Newman",
+    "Nominees": "Walter Murch|Mark Berger|David Parker|Chris Newman",
+    "NomineeIds": "nm0004555|nm0074281|nm0662188|nm0628039",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Evita",
+    "FilmId": "tt0116250",
+    "Name": "Andy Nelson, Anna Behlmer, Ken Weston",
+    "Nominees": "Andy Nelson|Anna Behlmer|Ken Weston",
+    "NomineeIds": "nm0625144|nm0066933|nm0922984",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Independence Day",
+    "FilmId": "tt0116629",
+    "Name": "Chris Carpenter, Bill W. Benton, Bob Beemer, Jeff Wexler",
+    "Nominees": "Chris Carpenter|Bill W. Benton|Bob Beemer|Jeff Wexler",
+    "NomineeIds": "nm0139303|nm0072904|nm0066446|nm0923306",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Rock",
+    "FilmId": "tt0117500",
+    "Name": "Kevin O'Connell, Greg P. Russell, Keith A. Wester",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Keith A. Wester",
+    "NomineeIds": "nm0640114|nm0751169|nm0199492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Twister",
+    "FilmId": "tt0117998",
+    "Name": "Steve Maslow, Gregg Landaker, Kevin O'Connell, Geoffrey Patterson",
+    "Nominees": "Steve Maslow|Gregg Landaker|Kevin O'Connell|Geoffrey Patterson",
+    "NomineeIds": "nm0556541|nm0484414|nm0640114|nm0666215",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Daylight",
+    "FilmId": "tt0116040",
+    "Name": "Richard L. Anderson, David A. Whittaker",
+    "Nominees": "Richard L. Anderson|David A. Whittaker",
+    "NomineeIds": "nm0027328|nm0926422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Eraser",
+    "FilmId": "tt0116213",
+    "Name": "Alan Robert Murray, Bub Asman",
+    "Nominees": "Alan Robert Murray|Bub Asman",
+    "NomineeIds": "nm0614812|nm0039544",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "The Ghost and the Darkness",
+    "FilmId": "tt0116409",
+    "Name": "Bruce Stambler",
+    "Nominees": "Bruce Stambler",
+    "NomineeIds": "nm0821801",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Dragonheart",
+    "FilmId": "tt0116136",
+    "Name": "Scott Squires, Phil Tippett, James Straus, Kit West",
+    "Nominees": "Scott Squires|Phil Tippett|James Straus|Kit West",
+    "NomineeIds": "nm0820140|nm0864138|nm0833766|nm0922187",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Independence Day",
+    "FilmId": "tt0116629",
+    "Name": "Volker Engel, Douglas Smith, Clay Pinney, Joseph Viskocil",
+    "Nominees": "Volker Engel|Douglas Smith|Clay Pinney|Joseph Viskocil",
+    "NomineeIds": "nm0257159|nm0808017|nm0684439|nm0899670",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Twister",
+    "FilmId": "tt0117998",
+    "Name": "Stefen Fangmeier, John Frazier, Habib Zargarpour, Henry La Bounta",
+    "Nominees": "Stefen Fangmeier|John Frazier|Habib Zargarpour|Henry La Bounta",
+    "NomineeIds": "nm0266777|nm0292594|nm0953464|nm0479621",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Crucible",
+    "FilmId": "tt0115988",
+    "Name": "Arthur Miller",
+    "Nominees": "Arthur Miller",
+    "NomineeIds": "nm0007186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The English Patient",
+    "FilmId": "tt0116209",
+    "Name": "Anthony Minghella",
+    "Nominees": "Anthony Minghella",
+    "NomineeIds": "nm0005237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Hamlet",
+    "FilmId": "tt0116477",
+    "Name": "Kenneth Branagh",
+    "Nominees": "Kenneth Branagh",
+    "NomineeIds": "nm0000110",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Sling Blade",
+    "FilmId": "tt0117666",
+    "Name": "Billy Bob Thornton",
+    "Nominees": "Billy Bob Thornton",
+    "NomineeIds": "nm0000671",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Trainspotting",
+    "FilmId": "tt0117951",
+    "Name": "John Hodge",
+    "Nominees": "John Hodge",
+    "NomineeIds": "nm0388076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Fargo",
+    "FilmId": "tt0116282",
+    "Name": "Ethan Coen, Joel Coen",
+    "Nominees": "Ethan Coen|Joel Coen",
+    "NomineeIds": "nm0001053|nm0001054",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Jerry Maguire",
+    "FilmId": "tt0116695",
+    "Name": "Cameron Crowe",
+    "Nominees": "Cameron Crowe",
+    "NomineeIds": "nm0001081",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Lone Star",
+    "FilmId": "tt0116905",
+    "Name": "John Sayles",
+    "Nominees": "John Sayles",
+    "NomineeIds": "nm0000626",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Secrets & Lies",
+    "FilmId": "tt0117589",
+    "Name": "Mike Leigh",
+    "Nominees": "Mike Leigh",
+    "NomineeIds": "nm0005139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Shine",
+    "FilmId": "tt0117631",
+    "Name": "Screenplay by Jan Sardi; Story by Scott Hicks",
+    "Nominees": "Jan Sardi|Scott Hicks",
+    "NomineeIds": "nm0764982|nm0382956",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Michael Kidd",
+    "NomineeIds": "nm0452264",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Michael Kidd in recognition of his services to the art of the dance in the art of the screen."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Saul Zaentz",
+    "Nominees": "Saul Zaentz",
+    "NomineeIds": "nm0951763",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Imax Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To IMAX CORPORATION for the method of filming and exhibiting high-fidelity, large-format, wide-angle motion pictures."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Schlag|Brian Knep|Zoran Kacic-Alesic|Thomas Williams",
+    "NomineeIds": "nm0772068|nm0460686|nm0434194|nm0931824",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JOHN SCHLAG, BRIAN KNEP, ZORAN KACIC-ALESIC and THOMAS WILLIAMS for the development of the Viewpaint 3D Paint System for film production work."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "William Reeves",
+    "NomineeIds": "nm0716315",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To WILLIAM REEVES for the original concept and the development of particle systems used to create computer generated visual effects in motion pictures."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jim Hourihan",
+    "NomineeIds": "nm0396606",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JIM HOURIHAN for the primary design and development of the interactive language-based control of partical systems as embodied in the Dynamation software package."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jonathan Erland|Kay Beving Erland",
+    "NomineeIds": "nm0259510|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JONATHAN ERLAND and KAY BEVING ERLAND for the development of the Digital Series Traveling Matte Backing System used for composite photography in motion pictures."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Perry Kivolowitz|Dr. Garth A. Dickie",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To PERRY KIVOLOWITZ, for the primary design, and DR. GARTH A. DICKIE for the development of the algorithms, for the shape-driven warping and morphing subsystem of the Elastic Reality Special Effects System."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ken Perlin",
+    "NomineeIds": "nm0674192",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To KEN PERLIN for the development of Perlin Noise, a technique used to produce natural appearing textures on computer generated surfaces for motion picture visual effects."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "NESTOR BURTNYK|MARCELI WEIN",
+    "NomineeIds": "nm0123492|nm0918084",
+    "Winner": "True",
+    "Detail": "Cartoon Process",
+    "Note": "",
+    "Citation": "To NESTOR BURTNYK and MARCELI WEIN of the National Research Council of Canada for their pioneering work in the development of software techniques for Computer Assisted Key Framing for Character Animation."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Grant Loucks",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To GRANT LOUCKS for the concept and specifications of the Mark V Director's Viewfinder."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Brian Knep|Craig Hayes|Rick Sayre|Thomas Williams",
+    "NomineeIds": "nm0460686|nm0370960|nm0768541|nm0931824",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To BRIAN KNEP, CRAIG HAYES, RICK SAYRE and THOMAS WILLIAMS for the creation and development of the Direct Input Device."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James Kajiya|Timothy Kay",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JAMES KAJIYA and TIMOTHY KAY for their pioneering work in producing computer generated fur and hair in motion pictures."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jeffery Yost|Christian Rouet|David Benson|Florian Kainz",
+    "NomineeIds": "nm0949134|nm0745584|nm0072472|nm0435090",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JEFFERY YOST, CHRISTIAN ROUET, DAVID BENSON and FLORIAN KAINZ for the development of a system to create and control computer generated fur and hair in motion pictures."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard A. Prey|William N. Masten",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To RICHARD A. PREY and WILLIAM N. MASTEN for the design and development of the Nite Sun II lighting crane and camera platform."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joe Lombardi",
+    "NomineeIds": "nm0518375",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Joe Lombardi in celebration of 50 years in the motion picture industry. His knowledge and leadership in the field of pyrotechnics and special effects along with his uncompromising promotion of safety on the set have established the standard for today's special effects technicians."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Volker W. Bahnemann",
+    "NomineeIds": "nm2361557",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Volker W. Bahnemann in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 69,
+    "Year": 1996,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Burton \\\"Bud\\\" Stone",
+    "NomineeIds": "nm2093584",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Burton \\\"Bud\\\" Stone in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

@@ -1,1790 +1,2018 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1951",
-    "nominees": [
-      "An American in Paris"
-    ],
-    "movies": [
-      {
-        "title": "An American in Paris",
-        "tmdb_id": 2769,
-        "imdb_id": "tt0043278"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1951",
-    "nominees": [
-      "Decision Before Dawn"
-    ],
-    "movies": [
-      {
-        "title": "Decision Before Dawn",
-        "tmdb_id": 4461,
-        "imdb_id": "tt0043459"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1951",
-    "nominees": [
-      "A Place in the Sun"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Sun",
-        "tmdb_id": 25673,
-        "imdb_id": "tt0043924"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1951",
-    "nominees": [
-      "Quo Vadis"
-    ],
-    "movies": [
-      {
-        "title": "Quo Vadis",
-        "tmdb_id": 11620,
-        "imdb_id": "tt0043949"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1951",
-    "nominees": [
-      "A Streetcar Named Desire"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1951",
-    "nominees": [
-      "Humphrey Bogart"
-    ],
-    "movies": [
-      {
-        "title": "The African Queen",
-        "tmdb_id": 488,
-        "imdb_id": "tt0043265"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1951",
-    "nominees": [
-      "Marlon Brando"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1951",
-    "nominees": [
-      "Montgomery Clift"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Sun",
-        "tmdb_id": 25673,
-        "imdb_id": "tt0043924"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1951",
-    "nominees": [
-      "Arthur Kennedy"
-    ],
-    "movies": [
-      {
-        "title": "Bright Victory",
-        "tmdb_id": 109258,
-        "imdb_id": "tt0043361"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1951",
-    "nominees": [
-      "Frederic March"
-    ],
-    "movies": [
-      {
-        "title": "Death of a Salesman",
-        "tmdb_id": 104394,
-        "imdb_id": "tt0043458"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1951",
-    "nominees": [
-      "Vivien Leigh"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1951",
-    "nominees": [
-      "Katharine Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "The African Queen",
-        "tmdb_id": 488,
-        "imdb_id": "tt0043265"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1951",
-    "nominees": [
-      "Eleanor Parker"
-    ],
-    "movies": [
-      {
-        "title": "Detective Story",
-        "tmdb_id": 20853,
-        "imdb_id": "tt0043465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1951",
-    "nominees": [
-      "Shelley Winters"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Sun",
-        "tmdb_id": 25673,
-        "imdb_id": "tt0043924"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1951",
-    "nominees": [
-      "Jane Wyman"
-    ],
-    "movies": [
-      {
-        "title": "The Blue Veil",
-        "tmdb_id": 114081,
-        "imdb_id": "tt0043350"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1951",
-    "nominees": [
-      "Karl Malden"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1951",
-    "nominees": [
-      "Leo Genn"
-    ],
-    "movies": [
-      {
-        "title": "Quo Vadis",
-        "tmdb_id": 11620,
-        "imdb_id": "tt0043949"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1951",
-    "nominees": [
-      "Kevin McCarthy"
-    ],
-    "movies": [
-      {
-        "title": "Death of a Salesman",
-        "tmdb_id": 104394,
-        "imdb_id": "tt0043458"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1951",
-    "nominees": [
-      "Peter Ustinov"
-    ],
-    "movies": [
-      {
-        "title": "Quo Vadis",
-        "tmdb_id": 11620,
-        "imdb_id": "tt0043949"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1951",
-    "nominees": [
-      "Gig Young"
-    ],
-    "movies": [
-      {
-        "title": "Come Fill the Cup",
-        "tmdb_id": 150808,
-        "imdb_id": "tt0043424"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1951",
-    "nominees": [
-      "Kim Hunter"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1951",
-    "nominees": [
-      "Joan Blondell"
-    ],
-    "movies": [
-      {
-        "title": "The Blue Veil",
-        "tmdb_id": 114081,
-        "imdb_id": "tt0043350"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1951",
-    "nominees": [
-      "Mildred Dunnock"
-    ],
-    "movies": [
-      {
-        "title": "Death of a Salesman",
-        "tmdb_id": 104394,
-        "imdb_id": "tt0043458"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1951",
-    "nominees": [
-      "Lee Grant"
-    ],
-    "movies": [
-      {
-        "title": "Detective Story",
-        "tmdb_id": 20853,
-        "imdb_id": "tt0043465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1951",
-    "nominees": [
-      "Thelma Ritter"
-    ],
-    "movies": [
-      {
-        "title": "The Mating Season",
-        "tmdb_id": 108232,
-        "imdb_id": "tt0043792"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1951",
-    "nominees": [
-      "George Stevens"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Sun",
-        "tmdb_id": 25673,
-        "imdb_id": "tt0043924"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1951",
-    "nominees": [
-      "John Huston"
-    ],
-    "movies": [
-      {
-        "title": "The African Queen",
-        "tmdb_id": 488,
-        "imdb_id": "tt0043265"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1951",
-    "nominees": [
-      "Elia Kazan"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1951",
-    "nominees": [
-      "Vincente Minnelli"
-    ],
-    "movies": [
-      {
-        "title": "An American in Paris",
-        "tmdb_id": 2769,
-        "imdb_id": "tt0043278"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1951",
-    "nominees": [
-      "William Wyler"
-    ],
-    "movies": [
-      {
-        "title": "Detective Story",
-        "tmdb_id": 20853,
-        "imdb_id": "tt0043465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1951",
-    "nominees": [
-      "Harry Brown",
-      "Michael Wilson"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Sun",
-        "tmdb_id": 25673,
-        "imdb_id": "tt0043924"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1951",
-    "nominees": [
-      "James Agee",
-      "John Huston"
-    ],
-    "movies": [
-      {
-        "title": "The African Queen",
-        "tmdb_id": 488,
-        "imdb_id": "tt0043265"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1951",
-    "nominees": [
-      "Jacques Natanson",
-      "Max Ophuls"
-    ],
-    "movies": [
-      {
-        "title": "La Ronde",
-        "tmdb_id": 50030,
-        "imdb_id": "tt0042906"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1951",
-    "nominees": [
-      "Tennessee Williams"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1951",
-    "nominees": [
-      "Philip Yordan",
-      "Robert Wyler"
-    ],
-    "movies": [
-      {
-        "title": "Detective Story",
-        "tmdb_id": 20853,
-        "imdb_id": "tt0043465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1951",
-    "nominees": [
-      "Alan Jay Lerner"
-    ],
-    "movies": [
-      {
-        "title": "An American in Paris",
-        "tmdb_id": 2769,
-        "imdb_id": "tt0043278"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1951",
-    "nominees": [
-      "Philip Dunne"
-    ],
-    "movies": [
-      {
-        "title": "David and Bathsheba",
-        "tmdb_id": 42567,
-        "imdb_id": "tt0043455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1951",
-    "nominees": [
-      "Clarence Greene",
-      "Russell Rouse"
-    ],
-    "movies": [
-      {
-        "title": "The Well",
-        "tmdb_id": 29112,
-        "imdb_id": "tt0044202"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1951",
-    "nominees": [
-      "Robert Pirosh"
-    ],
-    "movies": [
-      {
-        "title": "Go for Broke!",
-        "tmdb_id": 37214,
-        "imdb_id": "tt0043590"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1951",
-    "nominees": [
-      "Billy Wilder",
-      "Lesser Samuels",
-      "Walter Newman"
-    ],
-    "movies": [
-      {
-        "title": "Ace in the Hole",
-        "tmdb_id": 25364,
-        "imdb_id": "tt0043338"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1951",
-    "nominees": [
-      "James Bernard",
-      "Paul Dehn"
-    ],
-    "movies": [
-      {
-        "title": "Seven Days to Noon",
-        "tmdb_id": 46932,
-        "imdb_id": "tt0042949"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1951",
-    "nominees": [
-      "Budd Boetticher",
-      "Ray Nazarro"
-    ],
-    "movies": [
-      {
-        "title": "Bullfighter and the Lady",
-        "tmdb_id": 77650,
-        "imdb_id": "tt0043363"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1951",
-    "nominees": [
-      "Alfred Hayes",
-      "Stewart Stern"
-    ],
-    "movies": [
-      {
-        "title": "Teresa",
-        "tmdb_id": 217948,
-        "imdb_id": "tt0044112"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1951",
-    "nominees": [
-      "Oscar Millard"
-    ],
-    "movies": [
-      {
-        "title": "The Frogmen",
-        "tmdb_id": 44890,
-        "imdb_id": "tt0043565"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1951",
-    "nominees": [
-      "Robert Riskin",
-      "Liam O'Brien"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes the Groom",
-        "tmdb_id": 27629,
-        "imdb_id": "tt0043633"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1951",
-    "nominees": [
-      "Franz Waxman"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Sun",
-        "tmdb_id": 25673,
-        "imdb_id": "tt0043924"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1951",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "David and Bathsheba",
-        "tmdb_id": 42567,
-        "imdb_id": "tt0043455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1951",
-    "nominees": [
-      "Alex North"
-    ],
-    "movies": [
-      {
-        "title": "Death of a Salesman",
-        "tmdb_id": 104394,
-        "imdb_id": "tt0043458"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1951",
-    "nominees": [
-      "Alex North"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1951",
-    "nominees": [
-      "Miklos Rozsa"
-    ],
-    "movies": [
-      {
-        "title": "Quo Vadis",
-        "tmdb_id": 11620,
-        "imdb_id": "tt0043949"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1951",
-    "nominees": [
-      "Johnny Green",
-      "Saul Chaplin"
-    ],
-    "movies": [
-      {
-        "title": "An American in Paris",
-        "tmdb_id": 2769,
-        "imdb_id": "tt0043278"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1951",
-    "nominees": [
-      "Peter Herman Adler",
-      "Johnny Green"
-    ],
-    "movies": [
-      {
-        "title": "The Great Caruso",
-        "tmdb_id": 98328,
-        "imdb_id": "tt0043599"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1951",
-    "nominees": [
-      "Adolph Deutsch",
-      "Conrad Salinger"
-    ],
-    "movies": [
-      {
-        "title": "Show Boat",
-        "tmdb_id": 17820,
-        "imdb_id": "tt0044030"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1951",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "On the Riviera",
-        "tmdb_id": 29577,
-        "imdb_id": "tt0043882"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1951",
-    "nominees": [
-      "Oliver Wallace"
-    ],
-    "movies": [
-      {
-        "title": "Alice in Wonderland",
-        "tmdb_id": 12092,
-        "imdb_id": "tt0043274"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1951",
-    "nominees": [
-      "In the Cool",
-      "Cool",
-      "Cool of the Evening"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes the Groom",
-        "tmdb_id": 27629,
-        "imdb_id": "tt0043633"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1951",
-    "nominees": [
-      "A Kiss to Build a Dream On"
-    ],
-    "movies": [
-      {
-        "title": "The Strip",
-        "tmdb_id": 95949,
-        "imdb_id": "tt0044083"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1951",
-    "nominees": [
-      "Never"
-    ],
-    "movies": [
-      {
-        "title": "Golden Girl",
-        "tmdb_id": 188520,
-        "imdb_id": "tt0043592"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1951",
-    "nominees": [
-      "Too Late Now"
-    ],
-    "movies": [
-      {
-        "title": "Royal Wedding",
-        "tmdb_id": 18646,
-        "imdb_id": "tt0043983"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1951",
-    "nominees": [
-      "Wonder Why"
-    ],
-    "movies": [
-      {
-        "title": "Rich, Young and Pretty",
-        "tmdb_id": 131781,
-        "imdb_id": "tt0043968"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1951",
-    "nominees": [
-      "Rashomon"
-    ],
-    "movies": [
-      {
-        "title": "Rashomon",
-        "tmdb_id": 548,
-        "imdb_id": "tt0042876"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1951",
-    "nominees": [
-      "Kon-Tiki"
-    ],
-    "movies": [
-      {
-        "title": "Kon-Tiki",
-        "tmdb_id": 20088,
-        "imdb_id": "tt0042650"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1951",
-    "nominees": [
-      "I Was a Communist for the FBI"
-    ],
-    "movies": [
-      {
-        "title": "I Was a Communist for the FBI",
-        "tmdb_id": 49508,
-        "imdb_id": "tt0043665"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1951",
-    "nominees": [
-      "Benjy"
-    ],
-    "movies": [
-      {
-        "title": "Benjy",
-        "tmdb_id": 242980,
-        "imdb_id": "tt0043334"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1951",
-    "nominees": [
-      "One Who Came Back"
-    ],
-    "movies": [
-      {
-        "title": "One Who Came Back",
-        "tmdb_id": 242981,
-        "imdb_id": "tt0043883"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1951",
-    "nominees": [
-      "The Seeing Eye"
-    ],
-    "movies": [
-      {
-        "title": "The Seeing Eye",
-        "tmdb_id": 242982,
-        "imdb_id": "tt0044017"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1951",
-    "nominees": [
-      "The Two Mouseketeers"
-    ],
-    "movies": [
-      {
-        "title": "The Two Mouseketeers",
-        "tmdb_id": 46852,
-        "imdb_id": "tt0044157"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1951",
-    "nominees": [
-      "Lambert the Sheepish Lion"
-    ],
-    "movies": [
-      {
-        "title": "Lambert the Sheepish Lion",
-        "tmdb_id": 54184,
-        "imdb_id": "tt0044821"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1951",
-    "nominees": [
-      "Rooty Toot Toot"
-    ],
-    "movies": [
-      {
-        "title": "Rooty Toot Toot",
-        "tmdb_id": 103956,
-        "imdb_id": "tt0043980"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1951",
-    "nominees": [
-      "World of Kids"
-    ],
-    "movies": [
-      {
-        "title": "World of Kids",
-        "tmdb_id": 242975,
-        "imdb_id": "tt0044218"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1951",
-    "nominees": [
-      "Ridin' the Rails"
-    ],
-    "movies": [
-      {
-        "title": "Ridin' the Rails",
-        "tmdb_id": 242976,
-        "imdb_id": "tt0043969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1951",
-    "nominees": [
-      "The Story of Time"
-    ],
-    "movies": [
-      {
-        "title": "The Story of Time",
-        "tmdb_id": 242979,
-        "imdb_id": "tt0044077"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1951",
-    "nominees": [
-      "Nature's Half Acre"
-    ],
-    "movies": [
-      {
-        "title": "Nature's Half Acre",
-        "tmdb_id": 179182,
-        "imdb_id": "tt0043839"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1951",
-    "nominees": [
-      "Balzac"
-    ],
-    "movies": [
-      {
-        "title": "Balzac",
-        "tmdb_id": 242973,
-        "imdb_id": "tt0043316"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1951",
-    "nominees": [
-      "Danger Under the Sea"
-    ],
-    "movies": [
-      {
-        "title": "Danger Under the Sea",
-        "tmdb_id": 242974,
-        "imdb_id": "tt0043447"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Richard Day",
-      "George James Hopkins"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "D'Eaubonne"
-    ],
-    "movies": [
-      {
-        "title": "La Ronde",
-        "tmdb_id": 50030,
-        "imdb_id": "tt0042906"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Cedric Gibbons",
-      "Paul Groesse",
-      "Edwin B. Willis",
-      "Jack D. Moore"
-    ],
-    "movies": [
-      {
-        "title": "Too Young to Kiss",
-        "tmdb_id": 103934,
-        "imdb_id": "tt0044138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Lyle Wheeler",
-      "John DeCuir",
-      "Paul S. Fox",
-      "Thomas Little"
-    ],
-    "movies": [
-      {
-        "title": "The House on Telegraph Hill",
-        "tmdb_id": 28434,
-        "imdb_id": "tt0043660"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Lyle Wheeler",
-      "Leland Fuller",
-      "Thomas Little",
-      "Fred J. Rode"
-    ],
-    "movies": [
-      {
-        "title": "Fourteen Hours",
-        "tmdb_id": 54139,
-        "imdb_id": "tt0043560"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "E. Preston Ames",
-      "Cedric Gibbons",
-      "Edwin B. Willis",
-      "Keogh Gleason"
-    ],
-    "movies": [
-      {
-        "title": "An American in Paris",
-        "tmdb_id": 2769,
-        "imdb_id": "tt0043278"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "Hein Heckroth"
-    ],
-    "movies": [
-      {
-        "title": "The Tales of Hoffmann",
-        "tmdb_id": 44334,
-        "imdb_id": "tt0044103"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "William A. Horning",
-      "Edward Carfagno",
-      "Cedric Gibbons",
-      "Hugh Hunt"
-    ],
-    "movies": [
-      {
-        "title": "Quo Vadis",
-        "tmdb_id": 11620,
-        "imdb_id": "tt0043949"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "Lyle Wheeler",
-      "George Davis",
-      "Paul S. Fox",
-      "Thomas Little"
-    ],
-    "movies": [
-      {
-        "title": "David and Bathsheba",
-        "tmdb_id": 42567,
-        "imdb_id": "tt0043455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "Lyle Wheeler",
-      "Leland Fuller",
-      "Thomas Little",
-      "Walter M. Scott"
-    ],
-    "movies": [
-      {
-        "title": "On the Riviera",
-        "tmdb_id": 29577,
-        "imdb_id": "tt0043882"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "William C. Mellor"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Sun",
-        "tmdb_id": 25673,
-        "imdb_id": "tt0043924"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Norbert Brodine"
-    ],
-    "movies": [
-      {
-        "title": "The Frogmen",
-        "tmdb_id": 44890,
-        "imdb_id": "tt0043565"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Robert Burks"
-    ],
-    "movies": [
-      {
-        "title": "Strangers on a Train",
-        "tmdb_id": 845,
-        "imdb_id": "tt0044079"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Franz Planer"
-    ],
-    "movies": [
-      {
-        "title": "Death of a Salesman",
-        "tmdb_id": 104394,
-        "imdb_id": "tt0043458"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Harry Stradling"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1951",
-    "nominees": [
-      "Alfred Gilks",
-      "John Alton"
-    ],
-    "movies": [
-      {
-        "title": "An American in Paris",
-        "tmdb_id": 2769,
-        "imdb_id": "tt0043278"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1951",
-    "nominees": [
-      "Charles Rosher"
-    ],
-    "movies": [
-      {
-        "title": "Show Boat",
-        "tmdb_id": 17820,
-        "imdb_id": "tt0044030"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1951",
-    "nominees": [
-      "John F. Seitz",
-      "W. Howard Greene"
-    ],
-    "movies": [
-      {
-        "title": "When Worlds Collide",
-        "tmdb_id": 16380,
-        "imdb_id": "tt0044207"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1951",
-    "nominees": [
-      "Leon Shamroy"
-    ],
-    "movies": [
-      {
-        "title": "David and Bathsheba",
-        "tmdb_id": 42567,
-        "imdb_id": "tt0043455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1951",
-    "nominees": [
-      "Robert Surtees",
-      "William V. Skall"
-    ],
-    "movies": [
-      {
-        "title": "Quo Vadis",
-        "tmdb_id": 11620,
-        "imdb_id": "tt0043949"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1951",
-    "nominees": [
-      "William Hornbeck"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Sun",
-        "tmdb_id": 25673,
-        "imdb_id": "tt0043924"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1951",
-    "nominees": [
-      "Adrienne Fazan"
-    ],
-    "movies": [
-      {
-        "title": "An American in Paris",
-        "tmdb_id": 2769,
-        "imdb_id": "tt0043278"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1951",
-    "nominees": [
-      "Chester Schaeffer"
-    ],
-    "movies": [
-      {
-        "title": "The Well",
-        "tmdb_id": 29112,
-        "imdb_id": "tt0044202"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1951",
-    "nominees": [
-      "Dorothy Spencer"
-    ],
-    "movies": [
-      {
-        "title": "Decision Before Dawn",
-        "tmdb_id": 4461,
-        "imdb_id": "tt0043459"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1951",
-    "nominees": [
-      "Ralph E. Winters"
-    ],
-    "movies": [
-      {
-        "title": "Quo Vadis",
-        "tmdb_id": 11620,
-        "imdb_id": "tt0043949"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1951",
-    "nominees": [
-      "Paramount Studio"
-    ],
-    "movies": [
-      {
-        "title": "When Worlds Collide",
-        "tmdb_id": 16380,
-        "imdb_id": "tt0044207"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1951",
-    "nominees": [
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "The Great Caruso",
-        "tmdb_id": 98328,
-        "imdb_id": "tt0043599"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1951",
-    "nominees": [
-      "Leslie I. Carey"
-    ],
-    "movies": [
-      {
-        "title": "Bright Victory",
-        "tmdb_id": 109258,
-        "imdb_id": "tt0043361"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1951",
-    "nominees": [
-      "Gordon E. Sawyer"
-    ],
-    "movies": [
-      {
-        "title": "I Want You",
-        "tmdb_id": 216953,
-        "imdb_id": "tt0043664"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1951",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1951",
-    "nominees": [
-      "John Aalberg"
-    ],
-    "movies": [
-      {
-        "title": "Two Tickets to Broadway",
-        "tmdb_id": 131491,
-        "imdb_id": "tt0044158"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Edith Head"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Sun",
-        "tmdb_id": 25673,
-        "imdb_id": "tt0043924"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Lucinda Ballard"
-    ],
-    "movies": [
-      {
-        "title": "A Streetcar Named Desire",
-        "tmdb_id": 702,
-        "imdb_id": "tt0044081"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Charles LeMaire",
-      "Renie"
-    ],
-    "movies": [
-      {
-        "title": "The Model and the Marriage Broker",
-        "tmdb_id": 132094,
-        "imdb_id": "tt0043813"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Walter Plunkett",
-      "Gile Steele"
-    ],
-    "movies": [
-      {
-        "title": "Kind Lady",
-        "tmdb_id": 193547,
-        "imdb_id": "tt0043709"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1951",
-    "nominees": [
-      "Edward Stevenson",
-      "Margaret Furse"
-    ],
-    "movies": [
-      {
-        "title": "The Mudlark",
-        "tmdb_id": 126596,
-        "imdb_id": "tt0042757"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "Orry-Kelly",
-      "Walter Plunkett",
-      "Irene Sharaff"
-    ],
-    "movies": [
-      {
-        "title": "An American in Paris",
-        "tmdb_id": 2769,
-        "imdb_id": "tt0043278"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "Hein Heckroth"
-    ],
-    "movies": [
-      {
-        "title": "The Tales of Hoffmann",
-        "tmdb_id": 44334,
-        "imdb_id": "tt0044103"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "Charles LeMaire",
-      "Edward Stevenson"
-    ],
-    "movies": [
-      {
-        "title": "David and Bathsheba",
-        "tmdb_id": 42567,
-        "imdb_id": "tt0043455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "Herschel McCoy"
-    ],
-    "movies": [
-      {
-        "title": "Quo Vadis",
-        "tmdb_id": 11620,
-        "imdb_id": "tt0043949"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1951",
-    "nominees": [
-      "Helen Rose",
-      "Gile Steele"
-    ],
-    "movies": [
-      {
-        "title": "The Great Caruso",
-        "tmdb_id": 98328,
-        "imdb_id": "tt0043599"
-      }
-    ],
-    "won": false
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The African Queen",
+    "FilmId": "tt0043265",
+    "Name": "Humphrey Bogart",
+    "Nominees": "Humphrey Bogart",
+    "NomineeIds": "nm0000007",
+    "Winner": "True",
+    "Detail": "Charlie Allnut",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Marlon Brando",
+    "Nominees": "Marlon Brando",
+    "NomineeIds": "nm0000008",
+    "Winner": "",
+    "Detail": "Stanley Kowalski",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "A Place in the Sun",
+    "FilmId": "tt0043924",
+    "Name": "Montgomery Clift",
+    "Nominees": "Montgomery Clift",
+    "NomineeIds": "nm0001050",
+    "Winner": "",
+    "Detail": "George Eastman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Bright Victory",
+    "FilmId": "tt0043361",
+    "Name": "Arthur Kennedy",
+    "Nominees": "Arthur Kennedy",
+    "NomineeIds": "nm0447913",
+    "Winner": "",
+    "Detail": "Larry Levins",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Death of a Salesman",
+    "FilmId": "tt0043458",
+    "Name": "Fredric March",
+    "Nominees": "Fredric March",
+    "NomineeIds": "nm0545298",
+    "Winner": "",
+    "Detail": "Willy Loman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Quo Vadis",
+    "FilmId": "tt0043949",
+    "Name": "Leo Genn",
+    "Nominees": "Leo Genn",
+    "NomineeIds": "nm0312890",
+    "Winner": "",
+    "Detail": "Petronius",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Death of a Salesman",
+    "FilmId": "tt0043458",
+    "Name": "Kevin McCarthy",
+    "Nominees": "Kevin McCarthy",
+    "NomineeIds": "nm0002994",
+    "Winner": "",
+    "Detail": "Biff Loman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Karl Malden",
+    "Nominees": "Karl Malden",
+    "NomineeIds": "nm0001500",
+    "Winner": "True",
+    "Detail": "Mitch",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Quo Vadis",
+    "FilmId": "tt0043949",
+    "Name": "Peter Ustinov",
+    "Nominees": "Peter Ustinov",
+    "NomineeIds": "nm0001811",
+    "Winner": "",
+    "Detail": "Nero",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Come Fill the Cup",
+    "FilmId": "tt0043424",
+    "Name": "Gig Young",
+    "Nominees": "Gig Young",
+    "NomineeIds": "nm0949574",
+    "Winner": "",
+    "Detail": "Boyd Copeland",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The African Queen",
+    "FilmId": "tt0043265",
+    "Name": "Katharine Hepburn",
+    "Nominees": "Katharine Hepburn",
+    "NomineeIds": "nm0000031",
+    "Winner": "",
+    "Detail": "Rose Sayer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Vivien Leigh",
+    "Nominees": "Vivien Leigh",
+    "NomineeIds": "nm0000046",
+    "Winner": "True",
+    "Detail": "Blanche DuBois",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Detective Story",
+    "FilmId": "tt0043465",
+    "Name": "Eleanor Parker",
+    "Nominees": "Eleanor Parker",
+    "NomineeIds": "nm0662223",
+    "Winner": "",
+    "Detail": "Mary McLeod",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "A Place in the Sun",
+    "FilmId": "tt0043924",
+    "Name": "Shelley Winters",
+    "Nominees": "Shelley Winters",
+    "NomineeIds": "nm0001859",
+    "Winner": "",
+    "Detail": "Alice Tripp",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Blue Veil",
+    "FilmId": "tt0043350",
+    "Name": "Jane Wyman",
+    "Nominees": "Jane Wyman",
+    "NomineeIds": "nm0943837",
+    "Winner": "",
+    "Detail": "Louise Mason",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Blue Veil",
+    "FilmId": "tt0043350",
+    "Name": "Joan Blondell",
+    "Nominees": "Joan Blondell",
+    "NomineeIds": "nm0000951",
+    "Winner": "",
+    "Detail": "Annie Rawlins",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Death of a Salesman",
+    "FilmId": "tt0043458",
+    "Name": "Mildred Dunnock",
+    "Nominees": "Mildred Dunnock",
+    "NomineeIds": "nm0242972",
+    "Winner": "",
+    "Detail": "Linda Loman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Detective Story",
+    "FilmId": "tt0043465",
+    "Name": "Lee Grant",
+    "Nominees": "Lee Grant",
+    "NomineeIds": "nm0335519",
+    "Winner": "",
+    "Detail": "A Shoplifter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Kim Hunter",
+    "Nominees": "Kim Hunter",
+    "NomineeIds": "nm0001375",
+    "Winner": "True",
+    "Detail": "Stella Kowalski",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Mating Season",
+    "FilmId": "tt0043792",
+    "Name": "Thelma Ritter",
+    "Nominees": "Thelma Ritter",
+    "NomineeIds": "nm0728812",
+    "Winner": "",
+    "Detail": "Ellen McNulty",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Fourteen Hours",
+    "FilmId": "tt0043560",
+    "Name": "Art Direction: Lyle Wheeler, Leland Fuller; Set Decoration: Thomas Little, Fred J. Rode",
+    "Nominees": "Lyle Wheeler|Leland Fuller|Thomas Little|Fred J. Rode",
+    "NomineeIds": "nm0923907|nm0298285|nm0514673|nm0734523",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "House on Telegraph Hill",
+    "FilmId": "tt0043660",
+    "Name": "Art Direction: Lyle Wheeler, John DeCuir; Set Decoration: Thomas Little, Paul S. Fox",
+    "Nominees": "Lyle Wheeler|John DeCuir|Thomas Little|Paul S. Fox",
+    "NomineeIds": "nm0923907|nm0214043|nm0514673|nm0289189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "La Ronde",
+    "FilmId": "tt0042906",
+    "Name": "D'Eaubonne",
+    "Nominees": "D'Eaubonne",
+    "NomineeIds": "nm0195618",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Art Direction: Richard Day; Set Decoration: George James Hopkins",
+    "Nominees": "Richard Day|George James Hopkins",
+    "NomineeIds": "nm0206554|nm0394166",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Too Young to Kiss",
+    "FilmId": "tt0044138",
+    "Name": "Art Direction: Cedric Gibbons, Paul Groesse; Set Decoration: Edwin B. Willis, Jack D. Moore",
+    "Nominees": "Cedric Gibbons|Paul Groesse|Edwin B. Willis|Jack D. Moore",
+    "NomineeIds": "nm0316539|nm0342904|nm0932320|nm0601301",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "An American in Paris",
+    "FilmId": "tt0043278",
+    "Name": "Art Direction: Cedric Gibbons, Preston Ames; Set Decoration: Edwin B. Willis, Keogh Gleason",
+    "Nominees": "Cedric Gibbons|Preston Ames|Edwin B. Willis|Keogh Gleason",
+    "NomineeIds": "nm0316539|nm0024694|nm0932320|nm0322294",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "David and Bathsheba",
+    "FilmId": "tt0043455",
+    "Name": "Art Direction: Lyle Wheeler, George Davis; Set Decoration: Thomas Little, Paul S. Fox",
+    "Nominees": "Lyle Wheeler|George Davis|Thomas Little|Paul S. Fox",
+    "NomineeIds": "nm0923907|nm0204649|nm0514673|nm0289189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "On the Riviera",
+    "FilmId": "tt0043882",
+    "Name": "Art Direction: Lyle Wheeler, Leland Fuller; Musical Settings: Joseph C. Wright; Set Decoration: Thomas Little, Walter M. Scott",
+    "Nominees": "Lyle Wheeler|Leland Fuller|Joseph C. Wright|Thomas Little|Walter M. Scott",
+    "NomineeIds": "nm0923907|nm0298285|nm0942532|nm0514673|nm0779898",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Quo Vadis",
+    "FilmId": "tt0043949",
+    "Name": "Art Direction: William A. Horning, Cedric Gibbons, Edward Carfagno; Set Decoration: Hugh Hunt",
+    "Nominees": "William A. Horning|Cedric Gibbons|Edward Carfagno|Hugh Hunt",
+    "NomineeIds": "nm0395178|nm0316539|nm0137063|nm0402474",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Tales of Hoffmann",
+    "FilmId": "tt0044103",
+    "Name": "Hein Heckroth",
+    "Nominees": "Hein Heckroth",
+    "NomineeIds": "nm0373081",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Death of a Salesman",
+    "FilmId": "tt0043458",
+    "Name": "Frank Planer",
+    "Nominees": "Frank Planer",
+    "NomineeIds": "nm0005832",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Frogmen",
+    "FilmId": "tt0043565",
+    "Name": "Norbert Brodine",
+    "Nominees": "Norbert Brodine",
+    "NomineeIds": "nm0005661",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "A Place in the Sun",
+    "FilmId": "tt0043924",
+    "Name": "William C. Mellor",
+    "Nominees": "William C. Mellor",
+    "NomineeIds": "nm0005794",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Strangers on a Train",
+    "FilmId": "tt0044079",
+    "Name": "Robert Burks",
+    "Nominees": "Robert Burks",
+    "NomineeIds": "nm0122079",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Harry Stradling",
+    "Nominees": "Harry Stradling",
+    "NomineeIds": "nm0005889",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "An American in Paris",
+    "FilmId": "tt0043278",
+    "Name": "Alfred Gilks; Ballet Photography by John Alton",
+    "Nominees": "Alfred Gilks|John Alton",
+    "NomineeIds": "nm0005720|nm0023003",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "David and Bathsheba",
+    "FilmId": "tt0043455",
+    "Name": "Leon Shamroy",
+    "Nominees": "Leon Shamroy",
+    "NomineeIds": "nm0005872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Quo Vadis",
+    "FilmId": "tt0043949",
+    "Name": "Robert Surtees, William V. Skall",
+    "Nominees": "Robert Surtees|William V. Skall",
+    "NomineeIds": "nm0005892|nm0005877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Show Boat",
+    "FilmId": "tt0044030",
+    "Name": "Charles Rosher",
+    "Nominees": "Charles Rosher",
+    "NomineeIds": "nm0003546",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "When Worlds Collide",
+    "FilmId": "tt0044207",
+    "Name": "John F. Seitz, W. Howard Greene",
+    "Nominees": "John F. Seitz|W. Howard Greene",
+    "NomineeIds": "nm0005870|nm0338946",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Kind Lady",
+    "FilmId": "tt0043709",
+    "Name": "Walter Plunkett, Gile Steele",
+    "Nominees": "Walter Plunkett|Gile Steele",
+    "NomineeIds": "nm0687703|nm0824554",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Model and the Marriage Broker",
+    "FilmId": "tt0043813",
+    "Name": "Charles LeMaire, Renie",
+    "Nominees": "Charles LeMaire|Renie",
+    "NomineeIds": "nm0494406|nm0174800",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Mudlark",
+    "FilmId": "tt0042757",
+    "Name": "Edward Stevenson, Margaret Furse",
+    "Nominees": "Edward Stevenson|Margaret Furse",
+    "NomineeIds": "nm0828926|nm0299094",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "A Place in the Sun",
+    "FilmId": "tt0043924",
+    "Name": "Edith Head",
+    "Nominees": "Edith Head",
+    "NomineeIds": "nm0372128",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Lucinda Ballard",
+    "Nominees": "Lucinda Ballard",
+    "NomineeIds": "nm0050646",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "An American in Paris",
+    "FilmId": "tt0043278",
+    "Name": "Orry-Kelly, Walter Plunkett, Irene Sharaff",
+    "Nominees": "Orry-Kelly|Walter Plunkett|Irene Sharaff",
+    "NomineeIds": "nm0650673|nm0687703|nm0788695",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "David and Bathsheba",
+    "FilmId": "tt0043455",
+    "Name": "Charles LeMaire, Edward Stevenson",
+    "Nominees": "Charles LeMaire|Edward Stevenson",
+    "NomineeIds": "nm0494406|nm0828926",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Great Caruso",
+    "FilmId": "tt0043599",
+    "Name": "Helen Rose, Gile Steele",
+    "Nominees": "Helen Rose|Gile Steele",
+    "NomineeIds": "nm0741423|nm0824554",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Quo Vadis",
+    "FilmId": "tt0043949",
+    "Name": "Herschel McCoy",
+    "Nominees": "Herschel McCoy",
+    "NomineeIds": "nm0380855",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Tales of Hoffmann",
+    "FilmId": "tt0044103",
+    "Name": "Hein Heckroth",
+    "Nominees": "Hein Heckroth",
+    "NomineeIds": "nm0373081",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The African Queen",
+    "FilmId": "tt0043265",
+    "Name": "John Huston",
+    "Nominees": "John Huston",
+    "NomineeIds": "nm0001379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "An American in Paris",
+    "FilmId": "tt0043278",
+    "Name": "Vincente Minnelli",
+    "Nominees": "Vincente Minnelli",
+    "NomineeIds": "nm0591486",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Detective Story",
+    "FilmId": "tt0043465",
+    "Name": "William Wyler",
+    "Nominees": "William Wyler",
+    "NomineeIds": "nm0943758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "A Place in the Sun",
+    "FilmId": "tt0043924",
+    "Name": "George Stevens",
+    "Nominees": "George Stevens",
+    "NomineeIds": "nm0828419",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Elia Kazan",
+    "Nominees": "Elia Kazan",
+    "NomineeIds": "nm0001415",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "I Was a Communist for the F.B.I.",
+    "FilmId": "tt0043665",
+    "Name": "Bryan Foy, Producer",
+    "Nominees": "Bryan Foy",
+    "NomineeIds": "nm0289381",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Kon-Tiki",
+    "FilmId": "tt0042650",
+    "Name": "Olle Nordemar, Producer",
+    "Nominees": "Olle Nordemar",
+    "NomineeIds": "nm0634989",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Benjy",
+    "FilmId": "tt0043334",
+    "Name": "'Made by Fred Zinnemann with the cooperation of Paramount Pictures Corporation for the Los Angeles Orthopaedic Hospital'",
+    "Nominees": "Fred Zinnemann with the cooperation of Paramount Pictures Corporation for the Los Angeles Orthopaedic Hospital'",
+    "NomineeIds": "nm0003593",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "One Who Came Back",
+    "FilmId": "tt0043883",
+    "Name": "Owen Crump, Producer. (Film sponsored by the Disabled American Veterans, in cooperation with the United States Department of Defense and the Association of Motion Picture Producers)",
+    "Nominees": "Owen Crump",
+    "NomineeIds": "nm0190096",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Seeing Eye",
+    "FilmId": "tt0044017",
+    "Name": "Gordon Hollingshead, Producer",
+    "Nominees": "Gordon Hollingshead",
+    "NomineeIds": "nm0391121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "An American in Paris",
+    "FilmId": "tt0043278",
+    "Name": "Adrienne Fazan",
+    "Nominees": "Adrienne Fazan",
+    "NomineeIds": "nm0269751",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Decision before Dawn",
+    "FilmId": "tt0043459",
+    "Name": "Dorothy Spencer",
+    "Nominees": "Dorothy Spencer",
+    "NomineeIds": "nm0817929",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "A Place in the Sun",
+    "FilmId": "tt0043924",
+    "Name": "William Hornbeck",
+    "Nominees": "William Hornbeck",
+    "NomineeIds": "nm0394962",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Quo Vadis",
+    "FilmId": "tt0043949",
+    "Name": "Ralph E. Winters",
+    "Nominees": "Ralph E. Winters",
+    "NomineeIds": "nm0935988",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Well",
+    "FilmId": "tt0044202",
+    "Name": "Chester Schaeffer",
+    "Nominees": "Chester Schaeffer",
+    "NomineeIds": "nm0769692",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "David and Bathsheba",
+    "FilmId": "tt0043455",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Death of a Salesman",
+    "FilmId": "tt0043458",
+    "Name": "Alex North",
+    "Nominees": "Alex North",
+    "NomineeIds": "nm0006218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "A Place in the Sun",
+    "FilmId": "tt0043924",
+    "Name": "Franz Waxman",
+    "Nominees": "Franz Waxman",
+    "NomineeIds": "nm0000077",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Quo Vadis",
+    "FilmId": "tt0043949",
+    "Name": "Miklos Rozsa",
+    "Nominees": "Miklos Rozsa",
+    "NomineeIds": "nm0000067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Alex North",
+    "Nominees": "Alex North",
+    "NomineeIds": "nm0006218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Alice in Wonderland",
+    "FilmId": "tt0043274",
+    "Name": "Oliver Wallace",
+    "Nominees": "Oliver Wallace",
+    "NomineeIds": "nm0006337",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "An American in Paris",
+    "FilmId": "tt0043278",
+    "Name": "Johnny Green, Saul Chaplin",
+    "Nominees": "Johnny Green|Saul Chaplin",
+    "NomineeIds": "nm0338004|nm0006000",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "The Great Caruso",
+    "FilmId": "tt0043599",
+    "Name": "Peter Herman Adler, Johnny Green",
+    "Nominees": "Peter Herman Adler|Johnny Green",
+    "NomineeIds": "nm0012219|nm0338004",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "On the Riviera",
+    "FilmId": "tt0043882",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Show Boat",
+    "FilmId": "tt0044030",
+    "Name": "Adolph Deutsch, Conrad Salinger",
+    "Nominees": "Adolph Deutsch|Conrad Salinger",
+    "NomineeIds": "nm0006037|nm0758404",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Here Comes the Groom",
+    "FilmId": "tt0043633",
+    "Name": "Music by Hoagy Carmichael; Lyrics by Johnny Mercer",
+    "Nominees": "Hoagy Carmichael|Johnny Mercer",
+    "NomineeIds": "nm0005994|nm0006197",
+    "Winner": "True",
+    "Detail": "In The Cool, Cool, Cool Of The Evening",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Strip",
+    "FilmId": "tt0044083",
+    "Name": "Music and Lyrics by Bert Kalmar, Harry Ruby and Oscar Hammerstein II",
+    "Nominees": "Bert Kalmar|Harry Ruby|Oscar Hammerstein II",
+    "NomineeIds": "nm0436095|nm0748438|nm0358564",
+    "Winner": "",
+    "Detail": "A Kiss To Build A Dream On",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Golden Girl",
+    "FilmId": "tt0043592",
+    "Name": "Music by Lionel Newman; Lyrics by Eliot Daniel",
+    "Nominees": "Lionel Newman|Eliot Daniel",
+    "NomineeIds": "nm0006213|nm0199614",
+    "Winner": "",
+    "Detail": "Never",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Royal Wedding",
+    "FilmId": "tt0043983",
+    "Name": "Music by Burton Lane; Lyrics by Alan Jay Lerner",
+    "Nominees": "Burton Lane|Alan Jay Lerner",
+    "NomineeIds": "nm0485263|nm0503585",
+    "Winner": "",
+    "Detail": "Too Late Now",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Rich, Young and Pretty",
+    "FilmId": "tt0043968",
+    "Name": "Music by Nicholas Brodszky; Lyrics by Sammy Cahn",
+    "Nominees": "Nicholas Brodszky|Sammy Cahn",
+    "NomineeIds": "nm0111004|nm0005991",
+    "Winner": "",
+    "Detail": "Wonder Why",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "An American in Paris",
+    "FilmId": "tt0043278",
+    "Name": "Arthur Freed, Producer",
+    "Nominees": "Arthur Freed",
+    "NomineeIds": "nm0006085",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Decision before Dawn",
+    "FilmId": "tt0043459",
+    "Name": "Anatole Litvak and Frank McCarthy, Producers",
+    "Nominees": "Anatole Litvak|Frank McCarthy",
+    "NomineeIds": "nm0514822|nm0565135",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "A Place in the Sun",
+    "FilmId": "tt0043924",
+    "Name": "George Stevens, Producer",
+    "Nominees": "George Stevens",
+    "NomineeIds": "nm0828419",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Quo Vadis",
+    "FilmId": "tt0043949",
+    "Name": "Sam Zimbalist, Producer",
+    "Nominees": "Sam Zimbalist",
+    "NomineeIds": "nm0956547",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Charles K. Feldman, Producer",
+    "Nominees": "Charles K. Feldman",
+    "NomineeIds": "nm0271012",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Lambert, the Sheepish Lion",
+    "FilmId": "tt0044821",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Rooty Toot Toot",
+    "FilmId": "tt0043980",
+    "Name": "Stephen Bosustow, Producer",
+    "Nominees": "Stephen Bosustow",
+    "NomineeIds": "nm0098322",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Two Mouseketeers",
+    "FilmId": "tt0044157",
+    "Name": "Fred Quimby, Producer",
+    "Nominees": "Fred Quimby",
+    "NomineeIds": "nm0703642",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Ridin' the Rails",
+    "FilmId": "tt0043969",
+    "Name": "Jack Eaton, Producer",
+    "Nominees": "Jack Eaton",
+    "NomineeIds": "nm0247827",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "The Story of Time",
+    "FilmId": "tt0044077",
+    "Name": "Robert G. Leffingwell, Producer",
+    "Nominees": "Robert G. Leffingwell",
+    "NomineeIds": "nm0498984",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "World of Kids",
+    "FilmId": "tt0044218",
+    "Name": "Robert Youngson, Producer",
+    "Nominees": "Robert Youngson",
+    "NomineeIds": "nm0950288",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Balzac",
+    "FilmId": "tt0043316",
+    "Name": "Les Films du Compass",
+    "Nominees": "Les Films du Compass",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Danger under the Sea",
+    "FilmId": "tt0043447",
+    "Name": "Tom Mead, Producer",
+    "Nominees": "Tom Mead",
+    "NomineeIds": "nm0574931",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Nature's Half Acre",
+    "FilmId": "tt0043839",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Bright Victory",
+    "FilmId": "tt0043361",
+    "Name": "Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",
+    "Nominees": "Universal-International|Leslie I. Carey",
+    "NomineeIds": "co0005073|nm0136989",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Great Caruso",
+    "FilmId": "tt0043599",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Douglas Shearer",
+    "NomineeIds": "co0007143|nm0790428",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "I Want You",
+    "FilmId": "tt0043664",
+    "Name": "Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",
+    "Nominees": "Samuel Goldwyn|Gordon Sawyer",
+    "NomineeIds": "co0058013|nm0768167",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Warner Bros. Studio Sound Department, Col. Nathan Levinson, Sound Director",
+    "Nominees": "Warner Bros.|Col. Nathan Levinson",
+    "NomineeIds": "co0080422|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Two Tickets to Broadway",
+    "FilmId": "tt0044158",
+    "Name": "RKO Radio Studio Sound Department, John O. Aalberg, Sound Director",
+    "Nominees": "RKO Radio|John O. Aalberg",
+    "NomineeIds": "co0041421|nm0007356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "When Worlds Collide",
+    "FilmId": "tt0044207",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Bullfighter and the Lady",
+    "FilmId": "tt0043363",
+    "Name": "Budd Boetticher, Ray Nazarro",
+    "Nominees": "Budd Boetticher|Ray Nazarro",
+    "NomineeIds": "nm0091430|nm0623401",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "The Frogmen",
+    "FilmId": "tt0043565",
+    "Name": "Oscar Millard",
+    "Nominees": "Oscar Millard",
+    "NomineeIds": "nm0587743",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Here Comes the Groom",
+    "FilmId": "tt0043633",
+    "Name": "Robert Riskin, Liam O'Brien",
+    "Nominees": "Robert Riskin|Liam O'Brien",
+    "NomineeIds": "nm0728307|nm0639676",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Seven Days to Noon",
+    "FilmId": "tt0042949",
+    "Name": "Paul Dehn, James Bernard",
+    "Nominees": "Paul Dehn|James Bernard",
+    "NomineeIds": "nm0214989|nm0002302",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Teresa",
+    "FilmId": "tt0044112",
+    "Name": "Alfred Hayes, Stewart Stern",
+    "Nominees": "Alfred Hayes|Stewart Stern",
+    "NomineeIds": "nm0370883|nm0827856",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The African Queen",
+    "FilmId": "tt0043265",
+    "Name": "James Agee, John Huston",
+    "Nominees": "James Agee|John Huston",
+    "NomineeIds": "nm0012938|nm0001379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Detective Story",
+    "FilmId": "tt0043465",
+    "Name": "Philip Yordan, Robert Wyler",
+    "Nominees": "Philip Yordan|Robert Wyler",
+    "NomineeIds": "nm0948634|nm0943753",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "La Ronde",
+    "FilmId": "tt0042906",
+    "Name": "Max Ophuls, Jacques Natanson",
+    "Nominees": "Max Ophuls|Jacques Natanson",
+    "NomineeIds": "nm0649097|nm0622148",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "A Place in the Sun",
+    "FilmId": "tt0043924",
+    "Name": "Michael Wilson, Harry Brown",
+    "Nominees": "Michael Wilson|Harry Brown",
+    "NomineeIds": "nm0933858|nm0113689",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "A Streetcar Named Desire",
+    "FilmId": "tt0044081",
+    "Name": "Tennessee Williams",
+    "Nominees": "Tennessee Williams",
+    "NomineeIds": "nm0931783",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "An American in Paris",
+    "FilmId": "tt0043278",
+    "Name": "Alan Jay Lerner",
+    "Nominees": "Alan Jay Lerner",
+    "NomineeIds": "nm0503585",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "The Big Carnival",
+    "FilmId": "tt0043338",
+    "Name": "Billy Wilder, Lesser Samuels, Walter Newman",
+    "Nominees": "Billy Wilder|Lesser Samuels|Walter Newman",
+    "NomineeIds": "nm0000697|nm0760488|nm0628305",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "David and Bathsheba",
+    "FilmId": "tt0043455",
+    "Name": "Philip Dunne",
+    "Nominees": "Philip Dunne",
+    "NomineeIds": "nm0242897",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Go for Broke!",
+    "FilmId": "tt0043590",
+    "Name": "Robert Pirosh",
+    "Nominees": "Robert Pirosh",
+    "NomineeIds": "nm0685265",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "The Well",
+    "FilmId": "tt0044202",
+    "Name": "Clarence Greene, Russell Rouse",
+    "Nominees": "Clarence Greene|Russell Rouse",
+    "NomineeIds": "nm0338707|nm0745866",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "HONORARY FOREIGN LANGUAGE FILM AWARD",
+    "Film": "Rashomon",
+    "FilmId": "tt0042876",
+    "Name": "",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Rashomon - voted by the Board of Governors as the most outstanding foreign language film released in the United States during 1951."
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gene Kelly",
+    "NomineeIds": "nm0000037",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Gene Kelly in appreciation of his versatility as an actor, singer, director and dancer, and specifically for his brilliant achievements in the art of choreography on film."
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Arthur Freed",
+    "Nominees": "Arthur Freed",
+    "NomineeIds": "nm0006085",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gordon Jennings|S. L. Stancliffe|Paramount",
+    "NomineeIds": "nm0421157|?|co0023400",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To GORDON JENNINGS, S. L. STANCLIFFE and the PARAMOUNT STUDIO SPECIAL PHOTOGRAPHIC and ENGINEERING DEPARTMENTS for the design, construction and application of a servo-operated recording and repeating device."
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "OLIN L. DUPY",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To OLIN L. DUPY of Metro-Goldwyn-Mayer Studio for the design, construction and application of a motion picture reproducing system."
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Radio Corporation Of America",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To RADIO CORPORATION OF AMERICA, VICTOR DIVISION, for pioneering direct positive recording with anticipatory noise reduction."
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard M. Haff|Frank P. Herrnfeld|Garland C. Misener|General Aniline And Film Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To RICHARD M. HAFF, FRANK P. HERRNFELD, GARLAND C. MISENER and the ANSCO FILM DIVISION OF GENERAL ANILINE AND FILM CORPORATION for the development of the Ansco color scene tester."
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fred Ponedel|RALPH AYRES|GEORGE BROWN",
+    "NomineeIds": "?|nm0044007|nm0113618",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To FRED PONEDEL, RALPH AYRES and GEORGE BROWN of Warner Bros. Studio for an air-driven water motor to provide flow, wake and white water for marine sequences in motion pictures."
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Glen Robinson|Metro-Goldwyn-Mayer",
+    "NomineeIds": "nm0732656|co0007143",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To GLEN ROBINSON and the METRO-GOLDWYN-MAYER STUDIO CONSTRUCTION DEPARTMENT for the development of a new music wire and cable cutter."
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jack Gaylord|Metro-Goldwyn-Mayer",
+    "NomineeIds": "nm2182856|co0007143",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To JACK GAYLORD and the METRO-GOLDWYN-MAYER STUDIO CONSTRUCTION DEPARTMENT for the development of balsa falling snow."
+  },
+  {
+    "Ceremony": 24,
+    "Year": 1951,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CARLOS RIVAS",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Editorial",
+    "Note": "",
+    "Citation": "To CARLOS RIVAS of Metro-Goldwyn-Mayer Studio for the development of an automatic magnetic film splicer."
   }
 ]

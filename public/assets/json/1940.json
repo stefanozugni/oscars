@@ -1,2430 +1,2594 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "Rebecca"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "All This, and Heaven Too"
-    ],
-    "movies": [
-      {
-        "title": "All This, and Heaven Too",
-        "tmdb_id": 43807,
-        "imdb_id": "tt0032194"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "Foreign Correspondent"
-    ],
-    "movies": [
-      {
-        "title": "Foreign Correspondent",
-        "tmdb_id": 25670,
-        "imdb_id": "tt0032484"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "The Grapes of Wrath"
-    ],
-    "movies": [
-      {
-        "title": "The Grapes of Wrath",
-        "tmdb_id": 596,
-        "imdb_id": "tt0032551"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "The Great Dictator"
-    ],
-    "movies": [
-      {
-        "title": "The Great Dictator",
-        "tmdb_id": 914,
-        "imdb_id": "tt0032553"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "Kitty Foyle"
-    ],
-    "movies": [
-      {
-        "title": "Kitty Foyle",
-        "tmdb_id": 77744,
-        "imdb_id": "tt0032671"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "The Letter"
-    ],
-    "movies": [
-      {
-        "title": "The Letter",
-        "tmdb_id": 17801,
-        "imdb_id": "tt0032701"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "The Long Voyage Home"
-    ],
-    "movies": [
-      {
-        "title": "The Long Voyage Home",
-        "tmdb_id": 52859,
-        "imdb_id": "tt0032728"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "Our Town"
-    ],
-    "movies": [
-      {
-        "title": "Our Town",
-        "tmdb_id": 23283,
-        "imdb_id": "tt0032881"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1940",
-    "nominees": [
-      "The Philadelphia Story"
-    ],
-    "movies": [
-      {
-        "title": "The Philadelphia Story",
-        "tmdb_id": 981,
-        "imdb_id": "tt0032904"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1940",
-    "nominees": [
-      "James Stewart"
-    ],
-    "movies": [
-      {
-        "title": "The Philadelphia Story",
-        "tmdb_id": 981,
-        "imdb_id": "tt0032904"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1940",
-    "nominees": [
-      "Charlie Chaplin"
-    ],
-    "movies": [
-      {
-        "title": "The Great Dictator",
-        "tmdb_id": 914,
-        "imdb_id": "tt0032553"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1940",
-    "nominees": [
-      "Henry Fonda"
-    ],
-    "movies": [
-      {
-        "title": "The Grapes of Wrath",
-        "tmdb_id": 596,
-        "imdb_id": "tt0032551"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1940",
-    "nominees": [
-      "Raymond Massey"
-    ],
-    "movies": [
-      {
-        "title": "Abe Lincoln in Illinois",
-        "tmdb_id": 43806,
-        "imdb_id": "tt0032181"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1940",
-    "nominees": [
-      "Laurence Olivier"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1940",
-    "nominees": [
-      "Ginger Rogers"
-    ],
-    "movies": [
-      {
-        "title": "Kitty Foyle",
-        "tmdb_id": 77744,
-        "imdb_id": "tt0032671"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1940",
-    "nominees": [
-      "Bette Davis"
-    ],
-    "movies": [
-      {
-        "title": "The Letter",
-        "tmdb_id": 17801,
-        "imdb_id": "tt0032701"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1940",
-    "nominees": [
-      "Joan Fontaine"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1940",
-    "nominees": [
-      "Katharine Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "The Philadelphia Story",
-        "tmdb_id": 981,
-        "imdb_id": "tt0032904"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1940",
-    "nominees": [
-      "Martha Scott"
-    ],
-    "movies": [
-      {
-        "title": "Our Town",
-        "tmdb_id": 23283,
-        "imdb_id": "tt0032881"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1940",
-    "nominees": [
-      "Walter Brennan"
-    ],
-    "movies": [
-      {
-        "title": "The Westerner",
-        "tmdb_id": 14710,
-        "imdb_id": "tt0033253"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1940",
-    "nominees": [
-      "Albert Bassermann"
-    ],
-    "movies": [
-      {
-        "title": "Foreign Correspondent",
-        "tmdb_id": 25670,
-        "imdb_id": "tt0032484"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1940",
-    "nominees": [
-      "William Gargan"
-    ],
-    "movies": [
-      {
-        "title": "They Knew What They Wanted",
-        "tmdb_id": 95046,
-        "imdb_id": "tt0033150"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1940",
-    "nominees": [
-      "Jack Oakie"
-    ],
-    "movies": [
-      {
-        "title": "The Great Dictator",
-        "tmdb_id": 914,
-        "imdb_id": "tt0032553"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1940",
-    "nominees": [
-      "James Stephenson"
-    ],
-    "movies": [
-      {
-        "title": "The Letter",
-        "tmdb_id": 17801,
-        "imdb_id": "tt0032701"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1940",
-    "nominees": [
-      "Jane Darwell"
-    ],
-    "movies": [
-      {
-        "title": "The Grapes of Wrath",
-        "tmdb_id": 596,
-        "imdb_id": "tt0032551"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1940",
-    "nominees": [
-      "Judith Anderson"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1940",
-    "nominees": [
-      "Ruth Hussey"
-    ],
-    "movies": [
-      {
-        "title": "The Philadelphia Story",
-        "tmdb_id": 981,
-        "imdb_id": "tt0032904"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1940",
-    "nominees": [
-      "Barbara O'Neil"
-    ],
-    "movies": [
-      {
-        "title": "All This, and Heaven Too",
-        "tmdb_id": 43807,
-        "imdb_id": "tt0032194"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1940",
-    "nominees": [
-      "Marjorie Rambeau"
-    ],
-    "movies": [
-      {
-        "title": "Primrose Path",
-        "tmdb_id": 80054,
-        "imdb_id": "tt0032946"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1940",
-    "nominees": [
-      "John Ford"
-    ],
-    "movies": [
-      {
-        "title": "The Grapes of Wrath",
-        "tmdb_id": 596,
-        "imdb_id": "tt0032551"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1940",
-    "nominees": [
-      "George Cukor"
-    ],
-    "movies": [
-      {
-        "title": "The Philadelphia Story",
-        "tmdb_id": 981,
-        "imdb_id": "tt0032904"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1940",
-    "nominees": [
-      "Alfred Hitchcock"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1940",
-    "nominees": [
-      "Sam Wood"
-    ],
-    "movies": [
-      {
-        "title": "Kitty Foyle",
-        "tmdb_id": 77744,
-        "imdb_id": "tt0032671"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1940",
-    "nominees": [
-      "William Wyler"
-    ],
-    "movies": [
-      {
-        "title": "The Letter",
-        "tmdb_id": 17801,
-        "imdb_id": "tt0032701"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Donald Ogden Stewart"
-    ],
-    "movies": [
-      {
-        "title": "The Philadelphia Story",
-        "tmdb_id": 981,
-        "imdb_id": "tt0032904"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Nunnally Johnson"
-    ],
-    "movies": [
-      {
-        "title": "The Grapes of Wrath",
-        "tmdb_id": 596,
-        "imdb_id": "tt0032551"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Dudley Nichols"
-    ],
-    "movies": [
-      {
-        "title": "The Long Voyage Home",
-        "tmdb_id": 52859,
-        "imdb_id": "tt0032728"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Robert E. Sherwood",
-      "Joan Harrison"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Dalton Trumbo"
-    ],
-    "movies": [
-      {
-        "title": "Kitty Foyle",
-        "tmdb_id": 77744,
-        "imdb_id": "tt0032671"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Preston Sturges"
-    ],
-    "movies": [
-      {
-        "title": "The Great McGinty",
-        "tmdb_id": 36495,
-        "imdb_id": "tt0032554"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Charles Bennett",
-      "Joan Harrison"
-    ],
-    "movies": [
-      {
-        "title": "Foreign Correspondent",
-        "tmdb_id": 25670,
-        "imdb_id": "tt0032484"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Norman Burnside",
-      "Heinz Herald",
-      "John Huston"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Ehrlich's Magic Bullet",
-        "tmdb_id": 88192,
-        "imdb_id": "tt0032413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Charlie Chaplin"
-    ],
-    "movies": [
-      {
-        "title": "The Great Dictator",
-        "tmdb_id": 914,
-        "imdb_id": "tt0032553"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1940",
-    "nominees": [
-      "Ben Hecht"
-    ],
-    "movies": [
-      {
-        "title": "Angels Over Broadway",
-        "tmdb_id": 42756,
-        "imdb_id": "tt0032209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1940",
-    "nominees": [
-      "Benjamin Glazer",
-      "John Toldy"
-    ],
-    "movies": [
-      {
-        "title": "Arise, My Love",
-        "tmdb_id": 131770,
-        "imdb_id": "tt0032220"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1940",
-    "nominees": [
-      "Hugo Butler",
-      "Dore Schary"
-    ],
-    "movies": [
-      {
-        "title": "Edison, the Man",
-        "tmdb_id": 43811,
-        "imdb_id": "tt0032432"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1940",
-    "nominees": [
-      "Stuart N. Lake"
-    ],
-    "movies": [
-      {
-        "title": "The Westerner",
-        "tmdb_id": 14710,
-        "imdb_id": "tt0033253"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1940",
-    "nominees": [
-      "Leo McCarey",
-      "Samuel Spewack",
-      "Bella Spewack"
-    ],
-    "movies": [
-      {
-        "title": "My Favorite Wife",
-        "tmdb_id": 41463,
-        "imdb_id": "tt0029284"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1940",
-    "nominees": [
-      "Walter Reisch"
-    ],
-    "movies": [
-      {
-        "title": "Comrade X",
-        "tmdb_id": 32194,
-        "imdb_id": "tt0032349"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Leigh Harline",
-      "Paul J. Smith"
-    ],
-    "movies": [
-      {
-        "title": "Pinocchio",
-        "tmdb_id": 10895,
-        "imdb_id": "tt0032910"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Aaron Copland"
-    ],
-    "movies": [
-      {
-        "title": "Our Town",
-        "tmdb_id": 23283,
-        "imdb_id": "tt0032881"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Louis Gruenberg"
-    ],
-    "movies": [
-      {
-        "title": "The Fight for Life",
-        "tmdb_id": 218315,
-        "imdb_id": "tt0032465"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Richard Hageman"
-    ],
-    "movies": [
-      {
-        "title": "The Howards of Virginia",
-        "tmdb_id": 52360,
-        "imdb_id": "tt0032612"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Richard Hageman"
-    ],
-    "movies": [
-      {
-        "title": "The Long Voyage Home",
-        "tmdb_id": 52859,
-        "imdb_id": "tt0032728"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Werner Heymann"
-    ],
-    "movies": [
-      {
-        "title": "One Million B.C.",
-        "tmdb_id": 3592,
-        "imdb_id": "tt0032871"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Mark of Zorro",
-        "tmdb_id": 32093,
-        "imdb_id": "tt0032762"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Miklos Rozsa"
-    ],
-    "movies": [
-      {
-        "title": "The Thief of Bagdad",
-        "tmdb_id": 12232,
-        "imdb_id": "tt0033152"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Frank Skinner"
-    ],
-    "movies": [
-      {
-        "title": "The House of the Seven Gables",
-        "tmdb_id": 28373,
-        "imdb_id": "tt0032610"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "The Letter",
-        "tmdb_id": 17801,
-        "imdb_id": "tt0032701"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Herbert Stothart"
-    ],
-    "movies": [
-      {
-        "title": "Waterloo Bridge",
-        "tmdb_id": 43824,
-        "imdb_id": "tt0033238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Franz Waxman"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Roy Webb"
-    ],
-    "movies": [
-      {
-        "title": "My Favorite Wife",
-        "tmdb_id": 41463,
-        "imdb_id": "tt0029284"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Meredith Wilson"
-    ],
-    "movies": [
-      {
-        "title": "The Great Dictator",
-        "tmdb_id": 914,
-        "imdb_id": "tt0032553"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Arizona",
-        "tmdb_id": 35561,
-        "imdb_id": "tt0032221"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Dark Command",
-        "tmdb_id": 40639,
-        "imdb_id": "tt0032383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1940",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "North West Mounted Police",
-        "tmdb_id": 83360,
-        "imdb_id": "tt0032850"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1940",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "Tin Pan Alley",
-        "tmdb_id": 108222,
-        "imdb_id": "tt0033167"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1940",
-    "nominees": [
-      "Anthony Collins"
-    ],
-    "movies": [
-      {
-        "title": "Irene",
-        "tmdb_id": 109481,
-        "imdb_id": "tt0032638"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1940",
-    "nominees": [
-      "Aaron Copland"
-    ],
-    "movies": [
-      {
-        "title": "Our Town",
-        "tmdb_id": 23283,
-        "imdb_id": "tt0032881"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1940",
-    "nominees": [
-      "Cy Feuer"
-    ],
-    "movies": [
-      {
-        "title": "Hit Parade of 1941",
-        "tmdb_id": 218313,
-        "imdb_id": "tt0032600"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1940",
-    "nominees": [
-      "Erich Wolfgang Korngold"
-    ],
-    "movies": [
-      {
-        "title": "The Sea Hawk",
-        "tmdb_id": 26201,
-        "imdb_id": "tt0033028"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1940",
-    "nominees": [
-      "Charles Previn"
-    ],
-    "movies": [
-      {
-        "title": "Spring Parade",
-        "tmdb_id": 218312,
-        "imdb_id": "tt0033095"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1940",
-    "nominees": [
-      "Artie Shaw"
-    ],
-    "movies": [
-      {
-        "title": "Second Chorus",
-        "tmdb_id": 23627,
-        "imdb_id": "tt0033029"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1940",
-    "nominees": [
-      "Georgie Stoll",
-      "Roger Edens"
-    ],
-    "movies": [
-      {
-        "title": "Strike Up the Band",
-        "tmdb_id": 43819,
-        "imdb_id": "tt0033110"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1940",
-    "nominees": [
-      "Victor Young"
-    ],
-    "movies": [
-      {
-        "title": "Arise, My Love",
-        "tmdb_id": 131770,
-        "imdb_id": "tt0032220"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1940",
-    "nominees": [
-      "When You Wish upon a Star"
-    ],
-    "movies": [
-      {
-        "title": "Pinocchio",
-        "tmdb_id": 10895,
-        "imdb_id": "tt0032910"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1940",
-    "nominees": [
-      "Down Argentine Way"
-    ],
-    "movies": [
-      {
-        "title": "Down Argentine Way",
-        "tmdb_id": 43810,
-        "imdb_id": "tt0032410"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1940",
-    "nominees": [
-      "I'd Know You Anywhere"
-    ],
-    "movies": [
-      {
-        "title": "You'll Find Out",
-        "tmdb_id": 80720,
-        "imdb_id": "tt0033283"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1940",
-    "nominees": [
-      "It's a Blue World"
-    ],
-    "movies": [
-      {
-        "title": "Music in My Heart",
-        "tmdb_id": 130365,
-        "imdb_id": "tt0032823"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1940",
-    "nominees": [
-      "Love of My Life"
-    ],
-    "movies": [
-      {
-        "title": "Second Chorus",
-        "tmdb_id": 23627,
-        "imdb_id": "tt0033029"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1940",
-    "nominees": [
-      "Only Forever"
-    ],
-    "movies": [
-      {
-        "title": "Rhythm on the River",
-        "tmdb_id": 128669,
-        "imdb_id": "tt0032986"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1940",
-    "nominees": [
-      "Our Love Affair"
-    ],
-    "movies": [
-      {
-        "title": "Strike Up the Band",
-        "tmdb_id": 43819,
-        "imdb_id": "tt0033110"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1940",
-    "nominees": [
-      "Waltzing in the Clouds"
-    ],
-    "movies": [
-      {
-        "title": "Spring Parade",
-        "tmdb_id": 218312,
-        "imdb_id": "tt0033095"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1940",
-    "nominees": [
-      "Who Am I?"
-    ],
-    "movies": [
-      {
-        "title": "Hit Parade of 1941",
-        "tmdb_id": 218313,
-        "imdb_id": "tt0032600"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1940",
-    "nominees": [
-      "The Milky Way"
-    ],
-    "movies": [
-      {
-        "title": "The Milky Way",
-        "tmdb_id": 163882,
-        "imdb_id": "tt0032794"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1940",
-    "nominees": [
-      "Puss Gets the Boot"
-    ],
-    "movies": [
-      {
-        "title": "Puss Gets the Boot",
-        "tmdb_id": 40372,
-        "imdb_id": "tt0032953"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1940",
-    "nominees": [
-      "A Wild Hare"
-    ],
-    "movies": [
-      {
-        "title": "A Wild Hare",
-        "tmdb_id": 144904,
-        "imdb_id": "tt0033260"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1940",
-    "nominees": [
-      "Quicker'n a Wink"
-    ],
-    "movies": [
-      {
-        "title": "Quicker'n a Wink",
-        "tmdb_id": 236799,
-        "imdb_id": "tt0032960"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1940",
-    "nominees": [
-      "London Can Take It!"
-    ],
-    "movies": [
-      {
-        "title": "London Can Take It!",
-        "tmdb_id": 145011,
-        "imdb_id": "tt0032723"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1940",
-    "nominees": [
-      "More About Nostradamus"
-    ],
-    "movies": [
-      {
-        "title": "More About Nostradamus",
-        "tmdb_id": 226405,
-        "imdb_id": "tt0032810"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1940",
-    "nominees": [
-      "Siege"
-    ],
-    "movies": [
-      {
-        "title": "Siege",
-        "tmdb_id": 147364,
-        "imdb_id": "tt0033050"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1940",
-    "nominees": [
-      "Teddy the Rough Rider"
-    ],
-    "movies": [
-      {
-        "title": "Teddy the Rough Rider",
-        "tmdb_id": 236795,
-        "imdb_id": "tt0033138"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1940",
-    "nominees": [
-      "Eyes of the Navy"
-    ],
-    "movies": [
-      {
-        "title": "Eyes of the Navy",
-        "tmdb_id": 130363,
-        "imdb_id": "tt0032449"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1940",
-    "nominees": [
-      "Service with the Colors"
-    ],
-    "movies": [
-      {
-        "title": "Service with the Colors",
-        "tmdb_id": 236796,
-        "imdb_id": "tt0033037"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Richard Day",
-      "Paul Groesse"
-    ],
-    "movies": [
-      {
-        "title": "Pride and Prejudice",
-        "tmdb_id": 43818,
-        "imdb_id": "tt0032943"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Lionel Banks",
-      "Robert Peterson"
-    ],
-    "movies": [
-      {
-        "title": "Arizona",
-        "tmdb_id": 35561,
-        "imdb_id": "tt0032221"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "James Basevi"
-    ],
-    "movies": [
-      {
-        "title": "The Westerner",
-        "tmdb_id": 14710,
-        "imdb_id": "tt0033253"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Richard Day",
-      "Joseph C. Wright"
-    ],
-    "movies": [
-      {
-        "title": "Lillian Russell",
-        "tmdb_id": 204604,
-        "imdb_id": "tt0032710"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Hans Dreier",
-      "Robert Usher"
-    ],
-    "movies": [
-      {
-        "title": "Arise, My Love",
-        "tmdb_id": 131770,
-        "imdb_id": "tt0032220"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "John DuCasse Schulze"
-    ],
-    "movies": [
-      {
-        "title": "My Son, My Son!",
-        "tmdb_id": 218317,
-        "imdb_id": "tt0032831"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Alexander Golitzen"
-    ],
-    "movies": [
-      {
-        "title": "Foreign Correspondent",
-        "tmdb_id": 25670,
-        "imdb_id": "tt0032484"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Anton Grot"
-    ],
-    "movies": [
-      {
-        "title": "The Sea Hawk",
-        "tmdb_id": 26201,
-        "imdb_id": "tt0033028"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "John Victor MacKay"
-    ],
-    "movies": [
-      {
-        "title": "Dark Command",
-        "tmdb_id": 40639,
-        "imdb_id": "tt0032383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Jack Otterson"
-    ],
-    "movies": [
-      {
-        "title": "The Boys from Syracuse",
-        "tmdb_id": 188123,
-        "imdb_id": "tt0032276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Van Nest Polglase",
-      "Mark-Lee Kirk"
-    ],
-    "movies": [
-      {
-        "title": "My Favorite Wife",
-        "tmdb_id": 41463,
-        "imdb_id": "tt0029284"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Lewis J. Rachmil"
-    ],
-    "movies": [
-      {
-        "title": "Our Town",
-        "tmdb_id": 23283,
-        "imdb_id": "tt0032881"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Lyle Wheeler"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "N/A"
-    ],
-    "movies": [
-      {
-        "title": "Sis Hopkins",
-        "tmdb_id": 181742,
-        "imdb_id": "tt0034193"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1940",
-    "nominees": [
-      "Vincent Korda"
-    ],
-    "movies": [
-      {
-        "title": "The Thief of Bagdad",
-        "tmdb_id": 12232,
-        "imdb_id": "tt0033152"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1940",
-    "nominees": [
-      "Richard Day",
-      "Joseph C. Wright"
-    ],
-    "movies": [
-      {
-        "title": "Down Argentine Way",
-        "tmdb_id": 43810,
-        "imdb_id": "tt0032410"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1940",
-    "nominees": [
-      "Hans Dreier",
-      "Roland Anderson"
-    ],
-    "movies": [
-      {
-        "title": "North West Mounted Police",
-        "tmdb_id": 83360,
-        "imdb_id": "tt0032850"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1940",
-    "nominees": [
-      "Cedric Gibbons",
-      "John S. Detlie"
-    ],
-    "movies": [
-      {
-        "title": "Bitter Sweet",
-        "tmdb_id": 121695,
-        "imdb_id": "tt0032256"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "George Barnes"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Gaetano Gaudio"
-    ],
-    "movies": [
-      {
-        "title": "The Letter",
-        "tmdb_id": 17801,
-        "imdb_id": "tt0032701"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Ernest Haller"
-    ],
-    "movies": [
-      {
-        "title": "All This, and Heaven Too",
-        "tmdb_id": 43807,
-        "imdb_id": "tt0032194"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "James Wong Howe"
-    ],
-    "movies": [
-      {
-        "title": "Abe Lincoln in Illinois",
-        "tmdb_id": 43806,
-        "imdb_id": "tt0032181"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Charles B. Lang Jr."
-    ],
-    "movies": [
-      {
-        "title": "Arise, My Love",
-        "tmdb_id": 131770,
-        "imdb_id": "tt0032220"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Rudolph Mate"
-    ],
-    "movies": [
-      {
-        "title": "Foreign Correspondent",
-        "tmdb_id": 25670,
-        "imdb_id": "tt0032484"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Harold Rosson"
-    ],
-    "movies": [
-      {
-        "title": "Boom Town",
-        "tmdb_id": 55604,
-        "imdb_id": "tt0032273"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Joseph Ruttenberg"
-    ],
-    "movies": [
-      {
-        "title": "Waterloo Bridge",
-        "tmdb_id": 43824,
-        "imdb_id": "tt0033238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Gregg Toland"
-    ],
-    "movies": [
-      {
-        "title": "The Long Voyage Home",
-        "tmdb_id": 52859,
-        "imdb_id": "tt0032728"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1940",
-    "nominees": [
-      "Joseph Valentine"
-    ],
-    "movies": [
-      {
-        "title": "Spring Parade",
-        "tmdb_id": 218312,
-        "imdb_id": "tt0033095"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1940",
-    "nominees": [
-      "Georges Perinal"
-    ],
-    "movies": [
-      {
-        "title": "The Thief of Bagdad",
-        "tmdb_id": 12232,
-        "imdb_id": "tt0033152"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1940",
-    "nominees": [
-      "Oliver T. Marsh",
-      "Allen Davey"
-    ],
-    "movies": [
-      {
-        "title": "Bitter Sweet",
-        "tmdb_id": 121695,
-        "imdb_id": "tt0032256"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1940",
-    "nominees": [
-      "Arthur C. Miller",
-      "Ray Rennahan"
-    ],
-    "movies": [
-      {
-        "title": "The Blue Bird",
-        "tmdb_id": 60400,
-        "imdb_id": "tt0032264"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1940",
-    "nominees": [
-      "Victor Milner",
-      "W. Howard Greene"
-    ],
-    "movies": [
-      {
-        "title": "North West Mounted Police",
-        "tmdb_id": 83360,
-        "imdb_id": "tt0032850"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1940",
-    "nominees": [
-      "Leon Shamroy",
-      "Ray Rennahan"
-    ],
-    "movies": [
-      {
-        "title": "Down Argentine Way",
-        "tmdb_id": 43810,
-        "imdb_id": "tt0032410"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1940",
-    "nominees": [
-      "Sidney Wagner",
-      "William V. Skall"
-    ],
-    "movies": [
-      {
-        "title": "Northwest Passage",
-        "tmdb_id": 43805,
-        "imdb_id": "tt0032851"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1940",
-    "nominees": [
-      "Anne Bauchens"
-    ],
-    "movies": [
-      {
-        "title": "North West Mounted Police",
-        "tmdb_id": 83360,
-        "imdb_id": "tt0032850"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1940",
-    "nominees": [
-      "Hal C. Kern"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1940",
-    "nominees": [
-      "Warren Low"
-    ],
-    "movies": [
-      {
-        "title": "The Letter",
-        "tmdb_id": 17801,
-        "imdb_id": "tt0032701"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1940",
-    "nominees": [
-      "Robert L. Simpson"
-    ],
-    "movies": [
-      {
-        "title": "The Grapes of Wrath",
-        "tmdb_id": 596,
-        "imdb_id": "tt0032551"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1940",
-    "nominees": [
-      "Sherman Todd"
-    ],
-    "movies": [
-      {
-        "title": "The Long Voyage Home",
-        "tmdb_id": 52859,
-        "imdb_id": "tt0032728"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Lawrence W. Butler",
-      "Jack Whitney"
-    ],
-    "movies": [
-      {
-        "title": "The Thief of Bagdad",
-        "tmdb_id": 12232,
-        "imdb_id": "tt0033152"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Jack Cosgrove",
-      "Arthur Johns"
-    ],
-    "movies": [
-      {
-        "title": "Rebecca",
-        "tmdb_id": 223,
-        "imdb_id": "tt0032976"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Paul Eagler",
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "Foreign Correspondent",
-        "tmdb_id": 25670,
-        "imdb_id": "tt0032484"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Farciot Edouart",
-      "Gordon Jennings"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Cyclops",
-        "tmdb_id": 3593,
-        "imdb_id": "tt0032412"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Loren Ryder",
-      "Farciot Edouart",
-      "Gordon Jennings"
-    ],
-    "movies": [
-      {
-        "title": "Typhoon",
-        "tmdb_id": 188127,
-        "imdb_id": "tt0033196"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "John P. Fulton",
-      "Bernard B. Brown",
-      "Joe Lapis"
-    ],
-    "movies": [
-      {
-        "title": "The Boys from Syracuse",
-        "tmdb_id": 188123,
-        "imdb_id": "tt0032276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Bernard B. Brown",
-      "John P. Fulton",
-      "William Hedgcock"
-    ],
-    "movies": [
-      {
-        "title": "The Invisible Man Returns",
-        "tmdb_id": 28421,
-        "imdb_id": "tt0032635"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "A. Arnold Gillespie",
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "Boom Town",
-        "tmdb_id": 55604,
-        "imdb_id": "tt0032273"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Byron Haskin",
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "The Sea Hawk",
-        "tmdb_id": 26201,
-        "imdb_id": "tt0033028"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "R. T. Layton",
-      "Ray Binger",
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "The Long Voyage Home",
-        "tmdb_id": 52859,
-        "imdb_id": "tt0032728"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Howard J. Lydecker",
-      "William Bradford",
-      "Ellis J. Thackery",
-      "Herbert Norsch"
-    ],
-    "movies": [
-      {
-        "title": "Women in War",
-        "tmdb_id": 188132,
-        "imdb_id": "tt0033274"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Roy Seawright",
-      "Elmer A. Raguse"
-    ],
-    "movies": [
-      {
-        "title": "One Million B.C.",
-        "tmdb_id": 3592,
-        "imdb_id": "tt0032871"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Fred Sersen",
-      "Edmund H. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "The Blue Bird",
-        "tmdb_id": 60400,
-        "imdb_id": "tt0032264"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1940",
-    "nominees": [
-      "Vernon L. Walker",
-      "John O. Aalberg"
-    ],
-    "movies": [
-      {
-        "title": "Swiss Family Robinson",
-        "tmdb_id": 188125,
-        "imdb_id": "tt0033124"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "Strike Up the Band",
-        "tmdb_id": 43819,
-        "imdb_id": "tt0033110"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "Charles L. Lootens"
-    ],
-    "movies": [
-      {
-        "title": "Behind the News",
-        "tmdb_id": 218310,
-        "imdb_id": "tt0032246"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "Elmer Raguse"
-    ],
-    "movies": [
-      {
-        "title": "Captain Caution",
-        "tmdb_id": 151970,
-        "imdb_id": "tt0032304"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "E.H. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "The Grapes of Wrath",
-        "tmdb_id": 596,
-        "imdb_id": "tt0032551"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "Jack Whitney"
-    ],
-    "movies": [
-      {
-        "title": "The Howards of Virginia",
-        "tmdb_id": 52360,
-        "imdb_id": "tt0032612"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "John Aalberg"
-    ],
-    "movies": [
-      {
-        "title": "Kitty Foyle",
-        "tmdb_id": 77744,
-        "imdb_id": "tt0032671"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "Loren L. Ryder"
-    ],
-    "movies": [
-      {
-        "title": "North West Mounted Police",
-        "tmdb_id": 83360,
-        "imdb_id": "tt0032850"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "Our Town",
-        "tmdb_id": 23283,
-        "imdb_id": "tt0032881"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "The Sea Hawk",
-        "tmdb_id": 26201,
-        "imdb_id": "tt0033028"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "Bernard B. Brown"
-    ],
-    "movies": [
-      {
-        "title": "Spring Parade",
-        "tmdb_id": 218312,
-        "imdb_id": "tt0033095"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1940",
-    "nominees": [
-      "John Livadary"
-    ],
-    "movies": [
-      {
-        "title": "Too Many Husbands",
-        "tmdb_id": 120109,
-        "imdb_id": "tt0033174"
-      }
-    ],
-    "won": false
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Great Dictator",
+    "FilmId": "tt0032553",
+    "Name": "Charles Chaplin",
+    "Nominees": "Charles Chaplin",
+    "NomineeIds": "nm0000122",
+    "Winner": "",
+    "Detail": "Hynkel, Dictator of Tomania",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Grapes of Wrath",
+    "FilmId": "tt0032551",
+    "Name": "Henry Fonda",
+    "Nominees": "Henry Fonda",
+    "NomineeIds": "nm0000020",
+    "Winner": "",
+    "Detail": "Tom Joad",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Abe Lincoln in Illinois",
+    "FilmId": "tt0032181",
+    "Name": "Raymond Massey",
+    "Nominees": "Raymond Massey",
+    "NomineeIds": "nm0557339",
+    "Winner": "",
+    "Detail": "Abraham Lincoln",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Laurence Olivier",
+    "Nominees": "Laurence Olivier",
+    "NomineeIds": "nm0000059",
+    "Winner": "",
+    "Detail": "Maxim de Winter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Philadelphia Story",
+    "FilmId": "tt0032904",
+    "Name": "James Stewart",
+    "Nominees": "James Stewart",
+    "NomineeIds": "nm0000071",
+    "Winner": "True",
+    "Detail": "Mike Connor",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Foreign Correspondent",
+    "FilmId": "tt0032484",
+    "Name": "Albert Basserman",
+    "Nominees": "Albert Basserman",
+    "NomineeIds": "nm0060168",
+    "Winner": "",
+    "Detail": "Van Meer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Westerner",
+    "FilmId": "tt0033253",
+    "Name": "Walter Brennan",
+    "Nominees": "Walter Brennan",
+    "NomineeIds": "nm0000974",
+    "Winner": "True",
+    "Detail": "Judge Roy Bean",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "They Knew What They Wanted",
+    "FilmId": "tt0033150",
+    "Name": "William Gargan",
+    "Nominees": "William Gargan",
+    "NomineeIds": "nm0307326",
+    "Winner": "",
+    "Detail": "Joe, the Foreman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Great Dictator",
+    "FilmId": "tt0032553",
+    "Name": "Jack Oakie",
+    "Nominees": "Jack Oakie",
+    "NomineeIds": "nm0642988",
+    "Winner": "",
+    "Detail": "Napaloni, Dictator of Bacteria",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Letter",
+    "FilmId": "tt0032701",
+    "Name": "James Stephenson",
+    "Nominees": "James Stephenson",
+    "NomineeIds": "nm0827263",
+    "Winner": "",
+    "Detail": "Howard Joyce",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Letter",
+    "FilmId": "tt0032701",
+    "Name": "Bette Davis",
+    "Nominees": "Bette Davis",
+    "NomineeIds": "nm0000012",
+    "Winner": "",
+    "Detail": "Leslie Crosbie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Joan Fontaine",
+    "Nominees": "Joan Fontaine",
+    "NomineeIds": "nm0000021",
+    "Winner": "",
+    "Detail": "Mrs. de Winter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Philadelphia Story",
+    "FilmId": "tt0032904",
+    "Name": "Katharine Hepburn",
+    "Nominees": "Katharine Hepburn",
+    "NomineeIds": "nm0000031",
+    "Winner": "",
+    "Detail": "Tracy Lord",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Kitty Foyle",
+    "FilmId": "tt0032671",
+    "Name": "Ginger Rogers",
+    "Nominees": "Ginger Rogers",
+    "NomineeIds": "nm0001677",
+    "Winner": "True",
+    "Detail": "Kitty Foyle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Our Town",
+    "FilmId": "tt0032881",
+    "Name": "Martha Scott",
+    "Nominees": "Martha Scott",
+    "NomineeIds": "nm0779549",
+    "Winner": "",
+    "Detail": "Emily Webb",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Judith Anderson",
+    "Nominees": "Judith Anderson",
+    "NomineeIds": "nm0000752",
+    "Winner": "",
+    "Detail": "Mrs. Danvers",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Grapes of Wrath",
+    "FilmId": "tt0032551",
+    "Name": "Jane Darwell",
+    "Nominees": "Jane Darwell",
+    "NomineeIds": "nm0002034",
+    "Winner": "True",
+    "Detail": "Ma Joad",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Philadelphia Story",
+    "FilmId": "tt0032904",
+    "Name": "Ruth Hussey",
+    "Nominees": "Ruth Hussey",
+    "NomineeIds": "nm0404046",
+    "Winner": "",
+    "Detail": "Liz Imbrie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "All This, and Heaven Too",
+    "FilmId": "tt0032194",
+    "Name": "Barbara O'Neil",
+    "Nominees": "Barbara O'Neil",
+    "NomineeIds": "nm0641966",
+    "Winner": "",
+    "Detail": "Duchesse de Praslin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Primrose Path",
+    "FilmId": "tt0032946",
+    "Name": "Marjorie Rambeau",
+    "Nominees": "Marjorie Rambeau",
+    "NomineeIds": "nm0708081",
+    "Winner": "",
+    "Detail": "Mamie Adams",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Arise, My Love",
+    "FilmId": "tt0032220",
+    "Name": "Hans Dreier, Robert Usher",
+    "Nominees": "Hans Dreier|Robert Usher",
+    "NomineeIds": "nm0237417|nm0882336",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Arizona",
+    "FilmId": "tt0032221",
+    "Name": "Lionel Banks, Robert Peterson",
+    "Nominees": "Lionel Banks|Robert Peterson",
+    "NomineeIds": "nm0052206|nm0677035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Boys from Syracuse",
+    "FilmId": "tt0032276",
+    "Name": "John Otterson",
+    "Nominees": "John Otterson",
+    "NomineeIds": "nm0653163",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Dark Command",
+    "FilmId": "tt0032383",
+    "Name": "John Victor Mackay",
+    "Nominees": "John Victor Mackay",
+    "NomineeIds": "nm0533179",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Foreign Correspondent",
+    "FilmId": "tt0032484",
+    "Name": "Alexander Golitzen",
+    "Nominees": "Alexander Golitzen",
+    "NomineeIds": "nm0326529",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Lillian Russell",
+    "FilmId": "tt0032710",
+    "Name": "Richard Day, Joseph C. Wright",
+    "Nominees": "Richard Day|Joseph C. Wright",
+    "NomineeIds": "nm0206554|nm0942532",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "My Favorite Wife",
+    "FilmId": "tt0029284",
+    "Name": "Van Nest Polglase, Mark-Lee Kirk",
+    "Nominees": "Van Nest Polglase|Mark-Lee Kirk",
+    "NomineeIds": "nm0689026|nm0456521",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "My Son, My Son!",
+    "FilmId": "tt0032831",
+    "Name": "John DuCasse Schulze",
+    "Nominees": "John DuCasse Schulze",
+    "NomineeIds": "nm0776388",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Our Town",
+    "FilmId": "tt0032881",
+    "Name": "Lewis J. Rachmil",
+    "Nominees": "Lewis J. Rachmil",
+    "NomineeIds": "nm0705135",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Pride and Prejudice",
+    "FilmId": "tt0032943",
+    "Name": "Cedric Gibbons, Paul Groesse",
+    "Nominees": "Cedric Gibbons|Paul Groesse",
+    "NomineeIds": "nm0316539|nm0342904",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Lyle Wheeler",
+    "Nominees": "Lyle Wheeler",
+    "NomineeIds": "nm0923907",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Sea Hawk",
+    "FilmId": "tt0033028",
+    "Name": "Anton Grot",
+    "Nominees": "Anton Grot",
+    "NomineeIds": "nm0343819",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Westerner",
+    "FilmId": "tt0033253",
+    "Name": "James Basevi",
+    "Nominees": "James Basevi",
+    "NomineeIds": "nm0059730",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Bitter Sweet",
+    "FilmId": "tt0032256",
+    "Name": "Cedric Gibbons, John S. Detlie",
+    "Nominees": "Cedric Gibbons|John S. Detlie",
+    "NomineeIds": "nm0316539|nm0221898",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Down Argentine Way",
+    "FilmId": "tt0032410",
+    "Name": "Richard Day, Joseph C. Wright",
+    "Nominees": "Richard Day|Joseph C. Wright",
+    "NomineeIds": "nm0206554|nm0942532",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "North West Mounted Police",
+    "FilmId": "tt0032850",
+    "Name": "Hans Dreier, Roland Anderson",
+    "Nominees": "Hans Dreier|Roland Anderson",
+    "NomineeIds": "nm0237417|nm0027380",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Thief of Bagdad",
+    "FilmId": "tt0033152",
+    "Name": "Vincent Korda",
+    "Nominees": "Vincent Korda",
+    "NomineeIds": "nm0466112",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Abe Lincoln in Illinois",
+    "FilmId": "tt0032181",
+    "Name": "James Wong Howe",
+    "Nominees": "James Wong Howe",
+    "NomineeIds": "nm0002146",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "All This, and Heaven Too",
+    "FilmId": "tt0032194",
+    "Name": "Ernest Haller",
+    "Nominees": "Ernest Haller",
+    "NomineeIds": "nm0005735",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Arise, My Love",
+    "FilmId": "tt0032220",
+    "Name": "Charles B. Lang, Jr.",
+    "Nominees": "Charles B. Lang Jr.",
+    "NomineeIds": "nm0485702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Boom Town",
+    "FilmId": "tt0032273",
+    "Name": "Harold Rosson",
+    "Nominees": "Harold Rosson",
+    "NomineeIds": "nm0005849",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Foreign Correspondent",
+    "FilmId": "tt0032484",
+    "Name": "Rudolph Maté",
+    "Nominees": "Rudolph Maté",
+    "NomineeIds": "nm0005789",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Letter",
+    "FilmId": "tt0032701",
+    "Name": "Gaetano (Tony) Gaudio",
+    "Nominees": "Gaetano (Tony) Gaudio",
+    "NomineeIds": "nm0309974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Long Voyage Home",
+    "FilmId": "tt0032728",
+    "Name": "Gregg Toland",
+    "Nominees": "Gregg Toland",
+    "NomineeIds": "nm0005904",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "George Barnes",
+    "Nominees": "George Barnes",
+    "NomineeIds": "nm0055604",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Spring Parade",
+    "FilmId": "tt0033095",
+    "Name": "Joseph Valentine",
+    "Nominees": "Joseph Valentine",
+    "NomineeIds": "nm0884252",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Waterloo Bridge",
+    "FilmId": "tt0033238",
+    "Name": "Joseph Ruttenberg",
+    "Nominees": "Joseph Ruttenberg",
+    "NomineeIds": "nm0005853",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Bitter Sweet",
+    "FilmId": "tt0032256",
+    "Name": "Oliver T. Marsh, Allen Davey",
+    "Nominees": "Oliver T. Marsh|Allen Davey",
+    "NomineeIds": "nm0005784|nm0202695",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Blue Bird",
+    "FilmId": "tt0032264",
+    "Name": "Arthur Miller, Ray Rennahan",
+    "Nominees": "Arthur Miller|Ray Rennahan",
+    "NomineeIds": "nm0587926|nm0005840",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Down Argentine Way",
+    "FilmId": "tt0032410",
+    "Name": "Leon Shamroy, Ray Rennahan",
+    "Nominees": "Leon Shamroy|Ray Rennahan",
+    "NomineeIds": "nm0005872|nm0005840",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "North West Mounted Police",
+    "FilmId": "tt0032850",
+    "Name": "Victor Milner, W. Howard Greene",
+    "Nominees": "Victor Milner|W. Howard Greene",
+    "NomineeIds": "nm0005800|nm0338946",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Northwest Passage",
+    "FilmId": "tt0032851",
+    "Name": "Sidney Wagner, William V. Skall",
+    "Nominees": "Sidney Wagner|William V. Skall",
+    "NomineeIds": "nm0906109|nm0005877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Thief of Bagdad",
+    "FilmId": "tt0033152",
+    "Name": "Georges Périnal",
+    "Nominees": "Georges Périnal",
+    "NomineeIds": "nm0005838",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Grapes of Wrath",
+    "FilmId": "tt0032551",
+    "Name": "John Ford",
+    "Nominees": "John Ford",
+    "NomineeIds": "nm0000406",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Kitty Foyle",
+    "FilmId": "tt0032671",
+    "Name": "Sam Wood",
+    "Nominees": "Sam Wood",
+    "NomineeIds": "nm0939992",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Letter",
+    "FilmId": "tt0032701",
+    "Name": "William Wyler",
+    "Nominees": "William Wyler",
+    "NomineeIds": "nm0943758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Philadelphia Story",
+    "FilmId": "tt0032904",
+    "Name": "George Cukor",
+    "Nominees": "George Cukor",
+    "NomineeIds": "nm0002030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Alfred Hitchcock",
+    "Nominees": "Alfred Hitchcock",
+    "NomineeIds": "nm0000033",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Grapes of Wrath",
+    "FilmId": "tt0032551",
+    "Name": "Robert Simpson",
+    "Nominees": "Robert Simpson",
+    "NomineeIds": "nm0801184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Letter",
+    "FilmId": "tt0032701",
+    "Name": "Warren Low",
+    "Nominees": "Warren Low",
+    "NomineeIds": "nm0522848",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Long Voyage Home",
+    "FilmId": "tt0032728",
+    "Name": "Sherman Todd",
+    "Nominees": "Sherman Todd",
+    "NomineeIds": "nm0865285",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "North West Mounted Police",
+    "FilmId": "tt0032850",
+    "Name": "Anne Bauchens",
+    "Nominees": "Anne Bauchens",
+    "NomineeIds": "nm0061640",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Hal C. Kern",
+    "Nominees": "Hal C. Kern",
+    "NomineeIds": "nm0449456",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Arizona",
+    "FilmId": "tt0032221",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Dark Command",
+    "FilmId": "tt0032383",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Fight for Life",
+    "FilmId": "tt0032465",
+    "Name": "Louis Gruenberg",
+    "Nominees": "Louis Gruenberg",
+    "NomineeIds": "nm0344402",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Great Dictator",
+    "FilmId": "tt0032553",
+    "Name": "Meredith Willson",
+    "Nominees": "Meredith Willson",
+    "NomineeIds": "nm0932745",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The House of the Seven Gables",
+    "FilmId": "tt0032610",
+    "Name": "Frank Skinner",
+    "Nominees": "Frank Skinner",
+    "NomineeIds": "nm0804244",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Howards of Virginia",
+    "FilmId": "tt0032612",
+    "Name": "Richard Hageman",
+    "Nominees": "Richard Hageman",
+    "NomineeIds": "nm0006119",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Letter",
+    "FilmId": "tt0032701",
+    "Name": "Max Steiner",
+    "Nominees": "Max Steiner",
+    "NomineeIds": "nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Long Voyage Home",
+    "FilmId": "tt0032728",
+    "Name": "Richard Hageman",
+    "Nominees": "Richard Hageman",
+    "NomineeIds": "nm0006119",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Mark of Zorro",
+    "FilmId": "tt0032762",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "My Favorite Wife",
+    "FilmId": "tt0029284",
+    "Name": "Roy Webb",
+    "Nominees": "Roy Webb",
+    "NomineeIds": "nm0002202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "North West Mounted Police",
+    "FilmId": "tt0032850",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "One Million B.C.",
+    "FilmId": "tt0032871",
+    "Name": "Werner Heymann",
+    "Nominees": "Werner Heymann",
+    "NomineeIds": "nm0006128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Our Town",
+    "FilmId": "tt0032881",
+    "Name": "Aaron Copland",
+    "Nominees": "Aaron Copland",
+    "NomineeIds": "nm0178716",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Pinocchio",
+    "FilmId": "tt0032910",
+    "Name": "Leigh Harline, Paul J. Smith, Ned Washington",
+    "Nominees": "Leigh Harline|Paul J. Smith|Ned Washington",
+    "NomineeIds": "nm0363316|nm1345229|nm0913513",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Franz Waxman",
+    "Nominees": "Franz Waxman",
+    "NomineeIds": "nm0000077",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Thief of Bagdad",
+    "FilmId": "tt0033152",
+    "Name": "Miklos Rozsa",
+    "Nominees": "Miklos Rozsa",
+    "NomineeIds": "nm0000067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Waterloo Bridge",
+    "FilmId": "tt0033238",
+    "Name": "Herbert Stothart",
+    "Nominees": "Herbert Stothart",
+    "NomineeIds": "nm0006307",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Arise, My Love",
+    "FilmId": "tt0032220",
+    "Name": "Victor Young",
+    "Nominees": "Victor Young",
+    "NomineeIds": "nm0000082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Hit Parade of 1941",
+    "FilmId": "tt0032600",
+    "Name": "Cy Feuer",
+    "Nominees": "Cy Feuer",
+    "NomineeIds": "nm0006074",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Irene",
+    "FilmId": "tt0032638",
+    "Name": "Anthony Collins",
+    "Nominees": "Anthony Collins",
+    "NomineeIds": "nm0172141",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Our Town",
+    "FilmId": "tt0032881",
+    "Name": "Aaron Copland",
+    "Nominees": "Aaron Copland",
+    "NomineeIds": "nm0178716",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "The Sea Hawk",
+    "FilmId": "tt0033028",
+    "Name": "Erich Wolfgang Korngold",
+    "Nominees": "Erich Wolfgang Korngold",
+    "NomineeIds": "nm0006157",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Second Chorus",
+    "FilmId": "tt0033029",
+    "Name": "Artie Shaw",
+    "Nominees": "Artie Shaw",
+    "NomineeIds": "nm0789600",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Spring Parade",
+    "FilmId": "tt0033095",
+    "Name": "Charles Previn",
+    "Nominees": "Charles Previn",
+    "NomineeIds": "nm0006239",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Strike Up the Band",
+    "FilmId": "tt0033110",
+    "Name": "Roger Edens, Georgie Stoll",
+    "Nominees": "Roger Edens|Georgie Stoll",
+    "NomineeIds": "nm0249136|nm0006303",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring)",
+    "Film": "Tin Pan Alley",
+    "FilmId": "tt0033167",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Down Argentine Way",
+    "FilmId": "tt0032410",
+    "Name": "Music by Harry Warren; Lyrics by Mack Gordon",
+    "Nominees": "Harry Warren|Mack Gordon",
+    "NomineeIds": "nm0912851|nm0330418",
+    "Winner": "",
+    "Detail": "Down Argentina Way",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "You'll Find Out",
+    "FilmId": "tt0033283",
+    "Name": "Music by Jimmy McHugh; Lyrics by Johnny Mercer",
+    "Nominees": "Jimmy McHugh|Johnny Mercer",
+    "NomineeIds": "nm0006192|nm0006197",
+    "Winner": "",
+    "Detail": "I'd Know You Anywhere",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Music in My Heart",
+    "FilmId": "tt0032823",
+    "Name": "Music and Lyrics by Chet Forrest and Bob Wright",
+    "Nominees": "Chet Forrest|Bob Wright",
+    "NomineeIds": "nm0286609|nm0942243",
+    "Winner": "",
+    "Detail": "It's A Blue World",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Second Chorus",
+    "FilmId": "tt0033029",
+    "Name": "Music by Artie Shaw; Lyrics by Johnny Mercer",
+    "Nominees": "Artie Shaw|Johnny Mercer",
+    "NomineeIds": "nm0789600|nm0006197",
+    "Winner": "",
+    "Detail": "Love Of My Life",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Rhythm on the River",
+    "FilmId": "tt0032986",
+    "Name": "Music by James Monaco; Lyrics by John Burke",
+    "Nominees": "James Monaco|John Burke",
+    "NomineeIds": "nm0597444|nm0121741",
+    "Winner": "",
+    "Detail": "Only Forever",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Strike Up the Band",
+    "FilmId": "tt0033110",
+    "Name": "Music and Lyrics by Roger Edens and Arthur Freed",
+    "Nominees": "Roger Edens|Arthur Freed",
+    "NomineeIds": "nm0249136|nm0006085",
+    "Winner": "",
+    "Detail": "Our Love Affair",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Spring Parade",
+    "FilmId": "tt0033095",
+    "Name": "Music by Robert Stolz; Lyrics by Gus Kahn",
+    "Nominees": "Robert Stolz|Gus Kahn",
+    "NomineeIds": "nm0006305|nm0006146",
+    "Winner": "",
+    "Detail": "Waltzing In The Clouds",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Pinocchio",
+    "FilmId": "tt0032910",
+    "Name": "Music by Leigh Harline; Lyrics by Ned Washington",
+    "Nominees": "Leigh Harline|Ned Washington",
+    "NomineeIds": "nm0363316|nm0913513",
+    "Winner": "True",
+    "Detail": "When You Wish Upon A Star",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Hit Parade of 1941",
+    "FilmId": "tt0032600",
+    "Name": "Music by Jule Styne; Lyrics by Walter Bullock",
+    "Nominees": "Jule Styne|Walter Bullock",
+    "NomineeIds": "nm0006312|nm0120190",
+    "Winner": "",
+    "Detail": "Who Am I?",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "All This, and Heaven Too",
+    "FilmId": "tt0032194",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Foreign Correspondent",
+    "FilmId": "tt0032484",
+    "Name": "Walter Wanger (production company)",
+    "Nominees": "Walter Wanger (production company)",
+    "NomineeIds": "co0035064",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Grapes of Wrath",
+    "FilmId": "tt0032551",
+    "Name": "20th Century-Fox",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Great Dictator",
+    "FilmId": "tt0032553",
+    "Name": "Charles Chaplin Productions",
+    "Nominees": "Charles Chaplin Productions",
+    "NomineeIds": "co0028083",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Kitty Foyle",
+    "FilmId": "tt0032671",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Letter",
+    "FilmId": "tt0032701",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Long Voyage Home",
+    "FilmId": "tt0032728",
+    "Name": "Argosy-Wanger",
+    "Nominees": "Argosy-Wanger",
+    "NomineeIds": "co0147189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Our Town",
+    "FilmId": "tt0032881",
+    "Name": "Sol Lesser (production company)",
+    "Nominees": "Sol Lesser (production company)",
+    "NomineeIds": "co0027170",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "The Philadelphia Story",
+    "FilmId": "tt0032904",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "OUTSTANDING PRODUCTION",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Selznick International Pictures",
+    "Nominees": "Selznick International Pictures",
+    "NomineeIds": "co0130901",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Milky Way",
+    "FilmId": "tt0032794",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Puss Gets the Boot",
+    "FilmId": "tt0032953",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "A Wild Hare",
+    "FilmId": "tt0033260",
+    "Name": "Leon Schlesinger, Producer",
+    "Nominees": "Leon Schlesinger",
+    "NomineeIds": "nm0772266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "London Can Take It",
+    "FilmId": "tt0032723",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "More about Nostradamus",
+    "FilmId": "tt0032810",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Quicker 'N a Wink",
+    "FilmId": "tt0032960",
+    "Name": "Pete Smith, Producer",
+    "Nominees": "Pete Smith",
+    "NomineeIds": "nm0809570",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Siege",
+    "FilmId": "tt0033050",
+    "Name": "RKO Radio",
+    "Nominees": "RKO Radio",
+    "NomineeIds": "co0041421",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Eyes of the Navy",
+    "FilmId": "tt0032449",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Service with the Colors",
+    "FilmId": "tt0033037",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Teddy, the Rough Rider",
+    "FilmId": "tt0033138",
+    "Name": "Warner Bros.",
+    "Nominees": "Warner Bros.",
+    "NomineeIds": "co0080422",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Behind the News",
+    "FilmId": "tt0032246",
+    "Name": "Republic Studio Sound Department, Charles L. Lootens, Sound Director",
+    "Nominees": "Republic|Charles L. Lootens",
+    "NomineeIds": "co0020540|nm0519780",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Captain Caution",
+    "FilmId": "tt0032304",
+    "Name": "Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",
+    "Nominees": "Hal Roach|Elmer A. Raguse",
+    "NomineeIds": "co0075561|nm0706649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Grapes of Wrath",
+    "FilmId": "tt0032551",
+    "Name": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+    "Nominees": "20th Century-Fox|E. H. Hansen",
+    "NomineeIds": "co0028775|nm0360770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Howards of Virginia",
+    "FilmId": "tt0032612",
+    "Name": "General Service Sound Department, Jack Whitney, Sound Director",
+    "Nominees": "General Service|Jack Whitney",
+    "NomineeIds": "co0062187|nm0926303",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Kitty Foyle",
+    "FilmId": "tt0032671",
+    "Name": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+    "Nominees": "RKO Radio|John Aalberg",
+    "NomineeIds": "co0041421|nm0007356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "North West Mounted Police",
+    "FilmId": "tt0032850",
+    "Name": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+    "Nominees": "Paramount|Loren L. Ryder",
+    "NomineeIds": "co0023400|nm0753122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Our Town",
+    "FilmId": "tt0032881",
+    "Name": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+    "Nominees": "Samuel Goldwyn|Thomas T. Moulton",
+    "NomineeIds": "co0058013|nm0609771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Sea Hawk",
+    "FilmId": "tt0033028",
+    "Name": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+    "Nominees": "Warner Bros.|Nathan Levinson",
+    "NomineeIds": "co0080422|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Spring Parade",
+    "FilmId": "tt0033095",
+    "Name": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+    "Nominees": "Universal|Bernard B. Brown",
+    "NomineeIds": "co0005073|nm0113094",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Strike Up the Band",
+    "FilmId": "tt0033110",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Douglas Shearer",
+    "NomineeIds": "co0007143|nm0790428",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Too Many Husbands",
+    "FilmId": "tt0033174",
+    "Name": "Columbia Studio Sound Department, John Livadary, Sound Director",
+    "Nominees": "Columbia|John Livadary",
+    "NomineeIds": "co0050868|nm0515093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Blue Bird",
+    "FilmId": "tt0032264",
+    "Name": "Photographic Effects by Fred Sersen; Sound Effects by E. H. Hansen",
+    "Nominees": "Fred Sersen|E. H. Hansen",
+    "NomineeIds": "nm0785731|nm0360770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Boom Town",
+    "FilmId": "tt0032273",
+    "Name": "Photographic Effects by A. Arnold Gillespie; Sound Effects by Douglas Shearer",
+    "Nominees": "A. Arnold Gillespie|Douglas Shearer",
+    "NomineeIds": "nm0318901|nm0790428",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Boys from Syracuse",
+    "FilmId": "tt0032276",
+    "Name": "Photographic Effects by John P. Fulton; Sound Effects by Bernard B. Brown, Joseph Lapis",
+    "Nominees": "John P. Fulton|Bernard B. Brown|Joseph Lapis",
+    "NomineeIds": "nm0298483|nm0113094|nm0487596",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Dr. Cyclops",
+    "FilmId": "tt0032412",
+    "Name": "Photographic Effects by Gordon Jennings, Farciot Edouart",
+    "Nominees": "Gordon Jennings|Farciot Edouart",
+    "NomineeIds": "nm0421157|nm0249643",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Foreign Correspondent",
+    "FilmId": "tt0032484",
+    "Name": "Photographic Effects by Paul Eagler; Sound Effects by Thomas T. Moulton",
+    "Nominees": "Paul Eagler|Thomas T. Moulton",
+    "NomineeIds": "nm0247122|nm0609771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Invisible Man Returns",
+    "FilmId": "tt0032635",
+    "Name": "Photographic Effects by John P. Fulton; Sound Effects by Bernard B. Brown, William Hedgecock",
+    "Nominees": "John P. Fulton|Bernard B. Brown|William Hedgecock",
+    "NomineeIds": "nm0298483|nm0113094|nm0373232",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Long Voyage Home",
+    "FilmId": "tt0032728",
+    "Name": "Photographic Effects by R. T. Layton, R. O. Binger; Sound Effects by Thomas T. Moulton",
+    "Nominees": "R. T. Layton|R. O. Binger|Thomas T. Moulton",
+    "NomineeIds": "nm0493632|nm0082915|nm0609771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "One Million B.C.",
+    "FilmId": "tt0032871",
+    "Name": "Photographic Effects by Roy Seawright; Sound Effects by Elmer Raguse",
+    "Nominees": "Roy Seawright|Elmer Raguse",
+    "NomineeIds": "nm0780880|nm0706649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Photographic Effects by Jack Cosgrove; Sound Effects by Arthur Johns",
+    "Nominees": "Jack Cosgrove|Arthur Johns",
+    "NomineeIds": "nm0181832|nm0424284",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Sea Hawk",
+    "FilmId": "tt0033028",
+    "Name": "Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson",
+    "Nominees": "Byron Haskin|Nathan Levinson",
+    "NomineeIds": "nm0005738|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Swiss Family Robinson",
+    "FilmId": "tt0033124",
+    "Name": "Photographic Effects by Vernon L. Walker; Sound Effects by John O. Aalberg",
+    "Nominees": "Vernon L. Walker|John O. Aalberg",
+    "NomineeIds": "nm0908289|nm0007356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Thief of Bagdad",
+    "FilmId": "tt0033152",
+    "Name": "Photographic Effects by Lawrence Butler; Sound Effects by Jack Whitney",
+    "Nominees": "Lawrence Butler|Jack Whitney",
+    "NomineeIds": "nm0125022|nm0926303",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Typhoon",
+    "FilmId": "tt0033196",
+    "Name": "Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Loren Ryder",
+    "Nominees": "Farciot Edouart|Gordon Jennings|Loren Ryder",
+    "NomineeIds": "nm0249643|nm0421157|nm0753122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Women in War",
+    "FilmId": "tt0033274",
+    "Name": "Photographic Effects by Howard J. Lydecker, William Bradford, Ellis J. Thackery; Sound Effects by Herbert Norsch",
+    "Nominees": "Howard J. Lydecker|William Bradford|Ellis J. Thackery|Herbert Norsch",
+    "NomineeIds": "nm0527964|nm0103099|nm0856844|nm0635942",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Angels over Broadway",
+    "FilmId": "tt0032209",
+    "Name": "Ben Hecht",
+    "Nominees": "Ben Hecht",
+    "NomineeIds": "nm0372942",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Dr. Ehrlich's Magic Bullet",
+    "FilmId": "tt0032413",
+    "Name": "John Huston, Heinz Herald, Norman Burnside",
+    "Nominees": "John Huston|Heinz Herald|Norman Burnside",
+    "NomineeIds": "nm0001379|nm0378431|nm0122943",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Foreign Correspondent",
+    "FilmId": "tt0032484",
+    "Name": "Charles Bennett, Joan Harrison",
+    "Nominees": "Charles Bennett|Joan Harrison",
+    "NomineeIds": "nm0071657|nm0365661",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Great Dictator",
+    "FilmId": "tt0032553",
+    "Name": "Charles Chaplin",
+    "Nominees": "Charles Chaplin",
+    "NomineeIds": "nm0000122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Great McGinty",
+    "FilmId": "tt0032554",
+    "Name": "Preston Sturges",
+    "Nominees": "Preston Sturges",
+    "NomineeIds": "nm0002545",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Arise, My Love",
+    "FilmId": "tt0032220",
+    "Name": "Benjamin Glazer, John S. Toldy",
+    "Nominees": "Benjamin Glazer|John S. Toldy",
+    "NomineeIds": "nm0322227|nm0844459",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Comrade X",
+    "FilmId": "tt0032349",
+    "Name": "Walter Reisch",
+    "Nominees": "Walter Reisch",
+    "NomineeIds": "nm0281556",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "Edison, the Man",
+    "FilmId": "tt0032432",
+    "Name": "Dore Schary, Hugo Butler",
+    "Nominees": "Dore Schary|Hugo Butler",
+    "NomineeIds": "nm0770196|nm0124947",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "My Favorite Wife",
+    "FilmId": "tt0029284",
+    "Name": "Bella Spewack, Samuel Spewack, Leo McCarey",
+    "Nominees": "Bella Spewack|Samuel Spewack|Leo McCarey",
+    "NomineeIds": "nm0818415|nm0818416|nm0564970",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Story)",
+    "Film": "The Westerner",
+    "FilmId": "tt0033253",
+    "Name": "Stuart N. Lake",
+    "Nominees": "Stuart N. Lake",
+    "NomineeIds": "nm0482193",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Grapes of Wrath",
+    "FilmId": "tt0032551",
+    "Name": "Nunnally Johnson",
+    "Nominees": "Nunnally Johnson",
+    "NomineeIds": "nm0425913",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Kitty Foyle",
+    "FilmId": "tt0032671",
+    "Name": "Dalton Trumbo",
+    "Nominees": "Dalton Trumbo",
+    "NomineeIds": "nm0874308",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Long Voyage Home",
+    "FilmId": "tt0032728",
+    "Name": "Dudley Nichols",
+    "Nominees": "Dudley Nichols",
+    "NomineeIds": "nm0629580",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Philadelphia Story",
+    "FilmId": "tt0032904",
+    "Name": "Donald Ogden Stewart",
+    "Nominees": "Donald Ogden Stewart",
+    "NomineeIds": "nm0829330",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Rebecca",
+    "FilmId": "tt0032976",
+    "Name": "Robert E. Sherwood, Joan Harrison",
+    "Nominees": "Robert E. Sherwood|Joan Harrison",
+    "NomineeIds": "nm0792845|nm0365661",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bob Hope",
+    "NomineeIds": "nm0001362",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Bob Hope, in recognition of his unselfish services to the Motion Picture Industry."
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nathan Levinson",
+    "NomineeIds": "nm0506080",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Colonel Nathan Levinson for his outstanding service to the industry and the Army during the past nine years, which has made possible the present efficient mobilization of the motion picture industry facilities for the production of Army Training Films."
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "20Th Century-Fox Film Corp.|DANIEL CLARK|GROVER LAUBE|CHARLES MILLER|ROBERT W. STEVENS.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To 20TH CENTURY-FOX FILM CORP. for the design and construction of the 20th Century Silenced Camera, developed by DANIEL CLARK, GROVER LAUBE, CHARLES MILLER and ROBERT W. STEVENS."
+  },
+  {
+    "Ceremony": 13,
+    "Year": 1940,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Warner Bros.|Anton Grot",
+    "NomineeIds": "co0080422|nm0343819",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To WARNER BROS. STUDIO ART DEPARTMENT and ANTON GROT for the design and perfection of the Warner Bros. water ripple and wave illusion machine."
   }
 ]

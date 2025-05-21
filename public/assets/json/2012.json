@@ -1,1875 +1,2178 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2012",
-        "nominees": [
-            "Argo"
-        ],
-        "movies": [
-            {
-                "title": "Argo",
-                "tmdb_id": 68734,
-                "imdb_id": "tt1024648"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2012",
-        "nominees": [
-            "Amour"
-        ],
-        "movies": [
-            {
-                "title": "Amour",
-                "tmdb_id": 86837,
-                "imdb_id": "tt1602620"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2012",
-        "nominees": [
-            "Beasts of the Southern Wild"
-        ],
-        "movies": [
-            {
-                "title": "Beasts of the Southern Wild",
-                "tmdb_id": 84175,
-                "imdb_id": "tt2125435"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2012",
-        "nominees": [
-            "Django Unchained"
-        ],
-        "movies": [
-            {
-                "title": "Django Unchained",
-                "tmdb_id": 68718,
-                "imdb_id": "tt1853728"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2012",
-        "nominees": [
-            "Les Misérables"
-        ],
-        "movies": [
-            {
-                "title": "Les Misérables",
-                "tmdb_id": 82695,
-                "imdb_id": "tt1707386"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2012",
-        "nominees": [
-            "Life of Pi"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2012",
-        "nominees": [
-            "Lincoln"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2012",
-        "nominees": [
-            "Silver Linings Playbook"
-        ],
-        "movies": [
-            {
-                "title": "Silver Linings Playbook",
-                "tmdb_id": 82693,
-                "imdb_id": "tt1045658"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2012",
-        "nominees": [
-            "Zero Dark Thirty"
-        ],
-        "movies": [
-            {
-                "title": "Zero Dark Thirty",
-                "tmdb_id": 97630,
-                "imdb_id": "tt1790885"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2012",
-        "nominees": [
-            "Daniel Day-Lewis"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2012",
-        "nominees": [
-            "Bradley Cooper"
-        ],
-        "movies": [
-            {
-                "title": "Silver Linings Playbook",
-                "tmdb_id": 82693,
-                "imdb_id": "tt1045658"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2012",
-        "nominees": [
-            "Hugh Jackman"
-        ],
-        "movies": [
-            {
-                "title": "Les Misérables",
-                "tmdb_id": 82695,
-                "imdb_id": "tt1707386"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2012",
-        "nominees": [
-            "Joaquin Phoenix"
-        ],
-        "movies": [
-            {
-                "title": "The Master",
-                "tmdb_id": 68722,
-                "imdb_id": "tt1560747"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2012",
-        "nominees": [
-            "Denzel Washington"
-        ],
-        "movies": [
-            {
-                "title": "Flight",
-                "tmdb_id": 87502,
-                "imdb_id": "tt1907668"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2012",
-        "nominees": [
-            "Jennifer Lawrence"
-        ],
-        "movies": [
-            {
-                "title": "Silver Linings Playbook",
-                "tmdb_id": 82693,
-                "imdb_id": "tt1045658"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2012",
-        "nominees": [
-            "Jessica Chastain"
-        ],
-        "movies": [
-            {
-                "title": "Zero Dark Thirty",
-                "tmdb_id": 97630,
-                "imdb_id": "tt1790885"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2012",
-        "nominees": [
-            "Emmanuelle Riva"
-        ],
-        "movies": [
-            {
-                "title": "Amour",
-                "tmdb_id": 86837,
-                "imdb_id": "tt1602620"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2012",
-        "nominees": [
-            "Quvenzhane Wallis"
-        ],
-        "movies": [
-            {
-                "title": "Beasts of the Southern Wild",
-                "tmdb_id": 84175,
-                "imdb_id": "tt2125435"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2012",
-        "nominees": [
-            "Naomi Watts"
-        ],
-        "movies": [
-            {
-                "title": "The Impossible",
-                "tmdb_id": 80278,
-                "imdb_id": "tt1649419"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2012",
-        "nominees": [
-            "Christoph Waltz"
-        ],
-        "movies": [
-            {
-                "title": "Django Unchained",
-                "tmdb_id": 68718,
-                "imdb_id": "tt1853728"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2012",
-        "nominees": [
-            "Alan Arkin"
-        ],
-        "movies": [
-            {
-                "title": "Argo",
-                "tmdb_id": 68734,
-                "imdb_id": "tt1024648"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2012",
-        "nominees": [
-            "Robert De Niro"
-        ],
-        "movies": [
-            {
-                "title": "Silver Linings Playbook",
-                "tmdb_id": 82693,
-                "imdb_id": "tt1045658"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2012",
-        "nominees": [
-            "Philip Seymour Hoffman"
-        ],
-        "movies": [
-            {
-                "title": "The Master",
-                "tmdb_id": 68722,
-                "imdb_id": "tt1560747"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2012",
-        "nominees": [
-            "Tommy Lee Jones"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2012",
-        "nominees": [
-            "Anne Hathaway"
-        ],
-        "movies": [
-            {
-                "title": "Les Misérables",
-                "tmdb_id": 82695,
-                "imdb_id": "tt1707386"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2012",
-        "nominees": [
-            "Amy Adams"
-        ],
-        "movies": [
-            {
-                "title": "The Master",
-                "tmdb_id": 68722,
-                "imdb_id": "tt1560747"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2012",
-        "nominees": [
-            "Sally Field"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2012",
-        "nominees": [
-            "Helen Hunt"
-        ],
-        "movies": [
-            {
-                "title": "The Sessions",
-                "tmdb_id": 113947,
-                "imdb_id": "tt1866249"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2012",
-        "nominees": [
-            "Jacki Weaver"
-        ],
-        "movies": [
-            {
-                "title": "Silver Linings Playbook",
-                "tmdb_id": 82693,
-                "imdb_id": "tt1045658"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2012",
-        "nominees": [
-            "Ang Lee"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2012",
-        "nominees": [
-            "Michael Haneke"
-        ],
-        "movies": [
-            {
-                "title": "Amour",
-                "tmdb_id": 86837,
-                "imdb_id": "tt1602620"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2012",
-        "nominees": [
-            "David O. Russell"
-        ],
-        "movies": [
-            {
-                "title": "Silver Linings Playbook",
-                "tmdb_id": 82693,
-                "imdb_id": "tt1045658"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2012",
-        "nominees": [
-            "Steven Spielberg"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2012",
-        "nominees": [
-            "Benh Zeitlin"
-        ],
-        "movies": [
-            {
-                "title": "Beasts of the Southern Wild",
-                "tmdb_id": 84175,
-                "imdb_id": "tt2125435"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2012",
-        "nominees": [
-            "Chris Terrio"
-        ],
-        "movies": [
-            {
-                "title": "Argo",
-                "tmdb_id": 68734,
-                "imdb_id": "tt1024648"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2012",
-        "nominees": [
-            "Lucy Alibar",
-            "Benh Zeitlin"
-        ],
-        "movies": [
-            {
-                "title": "Beasts of the Southern Wild",
-                "tmdb_id": 84175,
-                "imdb_id": "tt2125435"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2012",
-        "nominees": [
-            "David Magee"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2012",
-        "nominees": [
-            "Tony Kushner"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2012",
-        "nominees": [
-            "David O. Russell"
-        ],
-        "movies": [
-            {
-                "title": "Silver Linings Playbook",
-                "tmdb_id": 82693,
-                "imdb_id": "tt1045658"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2012",
-        "nominees": [
-            "Quentin Tarantino"
-        ],
-        "movies": [
-            {
-                "title": "Django Unchained",
-                "tmdb_id": 68718,
-                "imdb_id": "tt1853728"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2012",
-        "nominees": [
-            "Michael Haneke"
-        ],
-        "movies": [
-            {
-                "title": "Amour",
-                "tmdb_id": 86837,
-                "imdb_id": "tt1602620"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2012",
-        "nominees": [
-            "John Gatins"
-        ],
-        "movies": [
-            {
-                "title": "Flight",
-                "tmdb_id": 87502,
-                "imdb_id": "tt1907668"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2012",
-        "nominees": [
-            "Wes Anderson",
-            "Roman Coppola"
-        ],
-        "movies": [
-            {
-                "title": "Moonrise Kingdom",
-                "tmdb_id": 83666,
-                "imdb_id": "tt1748122"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2012",
-        "nominees": [
-            "Mark Boal"
-        ],
-        "movies": [
-            {
-                "title": "Zero Dark Thirty",
-                "tmdb_id": 97630,
-                "imdb_id": "tt1790885"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2012",
-        "nominees": [
-            "Mychael Danna"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2012",
-        "nominees": [
-            "Dario Marianelli"
-        ],
-        "movies": [
-            {
-                "title": "Anna Karenina",
-                "tmdb_id": 96724,
-                "imdb_id": "tt1781769"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2012",
-        "nominees": [
-            "Alexandre Desplat"
-        ],
-        "movies": [
-            {
-                "title": "Argo",
-                "tmdb_id": 68734,
-                "imdb_id": "tt1024648"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2012",
-        "nominees": [
-            "John Williams"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2012",
-        "nominees": [
-            "Thomas Newman"
-        ],
-        "movies": [
-            {
-                "title": "Skyfall",
-                "tmdb_id": 37724,
-                "imdb_id": "tt1074638"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2012",
-        "nominees": [
-            "Skyfall"
-        ],
-        "movies": [
-            {
-                "title": "Skyfall",
-                "tmdb_id": 37724,
-                "imdb_id": "tt1074638"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2012",
-        "nominees": [
-            "Before My Time"
-        ],
-        "movies": [
-            {
-                "title": "Chasing Ice",
-                "tmdb_id": 84185,
-                "imdb_id": "tt1579361"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2012",
-        "nominees": [
-            "Everybody Needs a Best Friend"
-        ],
-        "movies": [
-            {
-                "title": "Ted",
-                "tmdb_id": 72105,
-                "imdb_id": "tt1637725"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2012",
-        "nominees": [
-            "Pi's Lullaby"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2012",
-        "nominees": [
-            "Suddenly"
-        ],
-        "movies": [
-            {
-                "title": "Les Misérables",
-                "tmdb_id": 82695,
-                "imdb_id": "tt1707386"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2012",
-        "nominees": [
-            "Amour"
-        ],
-        "movies": [
-            {
-                "title": "Amour",
-                "tmdb_id": 86837,
-                "imdb_id": "tt1602620"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2012",
-        "nominees": [
-            "Kon-Tiki"
-        ],
-        "movies": [
-            {
-                "title": "Kon-Tiki",
-                "tmdb_id": 70667,
-                "imdb_id": "tt1613750"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2012",
-        "nominees": [
-            "No"
-        ],
-        "movies": [
-            {
-                "title": "No",
-                "tmdb_id": 110398,
-                "imdb_id": "tt2059255"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2012",
-        "nominees": [
-            "A Royal Affair"
-        ],
-        "movies": [
-            {
-                "title": "A Royal Affair",
-                "tmdb_id": 88273,
-                "imdb_id": "tt1276419"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2012",
-        "nominees": [
-            "War Witch"
-        ],
-        "movies": [
-            {
-                "title": "War Witch",
-                "tmdb_id": 98205,
-                "imdb_id": "tt1820488"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2012",
-        "nominees": [
-            "Searching for Sugar Man"
-        ],
-        "movies": [
-            {
-                "title": "Searching for Sugar Man",
-                "tmdb_id": 84334,
-                "imdb_id": "tt2125608"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2012",
-        "nominees": [
-            "5 Broken Cameras"
-        ],
-        "movies": [
-            {
-                "title": "5 Broken Cameras",
-                "tmdb_id": 84170,
-                "imdb_id": "tt2125423"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2012",
-        "nominees": [
-            "The Gatekeepers"
-        ],
-        "movies": [
-            {
-                "title": "The Gatekeepers",
-                "tmdb_id": 127918,
-                "imdb_id": "tt2309788"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2012",
-        "nominees": [
-            "How to Survive a Plague"
-        ],
-        "movies": [
-            {
-                "title": "How to Survive a Plague",
-                "tmdb_id": 84286,
-                "imdb_id": "tt2124803"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2012",
-        "nominees": [
-            "The Invisible War"
-        ],
-        "movies": [
-            {
-                "title": "The Invisible War",
-                "tmdb_id": 84288,
-                "imdb_id": "tt2120152"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2012",
-        "nominees": [
-            "Inocente"
-        ],
-        "movies": [
-            {
-                "title": "Inocente",
-                "tmdb_id": 137648,
-                "imdb_id": "tt2123210"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2012",
-        "nominees": [
-            "Kings Point"
-        ],
-        "movies": [
-            {
-                "title": "Kings Point",
-                "tmdb_id": 137651,
-                "imdb_id": "tt2109153"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2012",
-        "nominees": [
-            "Mondays at Racine"
-        ],
-        "movies": [
-            {
-                "title": "Mondays at Racine",
-                "tmdb_id": 137652,
-                "imdb_id": "tt2083264"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2012",
-        "nominees": [
-            "Open Heart"
-        ],
-        "movies": [
-            {
-                "title": "Open Heart",
-                "tmdb_id": 137654,
-                "imdb_id": "tt2348322"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2012",
-        "nominees": [
-            "Redemption"
-        ],
-        "movies": [
-            {
-                "title": "Redemption",
-                "tmdb_id": 158394,
-                "imdb_id": "tt2201886"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2012",
-        "nominees": [
-            "Brave"
-        ],
-        "movies": [
-            {
-                "title": "Brave",
-                "tmdb_id": 62177,
-                "imdb_id": "tt1217209"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2012",
-        "nominees": [
-            "Frankenweenie"
-        ],
-        "movies": [
-            {
-                "title": "Frankenweenie",
-                "tmdb_id": 62214,
-                "imdb_id": "tt1142977"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2012",
-        "nominees": [
-            "ParaNorman"
-        ],
-        "movies": [
-            {
-                "title": "ParaNorman",
-                "tmdb_id": 77174,
-                "imdb_id": "tt1623288"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2012",
-        "nominees": [
-            "The Pirates! In an Adventure with Scientists!"
-        ],
-        "movies": [
-            {
-                "title": "The Pirates! In an Adventure with Scientists!",
-                "tmdb_id": 72197,
-                "imdb_id": "tt1430626"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2012",
-        "nominees": [
-            "Wreck-It Ralph"
-        ],
-        "movies": [
-            {
-                "title": "Wreck-It Ralph",
-                "tmdb_id": 82690,
-                "imdb_id": "tt1772341"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2012",
-        "nominees": [
-            "Paperman"
-        ],
-        "movies": [
-            {
-                "title": "Paperman",
-                "tmdb_id": 140420,
-                "imdb_id": "tt2388725"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2012",
-        "nominees": [
-            "Adam and Dog"
-        ],
-        "movies": [
-            {
-                "title": "Adam and Dog",
-                "tmdb_id": 157301,
-                "imdb_id": "tt2162565"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2012",
-        "nominees": [
-            "Fresh Guacamole"
-        ],
-        "movies": [
-            {
-                "title": "Fresh Guacamole",
-                "tmdb_id": 142563,
-                "imdb_id": "tt2309977"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2012",
-        "nominees": [
-            "Head Over Heels"
-        ],
-        "movies": [
-            {
-                "title": "Head Over Heels",
-                "tmdb_id": 157305,
-                "imdb_id": "tt2391009"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2012",
-        "nominees": [
-            "Maggie Simpson in \"The Longest Daycare\""
-        ],
-        "movies": [
-            {
-                "title": "Maggie Simpson in \"The Longest Daycare\"",
-                "tmdb_id": 116440,
-                "imdb_id": "tt2175842"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2012",
-        "nominees": [
-            "Curfew"
-        ],
-        "movies": [
-            {
-                "title": "Curfew",
-                "tmdb_id": 157289,
-                "imdb_id": "tt2088735"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2012",
-        "nominees": [
-            "Asad"
-        ],
-        "movies": [
-            {
-                "title": "Asad",
-                "tmdb_id": 146891,
-                "imdb_id": "tt2136747"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2012",
-        "nominees": [
-            "Buzkashi Boys"
-        ],
-        "movies": [
-            {
-                "title": "Buzkashi Boys",
-                "tmdb_id": 146892,
-                "imdb_id": "tt2133304"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2012",
-        "nominees": [
-            "Death of a Shadow"
-        ],
-        "movies": [
-            {
-                "title": "Death of a Shadow",
-                "tmdb_id": 146893,
-                "imdb_id": "tt2312702"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2012",
-        "nominees": [
-            "Henry"
-        ],
-        "movies": [
-            {
-                "title": "Henry",
-                "tmdb_id": 146896,
-                "imdb_id": "tt2004244"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "Rick Carter",
-            "Jim Erickson"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "Sarah Greenwood",
-            "Katie Spencer"
-        ],
-        "movies": [
-            {
-                "title": "Anna Karenina",
-                "tmdb_id": 96724,
-                "imdb_id": "tt1781769"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "Dan Hennah",
-            "Ra Vincent",
-            "Simon Bright"
-        ],
-        "movies": [
-            {
-                "title": "The Hobbit: An Unexpected Journey",
-                "tmdb_id": 49051,
-                "imdb_id": "tt0903624"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "Eve Stewart",
-            "Anna Lynch-Robinson"
-        ],
-        "movies": [
-            {
-                "title": "Les Misérables",
-                "tmdb_id": 82695,
-                "imdb_id": "tt1707386"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "David Gropman",
-            "Anna Pinnock"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2012",
-        "nominees": [
-            "Claudio Miranda"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2012",
-        "nominees": [
-            "Seamus McGarvey"
-        ],
-        "movies": [
-            {
-                "title": "Anna Karenina",
-                "tmdb_id": 96724,
-                "imdb_id": "tt1781769"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2012",
-        "nominees": [
-            "Robert Richardson"
-        ],
-        "movies": [
-            {
-                "title": "Django Unchained",
-                "tmdb_id": 68718,
-                "imdb_id": "tt1853728"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2012",
-        "nominees": [
-            "Janusz Kaminski"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2012",
-        "nominees": [
-            "Roger Deakins"
-        ],
-        "movies": [
-            {
-                "title": "Skyfall",
-                "tmdb_id": 37724,
-                "imdb_id": "tt1074638"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2012",
-        "nominees": [
-            "William Goldenberg"
-        ],
-        "movies": [
-            {
-                "title": "Argo",
-                "tmdb_id": 68734,
-                "imdb_id": "tt1024648"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2012",
-        "nominees": [
-            "Tim Squyres"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2012",
-        "nominees": [
-            "Michael Kahn"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2012",
-        "nominees": [
-            "Jay Cassidy",
-            "Crispin Struthers"
-        ],
-        "movies": [
-            {
-                "title": "Silver Linings Playbook",
-                "tmdb_id": 82693,
-                "imdb_id": "tt1045658"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2012",
-        "nominees": [
-            "Dylan Tichenor",
-            "William Goldenberg"
-        ],
-        "movies": [
-            {
-                "title": "Zero Dark Thirty",
-                "tmdb_id": 97630,
-                "imdb_id": "tt1790885"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2012",
-        "nominees": [
-            "Bill Westenhofer",
-            "Guillaume Rocheron",
-            "Erik-Jan de Boer",
-            "Donald R. Elliott"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2012",
-        "nominees": [
-            "Joe Letteri",
-            "Eric Saindon",
-            "David Clayton",
-            "R. Christopher White"
-        ],
-        "movies": [
-            {
-                "title": "The Hobbit: An Unexpected Journey",
-                "tmdb_id": 49051,
-                "imdb_id": "tt0903624"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2012",
-        "nominees": [
-            "Janek Sirrs",
-            "Jeff White",
-            "Guy Williams",
-            "Dan Sudick"
-        ],
-        "movies": [
-            {
-                "title": "The Avengers",
-                "tmdb_id": 24428,
-                "imdb_id": "tt0848228"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2012",
-        "nominees": [
-            "Richard Stammers",
-            "Trevor Wood",
-            "Charley Henley",
-            "Martin Hill"
-        ],
-        "movies": [
-            {
-                "title": "Prometheus",
-                "tmdb_id": 70981,
-                "imdb_id": "tt1446714"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2012",
-        "nominees": [
-            "Cedric Nicolas-Troyan",
-            "Philip Brennan",
-            "Neil Corbould",
-            "Michael Dawson"
-        ],
-        "movies": [
-            {
-                "title": "Snow White and the Huntsman",
-                "tmdb_id": 58595,
-                "imdb_id": "tt1735898"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2012",
-        "nominees": [
-            "Andy Nelson",
-            "Mark Paterson",
-            "Simon Hayes"
-        ],
-        "movies": [
-            {
-                "title": "Les Misérables",
-                "tmdb_id": 82695,
-                "imdb_id": "tt1707386"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2012",
-        "nominees": [
-            "John Reitz",
-            "Gregg Rudloff",
-            "Jose Antonio Garcia"
-        ],
-        "movies": [
-            {
-                "title": "Argo",
-                "tmdb_id": 68734,
-                "imdb_id": "tt1024648"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2012",
-        "nominees": [
-            "Ron Bartlett",
-            "D. M. Hemphill",
-            "Drew Kunin"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2012",
-        "nominees": [
-            "Andy Nelson",
-            "Gary Rydstrom",
-            "Ronald Judkins"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2012",
-        "nominees": [
-            "Scott Millan",
-            "Greg P. Russell",
-            "Stuart Wilson"
-        ],
-        "movies": [
-            {
-                "title": "Skyfall",
-                "tmdb_id": 37724,
-                "imdb_id": "tt1074638"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2012",
-        "nominees": [
-            "Per Hallberg",
-            "Karen Baker Landers"
-        ],
-        "movies": [
-            {
-                "title": "Skyfall",
-                "tmdb_id": 37724,
-                "imdb_id": "tt1074638"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2012",
-        "nominees": [
-            "Paul N. J. Ottosson"
-        ],
-        "movies": [
-            {
-                "title": "Zero Dark Thirty",
-                "tmdb_id": 97630,
-                "imdb_id": "tt1790885"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2012",
-        "nominees": [
-            "Erik Aadahl",
-            "Ethan Van der Ryn"
-        ],
-        "movies": [
-            {
-                "title": "Argo",
-                "tmdb_id": 68734,
-                "imdb_id": "tt1024648"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2012",
-        "nominees": [
-            "Wylie Stateman"
-        ],
-        "movies": [
-            {
-                "title": "Django Unchained",
-                "tmdb_id": 68718,
-                "imdb_id": "tt1853728"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2012",
-        "nominees": [
-            "Eugene Gearty",
-            "Philip Stockton"
-        ],
-        "movies": [
-            {
-                "title": "Life of Pi",
-                "tmdb_id": 87827,
-                "imdb_id": "tt0454876"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2012",
-        "nominees": [
-            "Lisa Westcott",
-            "Julie Dartnell"
-        ],
-        "movies": [
-            {
-                "title": "Les Misérables",
-                "tmdb_id": 82695,
-                "imdb_id": "tt1707386"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2012",
-        "nominees": [
-            "Howard Berger",
-            "Peter Montagna",
-            "Martin Samuel"
-        ],
-        "movies": [
-            {
-                "title": "Hitchcock",
-                "tmdb_id": 112336,
-                "imdb_id": "tt0975645"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2012",
-        "nominees": [
-            "Peter Swords King",
-            "Rick Findlater",
-            "Tami Lane"
-        ],
-        "movies": [
-            {
-                "title": "The Hobbit: An Unexpected Journey",
-                "tmdb_id": 49051,
-                "imdb_id": "tt0903624"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "Jacqueline Durran"
-        ],
-        "movies": [
-            {
-                "title": "Anna Karenina",
-                "tmdb_id": 96724,
-                "imdb_id": "tt1781769"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "Paco Delgado"
-        ],
-        "movies": [
-            {
-                "title": "Les Misérables",
-                "tmdb_id": 82695,
-                "imdb_id": "tt1707386"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "Joanna Johnston"
-        ],
-        "movies": [
-            {
-                "title": "Lincoln",
-                "tmdb_id": 72976,
-                "imdb_id": "tt0443272"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "Eiko Ishioka"
-        ],
-        "movies": [
-            {
-                "title": "Mirror Mirror",
-                "tmdb_id": 62764,
-                "imdb_id": "tt1667353"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2012",
-        "nominees": [
-            "Colleen Atwood"
-        ],
-        "movies": [
-            {
-                "title": "Snow White and the Huntsman",
-                "tmdb_id": 58595,
-                "imdb_id": "tt1735898"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Silver Linings Playbook",
+    "FilmId": "tt1045658",
+    "Name": "Bradley Cooper",
+    "Nominees": "Bradley Cooper",
+    "NomineeIds": "nm0177896",
+    "Winner": "",
+    "Detail": "Pat",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Daniel Day-Lewis",
+    "Nominees": "Daniel Day-Lewis",
+    "NomineeIds": "nm0000358",
+    "Winner": "True",
+    "Detail": "Abraham Lincoln",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Les Misérables",
+    "FilmId": "tt1707386",
+    "Name": "Hugh Jackman",
+    "Nominees": "Hugh Jackman",
+    "NomineeIds": "nm0413168",
+    "Winner": "",
+    "Detail": "Jean Valjean",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Master",
+    "FilmId": "tt1560747",
+    "Name": "Joaquin Phoenix",
+    "Nominees": "Joaquin Phoenix",
+    "NomineeIds": "nm0001618",
+    "Winner": "",
+    "Detail": "Freddie Quell",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Flight",
+    "FilmId": "tt1907668",
+    "Name": "Denzel Washington",
+    "Nominees": "Denzel Washington",
+    "NomineeIds": "nm0000243",
+    "Winner": "",
+    "Detail": "Whip Whitaker",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Argo",
+    "FilmId": "tt1024648",
+    "Name": "Alan Arkin",
+    "Nominees": "Alan Arkin",
+    "NomineeIds": "nm0000273",
+    "Winner": "",
+    "Detail": "Lester Siegel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Silver Linings Playbook",
+    "FilmId": "tt1045658",
+    "Name": "Robert De Niro",
+    "Nominees": "Robert De Niro",
+    "NomineeIds": "nm0000134",
+    "Winner": "",
+    "Detail": "Pat Sr.",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Master",
+    "FilmId": "tt1560747",
+    "Name": "Philip Seymour Hoffman",
+    "Nominees": "Philip Seymour Hoffman",
+    "NomineeIds": "nm0000450",
+    "Winner": "",
+    "Detail": "Lancaster Dodd",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Tommy Lee Jones",
+    "Nominees": "Tommy Lee Jones",
+    "NomineeIds": "nm0000169",
+    "Winner": "",
+    "Detail": "Thaddeus Stevens",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Django Unchained",
+    "FilmId": "tt1853728",
+    "Name": "Christoph Waltz",
+    "Nominees": "Christoph Waltz",
+    "NomineeIds": "nm0910607",
+    "Winner": "True",
+    "Detail": "Dr. King Schultz",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Zero Dark Thirty",
+    "FilmId": "tt1790885",
+    "Name": "Jessica Chastain",
+    "Nominees": "Jessica Chastain",
+    "NomineeIds": "nm1567113",
+    "Winner": "",
+    "Detail": "Maya",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Silver Linings Playbook",
+    "FilmId": "tt1045658",
+    "Name": "Jennifer Lawrence",
+    "Nominees": "Jennifer Lawrence",
+    "NomineeIds": "nm2225369",
+    "Winner": "True",
+    "Detail": "Tiffany",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Amour",
+    "FilmId": "tt1602620",
+    "Name": "Emmanuelle Riva",
+    "Nominees": "Emmanuelle Riva",
+    "NomineeIds": "nm0728938",
+    "Winner": "",
+    "Detail": "Anne",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Beasts of the Southern Wild",
+    "FilmId": "tt2125435",
+    "Name": "Quvenzhané Wallis",
+    "Nominees": "Quvenzhané Wallis",
+    "NomineeIds": "nm4832920",
+    "Winner": "",
+    "Detail": "Hushpuppy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Impossible",
+    "FilmId": "tt1649419",
+    "Name": "Naomi Watts",
+    "Nominees": "Naomi Watts",
+    "NomineeIds": "nm0915208",
+    "Winner": "",
+    "Detail": "Maria",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Master",
+    "FilmId": "tt1560747",
+    "Name": "Amy Adams",
+    "Nominees": "Amy Adams",
+    "NomineeIds": "nm0010736",
+    "Winner": "",
+    "Detail": "Peggy Dodd",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Sally Field",
+    "Nominees": "Sally Field",
+    "NomineeIds": "nm0000398",
+    "Winner": "",
+    "Detail": "Mary Todd Lincoln",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Les Misérables",
+    "FilmId": "tt1707386",
+    "Name": "Anne Hathaway",
+    "Nominees": "Anne Hathaway",
+    "NomineeIds": "nm0004266",
+    "Winner": "True",
+    "Detail": "Fantine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Sessions",
+    "FilmId": "tt1866249",
+    "Name": "Helen Hunt",
+    "Nominees": "Helen Hunt",
+    "NomineeIds": "nm0000166",
+    "Winner": "",
+    "Detail": "Cheryl",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Silver Linings Playbook",
+    "FilmId": "tt1045658",
+    "Name": "Jacki Weaver",
+    "Nominees": "Jacki Weaver",
+    "NomineeIds": "nm0915865",
+    "Winner": "",
+    "Detail": "Dolores",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Brave",
+    "FilmId": "tt1217209",
+    "Name": "Mark Andrews and Brenda Chapman",
+    "Nominees": "Mark Andrews|Brenda Chapman",
+    "NomineeIds": "nm0028764|nm0152312",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Frankenweenie",
+    "FilmId": "tt1142977",
+    "Name": "Tim Burton",
+    "Nominees": "Tim Burton",
+    "NomineeIds": "nm0000318",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "ParaNorman",
+    "FilmId": "tt1623288",
+    "Name": "Sam Fell and Chris Butler",
+    "Nominees": "Sam Fell|Chris Butler",
+    "NomineeIds": "nm0271402|nm2752098",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Pirates! Band of Misfits",
+    "FilmId": "tt1430626",
+    "Name": "Peter Lord",
+    "Nominees": "Peter Lord",
+    "NomineeIds": "nm0520485",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Wreck-It Ralph",
+    "FilmId": "tt1772341",
+    "Name": "Rich Moore",
+    "Nominees": "Rich Moore",
+    "NomineeIds": "nm0601781",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Anna Karenina",
+    "FilmId": "tt1781769",
+    "Name": "Seamus McGarvey",
+    "Nominees": "Seamus McGarvey",
+    "NomineeIds": "nm0568974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Django Unchained",
+    "FilmId": "tt1853728",
+    "Name": "Robert Richardson",
+    "Nominees": "Robert Richardson",
+    "NomineeIds": "nm0724744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Claudio Miranda",
+    "Nominees": "Claudio Miranda",
+    "NomineeIds": "nm0592073",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Janusz Kaminski",
+    "Nominees": "Janusz Kaminski",
+    "NomineeIds": "nm0001405",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Skyfall",
+    "FilmId": "tt1074638",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Anna Karenina",
+    "FilmId": "tt1781769",
+    "Name": "Jacqueline Durran",
+    "Nominees": "Jacqueline Durran",
+    "NomineeIds": "nm0244330",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Les Misérables",
+    "FilmId": "tt1707386",
+    "Name": "Paco Delgado",
+    "Nominees": "Paco Delgado",
+    "NomineeIds": "nm0214625",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Joanna Johnston",
+    "Nominees": "Joanna Johnston",
+    "NomineeIds": "nm0426693",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Mirror Mirror",
+    "FilmId": "tt1667353",
+    "Name": "Eiko Ishioka",
+    "Nominees": "Eiko Ishioka",
+    "NomineeIds": "nm0411130",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Snow White and the Huntsman",
+    "FilmId": "tt1735898",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Amour",
+    "FilmId": "tt1602620",
+    "Name": "Michael Haneke",
+    "Nominees": "Michael Haneke",
+    "NomineeIds": "nm0359734",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Beasts of the Southern Wild",
+    "FilmId": "tt2125435",
+    "Name": "Benh Zeitlin",
+    "Nominees": "Benh Zeitlin",
+    "NomineeIds": "nm1022455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Ang Lee",
+    "Nominees": "Ang Lee",
+    "NomineeIds": "nm0000487",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Steven Spielberg",
+    "Nominees": "Steven Spielberg",
+    "NomineeIds": "nm0000229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Silver Linings Playbook",
+    "FilmId": "tt1045658",
+    "Name": "David O. Russell",
+    "Nominees": "David O. Russell",
+    "NomineeIds": "nm0751102",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "5 Broken Cameras",
+    "FilmId": "tt2125423",
+    "Name": "Emad Burnat and Guy Davidi",
+    "Nominees": "Emad Burnat|Guy Davidi",
+    "NomineeIds": "nm4796818|nm1519079",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Gatekeepers",
+    "FilmId": "tt2309788",
+    "Name": "Dror Moreh, Philippa Kowarsky and Estelle Fialon",
+    "Nominees": "Dror Moreh|Philippa Kowarsky|Estelle Fialon",
+    "NomineeIds": "nm0603466|nm0997268|nm4287643",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "How to Survive a Plague",
+    "FilmId": "tt2124803",
+    "Name": "David France and Howard Gertler",
+    "Nominees": "David France|Howard Gertler",
+    "NomineeIds": "nm0289800|nm0314971",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Invisible War",
+    "FilmId": "tt2120152",
+    "Name": "Kirby Dick and Amy Ziering",
+    "Nominees": "Kirby Dick|Amy Ziering",
+    "NomineeIds": "nm0225269|nm0463039",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Searching for Sugar Man",
+    "FilmId": "tt2125608",
+    "Name": "Malik Bendjelloul and Simon Chinn",
+    "Nominees": "Malik Bendjelloul|Simon Chinn",
+    "NomineeIds": "nm0070594|nm1187711",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Inocente",
+    "FilmId": "tt2123210",
+    "Name": "Sean Fine and Andrea Nix Fine",
+    "Nominees": "Sean Fine|Andrea Nix Fine",
+    "NomineeIds": "nm0277658|nm2107225",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Kings Point",
+    "FilmId": "tt2109153",
+    "Name": "Sari Gilman and Jedd Wider",
+    "Nominees": "Sari Gilman|Jedd Wider",
+    "NomineeIds": "nm1020490|nm0927086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Mondays at Racine",
+    "FilmId": "tt2083264",
+    "Name": "Cynthia Wade and Robin Honan",
+    "Nominees": "Cynthia Wade|Robin Honan",
+    "NomineeIds": "nm1106629|nm1976219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Open Heart",
+    "FilmId": "tt2348322",
+    "Name": "Kief Davidson and Cori Shepherd Stern",
+    "Nominees": "Kief Davidson|Cori Shepherd Stern",
+    "NomineeIds": "nm0203400|nm0827659",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Redemption",
+    "FilmId": "tt2201886",
+    "Name": "Jon Alpert and Matthew O'Neill",
+    "Nominees": "Jon Alpert|Matthew O'Neill",
+    "NomineeIds": "nm0022412|nm2268713",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Argo",
+    "FilmId": "tt1024648",
+    "Name": "William Goldenberg",
+    "Nominees": "William Goldenberg",
+    "NomineeIds": "nm0325549",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Tim Squyres",
+    "Nominees": "Tim Squyres",
+    "NomineeIds": "nm0820163",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Michael Kahn",
+    "Nominees": "Michael Kahn",
+    "NomineeIds": "nm0434883",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Silver Linings Playbook",
+    "FilmId": "tt1045658",
+    "Name": "Jay Cassidy and Crispin Struthers",
+    "Nominees": "Jay Cassidy|Crispin Struthers",
+    "NomineeIds": "nm0144203|nm0835370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Zero Dark Thirty",
+    "FilmId": "tt1790885",
+    "Name": "Dylan Tichenor and William Goldenberg",
+    "Nominees": "Dylan Tichenor|William Goldenberg",
+    "NomineeIds": "nm0862664|nm0325549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Amour",
+    "FilmId": "tt1602620",
+    "Name": "Austria",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Kon-Tiki",
+    "FilmId": "tt1613750",
+    "Name": "Norway",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "No",
+    "FilmId": "tt2059255",
+    "Name": "Chile",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A Royal Affair",
+    "FilmId": "tt1276419",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "War Witch",
+    "FilmId": "tt1820488",
+    "Name": "Canada",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Hitchcock",
+    "FilmId": "tt0975645",
+    "Name": "Howard Berger, Peter Montagna and Martin Samuel",
+    "Nominees": "Howard Berger|Peter Montagna|Martin Samuel",
+    "NomineeIds": "nm0074205|nm0598713|nm0760407",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "The Hobbit: An Unexpected Journey",
+    "FilmId": "tt0903624",
+    "Name": "Peter Swords King, Rick Findlater and Tami Lane",
+    "Nominees": "Peter Swords King|Rick Findlater|Tami Lane",
+    "NomineeIds": "nm0455135|nm0277515|nm0485577",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Les Misérables",
+    "FilmId": "tt1707386",
+    "Name": "Lisa Westcott and Julie Dartnell",
+    "Nominees": "Lisa Westcott|Julie Dartnell",
+    "NomineeIds": "nm0922509|nm0201757",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Anna Karenina",
+    "FilmId": "tt1781769",
+    "Name": "Dario Marianelli",
+    "Nominees": "Dario Marianelli",
+    "NomineeIds": "nm0547050",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Argo",
+    "FilmId": "tt1024648",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Mychael Danna",
+    "Nominees": "Mychael Danna",
+    "NomineeIds": "nm0002217",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Skyfall",
+    "FilmId": "tt1074638",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Chasing Ice",
+    "FilmId": "tt1579361",
+    "Name": "Music and Lyric by J. Ralph",
+    "Nominees": "J. Ralph",
+    "NomineeIds": "nm0707775",
+    "Winner": "",
+    "Detail": "Before My Time",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Ted",
+    "FilmId": "tt1637725",
+    "Name": "Music by Walter Murphy; Lyric by Seth MacFarlane",
+    "Nominees": "Walter Murphy|Seth MacFarlane",
+    "NomineeIds": "nm0614774|nm0532235",
+    "Winner": "",
+    "Detail": "Everybody Needs A Best Friend",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Music by Mychael Danna; Lyric by Bombay Jayashri",
+    "Nominees": "Mychael Danna|Bombay Jayashri",
+    "NomineeIds": "nm0002217|nm1425113",
+    "Winner": "",
+    "Detail": "Pi's Lullaby",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Skyfall",
+    "FilmId": "tt1074638",
+    "Name": "Music and Lyric by Adele Adkins and Paul Epworth",
+    "Nominees": "Adele Adkins|Paul Epworth",
+    "NomineeIds": "nm2233157|nm2059375",
+    "Winner": "True",
+    "Detail": "Skyfall",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Les Misérables",
+    "FilmId": "tt1707386",
+    "Name": "Music by Claude-Michel Schönberg; Lyric by Herbert Kretzmer and Alain Boublil",
+    "Nominees": "Claude-Michel Schönberg|Herbert Kretzmer|Alain Boublil",
+    "NomineeIds": "nm0774744|nm0471014|nm0098842",
+    "Winner": "",
+    "Detail": "Suddenly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Amour",
+    "FilmId": "tt1602620",
+    "Name": "Margaret Menegoz, Stefan Arndt, Veit Heiduschka and Michael Katz, Producers",
+    "Nominees": "Margaret Menegoz|Stefan Arndt|Veit Heiduschka|Michael Katz",
+    "NomineeIds": "nm0617705|nm0036155|nm0374002|nm0441798",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Argo",
+    "FilmId": "tt1024648",
+    "Name": "Grant Heslov, Ben Affleck and George Clooney, Producers",
+    "Nominees": "Grant Heslov|Ben Affleck|George Clooney",
+    "NomineeIds": "nm0381416|nm0000255|nm0000123",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Beasts of the Southern Wild",
+    "FilmId": "tt2125435",
+    "Name": "Dan Janvey, Josh Penn and Michael Gottwald, Producers",
+    "Nominees": "Dan Janvey|Josh Penn|Michael Gottwald",
+    "NomineeIds": "nm1885766|nm3017255|nm1886653",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Django Unchained",
+    "FilmId": "tt1853728",
+    "Name": "Stacey Sher, Reginald Hudlin and Pilar Savone, Producers",
+    "Nominees": "Stacey Sher|Reginald Hudlin|Pilar Savone",
+    "NomineeIds": "nm0792049|nm0399737|nm0767894",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Les Misérables",
+    "FilmId": "tt1707386",
+    "Name": "Tim Bevan, Eric Fellner, Debra Hayward and Cameron Mackintosh, Producers",
+    "Nominees": "Tim Bevan|Eric Fellner|Debra Hayward|Cameron Mackintosh",
+    "NomineeIds": "nm0079677|nm0271479|nm0371735|nm0533583",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Gil Netter, Ang Lee and David Womark, Producers",
+    "Nominees": "Gil Netter|Ang Lee|David Womark",
+    "NomineeIds": "nm0626696|nm0000487|nm0003720",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Steven Spielberg and Kathleen Kennedy, Producers",
+    "Nominees": "Steven Spielberg|Kathleen Kennedy",
+    "NomineeIds": "nm0000229|nm0005086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Silver Linings Playbook",
+    "FilmId": "tt1045658",
+    "Name": "Donna Gigliotti, Bruce Cohen and Jonathan Gordon, Producers",
+    "Nominees": "Donna Gigliotti|Bruce Cohen|Jonathan Gordon",
+    "NomineeIds": "nm0317642|nm0169260|nm0330335",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Zero Dark Thirty",
+    "FilmId": "tt1790885",
+    "Name": "Mark Boal, Kathryn Bigelow and Megan Ellison, Producers",
+    "Nominees": "Mark Boal|Kathryn Bigelow|Megan Ellison",
+    "NomineeIds": "nm1676793|nm0000941|nm2691892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Anna Karenina",
+    "FilmId": "tt1781769",
+    "Name": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+    "Nominees": "Sarah Greenwood|Katie Spencer",
+    "NomineeIds": "nm0339391|nm0818005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Hobbit: An Unexpected Journey",
+    "FilmId": "tt0903624",
+    "Name": "Production Design: Dan Hennah; Set Decoration: Ra Vincent and Simon Bright",
+    "Nominees": "Dan Hennah|Ra Vincent|Simon Bright",
+    "NomineeIds": "nm0377172|nm1308151|nm0109186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Les Misérables",
+    "FilmId": "tt1707386",
+    "Name": "Production Design: Eve Stewart; Set Decoration: Anna Lynch-Robinson",
+    "Nominees": "Eve Stewart|Anna Lynch-Robinson",
+    "NomineeIds": "nm0829378|nm0528498",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Production Design: David Gropman; Set Decoration: Anna Pinnock",
+    "Nominees": "David Gropman|Anna Pinnock",
+    "NomineeIds": "nm0343222|nm0003519",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Production Design: Rick Carter; Set Decoration: Jim Erickson",
+    "Nominees": "Rick Carter|Jim Erickson",
+    "NomineeIds": "nm0141437|nm1075312",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Adam and Dog",
+    "FilmId": "tt2162565",
+    "Name": "Minkyu Lee",
+    "Nominees": "Minkyu Lee",
+    "NomineeIds": "nm3767356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Fresh Guacamole",
+    "FilmId": "tt2309977",
+    "Name": "PES",
+    "Nominees": "PES",
+    "NomineeIds": "nm1396934",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Head over Heels",
+    "FilmId": "tt2391009",
+    "Name": "Timothy Reckart and Fodhla Cronin O'Reilly",
+    "Nominees": "Timothy Reckart|Fodhla Cronin O'Reilly",
+    "NomineeIds": "nm3302450|nm2154065",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Maggie Simpson in \\\"The Longest Daycare\\",
+    "FilmId": "tt2175842",
+    "Name": "David Silverman",
+    "Nominees": "David Silverman",
+    "NomineeIds": "nm0798899",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Paperman",
+    "FilmId": "tt2388725",
+    "Name": "John Kahrs",
+    "Nominees": "John Kahrs",
+    "NomineeIds": "nm0434969",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Asad",
+    "FilmId": "tt2136747",
+    "Name": "Bryan Buckley and Mino Jarjoura",
+    "Nominees": "Bryan Buckley|Mino Jarjoura",
+    "NomineeIds": "nm1519252|nm3802523",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Buzkashi Boys",
+    "FilmId": "tt2133304",
+    "Name": "Sam French and Ariel Nasr",
+    "Nominees": "Sam French|Ariel Nasr",
+    "NomineeIds": "nm2125396|nm2393874",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Curfew",
+    "FilmId": "tt2088735",
+    "Name": "Shawn Christensen",
+    "Nominees": "Shawn Christensen",
+    "NomineeIds": "nm0159900",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Death of a Shadow (Dood van een Schaduw)",
+    "FilmId": "tt2312702",
+    "Name": "Tom Van Avermaet and Ellen De Waele",
+    "Nominees": "Tom Van Avermaet|Ellen De Waele",
+    "NomineeIds": "nm2429966|nm1743520",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Henry",
+    "FilmId": "tt2004244",
+    "Name": "Yan England",
+    "Nominees": "Yan England",
+    "NomineeIds": "nm0257471",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Argo",
+    "FilmId": "tt1024648",
+    "Name": "Erik Aadahl and Ethan Van der Ryn",
+    "Nominees": "Erik Aadahl|Ethan Van der Ryn",
+    "NomineeIds": "nm0007321|nm0886399",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Django Unchained",
+    "FilmId": "tt1853728",
+    "Name": "Wylie Stateman",
+    "Nominees": "Wylie Stateman",
+    "NomineeIds": "nm0823758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Eugene Gearty and Philip Stockton",
+    "Nominees": "Eugene Gearty|Philip Stockton",
+    "NomineeIds": "nm0311267|nm0830958",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Skyfall",
+    "FilmId": "tt1074638",
+    "Name": "Per Hallberg and Karen Baker Landers",
+    "Nominees": "Per Hallberg|Karen Baker Landers",
+    "NomineeIds": "nm0356319|nm0048623",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: A tie. The other winning film in this category was Zero Dark Thirty.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Zero Dark Thirty",
+    "FilmId": "tt1790885",
+    "Name": "Paul N.J. Ottosson",
+    "Nominees": "Paul N.J. Ottosson",
+    "NomineeIds": "nm0653338",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: A tie. The other winning film in this category was Skyfall.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Argo",
+    "FilmId": "tt1024648",
+    "Name": "John Reitz, Gregg Rudloff and Jose Antonio Garcia",
+    "Nominees": "John Reitz|Gregg Rudloff|Jose Antonio Garcia",
+    "NomineeIds": "nm0718676|nm0748832|nm0306223",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Les Misérables",
+    "FilmId": "tt1707386",
+    "Name": "Andy Nelson, Mark Paterson and Simon Hayes",
+    "Nominees": "Andy Nelson|Mark Paterson|Simon Hayes",
+    "NomineeIds": "nm0625144|nm2296910|nm1536532",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Ron Bartlett, D.M. Hemphill and Drew Kunin",
+    "Nominees": "Ron Bartlett|D.M. Hemphill|Drew Kunin",
+    "NomineeIds": "nm0058897|nm0376153|nm0475168",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Andy Nelson, Gary Rydstrom and Ronald Judkins",
+    "Nominees": "Andy Nelson|Gary Rydstrom|Ronald Judkins",
+    "NomineeIds": "nm0625144|nm0003977|nm0431954",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Skyfall",
+    "FilmId": "tt1074638",
+    "Name": "Scott Millan, Greg P. Russell and Stuart Wilson",
+    "Nominees": "Scott Millan|Greg P. Russell|Stuart Wilson",
+    "NomineeIds": "nm0586793|nm0751169|nm0934184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Hobbit: An Unexpected Journey",
+    "FilmId": "tt0903624",
+    "Name": "Joe Letteri, Eric Saindon, David Clayton and R. Christopher White",
+    "Nominees": "Joe Letteri|Eric Saindon|David Clayton|R. Christopher White",
+    "NomineeIds": "nm0504784|nm0756590|nm2238085|nm0925341",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Bill Westenhofer, Guillaume Rocheron, Erik-Jan De Boer and Donald R. Elliott",
+    "Nominees": "Bill Westenhofer|Guillaume Rocheron|Erik-Jan De Boer|Donald R. Elliott",
+    "NomineeIds": "nm0922543|nm1806981|nm0207487|nm0254433",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Marvel's The Avengers",
+    "FilmId": "tt0848228",
+    "Name": "Janek Sirrs, Jeff White, Guy Williams and Dan Sudick",
+    "Nominees": "Janek Sirrs|Jeff White|Guy Williams|Dan Sudick",
+    "NomineeIds": "nm0802938|nm1578635|nm1401413|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Prometheus",
+    "FilmId": "tt1446714",
+    "Name": "Richard Stammers, Trevor Wood, Charley Henley and Martin Hill",
+    "Nominees": "Richard Stammers|Trevor Wood|Charley Henley|Martin Hill",
+    "NomineeIds": "nm0821868|nm0940058|nm0377111|nm2243342",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Snow White and the Huntsman",
+    "FilmId": "tt1735898",
+    "Name": "Cedric Nicolas-Troyan, Philip Brennan, Neil Corbould and Michael Dawson",
+    "Nominees": "Cedric Nicolas-Troyan|Philip Brennan|Neil Corbould|Michael Dawson",
+    "NomineeIds": "nm1031639|nm1184514|nm0179273|nm0206207",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Argo",
+    "FilmId": "tt1024648",
+    "Name": "Screenplay by Chris Terrio",
+    "Nominees": "Chris Terrio",
+    "NomineeIds": "nm0006516",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Beasts of the Southern Wild",
+    "FilmId": "tt2125435",
+    "Name": "Screenplay by Lucy Alibar & Benh Zeitlin",
+    "Nominees": "Lucy Alibar|Benh Zeitlin",
+    "NomineeIds": "nm3599054|nm1022455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Life of Pi",
+    "FilmId": "tt0454876",
+    "Name": "Screenplay by David Magee",
+    "Nominees": "David Magee",
+    "NomineeIds": "nm1341735",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Lincoln",
+    "FilmId": "tt0443272",
+    "Name": "Screenplay by Tony Kushner",
+    "Nominees": "Tony Kushner",
+    "NomineeIds": "nm1065785",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Silver Linings Playbook",
+    "FilmId": "tt1045658",
+    "Name": "Screenplay by David O. Russell",
+    "Nominees": "David O. Russell",
+    "NomineeIds": "nm0751102",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Amour",
+    "FilmId": "tt1602620",
+    "Name": "Written by Michael Haneke",
+    "Nominees": "Michael Haneke",
+    "NomineeIds": "nm0359734",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Django Unchained",
+    "FilmId": "tt1853728",
+    "Name": "Written by Quentin Tarantino",
+    "Nominees": "Quentin Tarantino",
+    "NomineeIds": "nm0000233",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Flight",
+    "FilmId": "tt1907668",
+    "Name": "Written by John Gatins",
+    "Nominees": "John Gatins",
+    "NomineeIds": "nm0309691",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Moonrise Kingdom",
+    "FilmId": "tt1748122",
+    "Name": "Written by Wes Anderson & Roman Coppola",
+    "Nominees": "Wes Anderson|Roman Coppola",
+    "NomineeIds": "nm0027572|nm0178910",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Zero Dark Thirty",
+    "FilmId": "tt1790885",
+    "Name": "Written by Mark Boal",
+    "Nominees": "Mark Boal",
+    "NomineeIds": "nm1676793",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Jeffrey Katzenberg",
+    "Nominees": "Jeffrey Katzenberg",
+    "NomineeIds": "nm0005076",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hal Needham",
+    "NomineeIds": "nm0624102",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Hal Needham, an innovator, mentor, and master technician who elevated his craft to an art and made the impossible look easy."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "D.A. Pennebaker",
+    "NomineeIds": "nm0672060",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To D.A. Pennebaker, who redefined the language of film and taught a generation of filmmakers to look to reality for inspiration."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "George Stevens Jr.",
+    "NomineeIds": "nm0828211",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To George Stevens, Jr., a tireless champion of the arts in America and especially that most American of arts: the Hollywood film."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Cooke Optics Limited",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "Since their first series of motion picture lenses, Cooke Optics has continued to create optical innovations decade after decade. Producing what is commonly referred to as the \\\"Cooke Look,\\\" these lenses have often been the lens of choice for creative cinematographers worldwide.",
+    "Citation": "To COOKE OPTICS LIMITED for their continuing innovation in the design, development and manufacture of advanced camera lenses that have helped define the look of motion pictures over the last century."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Simon Clutterbuck|James Jacobs|Dr. Richard Dorling",
+    "NomineeIds": "nm0972976|nm1117262|nm4896859",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This framework faithfully and robustly simulates the effects of anatomical structures underlying a character's skin. The resulting dynamic and secondary motions provide a new level of realism to computer-generated creatures.",
+    "Citation": "To SIMON CLUTTERBUCK, JAMES JACOBS and DR. RICHARD DORLING for the development of the Tissue Physically-Based Character Simulation Framework."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DR. PHILIP McLAUCHLAN|Allan Jaenicke|John-Paul Smith|Ross Shain",
+    "NomineeIds": "?|?|?|nm2273105",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Mocha provides robust planar-tracking even when there are no clearly defined points in the image. Its effectiveness, ease of use, and ability to exchange rotoscoping data with other image processing tools have resulted in widespread adoption of the software in the visual effects industry.",
+    "Citation": "To DR. PHILIP McLAUCHLAN, ALLAN JAENICKE, JOHN-PAUL SMITH and ROSS SHAIN for the creation of the Mocha planar tracking and rotoscoping software at Imagineer Systems Ltd."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joe Murtha|WILLIAM FREDERICK|JIM MARKLAND",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "The CINE VCLX provides extended run-times and flexibility, allowing users to power cameras and other supplementary equipment required for production. This high-capacity battery system is also matched to the high-demand, always-on digital cinema cameras.",
+    "Citation": "To JOE MURTHA, WILLIAM FREDERICK and JIM MARKLAND of Anton/Bauer, Inc. for the design and creation of the CINE VCLX Portable Power System."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "J.P. Lewis|Matt Cordner|Nickson Fong",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Pose Space Deformation (PSD) introduced the use of novel sparse data interpolation techniques to the task of shape interpolation. The controllability and ease of achieving artistic intent have led to PSD being a foundational technique in the creation of computer-generated characters.",
+    "Citation": "To J.P. LEWIS, MATT CORDNER and NICKSON FONG for the invention and publication of the Pose Space Deformation technique."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Lawrence Kesteloot|Drew Olbrich|Daniel Wexler",
+    "NomineeIds": "nm0450413|nm0646031|nm1654463",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Virtually unchanged from its original incarnation over 15 years ago, Light is still in continuous use due to its emphasis on interactive responsiveness, final-quality interactive render preview, scalable architecture and powerful user-configurable spreadsheet interface.",
+    "Citation": "To LAWRENCE KESTELOOT, DREW OLBRICH and DANIEL WEXLER for the creation of the Light system for computer graphics lighting at PDI/DreamWorks."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "STEVE LaVIETES|Brian Hall|Jeremy Selan",
+    "NomineeIds": "nm0492027|nm0355366|nm1677436",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Katana's unique design, featuring a deferred evaluation procedural node-graph, provides a highly efficient lighting and rendering workflow. It allows artists to non-destructively edit scenes too complex to fit into computer memory, at scales ranging from a single object up to an entire detailed city.",
+    "Citation": "To STEVE LaVIETES, BRIAN HALL and JEREMY SELAN for the creation of the Katana computer graphics scene management and lighting software at Sony Pictures Imageworks."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Theodore Kim|Nils Thuerey|Dr. Markus Gross|Doug James",
+    "NomineeIds": "?|nm4504623|?|?",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This technique allowed for fast, art-directable creation of highly detailed gas simulation, making it easier for the artist to control the appearance of these effects in the final image.",
+    "Citation": "To THEODORE KIM, NILS THUEREY, DR. MARKUS GROSS and DOUG JAMES for the invention, publication and dissemination of Wavelet Turbulence software."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard Mall",
+    "NomineeIds": "nm0539844",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "Highly sophisticated and well-engineered, the Max Menace Arm is a safe and adjustable device that allows rapid, precise positioning of lighting fixtures, cameras or accessories. On-set or on location, this compact and highly portable structure is often used where access is limited due to restrictions on attaching equipment to existing surfaces.",
+    "Citation": "To RICHARD MALL for the design and development of the Matthews Max Menace Arm."
+  },
+  {
+    "Ceremony": 85,
+    "Year": 2012,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bill Taylor",
+    "NomineeIds": "nm0852041",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Bill Taylor in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  }
 ]

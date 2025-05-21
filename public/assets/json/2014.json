@@ -1,1861 +1,2354 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2014",
-        "nominees": [
-            "Birdman or: (The Unexpected Virtue of Ignorance)"
-        ],
-        "movies": [
-            {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "tmdb_id": 194662,
-                "imdb_id": "tt2562232"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2014",
-        "nominees": [
-            "American Sniper"
-        ],
-        "movies": [
-            {
-                "title": "American Sniper",
-                "tmdb_id": 190859,
-                "imdb_id": "tt2179136"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2014",
-        "nominees": [
-            "Boyhood"
-        ],
-        "movies": [
-            {
-                "title": "Boyhood",
-                "tmdb_id": 85350,
-                "imdb_id": "tt1065073"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2014",
-        "nominees": [
-            "The Grand Budapest Hotel"
-        ],
-        "movies": [
-            {
-                "title": "The Grand Budapest Hotel",
-                "tmdb_id": 120467,
-                "imdb_id": "tt2278388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2014",
-        "nominees": [
-            "The Imitation Game"
-        ],
-        "movies": [
-            {
-                "title": "The Imitation Game",
-                "tmdb_id": 205596,
-                "imdb_id": "tt2084970"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2014",
-        "nominees": [
-            "Selma"
-        ],
-        "movies": [
-            {
-                "title": "Selma",
-                "tmdb_id": 273895,
-                "imdb_id": "tt1020072"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2014",
-        "nominees": [
-            "The Theory of Everything"
-        ],
-        "movies": [
-            {
-                "title": "The Theory of Everything",
-                "tmdb_id": 266856,
-                "imdb_id": "tt2980516"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2014",
-        "nominees": [
-            "Whiplash"
-        ],
-        "movies": [
-            {
-                "title": "Whiplash",
-                "tmdb_id": 244786,
-                "imdb_id": "tt2582802"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2014",
-        "nominees": [
-            "Eddie Redmayne"
-        ],
-        "movies": [
-            {
-                "title": "The Theory of Everything",
-                "tmdb_id": 266856,
-                "imdb_id": "tt2980516"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2014",
-        "nominees": [
-            "Steve Carell"
-        ],
-        "movies": [
-            {
-                "title": "Foxcatcher",
-                "tmdb_id": 87492,
-                "imdb_id": "tt1100089"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2014",
-        "nominees": [
-            "Bradley Cooper"
-        ],
-        "movies": [
-            {
-                "title": "American Sniper",
-                "tmdb_id": 190859,
-                "imdb_id": "tt2179136"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2014",
-        "nominees": [
-            "Benedict Cumberbatch"
-        ],
-        "movies": [
-            {
-                "title": "The Imitation Game",
-                "tmdb_id": 205596,
-                "imdb_id": "tt2084970"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2014",
-        "nominees": [
-            "Michael Keaton"
-        ],
-        "movies": [
-            {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "tmdb_id": 194662,
-                "imdb_id": "tt2562232"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2014",
-        "nominees": [
-            "Julianne Moore"
-        ],
-        "movies": [
-            {
-                "title": "Still Alice",
-                "tmdb_id": 284293,
-                "imdb_id": "tt3316960"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2014",
-        "nominees": [
-            "Marion Cotillard"
-        ],
-        "movies": [
-            {
-                "title": "Two Days, One Night",
-                "tmdb_id": 221902,
-                "imdb_id": "tt2737050"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2014",
-        "nominees": [
-            "Felicity Jones"
-        ],
-        "movies": [
-            {
-                "title": "The Theory of Everything",
-                "tmdb_id": 266856,
-                "imdb_id": "tt2980516"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2014",
-        "nominees": [
-            "Rosamund Pike"
-        ],
-        "movies": [
-            {
-                "title": "Gone Girl",
-                "tmdb_id": 210577,
-                "imdb_id": "tt2267998"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2014",
-        "nominees": [
-            "Reese Witherspoon"
-        ],
-        "movies": [
-            {
-                "title": "Wild",
-                "tmdb_id": 228970,
-                "imdb_id": "tt2305051"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2014",
-        "nominees": [
-            "J. K. Simmons"
-        ],
-        "movies": [
-            {
-                "title": "Whiplash",
-                "tmdb_id": 244786,
-                "imdb_id": "tt2582802"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2014",
-        "nominees": [
-            "Robert Duvall"
-        ],
-        "movies": [
-            {
-                "title": "The Judge",
-                "tmdb_id": 205587,
-                "imdb_id": "tt1872194"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2014",
-        "nominees": [
-            "Ethan Hawke"
-        ],
-        "movies": [
-            {
-                "title": "Boyhood",
-                "tmdb_id": 85350,
-                "imdb_id": "tt1065073"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2014",
-        "nominees": [
-            "Edward Norton"
-        ],
-        "movies": [
-            {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "tmdb_id": 194662,
-                "imdb_id": "tt2562232"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2014",
-        "nominees": [
-            "Mark Ruffalo"
-        ],
-        "movies": [
-            {
-                "title": "Foxcatcher",
-                "tmdb_id": 87492,
-                "imdb_id": "tt1100089"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2014",
-        "nominees": [
-            "Patricia Arquette"
-        ],
-        "movies": [
-            {
-                "title": "Boyhood",
-                "tmdb_id": 85350,
-                "imdb_id": "tt1065073"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2014",
-        "nominees": [
-            "Laura Dern"
-        ],
-        "movies": [
-            {
-                "title": "Wild",
-                "tmdb_id": 228970,
-                "imdb_id": "tt2305051"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2014",
-        "nominees": [
-            "Keira Knightley"
-        ],
-        "movies": [
-            {
-                "title": "The Imitation Game",
-                "tmdb_id": 205596,
-                "imdb_id": "tt2084970"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2014",
-        "nominees": [
-            "Emma Stone"
-        ],
-        "movies": [
-            {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "tmdb_id": 194662,
-                "imdb_id": "tt2562232"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2014",
-        "nominees": [
-            "Meryl Streep"
-        ],
-        "movies": [
-            {
-                "title": "Into the Woods",
-                "tmdb_id": 224141,
-                "imdb_id": "tt2180411"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2014",
-        "nominees": [
-            "Alejandro Gonzalez Inarritu"
-        ],
-        "movies": [
-            {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "tmdb_id": 194662,
-                "imdb_id": "tt2562232"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2014",
-        "nominees": [
-            "Richard Linklater"
-        ],
-        "movies": [
-            {
-                "title": "Boyhood",
-                "tmdb_id": 85350,
-                "imdb_id": "tt1065073"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2014",
-        "nominees": [
-            "Wes Anderson"
-        ],
-        "movies": [
-            {
-                "title": "The Grand Budapest Hotel",
-                "tmdb_id": 120467,
-                "imdb_id": "tt2278388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2014",
-        "nominees": [
-            "Bennett Miller"
-        ],
-        "movies": [
-            {
-                "title": "Foxcatcher",
-                "tmdb_id": 87492,
-                "imdb_id": "tt1100089"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2014",
-        "nominees": [
-            "Morten Tyldum"
-        ],
-        "movies": [
-            {
-                "title": "The Imitation Game",
-                "tmdb_id": 205596,
-                "imdb_id": "tt2084970"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2014",
-        "nominees": [
-            "Graham Moore"
-        ],
-        "movies": [
-            {
-                "title": "The Imitation Game",
-                "tmdb_id": 205596,
-                "imdb_id": "tt2084970"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2014",
-        "nominees": [
-            "Jason Hall"
-        ],
-        "movies": [
-            {
-                "title": "American Sniper",
-                "tmdb_id": 190859,
-                "imdb_id": "tt2179136"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2014",
-        "nominees": [
-            "Paul Thomas Anderson"
-        ],
-        "movies": [
-            {
-                "title": "Inherent Vice",
-                "tmdb_id": 171274,
-                "imdb_id": "tt1791528"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2014",
-        "nominees": [
-            "Anthony McCarten"
-        ],
-        "movies": [
-            {
-                "title": "The Theory of Everything",
-                "tmdb_id": 266856,
-                "imdb_id": "tt2980516"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2014",
-        "nominees": [
-            "Damien Chazelle"
-        ],
-        "movies": [
-            {
-                "title": "Whiplash",
-                "tmdb_id": 244786,
-                "imdb_id": "tt2582802"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2014",
-        "nominees": [
-            "Alejandro Gonzalez Inarritu",
-            "Nicolas Giacobone",
-            "Alexander Dinelaris Jr.",
-            "Armando Bo"
-        ],
-        "movies": [
-            {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "tmdb_id": 194662,
-                "imdb_id": "tt2562232"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2014",
-        "nominees": [
-            "Hugo Guinness",
-            "Wes Anderson"
-        ],
-        "movies": [
-            {
-                "title": "The Grand Budapest Hotel",
-                "tmdb_id": 120467,
-                "imdb_id": "tt2278388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2014",
-        "nominees": [
-            "Richard Linklater"
-        ],
-        "movies": [
-            {
-                "title": "Boyhood",
-                "tmdb_id": 85350,
-                "imdb_id": "tt1065073"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2014",
-        "nominees": [
-            "E. Max Frye",
-            "Dan Futterman"
-        ],
-        "movies": [
-            {
-                "title": "Foxcatcher",
-                "tmdb_id": 87492,
-                "imdb_id": "tt1100089"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2014",
-        "nominees": [
-            "Dan Gilroy"
-        ],
-        "movies": [
-            {
-                "title": "Nightcrawler",
-                "tmdb_id": 242582,
-                "imdb_id": "tt2872718"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2014",
-        "nominees": [
-            "Alexandre Desplat"
-        ],
-        "movies": [
-            {
-                "title": "The Grand Budapest Hotel",
-                "tmdb_id": 120467,
-                "imdb_id": "tt2278388"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2014",
-        "nominees": [
-            "Alexandre Desplat"
-        ],
-        "movies": [
-            {
-                "title": "The Imitation Game",
-                "tmdb_id": 205596,
-                "imdb_id": "tt2084970"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2014",
-        "nominees": [
-            "Hans Zimmer"
-        ],
-        "movies": [
-            {
-                "title": "Interstellar",
-                "tmdb_id": 157336,
-                "imdb_id": "tt0816692"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2014",
-        "nominees": [
-            "Gary Yershon"
-        ],
-        "movies": [
-            {
-                "title": "Mr. Turner",
-                "tmdb_id": 245700,
-                "imdb_id": "tt2473794"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2014",
-        "nominees": [
-            "Johann Johannsson"
-        ],
-        "movies": [
-            {
-                "title": "The Theory of Everything",
-                "tmdb_id": 266856,
-                "imdb_id": "tt2980516"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2014",
-        "nominees": [
-            "Glory"
-        ],
-        "movies": [
-            {
-                "title": "Selma",
-                "tmdb_id": 273895,
-                "imdb_id": "tt1020072"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2014",
-        "nominees": [
-            "Everything is Awesome"
-        ],
-        "movies": [
-            {
-                "title": "The Lego Movie",
-                "tmdb_id": 137106,
-                "imdb_id": "tt1490017"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2014",
-        "nominees": [
-            "Grateful"
-        ],
-        "movies": [
-            {
-                "title": "Beyond the Lights",
-                "tmdb_id": 241771,
-                "imdb_id": "tt3125324"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2014",
-        "nominees": [
-            "I'm Not Gonna Miss You"
-        ],
-        "movies": [
-            {
-                "title": "Glen Campbell: I'll Be Me",
-                "tmdb_id": 285689,
-                "imdb_id": "tt2049586"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2014",
-        "nominees": [
-            "Lost Stars"
-        ],
-        "movies": [
-            {
-                "title": "Begin Again",
-                "tmdb_id": 198277,
-                "imdb_id": "tt1980929"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2014",
-        "nominees": [
-            "Ida"
-        ],
-        "movies": [
-            {
-                "title": "Ida",
-                "tmdb_id": 209274,
-                "imdb_id": "tt2718492"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2014",
-        "nominees": [
-            "Leviathan"
-        ],
-        "movies": [
-            {
-                "title": "Leviathan",
-                "tmdb_id": 265180,
-                "imdb_id": "tt2802154"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2014",
-        "nominees": [
-            "Tangerines"
-        ],
-        "movies": [
-            {
-                "title": "Tangerines",
-                "tmdb_id": 238628,
-                "imdb_id": "tt2991224"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2014",
-        "nominees": [
-            "Timbuktu"
-        ],
-        "movies": [
-            {
-                "title": "Timbuktu",
-                "tmdb_id": 265228,
-                "imdb_id": "tt3409392"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2014",
-        "nominees": [
-            "Wild Tales"
-        ],
-        "movies": [
-            {
-                "title": "Wild Tales",
-                "tmdb_id": 265195,
-                "imdb_id": "tt3011894"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2014",
-        "nominees": [
-            "Citizenfour"
-        ],
-        "movies": [
-            {
-                "title": "Citizenfour",
-                "tmdb_id": 293310,
-                "imdb_id": "tt4044364"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2014",
-        "nominees": [
-            "Last Days in Vietnam"
-        ],
-        "movies": [
-            {
-                "title": "Last Days in Vietnam",
-                "tmdb_id": 250761,
-                "imdb_id": "tt3279124"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2014",
-        "nominees": [
-            "Finding Vivian Maier"
-        ],
-        "movies": [
-            {
-                "title": "Finding Vivian Maier",
-                "tmdb_id": 169607,
-                "imdb_id": "tt2714900"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2014",
-        "nominees": [
-            "The Salt of the Earth"
-        ],
-        "movies": [
-            {
-                "title": "The Salt of the Earth",
-                "tmdb_id": 265297,
-                "imdb_id": "tt3674140"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2014",
-        "nominees": [
-            "Virunga"
-        ],
-        "movies": [
-            {
-                "title": "Virunga",
-                "tmdb_id": 263614,
-                "imdb_id": "tt3455224"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2014",
-        "nominees": [
-            "Crisis Hotline: Veterans Press 1"
-        ],
-        "movies": [
-            {
-                "title": "Crisis Hotline: Veterans Press 1",
-                "tmdb_id": 248808,
-                "imdb_id": "tt3449252"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2014",
-        "nominees": [
-            "Joanna"
-        ],
-        "movies": [
-            {
-                "title": "Joanna",
-                "tmdb_id": 300176,
-                "imdb_id": "tt2976354"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2014",
-        "nominees": [
-            "Our Curse"
-        ],
-        "movies": [
-            {
-                "title": "Our Curse",
-                "tmdb_id": 274805,
-                "imdb_id": "tt3069992"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2014",
-        "nominees": [
-            "The Reaper"
-        ],
-        "movies": [
-            {
-                "title": "The Reaper",
-                "tmdb_id": 259868,
-                "imdb_id": "tt3438472"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2014",
-        "nominees": [
-            "White Earth"
-        ],
-        "movies": [
-            {
-                "title": "White Earth",
-                "tmdb_id": 259520,
-                "imdb_id": "tt3044564"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2014",
-        "nominees": [
-            "Big Hero 6"
-        ],
-        "movies": [
-            {
-                "title": "Big Hero 6",
-                "tmdb_id": 177572,
-                "imdb_id": "tt2245084"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2014",
-        "nominees": [
-            "How to Train Your Dragon 2"
-        ],
-        "movies": [
-            {
-                "title": "How to Train Your Dragon 2",
-                "tmdb_id": 82702,
-                "imdb_id": "tt1646971"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2014",
-        "nominees": [
-            "The Boxtrolls"
-        ],
-        "movies": [
-            {
-                "title": "The Boxtrolls",
-                "tmdb_id": 170687,
-                "imdb_id": "tt0787474"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2014",
-        "nominees": [
-            "Song of the Sea"
-        ],
-        "movies": [
-            {
-                "title": "Song of the Sea",
-                "tmdb_id": 110416,
-                "imdb_id": "tt1865505"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2014",
-        "nominees": [
-            "The Tale of The Princess Kaguya"
-        ],
-        "movies": [
-            {
-                "title": "The Tale of The Princess Kaguya",
-                "tmdb_id": 149871,
-                "imdb_id": "tt2576852"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2014",
-        "nominees": [
-            "Feast"
-        ],
-        "movies": [
-            {
-                "title": "Feast",
-                "tmdb_id": 293299,
-                "imdb_id": "tt3689498"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2014",
-        "nominees": [
-            "The Bigger Picture"
-        ],
-        "movies": [
-            {
-                "title": "The Bigger Picture",
-                "tmdb_id": 307695,
-                "imdb_id": "tt3610188"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2014",
-        "nominees": [
-            "The Dam Keeper"
-        ],
-        "movies": [
-            {
-                "title": "The Dam Keeper",
-                "tmdb_id": 254273,
-                "imdb_id": "tt3326262"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2014",
-        "nominees": [
-            "Me and My Moulton"
-        ],
-        "movies": [
-            {
-                "title": "Me and My Moulton",
-                "tmdb_id": 289024,
-                "imdb_id": "tt3946086"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2014",
-        "nominees": [
-            "A Single Life"
-        ],
-        "movies": [
-            {
-                "title": "A Single Life",
-                "tmdb_id": 289280,
-                "imdb_id": "tt3838700"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2014",
-        "nominees": [
-            "The Phone Call"
-        ],
-        "movies": [
-            {
-                "title": "The Phone Call",
-                "tmdb_id": 220809,
-                "imdb_id": "tt3071532"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2014",
-        "nominees": [
-            "Boogaloo and Graham"
-        ],
-        "movies": [
-            {
-                "title": "Boogaloo and Graham",
-                "tmdb_id": 307686,
-                "imdb_id": "tt3612232"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2014",
-        "nominees": [
-            "Butter Lamp"
-        ],
-        "movies": [
-            {
-                "title": "Butter Lamp",
-                "tmdb_id": 199342,
-                "imdb_id": "tt2922078"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2014",
-        "nominees": [
-            "Parvaneh"
-        ],
-        "movies": [
-            {
-                "title": "Parvaneh",
-                "tmdb_id": 307692,
-                "imdb_id": "tt3008010"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2014",
-        "nominees": [
-            "Aya"
-        ],
-        "movies": [
-            {
-                "title": "Aya",
-                "tmdb_id": 323644,
-                "imdb_id": "tt3813480"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Adam Stockhausen",
-            "Anna Pinnock"
-        ],
-        "movies": [
-            {
-                "title": "The Grand Budapest Hotel",
-                "tmdb_id": 120467,
-                "imdb_id": "tt2278388"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Maria Djurkovic",
-            "Tatiana Macdonald"
-        ],
-        "movies": [
-            {
-                "title": "The Imitation Game",
-                "tmdb_id": 205596,
-                "imdb_id": "tt2084970"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Nathan Crowley",
-            "Gary Fettis"
-        ],
-        "movies": [
-            {
-                "title": "Interstellar",
-                "tmdb_id": 157336,
-                "imdb_id": "tt0816692"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Dennis Gassner",
-            "Anna Pinnock"
-        ],
-        "movies": [
-            {
-                "title": "Into the Woods",
-                "tmdb_id": 224141,
-                "imdb_id": "tt2180411"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Suzie Davies",
-            "Charlotte Watts"
-        ],
-        "movies": [
-            {
-                "title": "Mr. Turner",
-                "tmdb_id": 245700,
-                "imdb_id": "tt2473794"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2014",
-        "nominees": [
-            "Emmanuel Lubezki"
-        ],
-        "movies": [
-            {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "tmdb_id": 194662,
-                "imdb_id": "tt2562232"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2014",
-        "nominees": [
-            "Robert Yeoman"
-        ],
-        "movies": [
-            {
-                "title": "The Grand Budapest Hotel",
-                "tmdb_id": 120467,
-                "imdb_id": "tt2278388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2014",
-        "nominees": [
-            "Lukasz Zal",
-            "Ryszard Lenczewski"
-        ],
-        "movies": [
-            {
-                "title": "Ida",
-                "tmdb_id": 209274,
-                "imdb_id": "tt2718492"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2014",
-        "nominees": [
-            "Dick Pope"
-        ],
-        "movies": [
-            {
-                "title": "Mr. Turner",
-                "tmdb_id": 245700,
-                "imdb_id": "tt2473794"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2014",
-        "nominees": [
-            "Roger Deakins"
-        ],
-        "movies": [
-            {
-                "title": "Unbroken",
-                "tmdb_id": 227306,
-                "imdb_id": "tt1809398"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2014",
-        "nominees": [
-            "Tom Cross"
-        ],
-        "movies": [
-            {
-                "title": "Whiplash",
-                "tmdb_id": 244786,
-                "imdb_id": "tt2582802"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2014",
-        "nominees": [
-            "Joel Cox",
-            "Gary D. Roach"
-        ],
-        "movies": [
-            {
-                "title": "American Sniper",
-                "tmdb_id": 190859,
-                "imdb_id": "tt2179136"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2014",
-        "nominees": [
-            "Sandra Adair"
-        ],
-        "movies": [
-            {
-                "title": "Boyhood",
-                "tmdb_id": 85350,
-                "imdb_id": "tt1065073"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2014",
-        "nominees": [
-            "Barney Pilling"
-        ],
-        "movies": [
-            {
-                "title": "The Grand Budapest Hotel",
-                "tmdb_id": 120467,
-                "imdb_id": "tt2278388"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2014",
-        "nominees": [
-            "William Goldenberg"
-        ],
-        "movies": [
-            {
-                "title": "The Imitation Game",
-                "tmdb_id": 205596,
-                "imdb_id": "tt2084970"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2014",
-        "nominees": [
-            "Paul Franklin",
-            "Andrew Lockley",
-            "Ian Hunter",
-            "Scott R. Fisher"
-        ],
-        "movies": [
-            {
-                "title": "Interstellar",
-                "tmdb_id": 157336,
-                "imdb_id": "tt0816692"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2014",
-        "nominees": [
-            "Dan DeLeeuw",
-            "Russell Earl",
-            "Bryan Grill",
-            "Dan Sudick"
-        ],
-        "movies": [
-            {
-                "title": "Captain America: The Winter Soldier",
-                "tmdb_id": 100402,
-                "imdb_id": "tt1843866"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2014",
-        "nominees": [
-            "Joe Letteri",
-            "Dan Lemmon",
-            "Daniel Barrett",
-            "Erik Winquist"
-        ],
-        "movies": [
-            {
-                "title": "Dawn of the Planet of the Apes",
-                "tmdb_id": 119450,
-                "imdb_id": "tt2103281"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2014",
-        "nominees": [
-            "Stephane Ceretti",
-            "Nicolas Aithadi",
-            "Jonathan Fawkner",
-            "Paul Corbould"
-        ],
-        "movies": [
-            {
-                "title": "Guardians of the Galaxy",
-                "tmdb_id": 118340,
-                "imdb_id": "tt2015381"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2014",
-        "nominees": [
-            "Richard Stammers",
-            "Lou Pecora",
-            "Tim Crosbie",
-            "Cameron Waldbauer"
-        ],
-        "movies": [
-            {
-                "title": "X-Men: Days of Future Past",
-                "tmdb_id": 127585,
-                "imdb_id": "tt1877832"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2014",
-        "nominees": [
-            "Craig Mann",
-            "Ben Wilkins",
-            "Thomas Curley"
-        ],
-        "movies": [
-            {
-                "title": "Whiplash",
-                "tmdb_id": 244786,
-                "imdb_id": "tt2582802"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2014",
-        "nominees": [
-            "John Reitz",
-            "Gregg Rudloff",
-            "Walt Martin"
-        ],
-        "movies": [
-            {
-                "title": "American Sniper",
-                "tmdb_id": 190859,
-                "imdb_id": "tt2179136"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2014",
-        "nominees": [
-            "Gary A. Rizzo",
-            "Gregg Landaker",
-            "Mark Weingarten"
-        ],
-        "movies": [
-            {
-                "title": "Interstellar",
-                "tmdb_id": 157336,
-                "imdb_id": "tt0816692"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2014",
-        "nominees": [
-            "Jon Taylor",
-            "Frank A. Montano",
-            "David Lee"
-        ],
-        "movies": [
-            {
-                "title": "Unbroken",
-                "tmdb_id": 227306,
-                "imdb_id": "tt1809398"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2014",
-        "nominees": [
-            "Jon Taylor",
-            "Frank A. Montano",
-            "Thomas Varga"
-        ],
-        "movies": [
-            {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "tmdb_id": 194662,
-                "imdb_id": "tt2562232"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2014",
-        "nominees": [
-            "Alan Robert Murray",
-            "Bub Asman"
-        ],
-        "movies": [
-            {
-                "title": "American Sniper",
-                "tmdb_id": 190859,
-                "imdb_id": "tt2179136"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2014",
-        "nominees": [
-            "Martin Hernandez",
-            "Aaron Glascock"
-        ],
-        "movies": [
-            {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "tmdb_id": 194662,
-                "imdb_id": "tt2562232"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2014",
-        "nominees": [
-            "Brent Burge",
-            "Jason Canovas"
-        ],
-        "movies": [
-            {
-                "title": "The Hobbit: The Battle of the Five Armies",
-                "tmdb_id": 122917,
-                "imdb_id": "tt2310332"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2014",
-        "nominees": [
-            "Richard King"
-        ],
-        "movies": [
-            {
-                "title": "Interstellar",
-                "tmdb_id": 157336,
-                "imdb_id": "tt0816692"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2014",
-        "nominees": [
-            "Becky Sullivan",
-            "Andrew DeCristofaro"
-        ],
-        "movies": [
-            {
-                "title": "Unbroken",
-                "tmdb_id": 227306,
-                "imdb_id": "tt1809398"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2014",
-        "nominees": [
-            "Frances Hannon",
-            "Mark Coulier"
-        ],
-        "movies": [
-            {
-                "title": "The Grand Budapest Hotel",
-                "tmdb_id": 120467,
-                "imdb_id": "tt2278388"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2014",
-        "nominees": [
-            "Bill Corso",
-            "Dennis Liddiard"
-        ],
-        "movies": [
-            {
-                "title": "Foxcatcher",
-                "tmdb_id": 87492,
-                "imdb_id": "tt1100089"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2014",
-        "nominees": [
-            "Elizabeth Yianni-Georgiou",
-            "David White"
-        ],
-        "movies": [
-            {
-                "title": "Guardians of the Galaxy",
-                "tmdb_id": 118340,
-                "imdb_id": "tt2015381"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Milena Canonero"
-        ],
-        "movies": [
-            {
-                "title": "The Grand Budapest Hotel",
-                "tmdb_id": 120467,
-                "imdb_id": "tt2278388"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Mark Bridges"
-        ],
-        "movies": [
-            {
-                "title": "Inherent Vice",
-                "tmdb_id": 171274,
-                "imdb_id": "tt1791528"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Colleen Atwood"
-        ],
-        "movies": [
-            {
-                "title": "Into the Woods",
-                "tmdb_id": 224141,
-                "imdb_id": "tt2180411"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Anna B. Sheppard"
-        ],
-        "movies": [
-            {
-                "title": "Maleficent",
-                "tmdb_id": 102651,
-                "imdb_id": "tt1587310"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2014",
-        "nominees": [
-            "Jacqueline Durran"
-        ],
-        "movies": [
-            {
-                "title": "Mr. Turner",
-                "tmdb_id": 245700,
-                "imdb_id": "tt2473794"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Foxcatcher",
+    "FilmId": "tt1100089",
+    "Name": "Steve Carell",
+    "Nominees": "Steve Carell",
+    "NomineeIds": "nm0136797",
+    "Winner": "",
+    "Detail": "John du Pont",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "American Sniper",
+    "FilmId": "tt2179136",
+    "Name": "Bradley Cooper",
+    "Nominees": "Bradley Cooper",
+    "NomineeIds": "nm0177896",
+    "Winner": "",
+    "Detail": "Chris Kyle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Imitation Game",
+    "FilmId": "tt2084970",
+    "Name": "Benedict Cumberbatch",
+    "Nominees": "Benedict Cumberbatch",
+    "NomineeIds": "nm1212722",
+    "Winner": "",
+    "Detail": "Alan Turing",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "FilmId": "tt2562232",
+    "Name": "Michael Keaton",
+    "Nominees": "Michael Keaton",
+    "NomineeIds": "nm0000474",
+    "Winner": "",
+    "Detail": "Riggan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Theory of Everything",
+    "FilmId": "tt2980516",
+    "Name": "Eddie Redmayne",
+    "Nominees": "Eddie Redmayne",
+    "NomineeIds": "nm1519666",
+    "Winner": "True",
+    "Detail": "Stephen Hawking",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Judge",
+    "FilmId": "tt1872194",
+    "Name": "Robert Duvall",
+    "Nominees": "Robert Duvall",
+    "NomineeIds": "nm0000380",
+    "Winner": "",
+    "Detail": "Joseph Palmer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Boyhood",
+    "FilmId": "tt1065073",
+    "Name": "Ethan Hawke",
+    "Nominees": "Ethan Hawke",
+    "NomineeIds": "nm0000160",
+    "Winner": "",
+    "Detail": "Dad",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "FilmId": "tt2562232",
+    "Name": "Edward Norton",
+    "Nominees": "Edward Norton",
+    "NomineeIds": "nm0001570",
+    "Winner": "",
+    "Detail": "Mike",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Foxcatcher",
+    "FilmId": "tt1100089",
+    "Name": "Mark Ruffalo",
+    "Nominees": "Mark Ruffalo",
+    "NomineeIds": "nm0749263",
+    "Winner": "",
+    "Detail": "David Schultz",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Whiplash",
+    "FilmId": "tt2582802",
+    "Name": "J.K. Simmons",
+    "Nominees": "J.K. Simmons",
+    "NomineeIds": "nm0799777",
+    "Winner": "True",
+    "Detail": "Fletcher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Two Days, One Night",
+    "FilmId": "tt2737050",
+    "Name": "Marion Cotillard",
+    "Nominees": "Marion Cotillard",
+    "NomineeIds": "nm0182839",
+    "Winner": "",
+    "Detail": "Sandra",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Theory of Everything",
+    "FilmId": "tt2980516",
+    "Name": "Felicity Jones",
+    "Nominees": "Felicity Jones",
+    "NomineeIds": "nm0428065",
+    "Winner": "",
+    "Detail": "Jane Hawking",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Still Alice",
+    "FilmId": "tt3316960",
+    "Name": "Julianne Moore",
+    "Nominees": "Julianne Moore",
+    "NomineeIds": "nm0000194",
+    "Winner": "True",
+    "Detail": "Alice Howland",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Gone Girl",
+    "FilmId": "tt2267998",
+    "Name": "Rosamund Pike",
+    "Nominees": "Rosamund Pike",
+    "NomineeIds": "nm0683253",
+    "Winner": "",
+    "Detail": "Amy Dunne",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Wild",
+    "FilmId": "tt2305051",
+    "Name": "Reese Witherspoon",
+    "Nominees": "Reese Witherspoon",
+    "NomineeIds": "nm0000702",
+    "Winner": "",
+    "Detail": "Cheryl",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Boyhood",
+    "FilmId": "tt1065073",
+    "Name": "Patricia Arquette",
+    "Nominees": "Patricia Arquette",
+    "NomineeIds": "nm0000099",
+    "Winner": "True",
+    "Detail": "Mom",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Wild",
+    "FilmId": "tt2305051",
+    "Name": "Laura Dern",
+    "Nominees": "Laura Dern",
+    "NomineeIds": "nm0000368",
+    "Winner": "",
+    "Detail": "Bobbi",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Imitation Game",
+    "FilmId": "tt2084970",
+    "Name": "Keira Knightley",
+    "Nominees": "Keira Knightley",
+    "NomineeIds": "nm0461136",
+    "Winner": "",
+    "Detail": "Joan Clarke",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "FilmId": "tt2562232",
+    "Name": "Emma Stone",
+    "Nominees": "Emma Stone",
+    "NomineeIds": "nm1297015",
+    "Winner": "",
+    "Detail": "Sam",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Into the Woods",
+    "FilmId": "tt2180411",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Witch",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Big Hero 6",
+    "FilmId": "tt2245084",
+    "Name": "Don Hall, Chris Williams and Roy Conli",
+    "Nominees": "Don Hall|Chris Williams|Roy Conli",
+    "NomineeIds": "nm2320658|nm0930261|nm0174807",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Boxtrolls",
+    "FilmId": "tt0787474",
+    "Name": "Anthony Stacchi, Graham Annable and Travis Knight",
+    "Nominees": "Anthony Stacchi|Graham Annable|Travis Knight",
+    "NomineeIds": "nm0820934|nm0030253|nm1325899",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "How to Train Your Dragon 2",
+    "FilmId": "tt1646971",
+    "Name": "Dean DeBlois and Bonnie Arnold",
+    "Nominees": "Dean DeBlois|Bonnie Arnold",
+    "NomineeIds": "nm0213450|nm0036366",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Song of the Sea",
+    "FilmId": "tt1865505",
+    "Name": "Tomm Moore and Paul Young",
+    "Nominees": "Tomm Moore|Paul Young",
+    "NomineeIds": "nm1119079|nm2727721",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Tale of the Princess Kaguya",
+    "FilmId": "tt2576852",
+    "Name": "Isao Takahata and Yoshiaki Nishimura",
+    "Nominees": "Isao Takahata|Yoshiaki Nishimura",
+    "NomineeIds": "nm0847223|nm2052679",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "FilmId": "tt2562232",
+    "Name": "Emmanuel Lubezki",
+    "Nominees": "Emmanuel Lubezki",
+    "NomineeIds": "nm0523881",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Grand Budapest Hotel",
+    "FilmId": "tt2278388",
+    "Name": "Robert Yeoman",
+    "Nominees": "Robert Yeoman",
+    "NomineeIds": "nm0005934",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Ida",
+    "FilmId": "tt2718492",
+    "Name": "Lukasz Zal and Ryszard Lenczewski",
+    "Nominees": "Lukasz Zal|Ryszard Lenczewski",
+    "NomineeIds": "nm2617994|nm0501755",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Mr. Turner",
+    "FilmId": "tt2473794",
+    "Name": "Dick Pope",
+    "Nominees": "Dick Pope",
+    "NomineeIds": "nm0005836",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Unbroken",
+    "FilmId": "tt1809398",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Grand Budapest Hotel",
+    "FilmId": "tt2278388",
+    "Name": "Milena Canonero",
+    "Nominees": "Milena Canonero",
+    "NomineeIds": "nm0134382",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Inherent Vice",
+    "FilmId": "tt1791528",
+    "Name": "Mark Bridges",
+    "Nominees": "Mark Bridges",
+    "NomineeIds": "nm0108775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Into the Woods",
+    "FilmId": "tt2180411",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Maleficent",
+    "FilmId": "tt1587310",
+    "Name": "Anna B. Sheppard",
+    "Nominees": "Anna B. Sheppard",
+    "NomineeIds": "nm0081318",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Mr. Turner",
+    "FilmId": "tt2473794",
+    "Name": "Jacqueline Durran",
+    "Nominees": "Jacqueline Durran",
+    "NomineeIds": "nm0244330",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "FilmId": "tt2562232",
+    "Name": "Alejandro G. Iñárritu",
+    "Nominees": "Alejandro G. Iñárritu",
+    "NomineeIds": "nm0327944",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Boyhood",
+    "FilmId": "tt1065073",
+    "Name": "Richard Linklater",
+    "Nominees": "Richard Linklater",
+    "NomineeIds": "nm0000500",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Foxcatcher",
+    "FilmId": "tt1100089",
+    "Name": "Bennett Miller",
+    "Nominees": "Bennett Miller",
+    "NomineeIds": "nm0587955",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Grand Budapest Hotel",
+    "FilmId": "tt2278388",
+    "Name": "Wes Anderson",
+    "Nominees": "Wes Anderson",
+    "NomineeIds": "nm0027572",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Imitation Game",
+    "FilmId": "tt2084970",
+    "Name": "Morten Tyldum",
+    "Nominees": "Morten Tyldum",
+    "NomineeIds": "nm0878763",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "CitizenFour",
+    "FilmId": "tt4044364",
+    "Name": "Laura Poitras, Mathilde Bonnefoy and Dirk Wilutzky",
+    "Nominees": "Laura Poitras|Mathilde Bonnefoy|Dirk Wilutzky",
+    "NomineeIds": "nm0688636|nm0094850|nm0934406",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Finding Vivian Maier",
+    "FilmId": "tt2714900",
+    "Name": "John Maloof and Charlie Siskel",
+    "Nominees": "John Maloof|Charlie Siskel",
+    "NomineeIds": "nm5525244|nm0803020",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Last Days in Vietnam",
+    "FilmId": "tt3279124",
+    "Name": "Rory Kennedy and Keven McAlester",
+    "Nominees": "Rory Kennedy|Keven McAlester",
+    "NomineeIds": "nm0448311|nm2222778",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Salt of the Earth",
+    "FilmId": "tt3674140",
+    "Name": "Wim Wenders, Juliano Ribeiro Salgado and David Rosier",
+    "Nominees": "Wim Wenders|Juliano Ribeiro Salgado|David Rosier",
+    "NomineeIds": "nm0000694|nm2081382|nm6514669",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Virunga",
+    "FilmId": "tt3455224",
+    "Name": "Orlando von Einsiedel and Joanna Natasegara",
+    "Nominees": "Orlando von Einsiedel|Joanna Natasegara",
+    "NomineeIds": "nm3915542|nm3319085",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Crisis Hotline: Veterans Press 1",
+    "FilmId": "tt3449252",
+    "Name": "Ellen Goosenberg Kent and Dana Perry",
+    "Nominees": "Ellen Goosenberg Kent|Dana Perry",
+    "NomineeIds": "nm0329651|nm0675017",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Joanna",
+    "FilmId": "tt2976354",
+    "Name": "Aneta Kopacz",
+    "Nominees": "Aneta Kopacz",
+    "NomineeIds": "nm5098826",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Our Curse",
+    "FilmId": "tt3069992",
+    "Name": "Tomasz Sliwinski and Maciej Slesicki",
+    "Nominees": "Tomasz Sliwinski|Maciej Slesicki",
+    "NomineeIds": "nm4724948|nm0805751",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Reaper (La Parka)",
+    "FilmId": "tt3438472",
+    "Name": "Gabriel Serra Arguello",
+    "Nominees": "Gabriel Serra Arguello",
+    "NomineeIds": "nm4717581",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "White Earth",
+    "FilmId": "tt3044564",
+    "Name": "J. Christian Jensen",
+    "Nominees": "J. Christian Jensen",
+    "NomineeIds": "nm2650005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "American Sniper",
+    "FilmId": "tt2179136",
+    "Name": "Joel Cox and Gary D. Roach",
+    "Nominees": "Joel Cox|Gary D. Roach",
+    "NomineeIds": "nm0185088|nm0730013",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Boyhood",
+    "FilmId": "tt1065073",
+    "Name": "Sandra Adair",
+    "Nominees": "Sandra Adair",
+    "NomineeIds": "nm0010471",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Grand Budapest Hotel",
+    "FilmId": "tt2278388",
+    "Name": "Barney Pilling",
+    "Nominees": "Barney Pilling",
+    "NomineeIds": "nm1306189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Imitation Game",
+    "FilmId": "tt2084970",
+    "Name": "William Goldenberg",
+    "Nominees": "William Goldenberg",
+    "NomineeIds": "nm0325549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Whiplash",
+    "FilmId": "tt2582802",
+    "Name": "Tom Cross",
+    "Nominees": "Tom Cross",
+    "NomineeIds": "nm0189285",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Ida",
+    "FilmId": "tt2718492",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Leviathan",
+    "FilmId": "tt2802154",
+    "Name": "Russia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Tangerines",
+    "FilmId": "tt2991224",
+    "Name": "Estonia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Timbuktu",
+    "FilmId": "tt3409392",
+    "Name": "Mauritania",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Wild Tales",
+    "FilmId": "tt3011894",
+    "Name": "Argentina",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Foxcatcher",
+    "FilmId": "tt1100089",
+    "Name": "Bill Corso and Dennis Liddiard",
+    "Nominees": "Bill Corso|Dennis Liddiard",
+    "NomineeIds": "nm0181134|nm0509187",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "The Grand Budapest Hotel",
+    "FilmId": "tt2278388",
+    "Name": "Frances Hannon and Mark Coulier",
+    "Nominees": "Frances Hannon|Mark Coulier",
+    "NomineeIds": "nm0360470|nm0183418",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Guardians of the Galaxy",
+    "FilmId": "tt2015381",
+    "Name": "Elizabeth Yianni-Georgiou and David White",
+    "Nominees": "Elizabeth Yianni-Georgiou|David White",
+    "NomineeIds": "nm0947958|nm0924675",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Grand Budapest Hotel",
+    "FilmId": "tt2278388",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Imitation Game",
+    "FilmId": "tt2084970",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Interstellar",
+    "FilmId": "tt0816692",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Mr. Turner",
+    "FilmId": "tt2473794",
+    "Name": "Gary Yershon",
+    "Nominees": "Gary Yershon",
+    "NomineeIds": "nm0947665",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Theory of Everything",
+    "FilmId": "tt2980516",
+    "Name": "Jóhann Jóhannsson",
+    "Nominees": "Jóhann Jóhannsson",
+    "NomineeIds": "nm0433580",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Lego Movie",
+    "FilmId": "tt1490017",
+    "Name": "Music and Lyric by Shawn Patterson",
+    "Nominees": "Shawn Patterson",
+    "NomineeIds": "nm0666405",
+    "Winner": "",
+    "Detail": "Everything Is Awesome",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Selma",
+    "FilmId": "tt1020072",
+    "Name": "Music and Lyric by John Stephens and Lonnie Lynn",
+    "Nominees": "John Stephens|Lonnie Lynn",
+    "NomineeIds": "nm1775466|nm0996669",
+    "Winner": "True",
+    "Detail": "Glory",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Beyond the Lights",
+    "FilmId": "tt3125324",
+    "Name": "Music and Lyric by Diane Warren",
+    "Nominees": "Diane Warren",
+    "NomineeIds": "nm0005534",
+    "Winner": "",
+    "Detail": "Grateful",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Glen Campbell...I'll Be Me",
+    "FilmId": "tt2049586",
+    "Name": "Music and Lyric by Glen Campbell and Julian Raymond",
+    "Nominees": "Glen Campbell|Julian Raymond",
+    "NomineeIds": "nm0004794|nm0713305",
+    "Winner": "",
+    "Detail": "I'm Not Gonna Miss You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Begin Again",
+    "FilmId": "tt1980929",
+    "Name": "Music and Lyric by Gregg Alexander and Danielle Brisebois",
+    "Nominees": "Gregg Alexander|Danielle Brisebois",
+    "NomineeIds": "nm1353967|nm0109815",
+    "Winner": "",
+    "Detail": "Lost Stars",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "American Sniper",
+    "FilmId": "tt2179136",
+    "Name": "Clint Eastwood, Robert Lorenz, Andrew Lazar, Bradley Cooper and Peter Morgan, Producers",
+    "Nominees": "Clint Eastwood|Robert Lorenz|Andrew Lazar|Bradley Cooper|Peter Morgan",
+    "NomineeIds": "nm0000142|nm0520749|nm0493662|nm0177896|nm0604950",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "FilmId": "tt2562232",
+    "Name": "Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers",
+    "Nominees": "Alejandro G. Iñárritu|John Lesher|James W. Skotchdopole",
+    "NomineeIds": "nm0327944|nm0971956|nm0804739",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Boyhood",
+    "FilmId": "tt1065073",
+    "Name": "Richard Linklater and Cathleen Sutherland, Producers",
+    "Nominees": "Richard Linklater|Cathleen Sutherland",
+    "NomineeIds": "nm0000500|nm0840060",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Grand Budapest Hotel",
+    "FilmId": "tt2278388",
+    "Name": "Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson, Producers",
+    "Nominees": "Wes Anderson|Scott Rudin|Steven Rales|Jeremy Dawson",
+    "NomineeIds": "nm0027572|nm0748784|nm2262509|nm0206154",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Imitation Game",
+    "FilmId": "tt2084970",
+    "Name": "Nora Grossman, Ido Ostrowsky and Teddy Schwarzman, Producers",
+    "Nominees": "Nora Grossman|Ido Ostrowsky|Teddy Schwarzman",
+    "NomineeIds": "nm3860486|nm1755470|nm3267061",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Selma",
+    "FilmId": "tt1020072",
+    "Name": "Christian Colson, Oprah Winfrey, Dede Gardner and Jeremy Kleiner, Producers",
+    "Nominees": "Christian Colson|Oprah Winfrey|Dede Gardner|Jeremy Kleiner",
+    "NomineeIds": "nm1384503|nm0001856|nm0306890|nm1250070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Theory of Everything",
+    "FilmId": "tt2980516",
+    "Name": "Tim Bevan, Eric Fellner, Lisa Bruce and Anthony McCarten, Producers",
+    "Nominees": "Tim Bevan|Eric Fellner|Lisa Bruce|Anthony McCarten",
+    "NomineeIds": "nm0079677|nm0271479|nm0115537|nm0565026",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Whiplash",
+    "FilmId": "tt2582802",
+    "Name": "Jason Blum, Helen Estabrook and David Lancaster, Producers",
+    "Nominees": "Jason Blum|Helen Estabrook|David Lancaster",
+    "NomineeIds": "nm0089658|nm2615685|nm0484123",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Grand Budapest Hotel",
+    "FilmId": "tt2278388",
+    "Name": "Production Design: Adam Stockhausen; Set Decoration: Anna Pinnock",
+    "Nominees": "Adam Stockhausen|Anna Pinnock",
+    "NomineeIds": "nm1360914|nm0003519",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Imitation Game",
+    "FilmId": "tt2084970",
+    "Name": "Production Design: Maria Djurkovic; Set Decoration: Tatiana Macdonald",
+    "Nominees": "Maria Djurkovic|Tatiana Macdonald",
+    "NomineeIds": "nm0229319|nm0526248",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Interstellar",
+    "FilmId": "tt0816692",
+    "Name": "Production Design: Nathan Crowley; Set Decoration: Gary Fettis",
+    "Nominees": "Nathan Crowley|Gary Fettis",
+    "NomineeIds": "nm0189769|nm0275361",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Into the Woods",
+    "FilmId": "tt2180411",
+    "Name": "Production Design: Dennis Gassner; Set Decoration: Anna Pinnock",
+    "Nominees": "Dennis Gassner|Anna Pinnock",
+    "NomineeIds": "nm0309357|nm0003519",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Mr. Turner",
+    "FilmId": "tt2473794",
+    "Name": "Production Design: Suzie Davies; Set Decoration: Charlotte Watts",
+    "Nominees": "Suzie Davies|Charlotte Watts",
+    "NomineeIds": "nm0203990|nm0915117",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Bigger Picture",
+    "FilmId": "tt3610188",
+    "Name": "Daisy Jacobs and Christopher Hees",
+    "Nominees": "Daisy Jacobs|Christopher Hees",
+    "NomineeIds": "nm4441366|nm3576330",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Dam Keeper",
+    "FilmId": "tt3326262",
+    "Name": "Robert Kondo and Dice Tsutsumi",
+    "Nominees": "Robert Kondo|Dice Tsutsumi",
+    "NomineeIds": "nm2937142|nm1156606",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Feast",
+    "FilmId": "tt3689498",
+    "Name": "Patrick Osborne and Kristina Reed",
+    "Nominees": "Patrick Osborne|Kristina Reed",
+    "NomineeIds": "nm2444148|nm0715534",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Me and My Moulton",
+    "FilmId": "tt3946086",
+    "Name": "Torill Kove",
+    "Nominees": "Torill Kove",
+    "NomineeIds": "nm0468380",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "A Single Life",
+    "FilmId": "tt3838700",
+    "Name": "Joris Oprins",
+    "Nominees": "Joris Oprins",
+    "NomineeIds": "nm1977837",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Aya",
+    "FilmId": "tt2326094",
+    "Name": "Oded Binnun and Mihal Brezis",
+    "Nominees": "Oded Binnun|Mihal Brezis",
+    "NomineeIds": "nm1729068|nm1729072",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Boogaloo and Graham",
+    "FilmId": "tt3612232",
+    "Name": "Michael Lennox and Ronan Blaney",
+    "Nominees": "Michael Lennox|Ronan Blaney",
+    "NomineeIds": "nm3156269|nm3905562",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Butter Lamp (La Lampe Au Beurre De Yak)",
+    "FilmId": "tt2922078",
+    "Name": "Hu Wei and Julien Féret",
+    "Nominees": "Hu Wei|Julien Féret",
+    "NomineeIds": "nm5130656|nm0299676",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Parvaneh",
+    "FilmId": "tt3008010",
+    "Name": "Talkhon Hamzavi and Stefan Eichenberger",
+    "Nominees": "Talkhon Hamzavi|Stefan Eichenberger",
+    "NomineeIds": "nm4422449|nm3022531",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Phone Call",
+    "FilmId": "tt3071532",
+    "Name": "Mat Kirkby and James Lucas",
+    "Nominees": "Mat Kirkby|James Lucas",
+    "NomineeIds": "nm2375389|nm5819328",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "American Sniper",
+    "FilmId": "tt2179136",
+    "Name": "Alan Robert Murray and Bub Asman",
+    "Nominees": "Alan Robert Murray|Bub Asman",
+    "NomineeIds": "nm0614812|nm0039544",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "FilmId": "tt2562232",
+    "Name": "Martín Hernández and Aaron Glascock",
+    "Nominees": "Martín Hernández|Aaron Glascock",
+    "NomineeIds": "nm0380057|nm0321790",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Hobbit: The Battle of the Five Armies",
+    "FilmId": "tt2310332",
+    "Name": "Brent Burge and Jason Canovas",
+    "Nominees": "Brent Burge|Jason Canovas",
+    "NomineeIds": "nm0121151|nm0134417",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Interstellar",
+    "FilmId": "tt0816692",
+    "Name": "Richard King",
+    "Nominees": "Richard King",
+    "NomineeIds": "nm0455185",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Unbroken",
+    "FilmId": "tt1809398",
+    "Name": "Becky Sullivan and Andrew DeCristofaro",
+    "Nominees": "Becky Sullivan|Andrew DeCristofaro",
+    "NomineeIds": "nm0167915|nm0214014",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "American Sniper",
+    "FilmId": "tt2179136",
+    "Name": "John Reitz, Gregg Rudloff and Walt Martin",
+    "Nominees": "John Reitz|Gregg Rudloff|Walt Martin",
+    "NomineeIds": "nm0718676|nm0748832|nm0553190",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "FilmId": "tt2562232",
+    "Name": "Jon Taylor, Frank A. Montaño and Thomas Varga",
+    "Nominees": "Jon Taylor|Frank A. Montaño|Thomas Varga",
+    "NomineeIds": "nm0852656|nm0599057|nm0889746",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Interstellar",
+    "FilmId": "tt0816692",
+    "Name": "Gary A. Rizzo, Gregg Landaker and Mark Weingarten",
+    "Nominees": "Gary A. Rizzo|Gregg Landaker|Mark Weingarten",
+    "NomineeIds": "nm0729886|nm0484414|nm0918319",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Unbroken",
+    "FilmId": "tt1809398",
+    "Name": "Jon Taylor, Frank A. Montaño and David Lee",
+    "Nominees": "Jon Taylor|Frank A. Montaño|David Lee",
+    "NomineeIds": "nm0852656|nm0599057|nm1325883",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Whiplash",
+    "FilmId": "tt2582802",
+    "Name": "Craig Mann, Ben Wilkins and Thomas Curley",
+    "Nominees": "Craig Mann|Ben Wilkins|Thomas Curley",
+    "NomineeIds": "nm1023649|nm0929240|nm1093577",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Captain America: The Winter Soldier",
+    "FilmId": "tt1843866",
+    "Name": "Dan DeLeeuw, Russell Earl, Bryan Grill and Dan Sudick",
+    "Nominees": "Dan DeLeeuw|Russell Earl|Bryan Grill|Dan Sudick",
+    "NomineeIds": "nm0216699|nm0247270|nm0341985|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Dawn of the Planet of the Apes",
+    "FilmId": "tt2103281",
+    "Name": "Joe Letteri, Dan Lemmon, Daniel Barrett and Erik Winquist",
+    "Nominees": "Joe Letteri|Dan Lemmon|Daniel Barrett|Erik Winquist",
+    "NomineeIds": "nm0504784|nm0501424|nm2280778|nm0935445",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Guardians of the Galaxy",
+    "FilmId": "tt2015381",
+    "Name": "Stephane Ceretti, Nicolas Aithadi, Jonathan Fawkner and Paul Corbould",
+    "Nominees": "Stephane Ceretti|Nicolas Aithadi|Jonathan Fawkner|Paul Corbould",
+    "NomineeIds": "nm0148547|nm1212365|nm1000834|nm0179274",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Interstellar",
+    "FilmId": "tt0816692",
+    "Name": "Paul Franklin, Andrew Lockley, Ian Hunter and Scott Fisher",
+    "Nominees": "Paul Franklin|Andrew Lockley|Ian Hunter|Scott Fisher",
+    "NomineeIds": "nm0291518|nm0516916|nm0402843|nm0279782",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "X-Men: Days of Future Past",
+    "FilmId": "tt1877832",
+    "Name": "Richard Stammers, Lou Pecora, Tim Crosbie and Cameron Waldbauer",
+    "Nominees": "Richard Stammers|Lou Pecora|Tim Crosbie|Cameron Waldbauer",
+    "NomineeIds": "nm0821868|nm1022027|nm0188963|nm0907030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "American Sniper",
+    "FilmId": "tt2179136",
+    "Name": "Written by Jason Hall",
+    "Nominees": "Jason Hall",
+    "NomineeIds": "nm0355699",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Imitation Game",
+    "FilmId": "tt2084970",
+    "Name": "Written by Graham Moore",
+    "Nominees": "Graham Moore",
+    "NomineeIds": "nm2441699",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Inherent Vice",
+    "FilmId": "tt1791528",
+    "Name": "Written for the screen by Paul Thomas Anderson",
+    "Nominees": "Paul Thomas Anderson",
+    "NomineeIds": "nm0000759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Theory of Everything",
+    "FilmId": "tt2980516",
+    "Name": "Screenplay by Anthony McCarten",
+    "Nominees": "Anthony McCarten",
+    "NomineeIds": "nm0565026",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Whiplash",
+    "FilmId": "tt2582802",
+    "Name": "Written by Damien Chazelle",
+    "Nominees": "Damien Chazelle",
+    "NomineeIds": "nm3227090",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "FilmId": "tt2562232",
+    "Name": "Written by Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Jr. & Armando Bo",
+    "Nominees": "Alejandro G. Iñárritu|Nicolás Giacobone|Alexander Dinelaris Jr.|Armando Bo",
+    "NomineeIds": "nm0327944|nm1481172|nm5409486|nm3174584",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Boyhood",
+    "FilmId": "tt1065073",
+    "Name": "Written by Richard Linklater",
+    "Nominees": "Richard Linklater",
+    "NomineeIds": "nm0000500",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Foxcatcher",
+    "FilmId": "tt1100089",
+    "Name": "Written by E. Max Frye and Dan Futterman",
+    "Nominees": "E. Max Frye|Dan Futterman",
+    "NomineeIds": "nm0296861|nm0001246",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Grand Budapest Hotel",
+    "FilmId": "tt2278388",
+    "Name": "Screenplay by Wes Anderson; Story by Wes Anderson & Hugo Guinness",
+    "Nominees": "Wes Anderson|Hugo Guinness",
+    "NomineeIds": "nm0027572|nm2450453",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Nightcrawler",
+    "FilmId": "tt2872718",
+    "Name": "Written by Dan Gilroy",
+    "Nominees": "Dan Gilroy",
+    "NomineeIds": "nm0319659",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Harry Belafonte",
+    "Nominees": "Harry Belafonte",
+    "NomineeIds": "nm0000896",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jean-Claude Carrière",
+    "NomineeIds": "nm0140643",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Jean-Claude Carrière, whose elegantly crafted screenplays elevate the art of screenwriting to the level of literature."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hayao Miyazaki",
+    "NomineeIds": "nm0594503",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Hayao Miyazaki, a master storyteller whose animated artistry has inspired filmmakers and audiences around the world."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Maureen O'Hara",
+    "NomineeIds": "nm0000058",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Maureen O'Hara, one of Hollywood's brightest stars, whose inspiring performances glowed with passion, warmth and strength."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Winchester Gray",
+    "NomineeIds": "nm0336561",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "David Winchester Gray"
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Larry Hornbeck",
+    "NomineeIds": "nm7052379",
+    "Winner": "True",
+    "Detail": "Digital Apparatuses Technology",
+    "Note": "The Digital Micromirror Device (DMD) is the core technology that has enabled Texas Instruments' DLP Cinema projection to become the standard of the motion picture industry.",
+    "Citation": "To DR. LARRY HORNBECK for the invention of digital micromirror technology as used in DLP Cinema projection."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Iain Neil|ANDRÉ De Winter",
+    "NomineeIds": "nm7052364|nm7052365",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "Incorporating novel telecentric multi-element aspherical optics, these camera lenses have delivered unprecedented optical and mechanical performance.",
+    "Citation": "To IAIN NEIL for the optical design, and to ANDRÉ DE WINTER for the mechanical design, of the Leica Summilux-C series of lenses."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Brad Walker|D. Scott Dewald|Bill Werner|Greg Pettitt|Frank Poradish",
+    "NomineeIds": "nm7052366|nm7052367|nm7052368|nm7052369|nm6140425",
+    "Winner": "True",
+    "Detail": "Digital Apparatuses Technology",
+    "Note": "Working in conjunction with the film industry, Texas Instruments created a high-resolution, high-quality digital projection system that has replaced most film-based projection systems in the theatrical environment.",
+    "Citation": "To BRAD WALKER, D. SCOTT DEWALD, BILL WERNER, GREG PETTITT and FRANK PORADISH for their contributions furthering the design and refinement of the Texas Instruments DLP Cinema projection technology, whose high level of performance enabled color-accurate digital intermediate preview and motion picture theatrical presentation."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ichiro Tsutsui|Masahiro Take|Mitsuyasu Tamura|Mitsuru Asano",
+    "NomineeIds": "nm7052370|nm7052371|nm7052372|nm7052373",
+    "Winner": "True",
+    "Detail": "Digital Apparatuses Technology",
+    "Note": "These precise, wide-gamut monitors allow creative image decisions to be made on set with confidence that the desired images can be accurately reproduced in post-production.",
+    "Citation": "To ICHIRO TSUTSUI, MASAHIRO TAKE, MITSUYASU TAMURA and MITSURU ASANO for the development of the Sony BVM-E Series Professional OLED Master Monitor."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Frederick|Bob Myers|Karl Rasche|Tom Lianza",
+    "NomineeIds": "nm7052374|nm7052375|nm5961413|nm7052376",
+    "Winner": "True",
+    "Detail": "Digital Apparatuses Technology",
+    "Note": "This cost-effective display offered a stable, wide color gamut, allowing facility-wide adoption in feature animation and visual effects studios.",
+    "Citation": "To JOHN FREDERICK, BOB MYERS, KARL RASCHE and TOM LIANZA for the development of the HP DreamColor LP2480zx Professional Display."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Peter Braun",
+    "NomineeIds": "nm6611810",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "This small cross-section system from Mad About Technology can operate from above or below the camera, achieving nearly impossible shots with repeatable movements through openings no larger than the camera itself.",
+    "Citation": "To PETER BRAUN for the concept and development of the MAT-Towercam Twin Peek, a portable, remote-controlled, telescoping column that smoothly positions a camera up to 24 feet vertically."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Robert Nagle|Allan Padelford",
+    "NomineeIds": "nm1103524|nm0655634",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "The Biscuit Jr.'s unique chassis and portable driver pod enables traveling photography from a greater range of camera positions than previously possible, while keeping actors safe and the rig out of frame.",
+    "Citation": "To ROBERT NAGLE and ALLAN PADELFORD for The Biscuit Jr. self-propelled, high-performance, drivable camera and vehicle platform."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Harold Milligan|Steven Krycho|Reiner Doetzkies",
+    "NomineeIds": "nm7052354|nm7052355|nm7052356",
+    "Winner": "True",
+    "Detail": "Digital Apparatuses Technology",
+    "Note": "Texas Instruments' color-accurate, high-resolution, high-quality digital projection system has replaced most film-based projection systems in the theatrical environment.",
+    "Citation": "To HAROLD MILLIGAN, STEVEN KRYCHO and REINER DOETZKIES for the implementation engineering in the development of the Texas Instruments DLP Cinema digital projection technology."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Cary Phillips|Nicolas Popravka|Philip Peterson|Colette Mullenhoff",
+    "NomineeIds": "nm0680288|nm0691612|nm0677342|nm2194235",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This comprehensive system allows artists to quickly enhance and modify character animation and simulation performances. It has become a crucial part of ILM's production workflow over the past decade.",
+    "Citation": "To CARY PHILLIPS, NICOLAS POPRAVKA, PHILIP PETERSON and COLETTE MULLENHOFF for the architecture, development and creation of the artist-driven interface of the ILM Shape Sculpting System."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Tim Cotter|Roger Van Der Laan|Ken Pearce|GREG LaSALLE",
+    "NomineeIds": "nm7052357|nm7052358|nm1112994|nm3040632",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The MOVA system provides a robust way to capture highly detailed, topologically consistent, animated meshes of a deforming object. This technology is fundamental to the facial pipeline at many visual effects companies. It allows artists to create character animation of extremely high quality.",
+    "Citation": "To TIM COTTER, ROGER VAN DER LAAN, KEN PEARCE and GREG LaSALLE for the innovative design and development of the MOVA Facial Performance Capture system."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dan Piponi|Kim Libreri|George Borshukov",
+    "NomineeIds": "nm0685004|nm0508912|nm0097474",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The Universal Capture system broke new ground in the creation of realistic human facial animation. This technology produced an animated, high-resolution, textured mesh driven by an actor's performance.",
+    "Citation": "To DAN PIPONI, KIM LIBRERI and GEORGE BORSHUKOV for their pioneering work in the development of Universal Capture at ESC Entertainment."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Marco Revelant|Alasdair Coull|Shane Cooper",
+    "NomineeIds": "nm1465667|nm2024498|nm1152433",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Barbershop's unique architecture allows direct manipulation of full-density hair using an intuitive, interactive and procedural toolset, resulting in greatly enhanced productivity with finer-grained artistic control than is possible with other existing systems.",
+    "Citation": "To MARCO REVELANT for the original concepts and artistic vision, and to ALASDAIR COULL and SHANE COOPER for the original architectural and engineering design, of the Barbershop hair grooming system at Weta Digital."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Michael Sechrest|Chris King|Greg Croft",
+    "NomineeIds": "nm7052359|nm7052360|nm7052361",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This software substantially improves an artist's ability to create specifically designed trees and vegetation by combining a procedural building process with the flexibility of intuitive, direct manipulation of every detail.",
+    "Citation": "To MICHAEL SECHREST for the modeling design and implementation, CHRIS KING for the real-time interactive engineering, and GREG CROFT for the user interface design and implementation of SpeedTree Cinema."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Scott Peterson|Jeff Budsberg|Jonathan Gibbs",
+    "NomineeIds": "nm1661116|nm3186694|nm1634343",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This toolset has a hierarchical spline system, a core data format and an artist-driven modeling tool, which have been instrumental in creating art-directed vegetation in animated films for nearly two decades.",
+    "Citation": "To SCOTT PETERSON, JEFF BUDSBERG and JONATHAN GIBBS for the design and implementation of the DreamWorks Animation Foliage System."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Erwin Coumans|Nafees Bin Zafar|Stephen Marshall",
+    "NomineeIds": "nm7052362|nm2534738|nm1547687",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "These pioneering systems demonstrated that large numbers of constrained rigid bodies could be used to animate visually complex, believable destruction effects with minimal simulation time.",
+    "Citation": "To ERWIN COUMANS for the development of the Bullet physics library, and to NAFEES BIN ZAFAR and STEPHEN MARSHALL for the separate development of two large-scale destruction simulation systems based on Bullet."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Brice Criswell|Ron Fedkiw",
+    "NomineeIds": "nm1216195|nm1730590",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This system incorporates innovative research on many algorithms that provide accurate methods for resolving contact, collision and stacking into a mature, robust and extensible production toolset. The PhysBAM Destruction System was one of the earliest toolsets capable of depicting large-scale destruction with a high degree of design control.",
+    "Citation": "To BRICE CRISWELL and RON FEDKIW for the development of the ILM PhysBAM Destruction System."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ben Cole|Eric Parker|James O'Brien",
+    "NomineeIds": "nm3200516|nm7052363|nm5586298",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The combined innovations in Kali and DMM provide artists with an intuitive, art-directable system for the creation of scalable and realistic fracture and deformation simulations. These tools established finite element methods as a new reference point for believable on-screen destruction.",
+    "Citation": "To BEN COLE for the design of the Kali Destruction System, to ERIC PARKER for the development of the Digital Molecular Matter toolkit, and to JAMES O'BRIEN for his influential research on the finite element methods that served as a foundation for these tools."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Magnus Wrenninge",
+    "NomineeIds": "nm1629622",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Field3D provides a flexible and open framework for storing and accessing voxel data efficiently. This allows interchange between previously incompatible modeling, simulation and rendering software.",
+    "Citation": "To MAGNUS WRENNINGE for leading the design and development of Field3D."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Robert Bridson",
+    "NomineeIds": "nm4897744",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Robert Bridson's pioneering work on voxel data structures and its subsequent validation in fluid simulation tools have had a significant impact on the design of volumetric tools throughout the visual effects industry.",
+    "Citation": "To ROBERT BRIDSON for early conceptualization of sparse-tiled voxel data structures and their application to modeling and simulation."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "KEN MUSETH|PETER CUCKA|MIHAI ALDÉN",
+    "NomineeIds": "nm3093155|nm5961406|nm5961405",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "OpenVDB is a widely adopted, sparse hierarchical data structure that provides a fast and efficient mechanism for storing and manipulating voxels.",
+    "Citation": "To KEN MUSETH, PETER CUCKA and MIHAI ALDÉN for the creation of OpenVDB."
+  },
+  {
+    "Ceremony": 87,
+    "Year": 2014,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steven Tiffen|Jeff Cohen|Michael Fecik",
+    "NomineeIds": "nm6240105|nm7052377|nm7052378",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "The Tiffen Company identified the problem and rapidly engineered a series of absorptive filters that ameliorated infrared artifacts with lenses of all focal lengths. These widely adopted filters allow cinematographers to work as they have done with film-based technology.",
+    "Citation": "To Steven Tiffen, Jeff Cohen and Michael Fecik for their pioneering work in developing dye-based filters that reduce IR contamination when neutral density filters are used with digital cameras."
+  }
 ]

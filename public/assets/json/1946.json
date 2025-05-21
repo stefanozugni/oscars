@@ -1,1510 +1,1826 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1946",
-    "nominees": [
-      "The Best Years of Our Lives"
-    ],
-    "movies": [
-      {
-        "title": "The Best Years of Our Lives",
-        "tmdb_id": 887,
-        "imdb_id": "tt0036868"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1946",
-    "nominees": [
-      "Henry V"
-    ],
-    "movies": [
-      {
-        "title": "Henry V",
-        "tmdb_id": 22638,
-        "imdb_id": "tt0036910"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1946",
-    "nominees": [
-      "It's a Wonderful Life"
-    ],
-    "movies": [
-      {
-        "title": "It's a Wonderful Life",
-        "tmdb_id": 1585,
-        "imdb_id": "tt0038650"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1946",
-    "nominees": [
-      "The Razor's Edge"
-    ],
-    "movies": [
-      {
-        "title": "The Razor's Edge",
-        "tmdb_id": 56135,
-        "imdb_id": "tt0038873"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1946",
-    "nominees": [
-      "The Yearling"
-    ],
-    "movies": [
-      {
-        "title": "The Yearling",
-        "tmdb_id": 19049,
-        "imdb_id": "tt0039111"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1946",
-    "nominees": [
-      "Frederic March"
-    ],
-    "movies": [
-      {
-        "title": "The Best Years of Our Lives",
-        "tmdb_id": 887,
-        "imdb_id": "tt0036868"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1946",
-    "nominees": [
-      "Laurence Olivier"
-    ],
-    "movies": [
-      {
-        "title": "Henry V",
-        "tmdb_id": 22638,
-        "imdb_id": "tt0036910"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1946",
-    "nominees": [
-      "Larry Parks"
-    ],
-    "movies": [
-      {
-        "title": "The Jolson Story",
-        "tmdb_id": 31206,
-        "imdb_id": "tt0038661"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1946",
-    "nominees": [
-      "Gregory Peck"
-    ],
-    "movies": [
-      {
-        "title": "The Yearling",
-        "tmdb_id": 19049,
-        "imdb_id": "tt0039111"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1946",
-    "nominees": [
-      "James Stewart"
-    ],
-    "movies": [
-      {
-        "title": "It's a Wonderful Life",
-        "tmdb_id": 1585,
-        "imdb_id": "tt0038650"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1946",
-    "nominees": [
-      "Olivia de Havilland"
-    ],
-    "movies": [
-      {
-        "title": "To Each His Own",
-        "tmdb_id": 54568,
-        "imdb_id": "tt0039040"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1946",
-    "nominees": [
-      "Celia Johnson"
-    ],
-    "movies": [
-      {
-        "title": "Brief Encounter",
-        "tmdb_id": 851,
-        "imdb_id": "tt0037558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1946",
-    "nominees": [
-      "Jennifer Jones"
-    ],
-    "movies": [
-      {
-        "title": "Duel in the Sun",
-        "tmdb_id": 32275,
-        "imdb_id": "tt0038499"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1946",
-    "nominees": [
-      "Rosalind Russell"
-    ],
-    "movies": [
-      {
-        "title": "Sister Kenny",
-        "tmdb_id": 51571,
-        "imdb_id": "tt0038948"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1946",
-    "nominees": [
-      "Jane Wyman"
-    ],
-    "movies": [
-      {
-        "title": "The Yearling",
-        "tmdb_id": 19049,
-        "imdb_id": "tt0039111"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1946",
-    "nominees": [
-      "Harold Russell"
-    ],
-    "movies": [
-      {
-        "title": "The Best Years of Our Lives",
-        "tmdb_id": 887,
-        "imdb_id": "tt0036868"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1946",
-    "nominees": [
-      "Charles Coburn"
-    ],
-    "movies": [
-      {
-        "title": "The Green Years",
-        "tmdb_id": 99351,
-        "imdb_id": "tt0038578"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1946",
-    "nominees": [
-      "William Demarest"
-    ],
-    "movies": [
-      {
-        "title": "The Jolson Story",
-        "tmdb_id": 31206,
-        "imdb_id": "tt0038661"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1946",
-    "nominees": [
-      "Claude Rains"
-    ],
-    "movies": [
-      {
-        "title": "Notorious",
-        "tmdb_id": 303,
-        "imdb_id": "tt0038787"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1946",
-    "nominees": [
-      "Clifton Webb"
-    ],
-    "movies": [
-      {
-        "title": "The Razor's Edge",
-        "tmdb_id": 56135,
-        "imdb_id": "tt0038873"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1946",
-    "nominees": [
-      "Anne Baxter"
-    ],
-    "movies": [
-      {
-        "title": "The Razor's Edge",
-        "tmdb_id": 56135,
-        "imdb_id": "tt0038873"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1946",
-    "nominees": [
-      "Ethel Barrymore"
-    ],
-    "movies": [
-      {
-        "title": "The Spiral Staircase",
-        "tmdb_id": 27452,
-        "imdb_id": "tt0038975"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1946",
-    "nominees": [
-      "Lillian Gish"
-    ],
-    "movies": [
-      {
-        "title": "Duel in the Sun",
-        "tmdb_id": 32275,
-        "imdb_id": "tt0038499"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1946",
-    "nominees": [
-      "Flora Robson"
-    ],
-    "movies": [
-      {
-        "title": "Saratoga Trunk",
-        "tmdb_id": 46563,
-        "imdb_id": "tt0038053"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1946",
-    "nominees": [
-      "Gale Sondergaard"
-    ],
-    "movies": [
-      {
-        "title": "Anna and the King of Siam",
-        "tmdb_id": 43471,
-        "imdb_id": "tt0038303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1946",
-    "nominees": [
-      "William Wyler"
-    ],
-    "movies": [
-      {
-        "title": "The Best Years of Our Lives",
-        "tmdb_id": 887,
-        "imdb_id": "tt0036868"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1946",
-    "nominees": [
-      "Clarence Brown"
-    ],
-    "movies": [
-      {
-        "title": "The Yearling",
-        "tmdb_id": 19049,
-        "imdb_id": "tt0039111"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1946",
-    "nominees": [
-      "Frank Capra"
-    ],
-    "movies": [
-      {
-        "title": "It's a Wonderful Life",
-        "tmdb_id": 1585,
-        "imdb_id": "tt0038650"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1946",
-    "nominees": [
-      "David Lean"
-    ],
-    "movies": [
-      {
-        "title": "Brief Encounter",
-        "tmdb_id": 851,
-        "imdb_id": "tt0037558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1946",
-    "nominees": [
-      "Robert Siodmak"
-    ],
-    "movies": [
-      {
-        "title": "The Killers",
-        "tmdb_id": 14638,
-        "imdb_id": "tt0038669"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Robert Sherwood"
-    ],
-    "movies": [
-      {
-        "title": "The Best Years of Our Lives",
-        "tmdb_id": 887,
-        "imdb_id": "tt0036868"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Sergio Amidei",
-      "Federico Fellini"
-    ],
-    "movies": [
-      {
-        "title": "Rome, Open City",
-        "tmdb_id": 307,
-        "imdb_id": "tt0038890"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Sally Benson",
-      "Talbot Jennings"
-    ],
-    "movies": [
-      {
-        "title": "Anna and the King of Siam",
-        "tmdb_id": 43471,
-        "imdb_id": "tt0038303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Anthony Havelock-Allan",
-      "David Lean",
-      "Ronald Neame"
-    ],
-    "movies": [
-      {
-        "title": "Brief Encounter",
-        "tmdb_id": 851,
-        "imdb_id": "tt0037558"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Anthony Veiller"
-    ],
-    "movies": [
-      {
-        "title": "The Killers",
-        "tmdb_id": 14638,
-        "imdb_id": "tt0038669"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Muriel Box",
-      "Sydney Box"
-    ],
-    "movies": [
-      {
-        "title": "The Seventh Veil",
-        "tmdb_id": 43495,
-        "imdb_id": "tt0038924"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Raymond Chandler"
-    ],
-    "movies": [
-      {
-        "title": "The Blue Dahlia",
-        "tmdb_id": 16090,
-        "imdb_id": "tt0038369"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Ben Hecht"
-    ],
-    "movies": [
-      {
-        "title": "Notorious",
-        "tmdb_id": 303,
-        "imdb_id": "tt0038787"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Norman Panama",
-      "Melvin Frank"
-    ],
-    "movies": [
-      {
-        "title": "Road to Utopia",
-        "tmdb_id": 29021,
-        "imdb_id": "tt0038032"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1946",
-    "nominees": [
-      "Jacques Prevert"
-    ],
-    "movies": [
-      {
-        "title": "Children of Paradise",
-        "tmdb_id": 2457,
-        "imdb_id": "tt0037674"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1946",
-    "nominees": [
-      "Clemence Dane"
-    ],
-    "movies": [
-      {
-        "title": "Perfect Strangers",
-        "tmdb_id": 182756,
-        "imdb_id": "tt0037980"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1946",
-    "nominees": [
-      "Charles Brackett"
-    ],
-    "movies": [
-      {
-        "title": "To Each His Own",
-        "tmdb_id": 54568,
-        "imdb_id": "tt0039040"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1946",
-    "nominees": [
-      "Jack Patrick"
-    ],
-    "movies": [
-      {
-        "title": "The Strange Love of Martha Ivers",
-        "tmdb_id": 27033,
-        "imdb_id": "tt0038988"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1946",
-    "nominees": [
-      "Vladimir Pozner"
-    ],
-    "movies": [
-      {
-        "title": "The Dark Mirror",
-        "tmdb_id": 44041,
-        "imdb_id": "tt0038455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1946",
-    "nominees": [
-      "Victor Trivas"
-    ],
-    "movies": [
-      {
-        "title": "The Stranger",
-        "tmdb_id": 20246,
-        "imdb_id": "tt0038991"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1946",
-    "nominees": [
-      "Hugo Friedhofer"
-    ],
-    "movies": [
-      {
-        "title": "The Best Years of Our Lives",
-        "tmdb_id": 887,
-        "imdb_id": "tt0036868"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1946",
-    "nominees": [
-      "Bernard Herrmann"
-    ],
-    "movies": [
-      {
-        "title": "Anna and the King of Siam",
-        "tmdb_id": 43471,
-        "imdb_id": "tt0038303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1946",
-    "nominees": [
-      "Miklos Rozsa"
-    ],
-    "movies": [
-      {
-        "title": "The Killers",
-        "tmdb_id": 14638,
-        "imdb_id": "tt0038669"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1946",
-    "nominees": [
-      "William Walton"
-    ],
-    "movies": [
-      {
-        "title": "Henry V",
-        "tmdb_id": 22638,
-        "imdb_id": "tt0036910"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1946",
-    "nominees": [
-      "Franz Waxman"
-    ],
-    "movies": [
-      {
-        "title": "Humoresque",
-        "tmdb_id": 26701,
-        "imdb_id": "tt0038622"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1946",
-    "nominees": [
-      "Morris Stoloff"
-    ],
-    "movies": [
-      {
-        "title": "The Jolson Story",
-        "tmdb_id": 31206,
-        "imdb_id": "tt0038661"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1946",
-    "nominees": [
-      "Robert Emmett Dolan"
-    ],
-    "movies": [
-      {
-        "title": "Blue Skies",
-        "tmdb_id": 53446,
-        "imdb_id": "tt0038370"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1946",
-    "nominees": [
-      "Lennie Hayton"
-    ],
-    "movies": [
-      {
-        "title": "The Harvey Girls",
-        "tmdb_id": 28907,
-        "imdb_id": "tt0038589"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1946",
-    "nominees": [
-      "Ray Heindorf",
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "Night and Day",
-        "tmdb_id": 43485,
-        "imdb_id": "tt0038776"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1946",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "Centennial Summer",
-        "tmdb_id": 118908,
-        "imdb_id": "tt0038406"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1946",
-    "nominees": [
-      "On the Atchison",
-      "Topeka",
-      "the Santa Fe"
-    ],
-    "movies": [
-      {
-        "title": "The Harvey Girls",
-        "tmdb_id": 28907,
-        "imdb_id": "tt0038589"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1946",
-    "nominees": [
-      "All Through the Day"
-    ],
-    "movies": [
-      {
-        "title": "Centennial Summer",
-        "tmdb_id": 118908,
-        "imdb_id": "tt0038406"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1946",
-    "nominees": [
-      "I Can't Begin to Tell You"
-    ],
-    "movies": [
-      {
-        "title": "The Dolly Sisters",
-        "tmdb_id": 107973,
-        "imdb_id": "tt0037651"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1946",
-    "nominees": [
-      "Ole Buttermilk Sky"
-    ],
-    "movies": [
-      {
-        "title": "Canyon Passage",
-        "tmdb_id": 37309,
-        "imdb_id": "tt0038395"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1946",
-    "nominees": [
-      "You Keep Coming Back Like a Song"
-    ],
-    "movies": [
-      {
-        "title": "Blue Skies",
-        "tmdb_id": 53446,
-        "imdb_id": "tt0038370"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1946",
-    "nominees": [
-      "Seeds of Destiny"
-    ],
-    "movies": [
-      {
-        "title": "Seeds of Destiny",
-        "tmdb_id": 240417,
-        "imdb_id": "tt0038919"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1946",
-    "nominees": [
-      "Atomic Power!"
-    ],
-    "movies": [
-      {
-        "title": "Atomic Power!",
-        "tmdb_id": 240418,
-        "imdb_id": "tt0038312"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1946",
-    "nominees": [
-      "Life at the Zoo"
-    ],
-    "movies": [
-      {
-        "title": "Life at the Zoo",
-        "tmdb_id": 240419,
-        "imdb_id": "tt0038690"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1946",
-    "nominees": [
-      "Paramount News Issue #37"
-    ],
-    "movies": [
-      {
-        "title": "Paramount News Issue #37",
-        "tmdb_id": 240420,
-        "imdb_id": "tt0038825"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1946",
-    "nominees": [
-      "Traffic with the Devil"
-    ],
-    "movies": [
-      {
-        "title": "Traffic with the Devil",
-        "tmdb_id": 240422,
-        "imdb_id": "tt0039043"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1946",
-    "nominees": [
-      "The Cat Concerto"
-    ],
-    "movies": [
-      {
-        "title": "The Cat Concerto",
-        "tmdb_id": 39853,
-        "imdb_id": "tt0039251"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1946",
-    "nominees": [
-      "Musical Moments from Chopin"
-    ],
-    "movies": [
-      {
-        "title": "Musical Moments from Chopin",
-        "tmdb_id": 237049,
-        "imdb_id": "tt0038413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1946",
-    "nominees": [
-      "John Henry and the Inky-Poo"
-    ],
-    "movies": [
-      {
-        "title": "John Henry and the Inky-Poo",
-        "tmdb_id": 237065,
-        "imdb_id": "tt0038657"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1946",
-    "nominees": [
-      "Squatter's Rights"
-    ],
-    "movies": [
-      {
-        "title": "Squatter's Rights",
-        "tmdb_id": 68512,
-        "imdb_id": "tt0038978"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1946",
-    "nominees": [
-      "Walky Talky Hawky"
-    ],
-    "movies": [
-      {
-        "title": "Walky Talky Hawky",
-        "tmdb_id": 100388,
-        "imdb_id": "tt0039093"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1946",
-    "nominees": [
-      "Facing Your Danger"
-    ],
-    "movies": [
-      {
-        "title": "Facing Your Danger",
-        "tmdb_id": 240410,
-        "imdb_id": "tt0038515"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1946",
-    "nominees": [
-      "Dive-Hi Champs"
-    ],
-    "movies": [
-      {
-        "title": "Dive-Hi Champs",
-        "tmdb_id": 240411,
-        "imdb_id": "tt0038483"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1946",
-    "nominees": [
-      "Golden Horses"
-    ],
-    "movies": [
-      {
-        "title": "Golden Horses",
-        "tmdb_id": 240414,
-        "imdb_id": "tt0038569"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1946",
-    "nominees": [
-      "Smart as a Fox"
-    ],
-    "movies": [
-      {
-        "title": "Smart as a Fox",
-        "tmdb_id": 240415,
-        "imdb_id": "tt0038953"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1946",
-    "nominees": [
-      "Sure Cures"
-    ],
-    "movies": [
-      {
-        "title": "Sure Cures",
-        "tmdb_id": 240416,
-        "imdb_id": "tt0038998"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1946",
-    "nominees": [
-      "A Boy and His Dog"
-    ],
-    "movies": [
-      {
-        "title": "A Boy and His Dog",
-        "tmdb_id": 240406,
-        "imdb_id": "tt0038379"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1946",
-    "nominees": [
-      "College Queen"
-    ],
-    "movies": [
-      {
-        "title": "College Queen",
-        "tmdb_id": 240408,
-        "imdb_id": "tt0038421"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1946",
-    "nominees": [
-      "Hiss and Yell"
-    ],
-    "movies": [
-      {
-        "title": "Hiss and Yell",
-        "tmdb_id": 240409,
-        "imdb_id": "tt0038602"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1946",
-    "nominees": [
-      "The Luckiest Guy in the World"
-    ],
-    "movies": [
-      {
-        "title": "The Luckiest Guy in the World",
-        "tmdb_id": 130356,
-        "imdb_id": "tt0038708"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1946",
-    "nominees": [
-      "William S. Darling",
-      "Lyle Wheeler",
-      "Thomas Little",
-      "Frank E. Hughes"
-    ],
-    "movies": [
-      {
-        "title": "Anna and the King of Siam",
-        "tmdb_id": 43471,
-        "imdb_id": "tt0038303"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1946",
-    "nominees": [
-      "Richard Day",
-      "Nathan H. Juran",
-      "Thomas Little",
-      "Paul S. Fox"
-    ],
-    "movies": [
-      {
-        "title": "The Razor's Edge",
-        "tmdb_id": 56135,
-        "imdb_id": "tt0038873"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1946",
-    "nominees": [
-      "Hans Dreier",
-      "Walter H. Tyler",
-      "Samuel M. Comer",
-      "Ray Moyer"
-    ],
-    "movies": [
-      {
-        "title": "Kitty",
-        "tmdb_id": 106882,
-        "imdb_id": "tt0037849"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1946",
-    "nominees": [
-      "Cedric Gibbons",
-      "Paul Groesse",
-      "Edwin B. Willis"
-    ],
-    "movies": [
-      {
-        "title": "The Yearling",
-        "tmdb_id": 19049,
-        "imdb_id": "tt0039111"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1946",
-    "nominees": [
-      "John Bryan"
-    ],
-    "movies": [
-      {
-        "title": "Caesar and Cleopatra",
-        "tmdb_id": 31561,
-        "imdb_id": "tt0038390"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1946",
-    "nominees": [
-      "Paul Sheriff",
-      "Carmen Dillon"
-    ],
-    "movies": [
-      {
-        "title": "Henry V",
-        "tmdb_id": 22638,
-        "imdb_id": "tt0036910"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1946",
-    "nominees": [
-      "Arthur C. Miller"
-    ],
-    "movies": [
-      {
-        "title": "Anna and the King of Siam",
-        "tmdb_id": 43471,
-        "imdb_id": "tt0038303"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1946",
-    "nominees": [
-      "George Folsey"
-    ],
-    "movies": [
-      {
-        "title": "The Green Years",
-        "tmdb_id": 99351,
-        "imdb_id": "tt0038578"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1946",
-    "nominees": [
-      "Charles Rosher",
-      "Leonard Smith",
-      "Arthur E. Arling"
-    ],
-    "movies": [
-      {
-        "title": "The Yearling",
-        "tmdb_id": 19049,
-        "imdb_id": "tt0039111"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1946",
-    "nominees": [
-      "Joseph Walker"
-    ],
-    "movies": [
-      {
-        "title": "The Jolson Story",
-        "tmdb_id": 31206,
-        "imdb_id": "tt0038661"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1946",
-    "nominees": [
-      "Daniel Mandell"
-    ],
-    "movies": [
-      {
-        "title": "The Best Years of Our Lives",
-        "tmdb_id": 887,
-        "imdb_id": "tt0036868"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1946",
-    "nominees": [
-      "Arthur Hilton"
-    ],
-    "movies": [
-      {
-        "title": "The Killers",
-        "tmdb_id": 14638,
-        "imdb_id": "tt0038669"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1946",
-    "nominees": [
-      "William Hornbeck"
-    ],
-    "movies": [
-      {
-        "title": "It's a Wonderful Life",
-        "tmdb_id": 1585,
-        "imdb_id": "tt0038650"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1946",
-    "nominees": [
-      "Harold Kress"
-    ],
-    "movies": [
-      {
-        "title": "The Yearling",
-        "tmdb_id": 19049,
-        "imdb_id": "tt0039111"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1946",
-    "nominees": [
-      "William Lyon"
-    ],
-    "movies": [
-      {
-        "title": "The Jolson Story",
-        "tmdb_id": 31206,
-        "imdb_id": "tt0038661"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1946",
-    "nominees": [
-      "Thomas Howard"
-    ],
-    "movies": [
-      {
-        "title": "Blithe Spirit",
-        "tmdb_id": 19072,
-        "imdb_id": "tt0038363"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1946",
-    "nominees": [
-      "William McGann"
-    ],
-    "movies": [
-      {
-        "title": "A Stolen Life",
-        "tmdb_id": 43470,
-        "imdb_id": "tt0038984"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1946",
-    "nominees": [
-      "John Livadary"
-    ],
-    "movies": [
-      {
-        "title": "The Jolson Story",
-        "tmdb_id": 31206,
-        "imdb_id": "tt0038661"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1946",
-    "nominees": [
-      "Gordon E. Sawyer"
-    ],
-    "movies": [
-      {
-        "title": "The Best Years of Our Lives",
-        "tmdb_id": 887,
-        "imdb_id": "tt0036868"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1946",
-    "nominees": [
-      "John Aalberg"
-    ],
-    "movies": [
-      {
-        "title": "It's a Wonderful Life",
-        "tmdb_id": 1585,
-        "imdb_id": "tt0038650"
-      }
-    ],
-    "won": false
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Best Years of Our Lives",
+    "FilmId": "tt0036868",
+    "Name": "Fredric March",
+    "Nominees": "Fredric March",
+    "NomineeIds": "nm0545298",
+    "Winner": "True",
+    "Detail": "Al Stephenson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Henry V",
+    "FilmId": "tt0036910",
+    "Name": "Laurence Olivier",
+    "Nominees": "Laurence Olivier",
+    "NomineeIds": "nm0000059",
+    "Winner": "",
+    "Detail": "Henry V",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Jolson Story",
+    "FilmId": "tt0038661",
+    "Name": "Larry Parks",
+    "Nominees": "Larry Parks",
+    "NomineeIds": "nm0662972",
+    "Winner": "",
+    "Detail": "Al Jolson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Yearling",
+    "FilmId": "tt0039111",
+    "Name": "Gregory Peck",
+    "Nominees": "Gregory Peck",
+    "NomineeIds": "nm0000060",
+    "Winner": "",
+    "Detail": "Pa Baxter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "It's a Wonderful Life",
+    "FilmId": "tt0038650",
+    "Name": "James Stewart",
+    "Nominees": "James Stewart",
+    "NomineeIds": "nm0000071",
+    "Winner": "",
+    "Detail": "George Bailey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Green Years",
+    "FilmId": "tt0038578",
+    "Name": "Charles Coburn",
+    "Nominees": "Charles Coburn",
+    "NomineeIds": "nm0002013",
+    "Winner": "",
+    "Detail": "Alexander Gow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Jolson Story",
+    "FilmId": "tt0038661",
+    "Name": "William Demarest",
+    "Nominees": "William Demarest",
+    "NomineeIds": "nm0218131",
+    "Winner": "",
+    "Detail": "Steve Martin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Notorious",
+    "FilmId": "tt0038787",
+    "Name": "Claude Rains",
+    "Nominees": "Claude Rains",
+    "NomineeIds": "nm0001647",
+    "Winner": "",
+    "Detail": "Alexander Sebastian",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Best Years of Our Lives",
+    "FilmId": "tt0036868",
+    "Name": "Harold Russell",
+    "Nominees": "Harold Russell",
+    "NomineeIds": "nm0751174",
+    "Winner": "True",
+    "Detail": "Homer Parrish",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Razor's Edge",
+    "FilmId": "tt0038873",
+    "Name": "Clifton Webb",
+    "Nominees": "Clifton Webb",
+    "NomineeIds": "nm0916067",
+    "Winner": "",
+    "Detail": "Elliott Templeton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "To Each His Own",
+    "FilmId": "tt0039040",
+    "Name": "Olivia de Havilland",
+    "Nominees": "Olivia de Havilland",
+    "NomineeIds": "nm0000014",
+    "Winner": "True",
+    "Detail": "Jody Norris",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Brief Encounter",
+    "FilmId": "tt0037558",
+    "Name": "Celia Johnson",
+    "Nominees": "Celia Johnson",
+    "NomineeIds": "nm0424743",
+    "Winner": "",
+    "Detail": "Laura Jesson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Duel in the Sun",
+    "FilmId": "tt0038499",
+    "Name": "Jennifer Jones",
+    "Nominees": "Jennifer Jones",
+    "NomineeIds": "nm0428354",
+    "Winner": "",
+    "Detail": "Pearl Chavez",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Sister Kenny",
+    "FilmId": "tt0038948",
+    "Name": "Rosalind Russell",
+    "Nominees": "Rosalind Russell",
+    "NomineeIds": "nm0751426",
+    "Winner": "",
+    "Detail": "Elizabeth Kenny",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Yearling",
+    "FilmId": "tt0039111",
+    "Name": "Jane Wyman",
+    "Nominees": "Jane Wyman",
+    "NomineeIds": "nm0943837",
+    "Winner": "",
+    "Detail": "Ma Baxter",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Spiral Staircase",
+    "FilmId": "tt0038975",
+    "Name": "Ethel Barrymore",
+    "Nominees": "Ethel Barrymore",
+    "NomineeIds": "nm0000856",
+    "Winner": "",
+    "Detail": "Mrs. Warren",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Razor's Edge",
+    "FilmId": "tt0038873",
+    "Name": "Anne Baxter",
+    "Nominees": "Anne Baxter",
+    "NomineeIds": "nm0000879",
+    "Winner": "True",
+    "Detail": "Sophie MacDonald",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Duel in the Sun",
+    "FilmId": "tt0038499",
+    "Name": "Lillian Gish",
+    "Nominees": "Lillian Gish",
+    "NomineeIds": "nm0001273",
+    "Winner": "",
+    "Detail": "Belle McCanles",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Saratoga Trunk",
+    "FilmId": "tt0038053",
+    "Name": "Flora Robson",
+    "Nominees": "Flora Robson",
+    "NomineeIds": "nm0733460",
+    "Winner": "",
+    "Detail": "Angelique Buiton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Anna and the King of Siam",
+    "FilmId": "tt0038303",
+    "Name": "Gale Sondergaard",
+    "Nominees": "Gale Sondergaard",
+    "NomineeIds": "nm0814216",
+    "Winner": "",
+    "Detail": "Lady Thiang",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Anna and the King of Siam",
+    "FilmId": "tt0038303",
+    "Name": "Art Direction: Lyle Wheeler, William Darling; Interior Decoration: Thomas Little, Frank E. Hughes",
+    "Nominees": "Lyle Wheeler|William Darling|Thomas Little|Frank E. Hughes",
+    "NomineeIds": "nm0923907|nm0201419|nm0514673|nm0400605",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Kitty",
+    "FilmId": "tt0037849",
+    "Name": "Art Direction: Hans Dreier, Walter Tyler; Interior Decoration: Sam Comer, Ray Moyer",
+    "Nominees": "Hans Dreier|Walter Tyler|Sam Comer|Ray Moyer",
+    "NomineeIds": "nm0237417|nm0878934|nm0173754|nm0610455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Razor's Edge",
+    "FilmId": "tt0038873",
+    "Name": "Art Direction: Richard Day, Nathan Juran; Interior Decoration: Thomas Little, Paul S. Fox",
+    "Nominees": "Richard Day|Nathan Juran|Thomas Little|Paul S. Fox",
+    "NomineeIds": "nm0206554|nm0432846|nm0514673|nm0289189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Caesar and Cleopatra",
+    "FilmId": "tt0038390",
+    "Name": "John Bryan",
+    "Nominees": "John Bryan",
+    "NomineeIds": "nm0116961",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Henry V",
+    "FilmId": "tt0036910",
+    "Name": "Art Direction: Paul Sheriff, Carmen Dillon",
+    "Nominees": "Paul Sheriff|Carmen Dillon",
+    "NomineeIds": "nm0792293|nm0226973",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Yearling",
+    "FilmId": "tt0039111",
+    "Name": "Art Direction: Cedric Gibbons, Paul Groesse; Interior Decoration: Edwin B. Willis",
+    "Nominees": "Cedric Gibbons|Paul Groesse|Edwin B. Willis",
+    "NomineeIds": "nm0316539|nm0342904|nm0932320",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Anna and the King of Siam",
+    "FilmId": "tt0038303",
+    "Name": "Arthur Miller",
+    "Nominees": "Arthur Miller",
+    "NomineeIds": "nm0587926",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Green Years",
+    "FilmId": "tt0038578",
+    "Name": "George Folsey",
+    "Nominees": "George Folsey",
+    "NomineeIds": "nm0005706",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Jolson Story",
+    "FilmId": "tt0038661",
+    "Name": "Joseph Walker",
+    "Nominees": "Joseph Walker",
+    "NomineeIds": "nm0907900",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Yearling",
+    "FilmId": "tt0039111",
+    "Name": "Charles Rosher, Leonard Smith, Arthur Arling",
+    "Nominees": "Charles Rosher|Leonard Smith|Arthur Arling",
+    "NomineeIds": "nm0003546|nm0809079|nm0035186",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Best Years of Our Lives",
+    "FilmId": "tt0036868",
+    "Name": "William Wyler",
+    "Nominees": "William Wyler",
+    "NomineeIds": "nm0943758",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Brief Encounter",
+    "FilmId": "tt0037558",
+    "Name": "David Lean",
+    "Nominees": "David Lean",
+    "NomineeIds": "nm0000180",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "It's a Wonderful Life",
+    "FilmId": "tt0038650",
+    "Name": "Frank Capra",
+    "Nominees": "Frank Capra",
+    "NomineeIds": "nm0001008",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Killers",
+    "FilmId": "tt0038669",
+    "Name": "Robert Siodmak",
+    "Nominees": "Robert Siodmak",
+    "NomineeIds": "nm0802563",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Yearling",
+    "FilmId": "tt0039111",
+    "Name": "Clarence Brown",
+    "Nominees": "Clarence Brown",
+    "NomineeIds": "nm0113284",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Atomic Power",
+    "FilmId": "tt0038312",
+    "Name": "The March of Time",
+    "Nominees": "The March of Time",
+    "NomineeIds": "co0047855",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Life at the Zoo",
+    "FilmId": "tt0038690",
+    "Name": "Artkino",
+    "Nominees": "Artkino",
+    "NomineeIds": "co0154885",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Paramount News Issue #37 (Twentieth Anniversary Issue! 1927.....1947)",
+    "FilmId": "tt0038825",
+    "Name": "Paramount",
+    "Nominees": "Paramount",
+    "NomineeIds": "co0023400",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Seeds of Destiny",
+    "FilmId": "tt0038919",
+    "Name": "United States Department of War",
+    "Nominees": "United States Department of War",
+    "NomineeIds": "co0023398",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Traffic with the Devil",
+    "FilmId": "tt0039043",
+    "Name": "Herbert Morgan, Producer",
+    "Nominees": "Herbert Morgan",
+    "NomineeIds": "nm0604712",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Best Years of Our Lives",
+    "FilmId": "tt0036868",
+    "Name": "Daniel Mandell",
+    "Nominees": "Daniel Mandell",
+    "NomineeIds": "nm0541721",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "It's a Wonderful Life",
+    "FilmId": "tt0038650",
+    "Name": "William Hornbeck",
+    "Nominees": "William Hornbeck",
+    "NomineeIds": "nm0394962",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Jolson Story",
+    "FilmId": "tt0038661",
+    "Name": "William Lyon",
+    "Nominees": "William Lyon",
+    "NomineeIds": "nm0528995",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Killers",
+    "FilmId": "tt0038669",
+    "Name": "Arthur Hilton",
+    "Nominees": "Arthur Hilton",
+    "NomineeIds": "nm0385227",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Yearling",
+    "FilmId": "tt0039111",
+    "Name": "Harold Kress",
+    "Nominees": "Harold Kress",
+    "NomineeIds": "nm0470932",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Anna and the King of Siam",
+    "FilmId": "tt0038303",
+    "Name": "Bernard Herrmann",
+    "Nominees": "Bernard Herrmann",
+    "NomineeIds": "nm0002136",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Best Years of Our Lives",
+    "FilmId": "tt0036868",
+    "Name": "Hugo Friedhofer",
+    "Nominees": "Hugo Friedhofer",
+    "NomineeIds": "nm0006087",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Henry V",
+    "FilmId": "tt0036910",
+    "Name": "William Walton",
+    "Nominees": "William Walton",
+    "NomineeIds": "nm0006338",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Humoresque",
+    "FilmId": "tt0038622",
+    "Name": "Franz Waxman",
+    "Nominees": "Franz Waxman",
+    "NomineeIds": "nm0000077",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Killers",
+    "FilmId": "tt0038669",
+    "Name": "Miklos Rozsa",
+    "Nominees": "Miklos Rozsa",
+    "NomineeIds": "nm0000067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Blue Skies",
+    "FilmId": "tt0038370",
+    "Name": "Robert Emmett Dolan",
+    "Nominees": "Robert Emmett Dolan",
+    "NomineeIds": "nm0006040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Centennial Summer",
+    "FilmId": "tt0038406",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "The Harvey Girls",
+    "FilmId": "tt0038589",
+    "Name": "Lennie Hayton",
+    "Nominees": "Lennie Hayton",
+    "NomineeIds": "nm0006125",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "The Jolson Story",
+    "FilmId": "tt0038661",
+    "Name": "Morris Stoloff",
+    "Nominees": "Morris Stoloff",
+    "NomineeIds": "nm0006304",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Night and Day",
+    "FilmId": "tt0038776",
+    "Name": "Ray Heindorf, Max Steiner",
+    "Nominees": "Ray Heindorf|Max Steiner",
+    "NomineeIds": "nm0006127|nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Centennial Summer",
+    "FilmId": "tt0038406",
+    "Name": "Music by Jerome Kern; Lyrics by Oscar Hammerstein II",
+    "Nominees": "Jerome Kern|Oscar Hammerstein II",
+    "NomineeIds": "nm0006153|nm0358564",
+    "Winner": "",
+    "Detail": "All Through The Day",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Dolly Sisters",
+    "FilmId": "tt0037651",
+    "Name": "Music by James Monaco; Lyrics by Mack Gordon",
+    "Nominees": "James Monaco|Mack Gordon",
+    "NomineeIds": "nm0597444|nm0330418",
+    "Winner": "",
+    "Detail": "I Can't Begin To Tell You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Canyon Passage",
+    "FilmId": "tt0038395",
+    "Name": "Music by Hoagy Carmichael; Lyrics by Jack Brooks",
+    "Nominees": "Hoagy Carmichael|Jack Brooks",
+    "NomineeIds": "nm0005994|nm0112032",
+    "Winner": "",
+    "Detail": "Ole Buttermilk Sky",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Harvey Girls",
+    "FilmId": "tt0038589",
+    "Name": "Music by Harry Warren; Lyrics by Johnny Mercer",
+    "Nominees": "Harry Warren|Johnny Mercer",
+    "NomineeIds": "nm0912851|nm0006197",
+    "Winner": "True",
+    "Detail": "On The Atchison, Topeka And The Santa Fe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Three Little Girls in Blue",
+    "FilmId": "tt0039026",
+    "Name": "Music by Harry Warren; Lyrics by Mack Gordon",
+    "Nominees": "Harry Warren|Mack Gordon",
+    "NomineeIds": "nm0912851|nm0330418",
+    "Winner": "",
+    "Detail": "This Is Always",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. After nominations were announced on February 10, 1947, it was discovered that the song had been cut from the release print of the film, making it ineligible. The nomination was rescinded on February 13, and the music branch reballoted to determine the five nominations in the category.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Blue Skies",
+    "FilmId": "tt0038370",
+    "Name": "Music and Lyrics by Irving Berlin",
+    "Nominees": "Irving Berlin",
+    "NomineeIds": "nm0000927",
+    "Winner": "",
+    "Detail": "You Keep Coming Back Like A Song",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Best Years of Our Lives",
+    "FilmId": "tt0036868",
+    "Name": "Samuel Goldwyn Productions",
+    "Nominees": "Samuel Goldwyn Productions",
+    "NomineeIds": "co0058013",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Henry V",
+    "FilmId": "tt0036910",
+    "Name": "J. Arthur Rank-Two Cities Films",
+    "Nominees": "J. Arthur Rank|Two Cities Films",
+    "NomineeIds": "co0040435|?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "It's a Wonderful Life",
+    "FilmId": "tt0038650",
+    "Name": "Liberty Films",
+    "Nominees": "Liberty Films",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Razor's Edge",
+    "FilmId": "tt0038873",
+    "Name": "20th Century-Fox",
+    "Nominees": "20th Century-Fox",
+    "NomineeIds": "co0028775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Yearling",
+    "FilmId": "tt0039111",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Cat Concerto",
+    "FilmId": "tt0039251",
+    "Name": "Frederick Quimby, Producer",
+    "Nominees": "Frederick Quimby",
+    "NomineeIds": "nm0703642",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Chopin's Musical Moments",
+    "FilmId": "tt0038413",
+    "Name": "Walter Lantz, Producer",
+    "Nominees": "Walter Lantz",
+    "NomineeIds": "nm0487237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "John Henry and the Inky Poo",
+    "FilmId": "tt0038657",
+    "Name": "George Pal, Producer",
+    "Nominees": "George Pal",
+    "NomineeIds": "nm0657162",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Squatter's Rights",
+    "FilmId": "tt0038978",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Walky Talky Hawky",
+    "FilmId": "tt0039093",
+    "Name": "Edward Selzer, Producer",
+    "Nominees": "Edward Selzer",
+    "NomineeIds": "nm0783666",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Dive-Hi Champs",
+    "FilmId": "tt0038483",
+    "Name": "Jack Eaton, Producer",
+    "Nominees": "Jack Eaton",
+    "NomineeIds": "nm0247827",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Facing Your Danger",
+    "FilmId": "tt0038515",
+    "Name": "Gordon Hollingshead, Producer",
+    "Nominees": "Gordon Hollingshead",
+    "NomineeIds": "nm0391121",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Golden Horses",
+    "FilmId": "tt0038569",
+    "Name": "Edmund Reek, Producer",
+    "Nominees": "Edmund Reek",
+    "NomineeIds": "nm0715833",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Smart as a Fox",
+    "FilmId": "tt0038953",
+    "Name": "Gordon Hollingshead, Producer",
+    "Nominees": "Gordon Hollingshead",
+    "NomineeIds": "nm0391121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Sure Cures",
+    "FilmId": "tt0038998",
+    "Name": "Pete Smith, Producer",
+    "Nominees": "Pete Smith",
+    "NomineeIds": "nm0809570",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "A Boy and His Dog",
+    "FilmId": "tt0038379",
+    "Name": "Gordon Hollingshead, Producer",
+    "Nominees": "Gordon Hollingshead",
+    "NomineeIds": "nm0391121",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "College Queen",
+    "FilmId": "tt0038421",
+    "Name": "George B. Templeton, Producer",
+    "Nominees": "George B. Templeton",
+    "NomineeIds": "nm0854763",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Hiss and Yell",
+    "FilmId": "tt0038602",
+    "Name": "Jules White, Producer",
+    "Nominees": "Jules White",
+    "NomineeIds": "nm0925028",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "The Luckiest Guy in the World",
+    "FilmId": "tt0038708",
+    "Name": "Jerry Bresler, Producer",
+    "Nominees": "Jerry Bresler",
+    "NomineeIds": "nm0107724",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Best Years of Our Lives",
+    "FilmId": "tt0036868",
+    "Name": "Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",
+    "Nominees": "Samuel Goldwyn|Gordon Sawyer",
+    "NomineeIds": "co0058013|nm0768167",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "It's a Wonderful Life",
+    "FilmId": "tt0038650",
+    "Name": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+    "Nominees": "RKO Radio|John Aalberg",
+    "NomineeIds": "co0041421|nm0007356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Jolson Story",
+    "FilmId": "tt0038661",
+    "Name": "Columbia Studio Sound Department, John Livadary, Sound Director",
+    "Nominees": "Columbia|John Livadary",
+    "NomineeIds": "co0050868|nm0515093",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Blithe Spirit",
+    "FilmId": "tt0038363",
+    "Name": "Special Visual Effects by Thomas Howard",
+    "Nominees": "Thomas Howard",
+    "NomineeIds": "nm0397644",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "A Stolen Life",
+    "FilmId": "tt0038984",
+    "Name": "Special Visual Effects by William McGann; Special Audible Effects by Nathan Levinson",
+    "Nominees": "William McGann|Nathan Levinson",
+    "NomineeIds": "nm0568915|nm0506080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "The Dark Mirror",
+    "FilmId": "tt0038455",
+    "Name": "Vladimir Pozner",
+    "Nominees": "Vladimir Pozner",
+    "NomineeIds": "nm0694792",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "The Strange Love of Martha Ivers",
+    "FilmId": "tt0038988",
+    "Name": "Jack Patrick",
+    "Nominees": "Jack Patrick",
+    "NomineeIds": "nm0665875",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "The Stranger",
+    "FilmId": "tt0038991",
+    "Name": "Victor Trivas",
+    "Nominees": "Victor Trivas",
+    "NomineeIds": "nm0873193",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "To Each His Own",
+    "FilmId": "tt0039040",
+    "Name": "Charles Brackett",
+    "Nominees": "Charles Brackett",
+    "NomineeIds": "nm0102818",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Original Motion Picture Story)",
+    "Film": "Vacation from Marriage",
+    "FilmId": "tt0037980",
+    "Name": "Clemence Dane",
+    "Nominees": "Clemence Dane",
+    "NomineeIds": "nm0199304",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Blue Dahlia",
+    "FilmId": "tt0038369",
+    "Name": "Raymond Chandler",
+    "Nominees": "Raymond Chandler",
+    "NomineeIds": "nm0151452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Children of Paradise",
+    "FilmId": "tt0037674",
+    "Name": "Jacques Prevert",
+    "Nominees": "Jacques Prevert",
+    "NomineeIds": "nm0699535",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Notorious",
+    "FilmId": "tt0038787",
+    "Name": "Ben Hecht",
+    "Nominees": "Ben Hecht",
+    "NomineeIds": "nm0372942",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Road to Utopia",
+    "FilmId": "tt0038032",
+    "Name": "Norman Panama, Melvin Frank",
+    "Nominees": "Norman Panama|Melvin Frank",
+    "NomineeIds": "nm0659085|nm0291035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Seventh Veil",
+    "FilmId": "tt0038924",
+    "Name": "Muriel Box, Sydney Box",
+    "Nominees": "Muriel Box|Sydney Box",
+    "NomineeIds": "nm0101504|nm0101511",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Anna and the King of Siam",
+    "FilmId": "tt0038303",
+    "Name": "Talbot Jennings, Sally Benson",
+    "Nominees": "Talbot Jennings|Sally Benson",
+    "NomineeIds": "nm0421255|nm0072639",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Best Years of Our Lives",
+    "FilmId": "tt0036868",
+    "Name": "Robert E. Sherwood",
+    "Nominees": "Robert E. Sherwood",
+    "NomineeIds": "nm0792845",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Brief Encounter",
+    "FilmId": "tt0037558",
+    "Name": "David Lean, Anthony Havelock-Allan, Ronald Neame",
+    "Nominees": "David Lean|Anthony Havelock-Allan|Ronald Neame",
+    "NomineeIds": "nm0000180|nm0369743|nm0623768",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Killers",
+    "FilmId": "tt0038669",
+    "Name": "Anthony Veiller",
+    "Nominees": "Anthony Veiller",
+    "NomineeIds": "nm0892044",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Open City",
+    "FilmId": "tt0038890",
+    "Name": "Sergio Amidei, F. Fellini",
+    "Nominees": "Sergio Amidei|F. Fellini",
+    "NomineeIds": "nm0024847|nm0000019",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "Henry V",
+    "FilmId": "tt0036910",
+    "Name": "",
+    "Nominees": "Laurence Olivier",
+    "NomineeIds": "nm0000059",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Laurence Olivier for his outstanding achievement as actor, producer and director in bringing Henry V to the screen."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "The Best Years of Our Lives",
+    "FilmId": "tt0036868",
+    "Name": "",
+    "Nominees": "Harold Russell",
+    "NomineeIds": "nm0751174",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Harold Russell for bringing hope and courage to his fellow veterans through his appearance in The Best Years of Our Lives."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ernst Lubitsch",
+    "NomineeIds": "nm0523932",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Ernst Lubitsch for his distinguished contributions to the art of the motion picture."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL AWARD",
+    "Category": "SPECIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Claude Jarman",
+    "NomineeIds": "nm0418741",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Claude Jarman, Jr., outstanding child actor of 1946."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Samuel Goldwyn",
+    "Nominees": "Samuel Goldwyn",
+    "NomineeIds": "nm0326418",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Harlan L. Baumbach|Paramount",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To HARLAN L. BAUMBACH and the PARAMOUNT WEST COAST LABORATORY for an improved method for the quantitative determination of hydroquinone and metol in photographic developing baths."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Herbert E. Britt",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To HERBERT E. BRITT for the development and application of formulas and equipment for producing cloud and smoke effects."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Burton F. Miller|Warner Bros.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To BURTON F. MILLER and the WARNER BROS. STUDIO SOUND and ELECTRICAL DEPARTMENTS for the design and construction of a motion picture arc lighting generator filter."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CARL FAULKNER",
+    "NomineeIds": "nm0269055",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To CARL FAULKNER of the 20th Century-Fox Studio Sound Department for the reversed bias method, including a double bias method for light valve and galvonometer density recording."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mole-Richardson Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To the MOLE-RICHARDSON COMPANY for the Type 450 super high intensity carbon arc lamp."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Arthur F. Blinn|Robert O. Cook|C. O. Slyfield|Walt Disney Studio",
+    "NomineeIds": "?|nm0177256|nm0806351|?",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To ARTHUR F. BLINN, ROBERT O. COOK, C. O. SLYFIELD and the WALT DISNEY STUDIO SOUND DEPARTMENT for the design and development of an audio finder and track viewer for checking and locating noise in sound tracks."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Burton F. Miller|Warner Bros.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To BURTON F. MILLER and the WARNER BROS. STUDIO SOUND DEPARTMENT for the design and application of an equalizer to eliminate relative spectral energy distortion in electronic compressors."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "MARTY MARTIN|HAL ADKINS",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To MARTY MARTIN and HAL ADKINS of the RKO Radio Studio Miniature Department for the design and construction of equipment providing visual bullet effects."
+  },
+  {
+    "Ceremony": 19,
+    "Year": 1946,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Harold Nye|Warner Bros.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To HAROLD NYE and the WARNER BROS. STUDIO ELECTRICAL DEPARTMENT for the development of the electronically controlled fire and gaslight effect."
   }
 ]

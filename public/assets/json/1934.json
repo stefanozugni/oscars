@@ -1,950 +1,1074 @@
 [
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "It Happened One Night"
-    ],
-    "movies": [
-      {
-        "title": "It Happened One Night",
-        "tmdb_id": 3078,
-        "imdb_id": "tt0025316"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "The Barretts of Wimpole Street"
-    ],
-    "movies": [
-      {
-        "title": "The Barretts of Wimpole Street",
-        "tmdb_id": 43693,
-        "imdb_id": "tt0024865"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "Cleopatra"
-    ],
-    "movies": [
-      {
-        "title": "Cleopatra",
-        "tmdb_id": 43902,
-        "imdb_id": "tt0024991"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "Flirtation Walk"
-    ],
-    "movies": [
-      {
-        "title": "Flirtation Walk",
-        "tmdb_id": 84100,
-        "imdb_id": "tt0025124"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "The Gay Divorcee"
-    ],
-    "movies": [
-      {
-        "title": "The Gay Divorcee",
-        "tmdb_id": 28288,
-        "imdb_id": "tt0025164"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "Here Comes the Navy"
-    ],
-    "movies": [
-      {
-        "title": "Here Comes the Navy",
-        "tmdb_id": 84099,
-        "imdb_id": "tt0025238"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "The House of Rothschild"
-    ],
-    "movies": [
-      {
-        "title": "The House of Rothschild",
-        "tmdb_id": 57035,
-        "imdb_id": "tt0025272"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "Imitation of Life"
-    ],
-    "movies": [
-      {
-        "title": "Imitation of Life",
-        "tmdb_id": 47921,
-        "imdb_id": "tt0025301"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "One Night of Love"
-    ],
-    "movies": [
-      {
-        "title": "One Night of Love",
-        "tmdb_id": 84097,
-        "imdb_id": "tt0025601"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "The Thin Man"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Man",
-        "tmdb_id": 3529,
-        "imdb_id": "tt0025878"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "Viva Villa!"
-    ],
-    "movies": [
-      {
-        "title": "Viva Villa!",
-        "tmdb_id": 43604,
-        "imdb_id": "tt0025948"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1934",
-    "nominees": [
-      "The White Parade"
-    ],
-    "movies": [
-      {
-        "title": "The White Parade",
-        "tmdb_id": 84095,
-        "imdb_id": "tt0025986"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1934",
-    "nominees": [
-      "Clark Gable"
-    ],
-    "movies": [
-      {
-        "title": "It Happened One Night",
-        "tmdb_id": 3078,
-        "imdb_id": "tt0025316"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1934",
-    "nominees": [
-      "Frank Morgan"
-    ],
-    "movies": [
-      {
-        "title": "The Affairs of Cellini",
-        "tmdb_id": 112951,
-        "imdb_id": "tt0024816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1934",
-    "nominees": [
-      "William Powell"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Man",
-        "tmdb_id": 3529,
-        "imdb_id": "tt0025878"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1934",
-    "nominees": [
-      "Claudette Colbert"
-    ],
-    "movies": [
-      {
-        "title": "It Happened One Night",
-        "tmdb_id": 3078,
-        "imdb_id": "tt0025316"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1934",
-    "nominees": [
-      "Bette Davis"
-    ],
-    "movies": [
-      {
-        "title": "Of Human Bondage",
-        "tmdb_id": 43905,
-        "imdb_id": "tt0025586"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1934",
-    "nominees": [
-      "Grace Moore"
-    ],
-    "movies": [
-      {
-        "title": "One Night of Love",
-        "tmdb_id": 84097,
-        "imdb_id": "tt0025601"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1934",
-    "nominees": [
-      "Norma Shearer"
-    ],
-    "movies": [
-      {
-        "title": "The Barretts of Wimpole Street",
-        "tmdb_id": 43693,
-        "imdb_id": "tt0024865"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1934",
-    "nominees": [
-      "Frank Capra"
-    ],
-    "movies": [
-      {
-        "title": "It Happened One Night",
-        "tmdb_id": 3078,
-        "imdb_id": "tt0025316"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1934",
-    "nominees": [
-      "Victor Schertzinger"
-    ],
-    "movies": [
-      {
-        "title": "One Night of Love",
-        "tmdb_id": 84097,
-        "imdb_id": "tt0025601"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1934",
-    "nominees": [
-      "W. S. Van Dyke"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Man",
-        "tmdb_id": 3529,
-        "imdb_id": "tt0025878"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1934",
-    "nominees": [
-      "John Waters"
-    ],
-    "movies": [
-      {
-        "title": "Viva Villa!",
-        "tmdb_id": 43604,
-        "imdb_id": "tt0025948"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1934",
-    "nominees": [
-      "Cullen Tate"
-    ],
-    "movies": [
-      {
-        "title": "Cleopatra",
-        "tmdb_id": 43902,
-        "imdb_id": "tt0024991"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Assistant Director",
-    "year": "1934",
-    "nominees": [
-      "Scott Beal"
-    ],
-    "movies": [
-      {
-        "title": "Imitation of Life",
-        "tmdb_id": 47921,
-        "imdb_id": "tt0025301"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1934",
-    "nominees": [
-      "Robert Riskin"
-    ],
-    "movies": [
-      {
-        "title": "It Happened One Night",
-        "tmdb_id": 3078,
-        "imdb_id": "tt0025316"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1934",
-    "nominees": [
-      "Frances Goodrich",
-      "Albert Hackett"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Man",
-        "tmdb_id": 3529,
-        "imdb_id": "tt0025878"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1934",
-    "nominees": [
-      "Ben Hecht"
-    ],
-    "movies": [
-      {
-        "title": "Viva Villa!",
-        "tmdb_id": 43604,
-        "imdb_id": "tt0025948"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1934",
-    "nominees": [
-      "Arthur Caesar"
-    ],
-    "movies": [
-      {
-        "title": "Manhattan Melodrama",
-        "tmdb_id": 28564,
-        "imdb_id": "tt0025464"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1934",
-    "nominees": [
-      "Maur Grashin"
-    ],
-    "movies": [
-      {
-        "title": "Hide-Out",
-        "tmdb_id": 64318,
-        "imdb_id": "tt0025251"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1934",
-    "nominees": [
-      "Norman Krasna"
-    ],
-    "movies": [
-      {
-        "title": "The Richest Girl in the World",
-        "tmdb_id": 111623,
-        "imdb_id": "tt0025718"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1934",
-    "nominees": [
-      "One Night of Love"
-    ],
-    "movies": [
-      {
-        "title": "One Night of Love",
-        "tmdb_id": 84097,
-        "imdb_id": "tt0025601"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1934",
-    "nominees": [
-      "The Gay Divorcee"
-    ],
-    "movies": [
-      {
-        "title": "The Gay Divorcee",
-        "tmdb_id": 28288,
-        "imdb_id": "tt0025164"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1934",
-    "nominees": [
-      "The Lost Patrol"
-    ],
-    "movies": [
-      {
-        "title": "The Lost Patrol",
-        "tmdb_id": 46910,
-        "imdb_id": "tt0025423"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1934",
-    "nominees": [
-      "The Continental"
-    ],
-    "movies": [
-      {
-        "title": "The Gay Divorcee",
-        "tmdb_id": 28288,
-        "imdb_id": "tt0025164"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1934",
-    "nominees": [
-      "Carioca"
-    ],
-    "movies": [
-      {
-        "title": "Flying Down to Rio",
-        "tmdb_id": 28293,
-        "imdb_id": "tt0024025"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1934",
-    "nominees": [
-      "Love in Bloom"
-    ],
-    "movies": [
-      {
-        "title": "She Loves Me Not",
-        "tmdb_id": 111582,
-        "imdb_id": "tt0025774"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1934",
-    "nominees": [
-      "The Tortoise and the Hare"
-    ],
-    "movies": [
-      {
-        "title": "The Tortoise and the Hare",
-        "tmdb_id": 58159,
-        "imdb_id": "tt0027126"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1934",
-    "nominees": [
-      "Holiday Land"
-    ],
-    "movies": [
-      {
-        "title": "Holiday Land",
-        "tmdb_id": 233662,
-        "imdb_id": "tt0025260"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1934",
-    "nominees": [
-      "Jolly Little Elves"
-    ],
-    "movies": [
-      {
-        "title": "Jolly Little Elves",
-        "tmdb_id": 180775,
-        "imdb_id": "tt0025332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1934",
-    "nominees": [
-      "La Cucaracha"
-    ],
-    "movies": [
-      {
-        "title": "La Cucaracha",
-        "tmdb_id": 177032,
-        "imdb_id": "tt0025019"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1934",
-    "nominees": [
-      "Men in Black"
-    ],
-    "movies": [
-      {
-        "title": "Men in Black",
-        "tmdb_id": 115029,
-        "imdb_id": "tt0025488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1934",
-    "nominees": [
-      "What, No Men?"
-    ],
-    "movies": [
-      {
-        "title": "What, No Men?",
-        "tmdb_id": 233654,
-        "imdb_id": "tt0025977"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1934",
-    "nominees": [
-      "City of Wax"
-    ],
-    "movies": [
-      {
-        "title": "City of Wax",
-        "tmdb_id": 233656,
-        "imdb_id": "tt0024986"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1934",
-    "nominees": [
-      "Bosom Friends"
-    ],
-    "movies": [
-      {
-        "title": "Bosom Friends",
-        "tmdb_id": 233660,
-        "imdb_id": "tt0024909"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1934",
-    "nominees": [
-      "Strikes and Spares"
-    ],
-    "movies": [
-      {
-        "title": "Strikes and Spares",
-        "tmdb_id": 178380,
-        "imdb_id": "tt0025840"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1934",
-    "nominees": [
-      "Cedric Gibbons",
-      "Fredric Hope"
-    ],
-    "movies": [
-      {
-        "title": "The Merry Widow",
-        "tmdb_id": 43689,
-        "imdb_id": "tt0025493"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1934",
-    "nominees": [
-      "Richard Day"
-    ],
-    "movies": [
-      {
-        "title": "The Affairs of Cellini",
-        "tmdb_id": 112951,
-        "imdb_id": "tt0024816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1934",
-    "nominees": [
-      "Van Nest Polglase",
-      "Carroll Clark"
-    ],
-    "movies": [
-      {
-        "title": "The Gay Divorcee",
-        "tmdb_id": 28288,
-        "imdb_id": "tt0025164"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1934",
-    "nominees": [
-      "Victor Milner"
-    ],
-    "movies": [
-      {
-        "title": "Cleopatra",
-        "tmdb_id": 43902,
-        "imdb_id": "tt0024991"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1934",
-    "nominees": [
-      "Charles Rosher"
-    ],
-    "movies": [
-      {
-        "title": "The Affairs of Cellini",
-        "tmdb_id": 112951,
-        "imdb_id": "tt0024816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1934",
-    "nominees": [
-      "George J. Folsey"
-    ],
-    "movies": [
-      {
-        "title": "Operator 13",
-        "tmdb_id": 111310,
-        "imdb_id": "tt0025607"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1934",
-    "nominees": [
-      "Conrad A. Nervig"
-    ],
-    "movies": [
-      {
-        "title": "Eskimo",
-        "tmdb_id": 113638,
-        "imdb_id": "tt0023990"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1934",
-    "nominees": [
-      "Anne Bauchens"
-    ],
-    "movies": [
-      {
-        "title": "Cleopatra",
-        "tmdb_id": 43902,
-        "imdb_id": "tt0024991"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1934",
-    "nominees": [
-      "Gene Milford"
-    ],
-    "movies": [
-      {
-        "title": "One Night of Love",
-        "tmdb_id": 84097,
-        "imdb_id": "tt0025601"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1934",
-    "nominees": [
-      "John Livadary"
-    ],
-    "movies": [
-      {
-        "title": "One Night of Love",
-        "tmdb_id": 84097,
-        "imdb_id": "tt0025601"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1934",
-    "nominees": [
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "The Affairs of Cellini",
-        "tmdb_id": 112951,
-        "imdb_id": "tt0024816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1934",
-    "nominees": [
-      "Franklin B. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "Cleopatra",
-        "tmdb_id": 43902,
-        "imdb_id": "tt0024991"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1934",
-    "nominees": [
-      "Nathan Levinson"
-    ],
-    "movies": [
-      {
-        "title": "Flirtation Walk",
-        "tmdb_id": 84100,
-        "imdb_id": "tt0025124"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1934",
-    "nominees": [
-      "Carl Dreher"
-    ],
-    "movies": [
-      {
-        "title": "The Gay Divorcee",
-        "tmdb_id": 28288,
-        "imdb_id": "tt0025164"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1934",
-    "nominees": [
-      "Theodore Soderberg"
-    ],
-    "movies": [
-      {
-        "title": "Imitation of Life",
-        "tmdb_id": 47921,
-        "imdb_id": "tt0025301"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1934",
-    "nominees": [
-      "Douglas Shearer"
-    ],
-    "movies": [
-      {
-        "title": "Viva Villa!",
-        "tmdb_id": 43604,
-        "imdb_id": "tt0025948"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1934",
-    "nominees": [
-      "Edmund H. Hansen"
-    ],
-    "movies": [
-      {
-        "title": "The White Parade",
-        "tmdb_id": 84095,
-        "imdb_id": "tt0025986"
-      }
-    ],
-    "won": false
-  }
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "It Happened One Night",
+        "FilmId": "tt0025316",
+        "Name": "Clark Gable",
+        "Nominees": "Clark Gable",
+        "NomineeIds": "nm0000022",
+        "Winner": "True",
+        "Detail": "Peter Warne",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "The Affairs of Cellini",
+        "FilmId": "tt0024816",
+        "Name": "Frank Morgan",
+        "Nominees": "Frank Morgan",
+        "NomineeIds": "nm0604656",
+        "Winner": "",
+        "Detail": "Allesandro, Duke of Florence",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "The Thin Man",
+        "FilmId": "tt0025878",
+        "Name": "William Powell",
+        "Nominees": "William Powell",
+        "NomineeIds": "nm0001635",
+        "Winner": "",
+        "Detail": "Nick Charles",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "It Happened One Night",
+        "FilmId": "tt0025316",
+        "Name": "Claudette Colbert",
+        "Nominees": "Claudette Colbert",
+        "NomineeIds": "nm0001055",
+        "Winner": "True",
+        "Detail": "Ellie Andrews",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "Of Human Bondage",
+        "FilmId": "tt0025586",
+        "Name": "Bette Davis",
+        "Nominees": "Bette Davis",
+        "NomineeIds": "nm0000012",
+        "Winner": "",
+        "Detail": "Mildred",
+        "Note": "came in 3rd|NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "One Night of Love",
+        "FilmId": "tt0025601",
+        "Name": "Grace Moore",
+        "Nominees": "Grace Moore",
+        "NomineeIds": "nm0601254",
+        "Winner": "",
+        "Detail": "Mary",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "The Barretts of Wimpole Street",
+        "FilmId": "tt0024865",
+        "Name": "Norma Shearer",
+        "Nominees": "Norma Shearer",
+        "NomineeIds": "nm0790454",
+        "Winner": "",
+        "Detail": "Elizabeth Barrett",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "The Affairs of Cellini",
+        "FilmId": "tt0024816",
+        "Name": "Richard Day",
+        "Nominees": "Richard Day",
+        "NomineeIds": "nm0206554",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "The Gay Divorcee",
+        "FilmId": "tt0025164",
+        "Name": "Van Nest Polglase, Carroll Clark",
+        "Nominees": "Van Nest Polglase|Carroll Clark",
+        "NomineeIds": "nm0689026|nm0163754",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "The Merry Widow",
+        "FilmId": "tt0025493",
+        "Name": "Cedric Gibbons, Fredric Hope",
+        "Nominees": "Cedric Gibbons|Fredric Hope",
+        "NomineeIds": "nm0316539|nm0393978",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "NOTE: won by two votes",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "Cleopatra",
+        "FilmId": "tt0024991",
+        "Name": "Cullen Tate",
+        "Nominees": "Cullen Tate",
+        "NomineeIds": "nm0851121",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "Imitation of Life",
+        "FilmId": "tt0025301",
+        "Name": "Scott Beal",
+        "Nominees": "Scott Beal",
+        "NomineeIds": "nm0063634",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Directing",
+        "CanonicalCategory": "ASSISTANT DIRECTOR",
+        "Category": "ASSISTANT DIRECTOR",
+        "Film": "Viva Villa!",
+        "FilmId": "tt0025948",
+        "Name": "John Waters",
+        "Nominees": "John Waters",
+        "NomineeIds": "nm0914112",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "The Affairs of Cellini",
+        "FilmId": "tt0024816",
+        "Name": "Charles Rosher",
+        "Nominees": "Charles Rosher",
+        "NomineeIds": "nm0003546",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Cleopatra",
+        "FilmId": "tt0024991",
+        "Name": "Victor Milner",
+        "Nominees": "Victor Milner",
+        "NomineeIds": "nm0005800",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Operator 13",
+        "FilmId": "tt0025607",
+        "Name": "George Folsey",
+        "Nominees": "George Folsey",
+        "NomineeIds": "nm0005706",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "It Happened One Night",
+        "FilmId": "tt0025316",
+        "Name": "Frank Capra",
+        "Nominees": "Frank Capra",
+        "NomineeIds": "nm0001008",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "One Night of Love",
+        "FilmId": "tt0025601",
+        "Name": "Victor Schertzinger",
+        "Nominees": "Victor Schertzinger",
+        "NomineeIds": "nm0006276",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "The Thin Man",
+        "FilmId": "tt0025878",
+        "Name": "W. S. Van Dyke",
+        "Nominees": "W. S. Van Dyke",
+        "NomineeIds": "nm0886754",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "FILM EDITING",
+        "Category": "FILM EDITING",
+        "Film": "Cleopatra",
+        "FilmId": "tt0024991",
+        "Name": "Anne Bauchens",
+        "Nominees": "Anne Bauchens",
+        "NomineeIds": "nm0061640",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "FILM EDITING",
+        "Category": "FILM EDITING",
+        "Film": "Eskimo",
+        "FilmId": "tt0023990",
+        "Name": "Conrad Nervig",
+        "Nominees": "Conrad Nervig",
+        "NomineeIds": "nm0626308",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "FILM EDITING",
+        "Category": "FILM EDITING",
+        "Film": "One Night of Love",
+        "FilmId": "tt0025601",
+        "Name": "Gene Milford",
+        "Nominees": "Gene Milford",
+        "NomineeIds": "nm0587332",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Music",
+        "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+        "Category": "MUSIC (Scoring)",
+        "Film": "The Gay Divorcee",
+        "FilmId": "tt0025164",
+        "Name": "RKO Radio Studio Music Department, Max Steiner, head of department (Score by Kenneth Webb and Samuel Hoffenstein)",
+        "Nominees": "RKO Radio|Max Steiner|Kenneth Webb|Samuel Hoffenstein",
+        "NomineeIds": "co0041421|nm0000070|nm0916177|nm0388755",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Music",
+        "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+        "Category": "MUSIC (Scoring)",
+        "Film": "The Lost Patrol",
+        "FilmId": "tt0025423",
+        "Name": "RKO Radio Studio Music Department, Max Steiner, head of department (Score by Max Steiner)",
+        "Nominees": "RKO Radio|Max Steiner",
+        "NomineeIds": "co0041421|nm0000070",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Music",
+        "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+        "Category": "MUSIC (Scoring)",
+        "Film": "One Night of Love",
+        "FilmId": "tt0025601",
+        "Name": "Columbia Studio Music Department, Louis Silvers, head of department (Thematic Music by Victor Schertzinger and Gus Kahn)",
+        "Nominees": "Columbia|Louis Silvers|Victor Schertzinger|Gus Kahn",
+        "NomineeIds": "co0050868|nm0799007|nm0006276|nm0006146",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Music",
+        "CanonicalCategory": "MUSIC (Original Song)",
+        "Category": "MUSIC (Song)",
+        "Film": "Flying Down to Rio",
+        "FilmId": "tt0024025",
+        "Name": "Music by Vincent Youmans; Lyrics by Edward Eliscu and Gus Kahn",
+        "Nominees": "Vincent Youmans|Edward Eliscu|Gus Kahn",
+        "NomineeIds": "nm0949207|nm0253697|nm0006146",
+        "Winner": "",
+        "Detail": "Carioca",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Music",
+        "CanonicalCategory": "MUSIC (Original Song)",
+        "Category": "MUSIC (Song)",
+        "Film": "The Gay Divorcee",
+        "FilmId": "tt0025164",
+        "Name": "Music by Con Conrad; Lyrics by Herb Magidson",
+        "Nominees": "Con Conrad|Herb Magidson",
+        "NomineeIds": "nm0175628|nm0536054",
+        "Winner": "True",
+        "Detail": "The Continental",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Music",
+        "CanonicalCategory": "MUSIC (Original Song)",
+        "Category": "MUSIC (Song)",
+        "Film": "She Loves Me Not",
+        "FilmId": "tt0025774",
+        "Name": "Music by Ralph Rainger; Lyrics by Leo Robin",
+        "Nominees": "Ralph Rainger|Leo Robin",
+        "NomineeIds": "nm0006247|nm0732209",
+        "Winner": "",
+        "Detail": "Love In Bloom",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "The Barretts of Wimpole Street",
+        "FilmId": "tt0024865",
+        "Name": "Metro-Goldwyn-Mayer",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Cleopatra",
+        "FilmId": "tt0024991",
+        "Name": "Paramount",
+        "Nominees": "Paramount",
+        "NomineeIds": "co0023400",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Flirtation Walk",
+        "FilmId": "tt0025124",
+        "Name": "First National",
+        "Nominees": "First National",
+        "NomineeIds": "co0041460",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "The Gay Divorcee",
+        "FilmId": "tt0025164",
+        "Name": "RKO Radio",
+        "Nominees": "RKO Radio",
+        "NomineeIds": "co0041421",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Here Comes the Navy",
+        "FilmId": "tt0025238",
+        "Name": "Warner Bros.",
+        "Nominees": "Warner Bros.",
+        "NomineeIds": "co0080422",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "The House of Rothschild",
+        "FilmId": "tt0025272",
+        "Name": "20th Century",
+        "Nominees": "20th Century",
+        "NomineeIds": "co0067247",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Imitation of Life",
+        "FilmId": "tt0025301",
+        "Name": "Universal",
+        "Nominees": "Universal",
+        "NomineeIds": "co0005073",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "It Happened One Night",
+        "FilmId": "tt0025316",
+        "Name": "Columbia",
+        "Nominees": "Columbia",
+        "NomineeIds": "co0050868",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "One Night of Love",
+        "FilmId": "tt0025601",
+        "Name": "Columbia",
+        "Nominees": "Columbia",
+        "NomineeIds": "co0050868",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "The Thin Man",
+        "FilmId": "tt0025878",
+        "Name": "Metro-Goldwyn-Mayer",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Viva Villa!",
+        "FilmId": "tt0025948",
+        "Name": "Metro-Goldwyn-Mayer",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "The White Parade",
+        "FilmId": "tt0025986",
+        "Name": "Jesse L. Lasky (production company)",
+        "Nominees": "Jesse L. Lasky (production company)",
+        "NomineeIds": "co0057677",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "SHORT FILM (Animated)",
+        "Category": "SHORT SUBJECT (Cartoon)",
+        "Film": "Holiday Land",
+        "FilmId": "tt0025260",
+        "Name": "Charles Mintz, Producer",
+        "Nominees": "Charles Mintz",
+        "NomineeIds": "nm0591762",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "SHORT FILM (Animated)",
+        "Category": "SHORT SUBJECT (Cartoon)",
+        "Film": "Jolly Little Elves",
+        "FilmId": "tt0025332",
+        "Name": "Walter Lantz, Producer",
+        "Nominees": "Walter Lantz",
+        "NomineeIds": "nm0487237",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "SHORT FILM (Animated)",
+        "Category": "SHORT SUBJECT (Cartoon)",
+        "Film": "The Tortoise and the Hare",
+        "FilmId": "tt0027126",
+        "Name": "Walt Disney, Producer",
+        "Nominees": "Walt Disney",
+        "NomineeIds": "nm0000370",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "La Cucaracha",
+        "FilmId": "tt0025019",
+        "Name": "Kenneth Macgowan, Producer",
+        "Nominees": "Kenneth Macgowan",
+        "NomineeIds": "nm0532284",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "Men in Black",
+        "FilmId": "tt0025488",
+        "Name": "Jules White, Producer",
+        "Nominees": "Jules White",
+        "NomineeIds": "nm0925028",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "What, No Men!",
+        "FilmId": "tt0025977",
+        "Name": "Warner Bros.",
+        "Nominees": "Warner Bros.",
+        "NomineeIds": "co0080422",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+        "Category": "SHORT SUBJECT (Novelty)",
+        "Film": "Bosom Friends",
+        "FilmId": "tt0024909",
+        "Name": "Skibo Productions",
+        "Nominees": "Skibo Productions",
+        "NomineeIds": "co0019661",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+        "Category": "SHORT SUBJECT (Novelty)",
+        "Film": "City of Wax",
+        "FilmId": "tt0024986",
+        "Name": "Stacy Woodard and Horace Woodard, Producers",
+        "Nominees": "Stacy Woodard|Horace Woodard",
+        "NomineeIds": "nm0940152|nm0940139",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+        "Category": "SHORT SUBJECT (Novelty)",
+        "Film": "Strikes and Spares",
+        "FilmId": "tt0025840",
+        "Name": "Pete Smith, Producer",
+        "Nominees": "Pete Smith",
+        "NomineeIds": "nm0809570",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "The Affairs of Cellini",
+        "FilmId": "tt0024816",
+        "Name": "United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",
+        "Nominees": "United Artists|Thomas T. Moulton",
+        "NomineeIds": "co0026841|nm0609771",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "Cleopatra",
+        "FilmId": "tt0024991",
+        "Name": "Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",
+        "Nominees": "Paramount|Franklin B. Hansen",
+        "NomineeIds": "co0023400|nm0360630",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "Flirtation Walk",
+        "FilmId": "tt0025124",
+        "Name": "Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",
+        "Nominees": "Warner Bros.|First National|Nathan Levinson",
+        "NomineeIds": "co0080422|co0041460|nm0506080",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "The Gay Divorcee",
+        "FilmId": "tt0025164",
+        "Name": "RKO Radio Studio Sound Department, Carl Dreher, Sound Director",
+        "Nominees": "RKO Radio|Carl Dreher",
+        "NomineeIds": "co0041421|nm0237393",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "Imitation of Life",
+        "FilmId": "tt0025301",
+        "Name": "Universal Studio Sound Department, Theodore Soderberg, Sound Director",
+        "Nominees": "Universal|Theodore Soderberg",
+        "NomineeIds": "co0005073|nm5119569",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "One Night of Love",
+        "FilmId": "tt0025601",
+        "Name": "Columbia Studio Sound Department, John Livadary, Sound Director",
+        "Nominees": "Columbia|John Livadary",
+        "NomineeIds": "co0050868|nm0515093",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "Viva Villa!",
+        "FilmId": "tt0025948",
+        "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+        "Nominees": "Metro-Goldwyn-Mayer|Douglas Shearer",
+        "NomineeIds": "co0007143|nm0790428",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "The White Parade",
+        "FilmId": "tt0025986",
+        "Name": "Fox Studio Sound Department, E. H. Hansen, Sound Director",
+        "Nominees": "Fox|E. H. Hansen",
+        "NomineeIds": "co0028775|nm0360770",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "It Happened One Night",
+        "FilmId": "tt0025316",
+        "Name": "Robert Riskin",
+        "Nominees": "Robert Riskin",
+        "NomineeIds": "nm0728307",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "The Thin Man",
+        "FilmId": "tt0025878",
+        "Name": "Frances Goodrich, Albert Hackett",
+        "Nominees": "Frances Goodrich|Albert Hackett",
+        "NomineeIds": "nm0329304|nm0352443",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Viva Villa!",
+        "FilmId": "tt0025948",
+        "Name": "Ben Hecht",
+        "Nominees": "Ben Hecht",
+        "NomineeIds": "nm0372942",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "Hide-Out",
+        "FilmId": "tt0025251",
+        "Name": "Mauri Grashin",
+        "Nominees": "Mauri Grashin",
+        "NomineeIds": "nm0335831",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 3rd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "Manhattan Melodrama",
+        "FilmId": "tt0025464",
+        "Name": "Arthur Caesar",
+        "Nominees": "Arthur Caesar",
+        "NomineeIds": "nm0128361",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "The Richest Girl in the World",
+        "FilmId": "tt0025718",
+        "Name": "Norman Krasna",
+        "Nominees": "Norman Krasna",
+        "NomineeIds": "nm0469915",
+        "Winner": "",
+        "Detail": "",
+        "Note": "came in 2nd",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "Special",
+        "CanonicalCategory": "SPECIAL AWARD",
+        "Category": "SPECIAL AWARD",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Shirley Temple",
+        "NomineeIds": "nm0000073",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": "To Shirley Temple, in grateful recognition of her outstanding contribution to screen entertainment during the year 1934."
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Electrical Research Products",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Sound",
+        "Note": "",
+        "Citation": "To ELECTRICAL RESEARCH PRODUCTS, INC. for their development of the Vertical Cut Disc Method of recording sound for motion pictures (hill and dale recording)."
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Film": "One Night of Love",
+        "FilmId": "tt0025601",
+        "Name": "",
+        "Nominees": "Columbia Pictures Corporation",
+        "NomineeIds": "?",
+        "Winner": "True",
+        "Detail": "Sound",
+        "Note": "",
+        "Citation": "To COLUMBIA PICTURES CORPORATION for their application of the Vertical Cut Disc Method (hill and dale recording) to actual studio production, with their recording of the sound on the picture One Night of Love."
+    },
+    {
+        "Ceremony": 7,
+        "Year": 1934,
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Bell And Howell Company",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Laboratory",
+        "Note": "",
+        "Citation": "To BELL AND HOWELL COMPANY for their development of the Bell and Howell Fully Automatic Sound and Picture Printer."
+    }
 ]

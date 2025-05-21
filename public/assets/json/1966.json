@@ -1,1831 +1,2066 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1966",
-    "nominees": [
-      "A Man for All Seasons"
-    ],
-    "movies": [
-      {
-        "title": "A Man for All Seasons",
-        "tmdb_id": 874,
-        "imdb_id": "tt0060665"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1966",
-    "nominees": [
-      "Alfie"
-    ],
-    "movies": [
-      {
-        "title": "Alfie",
-        "tmdb_id": 15598,
-        "imdb_id": "tt0060086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1966",
-    "nominees": [
-      "The Russians Are Coming, The Russians Are Coming"
-    ],
-    "movies": [
-      {
-        "title": "The Russians Are Coming! The Russians Are Coming!",
-        "tmdb_id": 31918,
-        "imdb_id": "tt0060921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1966",
-    "nominees": [
-      "The Sand Pebbles"
-    ],
-    "movies": [
-      {
-        "title": "The Sand Pebbles",
-        "tmdb_id": 5923,
-        "imdb_id": "tt0060934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1966",
-    "nominees": [
-      "Who's Afraid of Virginia Woolf?"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1966",
-    "nominees": [
-      "Paul Scofield"
-    ],
-    "movies": [
-      {
-        "title": "A Man for All Seasons",
-        "tmdb_id": 874,
-        "imdb_id": "tt0060665"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1966",
-    "nominees": [
-      "Alan Arkin"
-    ],
-    "movies": [
-      {
-        "title": "The Russians Are Coming! The Russians Are Coming!",
-        "tmdb_id": 31918,
-        "imdb_id": "tt0060921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1966",
-    "nominees": [
-      "Richard Burton"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1966",
-    "nominees": [
-      "Michael Caine"
-    ],
-    "movies": [
-      {
-        "title": "Alfie",
-        "tmdb_id": 15598,
-        "imdb_id": "tt0060086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1966",
-    "nominees": [
-      "Steve McQueen"
-    ],
-    "movies": [
-      {
-        "title": "The Sand Pebbles",
-        "tmdb_id": 5923,
-        "imdb_id": "tt0060934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1966",
-    "nominees": [
-      "Elizabeth Taylor"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1966",
-    "nominees": [
-      "Anouk Aimee"
-    ],
-    "movies": [
-      {
-        "title": "A Man and a Woman",
-        "tmdb_id": 42726,
-        "imdb_id": "tt0061138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1966",
-    "nominees": [
-      "Ida Kaminska"
-    ],
-    "movies": [
-      {
-        "title": "The Shop on Main Street",
-        "tmdb_id": 25905,
-        "imdb_id": "tt0059527"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1966",
-    "nominees": [
-      "Lynn Redgrave"
-    ],
-    "movies": [
-      {
-        "title": "Georgy Girl",
-        "tmdb_id": 42719,
-        "imdb_id": "tt0060453"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1966",
-    "nominees": [
-      "Vanessa Redgrave"
-    ],
-    "movies": [
-      {
-        "title": "Lady Morgan's Vengeance",
-        "tmdb_id": 281152,
-        "imdb_id": "tt0166390"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1966",
-    "nominees": [
-      "Walter Matthau"
-    ],
-    "movies": [
-      {
-        "title": "The Fortune Cookie",
-        "tmdb_id": 1888,
-        "imdb_id": "tt0060424"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1966",
-    "nominees": [
-      "Mako"
-    ],
-    "movies": [
-      {
-        "title": "The Sand Pebbles",
-        "tmdb_id": 5923,
-        "imdb_id": "tt0060934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1966",
-    "nominees": [
-      "James Mason"
-    ],
-    "movies": [
-      {
-        "title": "Georgy Girl",
-        "tmdb_id": 42719,
-        "imdb_id": "tt0060453"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1966",
-    "nominees": [
-      "George Segal"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1966",
-    "nominees": [
-      "Robert Shaw"
-    ],
-    "movies": [
-      {
-        "title": "A Man for All Seasons",
-        "tmdb_id": 874,
-        "imdb_id": "tt0060665"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1966",
-    "nominees": [
-      "Sandy Dennis"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1966",
-    "nominees": [
-      "Wendy Hiller"
-    ],
-    "movies": [
-      {
-        "title": "A Man for All Seasons",
-        "tmdb_id": 874,
-        "imdb_id": "tt0060665"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1966",
-    "nominees": [
-      "Jocelyne LaGarde"
-    ],
-    "movies": [
-      {
-        "title": "Hawaii",
-        "tmdb_id": 14689,
-        "imdb_id": "tt0060491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1966",
-    "nominees": [
-      "Vivien Merchant"
-    ],
-    "movies": [
-      {
-        "title": "Alfie",
-        "tmdb_id": 15598,
-        "imdb_id": "tt0060086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1966",
-    "nominees": [
-      "Geraldine Page"
-    ],
-    "movies": [
-      {
-        "title": "You're a Big Boy Now",
-        "tmdb_id": 42728,
-        "imdb_id": "tt0061209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1966",
-    "nominees": [
-      "Fred Zinnemann"
-    ],
-    "movies": [
-      {
-        "title": "A Man for All Seasons",
-        "tmdb_id": 874,
-        "imdb_id": "tt0060665"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1966",
-    "nominees": [
-      "Michelangelo Antonioni"
-    ],
-    "movies": [
-      {
-        "title": "Blow-Up",
-        "tmdb_id": 1052,
-        "imdb_id": "tt0060176"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1966",
-    "nominees": [
-      "Richard Brooks"
-    ],
-    "movies": [
-      {
-        "title": "The Professionals",
-        "tmdb_id": 22383,
-        "imdb_id": "tt0060862"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1966",
-    "nominees": [
-      "Claude Lelouch"
-    ],
-    "movies": [
-      {
-        "title": "A Man and a Woman",
-        "tmdb_id": 42726,
-        "imdb_id": "tt0061138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1966",
-    "nominees": [
-      "Mike Nichols"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1966",
-    "nominees": [
-      "Robert Bolt"
-    ],
-    "movies": [
-      {
-        "title": "A Man for All Seasons",
-        "tmdb_id": 874,
-        "imdb_id": "tt0060665"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1966",
-    "nominees": [
-      "Bill Naughton"
-    ],
-    "movies": [
-      {
-        "title": "Alfie",
-        "tmdb_id": 15598,
-        "imdb_id": "tt0060086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1966",
-    "nominees": [
-      "Richard Brooks"
-    ],
-    "movies": [
-      {
-        "title": "The Professionals",
-        "tmdb_id": 22383,
-        "imdb_id": "tt0060862"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1966",
-    "nominees": [
-      "William Rose"
-    ],
-    "movies": [
-      {
-        "title": "The Russians Are Coming! The Russians Are Coming!",
-        "tmdb_id": 31918,
-        "imdb_id": "tt0060921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1966",
-    "nominees": [
-      "Ernest Lehman"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1966",
-    "nominees": [
-      "Claude Lelouch",
-      "Pierre Uytterhoeven"
-    ],
-    "movies": [
-      {
-        "title": "A Man and a Woman",
-        "tmdb_id": 42726,
-        "imdb_id": "tt0061138"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1966",
-    "nominees": [
-      "Michelangelo Antonioni",
-      "Tonino Guerra",
-      "Edward Bond"
-    ],
-    "movies": [
-      {
-        "title": "Blow-Up",
-        "tmdb_id": 1052,
-        "imdb_id": "tt0060176"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1966",
-    "nominees": [
-      "Billy Wilder",
-      "I. A. L. Diamond"
-    ],
-    "movies": [
-      {
-        "title": "The Fortune Cookie",
-        "tmdb_id": 1888,
-        "imdb_id": "tt0060424"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1966",
-    "nominees": [
-      "Robert Ardrey"
-    ],
-    "movies": [
-      {
-        "title": "Khartoum",
-        "tmdb_id": 29710,
-        "imdb_id": "tt0060588"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1966",
-    "nominees": [
-      "Clint Johnston",
-      "Don Peters"
-    ],
-    "movies": [
-      {
-        "title": "The Naked Prey",
-        "tmdb_id": 18513,
-        "imdb_id": "tt0060736"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1966",
-    "nominees": [
-      "John Barry"
-    ],
-    "movies": [
-      {
-        "title": "Born Free",
-        "tmdb_id": 15347,
-        "imdb_id": "tt0060182"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1966",
-    "nominees": [
-      "Toshiro Mayuzumi"
-    ],
-    "movies": [
-      {
-        "title": "The Bible: In the Beginning...",
-        "tmdb_id": 2525,
-        "imdb_id": "tt0060164"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1966",
-    "nominees": [
-      "Elmer Bernstein"
-    ],
-    "movies": [
-      {
-        "title": "Hawaii",
-        "tmdb_id": 14689,
-        "imdb_id": "tt0060491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1966",
-    "nominees": [
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "The Sand Pebbles",
-        "tmdb_id": 5923,
-        "imdb_id": "tt0060934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1966",
-    "nominees": [
-      "Alex North"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1966",
-    "nominees": [
-      "Ken Thorne"
-    ],
-    "movies": [
-      {
-        "title": "A Funny Thing Happened on the Way to the Forum",
-        "tmdb_id": 17768,
-        "imdb_id": "tt0060438"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1966",
-    "nominees": [
-      "Luis Enriquez Bacalov"
-    ],
-    "movies": [
-      {
-        "title": "The Gospel According to Matthew",
-        "tmdb_id": 24192,
-        "imdb_id": "tt0058715"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1966",
-    "nominees": [
-      "Elmer Bernstein"
-    ],
-    "movies": [
-      {
-        "title": "Return of the Seven",
-        "tmdb_id": 12639,
-        "imdb_id": "tt0060897"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1966",
-    "nominees": [
-      "Harry Sukman"
-    ],
-    "movies": [
-      {
-        "title": "The Singing Nun",
-        "tmdb_id": 49863,
-        "imdb_id": "tt0060983"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1966",
-    "nominees": [
-      "Al Ham"
-    ],
-    "movies": [
-      {
-        "title": "Stop the World: I Want to Get Off",
-        "tmdb_id": 216648,
-        "imdb_id": "tt0061034"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1966",
-    "nominees": [
-      "Born Free"
-    ],
-    "movies": [
-      {
-        "title": "Born Free",
-        "tmdb_id": 15347,
-        "imdb_id": "tt0060182"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1966",
-    "nominees": [
-      "Alfie"
-    ],
-    "movies": [
-      {
-        "title": "Alfie",
-        "tmdb_id": 15598,
-        "imdb_id": "tt0060086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1966",
-    "nominees": [
-      "Georgy Girl"
-    ],
-    "movies": [
-      {
-        "title": "Georgy Girl",
-        "tmdb_id": 42719,
-        "imdb_id": "tt0060453"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1966",
-    "nominees": [
-      "My Wishing Doll"
-    ],
-    "movies": [
-      {
-        "title": "Hawaii",
-        "tmdb_id": 14689,
-        "imdb_id": "tt0060491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1966",
-    "nominees": [
-      "A Time for Love"
-    ],
-    "movies": [
-      {
-        "title": "An American Dream",
-        "tmdb_id": 131861,
-        "imdb_id": "tt0060099"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1966",
-    "nominees": [
-      "A Man and a Woman"
-    ],
-    "movies": [
-      {
-        "title": "A Man and a Woman",
-        "tmdb_id": 42726,
-        "imdb_id": "tt0061138"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1966",
-    "nominees": [
-      "The Battle of Algiers"
-    ],
-    "movies": [
-      {
-        "title": "The Battle of Algiers",
-        "tmdb_id": 17295,
-        "imdb_id": "tt0058946"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1966",
-    "nominees": [
-      "Loves of a Blonde"
-    ],
-    "movies": [
-      {
-        "title": "Loves of a Blonde",
-        "tmdb_id": 39387,
-        "imdb_id": "tt0059415"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1966",
-    "nominees": [
-      "Pharaoh"
-    ],
-    "movies": [
-      {
-        "title": "Pharaoh",
-        "tmdb_id": 5040,
-        "imdb_id": "tt0060401"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1966",
-    "nominees": [
-      "Three"
-    ],
-    "movies": [
-      {
-        "title": "Three",
-        "tmdb_id": 202768,
-        "imdb_id": "tt0059829"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1966",
-    "nominees": [
-      "The War Game"
-    ],
-    "movies": [
-      {
-        "title": "The War Game",
-        "tmdb_id": 26508,
-        "imdb_id": "tt0059894"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1966",
-    "nominees": [
-      "The Face of Genius"
-    ],
-    "movies": [
-      {
-        "title": "The Face of Genius",
-        "tmdb_id": 149296,
-        "imdb_id": "tt0060389"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1966",
-    "nominees": [
-      "Helicopter Canada"
-    ],
-    "movies": [
-      {
-        "title": "Helicopter Canada",
-        "tmdb_id": 149297,
-        "imdb_id": "tt0060498"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1966",
-    "nominees": [
-      "The Really Big Family"
-    ],
-    "movies": [
-      {
-        "title": "The Really Big Family",
-        "tmdb_id": 149298,
-        "imdb_id": "tt0062180"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1966",
-    "nominees": [
-      "The Forbidden Volcano"
-    ],
-    "movies": [
-      {
-        "title": "The Forbidden Volcano",
-        "tmdb_id": 149299,
-        "imdb_id": "tt0061163"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1966",
-    "nominees": [
-      "A Year Towards Tomorrow"
-    ],
-    "movies": [
-      {
-        "title": "A Year Towards Tomorrow",
-        "tmdb_id": 243295,
-        "imdb_id": "tt0061205"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1966",
-    "nominees": [
-      "Adolescence"
-    ],
-    "movies": [
-      {
-        "title": "Adolescence",
-        "tmdb_id": 243297,
-        "imdb_id": "tt0060069"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1966",
-    "nominees": [
-      "Cowboy"
-    ],
-    "movies": [
-      {
-        "title": "Cowboy",
-        "tmdb_id": 243299,
-        "imdb_id": "tt0060259"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1966",
-    "nominees": [
-      "The Odds Against"
-    ],
-    "movies": [
-      {
-        "title": "The Odds Against",
-        "tmdb_id": 243301,
-        "imdb_id": "tt0060776"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1966",
-    "nominees": [
-      "Saint Matthew Passion"
-    ],
-    "movies": [
-      {
-        "title": "Saint Matthew Passion",
-        "tmdb_id": 243303,
-        "imdb_id": "tt0060927"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1966",
-    "nominees": [
-      "A Herb Alpert and the Tijuana Brass Double Feature"
-    ],
-    "movies": [
-      {
-        "title": "A Herb Alpert & the Tijuana Brass Double Feature",
-        "tmdb_id": 209505,
-        "imdb_id": "tt0060503"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1966",
-    "nominees": [
-      "The Drag"
-    ],
-    "movies": [
-      {
-        "title": "The Drag",
-        "tmdb_id": 243293,
-        "imdb_id": "tt0060346"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1966",
-    "nominees": [
-      "The Pink Blueprint"
-    ],
-    "movies": [
-      {
-        "title": "The Pink Blueprint",
-        "tmdb_id": 243294,
-        "imdb_id": "tt0060834"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1966",
-    "nominees": [
-      "Wild Wings"
-    ],
-    "movies": [
-      {
-        "title": "Wild Wings",
-        "tmdb_id": 243289,
-        "imdb_id": "tt0061192"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1966",
-    "nominees": [
-      "Turkey: The Bridge"
-    ],
-    "movies": [
-      {
-        "title": "Turkey: The Bridge",
-        "tmdb_id": 243290,
-        "imdb_id": "tt0061128"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1966",
-    "nominees": [
-      "The Winning Strain"
-    ],
-    "movies": [
-      {
-        "title": "The Winning Strain",
-        "tmdb_id": 243291,
-        "imdb_id": "tt0061200"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Richard Sylbert",
-      "George James Hopkins"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Robert Luthardt",
-      "Edward G. Boyle"
-    ],
-    "movies": [
-      {
-        "title": "The Fortune Cookie",
-        "tmdb_id": 1888,
-        "imdb_id": "tt0060424"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Luigi Scaccianoce"
-    ],
-    "movies": [
-      {
-        "title": "The Gospel According to Matthew",
-        "tmdb_id": 24192,
-        "imdb_id": "tt0058715"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Willy Holf",
-      "Marc Frederix",
-      "Pierre Guffroy"
-    ],
-    "movies": [
-      {
-        "title": "Is Paris Burning?",
-        "tmdb_id": 4708,
-        "imdb_id": "tt0060814"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "George Davis",
-      "Paul Groesse",
-      "Henry Grace",
-      "Hugh Hunt"
-    ],
-    "movies": [
-      {
-        "title": "Mister Buddwing",
-        "tmdb_id": 207681,
-        "imdb_id": "tt0059453"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Jack Martin Smith",
-      "Dale Hennesy",
-      "Walter M. Scott",
-      "Stuart A. Reiss"
-    ],
-    "movies": [
-      {
-        "title": "Fantastic Voyage",
-        "tmdb_id": 2161,
-        "imdb_id": "tt0060397"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Alexander Golitzen",
-      "George C. Webb",
-      "John McCarthy Jr.",
-      "John Austin"
-    ],
-    "movies": [
-      {
-        "title": "Gambit",
-        "tmdb_id": 28270,
-        "imdb_id": "tt0060445"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Piero Gherardi"
-    ],
-    "movies": [
-      {
-        "title": "Juliet of the Spirits",
-        "tmdb_id": 19120,
-        "imdb_id": "tt0059229"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Hal Pereira",
-      "Arthur Lonergan",
-      "Robert R. Benton",
-      "James W. Payne"
-    ],
-    "movies": [
-      {
-        "title": "The Oscar",
-        "tmdb_id": 56168,
-        "imdb_id": "tt0060801"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Boris Leven",
-      "Walter M. Scott",
-      "John Sturtevant",
-      "William Kiernan"
-    ],
-    "movies": [
-      {
-        "title": "The Sand Pebbles",
-        "tmdb_id": 5923,
-        "imdb_id": "tt0060934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Haskell Wexler"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Joseph LaShelle"
-    ],
-    "movies": [
-      {
-        "title": "The Fortune Cookie",
-        "tmdb_id": 1888,
-        "imdb_id": "tt0060424"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Kenneth Higgins"
-    ],
-    "movies": [
-      {
-        "title": "Georgy Girl",
-        "tmdb_id": 42719,
-        "imdb_id": "tt0060453"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Marcel Grignon"
-    ],
-    "movies": [
-      {
-        "title": "Is Paris Burning?",
-        "tmdb_id": 4708,
-        "imdb_id": "tt0060814"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "James Wong Howe"
-    ],
-    "movies": [
-      {
-        "title": "Seconds",
-        "tmdb_id": 20620,
-        "imdb_id": "tt0060955"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1966",
-    "nominees": [
-      "Ted Moore"
-    ],
-    "movies": [
-      {
-        "title": "A Man for All Seasons",
-        "tmdb_id": 874,
-        "imdb_id": "tt0060665"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1966",
-    "nominees": [
-      "Ernest Laszlo"
-    ],
-    "movies": [
-      {
-        "title": "Fantastic Voyage",
-        "tmdb_id": 2161,
-        "imdb_id": "tt0060397"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1966",
-    "nominees": [
-      "Russell Harlan"
-    ],
-    "movies": [
-      {
-        "title": "Hawaii",
-        "tmdb_id": 14689,
-        "imdb_id": "tt0060491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1966",
-    "nominees": [
-      "Conrad Hall"
-    ],
-    "movies": [
-      {
-        "title": "The Professionals",
-        "tmdb_id": 22383,
-        "imdb_id": "tt0060862"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1966",
-    "nominees": [
-      "Joseph MacDonald"
-    ],
-    "movies": [
-      {
-        "title": "The Sand Pebbles",
-        "tmdb_id": 5923,
-        "imdb_id": "tt0060934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1966",
-    "nominees": [
-      "Fredric Steinkamp",
-      "Henry Berman",
-      "Stuart Linder",
-      "Frank Santillo"
-    ],
-    "movies": [
-      {
-        "title": "Grand Prix",
-        "tmdb_id": 20379,
-        "imdb_id": "tt0060472"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1966",
-    "nominees": [
-      "William B. Murphy"
-    ],
-    "movies": [
-      {
-        "title": "Fantastic Voyage",
-        "tmdb_id": 2161,
-        "imdb_id": "tt0060397"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1966",
-    "nominees": [
-      "Hal Ashby",
-      "J. Terry Williams"
-    ],
-    "movies": [
-      {
-        "title": "The Russians Are Coming! The Russians Are Coming!",
-        "tmdb_id": 31918,
-        "imdb_id": "tt0060921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1966",
-    "nominees": [
-      "William H. Reynolds"
-    ],
-    "movies": [
-      {
-        "title": "The Sand Pebbles",
-        "tmdb_id": 5923,
-        "imdb_id": "tt0060934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1966",
-    "nominees": [
-      "Sam O'Steen"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1966",
-    "nominees": [
-      "Art Cruickshank"
-    ],
-    "movies": [
-      {
-        "title": "Fantastic Voyage",
-        "tmdb_id": 2161,
-        "imdb_id": "tt0060397"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1966",
-    "nominees": [
-      "Linwood G. Dunn"
-    ],
-    "movies": [
-      {
-        "title": "Hawaii",
-        "tmdb_id": 14689,
-        "imdb_id": "tt0060491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1966",
-    "nominees": [
-      "Franklin Milton"
-    ],
-    "movies": [
-      {
-        "title": "Grand Prix",
-        "tmdb_id": 20379,
-        "imdb_id": "tt0060472"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1966",
-    "nominees": [
-      "Waldon O. Watson"
-    ],
-    "movies": [
-      {
-        "title": "Gambit",
-        "tmdb_id": 28270,
-        "imdb_id": "tt0060445"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1966",
-    "nominees": [
-      "Gordon E. Sawyer"
-    ],
-    "movies": [
-      {
-        "title": "Hawaii",
-        "tmdb_id": 14689,
-        "imdb_id": "tt0060491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1966",
-    "nominees": [
-      "James Corcoran"
-    ],
-    "movies": [
-      {
-        "title": "The Sand Pebbles",
-        "tmdb_id": 5923,
-        "imdb_id": "tt0060934"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1966",
-    "nominees": [
-      "George Groves"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1966",
-    "nominees": [
-      "Gordon Daniel"
-    ],
-    "movies": [
-      {
-        "title": "Grand Prix",
-        "tmdb_id": 20379,
-        "imdb_id": "tt0060472"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1966",
-    "nominees": [
-      "Walter Rossi"
-    ],
-    "movies": [
-      {
-        "title": "Fantastic Voyage",
-        "tmdb_id": 2161,
-        "imdb_id": "tt0060397"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Irene Sharaff"
-    ],
-    "movies": [
-      {
-        "title": "Who's Afraid of Virginia Woolf?",
-        "tmdb_id": 396,
-        "imdb_id": "tt0061184"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Danilo Donati"
-    ],
-    "movies": [
-      {
-        "title": "The Gospel According to Matthew",
-        "tmdb_id": 24192,
-        "imdb_id": "tt0058715"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Danilo Donati"
-    ],
-    "movies": [
-      {
-        "title": "The Mandrake",
-        "tmdb_id": 74216,
-        "imdb_id": "tt0059424"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Helen Rose"
-    ],
-    "movies": [
-      {
-        "title": "Mister Buddwing",
-        "tmdb_id": 207681,
-        "imdb_id": "tt0059453"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1966",
-    "nominees": [
-      "Jocelyn Rickards"
-    ],
-    "movies": [
-      {
-        "title": "Lady Morgan's Vengeance",
-        "tmdb_id": 281152,
-        "imdb_id": "tt0166390"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Joan Bridge",
-      "Elizabeth Haffenden"
-    ],
-    "movies": [
-      {
-        "title": "A Man for All Seasons",
-        "tmdb_id": 874,
-        "imdb_id": "tt0060665"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Jean Louis"
-    ],
-    "movies": [
-      {
-        "title": "Gambit",
-        "tmdb_id": 28270,
-        "imdb_id": "tt0060445"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Dorothy Jeakins"
-    ],
-    "movies": [
-      {
-        "title": "Hawaii",
-        "tmdb_id": 14689,
-        "imdb_id": "tt0060491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Piero Gherardi"
-    ],
-    "movies": [
-      {
-        "title": "Juliet of the Spirits",
-        "tmdb_id": 19120,
-        "imdb_id": "tt0059229"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1966",
-    "nominees": [
-      "Edith Head"
-    ],
-    "movies": [
-      {
-        "title": "The Oscar",
-        "tmdb_id": 56168,
-        "imdb_id": "tt0060801"
-      }
-    ],
-    "won": false
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Russians Are Coming The Russians Are Coming",
+    "FilmId": "tt0060921",
+    "Name": "Alan Arkin",
+    "Nominees": "Alan Arkin",
+    "NomineeIds": "nm0000273",
+    "Winner": "",
+    "Detail": "Rozanov",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Richard Burton",
+    "Nominees": "Richard Burton",
+    "NomineeIds": "nm0000009",
+    "Winner": "",
+    "Detail": "George",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Alfie",
+    "FilmId": "tt0060086",
+    "Name": "Michael Caine",
+    "Nominees": "Michael Caine",
+    "NomineeIds": "nm0000323",
+    "Winner": "",
+    "Detail": "Alfie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Sand Pebbles",
+    "FilmId": "tt0060934",
+    "Name": "Steve McQueen",
+    "Nominees": "Steve McQueen",
+    "NomineeIds": "nm0000537",
+    "Winner": "",
+    "Detail": "Jake Holman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "A Man for All Seasons",
+    "FilmId": "tt0060665",
+    "Name": "Paul Scofield",
+    "Nominees": "Paul Scofield",
+    "NomineeIds": "nm0006890",
+    "Winner": "True",
+    "Detail": "Sir Thomas More",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Sand Pebbles",
+    "FilmId": "tt0060934",
+    "Name": "Mako",
+    "Nominees": "Mako",
+    "NomineeIds": "nm0538683",
+    "Winner": "",
+    "Detail": "Po-Han",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Georgy Girl",
+    "FilmId": "tt0060453",
+    "Name": "James Mason",
+    "Nominees": "James Mason",
+    "NomineeIds": "nm0000051",
+    "Winner": "",
+    "Detail": "James Leamington",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Fortune Cookie",
+    "FilmId": "tt0060424",
+    "Name": "Walter Matthau",
+    "Nominees": "Walter Matthau",
+    "NomineeIds": "nm0000527",
+    "Winner": "True",
+    "Detail": "Willie Gingrich",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "George Segal",
+    "Nominees": "George Segal",
+    "NomineeIds": "nm0001719",
+    "Winner": "",
+    "Detail": "Nick",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A Man for All Seasons",
+    "FilmId": "tt0060665",
+    "Name": "Robert Shaw",
+    "Nominees": "Robert Shaw",
+    "NomineeIds": "nm0001727",
+    "Winner": "",
+    "Detail": "King Henry VIII",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "A Man and a Woman",
+    "FilmId": "tt0061138",
+    "Name": "Anouk Aimee",
+    "Nominees": "Anouk Aimee",
+    "NomineeIds": "nm0000733",
+    "Winner": "",
+    "Detail": "Anne Gauthier",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Shop on Main Street",
+    "FilmId": "tt0059527",
+    "Name": "Ida Kaminska",
+    "Nominees": "Ida Kaminska",
+    "NomineeIds": "nm0436706",
+    "Winner": "",
+    "Detail": "Rozalie Lautmanova",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Georgy Girl",
+    "FilmId": "tt0060453",
+    "Name": "Lynn Redgrave",
+    "Nominees": "Lynn Redgrave",
+    "NomineeIds": "nm0001655",
+    "Winner": "",
+    "Detail": "Georgy Parkin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Morgan!",
+    "FilmId": "tt0060714",
+    "Name": "Vanessa Redgrave",
+    "Nominees": "Vanessa Redgrave",
+    "NomineeIds": "nm0000603",
+    "Winner": "",
+    "Detail": "Leonie Delt",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Elizabeth Taylor",
+    "Nominees": "Elizabeth Taylor",
+    "NomineeIds": "nm0000072",
+    "Winner": "True",
+    "Detail": "Martha",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Sandy Dennis",
+    "Nominees": "Sandy Dennis",
+    "NomineeIds": "nm0006800",
+    "Winner": "True",
+    "Detail": "Honey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "A Man for All Seasons",
+    "FilmId": "tt0060665",
+    "Name": "Wendy Hiller",
+    "Nominees": "Wendy Hiller",
+    "NomineeIds": "nm0384908",
+    "Winner": "",
+    "Detail": "Alice More",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Hawaii",
+    "FilmId": "tt0060491",
+    "Name": "Jocelyne Lagarde",
+    "Nominees": "Jocelyne Lagarde",
+    "NomineeIds": "nm0481139",
+    "Winner": "",
+    "Detail": "Malama",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Alfie",
+    "FilmId": "tt0060086",
+    "Name": "Vivien Merchant",
+    "Nominees": "Vivien Merchant",
+    "NomineeIds": "nm0580357",
+    "Winner": "",
+    "Detail": "Lily",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "You're a Big Boy Now",
+    "FilmId": "tt0061209",
+    "Name": "Geraldine Page",
+    "Nominees": "Geraldine Page",
+    "NomineeIds": "nm0656183",
+    "Winner": "",
+    "Detail": "Margary Chanticleer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Fortune Cookie",
+    "FilmId": "tt0060424",
+    "Name": "Art Direction: Robert Luthardt; Set Decoration: Edward G. Boyle",
+    "Nominees": "Robert Luthardt|Edward G. Boyle",
+    "NomineeIds": "nm0527412|nm0102231",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Gospel According to St. Matthew",
+    "FilmId": "tt0058715",
+    "Name": "Luigi Scaccianoce",
+    "Nominees": "Luigi Scaccianoce",
+    "NomineeIds": "nm0768663",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Is Paris Burning?",
+    "FilmId": "tt0060814",
+    "Name": "Art Direction: Willy Holt; Set Decoration: Marc Frederix, Pierre Guffroy",
+    "Nominees": "Willy Holt|Marc Frederix|Pierre Guffroy",
+    "NomineeIds": "nm0231248|nm0296994|nm0346535",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Mister Buddwing",
+    "FilmId": "tt0059453",
+    "Name": "Art Direction: George W. Davis, Paul Groesse; Set Decoration: Henry Grace, Hugh Hunt",
+    "Nominees": "George W. Davis|Paul Groesse|Henry Grace|Hugh Hunt",
+    "NomineeIds": "nm0204649|nm0342904|nm0333352|nm0402474",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Art Direction: Richard Sylbert; Set Decoration: George James Hopkins",
+    "Nominees": "Richard Sylbert|George James Hopkins",
+    "NomineeIds": "nm0843129|nm0394166",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Fantastic Voyage",
+    "FilmId": "tt0060397",
+    "Name": "Art Direction: Jack Martin Smith, Dale Hennesy; Set Decoration: Walter M. Scott, Stuart A. Reiss",
+    "Nominees": "Jack Martin Smith|Dale Hennesy|Walter M. Scott|Stuart A. Reiss",
+    "NomineeIds": "nm0005584|nm0377322|nm0779898|nm0718524",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Gambit",
+    "FilmId": "tt0060445",
+    "Name": "Art Direction: Alexander Golitzen, George C. Webb; Set Decoration: John McCarthy, John Austin",
+    "Nominees": "Alexander Golitzen|George C. Webb|John McCarthy|John Austin",
+    "NomineeIds": "nm0326529|nm0916112|nm0565042|nm0042431",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Juliet of the Spirits",
+    "FilmId": "tt0059229",
+    "Name": "Piero Gherardi",
+    "Nominees": "Piero Gherardi",
+    "NomineeIds": "nm0315662",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Oscar",
+    "FilmId": "tt0060801",
+    "Name": "Art Direction: Hal Pereira, Arthur Lonergan; Set Decoration: Robert Benton, James Payne",
+    "Nominees": "Hal Pereira|Arthur Lonergan|Robert Benton|James Payne",
+    "NomineeIds": "nm0673134|nm0518830|nm0072960|nm0668349",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Sand Pebbles",
+    "FilmId": "tt0060934",
+    "Name": "Art Direction: Boris Leven; Set Decoration: Walter M. Scott, John Sturtevant, William Kiernan",
+    "Nominees": "Boris Leven|Walter M. Scott|John Sturtevant|William Kiernan",
+    "NomineeIds": "nm0505227|nm0779898|nm0836446|nm0452599",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Fortune Cookie",
+    "FilmId": "tt0060424",
+    "Name": "Joseph LaShelle",
+    "Nominees": "Joseph LaShelle",
+    "NomineeIds": "nm0005766",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Georgy Girl",
+    "FilmId": "tt0060453",
+    "Name": "Ken Higgins",
+    "Nominees": "Ken Higgins",
+    "NomineeIds": "nm0383429",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Is Paris Burning?",
+    "FilmId": "tt0060814",
+    "Name": "Marcel Grignon",
+    "Nominees": "Marcel Grignon",
+    "NomineeIds": "nm0341856",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Seconds",
+    "FilmId": "tt0060955",
+    "Name": "James Wong Howe",
+    "Nominees": "James Wong Howe",
+    "NomineeIds": "nm0002146",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Haskell Wexler",
+    "Nominees": "Haskell Wexler",
+    "NomineeIds": "nm0005549",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Fantastic Voyage",
+    "FilmId": "tt0060397",
+    "Name": "Ernest Laszlo",
+    "Nominees": "Ernest Laszlo",
+    "NomineeIds": "nm0005768",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Hawaii",
+    "FilmId": "tt0060491",
+    "Name": "Russell Harlan",
+    "Nominees": "Russell Harlan",
+    "NomineeIds": "nm0005737",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "A Man for All Seasons",
+    "FilmId": "tt0060665",
+    "Name": "Ted Moore",
+    "Nominees": "Ted Moore",
+    "NomineeIds": "nm0601924",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Professionals",
+    "FilmId": "tt0060862",
+    "Name": "Conrad Hall",
+    "Nominees": "Conrad Hall",
+    "NomineeIds": "nm0005734",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Sand Pebbles",
+    "FilmId": "tt0060934",
+    "Name": "Joseph MacDonald",
+    "Nominees": "Joseph MacDonald",
+    "NomineeIds": "nm0531796",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Gospel According to St. Matthew",
+    "FilmId": "tt0058715",
+    "Name": "Danilo Donati",
+    "Nominees": "Danilo Donati",
+    "NomineeIds": "nm0232219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Mandragola",
+    "FilmId": "tt0059424",
+    "Name": "Danilo Donati",
+    "Nominees": "Danilo Donati",
+    "NomineeIds": "nm0232219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Mister Buddwing",
+    "FilmId": "tt0059453",
+    "Name": "Helen Rose",
+    "Nominees": "Helen Rose",
+    "NomineeIds": "nm0741423",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Morgan!",
+    "FilmId": "tt0060714",
+    "Name": "Jocelyn Rickards",
+    "Nominees": "Jocelyn Rickards",
+    "NomineeIds": "nm0725454",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Irene Sharaff",
+    "Nominees": "Irene Sharaff",
+    "NomineeIds": "nm0788695",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Gambit",
+    "FilmId": "tt0060445",
+    "Name": "Jean Louis",
+    "Nominees": "Jean Louis",
+    "NomineeIds": "nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Hawaii",
+    "FilmId": "tt0060491",
+    "Name": "Dorothy Jeakins",
+    "Nominees": "Dorothy Jeakins",
+    "NomineeIds": "nm0419820",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Juliet of the Spirits",
+    "FilmId": "tt0059229",
+    "Name": "Piero Gherardi",
+    "Nominees": "Piero Gherardi",
+    "NomineeIds": "nm0315662",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "A Man for All Seasons",
+    "FilmId": "tt0060665",
+    "Name": "Elizabeth Haffenden, Joan Bridge",
+    "Nominees": "Elizabeth Haffenden|Joan Bridge",
+    "NomineeIds": "nm0353111|nm0108663",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Oscar",
+    "FilmId": "tt0060801",
+    "Name": "Edith Head",
+    "Nominees": "Edith Head",
+    "NomineeIds": "nm0372128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Blow-Up",
+    "FilmId": "tt0060176",
+    "Name": "Michelangelo Antonioni",
+    "Nominees": "Michelangelo Antonioni",
+    "NomineeIds": "nm0000774",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "A Man and a Woman",
+    "FilmId": "tt0061138",
+    "Name": "Claude Lelouch",
+    "Nominees": "Claude Lelouch",
+    "NomineeIds": "nm0500988",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "A Man for All Seasons",
+    "FilmId": "tt0060665",
+    "Name": "Fred Zinnemann",
+    "Nominees": "Fred Zinnemann",
+    "NomineeIds": "nm0003593",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Professionals",
+    "FilmId": "tt0060862",
+    "Name": "Richard Brooks",
+    "Nominees": "Richard Brooks",
+    "NomineeIds": "nm0112218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Mike Nichols",
+    "Nominees": "Mike Nichols",
+    "NomineeIds": "nm0001566",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Face of Genius",
+    "FilmId": "tt0060389",
+    "Name": "Alfred R. Kelman, Producer",
+    "Nominees": "Alfred R. Kelman",
+    "NomineeIds": "nm0446973",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Helicopter Canada",
+    "FilmId": "tt0060498",
+    "Name": "Peter Jones and Tom Daly, Producers",
+    "Nominees": "Peter Jones|Tom Daly",
+    "NomineeIds": "nm0429014|nm0198514",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Le Volcan Interdit (The Forbidden Volcano)",
+    "FilmId": "tt0061163",
+    "Name": "Haroun Tazieff, Producer",
+    "Nominees": "Haroun Tazieff",
+    "NomineeIds": "nm0853404",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Really Big Family",
+    "FilmId": "tt0062180",
+    "Name": "Alex Grasshoff, Producer",
+    "Nominees": "Alex Grasshoff",
+    "NomineeIds": "nm0335883",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The War Game",
+    "FilmId": "tt0059894",
+    "Name": "Peter Watkins, Producer",
+    "Nominees": "Peter Watkins",
+    "NomineeIds": "nm0914386",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Adolescence",
+    "FilmId": "tt0060069",
+    "Name": "Marin Karmitz and Vladimir Forgency, Producers",
+    "Nominees": "Marin Karmitz|Vladimir Forgency",
+    "NomineeIds": "nm0439767|nm0286226",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Cowboy",
+    "FilmId": "tt0060259",
+    "Name": "Michael Ahnemann and Gary Schlosser, Producers",
+    "Nominees": "Michael Ahnemann|Gary Schlosser",
+    "NomineeIds": "nm0014234|nm0772440",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Odds Against",
+    "FilmId": "tt0060776",
+    "Name": "Lee R. Bobker and Helen Kristt Radin, Producers",
+    "Nominees": "Lee R. Bobker|Helen Kristt Radin",
+    "NomineeIds": "nm0090395|nm0705616",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Saint Matthew Passion",
+    "FilmId": "tt0060927",
+    "Name": "Mafilm Studio",
+    "Nominees": "Mafilm Studio",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Year toward Tomorrow",
+    "FilmId": "tt0061205",
+    "Name": "Edmond A. Levy, Producer",
+    "Nominees": "Edmond A. Levy",
+    "NomineeIds": "nm0506396",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Fantastic Voyage",
+    "FilmId": "tt0060397",
+    "Name": "William B. Murphy",
+    "Nominees": "William B. Murphy",
+    "NomineeIds": "nm0614781",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Grand Prix",
+    "FilmId": "tt0060472",
+    "Name": "Fredric Steinkamp, Henry Berman, Stewart Linder, Frank Santillo",
+    "Nominees": "Fredric Steinkamp|Henry Berman|Stewart Linder|Frank Santillo",
+    "NomineeIds": "nm0826114|nm0075770|nm0511742|nm0763694",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Russians Are Coming The Russians Are Coming",
+    "FilmId": "tt0060921",
+    "Name": "Hal Ashby, J. Terry Williams",
+    "Nominees": "Hal Ashby|J. Terry Williams",
+    "NomineeIds": "nm0000797|nm0930802",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Sand Pebbles",
+    "FilmId": "tt0060934",
+    "Name": "William Reynolds",
+    "Nominees": "William Reynolds",
+    "NomineeIds": "nm0722000",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Sam O'Steen",
+    "Nominees": "Sam O'Steen",
+    "NomineeIds": "nm0642714",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Battle of Algiers",
+    "FilmId": "tt0058946",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Loves of a Blonde",
+    "FilmId": "tt0059415",
+    "Name": "Czechoslovakia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A Man and a Woman",
+    "FilmId": "tt0061138",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Pharaoh",
+    "FilmId": "tt0060401",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Three",
+    "FilmId": "tt0059829",
+    "Name": "Yugoslavia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "The Bible",
+    "FilmId": "tt0060164",
+    "Name": "Toshiro Mayuzumi",
+    "Nominees": "Toshiro Mayuzumi",
+    "NomineeIds": "nm0006191",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "Born Free",
+    "FilmId": "tt0060182",
+    "Name": "John Barry",
+    "Nominees": "John Barry",
+    "NomineeIds": "nm0000290",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "Hawaii",
+    "FilmId": "tt0060491",
+    "Name": "Elmer Bernstein",
+    "Nominees": "Elmer Bernstein",
+    "NomineeIds": "nm0000930",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "The Sand Pebbles",
+    "FilmId": "tt0060934",
+    "Name": "Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Music Score)",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Alex North",
+    "Nominees": "Alex North",
+    "NomineeIds": "nm0006218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "A Funny Thing Happened on the Way to the Forum",
+    "FilmId": "tt0060438",
+    "Name": "Ken Thorne",
+    "Nominees": "Ken Thorne",
+    "NomineeIds": "nm0006322",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "The Gospel According to St. Matthew",
+    "FilmId": "tt0058715",
+    "Name": "Luis Enrique Bacalov",
+    "Nominees": "Luis Enrique Bacalov",
+    "NomineeIds": "nm0005953",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Return of the Seven",
+    "FilmId": "tt0060897",
+    "Name": "Elmer Bernstein",
+    "Nominees": "Elmer Bernstein",
+    "NomineeIds": "nm0000930",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "The Singing Nun",
+    "FilmId": "tt0060983",
+    "Name": "Harry Sukman",
+    "Nominees": "Harry Sukman",
+    "NomineeIds": "nm0006313",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Stop the World--I Want to Get Off",
+    "FilmId": "tt0061034",
+    "Name": "Al Ham",
+    "Nominees": "Al Ham",
+    "NomineeIds": "nm0357205",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Alfie",
+    "FilmId": "tt0060086",
+    "Name": "Music by Burt Bacharach; Lyrics by Hal David",
+    "Nominees": "Burt Bacharach|Hal David",
+    "NomineeIds": "nm0000820|nm0202910",
+    "Winner": "",
+    "Detail": "Alfie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Born Free",
+    "FilmId": "tt0060182",
+    "Name": "Music by John Barry; Lyrics by Don Black",
+    "Nominees": "John Barry|Don Black",
+    "NomineeIds": "nm0000290|nm0085246",
+    "Winner": "True",
+    "Detail": "Born Free",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Georgy Girl",
+    "FilmId": "tt0060453",
+    "Name": "Music by Tom Springfield; Lyrics by Jim Dale",
+    "Nominees": "Tom Springfield|Jim Dale",
+    "NomineeIds": "nm0819783|nm0197715",
+    "Winner": "",
+    "Detail": "Georgy Girl",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Hawaii",
+    "FilmId": "tt0060491",
+    "Name": "Music by Elmer Bernstein; Lyrics by Mack David",
+    "Nominees": "Elmer Bernstein|Mack David",
+    "NomineeIds": "nm0000930|nm0202988",
+    "Winner": "",
+    "Detail": "My Wishing Doll",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "An American Dream",
+    "FilmId": "tt0060099",
+    "Name": "Music by Johnny Mandel; Lyrics by Paul Francis Webster",
+    "Nominees": "Johnny Mandel|Paul Francis Webster",
+    "NomineeIds": "nm0006184|nm0916990",
+    "Winner": "",
+    "Detail": "A Time For Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Alfie",
+    "FilmId": "tt0060086",
+    "Name": "Lewis Gilbert, Producer",
+    "Nominees": "Lewis Gilbert",
+    "NomineeIds": "nm0318150",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "A Man for All Seasons",
+    "FilmId": "tt0060665",
+    "Name": "Fred Zinnemann, Producer",
+    "Nominees": "Fred Zinnemann",
+    "NomineeIds": "nm0003593",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Russians Are Coming The Russians Are Coming",
+    "FilmId": "tt0060921",
+    "Name": "Norman Jewison, Producer",
+    "Nominees": "Norman Jewison",
+    "NomineeIds": "nm0422484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Sand Pebbles",
+    "FilmId": "tt0060934",
+    "Name": "Robert Wise, Producer",
+    "Nominees": "Robert Wise",
+    "NomineeIds": "nm0936404",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Ernest Lehman, Producer",
+    "Nominees": "Ernest Lehman",
+    "NomineeIds": "nm0499626",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Drag",
+    "FilmId": "tt0060346",
+    "Name": "Wolf Koenig and Robert Verrall, Producers",
+    "Nominees": "Wolf Koenig|Robert Verrall",
+    "NomineeIds": "nm0462860|nm0894826",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Herb Alpert and the Tijuana Brass Double Feature",
+    "FilmId": "tt0060503",
+    "Name": "John Hubley and Faith Hubley, Producers",
+    "Nominees": "John Hubley|Faith Hubley",
+    "NomineeIds": "nm0399524|nm0254454",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Pink Blueprint",
+    "FilmId": "tt0060834",
+    "Name": "David H. DePatie and Friz Freleng, Producers",
+    "Nominees": "David H. DePatie|Friz Freleng",
+    "NomineeIds": "nm0220039|nm0293989",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Turkey the Bridge",
+    "FilmId": "tt0061128",
+    "Name": "Derek Williams, Producer",
+    "Nominees": "Derek Williams",
+    "NomineeIds": "nm0930426",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Wild Wings",
+    "FilmId": "tt0061192",
+    "Name": "Edgar Anstey, Producer",
+    "Nominees": "Edgar Anstey",
+    "NomineeIds": "nm0030693",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "The Winning Strain",
+    "FilmId": "tt0061200",
+    "Name": "Leslie Winik, Producer",
+    "Nominees": "Leslie Winik",
+    "NomineeIds": "nm0935119",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Gambit",
+    "FilmId": "tt0060445",
+    "Name": "Universal City Studio Sound Department, Waldon O. Watson, Sound Director",
+    "Nominees": "Universal City|Waldon O. Watson",
+    "NomineeIds": "co0005073|nm0910592",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Grand Prix",
+    "FilmId": "tt0060472",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Franklin E. Milton",
+    "NomineeIds": "co0007143|nm0590665",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Hawaii",
+    "FilmId": "tt0060491",
+    "Name": "Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",
+    "Nominees": "Samuel Goldwyn|Gordon E. Sawyer",
+    "NomineeIds": "co0058013|nm0768167",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Sand Pebbles",
+    "FilmId": "tt0060934",
+    "Name": "20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director",
+    "Nominees": "20th Century-Fox|James P. Corcoran",
+    "NomineeIds": "co0028775|nm0179331",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Warner Bros. Studio Sound Department, George R. Groves, Sound Director",
+    "Nominees": "Warner Bros.|George R. Groves",
+    "NomineeIds": "co0080422|nm0344060",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS",
+    "Film": "Fantastic Voyage",
+    "FilmId": "tt0060397",
+    "Name": "Walter Rossi",
+    "Nominees": "Walter Rossi",
+    "NomineeIds": "nm0744346",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS",
+    "Film": "Grand Prix",
+    "FilmId": "tt0060472",
+    "Name": "Gordon Daniel",
+    "Nominees": "Gordon Daniel",
+    "NomineeIds": "nm0199635",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "Fantastic Voyage",
+    "FilmId": "tt0060397",
+    "Name": "Art Cruickshank",
+    "Nominees": "Art Cruickshank",
+    "NomineeIds": "nm0189973",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "Hawaii",
+    "FilmId": "tt0060491",
+    "Name": "Linwood G. Dunn",
+    "Nominees": "Linwood G. Dunn",
+    "NomineeIds": "nm0242670",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Alfie",
+    "FilmId": "tt0060086",
+    "Name": "Bill Naughton",
+    "Nominees": "Bill Naughton",
+    "NomineeIds": "nm0622540",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "A Man for All Seasons",
+    "FilmId": "tt0060665",
+    "Name": "Robert Bolt",
+    "Nominees": "Robert Bolt",
+    "NomineeIds": "nm0004122",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Professionals",
+    "FilmId": "tt0060862",
+    "Name": "Richard Brooks",
+    "Nominees": "Richard Brooks",
+    "NomineeIds": "nm0112218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Russians Are Coming The Russians Are Coming",
+    "FilmId": "tt0060921",
+    "Name": "William Rose",
+    "Nominees": "William Rose",
+    "NomineeIds": "nm0741740",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Who's Afraid of Virginia Woolf?",
+    "FilmId": "tt0061184",
+    "Name": "Ernest Lehman",
+    "Nominees": "Ernest Lehman",
+    "NomineeIds": "nm0499626",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Blow-Up",
+    "FilmId": "tt0060176",
+    "Name": "Story by Michelangelo Antonioni; Screenplay by Michelangelo Antonioni, Tonino Guerra, Edward Bond",
+    "Nominees": "Michelangelo Antonioni|Tonino Guerra|Edward Bond",
+    "NomineeIds": "nm0000774|nm0346096|nm0093927",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "The Fortune Cookie",
+    "FilmId": "tt0060424",
+    "Name": "Billy Wilder, I. A. L. Diamond",
+    "Nominees": "Billy Wilder|I. A. L. Diamond",
+    "NomineeIds": "nm0000697|nm0224634",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Khartoum",
+    "FilmId": "tt0060588",
+    "Name": "Robert Ardrey",
+    "Nominees": "Robert Ardrey",
+    "NomineeIds": "nm0034124",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "A Man and a Woman",
+    "FilmId": "tt0061138",
+    "Name": "Story by Claude Lelouch; Screenplay by Claude Lelouch, Pierre Uytterhoeven",
+    "Nominees": "Claude Lelouch|Pierre Uytterhoeven",
+    "NomineeIds": "nm0500988|nm0882683",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "The Naked Prey",
+    "FilmId": "tt0060736",
+    "Name": "Clint Johnston, Don Peters",
+    "Nominees": "Clint Johnston|Don Peters",
+    "NomineeIds": "nm0426579|nm0676396",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "George Bagnall",
+    "Nominees": "George Bagnall",
+    "NomineeIds": "nm4929741",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Y. Frank Freeman",
+    "NomineeIds": "nm4460512",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Y. Frank Freeman for unusual and outstanding service to the Academy during his thirty years in Hollywood."
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Yakima Canutt",
+    "NomineeIds": "nm0134831",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Yakima Canutt for achievements as a stunt man and for developing safety devices to protect stunt men everywhere."
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Robert Wise",
+    "Nominees": "Robert Wise",
+    "NomineeIds": "nm0936404",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mitchell Camera Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To MITCHELL CAMERA CORPORATION for the design and development of the Mitchell Mark II 35mm Portable Motion Picture Reflex Camera."
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Arnold & Richter Kg",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To ARNOLD & RICHTER KG for the design and development of the Arriflex 35mm Portable Motion Picture Reflex Camera."
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Panavision INCORPORATED",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To PANAVISION, INCORPORATED, for the design of the Panatron Power Inverter and its application to motion picture camera operation."
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Carroll Knudson",
+    "NomineeIds": "nm1075094",
+    "Winner": "True",
+    "Detail": "Editorial",
+    "Note": "",
+    "Citation": "To CARROLL KNUDSON for the production of a Composer's Manual for Motion Picture Music Synchronization."
+  },
+  {
+    "Ceremony": 39,
+    "Year": 1966,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ruby Raksin",
+    "NomineeIds": "nm0707650",
+    "Winner": "True",
+    "Detail": "Editorial",
+    "Note": "",
+    "Citation": "To RUBY RAKSIN for the production of a Composer's Manual for Motion Picture Music Synchronization."
   }
 ]

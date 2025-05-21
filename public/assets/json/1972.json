@@ -1,1532 +1,1810 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1972",
-    "nominees": [
-      "The Godfather"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1972",
-    "nominees": [
-      "Cabaret"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1972",
-    "nominees": [
-      "Deliverance"
-    ],
-    "movies": [
-      {
-        "title": "Deliverance",
-        "tmdb_id": 10669,
-        "imdb_id": "tt0068473"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1972",
-    "nominees": [
-      "The Emigrants"
-    ],
-    "movies": [
-      {
-        "title": "The Emigrants",
-        "tmdb_id": 40732,
-        "imdb_id": "tt0067919"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1972",
-    "nominees": [
-      "Sounder"
-    ],
-    "movies": [
-      {
-        "title": "Sounder",
-        "tmdb_id": 42489,
-        "imdb_id": "tt0069303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1972",
-    "nominees": [
-      "Marlon Brando"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1972",
-    "nominees": [
-      "Michael Caine"
-    ],
-    "movies": [
-      {
-        "title": "Sleuth",
-        "tmdb_id": 993,
-        "imdb_id": "tt0069281"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1972",
-    "nominees": [
-      "Laurence Olivier"
-    ],
-    "movies": [
-      {
-        "title": "Sleuth",
-        "tmdb_id": 993,
-        "imdb_id": "tt0069281"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1972",
-    "nominees": [
-      "Peter O'Toole"
-    ],
-    "movies": [
-      {
-        "title": "The Ruling Class",
-        "tmdb_id": 30892,
-        "imdb_id": "tt0069198"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1972",
-    "nominees": [
-      "Paul Winfield"
-    ],
-    "movies": [
-      {
-        "title": "Sounder",
-        "tmdb_id": 42489,
-        "imdb_id": "tt0069303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1972",
-    "nominees": [
-      "Liza Minnelli"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1972",
-    "nominees": [
-      "Diana Ross"
-    ],
-    "movies": [
-      {
-        "title": "Lady Sings the Blues",
-        "tmdb_id": 23148,
-        "imdb_id": "tt0068828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1972",
-    "nominees": [
-      "Maggie Smith"
-    ],
-    "movies": [
-      {
-        "title": "Travels with My Aunt",
-        "tmdb_id": 5183,
-        "imdb_id": "tt0069404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1972",
-    "nominees": [
-      "Cicely Tyson"
-    ],
-    "movies": [
-      {
-        "title": "Sounder",
-        "tmdb_id": 42489,
-        "imdb_id": "tt0069303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1972",
-    "nominees": [
-      "Liv Ullmann"
-    ],
-    "movies": [
-      {
-        "title": "The Emigrants",
-        "tmdb_id": 40732,
-        "imdb_id": "tt0067919"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1972",
-    "nominees": [
-      "Joel Grey"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1972",
-    "nominees": [
-      "Eddie Albert"
-    ],
-    "movies": [
-      {
-        "title": "The Heartbreak Kid",
-        "tmdb_id": 40687,
-        "imdb_id": "tt0068687"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1972",
-    "nominees": [
-      "James Caan"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1972",
-    "nominees": [
-      "Robert Duvall"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1972",
-    "nominees": [
-      "Al Pacino"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1972",
-    "nominees": [
-      "Eileen Heckart"
-    ],
-    "movies": [
-      {
-        "title": "Butterflies Are Free",
-        "tmdb_id": 55106,
-        "imdb_id": "tt0068326"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1972",
-    "nominees": [
-      "Jeannie Berlin"
-    ],
-    "movies": [
-      {
-        "title": "The Heartbreak Kid",
-        "tmdb_id": 40687,
-        "imdb_id": "tt0068687"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1972",
-    "nominees": [
-      "Geraldine Page"
-    ],
-    "movies": [
-      {
-        "title": "Pete 'n' Tillie",
-        "tmdb_id": 107774,
-        "imdb_id": "tt0069080"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1972",
-    "nominees": [
-      "Susan Tyrrell"
-    ],
-    "movies": [
-      {
-        "title": "Fat City",
-        "tmdb_id": 16993,
-        "imdb_id": "tt0068575"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1972",
-    "nominees": [
-      "Shelley Winters"
-    ],
-    "movies": [
-      {
-        "title": "The Poseidon Adventure",
-        "tmdb_id": 551,
-        "imdb_id": "tt0069113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1972",
-    "nominees": [
-      "Bob Fosse"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1972",
-    "nominees": [
-      "John Boorman"
-    ],
-    "movies": [
-      {
-        "title": "Deliverance",
-        "tmdb_id": 10669,
-        "imdb_id": "tt0068473"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1972",
-    "nominees": [
-      "Francis Ford Coppola"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1972",
-    "nominees": [
-      "Joseph L. Mankiewicz"
-    ],
-    "movies": [
-      {
-        "title": "Sleuth",
-        "tmdb_id": 993,
-        "imdb_id": "tt0069281"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1972",
-    "nominees": [
-      "Jan Troell"
-    ],
-    "movies": [
-      {
-        "title": "The Emigrants",
-        "tmdb_id": 40732,
-        "imdb_id": "tt0067919"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Mario Puzo",
-      "Francis Ford Coppola"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Jay Presson Allen"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Bengt Forslund",
-      "Jan Troell"
-    ],
-    "movies": [
-      {
-        "title": "The Emigrants",
-        "tmdb_id": 40732,
-        "imdb_id": "tt0067919"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Julius J. Epstein"
-    ],
-    "movies": [
-      {
-        "title": "Pete 'n' Tillie",
-        "tmdb_id": 107774,
-        "imdb_id": "tt0069080"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Lonne Elder III"
-    ],
-    "movies": [
-      {
-        "title": "Sounder",
-        "tmdb_id": 42489,
-        "imdb_id": "tt0069303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Jeremy Larner"
-    ],
-    "movies": [
-      {
-        "title": "The Candidate",
-        "tmdb_id": 21711,
-        "imdb_id": "tt0068334"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Luis Bunuel",
-      "Jean-Claude Carriere"
-    ],
-    "movies": [
-      {
-        "title": "The Discreet Charm of the Bourgeoisie",
-        "tmdb_id": 4593,
-        "imdb_id": "tt0068361"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Chris Clark",
-      "Terence McCloy",
-      "Suzanne de Passe"
-    ],
-    "movies": [
-      {
-        "title": "Lady Sings the Blues",
-        "tmdb_id": 23148,
-        "imdb_id": "tt0068828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Louis Malle"
-    ],
-    "movies": [
-      {
-        "title": "Murmur of the Heart",
-        "tmdb_id": 42501,
-        "imdb_id": "tt0067778"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1972",
-    "nominees": [
-      "Carl Foreman"
-    ],
-    "movies": [
-      {
-        "title": "Young Winston",
-        "tmdb_id": 66775,
-        "imdb_id": "tt0069528"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1972",
-    "nominees": [
-      "Charlie Chaplin",
-      "Raymond Rasch",
-      "Larry Russell"
-    ],
-    "movies": [
-      {
-        "title": "Limelight",
-        "tmdb_id": 28971,
-        "imdb_id": "tt0044837"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1972",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Images",
-        "tmdb_id": 29449,
-        "imdb_id": "tt0068732"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1972",
-    "nominees": [
-      "Buddy Baker"
-    ],
-    "movies": [
-      {
-        "title": "Napoleon and Samantha",
-        "tmdb_id": 42486,
-        "imdb_id": "tt0068990"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1972",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "The Poseidon Adventure",
-        "tmdb_id": 551,
-        "imdb_id": "tt0069113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1972",
-    "nominees": [
-      "John Addison"
-    ],
-    "movies": [
-      {
-        "title": "Sleuth",
-        "tmdb_id": 993,
-        "imdb_id": "tt0069281"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1972",
-    "nominees": [
-      "Ralph Burns"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1972",
-    "nominees": [
-      "Gil Askey"
-    ],
-    "movies": [
-      {
-        "title": "Lady Sings the Blues",
-        "tmdb_id": 23148,
-        "imdb_id": "tt0068828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1972",
-    "nominees": [
-      "Laurence Rosenthal"
-    ],
-    "movies": [
-      {
-        "title": "Man of La Mancha",
-        "tmdb_id": 45793,
-        "imdb_id": "tt0068909"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1972",
-    "nominees": [
-      "The Morning After"
-    ],
-    "movies": [
-      {
-        "title": "The Poseidon Adventure",
-        "tmdb_id": 551,
-        "imdb_id": "tt0069113"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1972",
-    "nominees": [
-      "Ben"
-    ],
-    "movies": [
-      {
-        "title": "Ben",
-        "tmdb_id": 42476,
-        "imdb_id": "tt0068264"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1972",
-    "nominees": [
-      "Come Follow",
-      "Follow Me"
-    ],
-    "movies": [
-      {
-        "title": "The Little Ark",
-        "tmdb_id": 216484,
-        "imdb_id": "tt0068864"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1972",
-    "nominees": [
-      "Marmalade",
-      "Molasses & Honey"
-    ],
-    "movies": [
-      {
-        "title": "The Life and Times of Judge Roy Bean",
-        "tmdb_id": 33638,
-        "imdb_id": "tt0068853"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1972",
-    "nominees": [
-      "Strange are the Ways of Love"
-    ],
-    "movies": [
-      {
-        "title": "The Stepmother",
-        "tmdb_id": 87886,
-        "imdb_id": "tt0067793"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1972",
-    "nominees": [
-      "The Discreet Charm of the Bourgeoisie"
-    ],
-    "movies": [
-      {
-        "title": "The Discreet Charm of the Bourgeoisie",
-        "tmdb_id": 4593,
-        "imdb_id": "tt0068361"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1972",
-    "nominees": [
-      "The Dawns Here Are Quiet"
-    ],
-    "movies": [
-      {
-        "title": "The Dawns Here Are Quiet",
-        "tmdb_id": 49106,
-        "imdb_id": "tt0068161"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1972",
-    "nominees": [
-      "I Love You Rosa"
-    ],
-    "movies": [
-      {
-        "title": "I Love You Rosa",
-        "tmdb_id": 140423,
-        "imdb_id": "tt0068213"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1972",
-    "nominees": [
-      "My Dearest Senorita"
-    ],
-    "movies": [
-      {
-        "title": "My Dearest Senorita",
-        "tmdb_id": 185417,
-        "imdb_id": "tt0067425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1972",
-    "nominees": [
-      "The New Land"
-    ],
-    "movies": [
-      {
-        "title": "The New Land",
-        "tmdb_id": 42488,
-        "imdb_id": "tt0069035"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1972",
-    "nominees": [
-      "Marjoe"
-    ],
-    "movies": [
-      {
-        "title": "Marjoe",
-        "tmdb_id": 38616,
-        "imdb_id": "tt0068924"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1972",
-    "nominees": [
-      "Ape and Super-Ape"
-    ],
-    "movies": [
-      {
-        "title": "Ape and Super-Ape",
-        "tmdb_id": 149326,
-        "imdb_id": "tt0068275"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1972",
-    "nominees": [
-      "Malcolm X"
-    ],
-    "movies": [
-      {
-        "title": "Malcolm X",
-        "tmdb_id": 46898,
-        "imdb_id": "tt0068903"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1972",
-    "nominees": [
-      "Manson"
-    ],
-    "movies": [
-      {
-        "title": "Manson",
-        "tmdb_id": 54505,
-        "imdb_id": "tt0068918"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1972",
-    "nominees": [
-      "The Silent Revolution"
-    ],
-    "movies": [
-      {
-        "title": "The Silent Revolution",
-        "tmdb_id": 149327,
-        "imdb_id": "tt0069271"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1972",
-    "nominees": [
-      "This Tiny World"
-    ],
-    "movies": [
-      {
-        "title": "This Tiny World",
-        "tmdb_id": 243368,
-        "imdb_id": "tt0069373"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1972",
-    "nominees": [
-      "Hundertwasser's Rainy Day"
-    ],
-    "movies": [
-      {
-        "title": "Hundertwasser's Rainy Day",
-        "tmdb_id": 170220,
-        "imdb_id": "tt0067222"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1972",
-    "nominees": [
-      "K-Z"
-    ],
-    "movies": [
-      {
-        "title": "K-Z",
-        "tmdb_id": 243369,
-        "imdb_id": "tt0068790"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1972",
-    "nominees": [
-      "Selling Out"
-    ],
-    "movies": [
-      {
-        "title": "Selling Out",
-        "tmdb_id": 243370,
-        "imdb_id": "tt0069245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1972",
-    "nominees": [
-      "The Tide of Traffic"
-    ],
-    "movies": [
-      {
-        "title": "The Tide of Traffic",
-        "tmdb_id": 243371,
-        "imdb_id": "tt0069379"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1972",
-    "nominees": [
-      "A Christmas Carol"
-    ],
-    "movies": [
-      {
-        "title": "A Christmas Carol",
-        "tmdb_id": 46126,
-        "imdb_id": "tt0068373"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1972",
-    "nominees": [
-      "Kama Sutra Rides Again"
-    ],
-    "movies": [
-      {
-        "title": "Kama Sutra Rides Again",
-        "tmdb_id": 243363,
-        "imdb_id": "tt0068793"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1972",
-    "nominees": [
-      "Tup Tup"
-    ],
-    "movies": [
-      {
-        "title": "Tup Tup",
-        "tmdb_id": 148037,
-        "imdb_id": "tt0069422"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1972",
-    "nominees": [
-      "Norman Rockwell's World... An American Dream"
-    ],
-    "movies": [
-      {
-        "title": "Norman Rockwell's World... An American Dream",
-        "tmdb_id": 243364,
-        "imdb_id": "tt0069020"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1972",
-    "nominees": [
-      "Frog Story"
-    ],
-    "movies": [
-      {
-        "title": "Frog Story",
-        "tmdb_id": 243365,
-        "imdb_id": "tt0068614"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1972",
-    "nominees": [
-      "Solo"
-    ],
-    "movies": [
-      {
-        "title": "Solo",
-        "tmdb_id": 116048,
-        "imdb_id": "tt0174224"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "Rolf Zehetbauer",
-      "Jürgen Kiebach",
-      "Herbert Strabel"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "Carl Anderson",
-      "Reg Allen"
-    ],
-    "movies": [
-      {
-        "title": "Lady Sings the Blues",
-        "tmdb_id": 23148,
-        "imdb_id": "tt0068828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "William Creber",
-      "Raphael Bretton"
-    ],
-    "movies": [
-      {
-        "title": "The Poseidon Adventure",
-        "tmdb_id": 551,
-        "imdb_id": "tt0069113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "John Box",
-      "Gil Parrondo",
-      "Robert W. Laing"
-    ],
-    "movies": [
-      {
-        "title": "Travels with My Aunt",
-        "tmdb_id": 5183,
-        "imdb_id": "tt0069404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "Donald M. Ashton",
-      "Geoffrey Drake",
-      "John Graysmark",
-      "William Hutchinson",
-      "Peter James"
-    ],
-    "movies": [
-      {
-        "title": "Young Winston",
-        "tmdb_id": 66775,
-        "imdb_id": "tt0069528"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1972",
-    "nominees": [
-      "Geoffrey Unsworth"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1972",
-    "nominees": [
-      "Harry Stradling Jr."
-    ],
-    "movies": [
-      {
-        "title": "1776",
-        "tmdb_id": 14902,
-        "imdb_id": "tt0068156"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1972",
-    "nominees": [
-      "Charles Lang"
-    ],
-    "movies": [
-      {
-        "title": "Butterflies Are Free",
-        "tmdb_id": 55106,
-        "imdb_id": "tt0068326"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1972",
-    "nominees": [
-      "Harold E. Stine"
-    ],
-    "movies": [
-      {
-        "title": "The Poseidon Adventure",
-        "tmdb_id": 551,
-        "imdb_id": "tt0069113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1972",
-    "nominees": [
-      "Douglas Slocombe"
-    ],
-    "movies": [
-      {
-        "title": "Travels with My Aunt",
-        "tmdb_id": 5183,
-        "imdb_id": "tt0069404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1972",
-    "nominees": [
-      "David Bretherton"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1972",
-    "nominees": [
-      "Tom Priestley"
-    ],
-    "movies": [
-      {
-        "title": "Deliverance",
-        "tmdb_id": 10669,
-        "imdb_id": "tt0068473"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1972",
-    "nominees": [
-      "William H. Reynolds",
-      "Pete Zinner"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1972",
-    "nominees": [
-      "Fred W. Berger",
-      "Frank P. Keller"
-    ],
-    "movies": [
-      {
-        "title": "The Hot Rock",
-        "tmdb_id": 46059,
-        "imdb_id": "tt0068718"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1972",
-    "nominees": [
-      "Harold F. Kress"
-    ],
-    "movies": [
-      {
-        "title": "The Poseidon Adventure",
-        "tmdb_id": 551,
-        "imdb_id": "tt0069113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1972",
-    "nominees": [
-      "L.B. Abbott",
-      "A.D. Flowers"
-    ],
-    "movies": [
-      {
-        "title": "The Poseidon Adventure",
-        "tmdb_id": 551,
-        "imdb_id": "tt0069113"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1972",
-    "nominees": [
-      "Robert Knudson",
-      "David Hildyard"
-    ],
-    "movies": [
-      {
-        "title": "Cabaret",
-        "tmdb_id": 10784,
-        "imdb_id": "tt0068327"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1972",
-    "nominees": [
-      "Arthur Piantadosi",
-      "Charles T. Knight"
-    ],
-    "movies": [
-      {
-        "title": "Butterflies Are Free",
-        "tmdb_id": 55106,
-        "imdb_id": "tt0068326"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1972",
-    "nominees": [
-      "Richard Portman",
-      "Gene Cantamessa"
-    ],
-    "movies": [
-      {
-        "title": "The Candidate",
-        "tmdb_id": 21711,
-        "imdb_id": "tt0068334"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1972",
-    "nominees": [
-      "Charles Grenzbach",
-      "Richard Portman",
-      "Christopher Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1972",
-    "nominees": [
-      "Theodore Soderberg",
-      "Herman Lewis"
-    ],
-    "movies": [
-      {
-        "title": "The Poseidon Adventure",
-        "tmdb_id": 551,
-        "imdb_id": "tt0069113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "Anthony Powell"
-    ],
-    "movies": [
-      {
-        "title": "Travels with My Aunt",
-        "tmdb_id": 5183,
-        "imdb_id": "tt0069404"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "Anna Hill Johnstone"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather",
-        "tmdb_id": 238,
-        "imdb_id": "tt0068646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "Ray Aghayan",
-      "Norma Koch",
-      "Bob Mackie"
-    ],
-    "movies": [
-      {
-        "title": "Lady Sings the Blues",
-        "tmdb_id": 23148,
-        "imdb_id": "tt0068828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "Paul Zastupnevich"
-    ],
-    "movies": [
-      {
-        "title": "The Poseidon Adventure",
-        "tmdb_id": 551,
-        "imdb_id": "tt0069113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1972",
-    "nominees": [
-      "Anthony Mendleson"
-    ],
-    "movies": [
-      {
-        "title": "Young Winston",
-        "tmdb_id": 66775,
-        "imdb_id": "tt0069528"
-      }
-    ],
-    "won": false
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "Marlon Brando",
+    "Nominees": "Marlon Brando",
+    "NomineeIds": "nm0000008",
+    "Winner": "True",
+    "Detail": "Don Vito Corleone",
+    "Note": "NOTE: Mr. Brando refused the award.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Sleuth",
+    "FilmId": "tt0069281",
+    "Name": "Michael Caine",
+    "Nominees": "Michael Caine",
+    "NomineeIds": "nm0000323",
+    "Winner": "",
+    "Detail": "Milo Tindale",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Sleuth",
+    "FilmId": "tt0069281",
+    "Name": "Laurence Olivier",
+    "Nominees": "Laurence Olivier",
+    "NomineeIds": "nm0000059",
+    "Winner": "",
+    "Detail": "Andrew Wyke",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Ruling Class",
+    "FilmId": "tt0069198",
+    "Name": "Peter O'Toole",
+    "Nominees": "Peter O'Toole",
+    "NomineeIds": "nm0000564",
+    "Winner": "",
+    "Detail": "Jack, 14th Earl of Gurney",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Sounder",
+    "FilmId": "tt0069303",
+    "Name": "Paul Winfield",
+    "Nominees": "Paul Winfield",
+    "NomineeIds": "nm0934902",
+    "Winner": "",
+    "Detail": "Nathan Lee Morgan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Heartbreak Kid",
+    "FilmId": "tt0068687",
+    "Name": "Eddie Albert",
+    "Nominees": "Eddie Albert",
+    "NomineeIds": "nm0000734",
+    "Winner": "",
+    "Detail": "Mr. Corcoran",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "James Caan",
+    "Nominees": "James Caan",
+    "NomineeIds": "nm0001001",
+    "Winner": "",
+    "Detail": "Sonny Corleone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "Robert Duvall",
+    "Nominees": "Robert Duvall",
+    "NomineeIds": "nm0000380",
+    "Winner": "",
+    "Detail": "Tom Hagen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "Joel Grey",
+    "Nominees": "Joel Grey",
+    "NomineeIds": "nm0001297",
+    "Winner": "True",
+    "Detail": "The Master of Ceremonies",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "Al Pacino",
+    "Nominees": "Al Pacino",
+    "NomineeIds": "nm0000199",
+    "Winner": "",
+    "Detail": "Michael Corleone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "Liza Minnelli",
+    "Nominees": "Liza Minnelli",
+    "NomineeIds": "nm0591485",
+    "Winner": "True",
+    "Detail": "Sally Bowles",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Lady Sings the Blues",
+    "FilmId": "tt0068828",
+    "Name": "Diana Ross",
+    "Nominees": "Diana Ross",
+    "NomineeIds": "nm0005384",
+    "Winner": "",
+    "Detail": "Billie Holiday",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Travels with My Aunt",
+    "FilmId": "tt0069404",
+    "Name": "Maggie Smith",
+    "Nominees": "Maggie Smith",
+    "NomineeIds": "nm0001749",
+    "Winner": "",
+    "Detail": "Aunt Augusta",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Sounder",
+    "FilmId": "tt0069303",
+    "Name": "Cicely Tyson",
+    "Nominees": "Cicely Tyson",
+    "NomineeIds": "nm0001807",
+    "Winner": "",
+    "Detail": "Rebecca Morgan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Emigrants",
+    "FilmId": "tt0067919",
+    "Name": "Liv Ullmann",
+    "Nominees": "Liv Ullmann",
+    "NomineeIds": "nm0880521",
+    "Winner": "",
+    "Detail": "Kristina",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Heartbreak Kid",
+    "FilmId": "tt0068687",
+    "Name": "Jeannie Berlin",
+    "Nominees": "Jeannie Berlin",
+    "NomineeIds": "nm0075588",
+    "Winner": "",
+    "Detail": "Lila",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Butterflies Are Free",
+    "FilmId": "tt0068326",
+    "Name": "Eileen Heckart",
+    "Nominees": "Eileen Heckart",
+    "NomineeIds": "nm0373012",
+    "Winner": "True",
+    "Detail": "Mrs. Baker",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Pete 'n' Tillie",
+    "FilmId": "tt0069080",
+    "Name": "Geraldine Page",
+    "Nominees": "Geraldine Page",
+    "NomineeIds": "nm0656183",
+    "Winner": "",
+    "Detail": "Gertrude",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Fat City",
+    "FilmId": "tt0068575",
+    "Name": "Susan Tyrrell",
+    "Nominees": "Susan Tyrrell",
+    "NomineeIds": "nm0879073",
+    "Winner": "",
+    "Detail": "Oma",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Poseidon Adventure",
+    "FilmId": "tt0069113",
+    "Name": "Shelley Winters",
+    "Nominees": "Shelley Winters",
+    "NomineeIds": "nm0001859",
+    "Winner": "",
+    "Detail": "Belle Rosen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "Art Direction: Rolf Zehetbauer, Jurgen Kiebach; Set Decoration: Herbert Strabel",
+    "Nominees": "Rolf Zehetbauer|Jurgen Kiebach|Herbert Strabel",
+    "NomineeIds": "nm0954250|nm0452333|nm0833016",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Lady Sings the Blues",
+    "FilmId": "tt0068828",
+    "Name": "Art Direction: Carl Anderson; Set Decoration: Reg Allen",
+    "Nominees": "Carl Anderson|Reg Allen",
+    "NomineeIds": "nm0026482|nm0020940",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Poseidon Adventure",
+    "FilmId": "tt0069113",
+    "Name": "Art Direction: William Creber; Set Decoration: Raphael Bretton",
+    "Nominees": "William Creber|Raphael Bretton",
+    "NomineeIds": "nm0187169|nm0107987",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Travels with My Aunt",
+    "FilmId": "tt0069404",
+    "Name": "Art Direction: John Box, Gil Parrondo, Robert W. Laing",
+    "Nominees": "John Box|Gil Parrondo|Robert W. Laing",
+    "NomineeIds": "nm0101501|nm0663597|nm0481925",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Young Winston",
+    "FilmId": "tt0069528",
+    "Name": "Art Direction: Geoffrey Drake, Don Ashton, John Graysmark, William Hutchinson; Set Decoration: Peter James",
+    "Nominees": "Geoffrey Drake|Don Ashton|John Graysmark|William Hutchinson|Peter James",
+    "NomineeIds": "nm0236909|nm0039202|nm0337067|nm0404423|nm0416825",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Butterflies Are Free",
+    "FilmId": "tt0068326",
+    "Name": "Charles B. Lang",
+    "Nominees": "Charles B. Lang",
+    "NomineeIds": "nm0485702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "Geoffrey Unsworth",
+    "Nominees": "Geoffrey Unsworth",
+    "NomineeIds": "nm0005910",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Poseidon Adventure",
+    "FilmId": "tt0069113",
+    "Name": "Harold E. Stine",
+    "Nominees": "Harold E. Stine",
+    "NomineeIds": "nm0005885",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": 1776,
+    "FilmId": "tt0068156",
+    "Name": "Harry Stradling, Jr.",
+    "Nominees": "Harry Stradling Jr.",
+    "NomineeIds": "nm0005888",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Travels with My Aunt",
+    "FilmId": "tt0069404",
+    "Name": "Douglas Slocombe",
+    "Nominees": "Douglas Slocombe",
+    "NomineeIds": "nm0005878",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "Anna Hill Johnstone",
+    "Nominees": "Anna Hill Johnstone",
+    "NomineeIds": "nm0426895",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Lady Sings the Blues",
+    "FilmId": "tt0068828",
+    "Name": "Bob Mackie, Ray Aghayan, Norma Koch",
+    "Nominees": "Bob Mackie|Ray Aghayan|Norma Koch",
+    "NomineeIds": "nm0533496|nm0013036|nm0462382",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Poseidon Adventure",
+    "FilmId": "tt0069113",
+    "Name": "Paul Zastupnevich",
+    "Nominees": "Paul Zastupnevich",
+    "NomineeIds": "nm0953665",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Travels with My Aunt",
+    "FilmId": "tt0069404",
+    "Name": "Anthony Powell",
+    "Nominees": "Anthony Powell",
+    "NomineeIds": "nm0694018",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Young Winston",
+    "FilmId": "tt0069528",
+    "Name": "Anthony Mendleson",
+    "Nominees": "Anthony Mendleson",
+    "NomineeIds": "nm0579162",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "Bob Fosse",
+    "Nominees": "Bob Fosse",
+    "NomineeIds": "nm0002080",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Deliverance",
+    "FilmId": "tt0068473",
+    "Name": "John Boorman",
+    "Nominees": "John Boorman",
+    "NomineeIds": "nm0000958",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Emigrants",
+    "FilmId": "tt0067919",
+    "Name": "Jan Troell",
+    "Nominees": "Jan Troell",
+    "NomineeIds": "nm0873296",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "Francis Ford Coppola",
+    "Nominees": "Francis Ford Coppola",
+    "NomineeIds": "nm0000338",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Sleuth",
+    "FilmId": "tt0069281",
+    "Name": "Joseph L. Mankiewicz",
+    "Nominees": "Joseph L. Mankiewicz",
+    "NomineeIds": "nm0000581",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Ape and Super-Ape",
+    "FilmId": "tt0068275",
+    "Name": "Bert Haanstra, Producer",
+    "Nominees": "Bert Haanstra",
+    "NomineeIds": "nm0351842",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Malcolm X",
+    "FilmId": "tt0068903",
+    "Name": "Marvin Worth and Arnold Perl, Producers",
+    "Nominees": "Marvin Worth|Arnold Perl",
+    "NomineeIds": "nm0941703|nm0674135",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Manson",
+    "FilmId": "tt0068918",
+    "Name": "Robert Hendrickson and Laurence Merrick, Producers",
+    "Nominees": "Robert Hendrickson|Laurence Merrick",
+    "NomineeIds": "nm0376801|nm0581216",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Marjoe",
+    "FilmId": "tt0068924",
+    "Name": "Howard Smith and Sarah Kernochan, Producers",
+    "Nominees": "Howard Smith|Sarah Kernochan",
+    "NomineeIds": "nm0808474|nm0449576",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Silent Revolution",
+    "FilmId": "tt0069271",
+    "Name": "Eckehard Munck, Producer",
+    "Nominees": "Eckehard Munck",
+    "NomineeIds": "nm0612677",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Hundertwasser's Rainy Day",
+    "FilmId": "tt0067222",
+    "Name": "Peter Schamoni, Producer",
+    "Nominees": "Peter Schamoni",
+    "NomineeIds": "nm0769996",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "K-Z",
+    "FilmId": "tt0068790",
+    "Name": "Giorgio Treves, Producer",
+    "Nominees": "Giorgio Treves",
+    "NomineeIds": "nm0872372",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Selling Out",
+    "FilmId": "tt0069245",
+    "Name": "Tadeusz Jaworski, Producer",
+    "Nominees": "Tadeusz Jaworski",
+    "NomineeIds": "nm0419552",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "This Tiny World",
+    "FilmId": "tt0069373",
+    "Name": "Charles Huguenot van der Linden and Martina Huguenot van der Linden, Producers",
+    "Nominees": "Charles Huguenot van der Linden|Martina Huguenot van der Linden",
+    "NomineeIds": "nm0401101|nm0886319",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Tide of Traffic",
+    "FilmId": "tt0069379",
+    "Name": "Humphrey Swingler, Producer",
+    "Nominees": "Humphrey Swingler",
+    "NomineeIds": "nm0842718",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "David Bretherton",
+    "Nominees": "David Bretherton",
+    "NomineeIds": "nm0107852",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Deliverance",
+    "FilmId": "tt0068473",
+    "Name": "Tom Priestley",
+    "Nominees": "Tom Priestley",
+    "NomineeIds": "nm0697371",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "William Reynolds, Peter Zinner",
+    "Nominees": "William Reynolds|Peter Zinner",
+    "NomineeIds": "nm0722000|nm0957038",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Hot Rock",
+    "FilmId": "tt0068718",
+    "Name": "Frank P. Keller, Fred W. Berger",
+    "Nominees": "Frank P. Keller|Fred W. Berger",
+    "NomineeIds": "nm0445628|nm0074179",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Poseidon Adventure",
+    "FilmId": "tt0069113",
+    "Name": "Harold F. Kress",
+    "Nominees": "Harold F. Kress",
+    "NomineeIds": "nm0470932",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Dawns Here Are Quiet",
+    "FilmId": "tt0068161",
+    "Name": "Union of Soviet Socialist Republics",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Discreet Charm of the Bourgeoisie",
+    "FilmId": "tt0068361",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "I Love You Rosa",
+    "FilmId": "tt0068213",
+    "Name": "Israel",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "My Dearest Señorita",
+    "FilmId": "tt0067425",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The New Land",
+    "FilmId": "tt0069035",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "Nino Rota",
+    "Nominees": "Nino Rota",
+    "NomineeIds": "nm0000065",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. The Godfather score, composed by Nino Rota, was originally announced as one of the five official nominees. It was later pointed out that portions of the score and the main theme were composed by Rota for his score to the 1958 Italian film, Fortunella. The Music Branch was given this information and re-balloted to determine the fifth nomination. The list of six films they were to choose from were the remaining five of the top ten preliminary listings, plus The Godfather score. The results of the re-balloting was that the fifth nomination became Sleuth, composed by John Addison.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "images",
+    "FilmId": "tt0068732",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Limelight",
+    "FilmId": "tt0044837",
+    "Name": "Charles Chaplin, Raymond Rasch, Larry Russell",
+    "Nominees": "Charles Chaplin|Raymond Rasch|Larry Russell",
+    "NomineeIds": "nm0000122|nm0711050|nm0751282",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Napoleon and Samantha",
+    "FilmId": "tt0068990",
+    "Name": "Buddy Baker",
+    "Nominees": "Buddy Baker",
+    "NomineeIds": "nm0048301",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "The Poseidon Adventure",
+    "FilmId": "tt0069113",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Sleuth",
+    "FilmId": "tt0069281",
+    "Name": "John Addison",
+    "Nominees": "John Addison",
+    "NomineeIds": "nm0011709",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: The Godfather score, composed by Nino Rota, was originally announced as one of the five official nominees. It was later pointed out that portions of the score and the main theme were composed by Rota for his score to the 1958 Italian film, Fortunella. The Music Branch was given this information and re-balloted to determine the fifth nomination. The list of six films they were to choose from were the remaining five of the top ten preliminary listings, plus The Godfather score. The results of the re-balloting was that the fifth nomination became Sleuth, composed by John Addison.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Adaptation and Original Song Score)",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "Adaptation Score by Ralph Burns",
+    "Nominees": "Ralph Burns",
+    "NomineeIds": "nm0005985",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Adaptation and Original Song Score)",
+    "Film": "Lady Sings the Blues",
+    "FilmId": "tt0068828",
+    "Name": "Adaptation Score by Gil Askey",
+    "Nominees": "Gil Askey",
+    "NomineeIds": "nm0039454",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Adaptation and Original Song Score)",
+    "Film": "Man of La Mancha",
+    "FilmId": "tt0068909",
+    "Name": "Adaptation Score by Laurence Rosenthal",
+    "Nominees": "Laurence Rosenthal",
+    "NomineeIds": "nm0002304",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "Ben",
+    "FilmId": "tt0068264",
+    "Name": "Music by Walter Scharf; Lyrics by Don Black",
+    "Nominees": "Walter Scharf|Don Black",
+    "NomineeIds": "nm0770127|nm0085246",
+    "Winner": "",
+    "Detail": "Ben",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "The Little Ark",
+    "FilmId": "tt0068864",
+    "Name": "Music by Fred Karlin; Lyrics by Marsha Karlin",
+    "Nominees": "Fred Karlin|Marsha Karlin",
+    "NomineeIds": "nm0006150|nm0439506",
+    "Winner": "",
+    "Detail": "Come Follow, Follow Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "The Life and Times of Judge Roy Bean",
+    "FilmId": "tt0068853",
+    "Name": "Music by Maurice Jarre; Lyrics by Marilyn Bergman and Alan Bergman",
+    "Nominees": "Maurice Jarre|Marilyn Bergman|Alan Bergman",
+    "NomineeIds": "nm0003574|nm0004750|nm0074732",
+    "Winner": "",
+    "Detail": "Marmalade, Molasses & Honey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "The Poseidon Adventure",
+    "FilmId": "tt0069113",
+    "Name": "Music and Lyrics by Al Kasha and Joel Hirschhorn",
+    "Nominees": "Al Kasha|Joel Hirschhorn",
+    "NomineeIds": "nm0440517|nm0386610",
+    "Winner": "True",
+    "Detail": "The Morning After",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song--Original for the Picture)",
+    "Film": "The Stepmother",
+    "FilmId": "tt0067793",
+    "Name": "Music by Sammy Fain; Lyrics by Paul Francis Webster",
+    "Nominees": "Sammy Fain|Paul Francis Webster",
+    "NomineeIds": "nm0006066|nm0916990",
+    "Winner": "",
+    "Detail": "Strange Are The Ways Of Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "Cy Feuer, Producer",
+    "Nominees": "Cy Feuer",
+    "NomineeIds": "nm0006074",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Deliverance",
+    "FilmId": "tt0068473",
+    "Name": "John Boorman, Producer",
+    "Nominees": "John Boorman",
+    "NomineeIds": "nm0000958",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Emigrants",
+    "FilmId": "tt0067919",
+    "Name": "Bengt Forslund, Producer",
+    "Nominees": "Bengt Forslund",
+    "NomineeIds": "nm0286873",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "Albert S. Ruddy, Producer",
+    "Nominees": "Albert S. Ruddy",
+    "NomineeIds": "nm0748665",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Sounder",
+    "FilmId": "tt0069303",
+    "Name": "Robert B. Radnitz, Producer",
+    "Nominees": "Robert B. Radnitz",
+    "NomineeIds": "nm0705723",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Animated)",
+    "Film": "A Christmas Carol",
+    "FilmId": "tt0068373",
+    "Name": "Richard Williams, Producer",
+    "Nominees": "Richard Williams",
+    "NomineeIds": "nm0931530",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Animated)",
+    "Film": "Kama Sutra Rides Again",
+    "FilmId": "tt0068793",
+    "Name": "Bob Godfrey, Producer",
+    "Nominees": "Bob Godfrey",
+    "NomineeIds": "nm0323962",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Animated)",
+    "Film": "Tup Tup",
+    "FilmId": "tt0069422",
+    "Name": "Nedeljko Dragic, Producer",
+    "Nominees": "Nedeljko Dragic",
+    "NomineeIds": "nm0236695",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Frog Story",
+    "FilmId": "tt0068614",
+    "Name": "Ron Satlof and Ray Gideon, Producers",
+    "Nominees": "Ron Satlof|Ray Gideon",
+    "NomineeIds": "nm0766191|nm0317279",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Norman Rockwell's World...An American Dream",
+    "FilmId": "tt0069020",
+    "Name": "Richard Barclay, Producer",
+    "Nominees": "Richard Barclay",
+    "NomineeIds": "nm0054083",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Solo",
+    "FilmId": "tt0069296",
+    "Name": "David Adams, Producer",
+    "Nominees": "David Adams",
+    "NomineeIds": "nm0010892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Butterflies Are Free",
+    "FilmId": "tt0068326",
+    "Name": "Arthur Piantadosi, Charles Knight",
+    "Nominees": "Arthur Piantadosi|Charles Knight",
+    "NomineeIds": "nm0681250|nm0460837",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "Robert Knudson, David Hildyard",
+    "Nominees": "Robert Knudson|David Hildyard",
+    "NomineeIds": "nm0461702|nm0383934",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Candidate",
+    "FilmId": "tt0068334",
+    "Name": "Richard Portman, Gene Cantamessa",
+    "Nominees": "Richard Portman|Gene Cantamessa",
+    "NomineeIds": "nm0692446|nm0134481",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "Bud Grenzbach, Richard Portman, Christopher Newman",
+    "Nominees": "Bud Grenzbach|Richard Portman|Christopher Newman",
+    "NomineeIds": "nm0340311|nm0692446|nm0628039",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Poseidon Adventure",
+    "FilmId": "tt0069113",
+    "Name": "Theodore Soderberg, Herman Lewis",
+    "Nominees": "Theodore Soderberg|Herman Lewis",
+    "NomineeIds": "nm0812029|nm0507266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Cabaret",
+    "FilmId": "tt0068327",
+    "Name": "Jay Allen",
+    "Nominees": "Jay Allen",
+    "NomineeIds": "nm0696319",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Emigrants",
+    "FilmId": "tt0067919",
+    "Name": "Jan Troell, Bengt Forslund",
+    "Nominees": "Jan Troell|Bengt Forslund",
+    "NomineeIds": "nm0873296|nm0286873",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Godfather",
+    "FilmId": "tt0068646",
+    "Name": "Mario Puzo, Francis Ford Coppola",
+    "Nominees": "Mario Puzo|Francis Ford Coppola",
+    "NomineeIds": "nm0701374|nm0000338",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Pete 'n' Tillie",
+    "FilmId": "tt0069080",
+    "Name": "Julius J. Epstein",
+    "Nominees": "Julius J. Epstein",
+    "NomineeIds": "nm0258493",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Sounder",
+    "FilmId": "tt0069303",
+    "Name": "Lonne Elder, III",
+    "Nominees": "Lonne Elder III",
+    "NomineeIds": "nm0253039",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "The Candidate",
+    "FilmId": "tt0068334",
+    "Name": "Jeremy Larner",
+    "Nominees": "Jeremy Larner",
+    "NomineeIds": "nm0488373",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "The Discreet Charm of the Bourgeoisie",
+    "FilmId": "tt0068361",
+    "Name": "Story and Screenplay by Luis Buñuel; in collaboration with Jean-Claude Carrière",
+    "Nominees": "Luis Buñuel|in collaboration with Jean-Claude Carrière",
+    "NomineeIds": "nm0000320|nm0140643",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "Lady Sings the Blues",
+    "FilmId": "tt0068828",
+    "Name": "Terence McCloy, Chris Clark, Suzanne de Passe",
+    "Nominees": "Terence McCloy|Chris Clark|Suzanne de Passe",
+    "NomineeIds": "nm0565946|nm0163771|nm0210867",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "Murmur of the Heart",
+    "FilmId": "tt0067778",
+    "Name": "Louis Malle",
+    "Nominees": "Louis Malle",
+    "NomineeIds": "nm0001501",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)",
+    "Film": "Young Winston",
+    "FilmId": "tt0069528",
+    "Name": "Carl Foreman",
+    "Nominees": "Carl Foreman",
+    "NomineeIds": "nm0286025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Film": "The Poseidon Adventure",
+    "FilmId": "tt0069113",
+    "Name": "L. B. Abbott, A. D. Flowers",
+    "Nominees": "L. B. Abbott|A. D. Flowers",
+    "NomineeIds": "nm0008004|nm0283166",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Rosalind Russell",
+    "Nominees": "Rosalind Russell",
+    "NomineeIds": "nm0751426",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles S. Boren",
+    "NomineeIds": "nm11912323",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Charles S. Boren, Leader for 38 years of the industry's enlightened labor relations and architect of its policy of non-discrimination. With the respect and affection of all who work in films."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Edward G. Robinson",
+    "NomineeIds": "nm0000064",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "NOTE: The Academy's Board of Governors voted to confer this award on January 6, 1973. Mr. Robinson passed away on January 26th, and the award was accepted on his behalf by his wife.",
+    "Citation": "To Edward G. Robinson who achieved greatness as a player, a patron of the arts and a dedicated citizen...in sum, a Renaissance man. From his friends in the industry he loves."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joseph E. Bluth",
+    "NomineeIds": "nm0089941",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To JOSEPH E. BLUTH for research and development in the field of electronic photography and transfer of video tape to motion picture film."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Edward H. Reichard|Howard T. La Zare|Edward Efron",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To EDWARD H. REICHARD and HOWARD T. LA ZARE of Consolidated Film Industries, and EDWARD EFRON of IBM for the engineering of a computerized light valve monitoring system for motion picture printing."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Panavision Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To PANAVISION, INCORPORATED, for the development and engineering of the Panaflex motion picture camera."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Photo Research|PSC Technology Inc.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To PHOTO RESEARCH, A DIVISION OF KOLLMORGEN CORPORATION, and PSC TECHNOLOGY INC., ACME PRODUCTS DIVISION, for the Spectra Film Gate Photometer for motion picture printers."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Carter Equipment Company Inc.|Ramtronics",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To CARTER EQUIPMENT COMPANY, INC. and RAMTRONICS for the RAMtronics light-valve photometer for motion picture printers."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Degenkolb|HARRY LARSON|MANFRED MICHELSON|FRED SCOBEY",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To DAVID DEGENKOLB, HARRY LARSON, MANFRED MICHELSON and FRED SCOBEY of DeLuxe General Incorporated for the development of a computerized motion picture printer and process control system."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JIRO MUKAI|RYUSHO HIROSE|WILTON R. HOLM",
+    "NomineeIds": "?|?|nm0391587",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To JIRO MUKAI and RYUSHO HIROSE of Canon, Inc., and WILTON R. HOLM of the AMPTP Motion Picture and Television Research Center for development of the Canon Macro Zoom Lens for motion picture photography."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "PHILIP V. PALMQUIST|LEONARD L. OLSON|FRANK P. CLARK",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Props",
+    "Note": "",
+    "Citation": "To PHILIP V. PALMQUIST and LEONARD L. OLSON of the 3M Company, and FRANK P. CLARK of the AMPTP Motion Picture and Television Research Center for development of the Nextel simulated blood for motion picture color photography."
+  },
+  {
+    "Ceremony": 45,
+    "Year": 1972,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "E. H. GEISSLER|G. M. BERGGREN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To E. H. GEISSLER and G. M. BERGGREN of Wil-Kin Inc., for engineering of the Ultra-Vision Motion Picture Theater Projection System."
   }
 ]

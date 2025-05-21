@@ -1,1880 +1,2354 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2013",
-        "nominees": [
-            "12 Years a Slave"
-        ],
-        "movies": [
-            {
-                "title": "12 Years a Slave",
-                "tmdb_id": 76203,
-                "imdb_id": "tt2024544"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2013",
-        "nominees": [
-            "American Hustle"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2013",
-        "nominees": [
-            "Captain Phillips"
-        ],
-        "movies": [
-            {
-                "title": "Captain Phillips",
-                "tmdb_id": 109424,
-                "imdb_id": "tt1535109"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2013",
-        "nominees": [
-            "Dallas Buyers Club"
-        ],
-        "movies": [
-            {
-                "title": "Dallas Buyers Club",
-                "tmdb_id": 152532,
-                "imdb_id": "tt0790636"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2013",
-        "nominees": [
-            "Gravity"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2013",
-        "nominees": [
-            "Her"
-        ],
-        "movies": [
-            {
-                "title": "Her",
-                "tmdb_id": 152601,
-                "imdb_id": "tt1798709"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2013",
-        "nominees": [
-            "Nebraska"
-        ],
-        "movies": [
-            {
-                "title": "Nebraska",
-                "tmdb_id": 129670,
-                "imdb_id": "tt1821549"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2013",
-        "nominees": [
-            "Philomena"
-        ],
-        "movies": [
-            {
-                "title": "Philomena",
-                "tmdb_id": 205220,
-                "imdb_id": "tt2431286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2013",
-        "nominees": [
-            "The Wolf of Wall Street"
-        ],
-        "movies": [
-            {
-                "title": "The Wolf of Wall Street",
-                "tmdb_id": 106646,
-                "imdb_id": "tt0993846"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2013",
-        "nominees": [
-            "Matthew McConaughey"
-        ],
-        "movies": [
-            {
-                "title": "Dallas Buyers Club",
-                "tmdb_id": 152532,
-                "imdb_id": "tt0790636"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2013",
-        "nominees": [
-            "Christian Bale"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2013",
-        "nominees": [
-            "Bruce Dern"
-        ],
-        "movies": [
-            {
-                "title": "Nebraska",
-                "tmdb_id": 129670,
-                "imdb_id": "tt1821549"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2013",
-        "nominees": [
-            "Leonardo DiCaprio"
-        ],
-        "movies": [
-            {
-                "title": "The Wolf of Wall Street",
-                "tmdb_id": 106646,
-                "imdb_id": "tt0993846"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2013",
-        "nominees": [
-            "Chiwetel Ejiofor"
-        ],
-        "movies": [
-            {
-                "title": "12 Years a Slave",
-                "tmdb_id": 76203,
-                "imdb_id": "tt2024544"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2013",
-        "nominees": [
-            "Cate Blanchett"
-        ],
-        "movies": [
-            {
-                "title": "Blue Jasmine",
-                "tmdb_id": 160588,
-                "imdb_id": "tt2334873"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2013",
-        "nominees": [
-            "Amy Adams"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2013",
-        "nominees": [
-            "Sandra Bullock"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2013",
-        "nominees": [
-            "Judi Dench"
-        ],
-        "movies": [
-            {
-                "title": "Philomena",
-                "tmdb_id": 205220,
-                "imdb_id": "tt2431286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2013",
-        "nominees": [
-            "Meryl Streep"
-        ],
-        "movies": [
-            {
-                "title": "August: Osage County",
-                "tmdb_id": 152737,
-                "imdb_id": "tt1322269"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2013",
-        "nominees": [
-            "Jared Leto"
-        ],
-        "movies": [
-            {
-                "title": "Dallas Buyers Club",
-                "tmdb_id": 152532,
-                "imdb_id": "tt0790636"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2013",
-        "nominees": [
-            "Barkhad Abdi"
-        ],
-        "movies": [
-            {
-                "title": "Captain Phillips",
-                "tmdb_id": 109424,
-                "imdb_id": "tt1535109"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2013",
-        "nominees": [
-            "Bradley Cooper"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2013",
-        "nominees": [
-            "Michael Fassbender"
-        ],
-        "movies": [
-            {
-                "title": "12 Years a Slave",
-                "tmdb_id": 76203,
-                "imdb_id": "tt2024544"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2013",
-        "nominees": [
-            "Jonah Hill"
-        ],
-        "movies": [
-            {
-                "title": "The Wolf of Wall Street",
-                "tmdb_id": 106646,
-                "imdb_id": "tt0993846"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2013",
-        "nominees": [
-            "Lupita Nyong'o"
-        ],
-        "movies": [
-            {
-                "title": "12 Years a Slave",
-                "tmdb_id": 76203,
-                "imdb_id": "tt2024544"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2013",
-        "nominees": [
-            "Sally Hawkins"
-        ],
-        "movies": [
-            {
-                "title": "Blue Jasmine",
-                "tmdb_id": 160588,
-                "imdb_id": "tt2334873"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2013",
-        "nominees": [
-            "Jennifer Lawrence"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2013",
-        "nominees": [
-            "Julia Roberts"
-        ],
-        "movies": [
-            {
-                "title": "August: Osage County",
-                "tmdb_id": 152737,
-                "imdb_id": "tt1322269"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2013",
-        "nominees": [
-            "June Squibb"
-        ],
-        "movies": [
-            {
-                "title": "Nebraska",
-                "tmdb_id": 129670,
-                "imdb_id": "tt1821549"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2013",
-        "nominees": [
-            "Alfonso Cuaron"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2013",
-        "nominees": [
-            "David O. Russell"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2013",
-        "nominees": [
-            "Alexander Payne"
-        ],
-        "movies": [
-            {
-                "title": "Nebraska",
-                "tmdb_id": 129670,
-                "imdb_id": "tt1821549"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2013",
-        "nominees": [
-            "Steve McQueen"
-        ],
-        "movies": [
-            {
-                "title": "12 Years a Slave",
-                "tmdb_id": 76203,
-                "imdb_id": "tt2024544"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2013",
-        "nominees": [
-            "Martin Scorsese"
-        ],
-        "movies": [
-            {
-                "title": "The Wolf of Wall Street",
-                "tmdb_id": 106646,
-                "imdb_id": "tt0993846"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2013",
-        "nominees": [
-            "John Ridley"
-        ],
-        "movies": [
-            {
-                "title": "12 Years a Slave",
-                "tmdb_id": 76203,
-                "imdb_id": "tt2024544"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2013",
-        "nominees": [
-            "Richard Linklater",
-            "Julie Delpy",
-            "Ethan Hawke"
-        ],
-        "movies": [
-            {
-                "title": "Before Midnight",
-                "tmdb_id": 132344,
-                "imdb_id": "tt2209418"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2013",
-        "nominees": [
-            "Billy Ray"
-        ],
-        "movies": [
-            {
-                "title": "Captain Phillips",
-                "tmdb_id": 109424,
-                "imdb_id": "tt1535109"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2013",
-        "nominees": [
-            "Steve Coogan",
-            "Jeff Pope"
-        ],
-        "movies": [
-            {
-                "title": "Philomena",
-                "tmdb_id": 205220,
-                "imdb_id": "tt2431286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2013",
-        "nominees": [
-            "Terence Winter"
-        ],
-        "movies": [
-            {
-                "title": "The Wolf of Wall Street",
-                "tmdb_id": 106646,
-                "imdb_id": "tt0993846"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2013",
-        "nominees": [
-            "Spike Jonze"
-        ],
-        "movies": [
-            {
-                "title": "Her",
-                "tmdb_id": 152601,
-                "imdb_id": "tt1798709"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2013",
-        "nominees": [
-            "Eric Warren Singer",
-            "David O. Russell"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2013",
-        "nominees": [
-            "Woody Allen"
-        ],
-        "movies": [
-            {
-                "title": "Blue Jasmine",
-                "tmdb_id": 160588,
-                "imdb_id": "tt2334873"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2013",
-        "nominees": [
-            "Craig Borten",
-            "Melisa Wallack"
-        ],
-        "movies": [
-            {
-                "title": "Dallas Buyers Club",
-                "tmdb_id": 152532,
-                "imdb_id": "tt0790636"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2013",
-        "nominees": [
-            "Bob Nelson"
-        ],
-        "movies": [
-            {
-                "title": "Nebraska",
-                "tmdb_id": 129670,
-                "imdb_id": "tt1821549"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2013",
-        "nominees": [
-            "Steven Price"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2013",
-        "nominees": [
-            "John Williams"
-        ],
-        "movies": [
-            {
-                "title": "The Book Thief",
-                "tmdb_id": 203833,
-                "imdb_id": "tt0816442"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2013",
-        "nominees": [
-            "William Butler",
-            "Owen Pallett"
-        ],
-        "movies": [
-            {
-                "title": "Her",
-                "tmdb_id": 152601,
-                "imdb_id": "tt1798709"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2013",
-        "nominees": [
-            "Alexandre Desplat"
-        ],
-        "movies": [
-            {
-                "title": "Philomena",
-                "tmdb_id": 205220,
-                "imdb_id": "tt2431286"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2013",
-        "nominees": [
-            "Thomas Newman"
-        ],
-        "movies": [
-            {
-                "title": "Saving Mr. Banks",
-                "tmdb_id": 140823,
-                "imdb_id": "tt2140373"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2013",
-        "nominees": [
-            "Let it Go"
-        ],
-        "movies": [
-            {
-                "title": "Frozen",
-                "tmdb_id": 109445,
-                "imdb_id": "tt2294629"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2013",
-        "nominees": [
-            "Happy"
-        ],
-        "movies": [
-            {
-                "title": "Despicable Me 2",
-                "tmdb_id": 93456,
-                "imdb_id": "tt1690953"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2013",
-        "nominees": [
-            "The Moon Song"
-        ],
-        "movies": [
-            {
-                "title": "Her",
-                "tmdb_id": 152601,
-                "imdb_id": "tt1798709"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2013",
-        "nominees": [
-            "Ordinary Love"
-        ],
-        "movies": [
-            {
-                "title": "Mandela: Long Walk to Freedom",
-                "tmdb_id": 192136,
-                "imdb_id": "tt2304771"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2013",
-        "nominees": [
-            "Alone Yet Not Alone"
-        ],
-        "movies": [
-            {
-                "title": "Alone Yet Not Alone",
-                "tmdb_id": 243794,
-                "imdb_id": "tt1986769"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2013",
-        "nominees": [
-            "The Great Beauty"
-        ],
-        "movies": [
-            {
-                "title": "The Great Beauty",
-                "tmdb_id": 179144,
-                "imdb_id": "tt2358891"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2013",
-        "nominees": [
-            "The Broken Circle Breakdown"
-        ],
-        "movies": [
-            {
-                "title": "The Broken Circle Breakdown",
-                "tmdb_id": 137182,
-                "imdb_id": "tt2024519"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2013",
-        "nominees": [
-            "The Hunt"
-        ],
-        "movies": [
-            {
-                "title": "The Hunt",
-                "tmdb_id": 103663,
-                "imdb_id": "tt2106476"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2013",
-        "nominees": [
-            "The Missing Picture"
-        ],
-        "movies": [
-            {
-                "title": "The Missing Picture",
-                "tmdb_id": 186997,
-                "imdb_id": "tt2852470"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2013",
-        "nominees": [
-            "Omar"
-        ],
-        "movies": [
-            {
-                "title": "Omar",
-                "tmdb_id": 187028,
-                "imdb_id": "tt2852406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2013",
-        "nominees": [
-            "20 Feet from Stardom"
-        ],
-        "movies": [
-            {
-                "title": "20 Feet from Stardom",
-                "tmdb_id": 159014,
-                "imdb_id": "tt2396566"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2013",
-        "nominees": [
-            "Cutie and the Boxer"
-        ],
-        "movies": [
-            {
-                "title": "Cutie and the Boxer",
-                "tmdb_id": 159002,
-                "imdb_id": "tt2355540"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2013",
-        "nominees": [
-            "Dirty Wars"
-        ],
-        "movies": [
-            {
-                "title": "Dirty Wars",
-                "tmdb_id": 159004,
-                "imdb_id": "tt2532528"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2013",
-        "nominees": [
-            "The Square"
-        ],
-        "movies": [
-            {
-                "title": "The Square",
-                "tmdb_id": 159037,
-                "imdb_id": "tt2486682"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2013",
-        "nominees": [
-            "The Act of Killing"
-        ],
-        "movies": [
-            {
-                "title": "The Act of Killing",
-                "tmdb_id": 123678,
-                "imdb_id": "tt2375605"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2013",
-        "nominees": [
-            "The Lady in Number 6: Music Saved My Life"
-        ],
-        "movies": [
-            {
-                "title": "The Lady in Number 6: Music Saved My Life",
-                "tmdb_id": 249724,
-                "imdb_id": "tt2924484"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2013",
-        "nominees": [
-            "Cavedigger"
-        ],
-        "movies": [
-            {
-                "title": "Cavedigger",
-                "tmdb_id": 249714,
-                "imdb_id": "tt2516860"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2013",
-        "nominees": [
-            "Facing Fear"
-        ],
-        "movies": [
-            {
-                "title": "Facing Fear",
-                "tmdb_id": 249719,
-                "imdb_id": "tt2776636"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2013",
-        "nominees": [
-            "Karama Has No Walls"
-        ],
-        "movies": [
-            {
-                "title": "Karama Has No Walls",
-                "tmdb_id": 249721,
-                "imdb_id": "tt2551790"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2013",
-        "nominees": [
-            "Prison Terminal: The Last Days of Private Jack Hall"
-        ],
-        "movies": [
-            {
-                "title": "Prison Terminal: The Last Days of Private Jack Hall",
-                "tmdb_id": 249726,
-                "imdb_id": "tt3145026"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2013",
-        "nominees": [
-            "Frozen"
-        ],
-        "movies": [
-            {
-                "title": "Frozen",
-                "tmdb_id": 109445,
-                "imdb_id": "tt2294629"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2013",
-        "nominees": [
-            "The Croods"
-        ],
-        "movies": [
-            {
-                "title": "The Croods",
-                "tmdb_id": 49519,
-                "imdb_id": "tt0481499"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2013",
-        "nominees": [
-            "Despicable Me 2"
-        ],
-        "movies": [
-            {
-                "title": "Despicable Me 2",
-                "tmdb_id": 93456,
-                "imdb_id": "tt1690953"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2013",
-        "nominees": [
-            "Ernest & Celestine"
-        ],
-        "movies": [
-            {
-                "title": "Ernest & Celestine",
-                "tmdb_id": 126319,
-                "imdb_id": "tt1816518"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2013",
-        "nominees": [
-            "The Wind Rises"
-        ],
-        "movies": [
-            {
-                "title": "The Wind Rises",
-                "tmdb_id": 149870,
-                "imdb_id": "tt2013293"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2013",
-        "nominees": [
-            "Mr Hublot"
-        ],
-        "movies": [
-            {
-                "title": "Mr Hublot",
-                "tmdb_id": 234862,
-                "imdb_id": "tt3043542"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2013",
-        "nominees": [
-            "Feral"
-        ],
-        "movies": [
-            {
-                "title": "Feral",
-                "tmdb_id": 234564,
-                "imdb_id": "tt2499022"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2013",
-        "nominees": [
-            "Get a Horse!"
-        ],
-        "movies": [
-            {
-                "title": "Get a Horse!",
-                "tmdb_id": 234567,
-                "imdb_id": "tt2980764"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2013",
-        "nominees": [
-            "Possessions"
-        ],
-        "movies": [
-            {
-                "title": "Possessions",
-                "tmdb_id": 211358,
-                "imdb_id": "tt3080074"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2013",
-        "nominees": [
-            "Room on the Broom"
-        ],
-        "movies": [
-            {
-                "title": "Room on the Broom",
-                "tmdb_id": 152581,
-                "imdb_id": "tt2484120"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2013",
-        "nominees": [
-            "Helium"
-        ],
-        "movies": [
-            {
-                "title": "Helium",
-                "tmdb_id": 249699,
-                "imdb_id": "tt3346410"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2013",
-        "nominees": [
-            "That Wasn't Me"
-        ],
-        "movies": [
-            {
-                "title": "That Wasn't Me",
-                "tmdb_id": 199737,
-                "imdb_id": "tt2372213"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2013",
-        "nominees": [
-            "Just Before Losing Everything"
-        ],
-        "movies": [
-            {
-                "title": "Just Before Losing Everything",
-                "tmdb_id": 222796,
-                "imdb_id": "tt2689992"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2013",
-        "nominees": [
-            "Do I Have to Take Care of Everything?"
-        ],
-        "movies": [
-            {
-                "title": "Do I Have to Take Care of Everything?",
-                "tmdb_id": 249703,
-                "imdb_id": "tt2256646"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2013",
-        "nominees": [
-            "The Voorman Problem"
-        ],
-        "movies": [
-            {
-                "title": "The Voorman Problem",
-                "tmdb_id": 200942,
-                "imdb_id": "tt1998355"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "Catherine Martin",
-            "Beverley Dunn"
-        ],
-        "movies": [
-            {
-                "title": "The Great Gatsby",
-                "tmdb_id": 64682,
-                "imdb_id": "tt1343092"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "Judy Becker",
-            "Heather Loeffler"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "Andy Nicholson",
-            "Rosie Goodwin",
-            "Joanne Woollard"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "K. K. Barrett",
-            "Gene Serdena"
-        ],
-        "movies": [
-            {
-                "title": "Her",
-                "tmdb_id": 152601,
-                "imdb_id": "tt1798709"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "Adam Stockhausen",
-            "Alice Baker"
-        ],
-        "movies": [
-            {
-                "title": "12 Years a Slave",
-                "tmdb_id": 76203,
-                "imdb_id": "tt2024544"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2013",
-        "nominees": [
-            "Emmanuel Lubezki"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2013",
-        "nominees": [
-            "Philippe Le Sourd"
-        ],
-        "movies": [
-            {
-                "title": "The Grandmaster",
-                "tmdb_id": 44865,
-                "imdb_id": "tt1462900"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2013",
-        "nominees": [
-            "Bruno Delbonnel"
-        ],
-        "movies": [
-            {
-                "title": "Inside Llewyn Davis",
-                "tmdb_id": 86829,
-                "imdb_id": "tt2042568"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2013",
-        "nominees": [
-            "Phedon Papamichael"
-        ],
-        "movies": [
-            {
-                "title": "Nebraska",
-                "tmdb_id": 129670,
-                "imdb_id": "tt1821549"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2013",
-        "nominees": [
-            "Roger Deakins"
-        ],
-        "movies": [
-            {
-                "title": "Prisoners",
-                "tmdb_id": 146233,
-                "imdb_id": "tt1392214"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2013",
-        "nominees": [
-            "Alfonso Cuaron",
-            "Mark Sanger"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2013",
-        "nominees": [
-            "Jay Cassidy",
-            "Crispin Struthers",
-            "Alan Baumgarten"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2013",
-        "nominees": [
-            "Christopher Rouse"
-        ],
-        "movies": [
-            {
-                "title": "Captain Phillips",
-                "tmdb_id": 109424,
-                "imdb_id": "tt1535109"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2013",
-        "nominees": [
-            "John Mac McMurphy",
-            "Martin Pensa"
-        ],
-        "movies": [
-            {
-                "title": "Dallas Buyers Club",
-                "tmdb_id": 152532,
-                "imdb_id": "tt0790636"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2013",
-        "nominees": [
-            "Joe Walker"
-        ],
-        "movies": [
-            {
-                "title": "12 Years a Slave",
-                "tmdb_id": 76203,
-                "imdb_id": "tt2024544"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2013",
-        "nominees": [
-            "Tim Webber",
-            "Chris Lawrence",
-            "Dave Shirk",
-            "Neil Corbould"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2013",
-        "nominees": [
-            "Joe Letteri",
-            "Eric Saindon",
-            "David Clayton",
-            "R. Christopher White"
-        ],
-        "movies": [
-            {
-                "title": "The Hobbit: The Desolation of Smaug",
-                "tmdb_id": 57158,
-                "imdb_id": "tt1170358"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2013",
-        "nominees": [
-            "Christopher Townsend",
-            "Guy Williams",
-            "Erik Nash",
-            "Dan Sudick"
-        ],
-        "movies": [
-            {
-                "title": "Iron Man 3",
-                "tmdb_id": 68721,
-                "imdb_id": "tt1300854"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2013",
-        "nominees": [
-            "Tim Alexander",
-            "Gary Brozenich",
-            "Edson Williams",
-            "John Frazier"
-        ],
-        "movies": [
-            {
-                "title": "The Lone Ranger",
-                "tmdb_id": 57201,
-                "imdb_id": "tt1210819"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2013",
-        "nominees": [
-            "Roger Guyett",
-            "Patrick Tubach",
-            "Ben Grossmann",
-            "Burt Dalton"
-        ],
-        "movies": [
-            {
-                "title": "Star Trek Into Darkness",
-                "tmdb_id": 54138,
-                "imdb_id": "tt1408101"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2013",
-        "nominees": [
-            "Skip Lievsay",
-            "Niv Adiri",
-            "Christopher Benstead",
-            "Chris Munro"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2013",
-        "nominees": [
-            "Chris Burdon",
-            "Mark Taylor",
-            "Mike Prestwood Smith",
-            "Chris Munro"
-        ],
-        "movies": [
-            {
-                "title": "Captain Phillips",
-                "tmdb_id": 109424,
-                "imdb_id": "tt1535109"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2013",
-        "nominees": [
-            "Christopher Boyes",
-            "Michael Hedges",
-            "Michael Semanick",
-            "Tony Johnson"
-        ],
-        "movies": [
-            {
-                "title": "The Hobbit: The Desolation of Smaug",
-                "tmdb_id": 57158,
-                "imdb_id": "tt1170358"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2013",
-        "nominees": [
-            "Skip Lievsay",
-            "Greg Orloff",
-            "Peter F. Kurland"
-        ],
-        "movies": [
-            {
-                "title": "Inside Llewyn Davis",
-                "tmdb_id": 86829,
-                "imdb_id": "tt2042568"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2013",
-        "nominees": [
-            "Andy Koyama",
-            "Beau Borders",
-            "David Brownlow"
-        ],
-        "movies": [
-            {
-                "title": "Lone Survivor",
-                "tmdb_id": 193756,
-                "imdb_id": "tt1091191"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2013",
-        "nominees": [
-            "Glenn Freemantle"
-        ],
-        "movies": [
-            {
-                "title": "Gravity",
-                "tmdb_id": 49047,
-                "imdb_id": "tt1454468"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2013",
-        "nominees": [
-            "Steve Boeddeker",
-            "Richard Hymns"
-        ],
-        "movies": [
-            {
-                "title": "All Is Lost",
-                "tmdb_id": 152747,
-                "imdb_id": "tt2017038"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2013",
-        "nominees": [
-            "Oliver Tarney"
-        ],
-        "movies": [
-            {
-                "title": "Captain Phillips",
-                "tmdb_id": 109424,
-                "imdb_id": "tt1535109"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2013",
-        "nominees": [
-            "Brent Burge",
-            "Chris Ward"
-        ],
-        "movies": [
-            {
-                "title": "The Hobbit: The Desolation of Smaug",
-                "tmdb_id": 57158,
-                "imdb_id": "tt1170358"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Editing",
-        "year": "2013",
-        "nominees": [
-            "Wylie Stateman"
-        ],
-        "movies": [
-            {
-                "title": "Lone Survivor",
-                "tmdb_id": 193756,
-                "imdb_id": "tt1091191"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2013",
-        "nominees": [
-            "Adruitha Lee",
-            "Robin Mathews"
-        ],
-        "movies": [
-            {
-                "title": "Dallas Buyers Club",
-                "tmdb_id": 152532,
-                "imdb_id": "tt0790636"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2013",
-        "nominees": [
-            "Stephen Prouty"
-        ],
-        "movies": [
-            {
-                "title": "Jackass Presents: Bad Grandpa",
-                "tmdb_id": 208134,
-                "imdb_id": "tt3063516"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2013",
-        "nominees": [
-            "Joel Harlow",
-            "Gloria Pasqua-Casny"
-        ],
-        "movies": [
-            {
-                "title": "The Lone Ranger",
-                "tmdb_id": 57201,
-                "imdb_id": "tt1210819"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "Catherine Martin"
-        ],
-        "movies": [
-            {
-                "title": "The Great Gatsby",
-                "tmdb_id": 64682,
-                "imdb_id": "tt1343092"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "Michael Wilkinson"
-        ],
-        "movies": [
-            {
-                "title": "American Hustle",
-                "tmdb_id": 168672,
-                "imdb_id": "tt1800241"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "William Chang Suk Ping"
-        ],
-        "movies": [
-            {
-                "title": "The Grandmaster",
-                "tmdb_id": 44865,
-                "imdb_id": "tt1462900"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "Michael O'Connor"
-        ],
-        "movies": [
-            {
-                "title": "The Invisible Woman",
-                "tmdb_id": 111473,
-                "imdb_id": "tt1700845"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2013",
-        "nominees": [
-            "Patricia Norris"
-        ],
-        "movies": [
-            {
-                "title": "12 Years a Slave",
-                "tmdb_id": 76203,
-                "imdb_id": "tt2024544"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "Christian Bale",
+    "Nominees": "Christian Bale",
+    "NomineeIds": "nm0000288",
+    "Winner": "",
+    "Detail": "Irving Rosenfeld",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Nebraska",
+    "FilmId": "tt1821549",
+    "Name": "Bruce Dern",
+    "Nominees": "Bruce Dern",
+    "NomineeIds": "nm0001136",
+    "Winner": "",
+    "Detail": "Woody Grant",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Wolf of Wall Street",
+    "FilmId": "tt0993846",
+    "Name": "Leonardo DiCaprio",
+    "Nominees": "Leonardo DiCaprio",
+    "NomineeIds": "nm0000138",
+    "Winner": "",
+    "Detail": "Jordan Belfort",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "12 Years a Slave",
+    "FilmId": "tt2024544",
+    "Name": "Chiwetel Ejiofor",
+    "Nominees": "Chiwetel Ejiofor",
+    "NomineeIds": "nm0252230",
+    "Winner": "",
+    "Detail": "Solomon Northup",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Dallas Buyers Club",
+    "FilmId": "tt0790636",
+    "Name": "Matthew McConaughey",
+    "Nominees": "Matthew McConaughey",
+    "NomineeIds": "nm0000190",
+    "Winner": "True",
+    "Detail": "Ron Woodroof",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Captain Phillips",
+    "FilmId": "tt1535109",
+    "Name": "Barkhad Abdi",
+    "Nominees": "Barkhad Abdi",
+    "NomineeIds": "nm5831542",
+    "Winner": "",
+    "Detail": "Muse",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "Bradley Cooper",
+    "Nominees": "Bradley Cooper",
+    "NomineeIds": "nm0177896",
+    "Winner": "",
+    "Detail": "Richie DiMaso",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "12 Years a Slave",
+    "FilmId": "tt2024544",
+    "Name": "Michael Fassbender",
+    "Nominees": "Michael Fassbender",
+    "NomineeIds": "nm1055413",
+    "Winner": "",
+    "Detail": "Edwin Epps",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Wolf of Wall Street",
+    "FilmId": "tt0993846",
+    "Name": "Jonah Hill",
+    "Nominees": "Jonah Hill",
+    "NomineeIds": "nm1706767",
+    "Winner": "",
+    "Detail": "Donnie Azoff",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Dallas Buyers Club",
+    "FilmId": "tt0790636",
+    "Name": "Jared Leto",
+    "Nominees": "Jared Leto",
+    "NomineeIds": "nm0001467",
+    "Winner": "True",
+    "Detail": "Rayon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "Amy Adams",
+    "Nominees": "Amy Adams",
+    "NomineeIds": "nm0010736",
+    "Winner": "",
+    "Detail": "Sydney Prosser",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Blue Jasmine",
+    "FilmId": "tt2334873",
+    "Name": "Cate Blanchett",
+    "Nominees": "Cate Blanchett",
+    "NomineeIds": "nm0000949",
+    "Winner": "True",
+    "Detail": "Jasmine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Sandra Bullock",
+    "Nominees": "Sandra Bullock",
+    "NomineeIds": "nm0000113",
+    "Winner": "",
+    "Detail": "Ryan Stone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Philomena",
+    "FilmId": "tt2431286",
+    "Name": "Judi Dench",
+    "Nominees": "Judi Dench",
+    "NomineeIds": "nm0001132",
+    "Winner": "",
+    "Detail": "Philomena",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "August: Osage County",
+    "FilmId": "tt1322269",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Violet Weston",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Blue Jasmine",
+    "FilmId": "tt2334873",
+    "Name": "Sally Hawkins",
+    "Nominees": "Sally Hawkins",
+    "NomineeIds": "nm1020089",
+    "Winner": "",
+    "Detail": "Ginger",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "Jennifer Lawrence",
+    "Nominees": "Jennifer Lawrence",
+    "NomineeIds": "nm2225369",
+    "Winner": "",
+    "Detail": "Rosalyn Rosenfeld",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "12 Years a Slave",
+    "FilmId": "tt2024544",
+    "Name": "Lupita Nyong'o",
+    "Nominees": "Lupita Nyong'o",
+    "NomineeIds": "nm2143282",
+    "Winner": "True",
+    "Detail": "Patsey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "August: Osage County",
+    "FilmId": "tt1322269",
+    "Name": "Julia Roberts",
+    "Nominees": "Julia Roberts",
+    "NomineeIds": "nm0000210",
+    "Winner": "",
+    "Detail": "Barbara Weston",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Nebraska",
+    "FilmId": "tt1821549",
+    "Name": "June Squibb",
+    "Nominees": "June Squibb",
+    "NomineeIds": "nm0820053",
+    "Winner": "",
+    "Detail": "Kate Grant",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Croods",
+    "FilmId": "tt0481499",
+    "Name": "Chris Sanders, Kirk DeMicco and Kristine Belson",
+    "Nominees": "Chris Sanders|Kirk DeMicco|Kristine Belson",
+    "NomineeIds": "nm0761498|nm0210320|nm0069549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Despicable Me 2",
+    "FilmId": "tt1690953",
+    "Name": "Chris Renaud, Pierre Coffin and Chris Meledandri",
+    "Nominees": "Chris Renaud|Pierre Coffin|Chris Meledandri",
+    "NomineeIds": "nm0719208|nm1853544|nm0577560",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Ernest & Celestine",
+    "FilmId": "tt1816518",
+    "Name": "Benjamin Renner and Didier Brunner",
+    "Nominees": "Benjamin Renner|Didier Brunner",
+    "NomineeIds": "nm2883649|nm0116369",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Frozen",
+    "FilmId": "tt2294629",
+    "Name": "Chris Buck, Jennifer Lee and Peter Del Vecho",
+    "Nominees": "Chris Buck|Jennifer Lee|Peter Del Vecho",
+    "NomineeIds": "nm0118333|nm1601644|nm1275326",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Wind Rises",
+    "FilmId": "tt2013293",
+    "Name": "Hayao Miyazaki and Toshio Suzuki",
+    "Nominees": "Hayao Miyazaki|Toshio Suzuki",
+    "NomineeIds": "nm0594503|nm0840699",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Grandmaster",
+    "FilmId": "tt1462900",
+    "Name": "Philippe Le Sourd",
+    "Nominees": "Philippe Le Sourd",
+    "NomineeIds": "nm0494628",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Emmanuel Lubezki",
+    "Nominees": "Emmanuel Lubezki",
+    "NomineeIds": "nm0523881",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Inside Llewyn Davis",
+    "FilmId": "tt2042568",
+    "Name": "Bruno Delbonnel",
+    "Nominees": "Bruno Delbonnel",
+    "NomineeIds": "nm0216632",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Nebraska",
+    "FilmId": "tt1821549",
+    "Name": "Phedon Papamichael",
+    "Nominees": "Phedon Papamichael",
+    "NomineeIds": "nm0003659",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Prisoners",
+    "FilmId": "tt1392214",
+    "Name": "Roger A. Deakins",
+    "Nominees": "Roger A. Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "Michael Wilkinson",
+    "Nominees": "Michael Wilkinson",
+    "NomineeIds": "nm0929452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Grandmaster",
+    "FilmId": "tt1462900",
+    "Name": "William Chang Suk Ping",
+    "Nominees": "William Chang Suk Ping",
+    "NomineeIds": "nm0151858",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Great Gatsby",
+    "FilmId": "tt1343092",
+    "Name": "Catherine Martin",
+    "Nominees": "Catherine Martin",
+    "NomineeIds": "nm0552039",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Invisible Woman",
+    "FilmId": "tt1700845",
+    "Name": "Michael O'Connor",
+    "Nominees": "Michael O'Connor",
+    "NomineeIds": "nm0640445",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "12 Years a Slave",
+    "FilmId": "tt2024544",
+    "Name": "Patricia Norris",
+    "Nominees": "Patricia Norris",
+    "NomineeIds": "nm0635876",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "David O. Russell",
+    "Nominees": "David O. Russell",
+    "NomineeIds": "nm0751102",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Alfonso Cuarón",
+    "Nominees": "Alfonso Cuarón",
+    "NomineeIds": "nm0190859",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Nebraska",
+    "FilmId": "tt1821549",
+    "Name": "Alexander Payne",
+    "Nominees": "Alexander Payne",
+    "NomineeIds": "nm0668247",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "12 Years a Slave",
+    "FilmId": "tt2024544",
+    "Name": "Steve McQueen",
+    "Nominees": "Steve McQueen",
+    "NomineeIds": "nm2588606",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Wolf of Wall Street",
+    "FilmId": "tt0993846",
+    "Name": "Martin Scorsese",
+    "Nominees": "Martin Scorsese",
+    "NomineeIds": "nm0000217",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Act of Killing",
+    "FilmId": "tt2375605",
+    "Name": "Joshua Oppenheimer and Signe Byrge Sørensen",
+    "Nominees": "Joshua Oppenheimer|Signe Byrge Sørensen",
+    "NomineeIds": "nm1484791|nm1718147",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Cutie and the Boxer",
+    "FilmId": "tt2355540",
+    "Name": "Zachary Heinzerling and Lydia Dean Pilcher",
+    "Nominees": "Zachary Heinzerling|Lydia Dean Pilcher",
+    "NomineeIds": "nm2784978|nm0212990",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Dirty Wars",
+    "FilmId": "tt2532528",
+    "Name": "Richard Rowley and Jeremy Scahill",
+    "Nominees": "Richard Rowley|Jeremy Scahill",
+    "NomineeIds": "nm0746823|nm1568139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Square",
+    "FilmId": "tt2486682",
+    "Name": "Jehane Noujaim and Karim Amer",
+    "Nominees": "Jehane Noujaim|Karim Amer",
+    "NomineeIds": "nm0636675|nm5255757",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "20 Feet from Stardom",
+    "FilmId": "tt2396566",
+    "Name": "Morgan Neville, Gil Friesen and Caitrin Rogers",
+    "Nominees": "Morgan Neville|Gil Friesen|Caitrin Rogers",
+    "NomineeIds": "nm1365879|nm0295648|nm2868934",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "CaveDigger",
+    "FilmId": "tt2516860",
+    "Name": "Jeffrey Karoff",
+    "Nominees": "Jeffrey Karoff",
+    "NomineeIds": "nm5366058",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Facing Fear",
+    "FilmId": "tt2776636",
+    "Name": "Jason Cohen",
+    "Nominees": "Jason Cohen",
+    "NomineeIds": "nm0169474",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Karama Has No Walls",
+    "FilmId": "tt2551790",
+    "Name": "Sara Ishaq",
+    "Nominees": "Sara Ishaq",
+    "NomineeIds": "nm5390809",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Lady in Number 6: Music Saved My Life",
+    "FilmId": "tt2924484",
+    "Name": "Malcolm Clarke and Nicholas Reed",
+    "Nominees": "Malcolm Clarke|Nicholas Reed",
+    "NomineeIds": "nm0164885|nm3760504",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Prison Terminal: The Last Days of Private Jack Hall",
+    "FilmId": "tt3145026",
+    "Name": "Edgar Barens",
+    "Nominees": "Edgar Barens",
+    "NomineeIds": "nm4767836",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "Jay Cassidy, Crispin Struthers and Alan Baumgarten",
+    "Nominees": "Jay Cassidy|Crispin Struthers|Alan Baumgarten",
+    "NomineeIds": "nm0144203|nm0835370|nm0062328",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Captain Phillips",
+    "FilmId": "tt1535109",
+    "Name": "Christopher Rouse",
+    "Nominees": "Christopher Rouse",
+    "NomineeIds": "nm0002582",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Dallas Buyers Club",
+    "FilmId": "tt0790636",
+    "Name": "John Mac McMurphy and Martin Pensa",
+    "Nominees": "John Mac McMurphy|Martin Pensa",
+    "NomineeIds": "nm0885249|nm3819839",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Alfonso Cuarón and Mark Sanger",
+    "Nominees": "Alfonso Cuarón|Mark Sanger",
+    "NomineeIds": "nm0190859|nm0002747",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "12 Years a Slave",
+    "FilmId": "tt2024544",
+    "Name": "Joe Walker",
+    "Nominees": "Joe Walker",
+    "NomineeIds": "nm0907863",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Broken Circle Breakdown",
+    "FilmId": "tt2024519",
+    "Name": "Belgium",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Great Beauty",
+    "FilmId": "tt2358891",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Hunt",
+    "FilmId": "tt2106476",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Missing Picture",
+    "FilmId": "tt2852470",
+    "Name": "Cambodia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Omar",
+    "FilmId": "tt2852406",
+    "Name": "Palestine",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Dallas Buyers Club",
+    "FilmId": "tt0790636",
+    "Name": "Adruitha Lee and Robin Mathews",
+    "Nominees": "Adruitha Lee|Robin Mathews",
+    "NomineeIds": "nm0496759|nm0560165",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Jackass Presents: Bad Grandpa",
+    "FilmId": "tt3063516",
+    "Name": "Stephen Prouty",
+    "Nominees": "Stephen Prouty",
+    "NomineeIds": "nm0698990",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "The Lone Ranger",
+    "FilmId": "tt1210819",
+    "Name": "Joel Harlow and Gloria Pasqua-Casny",
+    "Nominees": "Joel Harlow|Gloria Pasqua-Casny",
+    "NomineeIds": "nm0363355|nm0664675",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Book Thief",
+    "FilmId": "tt0816442",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Steven Price",
+    "Nominees": "Steven Price",
+    "NomineeIds": "nm1888527",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Her",
+    "FilmId": "tt1798709",
+    "Name": "William Butler and Owen Pallett",
+    "Nominees": "William Butler|Owen Pallett",
+    "NomineeIds": "nm1372622|nm2564754",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Philomena",
+    "FilmId": "tt2431286",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Saving Mr. Banks",
+    "FilmId": "tt2140373",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Alone Yet Not Alone",
+    "FilmId": "tt1986769",
+    "Name": "Music by Bruce Broughton; Lyric by Dennis Spiegel",
+    "Nominees": "Bruce Broughton|Dennis Spiegel",
+    "NomineeIds": "nm0005976|nm0818525",
+    "Winner": "",
+    "Detail": "Alone Yet Not Alone",
+    "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. After the nominations were announced on January 16, 2014, it was determined that Mr. Broughton had taken actions in promoting the song that were inconsistent with the Academy's campaign regulations. The Board of Governors voted to rescind the nomination on January 29, and only four songs were included on the final ballot.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Despicable Me 2",
+    "FilmId": "tt1690953",
+    "Name": "Music and Lyric by Pharrell Williams",
+    "Nominees": "Pharrell Williams",
+    "NomineeIds": "nm1214289",
+    "Winner": "",
+    "Detail": "Happy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Frozen",
+    "FilmId": "tt2294629",
+    "Name": "Music and Lyric by Kristen Anderson-Lopez and Robert Lopez",
+    "Nominees": "Kristen Anderson-Lopez|Robert Lopez",
+    "NomineeIds": "nm2844448|nm0520188",
+    "Winner": "True",
+    "Detail": "Let It Go",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Her",
+    "FilmId": "tt1798709",
+    "Name": "Music by Karen O; Lyric by Karen O and Spike Jonze",
+    "Nominees": "Karen O|Spike Jonze",
+    "NomineeIds": "nm1760393|nm0005069",
+    "Winner": "",
+    "Detail": "The Moon Song",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Mandela: Long Walk to Freedom",
+    "FilmId": "tt2304771",
+    "Name": "Music by Paul Hewson, Dave Evans, Adam Clayton and Larry Mullen; Lyric by Paul Hewson",
+    "Nominees": "Paul Hewson|Dave Evans|Adam Clayton|Larry Mullen",
+    "NomineeIds": "nm0095104|nm0857253|nm0165651|nm0611979",
+    "Winner": "",
+    "Detail": "Ordinary Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "Charles Roven, Richard Suckle, Megan Ellison and Jonathan Gordon, Producers",
+    "Nominees": "Charles Roven|Richard Suckle|Megan Ellison|Jonathan Gordon",
+    "NomineeIds": "nm0746273|nm0837112|nm2691892|nm0330335",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Captain Phillips",
+    "FilmId": "tt1535109",
+    "Name": "Scott Rudin, Dana Brunetti and Michael De Luca, Producers",
+    "Nominees": "Scott Rudin|Dana Brunetti|Michael De Luca",
+    "NomineeIds": "nm0748784|nm0116232|nm0006894",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Dallas Buyers Club",
+    "FilmId": "tt0790636",
+    "Name": "Robbie Brenner and Rachel Winter, Producers",
+    "Nominees": "Robbie Brenner|Rachel Winter",
+    "NomineeIds": "nm0107509|nm0292647",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Alfonso Cuarón and David Heyman, Producers",
+    "Nominees": "Alfonso Cuarón|David Heyman",
+    "NomineeIds": "nm0190859|nm0382268",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Her",
+    "FilmId": "tt1798709",
+    "Name": "Megan Ellison, Spike Jonze and Vincent Landay, Producers",
+    "Nominees": "Megan Ellison|Spike Jonze|Vincent Landay",
+    "NomineeIds": "nm2691892|nm0005069|nm0484504",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Nebraska",
+    "FilmId": "tt1821549",
+    "Name": "Albert Berger and Ron Yerxa, Producers",
+    "Nominees": "Albert Berger|Ron Yerxa",
+    "NomineeIds": "nm0074100|nm0947695",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Philomena",
+    "FilmId": "tt2431286",
+    "Name": "Gabrielle Tana, Steve Coogan and Tracey Seaward, Producers",
+    "Nominees": "Gabrielle Tana|Steve Coogan|Tracey Seaward",
+    "NomineeIds": "nm0848932|nm0176869|nm0780870",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "12 Years a Slave",
+    "FilmId": "tt2024544",
+    "Name": "Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas, Producers",
+    "Nominees": "Brad Pitt|Dede Gardner|Jeremy Kleiner|Steve McQueen|Anthony Katagas",
+    "NomineeIds": "nm0000093|nm0306890|nm1250070|nm2588606|nm0441097",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Wolf of Wall Street",
+    "FilmId": "tt0993846",
+    "Name": "Martin Scorsese, Leonardo DiCaprio, Joey McFarland and Emma Tillinger Koskoff, Producers",
+    "Nominees": "Martin Scorsese|Leonardo DiCaprio|Joey McFarland|Emma Tillinger Koskoff",
+    "NomineeIds": "nm0000217|nm0000138|nm2110175|nm0863374",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "Production Design: Judy Becker; Set Decoration: Heather Loeffler",
+    "Nominees": "Judy Becker|Heather Loeffler",
+    "NomineeIds": "nm0065473|nm1346736",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Production Design: Andy Nicholson; Set Decoration: Rosie Goodwin and Joanne Woollard",
+    "Nominees": "Andy Nicholson|Rosie Goodwin|Joanne Woollard",
+    "NomineeIds": "nm0629772|nm2532784|nm0941219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Great Gatsby",
+    "FilmId": "tt1343092",
+    "Name": "Production Design: Catherine Martin; Set Decoration: Beverley Dunn",
+    "Nominees": "Catherine Martin|Beverley Dunn",
+    "NomineeIds": "nm0552039|nm1427646",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Her",
+    "FilmId": "tt1798709",
+    "Name": "Production Design: K.K. Barrett; Set Decoration: Gene Serdena",
+    "Nominees": "K.K. Barrett|Gene Serdena",
+    "NomineeIds": "nm0057187|nm0784922",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "12 Years a Slave",
+    "FilmId": "tt2024544",
+    "Name": "Production Design: Adam Stockhausen; Set Decoration: Alice Baker",
+    "Nominees": "Adam Stockhausen|Alice Baker",
+    "NomineeIds": "nm1360914|nm0048212",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Feral",
+    "FilmId": "tt2499022",
+    "Name": "Daniel Sousa and Dan Golden",
+    "Nominees": "Daniel Sousa|Dan Golden",
+    "NomineeIds": "nm1009789|nm3196711",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Get a Horse!",
+    "FilmId": "tt2980764",
+    "Name": "Lauren MacMullan and Dorothy McKim",
+    "Nominees": "Lauren MacMullan|Dorothy McKim",
+    "NomineeIds": "nm0534041|nm1545668",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Mr. Hublot",
+    "FilmId": "tt3043542",
+    "Name": "Laurent Witz and Alexandre Espigares",
+    "Nominees": "Laurent Witz|Alexandre Espigares",
+    "NomineeIds": "nm5793837|nm3115348",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Possessions",
+    "FilmId": "tt3080074",
+    "Name": "Shuhei Morita",
+    "Nominees": "Shuhei Morita",
+    "NomineeIds": "nm1557215",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Room on the Broom",
+    "FilmId": "tt2484120",
+    "Name": "Max Lang and Jan Lachauer",
+    "Nominees": "Max Lang|Jan Lachauer",
+    "NomineeIds": "nm3495071|nm3936610",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Aquel No Era Yo (That Wasn't Me)",
+    "FilmId": "tt2372213",
+    "Name": "Esteban Crespo",
+    "Nominees": "Esteban Crespo",
+    "NomineeIds": "nm1878916",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Avant Que De Tout Perdre (Just before Losing Everything)",
+    "FilmId": "tt2689992",
+    "Name": "Xavier Legrand and Alexandre Gavras",
+    "Nominees": "Xavier Legrand|Alexandre Gavras",
+    "NomineeIds": "nm0499488|nm0308009",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Helium",
+    "FilmId": "tt3346410",
+    "Name": "Anders Walter and Kim Magnusson",
+    "Nominees": "Anders Walter|Kim Magnusson",
+    "NomineeIds": "nm2225334|nm0536385",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Pitääkö Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?)",
+    "FilmId": "tt2256646",
+    "Name": "Selma Vilhunen and Kirsikka Saari",
+    "Nominees": "Selma Vilhunen|Kirsikka Saari",
+    "NomineeIds": "nm1437990|nm2798718",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Voorman Problem",
+    "FilmId": "tt1998355",
+    "Name": "Mark Gill and Baldwin Li",
+    "Nominees": "Mark Gill|Baldwin Li",
+    "NomineeIds": "nm4317210|nm3172989",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "All Is Lost",
+    "FilmId": "tt2017038",
+    "Name": "Steve Boeddeker and Richard Hymns",
+    "Nominees": "Steve Boeddeker|Richard Hymns",
+    "NomineeIds": "nm0006655|nm0405232",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Captain Phillips",
+    "FilmId": "tt1535109",
+    "Name": "Oliver Tarney",
+    "Nominees": "Oliver Tarney",
+    "NomineeIds": "nm0850549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Glenn Freemantle",
+    "Nominees": "Glenn Freemantle",
+    "NomineeIds": "nm0293634",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Hobbit: The Desolation of Smaug",
+    "FilmId": "tt1170358",
+    "Name": "Brent Burge and Chris Ward",
+    "Nominees": "Brent Burge|Chris Ward",
+    "NomineeIds": "nm0121151|nm0911446",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Lone Survivor",
+    "FilmId": "tt1091191",
+    "Name": "Wylie Stateman",
+    "Nominees": "Wylie Stateman",
+    "NomineeIds": "nm0823758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Captain Phillips",
+    "FilmId": "tt1535109",
+    "Name": "Chris Burdon, Mark Taylor, Mike Prestwood Smith and Chris Munro",
+    "Nominees": "Chris Burdon|Mark Taylor|Mike Prestwood Smith|Chris Munro",
+    "NomineeIds": "nm0121006|nm0852837|nm0696523|nm0613101",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Skip Lievsay, Niv Adiri, Christopher Benstead and Chris Munro",
+    "Nominees": "Skip Lievsay|Niv Adiri|Christopher Benstead|Chris Munro",
+    "NomineeIds": "nm0509792|nm1866364|nm1666163|nm0613101",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Hobbit: The Desolation of Smaug",
+    "FilmId": "tt1170358",
+    "Name": "Christopher Boyes, Michael Hedges, Michael Semanick and Tony Johnson",
+    "Nominees": "Christopher Boyes|Michael Hedges|Michael Semanick|Tony Johnson",
+    "NomineeIds": "nm0102110|nm0373276|nm0783713|nm0426357",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Inside Llewyn Davis",
+    "FilmId": "tt2042568",
+    "Name": "Skip Lievsay, Greg Orloff and Peter F. Kurland",
+    "Nominees": "Skip Lievsay|Greg Orloff|Peter F. Kurland",
+    "NomineeIds": "nm0509792|nm0650088|nm0004212",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Lone Survivor",
+    "FilmId": "tt1091191",
+    "Name": "Andy Koyama, Beau Borders and David Brownlow",
+    "Nominees": "Andy Koyama|Beau Borders|David Brownlow",
+    "NomineeIds": "nm0468701|nm0003311|nm0115244",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Gravity",
+    "FilmId": "tt1454468",
+    "Name": "Tim Webber, Chris Lawrence, David Shirk and Neil Corbould",
+    "Nominees": "Tim Webber|Chris Lawrence|David Shirk|Neil Corbould",
+    "NomineeIds": "nm0916449|nm1165856|nm1874068|nm0179273",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Hobbit: The Desolation of Smaug",
+    "FilmId": "tt1170358",
+    "Name": "Joe Letteri, Eric Saindon, David Clayton and Eric Reynolds",
+    "Nominees": "Joe Letteri|Eric Saindon|David Clayton|Eric Reynolds",
+    "NomineeIds": "nm0504784|nm0756590|nm2238085|nm0721708",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Iron Man 3",
+    "FilmId": "tt1300854",
+    "Name": "Christopher Townsend, Guy Williams, Erik Nash and Dan Sudick",
+    "Nominees": "Christopher Townsend|Guy Williams|Erik Nash|Dan Sudick",
+    "NomineeIds": "nm0870102|nm1401413|nm0621716|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Lone Ranger",
+    "FilmId": "tt1210819",
+    "Name": "Tim Alexander, Gary Brozenich, Edson Williams and John Frazier",
+    "Nominees": "Tim Alexander|Gary Brozenich|Edson Williams|John Frazier",
+    "NomineeIds": "nm0018780|nm1819614|nm0930510|nm0292594",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Star Trek Into Darkness",
+    "FilmId": "tt1408101",
+    "Name": "Roger Guyett, Patrick Tubach, Ben Grossmann and Burt Dalton",
+    "Nominees": "Roger Guyett|Patrick Tubach|Ben Grossmann|Burt Dalton",
+    "NomineeIds": "nm0004361|nm0875604|nm1322973|nm0198245",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Before Midnight",
+    "FilmId": "tt2209418",
+    "Name": "Written by Richard Linklater, Julie Delpy, Ethan Hawke",
+    "Nominees": "Richard Linklater|Julie Delpy|Ethan Hawke",
+    "NomineeIds": "nm0000500|nm0000365|nm0000160",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Captain Phillips",
+    "FilmId": "tt1535109",
+    "Name": "Screenplay by Billy Ray",
+    "Nominees": "Billy Ray",
+    "NomineeIds": "nm0712753",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Philomena",
+    "FilmId": "tt2431286",
+    "Name": "Screenplay by Steve Coogan and Jeff Pope",
+    "Nominees": "Steve Coogan|Jeff Pope",
+    "NomineeIds": "nm0176869|nm0691131",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "12 Years a Slave",
+    "FilmId": "tt2024544",
+    "Name": "Screenplay by John Ridley",
+    "Nominees": "John Ridley",
+    "NomineeIds": "nm0725983",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Wolf of Wall Street",
+    "FilmId": "tt0993846",
+    "Name": "Screenplay by Terence Winter",
+    "Nominees": "Terence Winter",
+    "NomineeIds": "nm1010540",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "American Hustle",
+    "FilmId": "tt1800241",
+    "Name": "Written by Eric Warren Singer and David O. Russell",
+    "Nominees": "Eric Warren Singer|David O. Russell",
+    "NomineeIds": "nm2545235|nm0751102",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Blue Jasmine",
+    "FilmId": "tt2334873",
+    "Name": "Written by Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Dallas Buyers Club",
+    "FilmId": "tt0790636",
+    "Name": "Written by Craig Borten & Melisa Wallack",
+    "Nominees": "Craig Borten|Melisa Wallack",
+    "NomineeIds": "nm1258965|nm2214893",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Her",
+    "FilmId": "tt1798709",
+    "Name": "Written by Spike Jonze",
+    "Nominees": "Spike Jonze",
+    "NomineeIds": "nm0005069",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Nebraska",
+    "FilmId": "tt1821549",
+    "Name": "Written by Bob Nelson",
+    "Nominees": "Bob Nelson",
+    "NomineeIds": "nm1504572",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Angelina Jolie",
+    "Nominees": "Angelina Jolie",
+    "NomineeIds": "nm0001401",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Angela Lansbury",
+    "NomineeIds": "nm0001450",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Angela Lansbury, an entertainment icon who has created some of cinema's most memorable characters, inspiring generations of actors."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steve Martin",
+    "NomineeIds": "nm0000188",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Steve Martin in recognition of his extraordinary talents and the unique inspiration he has brought to the art of motion pictures."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Piero Tosi",
+    "NomineeIds": "nm0869200",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Piero Tosi, a visionary whose incomparable costume designs shaped timeless, living art in motion pictures."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Peter W. Anderson",
+    "NomineeIds": "nm0027287",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Peter W. Anderson"
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "Lab employees have contributed extraordinary efforts to achieve filmmakers' artistic expectations for special film processing and the production of billions of feet of release prints per year. This work has allowed an expanded motion picture audience and unequaled worldwide cinema experience.",
+    "Citation": "To all those who built and operated film laboratories, for over a century of service to the motion picture industry."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ofer Alon",
+    "NomineeIds": "nm6306188",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "ZBrush pioneered multi-resolution digital sculpting, transforming how artists conceive and realize their final designs. ZBrush has enabled artists to create models far more quickly and with much greater detail than previous approaches.",
+    "Citation": "To OFER ALON for the design and implementation of the ZBrush software tool for multi-resolution sculpting of digital models."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eric Veach",
+    "NomineeIds": "nm0891508",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Physically based rendering has transformed computer graphics lighting by more accurately simulating materials and lights, allowing digital artists to focus on cinematography rather than the intricacies of rendering. In his 1997 Ph.D. thesis and related publications, Veach formalized the principles of Monte Carlo path tracing and introduced essential optimization techniques, such as multiple importance sampling, which make physically based rendering computationally feasible.",
+    "Citation": "To ERIC VEACH for his foundational research on efficient Monte Carlo path tracing for image synthesis."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Andre Gauthier|Benoit Sevigny|Yves Boudreault|Robert Lanciault",
+    "NomineeIds": "nm6306175|nm6306189|nm6306190|nm6306191",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "FiLMBOX, the foundation of MotionBuilder, enables the real-time processing and control of devices and animation. For over two decades, its innovative architecture has been a basis for the development and evolution of new techniques in filmmaking, such as virtual production.",
+    "Citation": "To ANDRE GAUTHIER, BENOIT SEVIGNY, YVES BOUDREAULT and ROBERT LANCIAULT for the design and implementation of the FiLMBOX software application."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Emmanuel Prévinaire|Jan Sperling|Etienne Brandt|Tony Postiau",
+    "NomineeIds": "nm1130474|nm5469583|nm6306181|nm6306182",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "This battery-powered, radio-controlled, miniature helicopter camera system employs computer-assisted piloting and tele-operation in an airframe that utilizes GPS-assisted flight controls for aerial filming of unparalleled sophistication. Flying-Cam SARAH achieves shots impossible for full-size helicopters, cable systems or other traditional camera support devices.",
+    "Citation": "To EMMANUEL PRÉVINAIRE, JAN SPERLING, ETIENNE BRANDT and TONY POSTIAU for their development of the Flying-Cam SARAH 3.0 system."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Olivier Maury|Ian Sachs|Dan Piponi",
+    "NomineeIds": "nm1436524|nm1603527|nm0685004",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The unique construction of this system combines fluid solving and final image rendering on the GPU (Graphics Processing Unit) hardware without needing an intermediate step involving the CPU. This innovation reduces turnaround time, resulting in significant efficiency gains for the ILM effects department.",
+    "Citation": "To OLIVIER MAURY, IAN SACHS and DAN PIPONI for the creation of the ILM Plume system that simulates and renders fire, smoke and explosions for motion picture visual effects."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ronald D. Henderson",
+    "NomineeIds": "nm1716405",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The use of the Fast Fourier Transform for solving partial differential equations allows FLUX a greater level of algorithmic efficiency when multi-threading on modern hardware. This innovation enables the creation of very high-resolution fluid effects while maintaining fast turnaround times.",
+    "Citation": "To RONALD D. HENDERSON for the development of the FLUX gas simulation system."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Andrew Camenisch|David Cardwell|Tibor Madjar|Csaba Kohegyi|Imre Major",
+    "NomineeIds": "nm1531253|nm1513559|nm1300809|nm6306184|nm6306185",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Mudbox provides artists powerful new design capabilities that significantly advance the state of the art in multi-resolution digital sculpting for film production.",
+    "Citation": "To ANDREW CAMENISCH, DAVID CARDWELL and TIBOR MADJAR for the concept and design, and to CSABA KOHEGYI and IMRE MAJOR for the implementation of the Mudbox software."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Martin Hill|Jon Allitt|NICK McKENZIE",
+    "NomineeIds": "nm2243342|nm1401460|nm0571591",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The spherical harmonics lighting pipeline precomputes and reuses a smooth approximation of time-consuming visibility calculations. This enables artists to quickly see the results of changing lights, materials and set layouts in scenes with extremely complex geometry.",
+    "Citation": "To MARTIN HILL, JON ALLITT and NICK McKENZIE for the creation of the spherical harmonics-based efficient lighting system at Weta Digital."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Florian Kainz|Jeffery Yost|Philip Hubbard|Jim Hourihan",
+    "NomineeIds": "nm0435090|nm0949134|nm1549668|nm0396606",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "For more than a decade, Zeno's flexible and robust design has allowed the creation of a broad range of Academy Award-winning visual effects toolsets at ILM.",
+    "Citation": "To FLORIAN KAINZ, JEFFERY YOST, PHILIP HUBBARD and JIM HOURIHAN for the architecture and development of the Zeno application framework."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Peter Huang|Chris Perry|Hans Rijpkema|Joe Mancewicz",
+    "NomineeIds": "nm1598696|nm0003255|nm1261455|nm0541364",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "For more than a decade, Voodoo's unique design concepts have enabled a broad range of character animation toolsets to be developed at Rhythm & Hues.",
+    "Citation": "To PETER HUANG and CHRIS PERRY for their architectural contributions to, and to HANS RIJPKEMA and JOE MANCEWICZ for the core engineering of, the Voodoo application framework."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Matt Pharr|Greg Humphreys|Pat Hanrahan",
+    "NomineeIds": "nm0679685|nm6306186|nm0360561",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Physically based rendering has transformed computer graphics lighting by more accurately simulating materials and lights, allowing digital artists to focus on cinematography rather than the intricacies of rendering. First published in 2004, \\\"Physically Based Rendering\\\" is both a textbook and a complete source-code implementation that has provided a widely adopted practical roadmap for most physically based shading and lighting systems used in film production.",
+    "Citation": "To MATT PHARR, GREG HUMPHREYS and PAT HANRAHAN for their formalization and reference implementation of the concepts behind physically based rendering, as shared in their book \\\"Physically Based Rendering.\\"
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Peter Hillman",
+    "NomineeIds": "nm4540837",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Dr. Hillman's ongoing contributions to standardized techniques and a common deep image file format have enabled advanced compositing workflows across the digital filmmaking industry.",
+    "Citation": "To DR. PETER HILLMAN for the long-term development and continued advancement of innovative, robust and complete toolsets for deep compositing."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Colin Doncaster|Johannes Saam|Areito Echevarria|Janne Kontkanen|Chris Cooper",
+    "NomineeIds": "nm1401977|nm2183686|nm0587054|nm6306187|nm1113263",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Their contributions include early advancements in key deep compositing features such as layer and holdout-order independence, spatial and intra-element color correction, post-render depth of field, and precise blending of complex layer edges.",
+    "Citation": "To COLIN DONCASTER, JOHANNES SAAM, AREITO ECHEVARRIA, JANNE KONTKANEN and CHRIS COOPER for the development, prototyping and promotion of technologies and workflows for deep compositing."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thomas Lokovic|Eric Veach",
+    "NomineeIds": "nm0518112|nm0891508",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Providing a functional and efficient model for the storage of deep opacity information, this technology was widely adopted as the foundation of early deep compositing pipelines.",
+    "Citation": "To THOMAS LOKOVIC and ERIC VEACH for their influential research and publication of the fundamental concepts of deep shadowing technology."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "GIFFORD HOOPER|PHILIP GEORGE",
+    "NomineeIds": "nm1224041|nm1599011",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "The current Helicam system is a high-speed, extremely maneuverable, turbine-engine, radio-controlled miniature helicopter that supports professional film and digital cinema cameras. Helicam provides a wide range of stabilized, remotely operated pan, tilt and roll capabilities, achieving shots impossible for full-size helicopters.",
+    "Citation": "To GIFFORD HOOPER and PHILIP GEORGE of HoverCam for the continuing development of the Helicam miniature helicopter camera system."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Frazier|Chuck Gaspar|Clay Pinney",
+    "NomineeIds": "nm0292594|nm0309176|nm0684439",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "This self-contained high-pressure pneumatic device safely launches a stationary full-sized car on a predetermined trajectory. The precision of operation enhances the safety of performers, and the physical design allows a rapid setup and strike.",
+    "Citation": "To JOHN FRAZIER, CHUCK GASPAR and CLAY PINNEY for the design and development of the Pneumatic Car Flipper."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joshua Pines|David Reisner|Lou Levinson|Curtis Clark ASC|David Register",
+    "NomineeIds": "nm0003256|nm3930062|nm0506069|nm0163797|nm2393110",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "The ASC CDL unifies color correction principles for use on- and off-set, providing for the faithful reproduction of color values across a variety of color correction devices. This technology provides basic image-processing mathematics that translate the lift, gamma and gain settings to a set of common color values to help preserve the cinematographer's intent throughout production.",
+    "Citation": "To JOSHUA PINES, DAVID REISNER, LOU LEVINSON, CURTIS CLARK, ASC, and DAVID REGISTER for the development of the American Society of Cinematographers Color Decision List technology."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jeremy Selan",
+    "NomineeIds": "nm1677436",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "OpenColorIO, developed at Sony Pictures Imageworks, is an open source framework that enables consistent color visualization of motion picture imagery across multiple facilities and numerous software applications.",
+    "Citation": "To JEREMY SELAN for the development of the OpenColorIO color management framework."
+  },
+  {
+    "Ceremony": 86,
+    "Year": 2013,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Charles \\\"Tad\\\" Marburg",
+    "NomineeIds": "nm4845448",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Charles \\\"Tad\\\" Marburg in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  }
 ]

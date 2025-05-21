@@ -1,1718 +1,2402 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1998",
-    "nominees": [
-      "Shakespeare in Love"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1998",
-    "nominees": [
-      "Elizabeth"
-    ],
-    "movies": [
-      {
-        "title": "Elizabeth",
-        "tmdb_id": 4518,
-        "imdb_id": "tt0127536"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1998",
-    "nominees": [
-      "Life Is Beautiful"
-    ],
-    "movies": [
-      {
-        "title": "Life Is Beautiful",
-        "tmdb_id": 637,
-        "imdb_id": "tt0118799"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1998",
-    "nominees": [
-      "Saving Private Ryan"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1998",
-    "nominees": [
-      "The Thin Red Line"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Red Line",
-        "tmdb_id": 8741,
-        "imdb_id": "tt0120863"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1998",
-    "nominees": [
-      "Roberto Benigni"
-    ],
-    "movies": [
-      {
-        "title": "Life Is Beautiful",
-        "tmdb_id": 637,
-        "imdb_id": "tt0118799"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1998",
-    "nominees": [
-      "Tom Hanks"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1998",
-    "nominees": [
-      "Ian McKellen"
-    ],
-    "movies": [
-      {
-        "title": "Gods and Monsters",
-        "tmdb_id": 3033,
-        "imdb_id": "tt0120684"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1998",
-    "nominees": [
-      "Nick Nolte"
-    ],
-    "movies": [
-      {
-        "title": "Affliction",
-        "tmdb_id": 31662,
-        "imdb_id": "tt0118564"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1998",
-    "nominees": [
-      "Edward Norton"
-    ],
-    "movies": [
-      {
-        "title": "American History X",
-        "tmdb_id": 73,
-        "imdb_id": "tt0120586"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1998",
-    "nominees": [
-      "Gwyneth Paltrow"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1998",
-    "nominees": [
-      "Cate Blanchett"
-    ],
-    "movies": [
-      {
-        "title": "Elizabeth",
-        "tmdb_id": 4518,
-        "imdb_id": "tt0127536"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1998",
-    "nominees": [
-      "Fernanda Montenegro"
-    ],
-    "movies": [
-      {
-        "title": "Central Station",
-        "tmdb_id": 666,
-        "imdb_id": "tt0140888"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1998",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "One True Thing",
-        "tmdb_id": 53113,
-        "imdb_id": "tt0120776"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1998",
-    "nominees": [
-      "Emily Watson"
-    ],
-    "movies": [
-      {
-        "title": "Hilary and Jackie",
-        "tmdb_id": 46992,
-        "imdb_id": "tt0150915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1998",
-    "nominees": [
-      "James Coburn"
-    ],
-    "movies": [
-      {
-        "title": "Affliction",
-        "tmdb_id": 31662,
-        "imdb_id": "tt0118564"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1998",
-    "nominees": [
-      "Robert Duvall"
-    ],
-    "movies": [
-      {
-        "title": "A Civil Action",
-        "tmdb_id": 9422,
-        "imdb_id": "tt0120633"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1998",
-    "nominees": [
-      "Ed Harris"
-    ],
-    "movies": [
-      {
-        "title": "The Truman Show",
-        "tmdb_id": 37165,
-        "imdb_id": "tt0120382"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1998",
-    "nominees": [
-      "Geoffrey Rush"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1998",
-    "nominees": [
-      "Billy Bob Thornton"
-    ],
-    "movies": [
-      {
-        "title": "A Simple Plan",
-        "tmdb_id": 10223,
-        "imdb_id": "tt0120324"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1998",
-    "nominees": [
-      "Judi Dench"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1998",
-    "nominees": [
-      "Kathy Bates"
-    ],
-    "movies": [
-      {
-        "title": "Primary Colors",
-        "tmdb_id": 9440,
-        "imdb_id": "tt0119942"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1998",
-    "nominees": [
-      "Brenda Blethyn"
-    ],
-    "movies": [
-      {
-        "title": "Little Voice",
-        "tmdb_id": 8545,
-        "imdb_id": "tt0147004"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1998",
-    "nominees": [
-      "Rachel Griffiths"
-    ],
-    "movies": [
-      {
-        "title": "Hilary and Jackie",
-        "tmdb_id": 46992,
-        "imdb_id": "tt0150915"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1998",
-    "nominees": [
-      "Lynn Redgrave"
-    ],
-    "movies": [
-      {
-        "title": "Gods and Monsters",
-        "tmdb_id": 3033,
-        "imdb_id": "tt0120684"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1998",
-    "nominees": [
-      "Steven Spielberg"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1998",
-    "nominees": [
-      "Roberto Benigni"
-    ],
-    "movies": [
-      {
-        "title": "Life Is Beautiful",
-        "tmdb_id": 637,
-        "imdb_id": "tt0118799"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1998",
-    "nominees": [
-      "John Madden"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1998",
-    "nominees": [
-      "Terrence Malick"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Red Line",
-        "tmdb_id": 8741,
-        "imdb_id": "tt0120863"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1998",
-    "nominees": [
-      "Peter Weir"
-    ],
-    "movies": [
-      {
-        "title": "The Truman Show",
-        "tmdb_id": 37165,
-        "imdb_id": "tt0120382"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Bill Condon"
-    ],
-    "movies": [
-      {
-        "title": "Gods and Monsters",
-        "tmdb_id": 3033,
-        "imdb_id": "tt0120684"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Scott Frank"
-    ],
-    "movies": [
-      {
-        "title": "Out of Sight",
-        "tmdb_id": 1389,
-        "imdb_id": "tt0120780"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Elaine May"
-    ],
-    "movies": [
-      {
-        "title": "Primary Colors",
-        "tmdb_id": 9440,
-        "imdb_id": "tt0119942"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Scott B. Smith"
-    ],
-    "movies": [
-      {
-        "title": "A Simple Plan",
-        "tmdb_id": 10223,
-        "imdb_id": "tt0120324"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Terrence Malick"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Red Line",
-        "tmdb_id": 8741,
-        "imdb_id": "tt0120863"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Marc Norman",
-      "Tom Stoppard"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Warren Beatty",
-      "Jeremy Pikser"
-    ],
-    "movies": [
-      {
-        "title": "Bulworth",
-        "tmdb_id": 9452,
-        "imdb_id": "tt0118798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Vincenzo Cerami",
-      "Roberto Benigni"
-    ],
-    "movies": [
-      {
-        "title": "Life Is Beautiful",
-        "tmdb_id": 637,
-        "imdb_id": "tt0118799"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Robert Rodat"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1998",
-    "nominees": [
-      "Andrew Niccol"
-    ],
-    "movies": [
-      {
-        "title": "The Truman Show",
-        "tmdb_id": 37165,
-        "imdb_id": "tt0120382"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1998",
-    "nominees": [
-      "Nicola Piovani"
-    ],
-    "movies": [
-      {
-        "title": "Life Is Beautiful",
-        "tmdb_id": 637,
-        "imdb_id": "tt0118799"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1998",
-    "nominees": [
-      "David Hirschfelder"
-    ],
-    "movies": [
-      {
-        "title": "Elizabeth",
-        "tmdb_id": 4518,
-        "imdb_id": "tt0127536"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1998",
-    "nominees": [
-      "Randy Newman"
-    ],
-    "movies": [
-      {
-        "title": "Pleasantville",
-        "tmdb_id": 2657,
-        "imdb_id": "tt0120789"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1998",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1998",
-    "nominees": [
-      "Hans Zimmer"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Red Line",
-        "tmdb_id": 8741,
-        "imdb_id": "tt0120863"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1998",
-    "nominees": [
-      "Stephen Warbeck"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1998",
-    "nominees": [
-      "Randy Newman"
-    ],
-    "movies": [
-      {
-        "title": "A Bug's Life",
-        "tmdb_id": 9487,
-        "imdb_id": "tt0120623"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1998",
-    "nominees": [
-      "Matthew Wilder",
-      "David Zippel",
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "Mulan",
-        "tmdb_id": 10674,
-        "imdb_id": "tt0120762"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1998",
-    "nominees": [
-      "Marc Shaiman"
-    ],
-    "movies": [
-      {
-        "title": "Patch Adams",
-        "tmdb_id": 10312,
-        "imdb_id": "tt0129290"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1998",
-    "nominees": [
-      "Stephen Schwartz",
-      "Hans Zimmer"
-    ],
-    "movies": [
-      {
-        "title": "The Prince of Egypt",
-        "tmdb_id": 9837,
-        "imdb_id": "tt0120794"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1998",
-    "nominees": [
-      "When You Believe"
-    ],
-    "movies": [
-      {
-        "title": "The Prince of Egypt",
-        "tmdb_id": 9837,
-        "imdb_id": "tt0120794"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1998",
-    "nominees": [
-      "I Don't Want to Miss a Thing"
-    ],
-    "movies": [
-      {
-        "title": "Armageddon",
-        "tmdb_id": 95,
-        "imdb_id": "tt0120591"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1998",
-    "nominees": [
-      "That'll Do"
-    ],
-    "movies": [
-      {
-        "title": "Babe: Pig in the City",
-        "tmdb_id": 9447,
-        "imdb_id": "tt0120595"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1998",
-    "nominees": [
-      "A Soft Place to Fall"
-    ],
-    "movies": [
-      {
-        "title": "The Horse Whisperer",
-        "tmdb_id": 547,
-        "imdb_id": "tt0119314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1998",
-    "nominees": [
-      "The Prayer"
-    ],
-    "movies": [
-      {
-        "title": "Quest for Camelot",
-        "tmdb_id": 18937,
-        "imdb_id": "tt0120800"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1998",
-    "nominees": [
-      "Life Is Beautiful"
-    ],
-    "movies": [
-      {
-        "title": "Life Is Beautiful",
-        "tmdb_id": 637,
-        "imdb_id": "tt0118799"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1998",
-    "nominees": [
-      "Central Station"
-    ],
-    "movies": [
-      {
-        "title": "Central Station",
-        "tmdb_id": 666,
-        "imdb_id": "tt0140888"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1998",
-    "nominees": [
-      "Children of Heaven"
-    ],
-    "movies": [
-      {
-        "title": "Children of Heaven",
-        "tmdb_id": 21334,
-        "imdb_id": "tt0118849"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1998",
-    "nominees": [
-      "The Grandfather"
-    ],
-    "movies": [
-      {
-        "title": "The Grandfather",
-        "tmdb_id": 69851,
-        "imdb_id": "tt0176415"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1998",
-    "nominees": [
-      "Tango"
-    ],
-    "movies": [
-      {
-        "title": "Tango",
-        "tmdb_id": 919317,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1998",
-    "nominees": [
-      "The Last Days"
-    ],
-    "movies": [
-      {
-        "title": "The Last Days",
-        "tmdb_id": 20595,
-        "imdb_id": "tt0174852"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1998",
-    "nominees": [
-      "Dancemaker"
-    ],
-    "movies": [
-      {
-        "title": "Dancemaker",
-        "tmdb_id": 113286,
-        "imdb_id": "tt0175550"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1998",
-    "nominees": [
-      "The Farm: Angola, USA"
-    ],
-    "movies": [
-      {
-        "title": "The Farm: Angola, USA",
-        "tmdb_id": 113284,
-        "imdb_id": "tt0139193"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1998",
-    "nominees": [
-      "Lenny Bruce: Swear to Tell the Truth"
-    ],
-    "movies": [
-      {
-        "title": "Lenny Bruce: Swear to Tell the Truth",
-        "tmdb_id": 103162,
-        "imdb_id": "tt0175844"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1998",
-    "nominees": [
-      "Regret to Inform"
-    ],
-    "movies": [
-      {
-        "title": "Regret to Inform",
-        "tmdb_id": 113279,
-        "imdb_id": "tt0181786"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1998",
-    "nominees": [
-      "The Personals: Improvisations on Romance in the Golden Years"
-    ],
-    "movies": [
-      {
-        "title": "The Personals: Improvisations on Romance in the Golden Years",
-        "tmdb_id": 244937,
-        "imdb_id": "tt0176018"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1998",
-    "nominees": [
-      "A Place in the Land"
-    ],
-    "movies": [
-      {
-        "title": "A Place in the Land",
-        "tmdb_id": 244938,
-        "imdb_id": "tt0189009"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1998",
-    "nominees": [
-      "Sunrise Over Tiananmen Square"
-    ],
-    "movies": [
-      {
-        "title": "Sunrise Over Tiananmen Square",
-        "tmdb_id": 244939,
-        "imdb_id": "tt0189121"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1998",
-    "nominees": [
-      "Bunny"
-    ],
-    "movies": [
-      {
-        "title": "Bunny",
-        "tmdb_id": 48610,
-        "imdb_id": "tt0179011"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1998",
-    "nominees": [
-      "The Canterbury Tales"
-    ],
-    "movies": [
-      {
-        "title": "The Canterbury Tales",
-        "tmdb_id": 1117670,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1998",
-    "nominees": [
-      "Jolly Roger"
-    ],
-    "movies": [
-      {
-        "title": "Jolly Roger",
-        "tmdb_id": 220834,
-        "imdb_id": "tt0188723"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1998",
-    "nominees": [
-      "More"
-    ],
-    "movies": [
-      {
-        "title": "More",
-        "tmdb_id": 36107,
-        "imdb_id": "tt0188913"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1998",
-    "nominees": [
-      "When Life Departs"
-    ],
-    "movies": [
-      {
-        "title": "When Life Departs",
-        "tmdb_id": 209516,
-        "imdb_id": "tt0189205"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1998",
-    "nominees": [
-      "Election Night"
-    ],
-    "movies": [
-      {
-        "title": "Election Night",
-        "tmdb_id": 93980,
-        "imdb_id": "tt0189179"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1998",
-    "nominees": [
-      "Culture"
-    ],
-    "movies": [
-      {
-        "title": "Culture",
-        "tmdb_id": 244929,
-        "imdb_id": "tt0188533"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1998",
-    "nominees": [
-      "Holiday Romance"
-    ],
-    "movies": [
-      {
-        "title": "Holiday Romance",
-        "tmdb_id": 244930,
-        "imdb_id": "tt0188667"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1998",
-    "nominees": [
-      "The Postcard"
-    ],
-    "movies": [
-      {
-        "title": "The Postcard",
-        "tmdb_id": 244933,
-        "imdb_id": "tt0188485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1998",
-    "nominees": [
-      "Victor"
-    ],
-    "movies": [
-      {
-        "title": "Victor",
-        "tmdb_id": 435364,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "Martin Childs",
-      "Jill Quertier"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "John Myhre",
-      "Peter Howitt"
-    ],
-    "movies": [
-      {
-        "title": "Elizabeth",
-        "tmdb_id": 4518,
-        "imdb_id": "tt0127536"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "Jeannine Oppewall",
-      "Jay Hart"
-    ],
-    "movies": [
-      {
-        "title": "Pleasantville",
-        "tmdb_id": 2657,
-        "imdb_id": "tt0120789"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "Tom Sanders",
-      "Lisa Dean Kavanagh"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "Eugenio Zanetti",
-      "Cindy Carr"
-    ],
-    "movies": [
-      {
-        "title": "What Dreams May Come",
-        "tmdb_id": 12159,
-        "imdb_id": "tt0120889"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1998",
-    "nominees": [
-      "Janusz Kaminski"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1998",
-    "nominees": [
-      "Conrad L. Hall"
-    ],
-    "movies": [
-      {
-        "title": "A Civil Action",
-        "tmdb_id": 9422,
-        "imdb_id": "tt0120633"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1998",
-    "nominees": [
-      "Remi Adefarasin"
-    ],
-    "movies": [
-      {
-        "title": "Elizabeth",
-        "tmdb_id": 4518,
-        "imdb_id": "tt0127536"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1998",
-    "nominees": [
-      "Richard Greatrex"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1998",
-    "nominees": [
-      "John Toll"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Red Line",
-        "tmdb_id": 8741,
-        "imdb_id": "tt0120863"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1998",
-    "nominees": [
-      "Michael Kahn"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1998",
-    "nominees": [
-      "Simona Paggi"
-    ],
-    "movies": [
-      {
-        "title": "Life Is Beautiful",
-        "tmdb_id": 637,
-        "imdb_id": "tt0118799"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1998",
-    "nominees": [
-      "Anne V. Coates"
-    ],
-    "movies": [
-      {
-        "title": "Out of Sight",
-        "tmdb_id": 1389,
-        "imdb_id": "tt0120780"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1998",
-    "nominees": [
-      "David Gamble"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1998",
-    "nominees": [
-      "Billy Weber",
-      "Leslie Jones",
-      "Saar Klein"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Red Line",
-        "tmdb_id": 8741,
-        "imdb_id": "tt0120863"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1998",
-    "nominees": [
-      "Joel Hynek",
-      "Nicholas Brooks",
-      "Stuart Robertson",
-      "Kevin Mack"
-    ],
-    "movies": [
-      {
-        "title": "What Dreams May Come",
-        "tmdb_id": 12159,
-        "imdb_id": "tt0120889"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1998",
-    "nominees": [
-      "Richard R. Hoover",
-      "Patrick McClung",
-      "John Frazier"
-    ],
-    "movies": [
-      {
-        "title": "Armageddon",
-        "tmdb_id": 95,
-        "imdb_id": "tt0120591"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1998",
-    "nominees": [
-      "Rick Baker",
-      "Hoyt Yeatman",
-      "Allen Hall",
-      "Jim Mitchell"
-    ],
-    "movies": [
-      {
-        "title": "Mighty Joe Young",
-        "tmdb_id": 9822,
-        "imdb_id": "tt0120751"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1998",
-    "nominees": [
-      "Gary Rydstrom",
-      "Gary Summers",
-      "Andy Nelson",
-      "Ron Judkins"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1998",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Keith A. Wester"
-    ],
-    "movies": [
-      {
-        "title": "Armageddon",
-        "tmdb_id": 95,
-        "imdb_id": "tt0120591"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1998",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Pud Cusack"
-    ],
-    "movies": [
-      {
-        "title": "The Mask of Zorro",
-        "tmdb_id": 9342,
-        "imdb_id": "tt0120746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1998",
-    "nominees": [
-      "Robin O'Donoghue",
-      "Dominic Lester",
-      "Peter Glossop"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1998",
-    "nominees": [
-      "Andy Nelson",
-      "Anna Behlmer",
-      "Paul Brincat"
-    ],
-    "movies": [
-      {
-        "title": "The Thin Red Line",
-        "tmdb_id": 8741,
-        "imdb_id": "tt0120863"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1998",
-    "nominees": [
-      "Gary Rydstrom",
-      "Richard Hymns"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1998",
-    "nominees": [
-      "George Watters"
-    ],
-    "movies": [
-      {
-        "title": "Armageddon",
-        "tmdb_id": 95,
-        "imdb_id": "tt0120591"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1998",
-    "nominees": [
-      "David McMoyler"
-    ],
-    "movies": [
-      {
-        "title": "The Mask of Zorro",
-        "tmdb_id": 9342,
-        "imdb_id": "tt0120746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1998",
-    "nominees": [
-      "Jenny Shircore"
-    ],
-    "movies": [
-      {
-        "title": "Elizabeth",
-        "tmdb_id": 4518,
-        "imdb_id": "tt0127536"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1998",
-    "nominees": [
-      "Lois Burwell",
-      "Conor O'Sullivan",
-      "Daniel C. Striepeke"
-    ],
-    "movies": [
-      {
-        "title": "Saving Private Ryan",
-        "tmdb_id": 857,
-        "imdb_id": "tt0120815"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1998",
-    "nominees": [
-      "Lisa Westcott",
-      "Veronica Brebner"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "Sandy Powell"
-    ],
-    "movies": [
-      {
-        "title": "Shakespeare in Love",
-        "tmdb_id": 1934,
-        "imdb_id": "tt0138097"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "Colleen Atwood"
-    ],
-    "movies": [
-      {
-        "title": "Beloved",
-        "tmdb_id": 39437,
-        "imdb_id": "tt0120603"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "Alexandra Byrne"
-    ],
-    "movies": [
-      {
-        "title": "Elizabeth",
-        "tmdb_id": 4518,
-        "imdb_id": "tt0127536"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "Judianna Makovsky"
-    ],
-    "movies": [
-      {
-        "title": "Pleasantville",
-        "tmdb_id": 2657,
-        "imdb_id": "tt0120789"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1998",
-    "nominees": [
-      "Sandy Powell"
-    ],
-    "movies": [
-      {
-        "title": "Velvet Goldmine",
-        "tmdb_id": 1808,
-        "imdb_id": "tt0120879"
-      }
-    ],
-    "won": false
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Life Is Beautiful",
+    "FilmId": "tt0118799",
+    "Name": "Roberto Benigni",
+    "Nominees": "Roberto Benigni",
+    "NomineeIds": "nm0000905",
+    "Winner": "True",
+    "Detail": "Guido",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Tom Hanks",
+    "Nominees": "Tom Hanks",
+    "NomineeIds": "nm0000158",
+    "Winner": "",
+    "Detail": "Captain Miller",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Gods and Monsters",
+    "FilmId": "tt0120684",
+    "Name": "Ian McKellen",
+    "Nominees": "Ian McKellen",
+    "NomineeIds": "nm0005212",
+    "Winner": "",
+    "Detail": "James Whale",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Affliction",
+    "FilmId": "tt0118564",
+    "Name": "Nick Nolte",
+    "Nominees": "Nick Nolte",
+    "NomineeIds": "nm0000560",
+    "Winner": "",
+    "Detail": "Wade Whitehouse",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "American History X",
+    "FilmId": "tt0120586",
+    "Name": "Edward Norton",
+    "Nominees": "Edward Norton",
+    "NomineeIds": "nm0001570",
+    "Winner": "",
+    "Detail": "Derek",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Affliction",
+    "FilmId": "tt0118564",
+    "Name": "James Coburn",
+    "Nominees": "James Coburn",
+    "NomineeIds": "nm0000336",
+    "Winner": "True",
+    "Detail": "Glen Whitehouse",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A Civil Action",
+    "FilmId": "tt0120633",
+    "Name": "Robert Duvall",
+    "Nominees": "Robert Duvall",
+    "NomineeIds": "nm0000380",
+    "Winner": "",
+    "Detail": "Jerome Facher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Truman Show",
+    "FilmId": "tt0120382",
+    "Name": "Ed Harris",
+    "Nominees": "Ed Harris",
+    "NomineeIds": "nm0000438",
+    "Winner": "",
+    "Detail": "Christof",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Geoffrey Rush",
+    "Nominees": "Geoffrey Rush",
+    "NomineeIds": "nm0001691",
+    "Winner": "",
+    "Detail": "Philip Henslowe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A Simple Plan",
+    "FilmId": "tt0120324",
+    "Name": "Billy Bob Thornton",
+    "Nominees": "Billy Bob Thornton",
+    "NomineeIds": "nm0000671",
+    "Winner": "",
+    "Detail": "Jacob",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Elizabeth",
+    "FilmId": "tt0127536",
+    "Name": "Cate Blanchett",
+    "Nominees": "Cate Blanchett",
+    "NomineeIds": "nm0000949",
+    "Winner": "",
+    "Detail": "Queen Elizabeth I",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Central Station",
+    "FilmId": "tt0140888",
+    "Name": "Fernanda Montenegro",
+    "Nominees": "Fernanda Montenegro",
+    "NomineeIds": "nm0005244",
+    "Winner": "",
+    "Detail": "Dora",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Gwyneth Paltrow",
+    "Nominees": "Gwyneth Paltrow",
+    "NomineeIds": "nm0000569",
+    "Winner": "True",
+    "Detail": "Viola De Lesseps",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "One True Thing",
+    "FilmId": "tt0120776",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Kate Gulden",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Hilary and Jackie",
+    "FilmId": "tt0150915",
+    "Name": "Emily Watson",
+    "Nominees": "Emily Watson",
+    "NomineeIds": "nm0001833",
+    "Winner": "",
+    "Detail": "Jacqueline du Pré",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Primary Colors",
+    "FilmId": "tt0119942",
+    "Name": "Kathy Bates",
+    "Nominees": "Kathy Bates",
+    "NomineeIds": "nm0000870",
+    "Winner": "",
+    "Detail": "Libby",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Little Voice",
+    "FilmId": "tt0147004",
+    "Name": "Brenda Blethyn",
+    "Nominees": "Brenda Blethyn",
+    "NomineeIds": "nm0000950",
+    "Winner": "",
+    "Detail": "Mari",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Judi Dench",
+    "Nominees": "Judi Dench",
+    "NomineeIds": "nm0001132",
+    "Winner": "True",
+    "Detail": "Queen Elizabeth I",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Hilary and Jackie",
+    "FilmId": "tt0150915",
+    "Name": "Rachel Griffiths",
+    "Nominees": "Rachel Griffiths",
+    "NomineeIds": "nm0341737",
+    "Winner": "",
+    "Detail": "Hilary du Pré",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Gods and Monsters",
+    "FilmId": "tt0120684",
+    "Name": "Lynn Redgrave",
+    "Nominees": "Lynn Redgrave",
+    "NomineeIds": "nm0001655",
+    "Winner": "",
+    "Detail": "Hanna",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Elizabeth",
+    "FilmId": "tt0127536",
+    "Name": "Art Direction: John Myhre; Set Decoration: Peter Howitt",
+    "Nominees": "John Myhre|Peter Howitt",
+    "NomineeIds": "nm0616924|nm0398184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Pleasantville",
+    "FilmId": "tt0120789",
+    "Name": "Art Direction: Jeannine Oppewall; Set Decoration: Jay Hart",
+    "Nominees": "Jeannine Oppewall|Jay Hart",
+    "NomineeIds": "nm0649223|nm0366345",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Art Direction: Tom Sanders; Set Decoration: Lisa Dean Kavanaugh",
+    "Nominees": "Tom Sanders|Lisa Dean Kavanaugh",
+    "NomineeIds": "nm0761742|nm0212856",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Art Direction: Martin Childs; Set Decoration: Jill Quertier",
+    "Nominees": "Martin Childs|Jill Quertier",
+    "NomineeIds": "nm0157575|nm0703296",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "What Dreams May Come",
+    "FilmId": "tt0120889",
+    "Name": "Art Direction: Eugenio Zanetti; Set Decoration: Cindy Carr",
+    "Nominees": "Eugenio Zanetti|Cindy Carr",
+    "NomineeIds": "nm0952968|nm0139649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "A Civil Action",
+    "FilmId": "tt0120633",
+    "Name": "Conrad L. Hall",
+    "Nominees": "Conrad L. Hall",
+    "NomineeIds": "nm0005734",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Elizabeth",
+    "FilmId": "tt0127536",
+    "Name": "Remi Adefarasin",
+    "Nominees": "Remi Adefarasin",
+    "NomineeIds": "nm0001899",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Janusz Kaminski",
+    "Nominees": "Janusz Kaminski",
+    "NomineeIds": "nm0001405",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Richard Greatrex",
+    "Nominees": "Richard Greatrex",
+    "NomineeIds": "nm0337313",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Thin Red Line",
+    "FilmId": "tt0120863",
+    "Name": "John Toll",
+    "Nominees": "John Toll",
+    "NomineeIds": "nm0001799",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Beloved",
+    "FilmId": "tt0120603",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Elizabeth",
+    "FilmId": "tt0127536",
+    "Name": "Alexandra Byrne",
+    "Nominees": "Alexandra Byrne",
+    "NomineeIds": "nm0126107",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Pleasantville",
+    "FilmId": "tt0120789",
+    "Name": "Judianna Makovsky",
+    "Nominees": "Judianna Makovsky",
+    "NomineeIds": "nm0538721",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Velvet Goldmine",
+    "FilmId": "tt0120879",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Life Is Beautiful",
+    "FilmId": "tt0118799",
+    "Name": "Roberto Benigni",
+    "Nominees": "Roberto Benigni",
+    "NomineeIds": "nm0000905",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Steven Spielberg",
+    "Nominees": "Steven Spielberg",
+    "NomineeIds": "nm0000229",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "John Madden",
+    "Nominees": "John Madden",
+    "NomineeIds": "nm0006960",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Thin Red Line",
+    "FilmId": "tt0120863",
+    "Name": "Terrence Malick",
+    "Nominees": "Terrence Malick",
+    "NomineeIds": "nm0000517",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Truman Show",
+    "FilmId": "tt0120382",
+    "Name": "Peter Weir",
+    "Nominees": "Peter Weir",
+    "NomineeIds": "nm0001837",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Dancemaker",
+    "FilmId": "tt0175550",
+    "Name": "Matthew Diamond, Jerry Kupfer",
+    "Nominees": "Matthew Diamond|Jerry Kupfer",
+    "NomineeIds": "nm0224683|nm0475465",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Farm: Angola, U.S.A.",
+    "FilmId": "tt0139193",
+    "Name": "Jonathan Stack, Liz Garbus",
+    "Nominees": "Jonathan Stack|Liz Garbus",
+    "NomineeIds": "nm0821033|nm0305017",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Last Days",
+    "FilmId": "tt0174852",
+    "Name": "James Moll, Ken Lipper",
+    "Nominees": "James Moll|Ken Lipper",
+    "NomineeIds": "nm0002224|nm0513601",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Lenny Bruce: Swear to Tell the Truth",
+    "FilmId": "tt0175844",
+    "Name": "Robert B. Weide",
+    "Nominees": "Robert B. Weide",
+    "NomineeIds": "nm0004332",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Regret to Inform",
+    "FilmId": "tt0181786",
+    "Name": "Barbara Sonneborn, Janet Cole",
+    "Nominees": "Barbara Sonneborn|Janet Cole",
+    "NomineeIds": "nm0814384|nm0170584",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Personals: Improvisations on Romance in the Golden Years",
+    "FilmId": "tt0176018",
+    "Name": "Keiko Ibi",
+    "Nominees": "Keiko Ibi",
+    "NomineeIds": "nm0406503",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "A Place in the Land",
+    "FilmId": "tt0189009",
+    "Name": "Charles Guggenheim",
+    "Nominees": "Charles Guggenheim",
+    "NomineeIds": "nm0346549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Sunrise over Tiananmen Square",
+    "FilmId": "tt0189121",
+    "Name": "Shui-Bo Wang, Donald McWilliams",
+    "Nominees": "Shui-Bo Wang|Donald McWilliams",
+    "NomineeIds": "nm0911031|nm0574806",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Life Is Beautiful",
+    "FilmId": "tt0118799",
+    "Name": "Simona Paggi",
+    "Nominees": "Simona Paggi",
+    "NomineeIds": "nm0656455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Out of Sight",
+    "FilmId": "tt0120780",
+    "Name": "Anne V. Coates",
+    "Nominees": "Anne V. Coates",
+    "NomineeIds": "nm0167613",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Michael Kahn",
+    "Nominees": "Michael Kahn",
+    "NomineeIds": "nm0434883",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "David Gamble",
+    "Nominees": "David Gamble",
+    "NomineeIds": "nm0303775",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Thin Red Line",
+    "FilmId": "tt0120863",
+    "Name": "Billy Weber, Leslie Jones, Saar Klein",
+    "Nominees": "Billy Weber|Leslie Jones|Saar Klein",
+    "NomineeIds": "nm0916502|nm0428655|nm0458964",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Central Station",
+    "FilmId": "tt0140888",
+    "Name": "Brazil",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Children of Heaven",
+    "FilmId": "tt0118849",
+    "Name": "Iran",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Grandfather",
+    "FilmId": "tt0176415",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Life Is Beautiful",
+    "FilmId": "tt0118799",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Tango",
+    "FilmId": "tt0120274",
+    "Name": "Argentina",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Elizabeth",
+    "FilmId": "tt0127536",
+    "Name": "Jenny Shircore",
+    "Nominees": "Jenny Shircore",
+    "NomineeIds": "nm0794246",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Lois Burwell, Conor O'Sullivan, Daniel C. Striepeke",
+    "Nominees": "Lois Burwell|Conor O'Sullivan|Daniel C. Striepeke",
+    "NomineeIds": "nm0006627|nm0642745|nm0834475",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Lisa Westcott, Veronica Brebner",
+    "Nominees": "Lisa Westcott|Veronica Brebner",
+    "NomineeIds": "nm0922509|nm0106494",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Elizabeth",
+    "FilmId": "tt0127536",
+    "Name": "David Hirschfelder",
+    "Nominees": "David Hirschfelder",
+    "NomineeIds": "nm0386595",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Life Is Beautiful",
+    "FilmId": "tt0118799",
+    "Name": "Nicola Piovani",
+    "Nominees": "Nicola Piovani",
+    "NomineeIds": "nm0003607",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Pleasantville",
+    "FilmId": "tt0120789",
+    "Name": "Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "The Thin Red Line",
+    "FilmId": "tt0120863",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "A Bug's Life",
+    "FilmId": "tt0120623",
+    "Name": "Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Mulan",
+    "FilmId": "tt0120762",
+    "Name": "Music by Matthew Wilder; Lyrics by David Zippel; Orchestral Score by Jerry Goldsmith",
+    "Nominees": "Matthew Wilder|David Zippel|Jerry Goldsmith",
+    "NomineeIds": "nm0928607|nm0957138|nm0000025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Patch Adams",
+    "FilmId": "tt0129290",
+    "Name": "Marc Shaiman",
+    "Nominees": "Marc Shaiman",
+    "NomineeIds": "nm0003299",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "The Prince of Egypt",
+    "FilmId": "tt0120794",
+    "Name": "Music and Lyrics by Stephen Schwartz; Orchestral Score by Hans Zimmer",
+    "Nominees": "Stephen Schwartz|Hans Zimmer",
+    "NomineeIds": "nm0777451|nm0001877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Musical or Comedy Score)",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Stephen Warbeck",
+    "Nominees": "Stephen Warbeck",
+    "NomineeIds": "nm0006339",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Armageddon",
+    "FilmId": "tt0120591",
+    "Name": "Music and Lyric by Diane Warren",
+    "Nominees": "Diane Warren",
+    "NomineeIds": "nm0005534",
+    "Winner": "",
+    "Detail": "I Don't Want To Miss A Thing",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Quest for Camelot",
+    "FilmId": "tt0120800",
+    "Name": "Music by Carole Bayer Sager and David Foster; Lyric by Carole Bayer Sager, David Foster, Tony Renis and Alberto Testa",
+    "Nominees": "Carole Bayer Sager|David Foster|Tony Renis|Alberto Testa",
+    "NomineeIds": "nm0004728|nm0287757|nm0719554|nm0856413",
+    "Winner": "",
+    "Detail": "The Prayer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Horse Whisperer",
+    "FilmId": "tt0119314",
+    "Name": "Music and Lyric by Allison Moorer and Gwil Owen",
+    "Nominees": "Allison Moorer|Gwil Owen",
+    "NomineeIds": "nm0602070|nm1666203",
+    "Winner": "",
+    "Detail": "A Soft Place To Fall",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Babe: Pig in the City",
+    "FilmId": "tt0120595",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "That'll Do",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Prince of Egypt",
+    "FilmId": "tt0120794",
+    "Name": "Music and Lyric by Stephen Schwartz",
+    "Nominees": "Stephen Schwartz",
+    "NomineeIds": "nm0777451",
+    "Winner": "True",
+    "Detail": "When You Believe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Elizabeth",
+    "FilmId": "tt0127536",
+    "Name": "Alison Owen, Eric Fellner and Tim Bevan, Producers",
+    "Nominees": "Alison Owen|Eric Fellner|Tim Bevan",
+    "NomineeIds": "nm0654077|nm0271479|nm0079677",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Life Is Beautiful",
+    "FilmId": "tt0118799",
+    "Name": "Elda Ferri and Gianluigi Braschi, Producers",
+    "Nominees": "Elda Ferri|Gianluigi Braschi",
+    "NomineeIds": "nm0274754|nm0105346",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Steven Spielberg, Ian Bryce, Mark Gordon and Gary Levinsohn, Producers",
+    "Nominees": "Steven Spielberg|Ian Bryce|Mark Gordon|Gary Levinsohn",
+    "NomineeIds": "nm0000229|nm0117290|nm0330428|nm0506013",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers",
+    "Nominees": "David Parfitt|Donna Gigliotti|Harvey Weinstein|Edward Zwick|Marc Norman",
+    "NomineeIds": "nm0661406|nm0317642|nm0005544|nm0001880|nm0635565",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Thin Red Line",
+    "FilmId": "tt0120863",
+    "Name": "Robert Michael Geisler, John Roberdeau and Grant Hill, Producers",
+    "Nominees": "Robert Michael Geisler|John Roberdeau|Grant Hill",
+    "NomineeIds": "nm0312059|nm0730535|nm0384294",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Bunny",
+    "FilmId": "tt0179011",
+    "Name": "Chris Wedge",
+    "Nominees": "Chris Wedge",
+    "NomineeIds": "nm0917188",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Canterbury Tales",
+    "FilmId": "tt0188478",
+    "Name": "Christopher Grace, Jonathan Myerson",
+    "Nominees": "Christopher Grace|Jonathan Myerson",
+    "NomineeIds": "nm0333333|nm0616902",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Jolly Roger",
+    "FilmId": "tt0188723",
+    "Name": "Mark Baker",
+    "Nominees": "Mark Baker",
+    "NomineeIds": "nm0048735",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "More",
+    "FilmId": "tt0188913",
+    "Name": "Mark Osborne, Steve Kalafer",
+    "Nominees": "Mark Osborne|Steve Kalafer",
+    "NomineeIds": "nm0651706|nm0435470",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "When Life Departs",
+    "FilmId": "tt0189205",
+    "Name": "Karsten Kiilerich, Stefan Fjeldmark",
+    "Nominees": "Karsten Kiilerich|Stefan Fjeldmark",
+    "NomineeIds": "nm0478172|nm0280745",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Culture",
+    "FilmId": "tt0188533",
+    "Name": "Will Speck, Josh Gordon",
+    "Nominees": "Will Speck|Josh Gordon",
+    "NomineeIds": "nm0817447|nm0330347",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Election Night (Valgaften)",
+    "FilmId": "tt0189179",
+    "Name": "Kim Magnusson, Anders Thomas Jensen",
+    "Nominees": "Kim Magnusson|Anders Thomas Jensen",
+    "NomineeIds": "nm0536385|nm0421314",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Holiday Romance",
+    "FilmId": "tt0188667",
+    "Name": "Alexander Jovy, JJ Keith",
+    "Nominees": "Alexander Jovy|JJ Keith",
+    "NomineeIds": "nm0003473|nm0445249",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "La Carte Postale (The Postcard)",
+    "FilmId": "tt0188485",
+    "Name": "Vivian Goffette",
+    "Nominees": "Vivian Goffette",
+    "NomineeIds": "nm0324600",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Victor",
+    "FilmId": "tt0189186",
+    "Name": "Simon Sandquist, Joel Bergvall",
+    "Nominees": "Simon Sandquist|Joel Bergvall",
+    "NomineeIds": "nm0762217|nm0075150",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Armageddon",
+    "FilmId": "tt0120591",
+    "Name": "Kevin O'Connell, Greg P. Russell, Keith A. Wester",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Keith A. Wester",
+    "NomineeIds": "nm0640114|nm0751169|nm0199492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Mask of Zorro",
+    "FilmId": "tt0120746",
+    "Name": "Kevin O'Connell, Greg P. Russell, Pud Cusack",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Pud Cusack",
+    "NomineeIds": "nm0640114|nm0751169|nm0193650",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Gary Rydstrom, Gary Summers, Andy Nelson, Ronald Judkins",
+    "Nominees": "Gary Rydstrom|Gary Summers|Andy Nelson|Ronald Judkins",
+    "NomineeIds": "nm0003977|nm0838707|nm0625144|nm0431954",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Robin O'Donoghue, Dominic Lester, Peter Glossop",
+    "Nominees": "Robin O'Donoghue|Dominic Lester|Peter Glossop",
+    "NomineeIds": "nm0640877|nm0504438|nm0323049",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Thin Red Line",
+    "FilmId": "tt0120863",
+    "Name": "Andy Nelson, Anna Behlmer, Paul Brincat",
+    "Nominees": "Andy Nelson|Anna Behlmer|Paul Brincat",
+    "NomineeIds": "nm0625144|nm0066933|nm0109444",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Armageddon",
+    "FilmId": "tt0120591",
+    "Name": "George Watters II",
+    "Nominees": "George Watters II",
+    "NomineeIds": "nm0915036",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "The Mask of Zorro",
+    "FilmId": "tt0120746",
+    "Name": "David McMoyler",
+    "Nominees": "David McMoyler",
+    "NomineeIds": "nm0573393",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Gary Rydstrom, Richard Hymns",
+    "Nominees": "Gary Rydstrom|Richard Hymns",
+    "NomineeIds": "nm0003977|nm0405232",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Armageddon",
+    "FilmId": "tt0120591",
+    "Name": "Richard R. Hoover, Pat McClung, John Frazier",
+    "Nominees": "Richard R. Hoover|Pat McClung|John Frazier",
+    "NomineeIds": "nm0393923|nm0565957|nm0292594",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Mighty Joe Young",
+    "FilmId": "tt0120751",
+    "Name": "Rick Baker, Hoyt Yeatman, Allen Hall, Jim Mitchell",
+    "Nominees": "Rick Baker|Hoyt Yeatman|Allen Hall|Jim Mitchell",
+    "NomineeIds": "nm0000711|nm0947087|nm0355292|nm0593437",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "What Dreams May Come",
+    "FilmId": "tt0120889",
+    "Name": "Joel Hynek, Nicholas Brooks, Stuart Robertson, Kevin Mack",
+    "Nominees": "Joel Hynek|Nicholas Brooks|Stuart Robertson|Kevin Mack",
+    "NomineeIds": "nm0006699|nm0112172|nm0732035|nm0533034",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Gods and Monsters",
+    "FilmId": "tt0120684",
+    "Name": "Bill Condon",
+    "Nominees": "Bill Condon",
+    "NomineeIds": "nm0174374",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Out of Sight",
+    "FilmId": "tt0120780",
+    "Name": "Scott Frank",
+    "Nominees": "Scott Frank",
+    "NomineeIds": "nm0291082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "Primary Colors",
+    "FilmId": "tt0119942",
+    "Name": "Elaine May",
+    "Nominees": "Elaine May",
+    "NomineeIds": "nm0561938",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "A Simple Plan",
+    "FilmId": "tt0120324",
+    "Name": "Scott B. Smith",
+    "Nominees": "Scott B. Smith",
+    "NomineeIds": "nm0809895",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material Previously Produced or Published)",
+    "Film": "The Thin Red Line",
+    "FilmId": "tt0120863",
+    "Name": "Terrence Malick",
+    "Nominees": "Terrence Malick",
+    "NomineeIds": "nm0000517",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Bulworth",
+    "FilmId": "tt0118798",
+    "Name": "Screenplay by Warren Beatty, Jeremy Pikser; Story by Warren Beatty",
+    "Nominees": "Warren Beatty|Jeremy Pikser",
+    "NomineeIds": "nm0000886|nm0683282",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Life Is Beautiful",
+    "FilmId": "tt0118799",
+    "Name": "Vincenzo Cerami, Roberto Benigni",
+    "Nominees": "Vincenzo Cerami|Roberto Benigni",
+    "NomineeIds": "nm0148437|nm0000905",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Saving Private Ryan",
+    "FilmId": "tt0120815",
+    "Name": "Robert Rodat",
+    "Nominees": "Robert Rodat",
+    "NomineeIds": "nm0734441",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Shakespeare in Love",
+    "FilmId": "tt0138097",
+    "Name": "Marc Norman, Tom Stoppard",
+    "Nominees": "Marc Norman|Tom Stoppard",
+    "NomineeIds": "nm0635565|nm0001779",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "The Truman Show",
+    "FilmId": "tt0120382",
+    "Name": "Andrew Niccol",
+    "Nominees": "Andrew Niccol",
+    "NomineeIds": "nm0629272",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Elia Kazan",
+    "NomineeIds": "nm0001415",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Elia Kazan in recognition of his indelible contributions to the art of motion picture direction."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Norman Jewison",
+    "Nominees": "Norman Jewison",
+    "NomineeIds": "nm0422484",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Avid Technology",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Editorial and Pre-production",
+    "Note": "The Avid Film Composer is a digital, non-linear, 24 frame-per-second editing machine usinig compression algorithms, that has revolutionized the art of film editing. Shots can be stored, recalled, manipulated and played back instantaneously, allowing the film editor unprecedented creative freedom and the ability to realize a film more fully than before.",
+    "Citation": "To AVID TECHNOLOGY, INC. for the concept, system design and engineering of the Avid Film Composer for motion picture editing."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thomas G. Stockham Jr.|Robert B. Ingebretsen",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "The foundation of current digital audio editing equipment for motion pictures has its roots in the late seventies work of these digital pioneers.",
+    "Citation": "To DR. THOMAS G. STOCKHAM, JR. and ROBERT B. INGEBRETSEN for their pioneering work in the areas of waveform editing, crossfades and cut-and-paste techniques for digital audio editing."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James A. Moorer",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "This early work in systems architecture and software has had a significant impact on the digital creation of sound effects and the editing of audio for motion picture sound tracks.",
+    "Citation": "To JAMES A. MOORER for his pioneering work in the design of digital signal processing and its application to audio editing for film."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "STEPHEN J. KAY",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "This specially designed ground fault interrupter eliminates the electric shock hazard when working in water, wet conditions or from an accidentally exposed power line.",
+    "Citation": "To STEPHEN J. KAY of K-Tec Corporation for the design and development of the Shock Block."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gary Tregaskis|Dominique Boisvert|Philippe Panzini|ANDRÉ LeBLANC",
+    "NomineeIds": "?|?|?|nm3236255",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "The Inferno System, and its predecessor, Flame, provide high-speed, efficient integrated digital compositing and visual effects tools.",
+    "Citation": "To GARY TREGASKIS for the primary design; and to DOMINIQUE BOISVERT, PHILIPPE PANZINI and ANDRÉ LeBLANC for the development and implementation of the Flame and Inferno software."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Robert Predovich|John Scott|Mohamed Ken T. Husain|Cameron Shearer",
+    "NomineeIds": "nm0695762|?|?|?",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "The Soundmaster system provides motion picture audio post production facilities with a completely integrated capability for synchronization of audio and picture elements with the numerous methods of synchronization in use today.",
+    "Citation": "To ROBERT PREDOVICH, JOHN SCOTT, MOHAMED KEN T. HUSAIN and CAMERON SHEARER for the design and implementation of the Soundmaster Integrated Operations Nucleus operating environment."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Roy B. Ference|Steven R. Schmidt|Richard J. Federico|Rockwell Yarid|MICHAEL E. McCRACKAN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "The Kodak Lightning laser recorder system established higher operational and quality standards and achieved wide industry acceptance for digital film recording onto intermediate film stock.",
+    "Citation": "To ROY B. FERENCE, STEVEN R. SCHMIDT, RICHARD J. FEDERICO, ROCKWELL YARID and MICHAEL E. McCRACKAN for the design and development of the Kodak Lightning Laser Recorder."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Colin Mossman|HANS LEISINGER|GEORGE JOHN ROWLAND",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "This innovative and effective high speed film cleaning machine is unique in its use of spray technology, providing the flexibility to use alternative solvents, and to anticipate changes in environmental legislation.",
+    "Citation": "To COLIN MOSSMAN, HANS LEISINGER and GEORGE JOHN ROWLAND of Deluxe Laboratories for the concept and design of the Deluxe High Speed Spray Film Cleaner."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Arnold & Richter Cine Technik",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "The 435 enhances the creative process via its programmability and reliability, and provides the camera operator with the widest feature and performance capability of any MOS camera in use today.",
+    "Citation": "To ARNOLD & RICHTER CINE TECHNIK, and ARRI USA, INC. for the concept and engineering of the Arriflex 435 Camera System."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Arnold Richter Cine Technik|Carl Zeiss Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "This series of variable prine lenses opens many creative possibilities, since any focal length can be continuously selected throughout the entire range. They offer sharp, high-contrast, high-resolution images with minimized vignetting, superior to many prime lenses.",
+    "Citation": "To ARNOLD & RICHTER CINE TECHNIK and the CARL ZEISS COMPANY for the concept and optical design of the Carl Zeiss/Arriflex Variable Prime Lenses."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DEREK C. LIGHTBODY",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "The Aurasoft offers a radical new type of reflector design for the production of soft, very even and relatively shadowless light, with superior coverage and significantly higher intensity than existing softlights.",
+    "Citation": "To DEREK C. LIGHTBODY of OpTex for the design and development of Aurasoft Luminaires."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mark Roberts|Ronan Carroll|Assaff Rawner|Paul Bartlett|Simon Wakley",
+    "NomineeIds": "?|?|?|nm1384009|nm1295433",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "This radically original and effective solution to the problems of high-speed camera motion was achieved with the combination of novel geometry and dedicated 3-dimensional control software.",
+    "Citation": "To MARK ROBERTS, RONAN CARROLL, ASSAFF RAWNER, PAUL BARTLETT and SIMON WAKLEY for the creation of the Milo Motion-Control Crane."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Michael Sorensen|Richard Alexander|Donald Trumbull",
+    "NomineeIds": "nm0845703|nm0018688|nm0874319",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "Over the past decade, Sorensen, Alexander and Trumbull have improved the speed, repeatability and portability of robotic camera platforms through novel engineering concepts and the pioneering use of composite materials.",
+    "Citation": "To MICHAEL SORENSEN and RICHARD ALEXANDER of Sorensen Designs International, and DONALD TRUMBULL for advancing the state-of-the-art of real-time motion-control, as exemplified in the Gazelle and Zebra camera dolly systems."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ronald E. Uhlig|THOMAS F. POWERS|FRED M. FUSS",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "KeyKode numbers are machine-readable bar codes on camera negative films that exactly replicate the human-readable key numbers. Together with an appropriate reader and database software, they reduce errors and speed important post-production operations, leading to significant cost savings.",
+    "Citation": "To RONALD E. UHLIG, THOMAS F. POWERS and FRED M. FUSS of the Eastman Kodak Company for the design and development of KeyKode latent-image barcode key numbers."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Iain Neil|Takuo Miyagishima|Panavision Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "The Primo Series of lenses for 35mm cinematography represents a thorough and comprehensive approach to prime lens design, development and manufacture. This family of lenses has a wide range of focal lengths, all color matched, with improved modulation transfer function characteristics.",
+    "Citation": "To IAIN NEIL for the optical design; TAKUO MIYAGISHIMA for the mechanical design; and PANAVISION, INCORPORATED, for the concept and development of the Primo Series of spherical prime lenses for 35mm cinematography."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Garrett Brown|Jerry Holway",
+    "NomineeIds": "nm0113593|nm0392727",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "This cable-driven, manned camera platform allows the operator to spin 360 degrees for unimpeded pans while controlling the downhill speed via brakes. As a device for achieving otherwise impossible shots, Skyman has had a definite influence on later cable-suspended camera systems.",
+    "Citation": "To GARRETT BROWN and JERRY HOLWAY for the creation of the Skyman flying platform for Steadicam operators."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James Rodnunsky|James Webber|Bob Webber|Trou Bayliss",
+    "NomineeIds": "nm0734951|nm1219580|?|?",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "This radio-controlled, cable-driven camera platform with its ultra-smooth synthetic cables and powerful hydraulic motors, enables runs in excess of 3000 feet with quick return to start. Operating unmanned, it can function at speeds and through perils that would be unsafe for on-board operators.",
+    "Citation": "To JAMES RODNUNSKY, JAMES WEBBER and BOB WEBBER of Cablecam Systems, and TROU BAYLISS for the design and engineering of Cablecam."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DAVID DiFRANCESCO|Bala S. Manian|Thomas L. Noggle",
+    "NomineeIds": "nm0226457|?|nm0634000",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "This pioneering laser film recorder, designed and used for motion pictures, demonstrated the potential of this technology for recording digital data onto intermediate film stock.",
+    "Citation": "To DAVID DiFRANCESCO, BALA S. MANIAN and THOMAS L. NOGGLE for their pioneering efforts in the development of laser film recording technology."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "MICHAEL MacKENZIE|MIKE BOLLES|UDO PAMPEL|JOSEPH FULMER",
+    "NomineeIds": "nm0533371|nm0093116|nm0658949|nm0298432",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "This silent, high-speed motion control modification of a Panther dolly makes it possible to film moving camera composite shots of actors while recording live dialogue.",
+    "Citation": "To MICHAEL MacKENZIE, MIKE BOLLES, UDO PAMPEL and JOSEPH FULMER of Industrial Light & Magic for their pioneering work in motion-controlled, silent camera dollies."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Barry Walton|BILL SCHULTZ|CHRIS BARKER|DAVID CORNELIUS",
+    "NomineeIds": "nm0910475|nm0776203|nm0054851|nm0180183",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "This extensive modification to the Panther dolly allows high-speed moves to be silent, smooth and stable.",
+    "Citation": "To BARRY WALTON, BILL SCHULTZ, CHRIS BARKER and DAVID CORNELIUS of Sony Pictures Imageworks for the creation of an advanced motion-controlled, silent camera dolly."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "BRUCE WILTON|CARLOS ICINKOFF",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "These components have become the de facto industry standard for use in precision motion control equipment.",
+    "Citation": "To BRUCE WILTON and CARLOS ICINKOFF of Mechanical Concepts for their modular system of motion-control rotators and movers for use in motion-control."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Remy Smith|James K. Branch|Nasir J. Zaidi",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "The design and execution of the Spectra Professional IV-A meter has resulted in a practical and successful tool for the film production community.",
+    "Citation": "To REMY SMITH for the software and electronic design and development; and JAMES K. BRANCH and NASIR J. ZAIDI for the design and development of the Spectra Professional IV-A digital exposure meter."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ivan Kruglak",
+    "NomineeIds": "nm1749933",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "Through years of persistent effort, Mr. Kruglak has commercialized and popularized a technique of great utility for motion picture camera operations. By introducing diversity antennas and a time code insertion accessory, he has optimized camera wireless video-assist components.",
+    "Citation": "To IVAN KRUGLAK for his commitment to the development of a wireless transmission system for video-assisted images for the motion picture industry."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Douglas R. Roble",
+    "NomineeIds": "nm1647973",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "The TRACK system is an integrated software tool that uses computer-vision techniques to extract critical 2D and 3D information about a scene and the camera used to film it.",
+    "Citation": "To DR. DOUGLAS R. ROBLE for his contribution to tracking technology and for the design and implementation of the TRACK system for camera position calculation and scene reconstruction."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thaddeus Beier",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "Ras_track allows the user to determine the postiton and location of the camera and objects in a scene by tracking points in a scanned sequence.",
+    "Citation": "To THADDEUS BEIER for the design and implementation of ras_track, a system for 2D tracking, stabilization, and 3D camera and object tracking."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Manfred N. Klemme|Donald E. Wetzel",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "The K-TEK series microphone boom pole provides production recording personnel with a self-lubricated, light-weight, sturdy pole with multiple accessories.",
+    "Citation": "To MANFRED N. KLEMME and DONALD E. WETZEL for the design and development of the K-Tek Microphone Boom Pole and accessories for on-set motion picture sound recording."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nick Foster",
+    "NomineeIds": "nm1661093",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "This software technique provides an efficient and flexible method for the creation of flowing streams, oceans, tidal waves and turbulence for motion picture visual effects.",
+    "Citation": "To NICK FOSTER for his software development in the field of water simulation systems."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Cary Phillips",
+    "NomineeIds": "nm0680288",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "By integrating existing tools into a powerful interactive system, and adding an expressive multi-target shape interpolation-based freeform animation system, the \\\"Caricature\\\" system provides a degree of subtlety and refinement not possible with other systems.",
+    "Citation": "To CARY PHILLIPS for the design and development of the \\\"Caricature\\\" Animation System at Industrial Light & Magic."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "MITCHELL J. BOGDANOWICZ|JIM MEYER|STAN MILLER",
+    "NomineeIds": "nm0091682|?|?",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "Designed to correspond to the spectral sensitivity of color negative film stocks, these filters provide for improved color control in motion picture lighting.",
+    "Citation": "To DR. MITCHELL J. BOGDANOWICZ of the Eastman Kodak Company, and JIM MEYER and STAN MILLER of Rosco Laboratories, Inc. for the design of the CalColor Calibrated Color Effects Filters."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "A. Tulsi Ram|RICHARD C. SEHLIN|CARL F. HOLTZ|DAVID F. KOPPERL",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The use of zeolite crystals as molecular sieves to absorb moisture, acetic acid, methylene chloride and a variety of solvents created an effective deterrent to the effects of vinegar syndrome in stored film stock.",
+    "Citation": "To DR. A. TULSI RAM, RICHARD C. SEHLIN, DR. CARL F. HOLTZ and DAVID F. KOPPERL of the Eastman Kodak Company for the research and development of the concept of molecular sieves applied to improve the archival properties of processed photographic film."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "TAKUO MIYAGISHIMA|ALBERT K. SAIKI",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "This leveler keeps the camera eyepiece at the same level, regardless of whether the camera position is tilted up or down, enabling the camera operator to concentrate on the composition of the image.",
+    "Citation": "To TAKUO MIYAGISHIMA and ALBERT K. SAIKI of Panavision, Inc. for the design and development of the Eyepiece Leveler."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "EDMUND M. DI GIULIO|JAMES BARTELL",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The KeyKode Sync Reader provides a fast, accurate and user-friendly means of utilizing the KeyKode information on film, thereby expediting the editorial and post-production processes.",
+    "Citation": "To EDMUND M. DI GIULIO and JAMES BARTELL of Cinema Products for the design of the KeyKode Sync Reader."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ivan Kruglak",
+    "NomineeIds": "nm1749933",
+    "Winner": "True",
+    "Detail": "Editorial and Pre-production",
+    "Note": "Time code slates have had significant impact on the filmmaking process by simplifying post-production. This development makes the synchronization process faster and more precise, particularly when multiple cameras are used.",
+    "Citation": "To IVAN KRUGLAK for his pioneering concept and the development of the Coherent Time Code Slate."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mike Denecke",
+    "NomineeIds": "nm0218973",
+    "Winner": "True",
+    "Detail": "Editorial and Pre-production",
+    "Note": "Due to their features and simplified operational procedures, the Denecke slates have had significant impact on the motion picture industry and have become the standard for electronic time code slates.",
+    "Citation": "To MIKE DENECKE for refining and further developing electronic time code slates."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ED ZWANEVELD|FREDERICK GASOI|MIKE LAZARIDIS|DALE BRUBACHER-CRESSMAN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The DigiSync Film KeyKode Reader provides a fast, accurate and user-friendly means of utilizing the KeyKode information on film, expediting the editorial and post-production processes.",
+    "Citation": "To ED ZWANEVELD and FREDERICK GASOI of the National Film Board of Canada, and MIKE LAZARIDIS and DALE BRUBACHER-CRESSMAN of Research in Motion for the design and development of the DigiSync Film KeyKode Reader."
+  },
+  {
+    "Ceremony": 71,
+    "Year": 1998,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David W. Gray",
+    "NomineeIds": "nm0336561",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To David W. Gray in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

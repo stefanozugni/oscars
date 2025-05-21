@@ -1,1551 +1,1890 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1987",
-    "nominees": [
-      "The Last Emperor"
-    ],
-    "movies": [
-      {
-        "title": "The Last Emperor",
-        "tmdb_id": 746,
-        "imdb_id": "tt0093389"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1987",
-    "nominees": [
-      "Broadcast News"
-    ],
-    "movies": [
-      {
-        "title": "Broadcast News",
-        "tmdb_id": 12626,
-        "imdb_id": "tt0092699"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1987",
-    "nominees": [
-      "Fatal Attraction"
-    ],
-    "movies": [
-      {
-        "title": "Fatal Attraction",
-        "tmdb_id": 10998,
-        "imdb_id": "tt0093010"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1987",
-    "nominees": [
-      "Hope and Glory"
-    ],
-    "movies": [
-      {
-        "title": "Hope and Glory",
-        "tmdb_id": 32054,
-        "imdb_id": "tt0093209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1987",
-    "nominees": [
-      "Moonstruck"
-    ],
-    "movies": [
-      {
-        "title": "Moonstruck",
-        "tmdb_id": 2039,
-        "imdb_id": "tt0093565"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1987",
-    "nominees": [
-      "Michael Douglas"
-    ],
-    "movies": [
-      {
-        "title": "Wall Street",
-        "tmdb_id": 10673,
-        "imdb_id": "tt0094291"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1987",
-    "nominees": [
-      "William Hurt"
-    ],
-    "movies": [
-      {
-        "title": "Broadcast News",
-        "tmdb_id": 12626,
-        "imdb_id": "tt0092699"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1987",
-    "nominees": [
-      "Marcello Mastroianni"
-    ],
-    "movies": [
-      {
-        "title": "Dark Eyes",
-        "tmdb_id": 44658,
-        "imdb_id": "tt0093664"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1987",
-    "nominees": [
-      "Jack Nicholson"
-    ],
-    "movies": [
-      {
-        "title": "Ironweed",
-        "tmdb_id": 40962,
-        "imdb_id": "tt0093277"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1987",
-    "nominees": [
-      "Robin Williams"
-    ],
-    "movies": [
-      {
-        "title": "Good Morning, Vietnam",
-        "tmdb_id": 801,
-        "imdb_id": "tt0093105"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1987",
-    "nominees": [
-      "Cher"
-    ],
-    "movies": [
-      {
-        "title": "Moonstruck",
-        "tmdb_id": 2039,
-        "imdb_id": "tt0093565"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1987",
-    "nominees": [
-      "Glenn Close"
-    ],
-    "movies": [
-      {
-        "title": "Fatal Attraction",
-        "tmdb_id": 10998,
-        "imdb_id": "tt0093010"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1987",
-    "nominees": [
-      "Holly Hunter"
-    ],
-    "movies": [
-      {
-        "title": "Broadcast News",
-        "tmdb_id": 12626,
-        "imdb_id": "tt0092699"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1987",
-    "nominees": [
-      "Sally Kirkland"
-    ],
-    "movies": [
-      {
-        "title": "Anna",
-        "tmdb_id": 107285,
-        "imdb_id": "tt0092569"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1987",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "Ironweed",
-        "tmdb_id": 40962,
-        "imdb_id": "tt0093277"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1987",
-    "nominees": [
-      "Sean Connery"
-    ],
-    "movies": [
-      {
-        "title": "The Untouchables",
-        "tmdb_id": 117,
-        "imdb_id": "tt0094226"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1987",
-    "nominees": [
-      "Albert Brooks"
-    ],
-    "movies": [
-      {
-        "title": "Broadcast News",
-        "tmdb_id": 12626,
-        "imdb_id": "tt0092699"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1987",
-    "nominees": [
-      "Morgan Freeman"
-    ],
-    "movies": [
-      {
-        "title": "Street Smart",
-        "tmdb_id": 60631,
-        "imdb_id": "tt0094056"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1987",
-    "nominees": [
-      "Vincent Gardenia"
-    ],
-    "movies": [
-      {
-        "title": "Moonstruck",
-        "tmdb_id": 2039,
-        "imdb_id": "tt0093565"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1987",
-    "nominees": [
-      "Denzel Washington"
-    ],
-    "movies": [
-      {
-        "title": "Cry Freedom",
-        "tmdb_id": 12506,
-        "imdb_id": "tt0092804"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1987",
-    "nominees": [
-      "Olympia Dukakis"
-    ],
-    "movies": [
-      {
-        "title": "Moonstruck",
-        "tmdb_id": 2039,
-        "imdb_id": "tt0093565"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1987",
-    "nominees": [
-      "Norma Aleandro"
-    ],
-    "movies": [
-      {
-        "title": "Gaby: A True Story",
-        "tmdb_id": 191550,
-        "imdb_id": "tt0093067"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1987",
-    "nominees": [
-      "Anne Archer"
-    ],
-    "movies": [
-      {
-        "title": "Fatal Attraction",
-        "tmdb_id": 10998,
-        "imdb_id": "tt0093010"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1987",
-    "nominees": [
-      "Anne Ramsey"
-    ],
-    "movies": [
-      {
-        "title": "Throw Momma from the Train",
-        "tmdb_id": 11896,
-        "imdb_id": "tt0094142"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1987",
-    "nominees": [
-      "Ann Sothern"
-    ],
-    "movies": [
-      {
-        "title": "The Whales of August",
-        "tmdb_id": 49815,
-        "imdb_id": "tt0094315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1987",
-    "nominees": [
-      "Bernardo Bertolucci"
-    ],
-    "movies": [
-      {
-        "title": "The Last Emperor",
-        "tmdb_id": 746,
-        "imdb_id": "tt0093389"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1987",
-    "nominees": [
-      "John Boorman"
-    ],
-    "movies": [
-      {
-        "title": "Hope and Glory",
-        "tmdb_id": 32054,
-        "imdb_id": "tt0093209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1987",
-    "nominees": [
-      "Lasse Hallstrom"
-    ],
-    "movies": [
-      {
-        "title": "My Life as a Dog",
-        "tmdb_id": 8816,
-        "imdb_id": "tt0089606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1987",
-    "nominees": [
-      "Norman Jewison"
-    ],
-    "movies": [
-      {
-        "title": "Moonstruck",
-        "tmdb_id": 2039,
-        "imdb_id": "tt0093565"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1987",
-    "nominees": [
-      "Adrian Lyne"
-    ],
-    "movies": [
-      {
-        "title": "Fatal Attraction",
-        "tmdb_id": 10998,
-        "imdb_id": "tt0093010"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1987",
-    "nominees": [
-      "Bernardo Bertolucci",
-      "Mark Peploe"
-    ],
-    "movies": [
-      {
-        "title": "The Last Emperor",
-        "tmdb_id": 746,
-        "imdb_id": "tt0093389"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1987",
-    "nominees": [
-      "Tony Huston"
-    ],
-    "movies": [
-      {
-        "title": "The Dead",
-        "tmdb_id": 39507,
-        "imdb_id": "tt0092843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1987",
-    "nominees": [
-      "James Dearden"
-    ],
-    "movies": [
-      {
-        "title": "Fatal Attraction",
-        "tmdb_id": 10998,
-        "imdb_id": "tt0093010"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1987",
-    "nominees": [
-      "Stanley Kubrick",
-      "Gustav Hasford",
-      "Michael Herr"
-    ],
-    "movies": [
-      {
-        "title": "Full Metal Jacket",
-        "tmdb_id": 600,
-        "imdb_id": "tt0093058"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1987",
-    "nominees": [
-      "Lasse Hallstrom",
-      "Brasse Brannstrom",
-      "Per Berglund",
-      "Reidar Jonsson"
-    ],
-    "movies": [
-      {
-        "title": "My Life as a Dog",
-        "tmdb_id": 8816,
-        "imdb_id": "tt0089606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1987",
-    "nominees": [
-      "John Patrick Shanley"
-    ],
-    "movies": [
-      {
-        "title": "Moonstruck",
-        "tmdb_id": 2039,
-        "imdb_id": "tt0093565"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1987",
-    "nominees": [
-      "James L. Brooks"
-    ],
-    "movies": [
-      {
-        "title": "Broadcast News",
-        "tmdb_id": 12626,
-        "imdb_id": "tt0092699"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1987",
-    "nominees": [
-      "Louis Malle"
-    ],
-    "movies": [
-      {
-        "title": "Au Revoir les Enfants",
-        "tmdb_id": 1786,
-        "imdb_id": "tt0092593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1987",
-    "nominees": [
-      "John Boorman"
-    ],
-    "movies": [
-      {
-        "title": "Hope and Glory",
-        "tmdb_id": 32054,
-        "imdb_id": "tt0093209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1987",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Radio Days",
-        "tmdb_id": 30890,
-        "imdb_id": "tt0093818"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1987",
-    "nominees": [
-      "Ryuichi Sakamoto",
-      "David Byrne",
-      "Cong Su"
-    ],
-    "movies": [
-      {
-        "title": "The Last Emperor",
-        "tmdb_id": 746,
-        "imdb_id": "tt0093389"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1987",
-    "nominees": [
-      "George Fenton",
-      "Jonas Gwangwa"
-    ],
-    "movies": [
-      {
-        "title": "Cry Freedom",
-        "tmdb_id": 12506,
-        "imdb_id": "tt0092804"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1987",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Empire of the Sun",
-        "tmdb_id": 10110,
-        "imdb_id": "tt0092965"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1987",
-    "nominees": [
-      "Ennio Morricone"
-    ],
-    "movies": [
-      {
-        "title": "The Untouchables",
-        "tmdb_id": 117,
-        "imdb_id": "tt0094226"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1987",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "The Witches of Eastwick",
-        "tmdb_id": 6069,
-        "imdb_id": "tt0094332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1987",
-    "nominees": [
-      "(I've Had) The Time of My Life"
-    ],
-    "movies": [
-      {
-        "title": "Dirty Dancing",
-        "tmdb_id": 88,
-        "imdb_id": "tt0092890"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1987",
-    "nominees": [
-      "Cry Freedom"
-    ],
-    "movies": [
-      {
-        "title": "Cry Freedom",
-        "tmdb_id": 12506,
-        "imdb_id": "tt0092804"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1987",
-    "nominees": [
-      "Nothing's Gonna Stop Us Now"
-    ],
-    "movies": [
-      {
-        "title": "Mannequin",
-        "tmdb_id": 10019,
-        "imdb_id": "tt0093493"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1987",
-    "nominees": [
-      "Shakedown"
-    ],
-    "movies": [
-      {
-        "title": "Beverly Hills Cop II",
-        "tmdb_id": 96,
-        "imdb_id": "tt0092644"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1987",
-    "nominees": [
-      "Storybook Love"
-    ],
-    "movies": [
-      {
-        "title": "The Princess Bride",
-        "tmdb_id": 2493,
-        "imdb_id": "tt0093779"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1987",
-    "nominees": [
-      "Babette's Feast"
-    ],
-    "movies": [
-      {
-        "title": "Babette's Feast",
-        "tmdb_id": 11832,
-        "imdb_id": "tt0092603"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1987",
-    "nominees": [
-      "Au Revoir les Enfants"
-    ],
-    "movies": [
-      {
-        "title": "Au Revoir les Enfants",
-        "tmdb_id": 1786,
-        "imdb_id": "tt0092593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1987",
-    "nominees": [
-      "Course Completed"
-    ],
-    "movies": [
-      {
-        "title": "Course Completed",
-        "tmdb_id": 202789,
-        "imdb_id": "tt0092584"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1987",
-    "nominees": [
-      "The Family"
-    ],
-    "movies": [
-      {
-        "title": "The Family",
-        "tmdb_id": 42008,
-        "imdb_id": "tt0093004"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1987",
-    "nominees": [
-      "Pathfinder"
-    ],
-    "movies": [
-      {
-        "title": "Pathfinder",
-        "tmdb_id": 2172,
-        "imdb_id": "tt0093668"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1987",
-    "nominees": [
-      "The Ten-Year Lunch"
-    ],
-    "movies": [
-      {
-        "title": "The Ten-Year Lunch",
-        "tmdb_id": 182561,
-        "imdb_id": "tt0094119"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1987",
-    "nominees": [
-      "Eyes on the Prize"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1987",
-    "nominees": [
-      "Hellfire: A Journey from Hiroshima"
-    ],
-    "movies": [
-      {
-        "title": "Hellfire: A Journey from Hiroshima",
-        "tmdb_id": 149383,
-        "imdb_id": "tt0093173"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1987",
-    "nominees": [
-      "Radio Bikini"
-    ],
-    "movies": [
-      {
-        "title": "Radio Bikini",
-        "tmdb_id": 244698,
-        "imdb_id": "tt0093817"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1987",
-    "nominees": [
-      "A Stitch for Time"
-    ],
-    "movies": [
-      {
-        "title": "A Stitch for Time",
-        "tmdb_id": 149387,
-        "imdb_id": "tt0094042"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1987",
-    "nominees": [
-      "Young at Heart"
-    ],
-    "movies": [
-      {
-        "title": "Young at Heart",
-        "tmdb_id": 244690,
-        "imdb_id": "tt0094363"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1987",
-    "nominees": [
-      "Frances Steloff: Memoirs of a Bookseller"
-    ],
-    "movies": [
-      {
-        "title": "Frances Steloff: Memoirs of a Bookseller",
-        "tmdb_id": 244692,
-        "imdb_id": "tt0093047"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1987",
-    "nominees": [
-      "In the Wee Wee Hours..."
-    ],
-    "movies": [
-      {
-        "title": "In the Wee Wee Hours...",
-        "tmdb_id": 244693,
-        "imdb_id": "tt0093254"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1987",
-    "nominees": [
-      "Language Says It All"
-    ],
-    "movies": [
-      {
-        "title": "Language Says It All",
-        "tmdb_id": 244695,
-        "imdb_id": "tt0093388"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1987",
-    "nominees": [
-      "Silver Into Gold"
-    ],
-    "movies": [
-      {
-        "title": "Silver Into Gold",
-        "tmdb_id": 244696,
-        "imdb_id": "tt0093975"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1987",
-    "nominees": [
-      "The Man Who Planted Trees"
-    ],
-    "movies": [
-      {
-        "title": "The Man Who Planted Trees",
-        "tmdb_id": 49565,
-        "imdb_id": "tt0093488"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1987",
-    "nominees": [
-      "George and Rosemary"
-    ],
-    "movies": [
-      {
-        "title": "George and Rosemary",
-        "tmdb_id": 208260,
-        "imdb_id": "tt0093084"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1987",
-    "nominees": [
-      "Your Face"
-    ],
-    "movies": [
-      {
-        "title": "Your Face",
-        "tmdb_id": 193691,
-        "imdb_id": "tt0094364"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1987",
-    "nominees": [
-      "Ray's Male Heterosexual Dance Hall"
-    ],
-    "movies": [
-      {
-        "title": "Ray's Male Heterosexual Dance Hall",
-        "tmdb_id": 211375,
-        "imdb_id": "tt0093826"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1987",
-    "nominees": [
-      "Making Waves"
-    ],
-    "movies": [
-      {
-        "title": "Making Waves",
-        "tmdb_id": 244685,
-        "imdb_id": "tt0093478"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1987",
-    "nominees": [
-      "Shoeshine"
-    ],
-    "movies": [
-      {
-        "title": "Shoeshine",
-        "tmdb_id": 244687,
-        "imdb_id": "tt0093960"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "Ferdinando Scarfiotti",
-      "Bruno Cesari",
-      "Osvaldo Desideri"
-    ],
-    "movies": [
-      {
-        "title": "The Last Emperor",
-        "tmdb_id": 746,
-        "imdb_id": "tt0093389"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "Norman Reynolds",
-      "Harry Cordwell"
-    ],
-    "movies": [
-      {
-        "title": "Empire of the Sun",
-        "tmdb_id": 10110,
-        "imdb_id": "tt0092965"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "Anthony Pratt",
-      "Joanne Woollard"
-    ],
-    "movies": [
-      {
-        "title": "Hope and Glory",
-        "tmdb_id": 32054,
-        "imdb_id": "tt0093209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "Santo Loquasto",
-      "Carol Joffe",
-      "Leslie Bloom",
-      "George DeTitta Jr."
-    ],
-    "movies": [
-      {
-        "title": "Radio Days",
-        "tmdb_id": 30890,
-        "imdb_id": "tt0093818"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "Patrizia Von Brandenstein",
-      "William A. Elliott",
-      "Hal Gausman"
-    ],
-    "movies": [
-      {
-        "title": "The Untouchables",
-        "tmdb_id": 117,
-        "imdb_id": "tt0094226"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1987",
-    "nominees": [
-      "Vittorio Storaro"
-    ],
-    "movies": [
-      {
-        "title": "The Last Emperor",
-        "tmdb_id": 746,
-        "imdb_id": "tt0093389"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1987",
-    "nominees": [
-      "Michael Ballhaus"
-    ],
-    "movies": [
-      {
-        "title": "Broadcast News",
-        "tmdb_id": 12626,
-        "imdb_id": "tt0092699"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1987",
-    "nominees": [
-      "Allen Daviau"
-    ],
-    "movies": [
-      {
-        "title": "Empire of the Sun",
-        "tmdb_id": 10110,
-        "imdb_id": "tt0092965"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1987",
-    "nominees": [
-      "Philippe Rousselot"
-    ],
-    "movies": [
-      {
-        "title": "Hope and Glory",
-        "tmdb_id": 32054,
-        "imdb_id": "tt0093209"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1987",
-    "nominees": [
-      "Haskell Wexler"
-    ],
-    "movies": [
-      {
-        "title": "Matewan",
-        "tmdb_id": 24276,
-        "imdb_id": "tt0093509"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1987",
-    "nominees": [
-      "Gabriella Cristiani"
-    ],
-    "movies": [
-      {
-        "title": "The Last Emperor",
-        "tmdb_id": 746,
-        "imdb_id": "tt0093389"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1987",
-    "nominees": [
-      "Richard Marks"
-    ],
-    "movies": [
-      {
-        "title": "Broadcast News",
-        "tmdb_id": 12626,
-        "imdb_id": "tt0092699"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1987",
-    "nominees": [
-      "Michael Kahn"
-    ],
-    "movies": [
-      {
-        "title": "Empire of the Sun",
-        "tmdb_id": 10110,
-        "imdb_id": "tt0092965"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1987",
-    "nominees": [
-      "Michael Kahn",
-      "Peter E. Berger"
-    ],
-    "movies": [
-      {
-        "title": "Fatal Attraction",
-        "tmdb_id": 10998,
-        "imdb_id": "tt0093010"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1987",
-    "nominees": [
-      "Frank J. Urioste"
-    ],
-    "movies": [
-      {
-        "title": "RoboCop",
-        "tmdb_id": 5548,
-        "imdb_id": "tt0093870"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1987",
-    "nominees": [
-      "Dennis Muren",
-      "William George",
-      "Harley Jessup",
-      "Kenneth F. Smith"
-    ],
-    "movies": [
-      {
-        "title": "Innerspace",
-        "tmdb_id": 2614,
-        "imdb_id": "tt0093260"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1987",
-    "nominees": [
-      "Joel Hynek",
-      "Robert M. Greenberg",
-      "Richard Greenberg",
-      "Stan Winston"
-    ],
-    "movies": [
-      {
-        "title": "Predator",
-        "tmdb_id": 106,
-        "imdb_id": "tt0093773"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1987",
-    "nominees": [
-      "Bill Rowe",
-      "Ivan Sharrock"
-    ],
-    "movies": [
-      {
-        "title": "The Last Emperor",
-        "tmdb_id": 746,
-        "imdb_id": "tt0093389"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1987",
-    "nominees": [
-      "Robert Knudson",
-      "Don Digirolamo",
-      "John Boyd",
-      "Tony Dawe"
-    ],
-    "movies": [
-      {
-        "title": "Empire of the Sun",
-        "tmdb_id": 10110,
-        "imdb_id": "tt0092965"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1987",
-    "nominees": [
-      "Les Fresholtz",
-      "Dick Alexander",
-      "Vern Poore",
-      "Bill Nelson"
-    ],
-    "movies": [
-      {
-        "title": "Lethal Weapon",
-        "tmdb_id": 941,
-        "imdb_id": "tt0093409"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1987",
-    "nominees": [
-      "Michael J. Kohut",
-      "Carlos Delarios",
-      "Aaron Rochin",
-      "Robert Wald"
-    ],
-    "movies": [
-      {
-        "title": "RoboCop",
-        "tmdb_id": 5548,
-        "imdb_id": "tt0093870"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1987",
-    "nominees": [
-      "Wayne Artman",
-      "Tom Beckert",
-      "Tom E. Dahl",
-      "Art Rochester"
-    ],
-    "movies": [
-      {
-        "title": "The Witches of Eastwick",
-        "tmdb_id": 6069,
-        "imdb_id": "tt0094332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1987",
-    "nominees": [
-      "Stephen Hunter Flick",
-      "John Pospisil"
-    ],
-    "movies": [
-      {
-        "title": "RoboCop",
-        "tmdb_id": 5548,
-        "imdb_id": "tt0093870"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1987",
-    "nominees": [
-      "Rick Baker"
-    ],
-    "movies": [
-      {
-        "title": "Harry and the Hendersons",
-        "tmdb_id": 8989,
-        "imdb_id": "tt0093148"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1987",
-    "nominees": [
-      "Bob Laden"
-    ],
-    "movies": [
-      {
-        "title": "Happy New Year",
-        "tmdb_id": 133781,
-        "imdb_id": "tt0093145"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "James Acheson"
-    ],
-    "movies": [
-      {
-        "title": "The Last Emperor",
-        "tmdb_id": 746,
-        "imdb_id": "tt0093389"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "Dorothy Jeakins"
-    ],
-    "movies": [
-      {
-        "title": "The Dead",
-        "tmdb_id": 39507,
-        "imdb_id": "tt0092843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "Bob Ringwood"
-    ],
-    "movies": [
-      {
-        "title": "Empire of the Sun",
-        "tmdb_id": 10110,
-        "imdb_id": "tt0092965"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "Jenny Beavan",
-      "John Bright"
-    ],
-    "movies": [
-      {
-        "title": "Maurice",
-        "tmdb_id": 26371,
-        "imdb_id": "tt0093512"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1987",
-    "nominees": [
-      "Marilyn Vance-Straker"
-    ],
-    "movies": [
-      {
-        "title": "The Untouchables",
-        "tmdb_id": 117,
-        "imdb_id": "tt0094226"
-      }
-    ],
-    "won": false
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Wall Street",
+    "FilmId": "tt0094291",
+    "Name": "Michael Douglas",
+    "Nominees": "Michael Douglas",
+    "NomineeIds": "nm0000140",
+    "Winner": "True",
+    "Detail": "Gordon Gekko",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Broadcast News",
+    "FilmId": "tt0092699",
+    "Name": "William Hurt",
+    "Nominees": "William Hurt",
+    "NomineeIds": "nm0000458",
+    "Winner": "",
+    "Detail": "Tom Grunick",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Dark Eyes",
+    "FilmId": "tt0093664",
+    "Name": "Marcello Mastroianni",
+    "Nominees": "Marcello Mastroianni",
+    "NomineeIds": "nm0000052",
+    "Winner": "",
+    "Detail": "Romano",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Ironweed",
+    "FilmId": "tt0093277",
+    "Name": "Jack Nicholson",
+    "Nominees": "Jack Nicholson",
+    "NomineeIds": "nm0000197",
+    "Winner": "",
+    "Detail": "Francis Phelan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Good Morning, Vietnam",
+    "FilmId": "tt0093105",
+    "Name": "Robin Williams",
+    "Nominees": "Robin Williams",
+    "NomineeIds": "nm0000245",
+    "Winner": "",
+    "Detail": "Adrian Cronauer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Broadcast News",
+    "FilmId": "tt0092699",
+    "Name": "Albert Brooks",
+    "Nominees": "Albert Brooks",
+    "NomineeIds": "nm0000983",
+    "Winner": "",
+    "Detail": "Aaron Altman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Untouchables",
+    "FilmId": "tt0094226",
+    "Name": "Sean Connery",
+    "Nominees": "Sean Connery",
+    "NomineeIds": "nm0000125",
+    "Winner": "True",
+    "Detail": "Jim Malone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Street Smart",
+    "FilmId": "tt0094056",
+    "Name": "Morgan Freeman",
+    "Nominees": "Morgan Freeman",
+    "NomineeIds": "nm0000151",
+    "Winner": "",
+    "Detail": "Fast Black",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Moonstruck",
+    "FilmId": "tt0093565",
+    "Name": "Vincent Gardenia",
+    "Nominees": "Vincent Gardenia",
+    "NomineeIds": "nm0306696",
+    "Winner": "",
+    "Detail": "Cosmo Castorini",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Cry Freedom",
+    "FilmId": "tt0092804",
+    "Name": "Denzel Washington",
+    "Nominees": "Denzel Washington",
+    "NomineeIds": "nm0000243",
+    "Winner": "",
+    "Detail": "Steve Biko",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Moonstruck",
+    "FilmId": "tt0093565",
+    "Name": "Cher",
+    "Nominees": "Cher",
+    "NomineeIds": "nm0000333",
+    "Winner": "True",
+    "Detail": "Loretta Castorini",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Fatal Attraction",
+    "FilmId": "tt0093010",
+    "Name": "Glenn Close",
+    "Nominees": "Glenn Close",
+    "NomineeIds": "nm0000335",
+    "Winner": "",
+    "Detail": "Alex Forrest",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Broadcast News",
+    "FilmId": "tt0092699",
+    "Name": "Holly Hunter",
+    "Nominees": "Holly Hunter",
+    "NomineeIds": "nm0000456",
+    "Winner": "",
+    "Detail": "Jane Craig",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Anna",
+    "FilmId": "tt0092569",
+    "Name": "Sally Kirkland",
+    "Nominees": "Sally Kirkland",
+    "NomineeIds": "nm0000476",
+    "Winner": "",
+    "Detail": "Anna",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Ironweed",
+    "FilmId": "tt0093277",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Helen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Gaby - A True Story",
+    "FilmId": "tt0093067",
+    "Name": "Norma Aleandro",
+    "Nominees": "Norma Aleandro",
+    "NomineeIds": "nm0001903",
+    "Winner": "",
+    "Detail": "Florencia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Fatal Attraction",
+    "FilmId": "tt0093010",
+    "Name": "Anne Archer",
+    "Nominees": "Anne Archer",
+    "NomineeIds": "nm0000271",
+    "Winner": "",
+    "Detail": "Beth Gallagher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Moonstruck",
+    "FilmId": "tt0093565",
+    "Name": "Olympia Dukakis",
+    "Nominees": "Olympia Dukakis",
+    "NomineeIds": "nm0001156",
+    "Winner": "True",
+    "Detail": "Rose Castorini",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Throw Momma from the Train",
+    "FilmId": "tt0094142",
+    "Name": "Anne Ramsey",
+    "Nominees": "Anne Ramsey",
+    "NomineeIds": "nm0001649",
+    "Winner": "",
+    "Detail": "Momma",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Whales of August",
+    "FilmId": "tt0094315",
+    "Name": "Ann Sothern",
+    "Nominees": "Ann Sothern",
+    "NomineeIds": "nm0815433",
+    "Winner": "",
+    "Detail": "Tisha Doughty",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Empire of the Sun",
+    "FilmId": "tt0092965",
+    "Name": "Art Direction: Norman Reynolds; Set Decoration: Harry Cordwell",
+    "Nominees": "Norman Reynolds|Harry Cordwell",
+    "NomineeIds": "nm0721888|nm0179681",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Hope and Glory",
+    "FilmId": "tt0093209",
+    "Name": "Art Direction: Anthony Pratt; Set Decoration: Joan Woollard",
+    "Nominees": "Anthony Pratt|Joan Woollard",
+    "NomineeIds": "nm0695421|nm0941219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Last Emperor",
+    "FilmId": "tt0093389",
+    "Name": "Art Direction: Ferdinando Scarfiotti; Set Decoration: Bruno Cesari, Osvaldo Desideri",
+    "Nominees": "Ferdinando Scarfiotti|Bruno Cesari|Osvaldo Desideri",
+    "NomineeIds": "nm0769162|nm0149055|nm0221235",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Radio Days",
+    "FilmId": "tt0093818",
+    "Name": "Art Direction: Santo Loquasto; Set Decoration: Carol Joffe, Les Bloom, George DeTitta, Jr.",
+    "Nominees": "Santo Loquasto|Carol Joffe|Les Bloom|George DeTitta Jr.",
+    "NomineeIds": "nm0520288|nm0423617|nm0089193|nm0221890",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Untouchables",
+    "FilmId": "tt0094226",
+    "Name": "Art Direction: Patrizia Von Brandenstein, William A. Elliott; Set Decoration: Hal Gausman",
+    "Nominees": "Patrizia Von Brandenstein|William A. Elliott|Hal Gausman",
+    "NomineeIds": "nm0902038|nm0254673|nm0310198",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Broadcast News",
+    "FilmId": "tt0092699",
+    "Name": "Michael Ballhaus",
+    "Nominees": "Michael Ballhaus",
+    "NomineeIds": "nm0000841",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Empire of the Sun",
+    "FilmId": "tt0092965",
+    "Name": "Allen Daviau",
+    "Nominees": "Allen Daviau",
+    "NomineeIds": "nm0005679",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Hope and Glory",
+    "FilmId": "tt0093209",
+    "Name": "Philippe Rousselot",
+    "Nominees": "Philippe Rousselot",
+    "NomineeIds": "nm0003542",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Last Emperor",
+    "FilmId": "tt0093389",
+    "Name": "Vittorio Storaro",
+    "Nominees": "Vittorio Storaro",
+    "NomineeIds": "nm0005886",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Matewan",
+    "FilmId": "tt0093509",
+    "Name": "Haskell Wexler",
+    "Nominees": "Haskell Wexler",
+    "NomineeIds": "nm0005549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Dead",
+    "FilmId": "tt0092843",
+    "Name": "Dorothy Jeakins",
+    "Nominees": "Dorothy Jeakins",
+    "NomineeIds": "nm0419820",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Empire of the Sun",
+    "FilmId": "tt0092965",
+    "Name": "Bob Ringwood",
+    "Nominees": "Bob Ringwood",
+    "NomineeIds": "nm0727674",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Last Emperor",
+    "FilmId": "tt0093389",
+    "Name": "James Acheson",
+    "Nominees": "James Acheson",
+    "NomineeIds": "nm0009807",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Maurice",
+    "FilmId": "tt0093512",
+    "Name": "Jenny Beavan, John Bright",
+    "Nominees": "Jenny Beavan|John Bright",
+    "NomineeIds": "nm0064746|nm0109149",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Untouchables",
+    "FilmId": "tt0094226",
+    "Name": "Marilyn Vance-Straker",
+    "Nominees": "Marilyn Vance-Straker",
+    "NomineeIds": "nm0006465",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Fatal Attraction",
+    "FilmId": "tt0093010",
+    "Name": "Adrian Lyne",
+    "Nominees": "Adrian Lyne",
+    "NomineeIds": "nm0001490",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Hope and Glory",
+    "FilmId": "tt0093209",
+    "Name": "John Boorman",
+    "Nominees": "John Boorman",
+    "NomineeIds": "nm0000958",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Last Emperor",
+    "FilmId": "tt0093389",
+    "Name": "Bernardo Bertolucci",
+    "Nominees": "Bernardo Bertolucci",
+    "NomineeIds": "nm0000934",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Moonstruck",
+    "FilmId": "tt0093565",
+    "Name": "Norman Jewison",
+    "Nominees": "Norman Jewison",
+    "NomineeIds": "nm0422484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "My Life as a Dog",
+    "FilmId": "tt0089606",
+    "Name": "Lasse Hallström",
+    "Nominees": "Lasse Hallström",
+    "NomineeIds": "nm0002120",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Eyes on the Prize: America's Civil Rights Years/Bridge to Freedom 1965",
+    "FilmId": "tt0092999",
+    "Name": "Callie Crossley and James A. DeVinney, Producers",
+    "Nominees": "Callie Crossley|James A. DeVinney",
+    "NomineeIds": "nm0189337|nm0222681",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Hellfire: A Journey from Hiroshima",
+    "FilmId": "tt0093173",
+    "Name": "John Junkerman and John W. Dower, Producers",
+    "Nominees": "John Junkerman|John W. Dower",
+    "NomineeIds": "nm0432719|nm0235771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Radio Bikini",
+    "FilmId": "tt0093817",
+    "Name": "Robert Stone, Producer",
+    "Nominees": "Robert Stone",
+    "NomineeIds": "nm0832134",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "A Stitch for Time",
+    "FilmId": "tt0094042",
+    "Name": "Barbara Herbich and Cyril Christo, Producers",
+    "Nominees": "Barbara Herbich|Cyril Christo",
+    "NomineeIds": "nm0378653|nm0160466",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table",
+    "FilmId": "tt0094119",
+    "Name": "Aviva Slesin, Producer",
+    "Nominees": "Aviva Slesin",
+    "NomineeIds": "nm0805754",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Frances Steloff: Memoirs of a Bookseller",
+    "FilmId": "tt0093047",
+    "Name": "Deborah Dickson, Producer",
+    "Nominees": "Deborah Dickson",
+    "NomineeIds": "nm0225630",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "In the Wee Wee Hours...",
+    "FilmId": "tt0093254",
+    "Name": "Dr. Frank Daniel and Izak Ben-Meir, Producers",
+    "Nominees": "Dr. Frank Daniel|Izak Ben-Meir",
+    "NomineeIds": "nm0199629|nm0070072",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Language Says It All",
+    "FilmId": "tt0093388",
+    "Name": "Megan Williams, Producer",
+    "Nominees": "Megan Williams",
+    "NomineeIds": "nm1558020",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Silver into Gold",
+    "FilmId": "tt0093975",
+    "Name": "Lynn Mueller, Producer",
+    "Nominees": "Lynn Mueller",
+    "NomineeIds": "nm0611076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Young at Heart",
+    "FilmId": "tt0094363",
+    "Name": "Sue Marx and Pamela Conn, Producers",
+    "Nominees": "Sue Marx|Pamela Conn",
+    "NomineeIds": "nm0555680|nm0174904",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Broadcast News",
+    "FilmId": "tt0092699",
+    "Name": "Richard Marks",
+    "Nominees": "Richard Marks",
+    "NomineeIds": "nm0548943",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Empire of the Sun",
+    "FilmId": "tt0092965",
+    "Name": "Michael Kahn",
+    "Nominees": "Michael Kahn",
+    "NomineeIds": "nm0434883",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Fatal Attraction",
+    "FilmId": "tt0093010",
+    "Name": "Michael Kahn, Peter E. Berger",
+    "Nominees": "Michael Kahn|Peter E. Berger",
+    "NomineeIds": "nm0434883|nm0074318",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Last Emperor",
+    "FilmId": "tt0093389",
+    "Name": "Gabriella Cristiani",
+    "Nominees": "Gabriella Cristiani",
+    "NomineeIds": "nm0188098",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "RoboCop",
+    "FilmId": "tt0093870",
+    "Name": "Frank J. Urioste",
+    "Nominees": "Frank J. Urioste",
+    "NomineeIds": "nm0881973",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Au Revoir Les Enfants (Goodbye, Children)",
+    "FilmId": "tt0092593",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Babette's Feast",
+    "FilmId": "tt0092603",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Course Completed",
+    "FilmId": "tt0092584",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Family",
+    "FilmId": "tt0093004",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Pathfinder",
+    "FilmId": "tt0093668",
+    "Name": "Norway",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Happy New Year",
+    "FilmId": "tt0093145",
+    "Name": "Bob Laden",
+    "Nominees": "Bob Laden",
+    "NomineeIds": "nm0480507",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Harry and the Hendersons",
+    "FilmId": "tt0093148",
+    "Name": "Rick Baker",
+    "Nominees": "Rick Baker",
+    "NomineeIds": "nm0000711",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Cry Freedom",
+    "FilmId": "tt0092804",
+    "Name": "George Fenton, Jonas Gwangwa",
+    "Nominees": "George Fenton|Jonas Gwangwa",
+    "NomineeIds": "nm0006070|nm0350308",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Empire of the Sun",
+    "FilmId": "tt0092965",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Last Emperor",
+    "FilmId": "tt0093389",
+    "Name": "Ryuichi Sakamoto, David Byrne, Cong Su",
+    "Nominees": "Ryuichi Sakamoto|David Byrne|Cong Su",
+    "NomineeIds": "nm0757098|nm0126154|nm0836775",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Untouchables",
+    "FilmId": "tt0094226",
+    "Name": "Ennio Morricone",
+    "Nominees": "Ennio Morricone",
+    "NomineeIds": "nm0001553",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Witches of Eastwick",
+    "FilmId": "tt0094332",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Cry Freedom",
+    "FilmId": "tt0092804",
+    "Name": "Music and Lyric by George Fenton and Jonas Gwangwa",
+    "Nominees": "George Fenton|Jonas Gwangwa",
+    "NomineeIds": "nm0006070|nm0350308",
+    "Winner": "",
+    "Detail": "Cry Freedom",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Dirty Dancing",
+    "FilmId": "tt0092890",
+    "Name": "Music by Franke Previte, John DeNicola and Donald Markowitz; Lyric by Franke Previte",
+    "Nominees": "Franke Previte|John DeNicola|Donald Markowitz",
+    "NomineeIds": "nm0696665|nm0219096|nm0548726",
+    "Winner": "True",
+    "Detail": "(I've Had) The Time Of My Life",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Mannequin",
+    "FilmId": "tt0093493",
+    "Name": "Music and Lyric by Albert Hammond and Diane Warren",
+    "Nominees": "Albert Hammond|Diane Warren",
+    "NomineeIds": "nm0358637|nm0005534",
+    "Winner": "",
+    "Detail": "Nothing's Gonna Stop Us Now",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Beverly Hills Cop II",
+    "FilmId": "tt0092644",
+    "Name": "Music by Harold Faltermeyer and Keith Forsey; Lyric by Harold Faltermeyer, Keith Forsey and Bob Seger",
+    "Nominees": "Harold Faltermeyer|Keith Forsey|Bob Seger",
+    "NomineeIds": "nm0266536|nm0286850|nm1169432",
+    "Winner": "",
+    "Detail": "Shakedown",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Princess Bride",
+    "FilmId": "tt0093779",
+    "Name": "Music and Lyric by Willy DeVille",
+    "Nominees": "Willy DeVille",
+    "NomineeIds": "nm0212151",
+    "Winner": "",
+    "Detail": "Storybook Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Broadcast News",
+    "FilmId": "tt0092699",
+    "Name": "James L. Brooks, Producer",
+    "Nominees": "James L. Brooks",
+    "NomineeIds": "nm0000985",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Fatal Attraction",
+    "FilmId": "tt0093010",
+    "Name": "Stanley R. Jaffe and Sherry Lansing, Producers",
+    "Nominees": "Stanley R. Jaffe|Sherry Lansing",
+    "NomineeIds": "nm0415494|nm0005121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Hope and Glory",
+    "FilmId": "tt0093209",
+    "Name": "John Boorman, Producer",
+    "Nominees": "John Boorman",
+    "NomineeIds": "nm0000958",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Last Emperor",
+    "FilmId": "tt0093389",
+    "Name": "Jeremy Thomas, Producer",
+    "Nominees": "Jeremy Thomas",
+    "NomineeIds": "nm0859016",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Moonstruck",
+    "FilmId": "tt0093565",
+    "Name": "Patrick Palmer and Norman Jewison, Producers",
+    "Nominees": "Patrick Palmer|Norman Jewison",
+    "NomineeIds": "nm0658404|nm0422484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "George and Rosemary",
+    "FilmId": "tt0093084",
+    "Name": "Eunice Macaulay, Producer",
+    "Nominees": "Eunice Macaulay",
+    "NomineeIds": "nm0531323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Man Who Planted Trees",
+    "FilmId": "tt0093488",
+    "Name": "Frédéric Back, Producer",
+    "Nominees": "Frédéric Back",
+    "NomineeIds": "nm0045610",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Your Face",
+    "FilmId": "tt0094364",
+    "Name": "Bill Plympton, Producer",
+    "Nominees": "Bill Plympton",
+    "NomineeIds": "nm0687739",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Making Waves",
+    "FilmId": "tt0093478",
+    "Name": "Ann Wingate, Producer",
+    "Nominees": "Ann Wingate",
+    "NomineeIds": "nm0934990",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Ray's Male Heterosexual Dance Hall",
+    "FilmId": "tt0093826",
+    "Name": "Jonathan Sanger and Jana Sue Memel, Producers",
+    "Nominees": "Jonathan Sanger|Jana Sue Memel",
+    "NomineeIds": "nm0762674|nm0578604",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Shoeshine",
+    "FilmId": "tt0093960",
+    "Name": "Robert A. Katz, Producer",
+    "Nominees": "Robert A. Katz",
+    "NomineeIds": "nm0441831",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Empire of the Sun",
+    "FilmId": "tt0092965",
+    "Name": "Robert Knudson, Don Digirolamo, John Boyd, Tony Dawe",
+    "Nominees": "Robert Knudson|Don Digirolamo|John Boyd|Tony Dawe",
+    "NomineeIds": "nm0461702|nm0226564|nm0101815|nm0003360",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Last Emperor",
+    "FilmId": "tt0093389",
+    "Name": "Bill Rowe, Ivan Sharrock",
+    "Nominees": "Bill Rowe|Ivan Sharrock",
+    "NomineeIds": "nm0746477|nm0789331",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Lethal Weapon",
+    "FilmId": "tt0093409",
+    "Name": "Les Fresholtz, Dick Alexander, Vern Poore, Bill Nelson",
+    "Nominees": "Les Fresholtz|Dick Alexander|Vern Poore|Bill Nelson",
+    "NomineeIds": "nm0294370|nm1219804|nm0691005|nm0625179",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "RoboCop",
+    "FilmId": "tt0093870",
+    "Name": "Michael J. Kohut, Carlos de Larios, Aaron Rochin, Robert Wald",
+    "Nominees": "Michael J. Kohut|Carlos de Larios|Aaron Rochin|Robert Wald",
+    "NomineeIds": "nm0463489|nm0216467|nm0734099|nm0907016",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Witches of Eastwick",
+    "FilmId": "tt0094332",
+    "Name": "Wayne Artman, Tom Beckert, Tom Dahl, Art Rochester",
+    "Nominees": "Wayne Artman|Tom Beckert|Tom Dahl|Art Rochester",
+    "NomineeIds": "nm0037923|nm0065657|nm0196980|nm0734053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Innerspace",
+    "FilmId": "tt0093260",
+    "Name": "Dennis Muren, William George, Harley Jessup, Kenneth Smith",
+    "Nominees": "Dennis Muren|William George|Harley Jessup|Kenneth Smith",
+    "NomineeIds": "nm0613830|nm0313357|nm0422263|nm0808946",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Predator",
+    "FilmId": "tt0093773",
+    "Name": "Joel Hynek, Robert M. Greenberg, Richard Greenberg, Stan Winston",
+    "Nominees": "Joel Hynek|Robert M. Greenberg|Richard Greenberg|Stan Winston",
+    "NomineeIds": "nm0006699|nm0338581|nm0338572|nm0935644",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "The Dead",
+    "FilmId": "tt0092843",
+    "Name": "Tony Huston",
+    "Nominees": "Tony Huston",
+    "NomineeIds": "nm0404154",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Fatal Attraction",
+    "FilmId": "tt0093010",
+    "Name": "James Dearden",
+    "Nominees": "James Dearden",
+    "NomineeIds": "nm0213139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Full Metal Jacket",
+    "FilmId": "tt0093058",
+    "Name": "Stanley Kubrick, Michael Herr, Gustav Hasford",
+    "Nominees": "Stanley Kubrick|Michael Herr|Gustav Hasford",
+    "NomineeIds": "nm0000040|nm0380282|nm0368007",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "The Last Emperor",
+    "FilmId": "tt0093389",
+    "Name": "Mark Peploe, Bernardo Bertolucci",
+    "Nominees": "Mark Peploe|Bernardo Bertolucci",
+    "NomineeIds": "nm0672546|nm0000934",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "My Life as a Dog",
+    "FilmId": "tt0089606",
+    "Name": "Lasse Hallström, Reidar Jönsson, Brasse Brännström, Per Berglund",
+    "Nominees": "Lasse Hallström|Reidar Jönsson|Brasse Brännström|Per Berglund",
+    "NomineeIds": "nm0002120|nm0433653|nm0117530|nm0074719",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Au Revoir Les Enfants (Goodbye, Children)",
+    "FilmId": "tt0092593",
+    "Name": "Louis Malle",
+    "Nominees": "Louis Malle",
+    "NomineeIds": "nm0001501",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Broadcast News",
+    "FilmId": "tt0092699",
+    "Name": "James L. Brooks",
+    "Nominees": "James L. Brooks",
+    "NomineeIds": "nm0000985",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Hope and Glory",
+    "FilmId": "tt0093209",
+    "Name": "John Boorman",
+    "Nominees": "John Boorman",
+    "NomineeIds": "nm0000958",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Moonstruck",
+    "FilmId": "tt0093565",
+    "Name": "John Patrick Shanley",
+    "Nominees": "John Patrick Shanley",
+    "NomineeIds": "nm0788234",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Radio Days",
+    "FilmId": "tt0093818",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing)",
+    "Film": "RoboCop",
+    "FilmId": "tt0093870",
+    "Name": "Stephen Flick, John Pospisil",
+    "Nominees": "Stephen Flick|John Pospisil",
+    "NomineeIds": "nm0282276|nm0654897",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Billy Wilder",
+    "Nominees": "Billy Wilder",
+    "NomineeIds": "nm0000697",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fred Hynes",
+    "NomineeIds": "nm0405261",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Fred Hynes"
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bernhard Kühl|Werner Block|the OSRAM GmbH",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To BERNHARD KÜHL and WERNER BLOCK and to the OSRAM GmbH RESEARCH AND DEVELOPMENT DEPARTMENT for the invention and the continuing improvement of the OSRAM HMI light source for motion picture photography."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Willi Burth|Kinotone Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To WILLI BURTH and KINOTONE CORPORATION for the invention and development of the Non-rewind Platter System for motion picture presentations."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Montage Group Ltd.|Ronald C. Barker|Chester L. Schuler",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Editorial",
+    "Note": "",
+    "Citation": "To MONTAGE GROUP, LTD. for the development, and to RONALD C. BARKER and CHESTER L. SCHULER for the invention, of the Montage Picture Processor electronic film editing system."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Colin F. Mossman|Rank Film Development Group",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To COLIN F. MOSSMAN and RANK FILM LABORATORIES' DEVELOPMENT GROUP for creating a fully-automated, film handling system for improving productivity of high speed film processing."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eastman Kodak Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To EASTMAN KODAK COMPANY for the development of Eastman Color High Speed Daylight Negative Film 5297/7297."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eastman Kodak Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To EASTMAN KODAK COMPANY for the development of Eastman Color High Speed SA Negative Film 5295 for blue-screen traveling matte photography."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fritz Gabriel Bauer",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To FRITZ GABRIEL BAUER for the invention and development of the improved features of the Moviecam Camera System."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ZORAN PERISIC",
+    "NomineeIds": "nm0673830",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To ZORAN PERISIC of Courier Films Ltd. for the Zoptic dual-zoom front projection system for visual effects photography."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Carl Zeiss Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To the CARL ZEISS COMPANY for the design and development of a series of super-speed lenses for motion picture photography."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "IOAN ALLEN",
+    "NomineeIds": "nm2344873",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To IOAN ALLEN of Dolby Laboratories, Inc., for the Cat. 43 playback-only noise reduction unit and its practical application to motion picture sound recordings."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John Eppolito|Wally Gentleman|William Mesa|Les Paul Robley|Geoffrey H. Williamson",
+    "NomineeIds": "nm0258387|nm0313142|nm0581772|nm0733397|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JOHN EPPOLITO, WALLY GENTLEMAN, WILLIAM MESA, LES PAUL ROBLEY and GEOFFREY H. WILLIAMSON for refinements to a dual screen, front projection, image-compositing system."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jan Jacobsen",
+    "NomineeIds": "nm0414727",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To JAN JACOBSEN for the application of a dual screen, front projection system to motion picture special effects photography."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Thaine Morris|David Pier",
+    "NomineeIds": "nm0606970|nm0682243",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To THAINE MORRIS and DAVID PIER for the development of DSC Spark Devices for motion picture special effects."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "TADEUZ KRZANOWSKI",
+    "NomineeIds": "nm0473071",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To TADEUZ KRZANOWSKI of Industrial Light and Magic, Inc., for the development of a Wire Rig Model Support Mechanism used to control the movements of miniatures in special effects."
+  },
+  {
+    "Ceremony": 60,
+    "Year": 1987,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DAN C. NORRIS|TIM COOK",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To DAN C. NORRIS and TIM COOK of Norris Film Products for the development of a single-frame exposure system for motion picture photography."
   }
 ]

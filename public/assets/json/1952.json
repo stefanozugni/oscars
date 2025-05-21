@@ -1,1886 +1,2194 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1952",
-    "nominees": [
-      "The Greatest Show on Earth"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Show on Earth",
-        "tmdb_id": 27191,
-        "imdb_id": "tt0044672"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1952",
-    "nominees": [
-      "High Noon"
-    ],
-    "movies": [
-      {
-        "title": "High Noon",
-        "tmdb_id": 288,
-        "imdb_id": "tt0044706"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1952",
-    "nominees": [
-      "Ivanhoe"
-    ],
-    "movies": [
-      {
-        "title": "Ivanhoe",
-        "tmdb_id": 26175,
-        "imdb_id": "tt0044760"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1952",
-    "nominees": [
-      "Moulin Rouge"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge",
-        "tmdb_id": 10910,
-        "imdb_id": "tt0044926"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1952",
-    "nominees": [
-      "The Quiet Man"
-    ],
-    "movies": [
-      {
-        "title": "The Quiet Man",
-        "tmdb_id": 3109,
-        "imdb_id": "tt0045061"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1952",
-    "nominees": [
-      "Gary Cooper"
-    ],
-    "movies": [
-      {
-        "title": "High Noon",
-        "tmdb_id": 288,
-        "imdb_id": "tt0044706"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1952",
-    "nominees": [
-      "Marlon Brando"
-    ],
-    "movies": [
-      {
-        "title": "Viva Zapata!",
-        "tmdb_id": 1810,
-        "imdb_id": "tt0045296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1952",
-    "nominees": [
-      "Kirk Douglas"
-    ],
-    "movies": [
-      {
-        "title": "The Bad and the Beautiful",
-        "tmdb_id": 32499,
-        "imdb_id": "tt0044391"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1952",
-    "nominees": [
-      "Jose Ferrer"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge",
-        "tmdb_id": 10910,
-        "imdb_id": "tt0044926"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1952",
-    "nominees": [
-      "Alec Guinness"
-    ],
-    "movies": [
-      {
-        "title": "The Lavender Hill Mob",
-        "tmdb_id": 32961,
-        "imdb_id": "tt0044829"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1952",
-    "nominees": [
-      "Shirley Booth"
-    ],
-    "movies": [
-      {
-        "title": "Come Back, Little Sheba",
-        "tmdb_id": 84214,
-        "imdb_id": "tt0044509"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1952",
-    "nominees": [
-      "Joan Crawford"
-    ],
-    "movies": [
-      {
-        "title": "Sudden Fear",
-        "tmdb_id": 19171,
-        "imdb_id": "tt0045205"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1952",
-    "nominees": [
-      "Bette Davis"
-    ],
-    "movies": [
-      {
-        "title": "The Star",
-        "tmdb_id": 85783,
-        "imdb_id": "tt0045186"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1952",
-    "nominees": [
-      "Julie Harris"
-    ],
-    "movies": [
-      {
-        "title": "The Member of the Wedding",
-        "tmdb_id": 93775,
-        "imdb_id": "tt0044896"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1952",
-    "nominees": [
-      "Susan Hayward"
-    ],
-    "movies": [
-      {
-        "title": "With a Song in My Heart",
-        "tmdb_id": 65787,
-        "imdb_id": "tt0045333"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1952",
-    "nominees": [
-      "Anthony Quinn"
-    ],
-    "movies": [
-      {
-        "title": "Viva Zapata!",
-        "tmdb_id": 1810,
-        "imdb_id": "tt0045296"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1952",
-    "nominees": [
-      "Richard Burton"
-    ],
-    "movies": [
-      {
-        "title": "My Cousin Rachel",
-        "tmdb_id": 94529,
-        "imdb_id": "tt0044937"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1952",
-    "nominees": [
-      "Arthur Hunnicutt"
-    ],
-    "movies": [
-      {
-        "title": "The Big Sky",
-        "tmdb_id": 43367,
-        "imdb_id": "tt0044419"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1952",
-    "nominees": [
-      "Victor McLaglen"
-    ],
-    "movies": [
-      {
-        "title": "The Quiet Man",
-        "tmdb_id": 3109,
-        "imdb_id": "tt0045061"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1952",
-    "nominees": [
-      "Jack Palance"
-    ],
-    "movies": [
-      {
-        "title": "Sudden Fear",
-        "tmdb_id": 19171,
-        "imdb_id": "tt0045205"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1952",
-    "nominees": [
-      "Gloria Grahame"
-    ],
-    "movies": [
-      {
-        "title": "The Bad and the Beautiful",
-        "tmdb_id": 32499,
-        "imdb_id": "tt0044391"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1952",
-    "nominees": [
-      "Jean Hagen"
-    ],
-    "movies": [
-      {
-        "title": "Singin' in the Rain",
-        "tmdb_id": 872,
-        "imdb_id": "tt0045152"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1952",
-    "nominees": [
-      "Colette Marchand"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge",
-        "tmdb_id": 10910,
-        "imdb_id": "tt0044926"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1952",
-    "nominees": [
-      "Terry Moore"
-    ],
-    "movies": [
-      {
-        "title": "Come Back, Little Sheba",
-        "tmdb_id": 84214,
-        "imdb_id": "tt0044509"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1952",
-    "nominees": [
-      "Thelma Ritter"
-    ],
-    "movies": [
-      {
-        "title": "With a Song in My Heart",
-        "tmdb_id": 65787,
-        "imdb_id": "tt0045333"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1952",
-    "nominees": [
-      "John Ford"
-    ],
-    "movies": [
-      {
-        "title": "The Quiet Man",
-        "tmdb_id": 3109,
-        "imdb_id": "tt0045061"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1952",
-    "nominees": [
-      "Cecil B. DeMille"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Show on Earth",
-        "tmdb_id": 27191,
-        "imdb_id": "tt0044672"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1952",
-    "nominees": [
-      "John Huston"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge",
-        "tmdb_id": 10910,
-        "imdb_id": "tt0044926"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1952",
-    "nominees": [
-      "Joseph L. Mankiewicz"
-    ],
-    "movies": [
-      {
-        "title": "5 Fingers",
-        "tmdb_id": 59087,
-        "imdb_id": "tt0044314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1952",
-    "nominees": [
-      "Fred Zinnemann"
-    ],
-    "movies": [
-      {
-        "title": "High Noon",
-        "tmdb_id": 288,
-        "imdb_id": "tt0044706"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1952",
-    "nominees": [
-      "Charles Schnee"
-    ],
-    "movies": [
-      {
-        "title": "The Bad and the Beautiful",
-        "tmdb_id": 32499,
-        "imdb_id": "tt0044391"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1952",
-    "nominees": [
-      "Michael Wilson"
-    ],
-    "movies": [
-      {
-        "title": "5 Fingers",
-        "tmdb_id": 59087,
-        "imdb_id": "tt0044314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1952",
-    "nominees": [
-      "Carl Foreman"
-    ],
-    "movies": [
-      {
-        "title": "High Noon",
-        "tmdb_id": 288,
-        "imdb_id": "tt0044706"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1952",
-    "nominees": [
-      "Roger MacDougall",
-      "John Dighton",
-      "Alexander Mackendrick"
-    ],
-    "movies": [
-      {
-        "title": "The Man in the White Suit",
-        "tmdb_id": 32568,
-        "imdb_id": "tt0044876"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1952",
-    "nominees": [
-      "Frank S. Nugent"
-    ],
-    "movies": [
-      {
-        "title": "The Quiet Man",
-        "tmdb_id": 3109,
-        "imdb_id": "tt0045061"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1952",
-    "nominees": [
-      "T.E.B. Clarke"
-    ],
-    "movies": [
-      {
-        "title": "The Lavender Hill Mob",
-        "tmdb_id": 32961,
-        "imdb_id": "tt0044829"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1952",
-    "nominees": [
-      "Sydney Boehm"
-    ],
-    "movies": [
-      {
-        "title": "The Atomic City",
-        "tmdb_id": 86769,
-        "imdb_id": "tt0044382"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1952",
-    "nominees": [
-      "Terence Rattigan"
-    ],
-    "movies": [
-      {
-        "title": "The Sound Barrier",
-        "tmdb_id": 51619,
-        "imdb_id": "tt0044446"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1952",
-    "nominees": [
-      "Ruth Gordon",
-      "Garson Kanin"
-    ],
-    "movies": [
-      {
-        "title": "Pat and Mike",
-        "tmdb_id": 33575,
-        "imdb_id": "tt0045012"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1952",
-    "nominees": [
-      "John Steinbeck"
-    ],
-    "movies": [
-      {
-        "title": "Viva Zapata!",
-        "tmdb_id": 1810,
-        "imdb_id": "tt0045296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1952",
-    "nominees": [
-      "Frank Cavett",
-      "Frederic M. Frank",
-      "Theodore St. John"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Show on Earth",
-        "tmdb_id": 27191,
-        "imdb_id": "tt0044672"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1952",
-    "nominees": [
-      "Leo McCarey"
-    ],
-    "movies": [
-      {
-        "title": "My Son John",
-        "tmdb_id": 52991,
-        "imdb_id": "tt0044941"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1952",
-    "nominees": [
-      "Martin Goldsmith",
-      "Jack Leonard"
-    ],
-    "movies": [
-      {
-        "title": "The Narrow Margin",
-        "tmdb_id": 31713,
-        "imdb_id": "tt0044954"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1952",
-    "nominees": [
-      "Guy Trosper"
-    ],
-    "movies": [
-      {
-        "title": "The Pride of St. Louis",
-        "tmdb_id": 43188,
-        "imdb_id": "tt0045049"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1952",
-    "nominees": [
-      "Edna",
-      "Edward Anhalt"
-    ],
-    "movies": [
-      {
-        "title": "The Sniper",
-        "tmdb_id": 25551,
-        "imdb_id": "tt0045161"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1952",
-    "nominees": [
-      "Dimitri Tiomkin"
-    ],
-    "movies": [
-      {
-        "title": "High Noon",
-        "tmdb_id": 288,
-        "imdb_id": "tt0044706"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1952",
-    "nominees": [
-      "Miklos Rozsa"
-    ],
-    "movies": [
-      {
-        "title": "Ivanhoe",
-        "tmdb_id": 26175,
-        "imdb_id": "tt0044760"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1952",
-    "nominees": [
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "The Miracle of Our Lady of Fatima",
-        "tmdb_id": 49616,
-        "imdb_id": "tt0044905"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1952",
-    "nominees": [
-      "Herschel Burke Gilbert"
-    ],
-    "movies": [
-      {
-        "title": "The Thief",
-        "tmdb_id": 38417,
-        "imdb_id": "tt0045230"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1952",
-    "nominees": [
-      "Alex North"
-    ],
-    "movies": [
-      {
-        "title": "Viva Zapata!",
-        "tmdb_id": 1810,
-        "imdb_id": "tt0045296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1952",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "With a Song in My Heart",
-        "tmdb_id": 65787,
-        "imdb_id": "tt0045333"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1952",
-    "nominees": [
-      "Walter Scharf"
-    ],
-    "movies": [
-      {
-        "title": "Hans Christian Andersen",
-        "tmdb_id": 16618,
-        "imdb_id": "tt0044685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1952",
-    "nominees": [
-      "Ray Heindorf",
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "The Jazz Singer",
-        "tmdb_id": 216925,
-        "imdb_id": "tt0044765"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1952",
-    "nominees": [
-      "Gian-Carlo Menotti"
-    ],
-    "movies": [
-      {
-        "title": "The Medium",
-        "tmdb_id": 194290,
-        "imdb_id": "tt0043794"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1952",
-    "nominees": [
-      "Lennie Hayton"
-    ],
-    "movies": [
-      {
-        "title": "Singin' in the Rain",
-        "tmdb_id": 872,
-        "imdb_id": "tt0045152"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1952",
-    "nominees": [
-      "High Noon (Do Not Forsake Me",
-      "Oh My Darlin')"
-    ],
-    "movies": [
-      {
-        "title": "High Noon",
-        "tmdb_id": 288,
-        "imdb_id": "tt0044706"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1952",
-    "nominees": [
-      "Am I in Love"
-    ],
-    "movies": [
-      {
-        "title": "Son of Paleface",
-        "tmdb_id": 30801,
-        "imdb_id": "tt0045177"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1952",
-    "nominees": [
-      "Because You're Mine"
-    ],
-    "movies": [
-      {
-        "title": "Because You're Mine",
-        "tmdb_id": 184802,
-        "imdb_id": "tt0044402"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1952",
-    "nominees": [
-      "Thumbelina"
-    ],
-    "movies": [
-      {
-        "title": "Hans Christian Andersen",
-        "tmdb_id": 16618,
-        "imdb_id": "tt0044685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1952",
-    "nominees": [
-      "Zing a Little Zong"
-    ],
-    "movies": [
-      {
-        "title": "Just for You",
-        "tmdb_id": 46014,
-        "imdb_id": "tt0044782"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1952",
-    "nominees": [
-      "Forbidden Games"
-    ],
-    "movies": [
-      {
-        "title": "Forbidden Games",
-        "tmdb_id": 5000,
-        "imdb_id": "tt0043686"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1952",
-    "nominees": [
-      "The Sea Around Us"
-    ],
-    "movies": [
-      {
-        "title": "The Sea Around Us",
-        "tmdb_id": 104989,
-        "imdb_id": "tt0044009"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1952",
-    "nominees": [
-      "The Hoaxters"
-    ],
-    "movies": [
-      {
-        "title": "The Hoaxters",
-        "tmdb_id": 149256,
-        "imdb_id": "tt0044713"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1952",
-    "nominees": [
-      "Navajo"
-    ],
-    "movies": [
-      {
-        "title": "Navajo",
-        "tmdb_id": 149258,
-        "imdb_id": "tt0044955"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1952",
-    "nominees": [
-      "Neighbours"
-    ],
-    "movies": [
-      {
-        "title": "Neighbours",
-        "tmdb_id": 51406,
-        "imdb_id": "tt0044958"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1952",
-    "nominees": [
-      "Devil Take Us"
-    ],
-    "movies": [
-      {
-        "title": "Devil Take Us",
-        "tmdb_id": 242985,
-        "imdb_id": "tt0044548"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1952",
-    "nominees": [
-      "The Garden Spider"
-    ],
-    "movies": [
-      {
-        "title": "The Garden Spider",
-        "tmdb_id": 242997,
-        "imdb_id": "tt0044590"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1952",
-    "nominees": [
-      "Man Alive!"
-    ],
-    "movies": [
-      {
-        "title": "Man Alive!",
-        "tmdb_id": 243000,
-        "imdb_id": "tt0044870"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1952",
-    "nominees": [
-      "Johann Mouse"
-    ],
-    "movies": [
-      {
-        "title": "Johann Mouse",
-        "tmdb_id": 68986,
-        "imdb_id": "tt0045937"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1952",
-    "nominees": [
-      "Little Johnny Jet"
-    ],
-    "movies": [
-      {
-        "title": "Little Johnny Jet",
-        "tmdb_id": 84899,
-        "imdb_id": "tt0046005"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1952",
-    "nominees": [
-      "Madeline"
-    ],
-    "movies": [
-      {
-        "title": "Madeline",
-        "tmdb_id": 242994,
-        "imdb_id": "tt0044865"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1952",
-    "nominees": [
-      "Pink and Blue Blues"
-    ],
-    "movies": [
-      {
-        "title": "Pink and Blue Blues",
-        "tmdb_id": 242995,
-        "imdb_id": "tt0045033"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1952",
-    "nominees": [
-      "The Romance of Transportation in Canada"
-    ],
-    "movies": [
-      {
-        "title": "The Romance of Transportation in Canada",
-        "tmdb_id": 242996,
-        "imdb_id": "tt0045100"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1952",
-    "nominees": [
-      "Light in the Window: The Art of Vermeer"
-    ],
-    "movies": [
-      {
-        "title": "Light in the Window: The Art of Vermeer",
-        "tmdb_id": 242989,
-        "imdb_id": "tt0044836"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1952",
-    "nominees": [
-      "Athletes of the Saddle"
-    ],
-    "movies": [
-      {
-        "title": "Athletes of the Saddle",
-        "tmdb_id": 242990,
-        "imdb_id": "tt0044381"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1952",
-    "nominees": [
-      "Desert Killer"
-    ],
-    "movies": [
-      {
-        "title": "Desert Killer",
-        "tmdb_id": 179207,
-        "imdb_id": "tt0044539"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1952",
-    "nominees": [
-      "Neighbours"
-    ],
-    "movies": [
-      {
-        "title": "Neighbours",
-        "tmdb_id": 51406,
-        "imdb_id": "tt0044958"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1952",
-    "nominees": [
-      "Royal Scotland"
-    ],
-    "movies": [
-      {
-        "title": "Royal Scotland",
-        "tmdb_id": 242991,
-        "imdb_id": "tt0045108"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1952",
-    "nominees": [
-      "Water Birds"
-    ],
-    "movies": [
-      {
-        "title": "Water Birds",
-        "tmdb_id": 179184,
-        "imdb_id": "tt0045314"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1952",
-    "nominees": [
-      "Bridge of Time"
-    ],
-    "movies": [
-      {
-        "title": "Bridge of Time",
-        "tmdb_id": 242984,
-        "imdb_id": "tt0044447"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1952",
-    "nominees": [
-      "Devil Take Us"
-    ],
-    "movies": [
-      {
-        "title": "Devil Take Us",
-        "tmdb_id": 242985,
-        "imdb_id": "tt0044548"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1952",
-    "nominees": [
-      "Thar She Blows!"
-    ],
-    "movies": [
-      {
-        "title": "Thar She Blows!",
-        "tmdb_id": 242988,
-        "imdb_id": "tt0045228"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Edward Carfagno",
-      "Cedric Gibbons",
-      "Keogh Gleason",
-      "Edwin B. Willis"
-    ],
-    "movies": [
-      {
-        "title": "The Bad and the Beautiful",
-        "tmdb_id": 32499,
-        "imdb_id": "tt0044391"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Hal Pereira",
-      "Roland Anderson",
-      "Emile Kuri"
-    ],
-    "movies": [
-      {
-        "title": "Carrie",
-        "tmdb_id": 43358,
-        "imdb_id": "tt0044486"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Lyle Wheeler",
-      "John DeCuir",
-      "Walter M. Scott"
-    ],
-    "movies": [
-      {
-        "title": "My Cousin Rachel",
-        "tmdb_id": 94529,
-        "imdb_id": "tt0044937"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "So Matsuyama",
-      "H. Matsumoto"
-    ],
-    "movies": [
-      {
-        "title": "Rashomon",
-        "tmdb_id": 548,
-        "imdb_id": "tt0042876"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Lyle Wheeler",
-      "Leland Fuller",
-      "Claude Carpenter",
-      "Thomas Little"
-    ],
-    "movies": [
-      {
-        "title": "Viva Zapata!",
-        "tmdb_id": 1810,
-        "imdb_id": "tt0045296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Marcel Vertes",
-      "Paul Sheriff"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge",
-        "tmdb_id": 10910,
-        "imdb_id": "tt0044926"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Richard Day",
-      "Clave",
-      "Howard Bristol"
-    ],
-    "movies": [
-      {
-        "title": "Hans Christian Andersen",
-        "tmdb_id": 16618,
-        "imdb_id": "tt0044685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Cedric Gibbons",
-      "Paul Groesse",
-      "Arthur Krams",
-      "Edwin B. Willis"
-    ],
-    "movies": [
-      {
-        "title": "The Merry Widow",
-        "tmdb_id": 185197,
-        "imdb_id": "tt0044900"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Frank Hotaling",
-      "John McCarthy Jr.",
-      "Charles S. Thompson"
-    ],
-    "movies": [
-      {
-        "title": "The Quiet Man",
-        "tmdb_id": 3109,
-        "imdb_id": "tt0045061"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Lyle Wheeler",
-      "John DeCuir",
-      "Paul S. Fox",
-      "Thomas Little"
-    ],
-    "movies": [
-      {
-        "title": "The Snows of Kilimanjaro",
-        "tmdb_id": 4460,
-        "imdb_id": "tt0045162"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Robert Surtees"
-    ],
-    "movies": [
-      {
-        "title": "The Bad and the Beautiful",
-        "tmdb_id": 32499,
-        "imdb_id": "tt0044391"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Russell Harlan"
-    ],
-    "movies": [
-      {
-        "title": "The Big Sky",
-        "tmdb_id": 43367,
-        "imdb_id": "tt0044419"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Joseph LaShelle"
-    ],
-    "movies": [
-      {
-        "title": "My Cousin Rachel",
-        "tmdb_id": 94529,
-        "imdb_id": "tt0044937"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Virgil Miller"
-    ],
-    "movies": [
-      {
-        "title": "Navajo",
-        "tmdb_id": 149258,
-        "imdb_id": "tt0044955"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Charles Lang Jr."
-    ],
-    "movies": [
-      {
-        "title": "Sudden Fear",
-        "tmdb_id": 19171,
-        "imdb_id": "tt0045205"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1952",
-    "nominees": [
-      "Winton Hoch",
-      "Archie Stout"
-    ],
-    "movies": [
-      {
-        "title": "The Quiet Man",
-        "tmdb_id": 3109,
-        "imdb_id": "tt0045061"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1952",
-    "nominees": [
-      "Harry Stradling"
-    ],
-    "movies": [
-      {
-        "title": "Hans Christian Andersen",
-        "tmdb_id": 16618,
-        "imdb_id": "tt0044685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1952",
-    "nominees": [
-      "F. A. Young"
-    ],
-    "movies": [
-      {
-        "title": "Ivanhoe",
-        "tmdb_id": 26175,
-        "imdb_id": "tt0044760"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1952",
-    "nominees": [
-      "George J. Folsey"
-    ],
-    "movies": [
-      {
-        "title": "Million Dollar Mermaid",
-        "tmdb_id": 43189,
-        "imdb_id": "tt0044903"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1952",
-    "nominees": [
-      "Leon Shamroy"
-    ],
-    "movies": [
-      {
-        "title": "The Snows of Kilimanjaro",
-        "tmdb_id": 4460,
-        "imdb_id": "tt0045162"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1952",
-    "nominees": [
-      "Elmo Williams",
-      "Harry Gerstad"
-    ],
-    "movies": [
-      {
-        "title": "High Noon",
-        "tmdb_id": 288,
-        "imdb_id": "tt0044706"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1952",
-    "nominees": [
-      "Warren Low"
-    ],
-    "movies": [
-      {
-        "title": "Come Back, Little Sheba",
-        "tmdb_id": 84214,
-        "imdb_id": "tt0044509"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1952",
-    "nominees": [
-      "William Austin"
-    ],
-    "movies": [
-      {
-        "title": "Flat Top",
-        "tmdb_id": 71243,
-        "imdb_id": "tt0044621"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1952",
-    "nominees": [
-      "Anne Bauchens"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Show on Earth",
-        "tmdb_id": 27191,
-        "imdb_id": "tt0044672"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1952",
-    "nominees": [
-      "Ralph Kemplen"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge",
-        "tmdb_id": 10910,
-        "imdb_id": "tt0044926"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1952",
-    "nominees": [
-      "Metro Goldwyn Mayer Studio"
-    ],
-    "movies": [
-      {
-        "title": "Plymouth Adventure",
-        "tmdb_id": 90968,
-        "imdb_id": "tt0045039"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1952",
-    "nominees": [
-      "London Films Sound Department"
-    ],
-    "movies": [
-      {
-        "title": "The Sound Barrier",
-        "tmdb_id": 51619,
-        "imdb_id": "tt0044446"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1952",
-    "nominees": [
-      "Pinewood Studios Sound Department"
-    ],
-    "movies": [
-      {
-        "title": "The Card",
-        "tmdb_id": 43369,
-        "imdb_id": "tt0045056"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1952",
-    "nominees": [
-      "Gordon E. Sawyer"
-    ],
-    "movies": [
-      {
-        "title": "Hans Christian Andersen",
-        "tmdb_id": 16618,
-        "imdb_id": "tt0044685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1952",
-    "nominees": [
-      "Daniel J. Bloomberg"
-    ],
-    "movies": [
-      {
-        "title": "The Quiet Man",
-        "tmdb_id": 3109,
-        "imdb_id": "tt0045061"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1952",
-    "nominees": [
-      "Thomas T. Moulton"
-    ],
-    "movies": [
-      {
-        "title": "With a Song in My Heart",
-        "tmdb_id": 65787,
-        "imdb_id": "tt0045333"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Helen Rose"
-    ],
-    "movies": [
-      {
-        "title": "The Bad and the Beautiful",
-        "tmdb_id": 32499,
-        "imdb_id": "tt0044391"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Jean Louis"
-    ],
-    "movies": [
-      {
-        "title": "Affair in Trinidad",
-        "tmdb_id": 61430,
-        "imdb_id": "tt0044331"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Edith Head"
-    ],
-    "movies": [
-      {
-        "title": "Carrie",
-        "tmdb_id": 43358,
-        "imdb_id": "tt0044486"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Charles LeMaire",
-      "Dorothy Jeakins"
-    ],
-    "movies": [
-      {
-        "title": "My Cousin Rachel",
-        "tmdb_id": 94529,
-        "imdb_id": "tt0044937"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1952",
-    "nominees": [
-      "Sheila O'Brien"
-    ],
-    "movies": [
-      {
-        "title": "Sudden Fear",
-        "tmdb_id": 19171,
-        "imdb_id": "tt0045205"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Marcel Vertes"
-    ],
-    "movies": [
-      {
-        "title": "Moulin Rouge",
-        "tmdb_id": 10910,
-        "imdb_id": "tt0044926"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Edith Head",
-      "Dorothy Jeakins",
-      "Miles White"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Show on Earth",
-        "tmdb_id": 27191,
-        "imdb_id": "tt0044672"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Antoni Clave",
-      "Mary Wills",
-      "Barbara Karinska"
-    ],
-    "movies": [
-      {
-        "title": "Hans Christian Andersen",
-        "tmdb_id": 16618,
-        "imdb_id": "tt0044685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Helen Rose",
-      "Gile Steele"
-    ],
-    "movies": [
-      {
-        "title": "The Merry Widow",
-        "tmdb_id": 185197,
-        "imdb_id": "tt0044900"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1952",
-    "nominees": [
-      "Charles Lemaire"
-    ],
-    "movies": [
-      {
-        "title": "With a Song in My Heart",
-        "tmdb_id": 65787,
-        "imdb_id": "tt0045333"
-      }
-    ],
-    "won": false
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Viva Zapata!",
+    "FilmId": "tt0045296",
+    "Name": "Marlon Brando",
+    "Nominees": "Marlon Brando",
+    "NomineeIds": "nm0000008",
+    "Winner": "",
+    "Detail": "Emiliano Zapata",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "High Noon",
+    "FilmId": "tt0044706",
+    "Name": "Gary Cooper",
+    "Nominees": "Gary Cooper",
+    "NomineeIds": "nm0000011",
+    "Winner": "True",
+    "Detail": "Will Kane",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Bad and the Beautiful",
+    "FilmId": "tt0044391",
+    "Name": "Kirk Douglas",
+    "Nominees": "Kirk Douglas",
+    "NomineeIds": "nm0000018",
+    "Winner": "",
+    "Detail": "Jonathan Shields",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0044926",
+    "Name": "José Ferrer",
+    "Nominees": "José Ferrer",
+    "NomineeIds": "nm0001207",
+    "Winner": "",
+    "Detail": "Toulouse-Lautrec",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Lavender Hill Mob",
+    "FilmId": "tt0044829",
+    "Name": "Alec Guinness",
+    "Nominees": "Alec Guinness",
+    "NomineeIds": "nm0000027",
+    "Winner": "",
+    "Detail": "Holland",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "My Cousin Rachel",
+    "FilmId": "tt0044937",
+    "Name": "Richard Burton",
+    "Nominees": "Richard Burton",
+    "NomineeIds": "nm0000009",
+    "Winner": "",
+    "Detail": "Philip Ashley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Big Sky",
+    "FilmId": "tt0044419",
+    "Name": "Arthur Hunnicutt",
+    "Nominees": "Arthur Hunnicutt",
+    "NomineeIds": "nm0402277",
+    "Winner": "",
+    "Detail": "Zeb Callaway",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Quiet Man",
+    "FilmId": "tt0045061",
+    "Name": "Victor McLaglen",
+    "Nominees": "Victor McLaglen",
+    "NomineeIds": "nm0572142",
+    "Winner": "",
+    "Detail": "Red Will Danaher",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Sudden Fear",
+    "FilmId": "tt0045205",
+    "Name": "Jack Palance",
+    "Nominees": "Jack Palance",
+    "NomineeIds": "nm0001588",
+    "Winner": "",
+    "Detail": "Lester Blaine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Viva Zapata!",
+    "FilmId": "tt0045296",
+    "Name": "Anthony Quinn",
+    "Nominees": "Anthony Quinn",
+    "NomineeIds": "nm0000063",
+    "Winner": "True",
+    "Detail": "Eufemio Zapata",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Come Back, Little Sheba",
+    "FilmId": "tt0044509",
+    "Name": "Shirley Booth",
+    "Nominees": "Shirley Booth",
+    "NomineeIds": "nm0095804",
+    "Winner": "True",
+    "Detail": "Lola Delaney",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Sudden Fear",
+    "FilmId": "tt0045205",
+    "Name": "Joan Crawford",
+    "Nominees": "Joan Crawford",
+    "NomineeIds": "nm0001076",
+    "Winner": "",
+    "Detail": "Myra Hudson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Star",
+    "FilmId": "tt0045186",
+    "Name": "Bette Davis",
+    "Nominees": "Bette Davis",
+    "NomineeIds": "nm0000012",
+    "Winner": "",
+    "Detail": "Margaret Elliot",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Member of the Wedding",
+    "FilmId": "tt0044896",
+    "Name": "Julie Harris",
+    "Nominees": "Julie Harris",
+    "NomineeIds": "nm0364915",
+    "Winner": "",
+    "Detail": "Frankie Addams",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "With a Song in My Heart",
+    "FilmId": "tt0045333",
+    "Name": "Susan Hayward",
+    "Nominees": "Susan Hayward",
+    "NomineeIds": "nm0001333",
+    "Winner": "",
+    "Detail": "Jane Froman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Bad and the Beautiful",
+    "FilmId": "tt0044391",
+    "Name": "Gloria Grahame",
+    "Nominees": "Gloria Grahame",
+    "NomineeIds": "nm0002108",
+    "Winner": "True",
+    "Detail": "Rosemary Bartlow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Singin' in the Rain",
+    "FilmId": "tt0045152",
+    "Name": "Jean Hagen",
+    "Nominees": "Jean Hagen",
+    "NomineeIds": "nm0353405",
+    "Winner": "",
+    "Detail": "Lina Lamont",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0044926",
+    "Name": "Colette Marchand",
+    "Nominees": "Colette Marchand",
+    "NomineeIds": "nm0545376",
+    "Winner": "",
+    "Detail": "Marie Charlet",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Come Back, Little Sheba",
+    "FilmId": "tt0044509",
+    "Name": "Terry Moore",
+    "Nominees": "Terry Moore",
+    "NomineeIds": "nm0601930",
+    "Winner": "",
+    "Detail": "Marie Loring",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "With a Song in My Heart",
+    "FilmId": "tt0045333",
+    "Name": "Thelma Ritter",
+    "Nominees": "Thelma Ritter",
+    "NomineeIds": "nm0728812",
+    "Winner": "",
+    "Detail": "Clancy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Bad and the Beautiful",
+    "FilmId": "tt0044391",
+    "Name": "Art Direction: Cedric Gibbons, Edward Carfagno; Set Decoration: Edwin B. Willis, Keogh Gleason",
+    "Nominees": "Cedric Gibbons|Edward Carfagno|Edwin B. Willis|Keogh Gleason",
+    "NomineeIds": "nm0316539|nm0137063|nm0932320|nm0322294",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Carrie",
+    "FilmId": "tt0044486",
+    "Name": "Art Direction: Hal Pereira, Roland Anderson; Set Decoration: Emile Kuri",
+    "Nominees": "Hal Pereira|Roland Anderson|Emile Kuri",
+    "NomineeIds": "nm0673134|nm0027380|nm0475689",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "My Cousin Rachel",
+    "FilmId": "tt0044937",
+    "Name": "Art Direction: Lyle Wheeler, John DeCuir; Set Decoration: Walter M. Scott",
+    "Nominees": "Lyle Wheeler|John DeCuir|Walter M. Scott",
+    "NomineeIds": "nm0923907|nm0214043|nm0779898",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Rashomon",
+    "FilmId": "tt0042876",
+    "Name": "Art Direction: Matsuyama; Set Decoration: H. Motsumoto",
+    "Nominees": "Matsuyama|H. Motsumoto",
+    "NomineeIds": "nm0559688|nm0609442",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Viva Zapata!",
+    "FilmId": "tt0045296",
+    "Name": "Art Direction: Lyle Wheeler, Leland Fuller; Set Decoration: Thomas Little, Claude Carpenter",
+    "Nominees": "Lyle Wheeler|Leland Fuller|Thomas Little|Claude Carpenter",
+    "NomineeIds": "nm0923907|nm0298285|nm0514673|nm0139304",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Hans Christian Andersen",
+    "FilmId": "tt0044685",
+    "Name": "Art Direction: Richard Day, Clave; Set Decoration: Howard Bristol",
+    "Nominees": "Richard Day|Clave|Howard Bristol",
+    "NomineeIds": "nm0206554|nm0165385|nm0109924",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Merry Widow",
+    "FilmId": "tt0044900",
+    "Name": "Art Direction: Cedric Gibbons, Paul Groesse; Set Decoration: Edwin B. Willis, Arthur Krams",
+    "Nominees": "Cedric Gibbons|Paul Groesse|Edwin B. Willis|Arthur Krams",
+    "NomineeIds": "nm0316539|nm0342904|nm0932320|nm0469735",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0044926",
+    "Name": "Art Direction: Paul Sheriff; Set Decoration: Marcel Vertes",
+    "Nominees": "Paul Sheriff|Marcel Vertes",
+    "NomineeIds": "nm0792293|nm0895057",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Quiet Man",
+    "FilmId": "tt0045061",
+    "Name": "Art Direction: Frank Hotaling; Set Decoration: John McCarthy, Jr., Charles Thompson",
+    "Nominees": "Frank Hotaling|John McCarthy Jr.|Charles Thompson",
+    "NomineeIds": "nm0396208|nm0565042|nm0859962",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Snows of Kilimanjaro",
+    "FilmId": "tt0045162",
+    "Name": "Art Direction: Lyle Wheeler, John DeCuir; Set Decoration: Thomas Little, Paul S. Fox",
+    "Nominees": "Lyle Wheeler|John DeCuir|Thomas Little|Paul S. Fox",
+    "NomineeIds": "nm0923907|nm0214043|nm0514673|nm0289189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Bad and the Beautiful",
+    "FilmId": "tt0044391",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Big Sky",
+    "FilmId": "tt0044419",
+    "Name": "Russell Harlan",
+    "Nominees": "Russell Harlan",
+    "NomineeIds": "nm0005737",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "My Cousin Rachel",
+    "FilmId": "tt0044937",
+    "Name": "Joseph LaShelle",
+    "Nominees": "Joseph LaShelle",
+    "NomineeIds": "nm0005766",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Navajo",
+    "FilmId": "tt0044955",
+    "Name": "Virgil E. Miller",
+    "Nominees": "Virgil E. Miller",
+    "NomineeIds": "nm0589489",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Sudden Fear",
+    "FilmId": "tt0045205",
+    "Name": "Charles B. Lang, Jr.",
+    "Nominees": "Charles B. Lang Jr.",
+    "NomineeIds": "nm0485702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Hans Christian Andersen",
+    "FilmId": "tt0044685",
+    "Name": "Harry Stradling",
+    "Nominees": "Harry Stradling",
+    "NomineeIds": "nm0005889",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Ivanhoe",
+    "FilmId": "tt0044760",
+    "Name": "F. A. Young",
+    "Nominees": "F. A. Young",
+    "NomineeIds": "nm0002875",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Million Dollar Mermaid",
+    "FilmId": "tt0044903",
+    "Name": "George J. Folsey",
+    "Nominees": "George J. Folsey",
+    "NomineeIds": "nm0005706",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Quiet Man",
+    "FilmId": "tt0045061",
+    "Name": "Winton C. Hoch, Archie Stout",
+    "Nominees": "Winton C. Hoch|Archie Stout",
+    "NomineeIds": "nm0005743|nm0005887",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Snows of Kilimanjaro",
+    "FilmId": "tt0045162",
+    "Name": "Leon Shamroy",
+    "Nominees": "Leon Shamroy",
+    "NomineeIds": "nm0005872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Affair in Trinidad",
+    "FilmId": "tt0044331",
+    "Name": "Jean Louis",
+    "Nominees": "Jean Louis",
+    "NomineeIds": "nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Bad and the Beautiful",
+    "FilmId": "tt0044391",
+    "Name": "Helen Rose",
+    "Nominees": "Helen Rose",
+    "NomineeIds": "nm0741423",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Carrie",
+    "FilmId": "tt0044486",
+    "Name": "Edith Head",
+    "Nominees": "Edith Head",
+    "NomineeIds": "nm0372128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "My Cousin Rachel",
+    "FilmId": "tt0044937",
+    "Name": "Charles LeMaire, Dorothy Jeakins",
+    "Nominees": "Charles LeMaire|Dorothy Jeakins",
+    "NomineeIds": "nm0494406|nm0419820",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Sudden Fear",
+    "FilmId": "tt0045205",
+    "Name": "Sheila O'Brien",
+    "Nominees": "Sheila O'Brien",
+    "NomineeIds": "nm0639816",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Greatest Show on Earth",
+    "FilmId": "tt0044672",
+    "Name": "Edith Head, Dorothy Jeakins, Miles White",
+    "Nominees": "Edith Head|Dorothy Jeakins|Miles White",
+    "NomineeIds": "nm0372128|nm0419820|nm0925240",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Hans Christian Andersen",
+    "FilmId": "tt0044685",
+    "Name": "Clave, Mary Wills, Madame Karinska",
+    "Nominees": "Clave|Mary Wills|Madame Karinska",
+    "NomineeIds": "nm0165385|nm0932683|nm0439362",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Merry Widow",
+    "FilmId": "tt0044900",
+    "Name": "Helen Rose, Gile Steele",
+    "Nominees": "Helen Rose|Gile Steele",
+    "NomineeIds": "nm0741423|nm0824554",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0044926",
+    "Name": "Marcel Vertes",
+    "Nominees": "Marcel Vertes",
+    "NomineeIds": "nm0895057",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "With a Song in My Heart",
+    "FilmId": "tt0045333",
+    "Name": "Charles LeMaire",
+    "Nominees": "Charles LeMaire",
+    "NomineeIds": "nm0494406",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Five Fingers",
+    "FilmId": "tt0044314",
+    "Name": "Joseph L. Mankiewicz",
+    "Nominees": "Joseph L. Mankiewicz",
+    "NomineeIds": "nm0000581",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Greatest Show on Earth",
+    "FilmId": "tt0044672",
+    "Name": "Cecil B. DeMille",
+    "Nominees": "Cecil B. DeMille",
+    "NomineeIds": "nm0001124",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "High Noon",
+    "FilmId": "tt0044706",
+    "Name": "Fred Zinnemann",
+    "Nominees": "Fred Zinnemann",
+    "NomineeIds": "nm0003593",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0044926",
+    "Name": "John Huston",
+    "Nominees": "John Huston",
+    "NomineeIds": "nm0001379",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Quiet Man",
+    "FilmId": "tt0045061",
+    "Name": "John Ford",
+    "Nominees": "John Ford",
+    "NomineeIds": "nm0000406",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Hoaxters",
+    "FilmId": "tt0044713",
+    "Name": "Dore Schary, Producer",
+    "Nominees": "Dore Schary",
+    "NomineeIds": "nm0770196",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Navajo",
+    "FilmId": "tt0044955",
+    "Name": "Hall Bartlett, Producer",
+    "Nominees": "Hall Bartlett",
+    "NomineeIds": "nm0058826",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Sea around Us",
+    "FilmId": "tt0044009",
+    "Name": "Irwin Allen, Producer",
+    "Nominees": "Irwin Allen",
+    "NomineeIds": "nm0000740",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Devil Take Us",
+    "FilmId": "tt0044548",
+    "Name": "Herbert Morgan, Producer",
+    "Nominees": "Herbert Morgan",
+    "NomineeIds": "nm0604712",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Garden Spider (Epeira Diadema)",
+    "FilmId": "tt0044590",
+    "Name": "Alberto Ancilotto, Producer",
+    "Nominees": "Alberto Ancilotto",
+    "NomineeIds": "nm0025832",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Man Alive!",
+    "FilmId": "tt0044870",
+    "Name": "Stephen Bosustow, Executive Producer",
+    "Nominees": "Stephen Bosustow",
+    "NomineeIds": "nm0098322",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Neighbours",
+    "FilmId": "tt0044958",
+    "Name": "Norman McLaren, Producer",
+    "Nominees": "Norman McLaren",
+    "NomineeIds": "nm0572235",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Come Back, Little Sheba",
+    "FilmId": "tt0044509",
+    "Name": "Warren Low",
+    "Nominees": "Warren Low",
+    "NomineeIds": "nm0522848",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Flat Top",
+    "FilmId": "tt0044621",
+    "Name": "William Austin",
+    "Nominees": "William Austin",
+    "NomineeIds": "nm0042553",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Greatest Show on Earth",
+    "FilmId": "tt0044672",
+    "Name": "Anne Bauchens",
+    "Nominees": "Anne Bauchens",
+    "NomineeIds": "nm0061640",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "High Noon",
+    "FilmId": "tt0044706",
+    "Name": "Elmo Williams, Harry Gerstad",
+    "Nominees": "Elmo Williams|Harry Gerstad",
+    "NomineeIds": "nm0930536|nm0314899",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0044926",
+    "Name": "Ralph Kemplen",
+    "Nominees": "Ralph Kemplen",
+    "NomineeIds": "nm0447469",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "High Noon",
+    "FilmId": "tt0044706",
+    "Name": "Dimitri Tiomkin",
+    "Nominees": "Dimitri Tiomkin",
+    "NomineeIds": "nm0006323",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Ivanhoe",
+    "FilmId": "tt0044760",
+    "Name": "Miklos Rozsa",
+    "Nominees": "Miklos Rozsa",
+    "NomineeIds": "nm0000067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Miracle of Fatima",
+    "FilmId": "tt0044905",
+    "Name": "Max Steiner",
+    "Nominees": "Max Steiner",
+    "NomineeIds": "nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Thief",
+    "FilmId": "tt0045230",
+    "Name": "Herschel Burke Gilbert",
+    "Nominees": "Herschel Burke Gilbert",
+    "NomineeIds": "nm0318074",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Viva Zapata!",
+    "FilmId": "tt0045296",
+    "Name": "Alex North",
+    "Nominees": "Alex North",
+    "NomineeIds": "nm0006218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Hans Christian Andersen",
+    "FilmId": "tt0044685",
+    "Name": "Walter Scharf",
+    "Nominees": "Walter Scharf",
+    "NomineeIds": "nm0770127",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "The Jazz Singer",
+    "FilmId": "tt0044765",
+    "Name": "Ray Heindorf, Max Steiner",
+    "Nominees": "Ray Heindorf|Max Steiner",
+    "NomineeIds": "nm0006127|nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "The Medium",
+    "FilmId": "tt0043794",
+    "Name": "Gian-Carlo Menotti",
+    "Nominees": "Gian-Carlo Menotti",
+    "NomineeIds": "nm0579781",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Singin' in the Rain",
+    "FilmId": "tt0045152",
+    "Name": "Lennie Hayton",
+    "Nominees": "Lennie Hayton",
+    "NomineeIds": "nm0006125",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "With a Song in My Heart",
+    "FilmId": "tt0045333",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Son of Paleface",
+    "FilmId": "tt0045177",
+    "Name": "Music and Lyrics by Jack Brooks",
+    "Nominees": "Jack Brooks",
+    "NomineeIds": "nm0112032",
+    "Winner": "",
+    "Detail": "Am I In Love",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Because You're Mine",
+    "FilmId": "tt0044402",
+    "Name": "Music by Nicholas Brodszky; Lyrics by Sammy Cahn",
+    "Nominees": "Nicholas Brodszky|Sammy Cahn",
+    "NomineeIds": "nm0111004|nm0005991",
+    "Winner": "",
+    "Detail": "Because You're Mine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "High Noon",
+    "FilmId": "tt0044706",
+    "Name": "Music by Dimitri Tiomkin; Lyrics by Ned Washington",
+    "Nominees": "Dimitri Tiomkin|Ned Washington",
+    "NomineeIds": "nm0006323|nm0913513",
+    "Winner": "True",
+    "Detail": "High Noon (Do Not Forsake Me, Oh My Darlin')",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Hans Christian Andersen",
+    "FilmId": "tt0044685",
+    "Name": "Music and Lyrics by Frank Loesser",
+    "Nominees": "Frank Loesser",
+    "NomineeIds": "nm0004230",
+    "Winner": "",
+    "Detail": "Thumbelina",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Just for You",
+    "FilmId": "tt0044782",
+    "Name": "Music by Harry Warren; Lyrics by Leo Robin",
+    "Nominees": "Harry Warren|Leo Robin",
+    "NomineeIds": "nm0912851|nm0732209",
+    "Winner": "",
+    "Detail": "Zing A Little Zong",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Greatest Show on Earth",
+    "FilmId": "tt0044672",
+    "Name": "Cecil B. DeMille, Producer",
+    "Nominees": "Cecil B. DeMille",
+    "NomineeIds": "nm0001124",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "High Noon",
+    "FilmId": "tt0044706",
+    "Name": "Stanley Kramer, Producer",
+    "Nominees": "Stanley Kramer",
+    "NomineeIds": "nm0006452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Ivanhoe",
+    "FilmId": "tt0044760",
+    "Name": "Pandro S. Berman, Producer",
+    "Nominees": "Pandro S. Berman",
+    "NomineeIds": "nm0075825",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Moulin Rouge",
+    "FilmId": "tt0044926",
+    "Name": "Romulus Films",
+    "Nominees": "Romulus Films",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Quiet Man",
+    "FilmId": "tt0045061",
+    "Name": "John Ford and Merian C. Cooper, Producers",
+    "Nominees": "John Ford|Merian C. Cooper",
+    "NomineeIds": "nm0000406|nm0178260",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Johann Mouse",
+    "FilmId": "tt0045937",
+    "Name": "Fred Quimby, Producer",
+    "Nominees": "Fred Quimby",
+    "NomineeIds": "nm0703642",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Little Johnny Jet",
+    "FilmId": "tt0046005",
+    "Name": "Fred Quimby, Producer",
+    "Nominees": "Fred Quimby",
+    "NomineeIds": "nm0703642",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Madeline",
+    "FilmId": "tt0044865",
+    "Name": "Stephen Bosustow, Executive Producer",
+    "Nominees": "Stephen Bosustow",
+    "NomineeIds": "nm0098322",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Pink and Blue Blues",
+    "FilmId": "tt0045033",
+    "Name": "Stephen Bosustow, Executive Producer",
+    "Nominees": "Stephen Bosustow",
+    "NomineeIds": "nm0098322",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Romance of Transportation",
+    "FilmId": "tt0045100",
+    "Name": "Tom Daly, Producer",
+    "Nominees": "Tom Daly",
+    "NomineeIds": "nm0198514",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Athletes of the Saddle",
+    "FilmId": "tt0044381",
+    "Name": "Jack Eaton, Producer",
+    "Nominees": "Jack Eaton",
+    "NomineeIds": "nm0247827",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Desert Killer",
+    "FilmId": "tt0044539",
+    "Name": "Gordon Hollingshead, Producer",
+    "Nominees": "Gordon Hollingshead",
+    "NomineeIds": "nm0391121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Light in the Window: The Art of Vermeer",
+    "FilmId": "tt0044836",
+    "Name": "Boris Vermont, Producer",
+    "Nominees": "Boris Vermont",
+    "NomineeIds": "nm0894453",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Neighbours",
+    "FilmId": "tt0044958",
+    "Name": "Norman McLaren, Producer",
+    "Nominees": "Norman McLaren",
+    "NomineeIds": "nm0572235",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Royal Scotland",
+    "FilmId": "tt0045108",
+    "Name": "Crown Film Unit",
+    "Nominees": "Crown Film Unit",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Bridge of Time",
+    "FilmId": "tt0044447",
+    "Name": "London Film Production",
+    "Nominees": "London Film Production",
+    "NomineeIds": "co0053636",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Devil Take Us",
+    "FilmId": "tt0044548",
+    "Name": "Herbert Morgan, Producer",
+    "Nominees": "Herbert Morgan",
+    "NomineeIds": "nm0604712",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Thar She Blows!",
+    "FilmId": "tt0045228",
+    "Name": "Gordon Hollingshead, Producer",
+    "Nominees": "Gordon Hollingshead",
+    "NomineeIds": "nm0391121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Water Birds",
+    "FilmId": "tt0045314",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Breaking the Sound Barrier",
+    "FilmId": "tt0044446",
+    "Name": "London Film Sound Department",
+    "Nominees": "London Film",
+    "NomineeIds": "co0053636",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Hans Christian Andersen",
+    "FilmId": "tt0044685",
+    "Name": "Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",
+    "Nominees": "Samuel Goldwyn|Gordon Sawyer",
+    "NomineeIds": "co0058013|nm0768167",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Promoter",
+    "FilmId": "tt0045056",
+    "Name": "Pinewood Studios Sound Department",
+    "Nominees": "Pinewood Studios",
+    "NomineeIds": "co0041067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Quiet Man",
+    "FilmId": "tt0045061",
+    "Name": "Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",
+    "Nominees": "Republic|Daniel J. Bloomberg",
+    "NomineeIds": "co0020540|nm0089253",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "With a Song in My Heart",
+    "FilmId": "tt0045333",
+    "Name": "20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",
+    "Nominees": "20th Century-Fox|Thomas T. Moulton",
+    "NomineeIds": "co0028775|nm0609771",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Plymouth Adventure",
+    "FilmId": "tt0045039",
+    "Name": "Metro-Goldwyn-Mayer",
+    "Nominees": "Metro-Goldwyn-Mayer",
+    "NomineeIds": "co0007143",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "The Greatest Show on Earth",
+    "FilmId": "tt0044672",
+    "Name": "Fredric M. Frank, Theodore St. John, Frank Cavett",
+    "Nominees": "Fredric M. Frank|Theodore St. John|Frank Cavett",
+    "NomineeIds": "nm0290931|nm0820693|nm0147119",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "My Son John",
+    "FilmId": "tt0044941",
+    "Name": "Leo McCarey",
+    "Nominees": "Leo McCarey",
+    "NomineeIds": "nm0564970",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "The Narrow Margin",
+    "FilmId": "tt0044954",
+    "Name": "Martin Goldsmith, Jack Leonard",
+    "Nominees": "Martin Goldsmith|Jack Leonard",
+    "NomineeIds": "nm0326107|nm0502649",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "The Pride of St. Louis",
+    "FilmId": "tt0045049",
+    "Name": "Guy Trosper",
+    "Nominees": "Guy Trosper",
+    "NomineeIds": "nm0873613",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "The Sniper",
+    "FilmId": "tt0045161",
+    "Name": "Edna Anhalt, Edward Anhalt",
+    "Nominees": "Edna Anhalt|Edward Anhalt",
+    "NomineeIds": "nm0030018|nm0030019",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Bad and the Beautiful",
+    "FilmId": "tt0044391",
+    "Name": "Charles Schnee",
+    "Nominees": "Charles Schnee",
+    "NomineeIds": "nm0773660",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Five Fingers",
+    "FilmId": "tt0044314",
+    "Name": "Michael Wilson",
+    "Nominees": "Michael Wilson",
+    "NomineeIds": "nm0933858",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "High Noon",
+    "FilmId": "tt0044706",
+    "Name": "Carl Foreman",
+    "Nominees": "Carl Foreman",
+    "NomineeIds": "nm0286025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Man in the White Suit",
+    "FilmId": "tt0044876",
+    "Name": "Roger MacDougall, John Dighton, Alexander Mackendrick",
+    "Nominees": "Roger MacDougall|John Dighton|Alexander Mackendrick",
+    "NomineeIds": "nm0532032|nm0226538|nm0533241",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Quiet Man",
+    "FilmId": "tt0045061",
+    "Name": "Frank S. Nugent",
+    "Nominees": "Frank S. Nugent",
+    "NomineeIds": "nm0637793",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "The Atomic City",
+    "FilmId": "tt0044382",
+    "Name": "Sydney Boehm",
+    "Nominees": "Sydney Boehm",
+    "NomineeIds": "nm0091213",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Breaking the Sound Barrier",
+    "FilmId": "tt0044446",
+    "Name": "Terence Rattigan",
+    "Nominees": "Terence Rattigan",
+    "NomineeIds": "nm0711905",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "The Lavender Hill Mob",
+    "FilmId": "tt0044829",
+    "Name": "T. E. B. Clarke",
+    "Nominees": "T. E. B. Clarke",
+    "NomineeIds": "nm0165021",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Pat and Mike",
+    "FilmId": "tt0045012",
+    "Name": "Ruth Gordon, Garson Kanin",
+    "Nominees": "Ruth Gordon|Garson Kanin",
+    "NomineeIds": "nm0002106|nm0437717",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Viva Zapata!",
+    "FilmId": "tt0045296",
+    "Name": "John Steinbeck",
+    "Nominees": "John Steinbeck",
+    "NomineeIds": "nm0825705",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "HONORARY FOREIGN LANGUAGE FILM AWARD",
+    "Film": "Forbidden Games",
+    "FilmId": "tt0043686",
+    "Name": "",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Forbidden Games - Best Foreign Language Film first released in the United States during 1952."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "George Alfred Mitchell",
+    "NomineeIds": "nm9574281",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To George Alfred Mitchell for the design and development of the camera which bears his name and for his continued and dominant presence in the field of cinematography."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joseph M. Schenck",
+    "NomineeIds": "nm0770852",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Joseph M. Schenck for long and distinguished service to the motion picture industry."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Merian C. Cooper",
+    "NomineeIds": "nm0178260",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Merian C. Cooper for his many innovations and contributions to the art of motion pictures."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Harold Lloyd",
+    "NomineeIds": "nm0516001",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Harold Lloyd, master comedian and good citizen."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bob Hope",
+    "NomineeIds": "nm0001362",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Bob Hope for his contribution to the laughter of the world, his service to the motion picture industry, and his devotion to the American premise."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Cecil B. DeMille",
+    "Nominees": "Cecil B. DeMille",
+    "NomineeIds": "nm0001124",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eastman Kodak Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To EASTMAN KODAK COMPANY for the introduction of Eastman color negative and Eastman color print film."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "General Aniline And Film Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To ANSCO FILM DIVISION OF GENERAL ANILINE AND FILM CORPORATION for the introduction of Ansco color negative and Ansco color print film."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Technicolor Motion Picture Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To TECHNICOLOR MOTION PICTURE CORPORATION for an improved method of color motion picture photography under incandescent light."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Metro-Goldwyn-Mayer Studio",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To the PROJECTION, STILL PHOTOGRAPHIC and DEVELOPMENT ENGINEERING DEPARTMENTS of METRO-GOLDWYN-MAYER STUDIO for an improved method of projecting photographic backgrounds."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John G. Frayne|R. R. Scoville|Westrex Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JOHN G. FRAYNE and R. R. SCOVILLE and WESTREX CORPORATION for a method of measuring distortion in sound reproduction."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Photo Research Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To PHOTO RESEARCH CORPORATION for creating the Spectra color temperature meter."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gustav Jirouch",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Editorial",
+    "Note": "",
+    "Citation": "To GUSTAV JIROUCH for the design of the Robot automatic film splicer."
+  },
+  {
+    "Ceremony": 25,
+    "Year": 1952,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CARLOS RIVAS",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To CARLOS RIVAS of Metro-Goldwyn-Mayer Studio for the development of a sound reproducer for magnetic film."
   }
 ]

@@ -1,45 +1,63 @@
 <div class="nominations-container">
   <div *ngIf="getCategories().length > 0; else noData" class="nominations">
     <div *ngFor="let category of getCategories()" class="category"
-         [ngClass]="{'best-picture': category === 'Best Picture'}">
+      [ngClass]="{'best-picture': category === 'Best Picture'}">
       <h2>{{ category }}</h2>
       <div class="category-movies">
-        <span *ngFor="let nomination of groupedNominations[category]">
-          
-          <!-- Best Picture: mostra solo il film con link -->
+        <ng-container *ngFor="let nomination of groupedNominations[category]">
+
+          <hr *ngIf="nomination.Winner?.trim()" class="winner-divider-top">
+
           <div *ngIf="category === 'Best Picture'; else otherCategories">
-            <span *ngIf="nomination.movies && nomination.movies.length > 0 && nomination.movies[0]?.imdb_id">
-              <a [href]="isImdb 
-                          ? 'https://letterboxd.com/imdb/' + nomination.movies[0].imdb_id + '/' 
-                          : 'https://www.imdb.com/title/' + nomination.movies[0].imdb_id"  
-                 target="_blank"
-                 rel="noopener noreferrer"
-                 style="text-decoration: none; color: var(--body);">
-                <span class="nomination" [ngClass]="{'winner-text': nomination.won}">
-                  <i>{{ nomination.movies[0].title }}</i>
+            <span *ngIf="nomination.FilmId">
+              <a [href]="isImdb
+                          ? 'https://letterboxd.com/imdb/' + nomination.FilmId + '/'
+                          : 'https://www.imdb.com/title/' + nomination.FilmId" target="_blank"
+                rel="noopener noreferrer" style="text-decoration: none; color: var(--body);">
+                <span class="nomination" [ngClass]="{'winner-text': nomination.Winner?.trim()}">
+                  <i>{{ nomination.Film }}</i>
                 </span>
               </a>
             </span>
-            <span *ngIf="(!nomination.movies || nomination.movies.length === 0 || !nomination.movies[0]?.imdb_id) && nomination.movies?.[0]?.title" 
-                  class="nomination" [ngClass]="{'winner-text': nomination.won}">
-              <i>{{ nomination.movies[0].title }}</i>
+            <span *ngIf="!nomination.FilmId && nomination.Film" class="nomination"
+              [ngClass]="{'winner-text': nomination.Winner?.trim()}">
+              <i>{{ nomination.Film }}</i>
             </span>
           </div>
 
-          <!-- Altre categorie -->
           <ng-template #otherCategories>
-            <span class="nomination" [ngClass]="{'winner-text': nomination.won}">
-              {{ nomination.nominees && nomination.nominees.length > 0 ? nomination.nominees.join(', ') : 'N/A' }}
+            <span class="nomination" [ngClass]="{'winner-text': nomination.Winner?.trim()}">
+              <ng-container *ngFor="let nominee of getNomineesWithLinks(nomination); let last = last">
+                <ng-container *ngIf="nominee.imdbId; else noLink">
+                  <a [href]="'https://www.imdb.com/name/' + nominee.imdbId" target="_blank" rel="noopener noreferrer"
+                    style="text-decoration: none; color: var(--body);">
+                    {{ nominee.name }}
+                  </a>
+                </ng-container>
+                <ng-template #noLink>{{ nominee.name }}</ng-template>
+                <span *ngIf="!last">, </span>
+              </ng-container>
             </span>
-            <span *ngIf="nomination.movies && nomination.movies.length > 0 && nomination.movies[0]?.title">
-              <span class="nomination-movie"><i>{{ nomination.movies[0].title }}</i></span>
+
+            <span *ngIf="nomination.Film">
+              <ng-container *ngIf="nomination.FilmId; else filmNoLink">
+                <a [href]="isImdb
+                            ? 'https://letterboxd.com/imdb/' + nomination.FilmId + '/'
+                            : 'https://www.imdb.com/title/' + nomination.FilmId" target="_blank"
+                  rel="noopener noreferrer" style="text-decoration:none;" class="nomination-movie">
+                  <i>{{ nomination.Film }}</i>
+                </a>
+              </ng-container>
+              <ng-template #filmNoLink>
+                <span class="nomination-movie"><i>{{ nomination.Film }}</i></span>
+              </ng-template>
             </span>
           </ng-template>
 
-          <!-- Icona vincitore -->
-          <span *ngIf="nomination.won" class="winner">🏆</span>
+          <span *ngIf="nomination.Winner?.trim()" class="winner">🏆</span>
 
-        </span>
+          <hr *ngIf="nomination.Winner?.trim()" class="winner-divider-bottom">
+        </ng-container>
       </div>
     </div>
   </div>

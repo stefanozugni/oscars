@@ -1,1863 +1,2242 @@
 [
   {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "The Hurt Locker"
-    ],
-    "movies": [
-      {
-        "title": "The Hurt Locker",
-        "tmdb_id": 12162,
-        "imdb_id": "tt0887912"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "Avatar"
-    ],
-    "movies": [
-      {
-        "title": "Avatar",
-        "tmdb_id": 19995,
-        "imdb_id": "tt0499549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "The Blind Side"
-    ],
-    "movies": [
-      {
-        "title": "The Blind Side",
-        "tmdb_id": 22881,
-        "imdb_id": "tt0878804"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "District 9"
-    ],
-    "movies": [
-      {
-        "title": "District 9",
-        "tmdb_id": 17654,
-        "imdb_id": "tt1136608"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "An Education"
-    ],
-    "movies": [
-      {
-        "title": "An Education",
-        "tmdb_id": 24684,
-        "imdb_id": "tt1174732"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "Inglourious Basterds"
-    ],
-    "movies": [
-      {
-        "title": "Inglourious Basterds",
-        "tmdb_id": 16869,
-        "imdb_id": "tt0361748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "Precious"
-    ],
-    "movies": [
-      {
-        "title": "Precious",
-        "tmdb_id": 25793,
-        "imdb_id": "tt0929632"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "A Serious Man"
-    ],
-    "movies": [
-      {
-        "title": "A Serious Man",
-        "tmdb_id": 12573,
-        "imdb_id": "tt1019452"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "Up"
-    ],
-    "movies": [
-      {
-        "title": "Up",
-        "tmdb_id": 14160,
-        "imdb_id": "tt1049413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2009",
-    "nominees": [
-      "Up in the Air"
-    ],
-    "movies": [
-      {
-        "title": "Up in the Air",
-        "tmdb_id": 22947,
-        "imdb_id": "tt1193138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2009",
-    "nominees": [
-      "Jeff Bridges"
-    ],
-    "movies": [
-      {
-        "title": "Crazy Heart",
-        "tmdb_id": 25196,
-        "imdb_id": "tt1263670"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "2009",
-    "nominees": [
-      "George Clooney"
-    ],
-    "movies": [
-      {
-        "title": "Up in the Air",
-        "tmdb_id": 22947,
-        "imdb_id": "tt1193138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2009",
-    "nominees": [
-      "Colin Firth"
-    ],
-    "movies": [
-      {
-        "title": "A Single Man",
-        "tmdb_id": 34653,
-        "imdb_id": "tt1315981"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2009",
-    "nominees": [
-      "Morgan Freeman"
-    ],
-    "movies": [
-      {
-        "title": "Invictus",
-        "tmdb_id": 22954,
-        "imdb_id": "tt1057500"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2009",
-    "nominees": [
-      "Jeremy Renner"
-    ],
-    "movies": [
-      {
-        "title": "The Hurt Locker",
-        "tmdb_id": 12162,
-        "imdb_id": "tt0887912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2009",
-    "nominees": [
-      "Sandra Bullock"
-    ],
-    "movies": [
-      {
-        "title": "The Blind Side",
-        "tmdb_id": 22881,
-        "imdb_id": "tt0878804"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "2009",
-    "nominees": [
-      "Helen Mirren"
-    ],
-    "movies": [
-      {
-        "title": "The Last Station",
-        "tmdb_id": 36811,
-        "imdb_id": "tt0824758"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2009",
-    "nominees": [
-      "Carey Mulligan"
-    ],
-    "movies": [
-      {
-        "title": "An Education",
-        "tmdb_id": 24684,
-        "imdb_id": "tt1174732"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2009",
-    "nominees": [
-      "Gabourey Sidibe"
-    ],
-    "movies": [
-      {
-        "title": "Precious",
-        "tmdb_id": 25793,
-        "imdb_id": "tt0929632"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2009",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "Julie & Julia",
-        "tmdb_id": 24803,
-        "imdb_id": "tt1135503"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2009",
-    "nominees": [
-      "Christoph Waltz"
-    ],
-    "movies": [
-      {
-        "title": "Inglourious Basterds",
-        "tmdb_id": 16869,
-        "imdb_id": "tt0361748"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2009",
-    "nominees": [
-      "Matt Damon"
-    ],
-    "movies": [
-      {
-        "title": "Invictus",
-        "tmdb_id": 22954,
-        "imdb_id": "tt1057500"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2009",
-    "nominees": [
-      "Woody Harrelson"
-    ],
-    "movies": [
-      {
-        "title": "The Messenger",
-        "tmdb_id": 28089,
-        "imdb_id": "tt0790712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2009",
-    "nominees": [
-      "Christopher Plummer"
-    ],
-    "movies": [
-      {
-        "title": "The Last Station",
-        "tmdb_id": 36811,
-        "imdb_id": "tt0824758"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2009",
-    "nominees": [
-      "Stanley Tucci"
-    ],
-    "movies": [
-      {
-        "title": "The Lovely Bones",
-        "tmdb_id": 7980,
-        "imdb_id": "tt0380510"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2009",
-    "nominees": [
-      "Mo'Nique"
-    ],
-    "movies": [
-      {
-        "title": "Precious",
-        "tmdb_id": 25793,
-        "imdb_id": "tt0929632"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2009",
-    "nominees": [
-      "Penelope Cruz"
-    ],
-    "movies": [
-      {
-        "title": "Nine",
-        "tmdb_id": 10197,
-        "imdb_id": "tt0875034"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2009",
-    "nominees": [
-      "Vera Farmiga"
-    ],
-    "movies": [
-      {
-        "title": "Up in the Air",
-        "tmdb_id": 22947,
-        "imdb_id": "tt1193138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2009",
-    "nominees": [
-      "Maggie Gyllenhaal"
-    ],
-    "movies": [
-      {
-        "title": "Crazy Heart",
-        "tmdb_id": 25196,
-        "imdb_id": "tt1263670"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2009",
-    "nominees": [
-      "Anna Kendrick"
-    ],
-    "movies": [
-      {
-        "title": "Up in the Air",
-        "tmdb_id": 22947,
-        "imdb_id": "tt1193138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2009",
-    "nominees": [
-      "Kathryn Bigelow"
-    ],
-    "movies": [
-      {
-        "title": "The Hurt Locker",
-        "tmdb_id": 12162,
-        "imdb_id": "tt0887912"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "2009",
-    "nominees": [
-      "James Cameron"
-    ],
-    "movies": [
-      {
-        "title": "Avatar",
-        "tmdb_id": 19995,
-        "imdb_id": "tt0499549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2009",
-    "nominees": [
-      "Lee Daniels"
-    ],
-    "movies": [
-      {
-        "title": "Precious",
-        "tmdb_id": 25793,
-        "imdb_id": "tt0929632"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2009",
-    "nominees": [
-      "Jason Reitman"
-    ],
-    "movies": [
-      {
-        "title": "Up in the Air",
-        "tmdb_id": 22947,
-        "imdb_id": "tt1193138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2009",
-    "nominees": [
-      "Quentin Tarantino"
-    ],
-    "movies": [
-      {
-        "title": "Inglourious Basterds",
-        "tmdb_id": 16869,
-        "imdb_id": "tt0361748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Geoffrey Fletcher"
-    ],
-    "movies": [
-      {
-        "title": "Precious",
-        "tmdb_id": 25793,
-        "imdb_id": "tt0929632"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Neill Blomkamp",
-      "Terri Tatchell"
-    ],
-    "movies": [
-      {
-        "title": "District 9",
-        "tmdb_id": 17654,
-        "imdb_id": "tt1136608"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Nick Hornby"
-    ],
-    "movies": [
-      {
-        "title": "An Education",
-        "tmdb_id": 24684,
-        "imdb_id": "tt1174732"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Jesse Armstrong",
-      "Simon Blackwell",
-      "Armando Iannucci",
-      "Tony Roche"
-    ],
-    "movies": [
-      {
-        "title": "In the Loop",
-        "tmdb_id": 19833,
-        "imdb_id": "tt1226774"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Jason Reitman",
-      "Sheldon Turner"
-    ],
-    "movies": [
-      {
-        "title": "Up in the Air",
-        "tmdb_id": 22947,
-        "imdb_id": "tt1193138"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Mark Boal"
-    ],
-    "movies": [
-      {
-        "title": "The Hurt Locker",
-        "tmdb_id": 12162,
-        "imdb_id": "tt0887912"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Quentin Tarantino"
-    ],
-    "movies": [
-      {
-        "title": "Inglourious Basterds",
-        "tmdb_id": 16869,
-        "imdb_id": "tt0361748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Alessandro Camon",
-      "Oren Moverman"
-    ],
-    "movies": [
-      {
-        "title": "The Messenger",
-        "tmdb_id": 28089,
-        "imdb_id": "tt0790712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Joel Coen",
-      "Ethan Coen"
-    ],
-    "movies": [
-      {
-        "title": "A Serious Man",
-        "tmdb_id": 12573,
-        "imdb_id": "tt1019452"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2009",
-    "nominees": [
-      "Tom McCarthy",
-      "Bob Peterson",
-      "Tom McCarthy"
-    ],
-    "movies": [
-      {
-        "title": "Up",
-        "tmdb_id": 14160,
-        "imdb_id": "tt1049413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2009",
-    "nominees": [
-      "Michael Giacchino"
-    ],
-    "movies": [
-      {
-        "title": "Up",
-        "tmdb_id": 14160,
-        "imdb_id": "tt1049413"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "2009",
-    "nominees": [
-      "James Horner"
-    ],
-    "movies": [
-      {
-        "title": "Avatar",
-        "tmdb_id": 19995,
-        "imdb_id": "tt0499549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2009",
-    "nominees": [
-      "Alexandre Desplat"
-    ],
-    "movies": [
-      {
-        "title": "Fantastic Mr. Fox",
-        "tmdb_id": 10315,
-        "imdb_id": "tt0432283"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2009",
-    "nominees": [
-      "Marco Beltrami",
-      "Buck Sanders"
-    ],
-    "movies": [
-      {
-        "title": "The Hurt Locker",
-        "tmdb_id": 12162,
-        "imdb_id": "tt0887912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2009",
-    "nominees": [
-      "Hans Zimmer"
-    ],
-    "movies": [
-      {
-        "title": "Sherlock Holmes",
-        "tmdb_id": 10528,
-        "imdb_id": "tt0988045"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2009",
-    "nominees": [
-      "The Weary Kind"
-    ],
-    "movies": [
-      {
-        "title": "Crazy Heart",
-        "tmdb_id": 25196,
-        "imdb_id": "tt1263670"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2009",
-    "nominees": [
-      "Almost There"
-    ],
-    "movies": [
-      {
-        "title": "The Princess and the Frog",
-        "tmdb_id": 10198,
-        "imdb_id": "tt0780521"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2009",
-    "nominees": [
-      "Down in New Orleans"
-    ],
-    "movies": [
-      {
-        "title": "The Princess and the Frog",
-        "tmdb_id": 10198,
-        "imdb_id": "tt0780521"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2009",
-    "nominees": [
-      "Loin de Paname"
-    ],
-    "movies": [
-      {
-        "title": "Paris 36",
-        "tmdb_id": 15457,
-        "imdb_id": "tt0948535"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2009",
-    "nominees": [
-      "Take It All"
-    ],
-    "movies": [
-      {
-        "title": "Nine",
-        "tmdb_id": 10197,
-        "imdb_id": "tt0875034"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2009",
-    "nominees": [
-      "The Secret in Their Eyes"
-    ],
-    "movies": [
-      {
-        "title": "The Secret in Their Eyes",
-        "tmdb_id": 25376,
-        "imdb_id": "tt1305806"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2009",
-    "nominees": [
-      "Ajami"
-    ],
-    "movies": [
-      {
-        "title": "Ajami",
-        "tmdb_id": 24424,
-        "imdb_id": "tt1077262"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2009",
-    "nominees": [
-      "The Milk of Sorrow"
-    ],
-    "movies": [
-      {
-        "title": "The Milk of Sorrow",
-        "tmdb_id": 28644,
-        "imdb_id": "tt1206488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2009",
-    "nominees": [
-      "A Prophet"
-    ],
-    "movies": [
-      {
-        "title": "A Prophet",
-        "tmdb_id": 21575,
-        "imdb_id": "tt1235166"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2009",
-    "nominees": [
-      "The White Ribbon"
-    ],
-    "movies": [
-      {
-        "title": "The White Ribbon",
-        "tmdb_id": 37903,
-        "imdb_id": "tt1149362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2009",
-    "nominees": [
-      "The Cove"
-    ],
-    "movies": [
-      {
-        "title": "The Cove",
-        "tmdb_id": 23128,
-        "imdb_id": "tt1313104"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2009",
-    "nominees": [
-      "Burma VJ: Reporting from a Closed Country"
-    ],
-    "movies": [
-      {
-        "title": "Burma VJ: Reporting from a Closed Country",
-        "tmdb_id": 26763,
-        "imdb_id": "tt1333634"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2009",
-    "nominees": [
-      "Food, Inc."
-    ],
-    "movies": [
-      {
-        "title": "Food, Inc.",
-        "tmdb_id": 18570,
-        "imdb_id": "tt1286537"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2009",
-    "nominees": [
-      "The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers"
-    ],
-    "movies": [
-      {
-        "title": "The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers",
-        "tmdb_id": 34576,
-        "imdb_id": "tt1319726"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2009",
-    "nominees": [
-      "Which Way Home"
-    ],
-    "movies": [
-      {
-        "title": "Which Way Home",
-        "tmdb_id": 55204,
-        "imdb_id": "tt0489342"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2009",
-    "nominees": [
-      "Music by Prudence"
-    ],
-    "movies": [
-      {
-        "title": "Music by Prudence",
-        "tmdb_id": 154576,
-        "imdb_id": "tt1543539"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2009",
-    "nominees": [
-      "China's Unnatural Disaster: The Tears of Sichuan Province"
-    ],
-    "movies": [
-      {
-        "title": "China's Unnatural Disaster: The Tears of Sichuan Province",
-        "tmdb_id": 82248,
-        "imdb_id": "tt1430809"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2009",
-    "nominees": [
-      "The Last Campaign of Governor Booth Gardner"
-    ],
-    "movies": [
-      {
-        "title": "The Last Campaign of Governor Booth Gardner",
-        "tmdb_id": 245037,
-        "imdb_id": "tt1534853"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2009",
-    "nominees": [
-      "The Last Truck: Closing of a GM Plant"
-    ],
-    "movies": [
-      {
-        "title": "The Last Truck: Closing of a GM Plant",
-        "tmdb_id": 37098,
-        "imdb_id": "tt1487120"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2009",
-    "nominees": [
-      "Rabbit à la Berlin"
-    ],
-    "movies": [
-      {
-        "title": "Rabbit à la Berlin",
-        "tmdb_id": 129427,
-        "imdb_id": "tt1410281"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2009",
-    "nominees": [
-      "Up"
-    ],
-    "movies": [
-      {
-        "title": "Up",
-        "tmdb_id": 14160,
-        "imdb_id": "tt1049413"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2009",
-    "nominees": [
-      "Coraline"
-    ],
-    "movies": [
-      {
-        "title": "Coraline",
-        "tmdb_id": 14836,
-        "imdb_id": "tt0327597"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2009",
-    "nominees": [
-      "Fantastic Mr. Fox"
-    ],
-    "movies": [
-      {
-        "title": "Fantastic Mr. Fox",
-        "tmdb_id": 10315,
-        "imdb_id": "tt0432283"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2009",
-    "nominees": [
-      "The Princess and the Frog"
-    ],
-    "movies": [
-      {
-        "title": "The Princess and the Frog",
-        "tmdb_id": 10198,
-        "imdb_id": "tt0780521"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2009",
-    "nominees": [
-      "The Secret of Kells"
-    ],
-    "movies": [
-      {
-        "title": "The Secret of Kells",
-        "tmdb_id": 26963,
-        "imdb_id": "tt0485601"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2009",
-    "nominees": [
-      "Logorama"
-    ],
-    "movies": [
-      {
-        "title": "Logorama",
-        "tmdb_id": 32389,
-        "imdb_id": "tt1563725"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2009",
-    "nominees": [
-      "French Roast"
-    ],
-    "movies": [
-      {
-        "title": "French Roast",
-        "tmdb_id": 37845,
-        "imdb_id": "tt1323520"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2009",
-    "nominees": [
-      "Granny O'Grimm's Sleeping Beauty"
-    ],
-    "movies": [
-      {
-        "title": "Granny O'Grimm's Sleeping Beauty",
-        "tmdb_id": 57091,
-        "imdb_id": "tt1382454"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2009",
-    "nominees": [
-      "The Lady and the Reaper"
-    ],
-    "movies": [
-      {
-        "title": "The Lady and the Reaper",
-        "tmdb_id": 62967,
-        "imdb_id": "tt1523317"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2009",
-    "nominees": [
-      "A Matter of Loaf and Death"
-    ],
-    "movies": [
-      {
-        "title": "A Matter of Loaf and Death",
-        "tmdb_id": 14447,
-        "imdb_id": "tt1118511"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2009",
-    "nominees": [
-      "The New Tenants"
-    ],
-    "movies": [
-      {
-        "title": "The New Tenants",
-        "tmdb_id": 47798,
-        "imdb_id": "tt1520428"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2009",
-    "nominees": [
-      "The Door"
-    ],
-    "movies": [
-      {
-        "title": "The Door",
-        "tmdb_id": 200907,
-        "imdb_id": "tt1381557"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2009",
-    "nominees": [
-      "Instead of Abracadabra"
-    ],
-    "movies": [
-      {
-        "title": "Instead of Abracadabra",
-        "tmdb_id": 161679,
-        "imdb_id": "tt1351684"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2009",
-    "nominees": [
-      "Kavi"
-    ],
-    "movies": [
-      {
-        "title": "Kavi",
-        "tmdb_id": 122385,
-        "imdb_id": "tt1399573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2009",
-    "nominees": [
-      "Miracle Fish"
-    ],
-    "movies": [
-      {
-        "title": "Miracle Fish",
-        "tmdb_id": 56047,
-        "imdb_id": "tt1337354"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "Rick Carter",
-      "Robert Stromberg",
-      "Kim Sinclair"
-    ],
-    "movies": [
-      {
-        "title": "Avatar",
-        "tmdb_id": 19995,
-        "imdb_id": "tt0499549"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "Dave Warren",
-      "Anastasia Masaro",
-      "Caroline Smith"
-    ],
-    "movies": [
-      {
-        "title": "The Imaginarium of Doctor Parnassus",
-        "tmdb_id": 8054,
-        "imdb_id": "tt1054606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "John Myhre",
-      "Gordon Sim"
-    ],
-    "movies": [
-      {
-        "title": "Nine",
-        "tmdb_id": 10197,
-        "imdb_id": "tt0875034"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "Sarah Greenwood",
-      "Katie Spencer"
-    ],
-    "movies": [
-      {
-        "title": "Sherlock Holmes",
-        "tmdb_id": 10528,
-        "imdb_id": "tt0988045"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "Patrice Vermette",
-      "Maggie Gray"
-    ],
-    "movies": [
-      {
-        "title": "The Young Victoria",
-        "tmdb_id": 18320,
-        "imdb_id": "tt0962736"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2009",
-    "nominees": [
-      "Mauro Fiore"
-    ],
-    "movies": [
-      {
-        "title": "Avatar",
-        "tmdb_id": 19995,
-        "imdb_id": "tt0499549"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2009",
-    "nominees": [
-      "Bruno Delbonnel"
-    ],
-    "movies": [
-      {
-        "title": "Harry Potter and the Half-Blood Prince",
-        "tmdb_id": 767,
-        "imdb_id": "tt0417741"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2009",
-    "nominees": [
-      "Barry Ackroyd"
-    ],
-    "movies": [
-      {
-        "title": "The Hurt Locker",
-        "tmdb_id": 12162,
-        "imdb_id": "tt0887912"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2009",
-    "nominees": [
-      "Robert Richardson"
-    ],
-    "movies": [
-      {
-        "title": "Inglourious Basterds",
-        "tmdb_id": 16869,
-        "imdb_id": "tt0361748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2009",
-    "nominees": [
-      "Christian Berger"
-    ],
-    "movies": [
-      {
-        "title": "The White Ribbon",
-        "tmdb_id": 37903,
-        "imdb_id": "tt1149362"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2009",
-    "nominees": [
-      "Chris Innis",
-      "Bob Murawski"
-    ],
-    "movies": [
-      {
-        "title": "The Hurt Locker",
-        "tmdb_id": 12162,
-        "imdb_id": "tt0887912"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2009",
-    "nominees": [
-      "James Cameron",
-      "John Refoua",
-      "Stephen E. Rivkin"
-    ],
-    "movies": [
-      {
-        "title": "Avatar",
-        "tmdb_id": 19995,
-        "imdb_id": "tt0499549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2009",
-    "nominees": [
-      "Julian Clarke"
-    ],
-    "movies": [
-      {
-        "title": "District 9",
-        "tmdb_id": 17654,
-        "imdb_id": "tt1136608"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2009",
-    "nominees": [
-      "Sally Menke"
-    ],
-    "movies": [
-      {
-        "title": "Inglourious Basterds",
-        "tmdb_id": 16869,
-        "imdb_id": "tt0361748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2009",
-    "nominees": [
-      "Joe Klotz"
-    ],
-    "movies": [
-      {
-        "title": "Precious",
-        "tmdb_id": 25793,
-        "imdb_id": "tt0929632"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2009",
-    "nominees": [
-      "Joe Letteri",
-      "Stephen Rosenbaum",
-      "Richard Baneham",
-      "Andrew R. Jones"
-    ],
-    "movies": [
-      {
-        "title": "Avatar",
-        "tmdb_id": 19995,
-        "imdb_id": "tt0499549"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2009",
-    "nominees": [
-      "Dan Kaufman",
-      "Peter Muyzers",
-      "Robert Habros",
-      "Matt Aitken"
-    ],
-    "movies": [
-      {
-        "title": "District 9",
-        "tmdb_id": 17654,
-        "imdb_id": "tt1136608"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2009",
-    "nominees": [
-      "Roger Guyett",
-      "Russell Earl",
-      "Paul Kavanagh",
-      "Burt Dalton"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek",
-        "tmdb_id": 13475,
-        "imdb_id": "tt0796366"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2009",
-    "nominees": [
-      "Paul N. J. Ottosson",
-      "Ray Beckett"
-    ],
-    "movies": [
-      {
-        "title": "The Hurt Locker",
-        "tmdb_id": 12162,
-        "imdb_id": "tt0887912"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2009",
-    "nominees": [
-      "Christopher Boyes",
-      "Gary Summers",
-      "Andy Nelson",
-      "Tony Johnson"
-    ],
-    "movies": [
-      {
-        "title": "Avatar",
-        "tmdb_id": 19995,
-        "imdb_id": "tt0499549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2009",
-    "nominees": [
-      "Michael Minkler",
-      "Tony Lamberti",
-      "Mark Ulano"
-    ],
-    "movies": [
-      {
-        "title": "Inglourious Basterds",
-        "tmdb_id": 16869,
-        "imdb_id": "tt0361748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2009",
-    "nominees": [
-      "Anna Behlmer",
-      "Andy Nelson",
-      "Peter J. Devlin"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek",
-        "tmdb_id": 13475,
-        "imdb_id": "tt0796366"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2009",
-    "nominees": [
-      "Greg P. Russell",
-      "Gary Summers",
-      "Geoffrey Patterson"
-    ],
-    "movies": [
-      {
-        "title": "Transformers: Revenge of the Fallen",
-        "tmdb_id": 8373,
-        "imdb_id": "tt1055369"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2009",
-    "nominees": [
-      "Paul N. J. Ottosson"
-    ],
-    "movies": [
-      {
-        "title": "The Hurt Locker",
-        "tmdb_id": 12162,
-        "imdb_id": "tt0887912"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2009",
-    "nominees": [
-      "Christopher Boyes",
-      "Gwendolyn Yates Whittle"
-    ],
-    "movies": [
-      {
-        "title": "Avatar",
-        "tmdb_id": 19995,
-        "imdb_id": "tt0499549"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2009",
-    "nominees": [
-      "Wylie Stateman"
-    ],
-    "movies": [
-      {
-        "title": "Inglourious Basterds",
-        "tmdb_id": 16869,
-        "imdb_id": "tt0361748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2009",
-    "nominees": [
-      "Mark Stoeckinger",
-      "Alan Rankin"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek",
-        "tmdb_id": 13475,
-        "imdb_id": "tt0796366"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2009",
-    "nominees": [
-      "Michael Silvers",
-      "Tom Myers"
-    ],
-    "movies": [
-      {
-        "title": "Up",
-        "tmdb_id": 14160,
-        "imdb_id": "tt1049413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2009",
-    "nominees": [
-      "Barney Burman",
-      "Mindy Hall",
-      "Joe Harlow"
-    ],
-    "movies": [
-      {
-        "title": "Star Trek",
-        "tmdb_id": 13475,
-        "imdb_id": "tt0796366"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2009",
-    "nominees": [
-      "Aldo Signoretti",
-      "Vittorio Sodano"
-    ],
-    "movies": [
-      {
-        "title": "Il Divo",
-        "tmdb_id": 8832,
-        "imdb_id": "tt1023490"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2009",
-    "nominees": [
-      "Jon Henry Gordon",
-      "Jenny Shircore"
-    ],
-    "movies": [
-      {
-        "title": "The Young Victoria",
-        "tmdb_id": 18320,
-        "imdb_id": "tt0962736"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "Sandy Powell"
-    ],
-    "movies": [
-      {
-        "title": "The Young Victoria",
-        "tmdb_id": 18320,
-        "imdb_id": "tt0962736"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "Janet Patterson"
-    ],
-    "movies": [
-      {
-        "title": "Bright Star",
-        "tmdb_id": 29963,
-        "imdb_id": "tt0810784"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "Catherine Leterrier"
-    ],
-    "movies": [
-      {
-        "title": "Coco Before Chanel",
-        "tmdb_id": 11156,
-        "imdb_id": "tt1035736"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "Monique Prudhomme"
-    ],
-    "movies": [
-      {
-        "title": "The Imaginarium of Doctor Parnassus",
-        "tmdb_id": 8054,
-        "imdb_id": "tt1054606"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2009",
-    "nominees": [
-      "Colleen Atwood"
-    ],
-    "movies": [
-      {
-        "title": "Nine",
-        "tmdb_id": 10197,
-        "imdb_id": "tt0875034"
-      }
-    ],
-    "won": false
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Crazy Heart",
+    "FilmId": "tt1263670",
+    "Name": "Jeff Bridges",
+    "Nominees": "Jeff Bridges",
+    "NomineeIds": "nm0000313",
+    "Winner": "True",
+    "Detail": "Bad Blake",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Up in the Air",
+    "FilmId": "tt1193138",
+    "Name": "George Clooney",
+    "Nominees": "George Clooney",
+    "NomineeIds": "nm0000123",
+    "Winner": "",
+    "Detail": "Ryan Bingham",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "A Single Man",
+    "FilmId": "tt1315981",
+    "Name": "Colin Firth",
+    "Nominees": "Colin Firth",
+    "NomineeIds": "nm0000147",
+    "Winner": "",
+    "Detail": "George",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Invictus",
+    "FilmId": "tt1057500",
+    "Name": "Morgan Freeman",
+    "Nominees": "Morgan Freeman",
+    "NomineeIds": "nm0000151",
+    "Winner": "",
+    "Detail": "Nelson Mandela",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Hurt Locker",
+    "FilmId": "tt0887912",
+    "Name": "Jeremy Renner",
+    "Nominees": "Jeremy Renner",
+    "NomineeIds": "nm0719637",
+    "Winner": "",
+    "Detail": "Staff Sergeant William James",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Invictus",
+    "FilmId": "tt1057500",
+    "Name": "Matt Damon",
+    "Nominees": "Matt Damon",
+    "NomineeIds": "nm0000354",
+    "Winner": "",
+    "Detail": "Francois Pienaar",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Messenger",
+    "FilmId": "tt0790712",
+    "Name": "Woody Harrelson",
+    "Nominees": "Woody Harrelson",
+    "NomineeIds": "nm0000437",
+    "Winner": "",
+    "Detail": "Captain Tony Stone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Last Station",
+    "FilmId": "tt0824758",
+    "Name": "Christopher Plummer",
+    "Nominees": "Christopher Plummer",
+    "NomineeIds": "nm0001626",
+    "Winner": "",
+    "Detail": "Tolstoy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Lovely Bones",
+    "FilmId": "tt0380510",
+    "Name": "Stanley Tucci",
+    "Nominees": "Stanley Tucci",
+    "NomineeIds": "nm0001804",
+    "Winner": "",
+    "Detail": "George Harvey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Inglourious Basterds",
+    "FilmId": "tt0361748",
+    "Name": "Christoph Waltz",
+    "Nominees": "Christoph Waltz",
+    "NomineeIds": "nm0910607",
+    "Winner": "True",
+    "Detail": "Col. Hans Landa",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Blind Side",
+    "FilmId": "tt0878804",
+    "Name": "Sandra Bullock",
+    "Nominees": "Sandra Bullock",
+    "NomineeIds": "nm0000113",
+    "Winner": "True",
+    "Detail": "Leigh Anne Tuohy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Last Station",
+    "FilmId": "tt0824758",
+    "Name": "Helen Mirren",
+    "Nominees": "Helen Mirren",
+    "NomineeIds": "nm0000545",
+    "Winner": "",
+    "Detail": "Sofya",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "An Education",
+    "FilmId": "tt1174732",
+    "Name": "Carey Mulligan",
+    "Nominees": "Carey Mulligan",
+    "NomineeIds": "nm1659547",
+    "Winner": "",
+    "Detail": "Jenny",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Precious: Based on the Novel 'Push' by Sapphire",
+    "FilmId": "tt0929632",
+    "Name": "Gabourey Sidibe",
+    "Nominees": "Gabourey Sidibe",
+    "NomineeIds": "nm2829737",
+    "Winner": "",
+    "Detail": "Precious",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Julie & Julia",
+    "FilmId": "tt1135503",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Julia Child",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Nine",
+    "FilmId": "tt0875034",
+    "Name": "Penélope Cruz",
+    "Nominees": "Penélope Cruz",
+    "NomineeIds": "nm0004851",
+    "Winner": "",
+    "Detail": "Carla",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Up in the Air",
+    "FilmId": "tt1193138",
+    "Name": "Vera Farmiga",
+    "Nominees": "Vera Farmiga",
+    "NomineeIds": "nm0267812",
+    "Winner": "",
+    "Detail": "Alex Goran",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Crazy Heart",
+    "FilmId": "tt1263670",
+    "Name": "Maggie Gyllenhaal",
+    "Nominees": "Maggie Gyllenhaal",
+    "NomineeIds": "nm0350454",
+    "Winner": "",
+    "Detail": "Jean Craddock",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Up in the Air",
+    "FilmId": "tt1193138",
+    "Name": "Anna Kendrick",
+    "Nominees": "Anna Kendrick",
+    "NomineeIds": "nm0447695",
+    "Winner": "",
+    "Detail": "Natalie Keener",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Precious: Based on the Novel 'Push' by Sapphire",
+    "FilmId": "tt0929632",
+    "Name": "Mo'Nique",
+    "Nominees": "Mo'Nique",
+    "NomineeIds": "nm0594898",
+    "Winner": "True",
+    "Detail": "Mary",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Coraline",
+    "FilmId": "tt0327597",
+    "Name": "Henry Selick",
+    "Nominees": "Henry Selick",
+    "NomineeIds": "nm0783139",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Fantastic Mr. Fox",
+    "FilmId": "tt0432283",
+    "Name": "Wes Anderson",
+    "Nominees": "Wes Anderson",
+    "NomineeIds": "nm0027572",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Princess and the Frog",
+    "FilmId": "tt0780521",
+    "Name": "John Musker and Ron Clements",
+    "Nominees": "John Musker|Ron Clements",
+    "NomineeIds": "nm0615780|nm0166256",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Secret of Kells",
+    "FilmId": "tt0485601",
+    "Name": "Tomm Moore",
+    "Nominees": "Tomm Moore",
+    "NomineeIds": "nm1119079",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Up",
+    "FilmId": "tt1049413",
+    "Name": "Pete Docter",
+    "Nominees": "Pete Docter",
+    "NomineeIds": "nm0230032",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Avatar",
+    "FilmId": "tt0499549",
+    "Name": "Production Design: Rick Carter and Robert Stromberg; Set Decoration: Kim Sinclair",
+    "Nominees": "Rick Carter|Robert Stromberg|Kim Sinclair",
+    "NomineeIds": "nm0141437|nm0834902|nm0801662",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Imaginarium of Doctor Parnassus",
+    "FilmId": "tt1054606",
+    "Name": "Production Design: Dave Warren and Anastasia Masaro; Set Decoration: Caroline Smith",
+    "Nominees": "Dave Warren|Anastasia Masaro|Caroline Smith",
+    "NomineeIds": "nm0912790|nm0556085|nm0807618",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Nine",
+    "FilmId": "tt0875034",
+    "Name": "Production Design: John Myhre; Set Decoration: Gordon Sim",
+    "Nominees": "John Myhre|Gordon Sim",
+    "NomineeIds": "nm0616924|nm0799246",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Sherlock Holmes",
+    "FilmId": "tt0988045",
+    "Name": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+    "Nominees": "Sarah Greenwood|Katie Spencer",
+    "NomineeIds": "nm0339391|nm0818005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Young Victoria",
+    "FilmId": "tt0962736",
+    "Name": "Production Design: Patrice Vermette; Set Decoration: Maggie Gray",
+    "Nominees": "Patrice Vermette|Maggie Gray",
+    "NomineeIds": "nm0894411|nm0336799",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Avatar",
+    "FilmId": "tt0499549",
+    "Name": "Mauro Fiore",
+    "Nominees": "Mauro Fiore",
+    "NomineeIds": "nm0278475",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Harry Potter and the Half-Blood Prince",
+    "FilmId": "tt0417741",
+    "Name": "Bruno Delbonnel",
+    "Nominees": "Bruno Delbonnel",
+    "NomineeIds": "nm0216632",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Hurt Locker",
+    "FilmId": "tt0887912",
+    "Name": "Barry Ackroyd",
+    "Nominees": "Barry Ackroyd",
+    "NomineeIds": "nm0010096",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Inglourious Basterds",
+    "FilmId": "tt0361748",
+    "Name": "Robert Richardson",
+    "Nominees": "Robert Richardson",
+    "NomineeIds": "nm0724744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The White Ribbon",
+    "FilmId": "tt1149362",
+    "Name": "Christian Berger",
+    "Nominees": "Christian Berger",
+    "NomineeIds": "nm0074141",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Bright Star",
+    "FilmId": "tt0810784",
+    "Name": "Janet Patterson",
+    "Nominees": "Janet Patterson",
+    "NomineeIds": "nm0666253",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Coco before Chanel",
+    "FilmId": "tt1035736",
+    "Name": "Catherine Leterrier",
+    "Nominees": "Catherine Leterrier",
+    "NomineeIds": "nm0504639",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Imaginarium of Doctor Parnassus",
+    "FilmId": "tt1054606",
+    "Name": "Monique Prudhomme",
+    "Nominees": "Monique Prudhomme",
+    "NomineeIds": "nm0698889",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Nine",
+    "FilmId": "tt0875034",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Young Victoria",
+    "FilmId": "tt0962736",
+    "Name": "Sandy Powell",
+    "Nominees": "Sandy Powell",
+    "NomineeIds": "nm0694309",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Avatar",
+    "FilmId": "tt0499549",
+    "Name": "James Cameron",
+    "Nominees": "James Cameron",
+    "NomineeIds": "nm0000116",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Hurt Locker",
+    "FilmId": "tt0887912",
+    "Name": "Kathryn Bigelow",
+    "Nominees": "Kathryn Bigelow",
+    "NomineeIds": "nm0000941",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Inglourious Basterds",
+    "FilmId": "tt0361748",
+    "Name": "Quentin Tarantino",
+    "Nominees": "Quentin Tarantino",
+    "NomineeIds": "nm0000233",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Precious: Based on the Novel 'Push' by Sapphire",
+    "FilmId": "tt0929632",
+    "Name": "Lee Daniels",
+    "Nominees": "Lee Daniels",
+    "NomineeIds": "nm0200005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Up in the Air",
+    "FilmId": "tt1193138",
+    "Name": "Jason Reitman",
+    "Nominees": "Jason Reitman",
+    "NomineeIds": "nm0718646",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Burma VJ",
+    "FilmId": "tt1333634",
+    "Name": "Anders Østergaard and Lise Lense-Møller",
+    "Nominees": "Anders Østergaard|Lise Lense-Møller",
+    "NomineeIds": "nm0960312|nm0502208",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Cove",
+    "FilmId": "tt1313104",
+    "Name": "Louie Psihoyos and Fisher Stevens",
+    "Nominees": "Louie Psihoyos|Fisher Stevens",
+    "NomineeIds": "nm2694309|nm0001770",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Food, Inc.",
+    "FilmId": "tt1286537",
+    "Name": "Robert Kenner and Elise Pearlstein",
+    "Nominees": "Robert Kenner|Elise Pearlstein",
+    "NomineeIds": "nm0448422|nm1015409",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers",
+    "FilmId": "tt1319726",
+    "Name": "Judith Ehrlich and Rick Goldsmith",
+    "Nominees": "Judith Ehrlich|Rick Goldsmith",
+    "NomineeIds": "nm1155102|nm0326124",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Which Way Home",
+    "FilmId": "tt0489342",
+    "Name": "Rebecca Cammisa",
+    "Nominees": "Rebecca Cammisa",
+    "NomineeIds": "nm1095640",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "China's Unnatural Disaster: The Tears of Sichuan Province",
+    "FilmId": "tt1430809",
+    "Name": "Jon Alpert and Matthew O'Neill",
+    "Nominees": "Jon Alpert|Matthew O'Neill",
+    "NomineeIds": "nm0022412|nm2268713",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Last Campaign of Governor Booth Gardner",
+    "FilmId": "tt1534853",
+    "Name": "Daniel Junge and Henry Ansbacher",
+    "Nominees": "Daniel Junge|Henry Ansbacher",
+    "NomineeIds": "nm0432616|nm1461938",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Last Truck: Closing of a GM Plant",
+    "FilmId": "tt1487120",
+    "Name": "Steven Bognar and Julia Reichert",
+    "Nominees": "Steven Bognar|Julia Reichert",
+    "NomineeIds": "nm0091840|nm0717064",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Music by Prudence",
+    "FilmId": "tt1543539",
+    "Name": "Roger Ross Williams and Elinor Burkett",
+    "Nominees": "Roger Ross Williams|Elinor Burkett",
+    "NomineeIds": "nm2141317|nm1754444",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Rabbit à la Berlin",
+    "FilmId": "tt1410281",
+    "Name": "Bartek Konopka and Anna Wydra",
+    "Nominees": "Bartek Konopka|Anna Wydra",
+    "NomineeIds": "nm1572674|nm2317039",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Avatar",
+    "FilmId": "tt0499549",
+    "Name": "Stephen Rivkin, John Refoua and James Cameron",
+    "Nominees": "Stephen Rivkin|John Refoua|James Cameron",
+    "NomineeIds": "nm0729701|nm0716350|nm0000116",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "District 9",
+    "FilmId": "tt1136608",
+    "Name": "Julian Clarke",
+    "Nominees": "Julian Clarke",
+    "NomineeIds": "nm1026592",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Hurt Locker",
+    "FilmId": "tt0887912",
+    "Name": "Bob Murawski and Chris Innis",
+    "Nominees": "Bob Murawski|Chris Innis",
+    "NomineeIds": "nm0613657|nm0409197",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Inglourious Basterds",
+    "FilmId": "tt0361748",
+    "Name": "Sally Menke",
+    "Nominees": "Sally Menke",
+    "NomineeIds": "nm0579673",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Precious: Based on the Novel 'Push' by Sapphire",
+    "FilmId": "tt0929632",
+    "Name": "Joe Klotz",
+    "Nominees": "Joe Klotz",
+    "NomineeIds": "nm0460114",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Ajami",
+    "FilmId": "tt1077262",
+    "Name": "Israel",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Milk of Sorrow",
+    "FilmId": "tt1206488",
+    "Name": "Peru",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A Prophet",
+    "FilmId": "tt1235166",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Secret in Their Eyes",
+    "FilmId": "tt1305806",
+    "Name": "Argentina",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The White Ribbon",
+    "FilmId": "tt1149362",
+    "Name": "Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Il Divo",
+    "FilmId": "tt1023490",
+    "Name": "Aldo Signoretti and Vittorio Sodano",
+    "Nominees": "Aldo Signoretti|Vittorio Sodano",
+    "NomineeIds": "nm0797532|nm0812006",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Star Trek",
+    "FilmId": "tt0796366",
+    "Name": "Barney Burman, Mindy Hall and Joel Harlow",
+    "Nominees": "Barney Burman|Mindy Hall|Joel Harlow",
+    "NomineeIds": "nm0122178|nm0355931|nm0363355",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Young Victoria",
+    "FilmId": "tt0962736",
+    "Name": "Jon Henry Gordon and Jenny Shircore",
+    "Nominees": "Jon Henry Gordon|Jenny Shircore",
+    "NomineeIds": "nm0330331|nm0794246",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Avatar",
+    "FilmId": "tt0499549",
+    "Name": "James Horner",
+    "Nominees": "James Horner",
+    "NomineeIds": "nm0000035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Fantastic Mr. Fox",
+    "FilmId": "tt0432283",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Hurt Locker",
+    "FilmId": "tt0887912",
+    "Name": "Marco Beltrami and Buck Sanders",
+    "Nominees": "Marco Beltrami|Buck Sanders",
+    "NomineeIds": "nm0001937|nm0761486",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Sherlock Holmes",
+    "FilmId": "tt0988045",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Up",
+    "FilmId": "tt1049413",
+    "Name": "Michael Giacchino",
+    "Nominees": "Michael Giacchino",
+    "NomineeIds": "nm0315974",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Princess and the Frog",
+    "FilmId": "tt0780521",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "Almost There",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Princess and the Frog",
+    "FilmId": "tt0780521",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "Down In New Orleans",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Paris 36",
+    "FilmId": "tt0948535",
+    "Name": "Music by Reinhardt Wagner; Lyric by Frank Thomas",
+    "Nominees": "Reinhardt Wagner|Frank Thomas",
+    "NomineeIds": "nm0906067|nm3637172",
+    "Winner": "",
+    "Detail": "Loin De Paname",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Nine",
+    "FilmId": "tt0875034",
+    "Name": "Music and Lyric by Maury Yeston",
+    "Nominees": "Maury Yeston",
+    "NomineeIds": "nm1169564",
+    "Winner": "",
+    "Detail": "Take It All",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Crazy Heart",
+    "FilmId": "tt1263670",
+    "Name": "Music and Lyric by Ryan Bingham and T Bone Burnett",
+    "Nominees": "Ryan Bingham|T Bone Burnett",
+    "NomineeIds": "nm1123709|nm0122439",
+    "Winner": "True",
+    "Detail": "The Weary Kind (Theme From Crazy Heart)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Avatar",
+    "FilmId": "tt0499549",
+    "Name": "James Cameron and Jon Landau, Producers",
+    "Nominees": "James Cameron|Jon Landau",
+    "NomineeIds": "nm0000116|nm0484457",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Blind Side",
+    "FilmId": "tt0878804",
+    "Name": "Gil Netter, Andrew A. Kosove and Broderick Johnson, Producers",
+    "Nominees": "Gil Netter|Andrew A. Kosove|Broderick Johnson",
+    "NomineeIds": "nm0626696|nm0467255|nm0424663",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "District 9",
+    "FilmId": "tt1136608",
+    "Name": "Peter Jackson and Carolynne Cunningham, Producers",
+    "Nominees": "Peter Jackson|Carolynne Cunningham",
+    "NomineeIds": "nm0001392|nm0192253",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "An Education",
+    "FilmId": "tt1174732",
+    "Name": "Finola Dwyer and Amanda Posey, Producers",
+    "Nominees": "Finola Dwyer|Amanda Posey",
+    "NomineeIds": "nm0245493|nm0692656",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Hurt Locker",
+    "FilmId": "tt0887912",
+    "Name": "Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers",
+    "Nominees": "Kathryn Bigelow|Mark Boal|Nicolas Chartier|Greg Shapiro",
+    "NomineeIds": "nm0000941|nm1676793|nm1291566|nm0788513",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Inglourious Basterds",
+    "FilmId": "tt0361748",
+    "Name": "Lawrence Bender, Producer",
+    "Nominees": "Lawrence Bender",
+    "NomineeIds": "nm0004744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Precious: Based on the Novel 'Push' by Sapphire",
+    "FilmId": "tt0929632",
+    "Name": "Lee Daniels, Sarah Siegel-Magness and Gary Magness, Producers",
+    "Nominees": "Lee Daniels|Sarah Siegel-Magness|Gary Magness",
+    "NomineeIds": "nm0200005|nm2318133|nm2798739",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "A Serious Man",
+    "FilmId": "tt1019452",
+    "Name": "Joel Coen and Ethan Coen, Producers",
+    "Nominees": "Joel Coen|Ethan Coen",
+    "NomineeIds": "nm0001054|nm0001053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Up",
+    "FilmId": "tt1049413",
+    "Name": "Jonas Rivera, Producer",
+    "Nominees": "Jonas Rivera",
+    "NomineeIds": "nm0729304",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Up in the Air",
+    "FilmId": "tt1193138",
+    "Name": "Daniel Dubiecki, Ivan Reitman and Jason Reitman, Producers",
+    "Nominees": "Daniel Dubiecki|Ivan Reitman|Jason Reitman",
+    "NomineeIds": "nm0239277|nm0718645|nm0718646",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "French Roast",
+    "FilmId": "tt1323520",
+    "Name": "Fabrice O. Joubert",
+    "Nominees": "Fabrice O. Joubert",
+    "NomineeIds": "nm1634446",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Granny O'Grimm's Sleeping Beauty",
+    "FilmId": "tt1382454",
+    "Name": "Nicky Phelan and Darragh O'Connell",
+    "Nominees": "Nicky Phelan|Darragh O'Connell",
+    "NomineeIds": "nm2298796|nm1124615",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Lady and the Reaper (La Dama y la Muerte)",
+    "FilmId": "tt1523317",
+    "Name": "Javier Recio Gracia",
+    "Nominees": "Javier Recio Gracia",
+    "NomineeIds": "nm3639868",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Logorama",
+    "FilmId": "tt1563725",
+    "Name": "Nicolas Schmerkin",
+    "Nominees": "Nicolas Schmerkin",
+    "NomineeIds": "nm0772645",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "A Matter of Loaf and Death",
+    "FilmId": "tt1118511",
+    "Name": "Nick Park",
+    "Nominees": "Nick Park",
+    "NomineeIds": "nm0661910",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Door",
+    "FilmId": "tt1381557",
+    "Name": "Juanita Wilson and James Flynn",
+    "Nominees": "Juanita Wilson|James Flynn",
+    "NomineeIds": "nm3397365|nm0283478",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Instead of Abracadabra",
+    "FilmId": "tt1351684",
+    "Name": "Patrik Eklund and Mathias Fjellström",
+    "Nominees": "Patrik Eklund|Mathias Fjellström",
+    "NomineeIds": "nm1350278|nm1216437",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Kavi",
+    "FilmId": "tt1399573",
+    "Name": "Gregg Helvey",
+    "Nominees": "Gregg Helvey",
+    "NomineeIds": "nm2620434",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Miracle Fish",
+    "FilmId": "tt1337354",
+    "Name": "Luke Doolan and Drew Bailey",
+    "Nominees": "Luke Doolan|Drew Bailey",
+    "NomineeIds": "nm1029112|nm1037158",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The New Tenants",
+    "FilmId": "tt1520428",
+    "Name": "Joachim Back and Tivi Magnusson",
+    "Nominees": "Joachim Back|Tivi Magnusson",
+    "NomineeIds": "nm3629315|nm0536410",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Avatar",
+    "FilmId": "tt0499549",
+    "Name": "Christopher Boyes and Gwendolyn Yates Whittle",
+    "Nominees": "Christopher Boyes|Gwendolyn Yates Whittle",
+    "NomineeIds": "nm0102110|nm0946705",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Hurt Locker",
+    "FilmId": "tt0887912",
+    "Name": "Paul N.J. Ottosson",
+    "Nominees": "Paul N.J. Ottosson",
+    "NomineeIds": "nm0653338",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Inglourious Basterds",
+    "FilmId": "tt0361748",
+    "Name": "Wylie Stateman",
+    "Nominees": "Wylie Stateman",
+    "NomineeIds": "nm0823758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Star Trek",
+    "FilmId": "tt0796366",
+    "Name": "Mark Stoeckinger and Alan Rankin",
+    "Nominees": "Mark Stoeckinger|Alan Rankin",
+    "NomineeIds": "nm0831057|nm0710231",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Up",
+    "FilmId": "tt1049413",
+    "Name": "Michael Silvers and Tom Myers",
+    "Nominees": "Michael Silvers|Tom Myers",
+    "NomineeIds": "nm0799011|nm0616878",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Avatar",
+    "FilmId": "tt0499549",
+    "Name": "Christopher Boyes, Gary Summers, Andy Nelson and Tony Johnson",
+    "Nominees": "Christopher Boyes|Gary Summers|Andy Nelson|Tony Johnson",
+    "NomineeIds": "nm0102110|nm0838707|nm0625144|nm0426357",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Hurt Locker",
+    "FilmId": "tt0887912",
+    "Name": "Paul N.J. Ottosson and Ray Beckett",
+    "Nominees": "Paul N.J. Ottosson|Ray Beckett",
+    "NomineeIds": "nm0653338|nm0065713",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Inglourious Basterds",
+    "FilmId": "tt0361748",
+    "Name": "Michael Minkler, Tony Lamberti and Mark Ulano",
+    "Nominees": "Michael Minkler|Tony Lamberti|Mark Ulano",
+    "NomineeIds": "nm0591444|nm0483341|nm0880360",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Star Trek",
+    "FilmId": "tt0796366",
+    "Name": "Anna Behlmer, Andy Nelson and Peter J. Devlin",
+    "Nominees": "Anna Behlmer|Andy Nelson|Peter J. Devlin",
+    "NomineeIds": "nm0066933|nm0625144|nm0222818",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Transformers: Revenge of the Fallen",
+    "FilmId": "tt1055369",
+    "Name": "Greg P. Russell, Gary Summers and Geoffrey Patterson",
+    "Nominees": "Greg P. Russell|Gary Summers|Geoffrey Patterson",
+    "NomineeIds": "nm0751169|nm0838707|nm0666215",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Avatar",
+    "FilmId": "tt0499549",
+    "Name": "Joe Letteri, Stephen Rosenbaum, Richard Baneham and Andrew R. Jones",
+    "Nominees": "Joe Letteri|Stephen Rosenbaum|Richard Baneham|Andrew R. Jones",
+    "NomineeIds": "nm0504784|nm0742155|nm0051824|nm1002475",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "District 9",
+    "FilmId": "tt1136608",
+    "Name": "Dan Kaufman, Peter Muyzers, Robert Habros and Matt Aitken",
+    "Nominees": "Dan Kaufman|Peter Muyzers|Robert Habros|Matt Aitken",
+    "NomineeIds": "nm0442116|nm0616221|nm0352308|nm0014884",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Star Trek",
+    "FilmId": "tt0796366",
+    "Name": "Roger Guyett, Russell Earl, Paul Kavanagh and Burt Dalton",
+    "Nominees": "Roger Guyett|Russell Earl|Paul Kavanagh|Burt Dalton",
+    "NomineeIds": "nm0004361|nm0247270|nm1668259|nm0198245",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "District 9",
+    "FilmId": "tt1136608",
+    "Name": "Written by Neill Blomkamp and Terri Tatchell",
+    "Nominees": "Neill Blomkamp|Terri Tatchell",
+    "NomineeIds": "nm0088955|nm2833612",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "An Education",
+    "FilmId": "tt1174732",
+    "Name": "Screenplay by Nick Hornby",
+    "Nominees": "Nick Hornby",
+    "NomineeIds": "nm0394984",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "In the Loop",
+    "FilmId": "tt1226774",
+    "Name": "Screenplay by Jesse Armstrong, Simon Blackwell, Armando Iannucci, Tony Roche",
+    "Nominees": "Jesse Armstrong|Simon Blackwell|Armando Iannucci|Tony Roche",
+    "NomineeIds": "nm1104036|nm1006581|nm0406334|nm0733988",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Precious: Based on the Novel 'Push' by Sapphire",
+    "FilmId": "tt0929632",
+    "Name": "Screenplay by Geoffrey Fletcher",
+    "Nominees": "Geoffrey Fletcher",
+    "NomineeIds": "nm2819316",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Up in the Air",
+    "FilmId": "tt1193138",
+    "Name": "Screenplay by Jason Reitman and Sheldon Turner",
+    "Nominees": "Jason Reitman|Sheldon Turner",
+    "NomineeIds": "nm0718646|nm1417242",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Hurt Locker",
+    "FilmId": "tt0887912",
+    "Name": "Written by Mark Boal",
+    "Nominees": "Mark Boal",
+    "NomineeIds": "nm1676793",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Inglourious Basterds",
+    "FilmId": "tt0361748",
+    "Name": "Written by Quentin Tarantino",
+    "Nominees": "Quentin Tarantino",
+    "NomineeIds": "nm0000233",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Messenger",
+    "FilmId": "tt0790712",
+    "Name": "Written by Alessandro Camon & Oren Moverman",
+    "Nominees": "Alessandro Camon|Oren Moverman",
+    "NomineeIds": "nm0131947|nm0610219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "A Serious Man",
+    "FilmId": "tt1019452",
+    "Name": "Written by Joel Coen & Ethan Coen",
+    "Nominees": "Joel Coen|Ethan Coen",
+    "NomineeIds": "nm0001054|nm0001053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Up",
+    "FilmId": "tt1049413",
+    "Name": "Screenplay by Bob Peterson, Pete Docter; Story by Pete Docter, Bob Peterson, Tom McCarthy",
+    "Nominees": "Bob Peterson|Pete Docter|Tom McCarthy",
+    "NomineeIds": "nm0677037|nm0230032|nm0565336",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Lauren Bacall",
+    "NomineeIds": "nm0000002",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Lauren Bacall in recognition of her central place in the golden age of motion pictures."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Roger Corman",
+    "NomineeIds": "nm0000339",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Roger Corman for his rich engendering of films and filmmakers."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gordon Willis",
+    "NomineeIds": "nm0932336",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Gordon Willis for unsurpassed mastery of light, shadow, color and motion."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "John Calley",
+    "Nominees": "John Calley",
+    "NomineeIds": "nm0130492",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Per Christensen|Michael Bunnell|Christophe Hery",
+    "NomineeIds": "nm1878080|?|nm0381215",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Much faster than previous ray-traced methods, this computer graphics technique has enabled color bleeding effects and realistic shadows for complex scenes in motion pictures.",
+    "Citation": "To PER CHRISTENSEN, MICHAEL BUNNELL and CHRISTOPHE HERY for the development of point-based rendering for indirect illumination and ambient occlusion."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Richard Kirk",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "Through the use of color management software and hardware, this complete system enables accurate color presentation in the digital intermediate preview process. The Truelight system is widely utilized in digital intermediate production environments around the world.",
+    "Citation": "To DR. RICHARD KIRK for the overall design and development of the Truelight real-time 3D look-up table hardware device and color management software."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Volker Massmann|Markus Hasenzahl|Dr. Klaus Anderle|Andreas Loew",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The Spirit 4K/2K has distinguished itself by incorporating a continuous-motion transport mechanism enabling full-range, high-resolution scanning at much higher frame rates than non-continuous transport scanners.",
+    "Citation": "To VOLKER MASSMANN, MARKUS HASENZAHL, DR. KLAUS ANDERLE and ANDREAS LOEW for the development of the Spirit 4K/2K film scanning system as used in the digital intermediate process for motion pictures."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Michael Cieslinski|Dr. Reimar Lenz|Bernd Brauner",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The ARRISCAN film scanner utilizes a specially designed CMOS array sensor mounted on a micro-positioning platform and a custom LED light source. Capture of the film's full dynamic range at various scan resolutions is implemented through sub-pixel offsets of the sensor along with multiple exposures of each frame.",
+    "Citation": "To MICHAEL CIESLINSKI, DR. REIMAR LENZ and BERND BRAUNER for the development of the ARRISCAN film scanner, enabling high-resolution, high-dynamic range, pin-registered film scanning for use in the digital intermediate process."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Wolfgang Lempp|Theo Brown|Tony Sedivy|Dr. John Quartel",
+    "NomineeIds": "nm2851380|?|?|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "Developed for the digital intermediate and motion picture visual effects markets, the Northlight scanner was designed with a 6K CCD sensor, making it unique in its ability to produce high-resolution scans of 35mm, 8-perf film frames.",
+    "Citation": "To WOLFGANG LEMPP, THEO BROWN, TONY SEDIVY and DR. JOHN QUARTEL for the development of the Northlight film scanner, which enables high-resolution, pin-registered scanning in the motion picture digital intermediate process."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steve Chapman|Martin Tlaskal|Darrin Smart|Dr. James Logie",
+    "NomineeIds": "nm2485462|nm1168077|?|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "Baselight was one of the first digital color correction systems to enter the digital intermediate market and has seen wide acceptance in the motion picture industry.",
+    "Citation": "To STEVE CHAPMAN, MARTIN TLASKAL, DARRIN SMART and DR. JAMES LOGIE for their contributions to the development of the Baselight color correction system, which enables real-time digital manipulation of motion picture imagery during the digital intermediate process."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mark Jaszberenyi|Gyula Priskin|Tamas Perlaki",
+    "NomineeIds": "nm1122590|nm1123137|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "Lustre is a software solution that enables non-linear, real-time digital color grading across an entire feature film, emulating the photochemical color-timing process.",
+    "Citation": "To MARK JASZBERENYI, GYULA PRISKIN and TAMAS PERLAKI for their contributions to the development of the Lustre color correction system, which enables real-time digital manipulation of motion picture imagery during the digital intermediate process."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Brad Walker|D. Scott Dewald|Bill Werner|Greg Pettitt",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "Working in conjunction with the film industry, Texas Instruments created a high-resolution, color-accurate, high-quality digital intermediate projection system that could closely emulate film-based projection in a theatrical environment.",
+    "Citation": "To BRAD WALKER, D. SCOTT DEWALD, BILL WERNER and GREG PETTITT for their contributions furthering the design and refinement of the Texas Instruments DLP Projector technology, achieving a level of performance that enabled color-accurate digital intermediate previews of motion pictures."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fujifilm Corporation|Ryoji Nishimura|Masaaki Miki|Youichi Hosoya",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "The Fujicolor ETERNA-RDI Type 8511/4511 digital intermediate film has thinner emulsion layers with extremely efficient couplers made possible by Super-Nano Cubic Grain Technology. This invention allows improved color sensitivity with the ability to absorb scattered light, providing extremely sharp images. The ETERNA-RDI emulsion technology also achieves less color cross-talk for exacting reproduction. Its expanded latitude and linearity provides superior highlights and shadows in a film stock with exceptional latent image stability.",
+    "Citation": "To FUJIFILM CORPORATION, RYOJI NISHIMURA, MASAAKI MIKI and YOUICHI HOSOYA for the design and development of Fujicolor ETERNA-RDI digital intermediate film, which was designed exclusively to reproduce motion picture digital masters."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Paul Debevec|Tim Hawkins|John Monos|Dr. Mark Sagar",
+    "NomineeIds": "nm1663206|nm3105618|nm1040945|nm0755993",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The combination of these systems, with their ability to capture high fidelity reflectance data of human subjects, allows for the creation of photorealistic digital faces as they would appear in any lighting condition.",
+    "Citation": "To PAUL DEBEVEC, TIM HAWKINS, JOHN MONOS and DR. MARK SAGAR for the design and engineering of the Light Stage capture devices and the image-based facial rendering system developed for character relighting in motion pictures."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Mark Wolforth|Tony Sedivy",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "Through the use of color management software and hardware, this complete system enables accurate color presentation in the digital intermediate preview process. The Truelight system is widely utilized in digital intermediate production environments around the world.",
+    "Citation": "To MARK WOLFORTH and TONY SEDIVY for their contributions to the development of the Truelight real-time 3D look-up table hardware system."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Klaus Anderle|Christian Baeker|Frank Billasch",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The LUTher system was one of the first color look-up table processors to be widely adopted by the pioneering digital intermediate facilities in the industry. This innovation enabled accurate color presentation by facilities that had analyzed projected film output and built 3D look-up tables in order to emulate print film.",
+    "Citation": "To DR. KLAUS ANDERLE, CHRISTIAN BAEKER and FRANK BILLASCH for their contributions to the LUTher 3D look-up table hardware device and color management software."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steve Sullivan|Kevin Wooley|Brett Allen|Colin Davidson",
+    "NomineeIds": "nm0838354|nm1634089|?|nm2042866",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Developed at Industrial Light & Magic and consisting of custom hardware and software, Imocap is an innovative system that successfully addresses the need for on-set, low-impact performance capture.",
+    "Citation": "To STEVE SULLIVAN, KEVIN WOOLEY, BRETT ALLEN and COLIN DAVIDSON for the development of the Imocap on-set performance capture system."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hayden Landis|KEN McGAUGH|Hilmar Koch",
+    "NomineeIds": "nm0484821|nm0568983|nm0462320",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Ambient occlusion has enabled a new level of realism in synthesized imagery and has become a standard tool for computer graphics lighting in motion pictures.",
+    "Citation": "To HAYDEN LANDIS, KEN McGAUGH and HILMAR KOCH for advancing the technique of ambient occlusion rendering."
+  },
+  {
+    "Ceremony": 82,
+    "Year": 2009,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "BJÖRN HEDÉN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "Solving a series of problems with one integrated mechanism, this device had an immediate and significant impact on the motion picture industry.",
+    "Citation": "To BJÖRN HEDÉN for the design and mechanical engineering of the silent, two-stage planetary friction drive Hedén Lens Motors."
   }
 ]

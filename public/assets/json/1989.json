@@ -1,1586 +1,1826 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1989",
-    "nominees": [
-      "Driving Miss Daisy"
-    ],
-    "movies": [
-      {
-        "title": "Driving Miss Daisy",
-        "tmdb_id": 403,
-        "imdb_id": "tt0097239"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1989",
-    "nominees": [
-      "Born on the Fourth of July"
-    ],
-    "movies": [
-      {
-        "title": "Born on the Fourth of July",
-        "tmdb_id": 2604,
-        "imdb_id": "tt0096969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1989",
-    "nominees": [
-      "Dead Poets Society"
-    ],
-    "movies": [
-      {
-        "title": "Dead Poets Society",
-        "tmdb_id": 207,
-        "imdb_id": "tt0097165"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1989",
-    "nominees": [
-      "Field of Dreams"
-    ],
-    "movies": [
-      {
-        "title": "Field of Dreams",
-        "tmdb_id": 2323,
-        "imdb_id": "tt0097351"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1989",
-    "nominees": [
-      "My Left Foot: The Story of Christy Brown"
-    ],
-    "movies": [
-      {
-        "title": "My Left Foot: The Story of Christy Brown",
-        "tmdb_id": 10161,
-        "imdb_id": "tt0097937"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1989",
-    "nominees": [
-      "Daniel Day-Lewis"
-    ],
-    "movies": [
-      {
-        "title": "My Left Foot: The Story of Christy Brown",
-        "tmdb_id": 10161,
-        "imdb_id": "tt0097937"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1989",
-    "nominees": [
-      "Kenneth Branagh"
-    ],
-    "movies": [
-      {
-        "title": "Henry V",
-        "tmdb_id": 10705,
-        "imdb_id": "tt0097499"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1989",
-    "nominees": [
-      "Tom Cruise"
-    ],
-    "movies": [
-      {
-        "title": "Born on the Fourth of July",
-        "tmdb_id": 2604,
-        "imdb_id": "tt0096969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1989",
-    "nominees": [
-      "Morgan Freeman"
-    ],
-    "movies": [
-      {
-        "title": "Driving Miss Daisy",
-        "tmdb_id": 403,
-        "imdb_id": "tt0097239"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1989",
-    "nominees": [
-      "Robin Williams"
-    ],
-    "movies": [
-      {
-        "title": "Dead Poets Society",
-        "tmdb_id": 207,
-        "imdb_id": "tt0097165"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1989",
-    "nominees": [
-      "Jessica Tandy"
-    ],
-    "movies": [
-      {
-        "title": "Driving Miss Daisy",
-        "tmdb_id": 403,
-        "imdb_id": "tt0097239"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1989",
-    "nominees": [
-      "Isabelle Adjani"
-    ],
-    "movies": [
-      {
-        "title": "Camille Claudel",
-        "tmdb_id": 11709,
-        "imdb_id": "tt0094828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1989",
-    "nominees": [
-      "Pauline Collins"
-    ],
-    "movies": [
-      {
-        "title": "Shirley Valentine",
-        "tmdb_id": 18683,
-        "imdb_id": "tt0098319"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1989",
-    "nominees": [
-      "Jessica Lange"
-    ],
-    "movies": [
-      {
-        "title": "Music Box",
-        "tmdb_id": 2263,
-        "imdb_id": "tt0100211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1989",
-    "nominees": [
-      "Michelle Pfeiffer"
-    ],
-    "movies": [
-      {
-        "title": "The Fabulous Baker Boys",
-        "tmdb_id": 10875,
-        "imdb_id": "tt0097322"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1989",
-    "nominees": [
-      "Denzel Washington"
-    ],
-    "movies": [
-      {
-        "title": "Glory",
-        "tmdb_id": 9665,
-        "imdb_id": "tt0097441"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1989",
-    "nominees": [
-      "Danny Aiello"
-    ],
-    "movies": [
-      {
-        "title": "Do the Right Thing",
-        "tmdb_id": 925,
-        "imdb_id": "tt0097216"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1989",
-    "nominees": [
-      "Dan Aykroyd"
-    ],
-    "movies": [
-      {
-        "title": "Driving Miss Daisy",
-        "tmdb_id": 403,
-        "imdb_id": "tt0097239"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1989",
-    "nominees": [
-      "Marlon Brando"
-    ],
-    "movies": [
-      {
-        "title": "A Dry White Season",
-        "tmdb_id": 32075,
-        "imdb_id": "tt0097243"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1989",
-    "nominees": [
-      "Martin Landau"
-    ],
-    "movies": [
-      {
-        "title": "Crimes and Misdemeanors",
-        "tmdb_id": 11562,
-        "imdb_id": "tt0097123"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1989",
-    "nominees": [
-      "Brenda Fricker"
-    ],
-    "movies": [
-      {
-        "title": "My Left Foot: The Story of Christy Brown",
-        "tmdb_id": 10161,
-        "imdb_id": "tt0097937"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1989",
-    "nominees": [
-      "Anjelica Huston"
-    ],
-    "movies": [
-      {
-        "title": "Enemies, a Love Story",
-        "tmdb_id": 116014,
-        "imdb_id": "tt0097276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1989",
-    "nominees": [
-      "Lena Olin"
-    ],
-    "movies": [
-      {
-        "title": "Enemies, a Love Story",
-        "tmdb_id": 116014,
-        "imdb_id": "tt0097276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1989",
-    "nominees": [
-      "Julia Roberts"
-    ],
-    "movies": [
-      {
-        "title": "Steel Magnolias",
-        "tmdb_id": 10860,
-        "imdb_id": "tt0098384"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1989",
-    "nominees": [
-      "Dianne Wiest"
-    ],
-    "movies": [
-      {
-        "title": "Parenthood",
-        "tmdb_id": 1552,
-        "imdb_id": "tt0098067"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1989",
-    "nominees": [
-      "Oliver Stone"
-    ],
-    "movies": [
-      {
-        "title": "Born on the Fourth of July",
-        "tmdb_id": 2604,
-        "imdb_id": "tt0096969"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1989",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Crimes and Misdemeanors",
-        "tmdb_id": 11562,
-        "imdb_id": "tt0097123"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1989",
-    "nominees": [
-      "Kenneth Branagh"
-    ],
-    "movies": [
-      {
-        "title": "Henry V",
-        "tmdb_id": 10705,
-        "imdb_id": "tt0097499"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1989",
-    "nominees": [
-      "Jim Sheridan"
-    ],
-    "movies": [
-      {
-        "title": "My Left Foot: The Story of Christy Brown",
-        "tmdb_id": 10161,
-        "imdb_id": "tt0097937"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1989",
-    "nominees": [
-      "Peter Weir"
-    ],
-    "movies": [
-      {
-        "title": "Dead Poets Society",
-        "tmdb_id": 207,
-        "imdb_id": "tt0097165"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Alfred Uhry"
-    ],
-    "movies": [
-      {
-        "title": "Driving Miss Daisy",
-        "tmdb_id": 403,
-        "imdb_id": "tt0097239"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Oliver Stone",
-      "Ron Kovic"
-    ],
-    "movies": [
-      {
-        "title": "Born on the Fourth of July",
-        "tmdb_id": 2604,
-        "imdb_id": "tt0096969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Roger L. Simon",
-      "Paul Mazursky"
-    ],
-    "movies": [
-      {
-        "title": "Enemies, a Love Story",
-        "tmdb_id": 116014,
-        "imdb_id": "tt0097276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Phil Alden Robinson"
-    ],
-    "movies": [
-      {
-        "title": "Field of Dreams",
-        "tmdb_id": 2323,
-        "imdb_id": "tt0097351"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Jim Sheridan",
-      "Shane Connaughton"
-    ],
-    "movies": [
-      {
-        "title": "My Left Foot: The Story of Christy Brown",
-        "tmdb_id": 10161,
-        "imdb_id": "tt0097937"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Tom Schulman"
-    ],
-    "movies": [
-      {
-        "title": "Dead Poets Society",
-        "tmdb_id": 207,
-        "imdb_id": "tt0097165"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Crimes and Misdemeanors",
-        "tmdb_id": 11562,
-        "imdb_id": "tt0097123"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Spike Lee"
-    ],
-    "movies": [
-      {
-        "title": "Do the Right Thing",
-        "tmdb_id": 925,
-        "imdb_id": "tt0097216"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Steven Soderbergh"
-    ],
-    "movies": [
-      {
-        "title": "sex, lies, and videotape",
-        "tmdb_id": 1412,
-        "imdb_id": "tt0098724"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1989",
-    "nominees": [
-      "Nora Ephron"
-    ],
-    "movies": [
-      {
-        "title": "When Harry Met Sally...",
-        "tmdb_id": 639,
-        "imdb_id": "tt0098635"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1989",
-    "nominees": [
-      "Alan Menken"
-    ],
-    "movies": [
-      {
-        "title": "The Little Mermaid",
-        "tmdb_id": 10144,
-        "imdb_id": "tt0097757"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1989",
-    "nominees": [
-      "Dave Grusin"
-    ],
-    "movies": [
-      {
-        "title": "The Fabulous Baker Boys",
-        "tmdb_id": 10875,
-        "imdb_id": "tt0097322"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1989",
-    "nominees": [
-      "James Horner"
-    ],
-    "movies": [
-      {
-        "title": "Field of Dreams",
-        "tmdb_id": 2323,
-        "imdb_id": "tt0097351"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1989",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Indiana Jones and the Last Crusade",
-        "tmdb_id": 89,
-        "imdb_id": "tt0097576"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1989",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Born on the Fourth of July",
-        "tmdb_id": 2604,
-        "imdb_id": "tt0096969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1989",
-    "nominees": [
-      "Under the Sea"
-    ],
-    "movies": [
-      {
-        "title": "The Little Mermaid",
-        "tmdb_id": 10144,
-        "imdb_id": "tt0097757"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1989",
-    "nominees": [
-      "After All"
-    ],
-    "movies": [
-      {
-        "title": "Chances Are",
-        "tmdb_id": 3064,
-        "imdb_id": "tt0097044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1989",
-    "nominees": [
-      "I Love to See You Smile"
-    ],
-    "movies": [
-      {
-        "title": "Parenthood",
-        "tmdb_id": 1552,
-        "imdb_id": "tt0098067"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1989",
-    "nominees": [
-      "The Girl Who Used to Be Me"
-    ],
-    "movies": [
-      {
-        "title": "Shirley Valentine",
-        "tmdb_id": 18683,
-        "imdb_id": "tt0098319"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1989",
-    "nominees": [
-      "Kiss the Girl"
-    ],
-    "movies": [
-      {
-        "title": "The Little Mermaid",
-        "tmdb_id": 10144,
-        "imdb_id": "tt0097757"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1989",
-    "nominees": [
-      "Cinema Paradiso"
-    ],
-    "movies": [
-      {
-        "title": "Cinema Paradiso",
-        "tmdb_id": 11216,
-        "imdb_id": "tt0095765"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1989",
-    "nominees": [
-      "Camille Claudel"
-    ],
-    "movies": [
-      {
-        "title": "Camille Claudel",
-        "tmdb_id": 11709,
-        "imdb_id": "tt0094828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1989",
-    "nominees": [
-      "Jesus of Montreal"
-    ],
-    "movies": [
-      {
-        "title": "Jesus of Montreal",
-        "tmdb_id": 4486,
-        "imdb_id": "tt0097635"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1989",
-    "nominees": [
-      "Memories of a Marriage"
-    ],
-    "movies": [
-      {
-        "title": "Memories of a Marriage",
-        "tmdb_id": 41929,
-        "imdb_id": "tt0097155"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1989",
-    "nominees": [
-      "Lo que le pasó a Santiago"
-    ],
-    "movies": [
-      {
-        "title": "Lo que le pasó a Santiago",
-        "tmdb_id": 202792,
-        "imdb_id": "tt0097766"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1989",
-    "nominees": [
-      "Common Threads: Stories from the Quilt"
-    ],
-    "movies": [
-      {
-        "title": "Common Threads: Stories from the Quilt",
-        "tmdb_id": 114524,
-        "imdb_id": "tt0097099"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1989",
-    "nominees": [
-      "Adam Clayton Powell"
-    ],
-    "movies": [
-      {
-        "title": "Adam Clayton Powell",
-        "tmdb_id": 136652,
-        "imdb_id": "tt0096761"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1989",
-    "nominees": [
-      "Crack USA: County Under Siege"
-    ],
-    "movies": [
-      {
-        "title": "Crack USA: County Under Siege",
-        "tmdb_id": 149393,
-        "imdb_id": "tt0097120"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1989",
-    "nominees": [
-      "For All Mankind"
-    ],
-    "movies": [
-      {
-        "title": "For All Mankind",
-        "tmdb_id": 20423,
-        "imdb_id": "tt0097372"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1989",
-    "nominees": [
-      "Super Chief: The Life and Legacy of Earl Warren"
-    ],
-    "movies": [
-      {
-        "title": "Super Chief: The Life and Legacy of Earl Warren",
-        "tmdb_id": 136651,
-        "imdb_id": "tt0098413"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1989",
-    "nominees": [
-      "The Johnstown Flood"
-    ],
-    "movies": [
-      {
-        "title": "The Johnstown Flood",
-        "tmdb_id": 244712,
-        "imdb_id": "tt0097628"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1989",
-    "nominees": [
-      "Fine Food, Fine Pastries, Open 6 to 9"
-    ],
-    "movies": [
-      {
-        "title": "Fine Food, Fine Pastries, Open 6 to 9",
-        "tmdb_id": 244714,
-        "imdb_id": "tt0097356"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1989",
-    "nominees": [
-      "Yad Vashem: Preserving the Past to Ensure the Future"
-    ],
-    "movies": [
-      {
-        "title": "Yad Vashem: Preserving the Past to Ensure the Future",
-        "tmdb_id": 244716,
-        "imdb_id": "tt0098685"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1989",
-    "nominees": [
-      "Balance"
-    ],
-    "movies": [
-      {
-        "title": "Balance",
-        "tmdb_id": 44338,
-        "imdb_id": "tt0096880"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1989",
-    "nominees": [
-      "The Cowboy and the Frenchman"
-    ],
-    "movies": [
-      {
-        "title": "The Cowboy and the Frenchman",
-        "tmdb_id": 94295,
-        "imdb_id": "tt0190327"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1989",
-    "nominees": [
-      "The Hill Farm"
-    ],
-    "movies": [
-      {
-        "title": "The Hill Farm",
-        "tmdb_id": 209528,
-        "imdb_id": "tt0097509"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1989",
-    "nominees": [
-      "Work Experience"
-    ],
-    "movies": [
-      {
-        "title": "Work Experience",
-        "tmdb_id": 244708,
-        "imdb_id": "tt0098677"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1989",
-    "nominees": [
-      "Amazon Diary"
-    ],
-    "movies": [
-      {
-        "title": "Amazon Diary",
-        "tmdb_id": 244709,
-        "imdb_id": "tt0096798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1989",
-    "nominees": [
-      "The Childeater"
-    ],
-    "movies": [
-      {
-        "title": "The Childeater",
-        "tmdb_id": 244710,
-        "imdb_id": "tt0097057"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Anton Furst",
-      "Peter Young"
-    ],
-    "movies": [
-      {
-        "title": "Batman",
-        "tmdb_id": 268,
-        "imdb_id": "tt0096895"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Leslie Dilley",
-      "Anne Julian"
-    ],
-    "movies": [
-      {
-        "title": "The Abyss",
-        "tmdb_id": 2756,
-        "imdb_id": "tt0096754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Dante Ferretti",
-      "Francesca Lo Schiavo"
-    ],
-    "movies": [
-      {
-        "title": "The Adventures of Baron Munchausen",
-        "tmdb_id": 14506,
-        "imdb_id": "tt0096764"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Bruno Rubeo",
-      "Crispian Sallis"
-    ],
-    "movies": [
-      {
-        "title": "Driving Miss Daisy",
-        "tmdb_id": 403,
-        "imdb_id": "tt0097239"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Norman Garwood",
-      "Garrett Lewis"
-    ],
-    "movies": [
-      {
-        "title": "Glory",
-        "tmdb_id": 9665,
-        "imdb_id": "tt0097441"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1989",
-    "nominees": [
-      "Freddie Francis"
-    ],
-    "movies": [
-      {
-        "title": "Glory",
-        "tmdb_id": 9665,
-        "imdb_id": "tt0097441"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1989",
-    "nominees": [
-      "Mikael Salomon"
-    ],
-    "movies": [
-      {
-        "title": "The Abyss",
-        "tmdb_id": 2756,
-        "imdb_id": "tt0096754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1989",
-    "nominees": [
-      "Haskell Wexler"
-    ],
-    "movies": [
-      {
-        "title": "Blaze",
-        "tmdb_id": 22711,
-        "imdb_id": "tt0096943"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1989",
-    "nominees": [
-      "Robert Richardson"
-    ],
-    "movies": [
-      {
-        "title": "Born on the Fourth of July",
-        "tmdb_id": 2604,
-        "imdb_id": "tt0096969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1989",
-    "nominees": [
-      "Michael Ballhaus"
-    ],
-    "movies": [
-      {
-        "title": "The Fabulous Baker Boys",
-        "tmdb_id": 10875,
-        "imdb_id": "tt0097322"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1989",
-    "nominees": [
-      "David Brenner",
-      "Joe Hutshing"
-    ],
-    "movies": [
-      {
-        "title": "Born on the Fourth of July",
-        "tmdb_id": 2604,
-        "imdb_id": "tt0096969"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1989",
-    "nominees": [
-      "Noelle Boisson"
-    ],
-    "movies": [
-      {
-        "title": "The Bear",
-        "tmdb_id": 2383,
-        "imdb_id": "tt0095800"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1989",
-    "nominees": [
-      "Mark Warner"
-    ],
-    "movies": [
-      {
-        "title": "Driving Miss Daisy",
-        "tmdb_id": 403,
-        "imdb_id": "tt0097239"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1989",
-    "nominees": [
-      "William Steinkamp"
-    ],
-    "movies": [
-      {
-        "title": "The Fabulous Baker Boys",
-        "tmdb_id": 10875,
-        "imdb_id": "tt0097322"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1989",
-    "nominees": [
-      "Steve Rosenblum"
-    ],
-    "movies": [
-      {
-        "title": "Glory",
-        "tmdb_id": 9665,
-        "imdb_id": "tt0097441"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1989",
-    "nominees": [
-      "John Bruno",
-      "Dennis Muren",
-      "Hoyt Yeatman",
-      "Dennis Skotak"
-    ],
-    "movies": [
-      {
-        "title": "The Abyss",
-        "tmdb_id": 2756,
-        "imdb_id": "tt0096754"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1989",
-    "nominees": [
-      "Richard Conway",
-      "Kent Houston"
-    ],
-    "movies": [
-      {
-        "title": "The Adventures of Baron Munchausen",
-        "tmdb_id": 14506,
-        "imdb_id": "tt0096764"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1989",
-    "nominees": [
-      "Ken Ralston",
-      "Michael Lantieri",
-      "John Bell",
-      "Steve Gawley"
-    ],
-    "movies": [
-      {
-        "title": "Back to the Future Part II",
-        "tmdb_id": 165,
-        "imdb_id": "tt0096874"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1989",
-    "nominees": [
-      "Donald O. Mitchell",
-      "Gregg Rudloff",
-      "Elliot Tyson",
-      "Russell Williams"
-    ],
-    "movies": [
-      {
-        "title": "Glory",
-        "tmdb_id": 9665,
-        "imdb_id": "tt0097441"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1989",
-    "nominees": [
-      "Don J. Bassman",
-      "Kevin F. Cleary",
-      "Richard Overton",
-      "Lee Orloff"
-    ],
-    "movies": [
-      {
-        "title": "The Abyss",
-        "tmdb_id": 2756,
-        "imdb_id": "tt0096754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1989",
-    "nominees": [
-      "Donald O. Mitchell",
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Keith A. Wester"
-    ],
-    "movies": [
-      {
-        "title": "Black Rain",
-        "tmdb_id": 4105,
-        "imdb_id": "tt0096933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1989",
-    "nominees": [
-      "Michael Minkler",
-      "Gregory H. Watkins",
-      "Wylie Stateman",
-      "Tod A. Maitland"
-    ],
-    "movies": [
-      {
-        "title": "Born on the Fourth of July",
-        "tmdb_id": 2604,
-        "imdb_id": "tt0096969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1989",
-    "nominees": [
-      "Ben Burtt",
-      "Gary Summers",
-      "Shawn Murphy",
-      "Tony Dawe"
-    ],
-    "movies": [
-      {
-        "title": "Indiana Jones and the Last Crusade",
-        "tmdb_id": 89,
-        "imdb_id": "tt0097576"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1989",
-    "nominees": [
-      "Ben Burtt",
-      "Richard Hymns"
-    ],
-    "movies": [
-      {
-        "title": "Indiana Jones and the Last Crusade",
-        "tmdb_id": 89,
-        "imdb_id": "tt0097576"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1989",
-    "nominees": [
-      "Milton Burrow",
-      "William Manger"
-    ],
-    "movies": [
-      {
-        "title": "Black Rain",
-        "tmdb_id": 4105,
-        "imdb_id": "tt0096933"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1989",
-    "nominees": [
-      "Robert Henderson",
-      "Alan Robert Murray"
-    ],
-    "movies": [
-      {
-        "title": "Lethal Weapon 2",
-        "tmdb_id": 942,
-        "imdb_id": "tt0097733"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1989",
-    "nominees": [
-      "Manlio Rocchetti",
-      "Lynn Barber",
-      "Kevin Haney"
-    ],
-    "movies": [
-      {
-        "title": "Driving Miss Daisy",
-        "tmdb_id": 403,
-        "imdb_id": "tt0097239"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1989",
-    "nominees": [
-      "Dick Smith",
-      "Ken Diaz",
-      "Greg Nelson"
-    ],
-    "movies": [
-      {
-        "title": "Dad",
-        "tmdb_id": 21291,
-        "imdb_id": "tt0097142"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "1989",
-    "nominees": [
-      "Maggie Weston",
-      "Fabrizio Sforza"
-    ],
-    "movies": [
-      {
-        "title": "The Adventures of Baron Munchausen",
-        "tmdb_id": 14506,
-        "imdb_id": "tt0096764"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Phyllis Dalton"
-    ],
-    "movies": [
-      {
-        "title": "Henry V",
-        "tmdb_id": 10705,
-        "imdb_id": "tt0097499"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Gabriella Pescucci"
-    ],
-    "movies": [
-      {
-        "title": "The Adventures of Baron Munchausen",
-        "tmdb_id": 14506,
-        "imdb_id": "tt0096764"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Elizabeth McBride"
-    ],
-    "movies": [
-      {
-        "title": "Driving Miss Daisy",
-        "tmdb_id": 403,
-        "imdb_id": "tt0097239"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Joe Tompkins"
-    ],
-    "movies": [
-      {
-        "title": "Harlem Nights",
-        "tmdb_id": 9085,
-        "imdb_id": "tt0097481"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1989",
-    "nominees": [
-      "Theodor Pistek"
-    ],
-    "movies": [
-      {
-        "title": "Valmont",
-        "tmdb_id": 37606,
-        "imdb_id": "tt0098575"
-      }
-    ],
-    "won": false
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Henry V",
+    "FilmId": "tt0097499",
+    "Name": "Kenneth Branagh",
+    "Nominees": "Kenneth Branagh",
+    "NomineeIds": "nm0000110",
+    "Winner": "",
+    "Detail": "Henry V",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Born on the Fourth of July",
+    "FilmId": "tt0096969",
+    "Name": "Tom Cruise",
+    "Nominees": "Tom Cruise",
+    "NomineeIds": "nm0000129",
+    "Winner": "",
+    "Detail": "Ron Kovic",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "My Left Foot",
+    "FilmId": "tt0097937",
+    "Name": "Daniel Day Lewis",
+    "Nominees": "Daniel Day Lewis",
+    "NomineeIds": "nm0000358",
+    "Winner": "True",
+    "Detail": "Christy Brown",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Driving Miss Daisy",
+    "FilmId": "tt0097239",
+    "Name": "Morgan Freeman",
+    "Nominees": "Morgan Freeman",
+    "NomineeIds": "nm0000151",
+    "Winner": "",
+    "Detail": "Hoke Colburn",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Dead Poets Society",
+    "FilmId": "tt0097165",
+    "Name": "Robin Williams",
+    "Nominees": "Robin Williams",
+    "NomineeIds": "nm0000245",
+    "Winner": "",
+    "Detail": "John Keating",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Do the Right Thing",
+    "FilmId": "tt0097216",
+    "Name": "Danny Aiello",
+    "Nominees": "Danny Aiello",
+    "NomineeIds": "nm0000732",
+    "Winner": "",
+    "Detail": "Sal",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Driving Miss Daisy",
+    "FilmId": "tt0097239",
+    "Name": "Dan Aykroyd",
+    "Nominees": "Dan Aykroyd",
+    "NomineeIds": "nm0000101",
+    "Winner": "",
+    "Detail": "Boolie Werthan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A Dry White Season",
+    "FilmId": "tt0097243",
+    "Name": "Marlon Brando",
+    "Nominees": "Marlon Brando",
+    "NomineeIds": "nm0000008",
+    "Winner": "",
+    "Detail": "McKenzie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Crimes and Misdemeanors",
+    "FilmId": "tt0097123",
+    "Name": "Martin Landau",
+    "Nominees": "Martin Landau",
+    "NomineeIds": "nm0001445",
+    "Winner": "",
+    "Detail": "Judah Rosenthal",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Glory",
+    "FilmId": "tt0097441",
+    "Name": "Denzel Washington",
+    "Nominees": "Denzel Washington",
+    "NomineeIds": "nm0000243",
+    "Winner": "True",
+    "Detail": "Trip",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Camille Claudel",
+    "FilmId": "tt0094828",
+    "Name": "Isabelle Adjani",
+    "Nominees": "Isabelle Adjani",
+    "NomineeIds": "nm0000254",
+    "Winner": "",
+    "Detail": "Camille Claudel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Shirley Valentine",
+    "FilmId": "tt0098319",
+    "Name": "Pauline Collins",
+    "Nominees": "Pauline Collins",
+    "NomineeIds": "nm0172604",
+    "Winner": "",
+    "Detail": "Shirley Valentine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Music Box",
+    "FilmId": "tt0100211",
+    "Name": "Jessica Lange",
+    "Nominees": "Jessica Lange",
+    "NomineeIds": "nm0001448",
+    "Winner": "",
+    "Detail": "Ann Talbot",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Fabulous Baker Boys",
+    "FilmId": "tt0097322",
+    "Name": "Michelle Pfeiffer",
+    "Nominees": "Michelle Pfeiffer",
+    "NomineeIds": "nm0000201",
+    "Winner": "",
+    "Detail": "Susie Diamond",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Driving Miss Daisy",
+    "FilmId": "tt0097239",
+    "Name": "Jessica Tandy",
+    "Nominees": "Jessica Tandy",
+    "NomineeIds": "nm0001788",
+    "Winner": "True",
+    "Detail": "Daisy Werthan",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "My Left Foot",
+    "FilmId": "tt0097937",
+    "Name": "Brenda Fricker",
+    "Nominees": "Brenda Fricker",
+    "NomineeIds": "nm0002084",
+    "Winner": "True",
+    "Detail": "Mrs. Brown",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Enemies, A Love Story",
+    "FilmId": "tt0097276",
+    "Name": "Anjelica Huston",
+    "Nominees": "Anjelica Huston",
+    "NomineeIds": "nm0001378",
+    "Winner": "",
+    "Detail": "Tamara",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Enemies, A Love Story",
+    "FilmId": "tt0097276",
+    "Name": "Lena Olin",
+    "Nominees": "Lena Olin",
+    "NomineeIds": "nm0000565",
+    "Winner": "",
+    "Detail": "Masha",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Steel Magnolias",
+    "FilmId": "tt0098384",
+    "Name": "Julia Roberts",
+    "Nominees": "Julia Roberts",
+    "NomineeIds": "nm0000210",
+    "Winner": "",
+    "Detail": "Shelby Eatenton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Parenthood",
+    "FilmId": "tt0098067",
+    "Name": "Dianne Wiest",
+    "Nominees": "Dianne Wiest",
+    "NomineeIds": "nm0001848",
+    "Winner": "",
+    "Detail": "Helen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Abyss",
+    "FilmId": "tt0096754",
+    "Name": "Art Direction: Leslie Dilley; Set Decoration: Anne Kuljian",
+    "Nominees": "Leslie Dilley|Anne Kuljian",
+    "NomineeIds": "nm0226896|nm0474600",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Adventures of Baron Munchausen",
+    "FilmId": "tt0096764",
+    "Name": "Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+    "Nominees": "Dante Ferretti|Francesca Lo Schiavo",
+    "NomineeIds": "nm0274721|nm0521302",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Batman",
+    "FilmId": "tt0096895",
+    "Name": "Art Direction: Anton Furst; Set Decoration: Peter Young",
+    "Nominees": "Anton Furst|Peter Young",
+    "NomineeIds": "nm0299107|nm0949952",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Driving Miss Daisy",
+    "FilmId": "tt0097239",
+    "Name": "Art Direction: Bruno Rubeo; Set Decoration: Crispian Sallis",
+    "Nominees": "Bruno Rubeo|Crispian Sallis",
+    "NomineeIds": "nm0747941|nm0758605",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Glory",
+    "FilmId": "tt0097441",
+    "Name": "Art Direction: Norman Garwood; Set Decoration: Garrett Lewis",
+    "Nominees": "Norman Garwood|Garrett Lewis",
+    "NomineeIds": "nm0308841|nm0507204",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Abyss",
+    "FilmId": "tt0096754",
+    "Name": "Mikael Salomon",
+    "Nominees": "Mikael Salomon",
+    "NomineeIds": "nm0004121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Blaze",
+    "FilmId": "tt0096943",
+    "Name": "Haskell Wexler",
+    "Nominees": "Haskell Wexler",
+    "NomineeIds": "nm0005549",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Born on the Fourth of July",
+    "FilmId": "tt0096969",
+    "Name": "Robert Richardson",
+    "Nominees": "Robert Richardson",
+    "NomineeIds": "nm0724744",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Fabulous Baker Boys",
+    "FilmId": "tt0097322",
+    "Name": "Michael Ballhaus",
+    "Nominees": "Michael Ballhaus",
+    "NomineeIds": "nm0000841",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Glory",
+    "FilmId": "tt0097441",
+    "Name": "Freddie Francis",
+    "Nominees": "Freddie Francis",
+    "NomineeIds": "nm0005711",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Adventures of Baron Munchausen",
+    "FilmId": "tt0096764",
+    "Name": "Gabriella Pescucci",
+    "Nominees": "Gabriella Pescucci",
+    "NomineeIds": "nm0675951",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Driving Miss Daisy",
+    "FilmId": "tt0097239",
+    "Name": "Elizabeth McBride",
+    "Nominees": "Elizabeth McBride",
+    "NomineeIds": "nm0564296",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Harlem Nights",
+    "FilmId": "tt0097481",
+    "Name": "Joe I. Tompkins",
+    "Nominees": "Joe I. Tompkins",
+    "NomineeIds": "nm0867001",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Henry V",
+    "FilmId": "tt0097499",
+    "Name": "Phyllis Dalton",
+    "Nominees": "Phyllis Dalton",
+    "NomineeIds": "nm0198335",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Valmont",
+    "FilmId": "tt0098575",
+    "Name": "Theodor Pistek",
+    "Nominees": "Theodor Pistek",
+    "NomineeIds": "nm0685551",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Born on the Fourth of July",
+    "FilmId": "tt0096969",
+    "Name": "Oliver Stone",
+    "Nominees": "Oliver Stone",
+    "NomineeIds": "nm0000231",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Crimes and Misdemeanors",
+    "FilmId": "tt0097123",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Dead Poets Society",
+    "FilmId": "tt0097165",
+    "Name": "Peter Weir",
+    "Nominees": "Peter Weir",
+    "NomineeIds": "nm0001837",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Henry V",
+    "FilmId": "tt0097499",
+    "Name": "Kenneth Branagh",
+    "Nominees": "Kenneth Branagh",
+    "NomineeIds": "nm0000110",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "My Left Foot",
+    "FilmId": "tt0097937",
+    "Name": "Jim Sheridan",
+    "Nominees": "Jim Sheridan",
+    "NomineeIds": "nm0006487",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Adam Clayton Powell",
+    "FilmId": "tt0096761",
+    "Name": "Richard Kilberg and Yvonne Smith, Producers",
+    "Nominees": "Richard Kilberg|Yvonne Smith",
+    "NomineeIds": "nm0452918|nm0810382",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Common Threads: Stories from the Quilt",
+    "FilmId": "tt0097099",
+    "Name": "Robert Epstein and Bill Couturié, Producers",
+    "Nominees": "Robert Epstein|Bill Couturié",
+    "NomineeIds": "nm0258531|nm0184323",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Crack USA: County under Siege",
+    "FilmId": "tt0097120",
+    "Name": "Vince DiPersio and William Guttentag, Producers",
+    "Nominees": "Vince DiPersio|William Guttentag",
+    "NomineeIds": "nm0228122|nm0349702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "For All Mankind",
+    "FilmId": "tt0097372",
+    "Name": "Al Reinert and Betsy Broyles Breier, Producers",
+    "Nominees": "Al Reinert|Betsy Broyles Breier",
+    "NomineeIds": "nm0718031|nm0972202",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Super Chief: The Life and Legacy of Earl Warren",
+    "FilmId": "tt0098413",
+    "Name": "Judith Leonard and Bill Jersey, Producers",
+    "Nominees": "Judith Leonard|Bill Jersey",
+    "NomineeIds": "nm0502672|nm0422080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Fine Food, Fine Pastries, Open 6 to 9",
+    "FilmId": "tt0097356",
+    "Name": "David Petersen, Producer",
+    "Nominees": "David Petersen",
+    "NomineeIds": "nm0676793",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Johnstown Flood",
+    "FilmId": "tt0097628",
+    "Name": "Charles Guggenheim, Producer",
+    "Nominees": "Charles Guggenheim",
+    "NomineeIds": "nm0346549",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Yad Vashem: Preserving the Past to Ensure the Future",
+    "FilmId": "tt0098685",
+    "Name": "Ray Errol Fox, Producer",
+    "Nominees": "Ray Errol Fox",
+    "NomineeIds": "nm0289201",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Bear",
+    "FilmId": "tt0095800",
+    "Name": "Noëlle Boisson",
+    "Nominees": "Noëlle Boisson",
+    "NomineeIds": "nm0092384",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Born on the Fourth of July",
+    "FilmId": "tt0096969",
+    "Name": "David Brenner, Joe Hutshing",
+    "Nominees": "David Brenner|Joe Hutshing",
+    "NomineeIds": "nm0107463|nm0404528",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Driving Miss Daisy",
+    "FilmId": "tt0097239",
+    "Name": "Mark Warner",
+    "Nominees": "Mark Warner",
+    "NomineeIds": "nm0912536",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Fabulous Baker Boys",
+    "FilmId": "tt0097322",
+    "Name": "William Steinkamp",
+    "Nominees": "William Steinkamp",
+    "NomineeIds": "nm0826119",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Glory",
+    "FilmId": "tt0097441",
+    "Name": "Steven Rosenblum",
+    "Nominees": "Steven Rosenblum",
+    "NomineeIds": "nm0742475",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Camille Claudel",
+    "FilmId": "tt0094828",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Cinema Paradiso",
+    "FilmId": "tt0095765",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Jesus of Montreal",
+    "FilmId": "tt0097635",
+    "Name": "Canada",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Waltzing Regitze",
+    "FilmId": "tt0097155",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "What Happened to Santiago",
+    "FilmId": "tt0097766",
+    "Name": "Puerto Rico",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "The Adventures of Baron Munchausen",
+    "FilmId": "tt0096764",
+    "Name": "Maggie Weston, Fabrizio Sforza",
+    "Nominees": "Maggie Weston|Fabrizio Sforza",
+    "NomineeIds": "nm1461907|nm0786969",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Dad",
+    "FilmId": "tt0097142",
+    "Name": "Dick Smith, Ken Diaz, Greg Nelson",
+    "Nominees": "Dick Smith|Ken Diaz|Greg Nelson",
+    "NomineeIds": "nm0004615|nm0225004|nm0625397",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Driving Miss Daisy",
+    "FilmId": "tt0097239",
+    "Name": "Manlio Rocchetti, Lynn Barber, Kevin Haney",
+    "Nominees": "Manlio Rocchetti|Lynn Barber|Kevin Haney",
+    "NomineeIds": "nm0733647|nm0053430|nm0359790",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Born on the Fourth of July",
+    "FilmId": "tt0096969",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Fabulous Baker Boys",
+    "FilmId": "tt0097322",
+    "Name": "David Grusin",
+    "Nominees": "David Grusin",
+    "NomineeIds": "nm0006115",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Field of Dreams",
+    "FilmId": "tt0097351",
+    "Name": "James Horner",
+    "Nominees": "James Horner",
+    "NomineeIds": "nm0000035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Indiana Jones and the Last Crusade",
+    "FilmId": "tt0097576",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Little Mermaid",
+    "FilmId": "tt0097757",
+    "Name": "Alan Menken",
+    "Nominees": "Alan Menken",
+    "NomineeIds": "nm0579678",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Chances Are",
+    "FilmId": "tt0097044",
+    "Name": "Music by Tom Snow; Lyric by Dean Pitchford",
+    "Nominees": "Tom Snow|Dean Pitchford",
+    "NomineeIds": "nm0811330|nm0685673",
+    "Winner": "",
+    "Detail": "After All",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Shirley Valentine",
+    "FilmId": "tt0098319",
+    "Name": "Music by Marvin Hamlisch; Lyric by Alan Bergman and Marilyn Bergman",
+    "Nominees": "Marvin Hamlisch|Alan Bergman|Marilyn Bergman",
+    "NomineeIds": "nm0006121|nm0074732|nm0004750",
+    "Winner": "",
+    "Detail": "The Girl Who Used To Be Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Parenthood",
+    "FilmId": "tt0098067",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "I Love To See You Smile",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Little Mermaid",
+    "FilmId": "tt0097757",
+    "Name": "Music by Alan Menken; Lyric by Howard Ashman",
+    "Nominees": "Alan Menken|Howard Ashman",
+    "NomineeIds": "nm0579678|nm0039141",
+    "Winner": "",
+    "Detail": "Kiss The Girl",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Little Mermaid",
+    "FilmId": "tt0097757",
+    "Name": "Music by Alan Menken; Lyric by Howard Ashman",
+    "Nominees": "Alan Menken|Howard Ashman",
+    "NomineeIds": "nm0579678|nm0039141",
+    "Winner": "True",
+    "Detail": "Under The Sea",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Born on the Fourth of July",
+    "FilmId": "tt0096969",
+    "Name": "A. Kitman Ho and Oliver Stone, Producers",
+    "Nominees": "A. Kitman Ho|Oliver Stone",
+    "NomineeIds": "nm0457715|nm0000231",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Dead Poets Society",
+    "FilmId": "tt0097165",
+    "Name": "Steven Haft, Paul Junger Witt and Tony Thomas, Producers",
+    "Nominees": "Steven Haft|Paul Junger Witt|Tony Thomas",
+    "NomineeIds": "nm0353187|nm0432625|nm0859597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Driving Miss Daisy",
+    "FilmId": "tt0097239",
+    "Name": "Richard D. Zanuck and Lili Fini Zanuck, Producers",
+    "Nominees": "Richard D. Zanuck|Lili Fini Zanuck",
+    "NomineeIds": "nm0005573|nm0005572",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Field of Dreams",
+    "FilmId": "tt0097351",
+    "Name": "Lawrence Gordon and Charles Gordon, Producers",
+    "Nominees": "Lawrence Gordon|Charles Gordon",
+    "NomineeIds": "nm0330379|nm0330077",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "My Left Foot",
+    "FilmId": "tt0097937",
+    "Name": "Noel Pearson, Producer",
+    "Nominees": "Noel Pearson",
+    "NomineeIds": "nm0669348",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Balance",
+    "FilmId": "tt0096880",
+    "Name": "Christoph Lauenstein, Wolfgang Lauenstein",
+    "Nominees": "Christoph Lauenstein|Wolfgang Lauenstein",
+    "NomineeIds": "nm0490771|nm0490773",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Cow",
+    "FilmId": "tt0097118",
+    "Name": "Alexander Petrov",
+    "Nominees": "Alexander Petrov",
+    "NomineeIds": "nm0678154",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Hill Farm",
+    "FilmId": "tt0097509",
+    "Name": "Mark Baker",
+    "Nominees": "Mark Baker",
+    "NomineeIds": "nm0048735",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Amazon Diary",
+    "FilmId": "tt0096798",
+    "Name": "Robert Nixon",
+    "Nominees": "Robert Nixon",
+    "NomineeIds": "nm0633272",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Childeater",
+    "FilmId": "tt0097057",
+    "Name": "Jonathan Tammuz",
+    "Nominees": "Jonathan Tammuz",
+    "NomineeIds": "nm0848734",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Work Experience",
+    "FilmId": "tt0098677",
+    "Name": "James Hendrie",
+    "Nominees": "James Hendrie",
+    "NomineeIds": "nm0376835",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Abyss",
+    "FilmId": "tt0096754",
+    "Name": "Don Bassman, Kevin F. Cleary, Richard Overton, Lee Orloff",
+    "Nominees": "Don Bassman|Kevin F. Cleary|Richard Overton|Lee Orloff",
+    "NomineeIds": "nm0060318|nm0165855|nm0653958|nm0650090",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Black Rain",
+    "FilmId": "tt0096933",
+    "Name": "Donald O. Mitchell, Kevin O'Connell, Greg P. Russell, Keith A. Wester",
+    "Nominees": "Donald O. Mitchell|Kevin O'Connell|Greg P. Russell|Keith A. Wester",
+    "NomineeIds": "nm0593290|nm0640114|nm0751169|nm0199492",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Born on the Fourth of July",
+    "FilmId": "tt0096969",
+    "Name": "Michael Minkler, Gregory H. Watkins, Wylie Stateman, Tod A. Maitland",
+    "Nominees": "Michael Minkler|Gregory H. Watkins|Wylie Stateman|Tod A. Maitland",
+    "NomineeIds": "nm0591444|nm0914312|nm0823758|nm0537972",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Glory",
+    "FilmId": "tt0097441",
+    "Name": "Donald O. Mitchell, Gregg C. Rudloff, Elliot Tyson, Russell Williams II",
+    "Nominees": "Donald O. Mitchell|Gregg C. Rudloff|Elliot Tyson|Russell Williams II",
+    "NomineeIds": "nm0593290|nm0748832|nm0006525|nm0007020",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Indiana Jones and the Last Crusade",
+    "FilmId": "tt0097576",
+    "Name": "Ben Burtt, Gary Summers, Shawn Murphy, Tony Dawe",
+    "Nominees": "Ben Burtt|Gary Summers|Shawn Murphy|Tony Dawe",
+    "NomineeIds": "nm0123785|nm0838707|nm0004156|nm0003360",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Black Rain",
+    "FilmId": "tt0096933",
+    "Name": "Milton C. Burrow, William L. Manger",
+    "Nominees": "Milton C. Burrow|William L. Manger",
+    "NomineeIds": "nm0123228|nm0542191",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Indiana Jones and the Last Crusade",
+    "FilmId": "tt0097576",
+    "Name": "Ben Burtt, Richard Hymns",
+    "Nominees": "Ben Burtt|Richard Hymns",
+    "NomineeIds": "nm0123785|nm0405232",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS EDITING",
+    "Film": "Lethal Weapon 2",
+    "FilmId": "tt0097733",
+    "Name": "Robert Henderson, Alan Robert Murray",
+    "Nominees": "Robert Henderson|Alan Robert Murray",
+    "NomineeIds": "nm0376583|nm0614812",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Abyss",
+    "FilmId": "tt0096754",
+    "Name": "John Bruno, Dennis Muren, Hoyt Yeatman, Dennis Skotak",
+    "Nominees": "John Bruno|Dennis Muren|Hoyt Yeatman|Dennis Skotak",
+    "NomineeIds": "nm0116497|nm0613830|nm0947087|nm0804737",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Adventures of Baron Munchausen",
+    "FilmId": "tt0096764",
+    "Name": "Richard Conway, Kent Houston",
+    "Nominees": "Richard Conway|Kent Houston",
+    "NomineeIds": "nm0176763|nm0396854",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Back to the Future Part II",
+    "FilmId": "tt0096874",
+    "Name": "Ken Ralston, Michael Lantieri, John Bell, Steve Gawley",
+    "Nominees": "Ken Ralston|Michael Lantieri|John Bell|Steve Gawley",
+    "NomineeIds": "nm0707822|nm0487177|nm0068290|nm0310697",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Born on the Fourth of July",
+    "FilmId": "tt0096969",
+    "Name": "Oliver Stone, Ron Kovic",
+    "Nominees": "Oliver Stone|Ron Kovic",
+    "NomineeIds": "nm0000231|nm0468407",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Driving Miss Daisy",
+    "FilmId": "tt0097239",
+    "Name": "Alfred Uhry",
+    "Nominees": "Alfred Uhry",
+    "NomineeIds": "nm0880261",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Enemies, A Love Story",
+    "FilmId": "tt0097276",
+    "Name": "Roger L. Simon, Paul Mazursky",
+    "Nominees": "Roger L. Simon|Paul Mazursky",
+    "NomineeIds": "nm0800363|nm0005196",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "Field of Dreams",
+    "FilmId": "tt0097351",
+    "Name": "Phil Alden Robinson",
+    "Nominees": "Phil Alden Robinson",
+    "NomineeIds": "nm0004675",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Based on Material from Another Medium)",
+    "Film": "My Left Foot",
+    "FilmId": "tt0097937",
+    "Name": "Jim Sheridan, Shane Connaughton",
+    "Nominees": "Jim Sheridan|Shane Connaughton",
+    "NomineeIds": "nm0006487|nm0174934",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Crimes and Misdemeanors",
+    "FilmId": "tt0097123",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Dead Poets Society",
+    "FilmId": "tt0097165",
+    "Name": "Tom Schulman",
+    "Nominees": "Tom Schulman",
+    "NomineeIds": "nm0776114",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "Do the Right Thing",
+    "FilmId": "tt0097216",
+    "Name": "Spike Lee",
+    "Nominees": "Spike Lee",
+    "NomineeIds": "nm0000490",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "sex, lies, and videotape",
+    "FilmId": "tt0098724",
+    "Name": "Steven Soderbergh",
+    "Nominees": "Steven Soderbergh",
+    "NomineeIds": "nm0001752",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen)",
+    "Film": "When Harry Met Sally...",
+    "FilmId": "tt0098635",
+    "Name": "Nora Ephron",
+    "Nominees": "Nora Ephron",
+    "NomineeIds": "nm0001188",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Howard W. Koch",
+    "Nominees": "Howard W. Koch",
+    "NomineeIds": "nm0462322",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Akira Kurosawa",
+    "NomineeIds": "nm0000041",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Akira Kurosawa for accomplishments that have inspired, delighted, enriched and entertained audiences and influenced filmmakers throughout the world."
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Pierre Angenieux",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Pierre Angenieux"
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JAMES KETCHAM",
+    "NomineeIds": "nm0450478",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JAMES KETCHAM of JSK Engineering, for the excellence in engineering and the broad adaptability of the SDA521B Advance/Retard system for magnetic film sound dubbing."
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "J. Noxon Leavitt",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To J. NOXON LEAVITT, for the invention of, and ISTEC, INCORPORATED, for the continuing development of the Wescam Stabilized Camera System."
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Geoffrey H. Williamson|Robert D. Auguste",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To GEOFFREY H. WILLIAMSON of Wilcam Photo Research, Incorporated, for the design and development, and to ROBERT D. AUGUSTE for the electronic design and development of the Wilcam W-7 200 frames-per-second VistaVision Rotating Mirror Reflex Camera."
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "J. L. FISHER",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To J. L. FISHER of J. L. Fisher, Incorporated, for the design and manufacture of a small, mobile motion picture camera platform known as the Fisher Model Ten Dolly."
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Klaus Resch|Erich Fitz|Fgv Schmidle & Fitz",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To KLAUS RESCH for the design, ERICH FITZ and FGV SCHMIDLE & FITZ for the development of the Super Panther MS-180 Camera Dolly."
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Leo Catozzo",
+    "NomineeIds": "nm0146294",
+    "Winner": "True",
+    "Detail": "Editorial",
+    "Note": "",
+    "Citation": "To DR. LEO CATOZZO for the design and development of the CIR-Catozzo Self-Perforating Adhesive Tape Film Splicer."
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Magna-Tech Electronic Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To MAGNA-TECH ELECTRONIC COMPANY for the introduction of the first remotely controlled Advance/Retard function for magnetic film sound dubbing."
+  },
+  {
+    "Ceremony": 62,
+    "Year": 1989,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Society of Motion Picture and Television Engineers",
+    "NomineeIds": "co0328276",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "The Academy of Motion Picture Arts and Sciences' Board of Governors commends the contributions of the members of the engineering committees of the Society of Motion Picture and Television Engineers (SMPTE). By establishing industry standards, they have greatly contributed to making film a primary form of international communication."
   }
 ]

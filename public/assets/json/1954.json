@@ -1,1857 +1,2194 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1954",
-    "nominees": [
-      "On the Waterfront"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1954",
-    "nominees": [
-      "The Caine Mutiny"
-    ],
-    "movies": [
-      {
-        "title": "The Caine Mutiny",
-        "tmdb_id": 10178,
-        "imdb_id": "tt0046816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1954",
-    "nominees": [
-      "The Country Girl"
-    ],
-    "movies": [
-      {
-        "title": "The Country Girl",
-        "tmdb_id": 2438,
-        "imdb_id": "tt0046874"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1954",
-    "nominees": [
-      "Seven Brides for Seven Brothers"
-    ],
-    "movies": [
-      {
-        "title": "Seven Brides for Seven Brothers",
-        "tmdb_id": 16563,
-        "imdb_id": "tt0047472"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1954",
-    "nominees": [
-      "Three Coins in the Fountain"
-    ],
-    "movies": [
-      {
-        "title": "Three Coins in the Fountain",
-        "tmdb_id": 41503,
-        "imdb_id": "tt0047580"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1954",
-    "nominees": [
-      "Marlon Brando"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1954",
-    "nominees": [
-      "Humphrey Bogart"
-    ],
-    "movies": [
-      {
-        "title": "The Caine Mutiny",
-        "tmdb_id": 10178,
-        "imdb_id": "tt0046816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1954",
-    "nominees": [
-      "Bing Crosby"
-    ],
-    "movies": [
-      {
-        "title": "The Country Girl",
-        "tmdb_id": 2438,
-        "imdb_id": "tt0046874"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1954",
-    "nominees": [
-      "James Mason"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 3111,
-        "imdb_id": "tt0047522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1954",
-    "nominees": [
-      "Dan O'Herlihy"
-    ],
-    "movies": [
-      {
-        "title": "Robinson Crusoe",
-        "tmdb_id": 54979,
-        "imdb_id": "tt0044386"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1954",
-    "nominees": [
-      "Grace Kelly"
-    ],
-    "movies": [
-      {
-        "title": "The Country Girl",
-        "tmdb_id": 2438,
-        "imdb_id": "tt0046874"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1954",
-    "nominees": [
-      "Dorothy Dandridge"
-    ],
-    "movies": [
-      {
-        "title": "Carmen Jones",
-        "tmdb_id": 51044,
-        "imdb_id": "tt0046828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1954",
-    "nominees": [
-      "Judy Garland"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 3111,
-        "imdb_id": "tt0047522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1954",
-    "nominees": [
-      "Audrey Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "Sabrina",
-        "tmdb_id": 6620,
-        "imdb_id": "tt0047437"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1954",
-    "nominees": [
-      "Jane Wyman"
-    ],
-    "movies": [
-      {
-        "title": "Magnificent Obsession",
-        "tmdb_id": 13457,
-        "imdb_id": "tt0047203"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1954",
-    "nominees": [
-      "Edmond O'Brien"
-    ],
-    "movies": [
-      {
-        "title": "The Barefoot Contessa",
-        "tmdb_id": 34689,
-        "imdb_id": "tt0046754"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1954",
-    "nominees": [
-      "Lee J. Cobb"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1954",
-    "nominees": [
-      "Karl Malden"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1954",
-    "nominees": [
-      "Rod Steiger"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1954",
-    "nominees": [
-      "Tom Tully"
-    ],
-    "movies": [
-      {
-        "title": "The Caine Mutiny",
-        "tmdb_id": 10178,
-        "imdb_id": "tt0046816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1954",
-    "nominees": [
-      "Eva Marie Saint"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1954",
-    "nominees": [
-      "Nina Foch"
-    ],
-    "movies": [
-      {
-        "title": "Executive Suite",
-        "tmdb_id": 43336,
-        "imdb_id": "tt0046963"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1954",
-    "nominees": [
-      "Katy Jurado"
-    ],
-    "movies": [
-      {
-        "title": "Broken Lance",
-        "tmdb_id": 42328,
-        "imdb_id": "tt0046808"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1954",
-    "nominees": [
-      "Jan Sterling"
-    ],
-    "movies": [
-      {
-        "title": "The High and the Mighty",
-        "tmdb_id": 17761,
-        "imdb_id": "tt0047086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1954",
-    "nominees": [
-      "Claire Trevor"
-    ],
-    "movies": [
-      {
-        "title": "The High and the Mighty",
-        "tmdb_id": 17761,
-        "imdb_id": "tt0047086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1954",
-    "nominees": [
-      "Elia Kazan"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1954",
-    "nominees": [
-      "Alfred Hitchcock"
-    ],
-    "movies": [
-      {
-        "title": "Rear Window",
-        "tmdb_id": 567,
-        "imdb_id": "tt0047396"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1954",
-    "nominees": [
-      "George Seaton"
-    ],
-    "movies": [
-      {
-        "title": "The Country Girl",
-        "tmdb_id": 2438,
-        "imdb_id": "tt0046874"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1954",
-    "nominees": [
-      "William A. Wellman"
-    ],
-    "movies": [
-      {
-        "title": "The High and the Mighty",
-        "tmdb_id": 17761,
-        "imdb_id": "tt0047086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1954",
-    "nominees": [
-      "Billy Wilder"
-    ],
-    "movies": [
-      {
-        "title": "Sabrina",
-        "tmdb_id": 6620,
-        "imdb_id": "tt0047437"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1954",
-    "nominees": [
-      "George Seaton"
-    ],
-    "movies": [
-      {
-        "title": "The Country Girl",
-        "tmdb_id": 2438,
-        "imdb_id": "tt0046874"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1954",
-    "nominees": [
-      "Stanley Roberts"
-    ],
-    "movies": [
-      {
-        "title": "The Caine Mutiny",
-        "tmdb_id": 10178,
-        "imdb_id": "tt0046816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1954",
-    "nominees": [
-      "John Michael Hayes"
-    ],
-    "movies": [
-      {
-        "title": "Rear Window",
-        "tmdb_id": 567,
-        "imdb_id": "tt0047396"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1954",
-    "nominees": [
-      "Billy Wilder",
-      "Samuel Taylor",
-      "Ernest Lehman"
-    ],
-    "movies": [
-      {
-        "title": "Sabrina",
-        "tmdb_id": 6620,
-        "imdb_id": "tt0047437"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1954",
-    "nominees": [
-      "Albert Hackett",
-      "Frances Goodrich",
-      "Dorothy Kingsley"
-    ],
-    "movies": [
-      {
-        "title": "Seven Brides for Seven Brothers",
-        "tmdb_id": 16563,
-        "imdb_id": "tt0047472"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1954",
-    "nominees": [
-      "Budd Schulberg"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1954",
-    "nominees": [
-      "Joseph L. Mankiewicz"
-    ],
-    "movies": [
-      {
-        "title": "The Barefoot Contessa",
-        "tmdb_id": 34689,
-        "imdb_id": "tt0046754"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1954",
-    "nominees": [
-      "William Rose"
-    ],
-    "movies": [
-      {
-        "title": "Genevieve",
-        "tmdb_id": 43346,
-        "imdb_id": "tt0045808"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1954",
-    "nominees": [
-      "Valentine Davies",
-      "Oscar Brodney"
-    ],
-    "movies": [
-      {
-        "title": "The Glenn Miller Story",
-        "tmdb_id": 17729,
-        "imdb_id": "tt0047030"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1954",
-    "nominees": [
-      "Norman Panama",
-      "Melvin Frank"
-    ],
-    "movies": [
-      {
-        "title": "Knock On Wood",
-        "tmdb_id": 55859,
-        "imdb_id": "tt0047152"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1954",
-    "nominees": [
-      "Philip Yordan"
-    ],
-    "movies": [
-      {
-        "title": "Broken Lance",
-        "tmdb_id": 42328,
-        "imdb_id": "tt0046808"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1954",
-    "nominees": [
-      "Ettore Maria Margadonna"
-    ],
-    "movies": [
-      {
-        "title": "Bread, Love and Dreams",
-        "tmdb_id": 56402,
-        "imdb_id": "tt0046159"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1954",
-    "nominees": [
-      "Francois Boyer"
-    ],
-    "movies": [
-      {
-        "title": "Forbidden Games",
-        "tmdb_id": 5000,
-        "imdb_id": "tt0043686"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1954",
-    "nominees": [
-      "Jed Harris",
-      "Tom Reed"
-    ],
-    "movies": [
-      {
-        "title": "Night People",
-        "tmdb_id": 76372,
-        "imdb_id": "tt0047279"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1954",
-    "nominees": [
-      "Lamar Trotti"
-    ],
-    "movies": [
-      {
-        "title": "There's No Business Like Show Business",
-        "tmdb_id": 21468,
-        "imdb_id": "tt0047574"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1954",
-    "nominees": [
-      "Dimitri Tiomkin"
-    ],
-    "movies": [
-      {
-        "title": "The High and the Mighty",
-        "tmdb_id": 17761,
-        "imdb_id": "tt0047086"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1954",
-    "nominees": [
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "The Caine Mutiny",
-        "tmdb_id": 10178,
-        "imdb_id": "tt0046816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1954",
-    "nominees": [
-      "Larry Adler"
-    ],
-    "movies": [
-      {
-        "title": "Genevieve",
-        "tmdb_id": 43346,
-        "imdb_id": "tt0045808"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1954",
-    "nominees": [
-      "Leonard Bernstein"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1954",
-    "nominees": [
-      "Franz Waxman"
-    ],
-    "movies": [
-      {
-        "title": "The Silver Chalice",
-        "tmdb_id": 65212,
-        "imdb_id": "tt0047494"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1954",
-    "nominees": [
-      "Adolph Deutsch",
-      "Saul Chaplin"
-    ],
-    "movies": [
-      {
-        "title": "Seven Brides for Seven Brothers",
-        "tmdb_id": 16563,
-        "imdb_id": "tt0047472"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1954",
-    "nominees": [
-      "Herschel Burke Gilbert"
-    ],
-    "movies": [
-      {
-        "title": "Carmen Jones",
-        "tmdb_id": 51044,
-        "imdb_id": "tt0046828"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1954",
-    "nominees": [
-      "Joseph Gershenson",
-      "Henry Mancini"
-    ],
-    "movies": [
-      {
-        "title": "The Glenn Miller Story",
-        "tmdb_id": 17729,
-        "imdb_id": "tt0047030"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1954",
-    "nominees": [
-      "Ray Heindorf"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 3111,
-        "imdb_id": "tt0047522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1954",
-    "nominees": [
-      "Alfred Newman",
-      "Lionel Newman"
-    ],
-    "movies": [
-      {
-        "title": "There's No Business Like Show Business",
-        "tmdb_id": 21468,
-        "imdb_id": "tt0047574"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1954",
-    "nominees": [
-      "Three Coins in the Fountain"
-    ],
-    "movies": [
-      {
-        "title": "Three Coins in the Fountain",
-        "tmdb_id": 41503,
-        "imdb_id": "tt0047580"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1954",
-    "nominees": [
-      "Count Your Blessings Instead of Sheep"
-    ],
-    "movies": [
-      {
-        "title": "White Christmas",
-        "tmdb_id": 13368,
-        "imdb_id": "tt0047673"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1954",
-    "nominees": [
-      "The High",
-      "the Mighty"
-    ],
-    "movies": [
-      {
-        "title": "The High and the Mighty",
-        "tmdb_id": 17761,
-        "imdb_id": "tt0047086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1954",
-    "nominees": [
-      "Hold My Hand"
-    ],
-    "movies": [
-      {
-        "title": "Susan Slept Here",
-        "tmdb_id": 50356,
-        "imdb_id": "tt0047550"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1954",
-    "nominees": [
-      "The Man That Got Away"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 3111,
-        "imdb_id": "tt0047522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1954",
-    "nominees": [
-      "Gate of Hell"
-    ],
-    "movies": [
-      {
-        "title": "Gate of Hell",
-        "tmdb_id": 43349,
-        "imdb_id": "tt0045935"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1954",
-    "nominees": [
-      "The Vanishing Prairie"
-    ],
-    "movies": [
-      {
-        "title": "The Vanishing Prairie",
-        "tmdb_id": 114499,
-        "imdb_id": "tt0047642"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1954",
-    "nominees": [
-      "The Stratford Adventure"
-    ],
-    "movies": [
-      {
-        "title": "The Stratford Adventure",
-        "tmdb_id": 149261,
-        "imdb_id": "tt0047530"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1954",
-    "nominees": [
-      "Thursday's Children"
-    ],
-    "movies": [
-      {
-        "title": "Thursday's Children",
-        "tmdb_id": 243023,
-        "imdb_id": "tt0047585"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1954",
-    "nominees": [
-      "Jet Carrier"
-    ],
-    "movies": [
-      {
-        "title": "Jet Carrier",
-        "tmdb_id": 243017,
-        "imdb_id": "tt0047131"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1954",
-    "nominees": [
-      "Rembrandt: A Self-Portrait"
-    ],
-    "movies": [
-      {
-        "title": "Rembrandt: A Self-Portrait",
-        "tmdb_id": 243024,
-        "imdb_id": "tt0047404"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1954",
-    "nominees": [
-      "When Magoo Flew"
-    ],
-    "movies": [
-      {
-        "title": "When Magoo Flew",
-        "tmdb_id": 205712,
-        "imdb_id": "tt0047672"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1954",
-    "nominees": [
-      "Crazy Mixed Up Pup"
-    ],
-    "movies": [
-      {
-        "title": "Crazy Mixed Up Pup",
-        "tmdb_id": 204675,
-        "imdb_id": "tt0047959"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1954",
-    "nominees": [
-      "Pigs Is Pigs"
-    ],
-    "movies": [
-      {
-        "title": "Pigs Is Pigs",
-        "tmdb_id": 56011,
-        "imdb_id": "tt0047353"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1954",
-    "nominees": [
-      "Sandy Claws"
-    ],
-    "movies": [
-      {
-        "title": "Sandy Claws",
-        "tmdb_id": 168018,
-        "imdb_id": "tt0048581"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1954",
-    "nominees": [
-      "Touché, Pussy Cat!"
-    ],
-    "movies": [
-      {
-        "title": "Touché, Pussy Cat!",
-        "tmdb_id": 93653,
-        "imdb_id": "tt0047600"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1954",
-    "nominees": [
-      "This Mechanical Age"
-    ],
-    "movies": [
-      {
-        "title": "This Mechanical Age",
-        "tmdb_id": 243020,
-        "imdb_id": "tt0047578"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1954",
-    "nominees": [
-      "The First Piano Quartette"
-    ],
-    "movies": [
-      {
-        "title": "The First Piano Quartette",
-        "tmdb_id": 243021,
-        "imdb_id": "tt0046981"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1954",
-    "nominees": [
-      "The Strauss Fantasy"
-    ],
-    "movies": [
-      {
-        "title": "The Strauss Fantasy",
-        "tmdb_id": 243022,
-        "imdb_id": "tt0047531"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1954",
-    "nominees": [
-      "A Time Out of War"
-    ],
-    "movies": [
-      {
-        "title": "A Time Out of War",
-        "tmdb_id": 163370,
-        "imdb_id": "tt0047587"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1954",
-    "nominees": [
-      "Beauty and the Bull"
-    ],
-    "movies": [
-      {
-        "title": "Beauty and the Bull",
-        "tmdb_id": 243016,
-        "imdb_id": "tt0046760"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1954",
-    "nominees": [
-      "Jet Carrier"
-    ],
-    "movies": [
-      {
-        "title": "Jet Carrier",
-        "tmdb_id": 243017,
-        "imdb_id": "tt0047131"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1954",
-    "nominees": [
-      "Siam"
-    ],
-    "movies": [
-      {
-        "title": "Siam",
-        "tmdb_id": 243019,
-        "imdb_id": "tt0047485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Richard Day"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Hal Pereira",
-      "Roland Anderson",
-      "Samuel M. Comer",
-      "Grace Gregory"
-    ],
-    "movies": [
-      {
-        "title": "The Country Girl",
-        "tmdb_id": 2438,
-        "imdb_id": "tt0046874"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Cedric Gibbons",
-      "Edward Carfagno",
-      "Edwin B. Willis",
-      "Emile Kuri"
-    ],
-    "movies": [
-      {
-        "title": "Executive Suite",
-        "tmdb_id": 43336,
-        "imdb_id": "tt0046963"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Max Ophuls"
-    ],
-    "movies": [
-      {
-        "title": "Le Plaisir",
-        "tmdb_id": 43360,
-        "imdb_id": "tt0045034"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Hal Pereira",
-      "Walter Tyler",
-      "Samuel M. Comer",
-      "Ray Moyer"
-    ],
-    "movies": [
-      {
-        "title": "Sabrina",
-        "tmdb_id": 6620,
-        "imdb_id": "tt0047437"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "John Meehan",
-      "Emile Kuri"
-    ],
-    "movies": [
-      {
-        "title": "20,000 Leagues Under the Sea",
-        "tmdb_id": 173,
-        "imdb_id": "tt0046672"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "Cedric Gibbons",
-      "E. Preston Ames",
-      "Edwin B. Willis",
-      "Keogh Gleason"
-    ],
-    "movies": [
-      {
-        "title": "Brigadoon",
-        "tmdb_id": 18283,
-        "imdb_id": "tt0046807"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "Lyle Wheeler",
-      "Leland Fuller",
-      "Walter M. Scott",
-      "Paul S. Fox"
-    ],
-    "movies": [
-      {
-        "title": "Désirée",
-        "tmdb_id": 43333,
-        "imdb_id": "tt0046903"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "Hal Pereira",
-      "Roland Anderson",
-      "Samuel M. Comer",
-      "Ray Moyer"
-    ],
-    "movies": [
-      {
-        "title": "Red Garters",
-        "tmdb_id": 156566,
-        "imdb_id": "tt0047400"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "Malcolm Bert",
-      "Gene Allen",
-      "Irene Sharaff",
-      "George James Hopkins"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 3111,
-        "imdb_id": "tt0047522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Boris Kaufman"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "John F. Warren"
-    ],
-    "movies": [
-      {
-        "title": "The Country Girl",
-        "tmdb_id": 2438,
-        "imdb_id": "tt0046874"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "George Folsey"
-    ],
-    "movies": [
-      {
-        "title": "Executive Suite",
-        "tmdb_id": 43336,
-        "imdb_id": "tt0046963"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "John Seitz"
-    ],
-    "movies": [
-      {
-        "title": "Rogue Cop",
-        "tmdb_id": 30036,
-        "imdb_id": "tt0047424"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Charles Lang Jr."
-    ],
-    "movies": [
-      {
-        "title": "Sabrina",
-        "tmdb_id": 6620,
-        "imdb_id": "tt0047437"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1954",
-    "nominees": [
-      "Milton R. Krasner"
-    ],
-    "movies": [
-      {
-        "title": "Three Coins in the Fountain",
-        "tmdb_id": 41503,
-        "imdb_id": "tt0047580"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1954",
-    "nominees": [
-      "Leon Shamroy"
-    ],
-    "movies": [
-      {
-        "title": "The Egyptian",
-        "tmdb_id": 24973,
-        "imdb_id": "tt0046949"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1954",
-    "nominees": [
-      "Robert Burks"
-    ],
-    "movies": [
-      {
-        "title": "Rear Window",
-        "tmdb_id": 567,
-        "imdb_id": "tt0047396"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1954",
-    "nominees": [
-      "George Folsey"
-    ],
-    "movies": [
-      {
-        "title": "Seven Brides for Seven Brothers",
-        "tmdb_id": 16563,
-        "imdb_id": "tt0047472"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1954",
-    "nominees": [
-      "William V. Skall"
-    ],
-    "movies": [
-      {
-        "title": "The Silver Chalice",
-        "tmdb_id": 65212,
-        "imdb_id": "tt0047494"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1954",
-    "nominees": [
-      "Gene Milford"
-    ],
-    "movies": [
-      {
-        "title": "On the Waterfront",
-        "tmdb_id": 654,
-        "imdb_id": "tt0047296"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1954",
-    "nominees": [
-      "Elmo Williams"
-    ],
-    "movies": [
-      {
-        "title": "20,000 Leagues Under the Sea",
-        "tmdb_id": 173,
-        "imdb_id": "tt0046672"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1954",
-    "nominees": [
-      "William A. Lyon",
-      "Henry Batista"
-    ],
-    "movies": [
-      {
-        "title": "The Caine Mutiny",
-        "tmdb_id": 10178,
-        "imdb_id": "tt0046816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1954",
-    "nominees": [
-      "Ralph Dawson"
-    ],
-    "movies": [
-      {
-        "title": "The High and the Mighty",
-        "tmdb_id": 17761,
-        "imdb_id": "tt0047086"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1954",
-    "nominees": [
-      "Ralph E. Winters"
-    ],
-    "movies": [
-      {
-        "title": "Seven Brides for Seven Brothers",
-        "tmdb_id": 16563,
-        "imdb_id": "tt0047472"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1954",
-    "nominees": [
-      "Walt Disney Studios"
-    ],
-    "movies": [
-      {
-        "title": "20,000 Leagues Under the Sea",
-        "tmdb_id": 173,
-        "imdb_id": "tt0046672"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1954",
-    "nominees": [
-      "20th Century Fox Studio"
-    ],
-    "movies": [
-      {
-        "title": "Hell and High Water",
-        "tmdb_id": 23097,
-        "imdb_id": "tt0047073"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1954",
-    "nominees": [
-      "Warner Bros. Studio"
-    ],
-    "movies": [
-      {
-        "title": "Them!",
-        "tmdb_id": 11071,
-        "imdb_id": "tt0047573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1954",
-    "nominees": [
-      "Leslie I. Carey"
-    ],
-    "movies": [
-      {
-        "title": "The Glenn Miller Story",
-        "tmdb_id": 17729,
-        "imdb_id": "tt0047030"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1954",
-    "nominees": [
-      "Wesley C. Miller"
-    ],
-    "movies": [
-      {
-        "title": "Brigadoon",
-        "tmdb_id": 18283,
-        "imdb_id": "tt0046807"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1954",
-    "nominees": [
-      "John P. Livadary"
-    ],
-    "movies": [
-      {
-        "title": "The Caine Mutiny",
-        "tmdb_id": 10178,
-        "imdb_id": "tt0046816"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1954",
-    "nominees": [
-      "Loren L. Ryder"
-    ],
-    "movies": [
-      {
-        "title": "Rear Window",
-        "tmdb_id": 567,
-        "imdb_id": "tt0047396"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1954",
-    "nominees": [
-      "John Aalberg"
-    ],
-    "movies": [
-      {
-        "title": "Susan Slept Here",
-        "tmdb_id": 50356,
-        "imdb_id": "tt0047550"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Edith Head"
-    ],
-    "movies": [
-      {
-        "title": "Sabrina",
-        "tmdb_id": 6620,
-        "imdb_id": "tt0047437"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Georges Annenkov",
-      "Rosine Delamare"
-    ],
-    "movies": [
-      {
-        "title": "The Earrings of Madame de...",
-        "tmdb_id": 27030,
-        "imdb_id": "tt0046022"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Helen Rose"
-    ],
-    "movies": [
-      {
-        "title": "Executive Suite",
-        "tmdb_id": 43336,
-        "imdb_id": "tt0046963"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Jean Louis"
-    ],
-    "movies": [
-      {
-        "title": "It Should Happen to You",
-        "tmdb_id": 20127,
-        "imdb_id": "tt0047123"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1954",
-    "nominees": [
-      "Christian Dior"
-    ],
-    "movies": [
-      {
-        "title": "Indiscretion of an American Wife",
-        "tmdb_id": 74585,
-        "imdb_id": "tt0046366"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "Sanzo Wada"
-    ],
-    "movies": [
-      {
-        "title": "Gate of Hell",
-        "tmdb_id": 43349,
-        "imdb_id": "tt0045935"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "Irene Sharaff"
-    ],
-    "movies": [
-      {
-        "title": "Brigadoon",
-        "tmdb_id": 18283,
-        "imdb_id": "tt0046807"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "Charles LeMaire",
-      "Rene Hubert"
-    ],
-    "movies": [
-      {
-        "title": "Désirée",
-        "tmdb_id": 43333,
-        "imdb_id": "tt0046903"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "Jean Louis",
-      "Mary Ann Nyberg",
-      "Irene Sharaff"
-    ],
-    "movies": [
-      {
-        "title": "A Star Is Born",
-        "tmdb_id": 3111,
-        "imdb_id": "tt0047522"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1954",
-    "nominees": [
-      "Charles LeMaire",
-      "William Travilla",
-      "Miles White"
-    ],
-    "movies": [
-      {
-        "title": "There's No Business Like Show Business",
-        "tmdb_id": 21468,
-        "imdb_id": "tt0047574"
-      }
-    ],
-    "won": false
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Caine Mutiny",
+    "FilmId": "tt0046816",
+    "Name": "Humphrey Bogart",
+    "Nominees": "Humphrey Bogart",
+    "NomineeIds": "nm0000007",
+    "Winner": "",
+    "Detail": "Captain Queeg",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Marlon Brando",
+    "Nominees": "Marlon Brando",
+    "NomineeIds": "nm0000008",
+    "Winner": "True",
+    "Detail": "Terry Malloy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Country Girl",
+    "FilmId": "tt0046874",
+    "Name": "Bing Crosby",
+    "Nominees": "Bing Crosby",
+    "NomineeIds": "nm0001078",
+    "Winner": "",
+    "Detail": "Frank Elgin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0047522",
+    "Name": "James Mason",
+    "Nominees": "James Mason",
+    "NomineeIds": "nm0000051",
+    "Winner": "",
+    "Detail": "Norman Maine/Alfred Hinkel",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Adventures of Robinson Crusoe",
+    "FilmId": "tt0044386",
+    "Name": "Dan O'Herlihy",
+    "Nominees": "Dan O'Herlihy",
+    "NomineeIds": "nm0641397",
+    "Winner": "",
+    "Detail": "Robinson Crusoe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Lee J. Cobb",
+    "Nominees": "Lee J. Cobb",
+    "NomineeIds": "nm0002011",
+    "Winner": "",
+    "Detail": "Johnny Friendly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Karl Malden",
+    "Nominees": "Karl Malden",
+    "NomineeIds": "nm0001500",
+    "Winner": "",
+    "Detail": "Father Barry",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Barefoot Contessa",
+    "FilmId": "tt0046754",
+    "Name": "Edmond O'Brien",
+    "Nominees": "Edmond O'Brien",
+    "NomineeIds": "nm0639529",
+    "Winner": "True",
+    "Detail": "Oscar Muldoon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Rod Steiger",
+    "Nominees": "Rod Steiger",
+    "NomineeIds": "nm0001768",
+    "Winner": "",
+    "Detail": "Charles Malloy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Caine Mutiny",
+    "FilmId": "tt0046816",
+    "Name": "Tom Tully",
+    "Nominees": "Tom Tully",
+    "NomineeIds": "nm0876451",
+    "Winner": "",
+    "Detail": "Captain DeVriess",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Carmen Jones",
+    "FilmId": "tt0046828",
+    "Name": "Dorothy Dandridge",
+    "Nominees": "Dorothy Dandridge",
+    "NomineeIds": "nm0199268",
+    "Winner": "",
+    "Detail": "Carmen Jones",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0047522",
+    "Name": "Judy Garland",
+    "Nominees": "Judy Garland",
+    "NomineeIds": "nm0000023",
+    "Winner": "",
+    "Detail": "Esther Blodgett/Vicki Lester",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Sabrina",
+    "FilmId": "tt0047437",
+    "Name": "Audrey Hepburn",
+    "Nominees": "Audrey Hepburn",
+    "NomineeIds": "nm0000030",
+    "Winner": "",
+    "Detail": "Sabrina Fairchild",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Country Girl",
+    "FilmId": "tt0046874",
+    "Name": "Grace Kelly",
+    "Nominees": "Grace Kelly",
+    "NomineeIds": "nm0000038",
+    "Winner": "True",
+    "Detail": "Georgie Elgin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Magnificent Obsession",
+    "FilmId": "tt0047203",
+    "Name": "Jane Wyman",
+    "Nominees": "Jane Wyman",
+    "NomineeIds": "nm0943837",
+    "Winner": "",
+    "Detail": "Helen Phillips",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Executive Suite",
+    "FilmId": "tt0046963",
+    "Name": "Nina Foch",
+    "Nominees": "Nina Foch",
+    "NomineeIds": "nm0001225",
+    "Winner": "",
+    "Detail": "Erica Martin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Broken Lance",
+    "FilmId": "tt0046808",
+    "Name": "Katy Jurado",
+    "Nominees": "Katy Jurado",
+    "NomineeIds": "nm0432827",
+    "Winner": "",
+    "Detail": "Senora Devereaux",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Eva Marie Saint",
+    "Nominees": "Eva Marie Saint",
+    "NomineeIds": "nm0001693",
+    "Winner": "True",
+    "Detail": "Edie Doyle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The High and the Mighty",
+    "FilmId": "tt0047086",
+    "Name": "Jan Sterling",
+    "Nominees": "Jan Sterling",
+    "NomineeIds": "nm0012443",
+    "Winner": "",
+    "Detail": "Sally McKee",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The High and the Mighty",
+    "FilmId": "tt0047086",
+    "Name": "Claire Trevor",
+    "Nominees": "Claire Trevor",
+    "NomineeIds": "nm0872456",
+    "Winner": "",
+    "Detail": "Mary Holst",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Country Girl",
+    "FilmId": "tt0046874",
+    "Name": "Art Direction: Hal Pereira, Roland Anderson; Set Decoration: Sam Comer, Grace Gregory",
+    "Nominees": "Hal Pereira|Roland Anderson|Sam Comer|Grace Gregory",
+    "NomineeIds": "nm0673134|nm0027380|nm0173754|nm0339822",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Executive Suite",
+    "FilmId": "tt0046963",
+    "Name": "Art Direction: Cedric Gibbons, Edward Carfagno; Set Decoration: Edwin B. Willis, Emile Kuri",
+    "Nominees": "Cedric Gibbons|Edward Carfagno|Edwin B. Willis|Emile Kuri",
+    "NomineeIds": "nm0316539|nm0137063|nm0932320|nm0475689",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Le Plaisir",
+    "FilmId": "tt0045034",
+    "Name": "Max Ophuls",
+    "Nominees": "Max Ophuls",
+    "NomineeIds": "nm0649097",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Richard Day",
+    "Nominees": "Richard Day",
+    "NomineeIds": "nm0206554",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Sabrina",
+    "FilmId": "tt0047437",
+    "Name": "Art Direction: Hal Pereira, Walter Tyler; Set Decoration: Sam Comer, Ray Moyer",
+    "Nominees": "Hal Pereira|Walter Tyler|Sam Comer|Ray Moyer",
+    "NomineeIds": "nm0673134|nm0878934|nm0173754|nm0610455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Brigadoon",
+    "FilmId": "tt0046807",
+    "Name": "Art Direction: Cedric Gibbons, Preston Ames; Set Decoration: Edwin B. Willis, Keogh Gleason",
+    "Nominees": "Cedric Gibbons|Preston Ames|Edwin B. Willis|Keogh Gleason",
+    "NomineeIds": "nm0316539|nm0024694|nm0932320|nm0322294",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Desiree",
+    "FilmId": "tt0046903",
+    "Name": "Art Direction: Lyle Wheeler, Leland Fuller; Set Decoration: Walter M. Scott, Paul S. Fox",
+    "Nominees": "Lyle Wheeler|Leland Fuller|Walter M. Scott|Paul S. Fox",
+    "NomineeIds": "nm0923907|nm0298285|nm0779898|nm0289189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Red Garters",
+    "FilmId": "tt0047400",
+    "Name": "Art Direction: Hal Pereira, Roland Anderson; Set Decoration: Sam Comer, Ray Moyer",
+    "Nominees": "Hal Pereira|Roland Anderson|Sam Comer|Ray Moyer",
+    "NomineeIds": "nm0673134|nm0027380|nm0173754|nm0610455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0047522",
+    "Name": "Art Direction: Malcolm Bert, Gene Allen, Irene Sharaff; Set Decoration: George James Hopkins",
+    "Nominees": "Malcolm Bert|Gene Allen|Irene Sharaff|George James Hopkins",
+    "NomineeIds": "nm0077798|nm0020537|nm0788695|nm0394166",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "20,000 Leagues under the Sea",
+    "FilmId": "tt0046672",
+    "Name": "Art Direction: John Meehan; Set Decoration: Emile Kuri",
+    "Nominees": "John Meehan|Emile Kuri",
+    "NomineeIds": "nm0576048|nm0475689",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Country Girl",
+    "FilmId": "tt0046874",
+    "Name": "John F. Warren",
+    "Nominees": "John F. Warren",
+    "NomineeIds": "nm0912860",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Executive Suite",
+    "FilmId": "tt0046963",
+    "Name": "George Folsey",
+    "Nominees": "George Folsey",
+    "NomineeIds": "nm0005706",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Boris Kaufman",
+    "Nominees": "Boris Kaufman",
+    "NomineeIds": "nm0442100",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Rogue Cop",
+    "FilmId": "tt0047424",
+    "Name": "John Seitz",
+    "Nominees": "John Seitz",
+    "NomineeIds": "nm0005870",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Sabrina",
+    "FilmId": "tt0047437",
+    "Name": "Charles Lang, Jr.",
+    "Nominees": "Charles Lang Jr.",
+    "NomineeIds": "nm0485702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Egyptian",
+    "FilmId": "tt0046949",
+    "Name": "Leon Shamroy",
+    "Nominees": "Leon Shamroy",
+    "NomineeIds": "nm0005872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Rear Window",
+    "FilmId": "tt0047396",
+    "Name": "Robert Burks",
+    "Nominees": "Robert Burks",
+    "NomineeIds": "nm0122079",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Seven Brides for Seven Brothers",
+    "FilmId": "tt0047472",
+    "Name": "George Folsey",
+    "Nominees": "George Folsey",
+    "NomineeIds": "nm0005706",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Silver Chalice",
+    "FilmId": "tt0047494",
+    "Name": "William V. Skall",
+    "Nominees": "William V. Skall",
+    "NomineeIds": "nm0005877",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Three Coins in the Fountain",
+    "FilmId": "tt0047580",
+    "Name": "Milton Krasner",
+    "Nominees": "Milton Krasner",
+    "NomineeIds": "nm0005762",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Earrings of Madame de...",
+    "FilmId": "tt0046022",
+    "Name": "Georges Annenkov, Rosine Delamare",
+    "Nominees": "Georges Annenkov|Rosine Delamare",
+    "NomineeIds": "nm0030333|nm0216212",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Executive Suite",
+    "FilmId": "tt0046963",
+    "Name": "Helen Rose",
+    "Nominees": "Helen Rose",
+    "NomineeIds": "nm0741423",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Indiscretion of an American Wife",
+    "FilmId": "tt0046366",
+    "Name": "Christian Dior",
+    "Nominees": "Christian Dior",
+    "NomineeIds": "nm0228039",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "It Should Happen to You",
+    "FilmId": "tt0047123",
+    "Name": "Jean Louis",
+    "Nominees": "Jean Louis",
+    "NomineeIds": "nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Sabrina",
+    "FilmId": "tt0047437",
+    "Name": "Edith Head",
+    "Nominees": "Edith Head",
+    "NomineeIds": "nm0372128",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Brigadoon",
+    "FilmId": "tt0046807",
+    "Name": "Irene Sharaff",
+    "Nominees": "Irene Sharaff",
+    "NomineeIds": "nm0788695",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Desiree",
+    "FilmId": "tt0046903",
+    "Name": "Charles LeMaire, René Hubert",
+    "Nominees": "Charles LeMaire|René Hubert",
+    "NomineeIds": "nm0494406|nm0399484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Gate of Hell",
+    "FilmId": "tt0045935",
+    "Name": "Sanzo Wada",
+    "Nominees": "Sanzo Wada",
+    "NomineeIds": "nm0905272",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0047522",
+    "Name": "Jean Louis, Mary Ann Nyberg, Irene Sharaff",
+    "Nominees": "Jean Louis|Mary Ann Nyberg|Irene Sharaff",
+    "NomineeIds": "nm0521872|nm0638501|nm0788695",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "There's No Business Like Show Business",
+    "FilmId": "tt0047574",
+    "Name": "Charles LeMaire, Travilla, Miles White",
+    "Nominees": "Charles LeMaire|Travilla|Miles White",
+    "NomineeIds": "nm0494406|nm0871359|nm0925240",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Country Girl",
+    "FilmId": "tt0046874",
+    "Name": "George Seaton",
+    "Nominees": "George Seaton",
+    "NomineeIds": "nm0780833",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The High and the Mighty",
+    "FilmId": "tt0047086",
+    "Name": "William Wellman",
+    "Nominees": "William Wellman",
+    "NomineeIds": "nm0920074",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Elia Kazan",
+    "Nominees": "Elia Kazan",
+    "NomineeIds": "nm0001415",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Rear Window",
+    "FilmId": "tt0047396",
+    "Name": "Alfred Hitchcock",
+    "Nominees": "Alfred Hitchcock",
+    "NomineeIds": "nm0000033",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Sabrina",
+    "FilmId": "tt0047437",
+    "Name": "Billy Wilder",
+    "Nominees": "Billy Wilder",
+    "NomineeIds": "nm0000697",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Stratford Adventure",
+    "FilmId": "tt0047530",
+    "Name": "Guy Glover, Producer",
+    "Nominees": "Guy Glover",
+    "NomineeIds": "nm0323123",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Vanishing Prairie",
+    "FilmId": "tt0047642",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Jet Carrier",
+    "FilmId": "tt0047131",
+    "Name": "Otto Lang, Producer",
+    "Nominees": "Otto Lang",
+    "NomineeIds": "nm0485871",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Rembrandt: A Self-Portrait",
+    "FilmId": "tt0047404",
+    "Name": "Morrie Roizman, Producer",
+    "Nominees": "Morrie Roizman",
+    "NomineeIds": "nm0737726",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Thursday's Children",
+    "FilmId": "tt0047585",
+    "Name": "World Wide Pictures and Morse Films",
+    "Nominees": "World Wide Pictures|Morse Films",
+    "NomineeIds": "?|?",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Caine Mutiny",
+    "FilmId": "tt0046816",
+    "Name": "William A. Lyon, Henry Batista",
+    "Nominees": "William A. Lyon|Henry Batista",
+    "NomineeIds": "nm0528995|nm0061151",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The High and the Mighty",
+    "FilmId": "tt0047086",
+    "Name": "Ralph Dawson",
+    "Nominees": "Ralph Dawson",
+    "NomineeIds": "nm0206238",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Gene Milford",
+    "Nominees": "Gene Milford",
+    "NomineeIds": "nm0587332",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Seven Brides for Seven Brothers",
+    "FilmId": "tt0047472",
+    "Name": "Ralph E. Winters",
+    "Nominees": "Ralph E. Winters",
+    "NomineeIds": "nm0935988",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "20,000 Leagues under the Sea",
+    "FilmId": "tt0046672",
+    "Name": "Elmo Williams",
+    "Nominees": "Elmo Williams",
+    "NomineeIds": "nm0930536",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Caine Mutiny",
+    "FilmId": "tt0046816",
+    "Name": "Max Steiner",
+    "Nominees": "Max Steiner",
+    "NomineeIds": "nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Genevieve",
+    "FilmId": "tt0045808",
+    "Name": "Larry Adler",
+    "Nominees": "Larry Adler",
+    "NomineeIds": "nm0012196",
+    "Winner": "",
+    "Detail": "",
+    "Note": "NOTE: Because of the political climate of the times, Genevieve's arranger and orchestra conductor Muir Mathieson was credited as composer on American prints of this British-made film, and was thus credited with the nomination. In June of 1986, the Board of Governors had Academy records updated to give Larry Adler his proper credit, which Mr. Mathieson had never claimed. Mr. Mathieson's name was removed from the nomination and Mr. Adler's inserted.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The High and the Mighty",
+    "FilmId": "tt0047086",
+    "Name": "Dimitri Tiomkin",
+    "Nominees": "Dimitri Tiomkin",
+    "NomineeIds": "nm0006323",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Leonard Bernstein",
+    "Nominees": "Leonard Bernstein",
+    "NomineeIds": "nm0077086",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Silver Chalice",
+    "FilmId": "tt0047494",
+    "Name": "Franz Waxman",
+    "Nominees": "Franz Waxman",
+    "NomineeIds": "nm0000077",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Carmen Jones",
+    "FilmId": "tt0046828",
+    "Name": "Herschel Burke Gilbert",
+    "Nominees": "Herschel Burke Gilbert",
+    "NomineeIds": "nm0318074",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "The Glenn Miller Story",
+    "FilmId": "tt0047030",
+    "Name": "Joseph Gershenson, Henry Mancini",
+    "Nominees": "Joseph Gershenson|Henry Mancini",
+    "NomineeIds": "nm0314829|nm0000049",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Seven Brides for Seven Brothers",
+    "FilmId": "tt0047472",
+    "Name": "Adolph Deutsch, Saul Chaplin",
+    "Nominees": "Adolph Deutsch|Saul Chaplin",
+    "NomineeIds": "nm0006037|nm0006000",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0047522",
+    "Name": "Ray Heindorf",
+    "Nominees": "Ray Heindorf",
+    "NomineeIds": "nm0006127",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "There's No Business Like Show Business",
+    "FilmId": "tt0047574",
+    "Name": "Alfred Newman, Lionel Newman",
+    "Nominees": "Alfred Newman|Lionel Newman",
+    "NomineeIds": "nm0000055|nm0006213",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "White Christmas",
+    "FilmId": "tt0047673",
+    "Name": "Music and Lyrics by Irving Berlin",
+    "Nominees": "Irving Berlin",
+    "NomineeIds": "nm0000927",
+    "Winner": "",
+    "Detail": "Count Your Blessings Instead Of Sheep",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The High and the Mighty",
+    "FilmId": "tt0047086",
+    "Name": "Music by Dimitri Tiomkin; Lyrics by Ned Washington",
+    "Nominees": "Dimitri Tiomkin|Ned Washington",
+    "NomineeIds": "nm0006323|nm0913513",
+    "Winner": "",
+    "Detail": "The High And The Mighty",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Susan Slept Here",
+    "FilmId": "tt0047550",
+    "Name": "Music and Lyrics by Jack Lawrence and Richard Myers",
+    "Nominees": "Jack Lawrence|Richard Myers",
+    "NomineeIds": "nm0492805|nm0616840",
+    "Winner": "",
+    "Detail": "Hold My Hand",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "A Star Is Born",
+    "FilmId": "tt0047522",
+    "Name": "Music by Harold Arlen; Lyrics by Ira Gershwin",
+    "Nominees": "Harold Arlen|Ira Gershwin",
+    "NomineeIds": "nm0002182|nm0314857",
+    "Winner": "",
+    "Detail": "The Man That Got Away",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Three Coins in the Fountain",
+    "FilmId": "tt0047580",
+    "Name": "Music by Jule Styne; Lyrics by Sammy Cahn",
+    "Nominees": "Jule Styne|Sammy Cahn",
+    "NomineeIds": "nm0006312|nm0005991",
+    "Winner": "True",
+    "Detail": "Three Coins In The Fountain",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Caine Mutiny",
+    "FilmId": "tt0046816",
+    "Name": "Stanley Kramer, Producer",
+    "Nominees": "Stanley Kramer",
+    "NomineeIds": "nm0006452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Country Girl",
+    "FilmId": "tt0046874",
+    "Name": "William Perlberg, Producer",
+    "Nominees": "William Perlberg",
+    "NomineeIds": "nm0674169",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Sam Spiegel, Producer",
+    "Nominees": "Sam Spiegel",
+    "NomineeIds": "nm0818545",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Seven Brides for Seven Brothers",
+    "FilmId": "tt0047472",
+    "Name": "Jack Cummings, Producer",
+    "Nominees": "Jack Cummings",
+    "NomineeIds": "nm0191901",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Three Coins in the Fountain",
+    "FilmId": "tt0047580",
+    "Name": "Sol C. Siegel, Producer",
+    "Nominees": "Sol C. Siegel",
+    "NomineeIds": "nm0797012",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Crazy Mixed Up Pup",
+    "FilmId": "tt0047959",
+    "Name": "Walter Lantz, Producer",
+    "Nominees": "Walter Lantz",
+    "NomineeIds": "nm0487237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Pigs Is Pigs",
+    "FilmId": "tt0047353",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Sandy Claws",
+    "FilmId": "tt0048581",
+    "Name": "Edward Selzer, Producer",
+    "Nominees": "Edward Selzer",
+    "NomineeIds": "nm0783666",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Touché, Pussy Cat",
+    "FilmId": "tt0047600",
+    "Name": "Fred Quimby, Producer",
+    "Nominees": "Fred Quimby",
+    "NomineeIds": "nm0703642",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "When Magoo Flew",
+    "FilmId": "tt0047672",
+    "Name": "Stephen Bosustow, Producer",
+    "Nominees": "Stephen Bosustow",
+    "NomineeIds": "nm0098322",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "The First Piano Quartette",
+    "FilmId": "tt0046981",
+    "Name": "Otto Lang, Producer",
+    "Nominees": "Otto Lang",
+    "NomineeIds": "nm0485871",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "The Strauss Fantasy",
+    "FilmId": "tt0047531",
+    "Name": "Johnny Green, Producer",
+    "Nominees": "Johnny Green",
+    "NomineeIds": "nm0338004",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "This Mechanical Age",
+    "FilmId": "tt0047578",
+    "Name": "Robert Youngson, Producer",
+    "Nominees": "Robert Youngson",
+    "NomineeIds": "nm0950288",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Beauty and the Bull",
+    "FilmId": "tt0046760",
+    "Name": "Cedric Francis, Producer",
+    "Nominees": "Cedric Francis",
+    "NomineeIds": "nm0290103",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Jet Carrier",
+    "FilmId": "tt0047131",
+    "Name": "Otto Lang, Producer",
+    "Nominees": "Otto Lang",
+    "NomineeIds": "nm0485871",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Siam",
+    "FilmId": "tt0047485",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "A Time Out of War",
+    "FilmId": "tt0047587",
+    "Name": "Denis Sanders and Terry Sanders, Producers",
+    "Nominees": "Denis Sanders|Terry Sanders",
+    "NomineeIds": "nm0761522|nm0761739",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Brigadoon",
+    "FilmId": "tt0046807",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Wesley C. Miller, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Wesley C. Miller",
+    "NomineeIds": "co0007143|nm0589506",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Caine Mutiny",
+    "FilmId": "tt0046816",
+    "Name": "Columbia Studio Sound Department, John P. Livadary, Sound Director",
+    "Nominees": "Columbia|John P. Livadary",
+    "NomineeIds": "co0050868|nm0515093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "The Glenn Miller Story",
+    "FilmId": "tt0047030",
+    "Name": "Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",
+    "Nominees": "Universal-International|Leslie I. Carey",
+    "NomineeIds": "co0005073|nm0136989",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Rear Window",
+    "FilmId": "tt0047396",
+    "Name": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+    "Nominees": "Paramount|Loren L. Ryder",
+    "NomineeIds": "co0023400|nm0753122",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Susan Slept Here",
+    "FilmId": "tt0047550",
+    "Name": "RKO Radio Studio Sound Department, John O. Aalberg, Sound Director",
+    "Nominees": "RKO Radio|John O. Aalberg",
+    "NomineeIds": "co0041421|nm0007356",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Hell and High Water",
+    "FilmId": "tt0047073",
+    "Name": "20th Century-Fox Studio",
+    "Nominees": "20th Century-Fox Studio",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "Them!",
+    "FilmId": "tt0047573",
+    "Name": "Warner Bros. Studio",
+    "Nominees": "Warner Bros. Studio",
+    "NomineeIds": "co0080422",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "20,000 Leagues under the Sea",
+    "FilmId": "tt0046672",
+    "Name": "Walt Disney Studios",
+    "Nominees": "Walt Disney Studios",
+    "NomineeIds": "co0008970",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Bread, Love and Dreams",
+    "FilmId": "tt0046159",
+    "Name": "Ettore Margadonna",
+    "Nominees": "Ettore Margadonna",
+    "NomineeIds": "nm0546572",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Broken Lance",
+    "FilmId": "tt0046808",
+    "Name": "Philip Yordan",
+    "Nominees": "Philip Yordan",
+    "NomineeIds": "nm0948634",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Forbidden Games",
+    "FilmId": "tt0043686",
+    "Name": "François Boyer",
+    "Nominees": "François Boyer",
+    "NomineeIds": "nm0102030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Night People",
+    "FilmId": "tt0047279",
+    "Name": "Jed Harris, Tom Reed",
+    "Nominees": "Jed Harris|Tom Reed",
+    "NomineeIds": "nm0364824|nm0715723",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "There's No Business Like Show Business",
+    "FilmId": "tt0047574",
+    "Name": "Lamar Trotti",
+    "Nominees": "Lamar Trotti",
+    "NomineeIds": "nm0873707",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Caine Mutiny",
+    "FilmId": "tt0046816",
+    "Name": "Stanley Roberts",
+    "Nominees": "Stanley Roberts",
+    "NomineeIds": "nm0731592",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "The Country Girl",
+    "FilmId": "tt0046874",
+    "Name": "George Seaton",
+    "Nominees": "George Seaton",
+    "NomineeIds": "nm0780833",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Rear Window",
+    "FilmId": "tt0047396",
+    "Name": "John Michael Hayes",
+    "Nominees": "John Michael Hayes",
+    "NomineeIds": "nm0371088",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Sabrina",
+    "FilmId": "tt0047437",
+    "Name": "Billy Wilder, Samuel Taylor, Ernest Lehman",
+    "Nominees": "Billy Wilder|Samuel Taylor|Ernest Lehman",
+    "NomineeIds": "nm0000697|nm0853138|nm0499626",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Seven Brides for Seven Brothers",
+    "FilmId": "tt0047472",
+    "Name": "Albert Hackett, Frances Goodrich, Dorothy Kingsley",
+    "Nominees": "Albert Hackett|Frances Goodrich|Dorothy Kingsley",
+    "NomineeIds": "nm0352443|nm0329304|nm0455510",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "The Barefoot Contessa",
+    "FilmId": "tt0046754",
+    "Name": "Joseph L. Mankiewicz",
+    "Nominees": "Joseph L. Mankiewicz",
+    "NomineeIds": "nm0000581",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Genevieve",
+    "FilmId": "tt0045808",
+    "Name": "William Rose",
+    "Nominees": "William Rose",
+    "NomineeIds": "nm0741740",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "The Glenn Miller Story",
+    "FilmId": "tt0047030",
+    "Name": "Valentine Davies, Oscar Brodney",
+    "Nominees": "Valentine Davies|Oscar Brodney",
+    "NomineeIds": "nm0204016|nm0110958",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Knock on Wood",
+    "FilmId": "tt0047152",
+    "Name": "Norman Panama, Melvin Frank",
+    "Nominees": "Norman Panama|Melvin Frank",
+    "NomineeIds": "nm0659085|nm0291035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "On the Waterfront",
+    "FilmId": "tt0047296",
+    "Name": "Budd Schulberg",
+    "Nominees": "Budd Schulberg",
+    "NomineeIds": "nm0775977",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "HONORARY FOREIGN LANGUAGE FILM AWARD",
+    "Film": "Gate of Hell",
+    "FilmId": "tt0045935",
+    "Name": "",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Gate of Hell - Best Foreign Language Film first released in the United States during 1954."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bausch & Lomb Optical Company",
+    "NomineeIds": "co0066582",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Bausch & Lomb Optical Company for their contributions to the advancement of the motion picture industry."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Kemp R. Niver",
+    "NomineeIds": "nm0633133",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Kemp R. Niver for the development of the Renovare Process which has made possible the restoration of the Library of Congress Paper Film Collection."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Greta Garbo",
+    "NomineeIds": "nm0001256",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Greta Garbo for her unforgettable screen performances."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Danny Kaye",
+    "NomineeIds": "nm0001414",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Danny Kaye for his unique talents, his service to the Academy, the motion picture industry, and the American people."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "The Little Kidnappers",
+    "FilmId": "tt0046006",
+    "Name": "",
+    "Nominees": "Jon Whiteley",
+    "NomineeIds": "nm0925804",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Jon Whiteley for his outstanding juvenile performance in The Little Kidnappers."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "The Little Kidnappers",
+    "FilmId": "tt0046006",
+    "Name": "",
+    "Nominees": "Vincent Winter",
+    "NomineeIds": "nm0935844",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Vincent Winter for his outstanding juvenile performance in The Little Kidnappers."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Paramount Pictures Inc|LOREN L. RYDER|JOHN R. BISHOP",
+    "NomineeIds": "?|nm0753122|?",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To PARAMOUNT PICTURES, INC., LOREN L. RYDER, JOHN R. BISHOP and all the members of the technical and engineering staff for developing a method of producing and exhibiting motion pictures known as VistaVision."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David S. Horsley|Universal-International",
+    "NomineeIds": "nm0395440|co0005073",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To DAVID S. HORSLEY and the UNIVERSAL-INTERNATIONAL STUDIO SPECIAL PHOTOGRAPHIC DEPARTMENT for a portable remote control device for process projectors."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "KARL FREUND|FRANK CRANDELL",
+    "NomineeIds": "nm0005713|?",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "",
+    "Citation": "To KARL FREUND and FRANK CRANDELL of Photo Research Corporation for the design and development of a direct reading brightness meter."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Wesley C. Miller|J.W. Stafford|K.M. Frierson|Metro-Goldwyn-Mayer",
+    "NomineeIds": "nm0589506|?|?|co0007143",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To WESLEY C. MILLER, J.W. STAFFORD, K.M. FRIERSON and the METRO-GOLDWYN-MAYER STUDIO SOUND DEPARTMENT for an electronic sound printing comparison device."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John P. Livadary|Lloyd Russell|Columbia",
+    "NomineeIds": "nm0515093|nm3280670|co0050868",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JOHN P. LIVADARY, LLOYD RUSSELL and the COLUMBIA STUDIO SOUND DEPARTMENT for an improved limiting amplifier as applied to sound level comparison devices."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ROLAND MILLER|MAX GOEPPINGER",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To ROLAND MILLER and MAX GOEPPINGER of Magnascope Corporation for the design and development of a cathode ray magnetic sound track viewer."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Carlos Rivas|G.M. Sprague|Metro-Goldwyn-Mayer",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To CARLOS RIVAS, G.M. SPRAGUE and the METRO-GOLDWYN-MAYER STUDIO SOUND DEPARTMENT for the design of a magnetic sound editing machine."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "FRED WILSON",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To FRED WILSON of the Samuel Goldwyn Studio Sound Department for the design of a variable multiple-band equalizer."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "P.C. YOUNG",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To P.C. YOUNG of the Metro-Goldwyn-Mayer Studio Projection Department for the practical application of a variable focal length attachment to motion picture projector lenses."
+  },
+  {
+    "Ceremony": 27,
+    "Year": 1954,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "FRED KNOTH|ORIEN ERNEST",
+    "NomineeIds": "nm0461397|nm0259645",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To FRED KNOTH and ORIEN ERNEST of the Universal-International Studio Technical Department for the development of a hand portable, electric, dry oil-fog machine."
   }
 ]

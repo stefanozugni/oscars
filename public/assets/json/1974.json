@@ -1,1595 +1,1826 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1974",
-    "nominees": [
-      "The Godfather Part II"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1974",
-    "nominees": [
-      "Chinatown"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1974",
-    "nominees": [
-      "The Conversation"
-    ],
-    "movies": [
-      {
-        "title": "The Conversation",
-        "tmdb_id": 592,
-        "imdb_id": "tt0071360"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1974",
-    "nominees": [
-      "Lenny"
-    ],
-    "movies": [
-      {
-        "title": "Lenny",
-        "tmdb_id": 27094,
-        "imdb_id": "tt0071746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1974",
-    "nominees": [
-      "The Towering Inferno"
-    ],
-    "movies": [
-      {
-        "title": "The Towering Inferno",
-        "tmdb_id": 5919,
-        "imdb_id": "tt0072308"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1974",
-    "nominees": [
-      "Art Carney"
-    ],
-    "movies": [
-      {
-        "title": "Harry and Tonto",
-        "tmdb_id": 42448,
-        "imdb_id": "tt0071598"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1974",
-    "nominees": [
-      "Albert Finney"
-    ],
-    "movies": [
-      {
-        "title": "Murder on the Orient Express",
-        "tmdb_id": 4176,
-        "imdb_id": "tt0071877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1974",
-    "nominees": [
-      "Dustin Hoffman"
-    ],
-    "movies": [
-      {
-        "title": "Lenny",
-        "tmdb_id": 27094,
-        "imdb_id": "tt0071746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1974",
-    "nominees": [
-      "Jack Nicholson"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1974",
-    "nominees": [
-      "Al Pacino"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1974",
-    "nominees": [
-      "Ellen Burstyn"
-    ],
-    "movies": [
-      {
-        "title": "Alice Doesn't Live Here Anymore",
-        "tmdb_id": 16153,
-        "imdb_id": "tt0071115"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1974",
-    "nominees": [
-      "Diahann Carroll"
-    ],
-    "movies": [
-      {
-        "title": "Claudine",
-        "tmdb_id": 55909,
-        "imdb_id": "tt0071334"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1974",
-    "nominees": [
-      "Faye Dunaway"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1974",
-    "nominees": [
-      "Valerie Perrine"
-    ],
-    "movies": [
-      {
-        "title": "Lenny",
-        "tmdb_id": 27094,
-        "imdb_id": "tt0071746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1974",
-    "nominees": [
-      "Gena Rowlands"
-    ],
-    "movies": [
-      {
-        "title": "A Woman Under the Influence",
-        "tmdb_id": 29845,
-        "imdb_id": "tt0072417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1974",
-    "nominees": [
-      "Robert De Niro"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1974",
-    "nominees": [
-      "Fred Astaire"
-    ],
-    "movies": [
-      {
-        "title": "The Towering Inferno",
-        "tmdb_id": 5919,
-        "imdb_id": "tt0072308"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1974",
-    "nominees": [
-      "Jeff Bridges"
-    ],
-    "movies": [
-      {
-        "title": "Thunderbolt and Lightfoot",
-        "tmdb_id": 8348,
-        "imdb_id": "tt0072288"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1974",
-    "nominees": [
-      "Michael V. Gazzo"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1974",
-    "nominees": [
-      "Lee Strasberg"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1974",
-    "nominees": [
-      "Ingrid Bergman"
-    ],
-    "movies": [
-      {
-        "title": "Murder on the Orient Express",
-        "tmdb_id": 4176,
-        "imdb_id": "tt0071877"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1974",
-    "nominees": [
-      "Valentine Cortese"
-    ],
-    "movies": [
-      {
-        "title": "Day for Night",
-        "tmdb_id": 1675,
-        "imdb_id": "tt0070460"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1974",
-    "nominees": [
-      "Madeline Kahn"
-    ],
-    "movies": [
-      {
-        "title": "Blazing Saddles",
-        "tmdb_id": 11072,
-        "imdb_id": "tt0071230"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1974",
-    "nominees": [
-      "Diane Ladd"
-    ],
-    "movies": [
-      {
-        "title": "Alice Doesn't Live Here Anymore",
-        "tmdb_id": 16153,
-        "imdb_id": "tt0071115"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1974",
-    "nominees": [
-      "Talia Shire"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1974",
-    "nominees": [
-      "Francis Ford Coppola"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1974",
-    "nominees": [
-      "John Cassavetes"
-    ],
-    "movies": [
-      {
-        "title": "A Woman Under the Influence",
-        "tmdb_id": 29845,
-        "imdb_id": "tt0072417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1974",
-    "nominees": [
-      "Bob Fosse"
-    ],
-    "movies": [
-      {
-        "title": "Lenny",
-        "tmdb_id": 27094,
-        "imdb_id": "tt0071746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1974",
-    "nominees": [
-      "Roman Polanski"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1974",
-    "nominees": [
-      "Francois Truffaut"
-    ],
-    "movies": [
-      {
-        "title": "Day for Night",
-        "tmdb_id": 1675,
-        "imdb_id": "tt0070460"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Mario Puzo",
-      "Francis Ford Coppola"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Mordecai Richler",
-      "Lionel Chetwynd"
-    ],
-    "movies": [
-      {
-        "title": "The Apprenticeship of Duddy Kravitz",
-        "tmdb_id": 42451,
-        "imdb_id": "tt0071155"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Julian Barry"
-    ],
-    "movies": [
-      {
-        "title": "Lenny",
-        "tmdb_id": 27094,
-        "imdb_id": "tt0071746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Paul Dehn"
-    ],
-    "movies": [
-      {
-        "title": "Murder on the Orient Express",
-        "tmdb_id": 4176,
-        "imdb_id": "tt0071877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Gene Wilder",
-      "Mel Brooks"
-    ],
-    "movies": [
-      {
-        "title": "Young Frankenstein",
-        "tmdb_id": 3034,
-        "imdb_id": "tt0072431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Robert Towne"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Robert Getchell"
-    ],
-    "movies": [
-      {
-        "title": "Alice Doesn't Live Here Anymore",
-        "tmdb_id": 16153,
-        "imdb_id": "tt0071115"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Francis Ford Coppola"
-    ],
-    "movies": [
-      {
-        "title": "The Conversation",
-        "tmdb_id": 592,
-        "imdb_id": "tt0071360"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Francois Truffaut",
-      "Jean-Louis Richard",
-      "Suzanne Schiffman"
-    ],
-    "movies": [
-      {
-        "title": "Day for Night",
-        "tmdb_id": 1675,
-        "imdb_id": "tt0070460"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1974",
-    "nominees": [
-      "Paul Mazursky",
-      "Josh Greenfeld"
-    ],
-    "movies": [
-      {
-        "title": "Harry and Tonto",
-        "tmdb_id": 42448,
-        "imdb_id": "tt0071598"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1974",
-    "nominees": [
-      "Nino Rota",
-      "Carmine Coppola"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1974",
-    "nominees": [
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1974",
-    "nominees": [
-      "Richard Rodney Bennett"
-    ],
-    "movies": [
-      {
-        "title": "Murder on the Orient Express",
-        "tmdb_id": 4176,
-        "imdb_id": "tt0071877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1974",
-    "nominees": [
-      "Alex North"
-    ],
-    "movies": [
-      {
-        "title": "Shanks",
-        "tmdb_id": 29399,
-        "imdb_id": "tt0072149"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1974",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "The Towering Inferno",
-        "tmdb_id": 5919,
-        "imdb_id": "tt0072308"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1974",
-    "nominees": [
-      "Nelson Riddle"
-    ],
-    "movies": [
-      {
-        "title": "The Great Gatsby",
-        "tmdb_id": 11034,
-        "imdb_id": "tt0071577"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1974",
-    "nominees": [
-      "Alan Jay Lerner",
-      "Frederick Loewe",
-      "Angela Morley",
-      "Douglas Gamley"
-    ],
-    "movies": [
-      {
-        "title": "The Little Prince",
-        "tmdb_id": 37627,
-        "imdb_id": "tt0071762"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1974",
-    "nominees": [
-      "Paul Williams",
-      "George Aliceson Tipton"
-    ],
-    "movies": [
-      {
-        "title": "Phantom of the Paradise",
-        "tmdb_id": 27327,
-        "imdb_id": "tt0071994"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1974",
-    "nominees": [
-      "We May Never Love Like This Again"
-    ],
-    "movies": [
-      {
-        "title": "The Towering Inferno",
-        "tmdb_id": 5919,
-        "imdb_id": "tt0072308"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1974",
-    "nominees": [
-      "Benji's Theme (I Feel Love)"
-    ],
-    "movies": [
-      {
-        "title": "Benji",
-        "tmdb_id": 23069,
-        "imdb_id": "tt0071206"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1974",
-    "nominees": [
-      "Blazing Saddles"
-    ],
-    "movies": [
-      {
-        "title": "Blazing Saddles",
-        "tmdb_id": 11072,
-        "imdb_id": "tt0071230"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1974",
-    "nominees": [
-      "Wherever Love Takes Me"
-    ],
-    "movies": [
-      {
-        "title": "Gold",
-        "tmdb_id": 47737,
-        "imdb_id": "tt0071566"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1974",
-    "nominees": [
-      "Little Prince"
-    ],
-    "movies": [
-      {
-        "title": "The Little Prince",
-        "tmdb_id": 37627,
-        "imdb_id": "tt0071762"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1974",
-    "nominees": [
-      "Amarcord"
-    ],
-    "movies": [
-      {
-        "title": "Amarcord",
-        "tmdb_id": 7857,
-        "imdb_id": "tt0071129"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1974",
-    "nominees": [
-      "Cat's Play"
-    ],
-    "movies": [
-      {
-        "title": "Cat's Play",
-        "tmdb_id": 42485,
-        "imdb_id": "tt0068891"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1974",
-    "nominees": [
-      "The Deluge"
-    ],
-    "movies": [
-      {
-        "title": "The Deluge",
-        "tmdb_id": 36627,
-        "imdb_id": "tt0072021"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1974",
-    "nominees": [
-      "Lacombe, Lucien"
-    ],
-    "movies": [
-      {
-        "title": "Lacombe, Lucien",
-        "tmdb_id": 55368,
-        "imdb_id": "tt0071733"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1974",
-    "nominees": [
-      "The Truce"
-    ],
-    "movies": [
-      {
-        "title": "The Truce",
-        "tmdb_id": 127449,
-        "imdb_id": "tt0072315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1974",
-    "nominees": [
-      "Hearts and Minds"
-    ],
-    "movies": [
-      {
-        "title": "Hearts and Minds",
-        "tmdb_id": 42449,
-        "imdb_id": "tt0071604"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1974",
-    "nominees": [
-      "Antonia: A Portrait of the Woman"
-    ],
-    "movies": [
-      {
-        "title": "Antonia: A Portrait of the Woman",
-        "tmdb_id": 149335,
-        "imdb_id": "tt0071151"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1974",
-    "nominees": [
-      "The Challenge... A Tribute to Modern Art"
-    ],
-    "movies": [
-      {
-        "title": "The Challenge... A Tribute to Modern Art",
-        "tmdb_id": 149336,
-        "imdb_id": "tt0071299"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1974",
-    "nominees": [
-      "The 81st Blow"
-    ],
-    "movies": [
-      {
-        "title": "The 81st Blow",
-        "tmdb_id": 149337,
-        "imdb_id": "tt0071088"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1974",
-    "nominees": [
-      "The Wild and the Brave"
-    ],
-    "movies": [
-      {
-        "title": "The Wild and the Brave",
-        "tmdb_id": 149339,
-        "imdb_id": "tt0072333"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1974",
-    "nominees": [
-      "Don't"
-    ],
-    "movies": [
-      {
-        "title": "Don't",
-        "tmdb_id": 243396,
-        "imdb_id": "tt0071430"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1974",
-    "nominees": [
-      "City Out of Wilderness"
-    ],
-    "movies": [
-      {
-        "title": "City Out of Wilderness",
-        "tmdb_id": 243397,
-        "imdb_id": "tt0071332"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1974",
-    "nominees": [
-      "Exploratorium"
-    ],
-    "movies": [
-      {
-        "title": "Exploratorium",
-        "tmdb_id": 243398,
-        "imdb_id": "tt0071480"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1974",
-    "nominees": [
-      "John Muir's High Sierra"
-    ],
-    "movies": [
-      {
-        "title": "John Muir's High Sierra",
-        "tmdb_id": 243399,
-        "imdb_id": "tt0071699"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1974",
-    "nominees": [
-      "Naked Yoga"
-    ],
-    "movies": [
-      {
-        "title": "Naked Yoga",
-        "tmdb_id": 243400,
-        "imdb_id": "tt0071893"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1974",
-    "nominees": [
-      "Closed Mondays"
-    ],
-    "movies": [
-      {
-        "title": "Closed Mondays",
-        "tmdb_id": 48277,
-        "imdb_id": "tt0071337"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1974",
-    "nominees": [
-      "The Family That Dwelt Apart"
-    ],
-    "movies": [
-      {
-        "title": "The Family That Dwelt Apart",
-        "tmdb_id": 209536,
-        "imdb_id": "tt0071484"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1974",
-    "nominees": [
-      "Hunger"
-    ],
-    "movies": [
-      {
-        "title": "Hunger",
-        "tmdb_id": 1110862,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1974",
-    "nominees": [
-      "Voyage to Next"
-    ],
-    "movies": [
-      {
-        "title": "Voyage to Next",
-        "tmdb_id": 162770,
-        "imdb_id": "tt0072380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1974",
-    "nominees": [
-      "Winnie the Pooh and Tigger Too"
-    ],
-    "movies": [
-      {
-        "title": "Winnie the Pooh and Tigger Too",
-        "tmdb_id": 72185,
-        "imdb_id": "tt0072410"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1974",
-    "nominees": [
-      "One-Eyed Men Are Kings"
-    ],
-    "movies": [
-      {
-        "title": "One-Eyed Men Are Kings",
-        "tmdb_id": 243386,
-        "imdb_id": "tt0071943"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1974",
-    "nominees": [
-      "Climb"
-    ],
-    "movies": [
-      {
-        "title": "Climb",
-        "tmdb_id": 243388,
-        "imdb_id": "tt0071335"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1974",
-    "nominees": [
-      "The Concert"
-    ],
-    "movies": [
-      {
-        "title": "The Concert",
-        "tmdb_id": 243390,
-        "imdb_id": "tt0071355"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1974",
-    "nominees": [
-      "Planet Ocean"
-    ],
-    "movies": [
-      {
-        "title": "Planet Ocean",
-        "tmdb_id": 243392,
-        "imdb_id": "tt0072001"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1974",
-    "nominees": [
-      "The Violin"
-    ],
-    "movies": [
-      {
-        "title": "The Violin",
-        "tmdb_id": 243394,
-        "imdb_id": "tt0072370"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "Dean Tavoularis",
-      "Angelo Graham",
-      "George R. Nelson"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "Richard Sylbert",
-      "W. Stewart Campbell",
-      "Ruby Levitt"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "Alexander Golitzen",
-      "E. Preston Ames",
-      "Frank McKelvy"
-    ],
-    "movies": [
-      {
-        "title": "Earthquake",
-        "tmdb_id": 11123,
-        "imdb_id": "tt0071455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "Peter Ellenshaw",
-      "John B. Mansbridge",
-      "Walter Tyler",
-      "Al Roelofs",
-      "Hal Gausman"
-    ],
-    "movies": [
-      {
-        "title": "The Island at the Top of the World",
-        "tmdb_id": 42453,
-        "imdb_id": "tt0071671"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "William J. Creber",
-      "Ward Preston",
-      "Raphael Bretton"
-    ],
-    "movies": [
-      {
-        "title": "The Towering Inferno",
-        "tmdb_id": 5919,
-        "imdb_id": "tt0072308"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1974",
-    "nominees": [
-      "Fred J. Koenekamp",
-      "Joseph F. Biroc"
-    ],
-    "movies": [
-      {
-        "title": "The Towering Inferno",
-        "tmdb_id": 5919,
-        "imdb_id": "tt0072308"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1974",
-    "nominees": [
-      "John A. Alonzo"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1974",
-    "nominees": [
-      "Philip Lathrop"
-    ],
-    "movies": [
-      {
-        "title": "Earthquake",
-        "tmdb_id": 11123,
-        "imdb_id": "tt0071455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1974",
-    "nominees": [
-      "Bruce Surtees"
-    ],
-    "movies": [
-      {
-        "title": "Lenny",
-        "tmdb_id": 27094,
-        "imdb_id": "tt0071746"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1974",
-    "nominees": [
-      "Geoffrey Unsworth"
-    ],
-    "movies": [
-      {
-        "title": "Murder on the Orient Express",
-        "tmdb_id": 4176,
-        "imdb_id": "tt0071877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1974",
-    "nominees": [
-      "Carl Kress",
-      "Harold F. Kress"
-    ],
-    "movies": [
-      {
-        "title": "The Towering Inferno",
-        "tmdb_id": 5919,
-        "imdb_id": "tt0072308"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1974",
-    "nominees": [
-      "John C. Howard",
-      "Danford Greene"
-    ],
-    "movies": [
-      {
-        "title": "Blazing Saddles",
-        "tmdb_id": 11072,
-        "imdb_id": "tt0071230"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1974",
-    "nominees": [
-      "Sam O'Steen"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1974",
-    "nominees": [
-      "Dorothy Spencer"
-    ],
-    "movies": [
-      {
-        "title": "Earthquake",
-        "tmdb_id": 11123,
-        "imdb_id": "tt0071455"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1974",
-    "nominees": [
-      "Michael Luciano"
-    ],
-    "movies": [
-      {
-        "title": "The Longest Yard",
-        "tmdb_id": 4985,
-        "imdb_id": "tt0071771"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1974",
-    "nominees": [
-      "Frank Brendel",
-      "Albert Whitlock",
-      "Glenn Robinson"
-    ],
-    "movies": [
-      {
-        "title": "Earthquake",
-        "tmdb_id": 11123,
-        "imdb_id": "tt0071455"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1974",
-    "nominees": [
-      "Ronald Pierce",
-      "Melvin Metcalfe Sr."
-    ],
-    "movies": [
-      {
-        "title": "Earthquake",
-        "tmdb_id": 11123,
-        "imdb_id": "tt0071455"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1974",
-    "nominees": [
-      "Charles Grenzbach",
-      "Larry Jost"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1974",
-    "nominees": [
-      "Walter Murch",
-      "Art Rochester"
-    ],
-    "movies": [
-      {
-        "title": "The Conversation",
-        "tmdb_id": 592,
-        "imdb_id": "tt0071360"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1974",
-    "nominees": [
-      "Theodore Soderberg",
-      "Herman Lewis"
-    ],
-    "movies": [
-      {
-        "title": "The Towering Inferno",
-        "tmdb_id": 5919,
-        "imdb_id": "tt0072308"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1974",
-    "nominees": [
-      "Richard Portman",
-      "Gene Cantamessa"
-    ],
-    "movies": [
-      {
-        "title": "Young Frankenstein",
-        "tmdb_id": 3034,
-        "imdb_id": "tt0072431"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "Theoni V. Aldredge"
-    ],
-    "movies": [
-      {
-        "title": "The Great Gatsby",
-        "tmdb_id": 11034,
-        "imdb_id": "tt0071577"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "Anthea Sylbert"
-    ],
-    "movies": [
-      {
-        "title": "Chinatown",
-        "tmdb_id": 829,
-        "imdb_id": "tt0071315"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "John Furniss"
-    ],
-    "movies": [
-      {
-        "title": "Daisy Miller",
-        "tmdb_id": 4703,
-        "imdb_id": "tt0071385"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "Theadora Van Runkle"
-    ],
-    "movies": [
-      {
-        "title": "The Godfather Part II",
-        "tmdb_id": 240,
-        "imdb_id": "tt0071562"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1974",
-    "nominees": [
-      "Tony Walton"
-    ],
-    "movies": [
-      {
-        "title": "Murder on the Orient Express",
-        "tmdb_id": 4176,
-        "imdb_id": "tt0071877"
-      }
-    ],
-    "won": false
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Harry and Tonto",
+    "FilmId": "tt0071598",
+    "Name": "Art Carney",
+    "Nominees": "Art Carney",
+    "NomineeIds": "nm0138770",
+    "Winner": "True",
+    "Detail": "Harry",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Murder on the Orient Express",
+    "FilmId": "tt0071877",
+    "Name": "Albert Finney",
+    "Nominees": "Albert Finney",
+    "NomineeIds": "nm0001215",
+    "Winner": "",
+    "Detail": "Hercule Poirot",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Lenny",
+    "FilmId": "tt0071746",
+    "Name": "Dustin Hoffman",
+    "Nominees": "Dustin Hoffman",
+    "NomineeIds": "nm0000163",
+    "Winner": "",
+    "Detail": "Lenny Bruce",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Jack Nicholson",
+    "Nominees": "Jack Nicholson",
+    "NomineeIds": "nm0000197",
+    "Winner": "",
+    "Detail": "J. J. Gittes",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Al Pacino",
+    "Nominees": "Al Pacino",
+    "NomineeIds": "nm0000199",
+    "Winner": "",
+    "Detail": "Michael Corleone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Towering Inferno",
+    "FilmId": "tt0072308",
+    "Name": "Fred Astaire",
+    "Nominees": "Fred Astaire",
+    "NomineeIds": "nm0000001",
+    "Winner": "",
+    "Detail": "Harlee Claiborne",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Thunderbolt and Lightfoot",
+    "FilmId": "tt0072288",
+    "Name": "Jeff Bridges",
+    "Nominees": "Jeff Bridges",
+    "NomineeIds": "nm0000313",
+    "Winner": "",
+    "Detail": "Lightfoot",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Robert De Niro",
+    "Nominees": "Robert De Niro",
+    "NomineeIds": "nm0000134",
+    "Winner": "True",
+    "Detail": "Vito Corleone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Michael V. Gazzo",
+    "Nominees": "Michael V. Gazzo",
+    "NomineeIds": "nm0311155",
+    "Winner": "",
+    "Detail": "Frankie Pentangeli",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Lee Strasberg",
+    "Nominees": "Lee Strasberg",
+    "NomineeIds": "nm0833448",
+    "Winner": "",
+    "Detail": "Hyman Roth",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Alice Doesn't Live Here Anymore",
+    "FilmId": "tt0071115",
+    "Name": "Ellen Burstyn",
+    "Nominees": "Ellen Burstyn",
+    "NomineeIds": "nm0000995",
+    "Winner": "True",
+    "Detail": "Alice Hyatt",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Claudine",
+    "FilmId": "tt0071334",
+    "Name": "Diahann Carroll",
+    "Nominees": "Diahann Carroll",
+    "NomineeIds": "nm0140792",
+    "Winner": "",
+    "Detail": "Claudine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Faye Dunaway",
+    "Nominees": "Faye Dunaway",
+    "NomineeIds": "nm0001159",
+    "Winner": "",
+    "Detail": "Evelyn Cross Mulwray",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Lenny",
+    "FilmId": "tt0071746",
+    "Name": "Valerie Perrine",
+    "Nominees": "Valerie Perrine",
+    "NomineeIds": "nm0674781",
+    "Winner": "",
+    "Detail": "Honey Bruce",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "A Woman under the Influence",
+    "FilmId": "tt0072417",
+    "Name": "Gena Rowlands",
+    "Nominees": "Gena Rowlands",
+    "NomineeIds": "nm0001687",
+    "Winner": "",
+    "Detail": "Mabel Longhetti",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Murder on the Orient Express",
+    "FilmId": "tt0071877",
+    "Name": "Ingrid Bergman",
+    "Nominees": "Ingrid Bergman",
+    "NomineeIds": "nm0000006",
+    "Winner": "True",
+    "Detail": "Greta Ohlsson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Day for Night",
+    "FilmId": "tt0070460",
+    "Name": "Valentina Cortese",
+    "Nominees": "Valentina Cortese",
+    "NomineeIds": "nm0181305",
+    "Winner": "",
+    "Detail": "Severine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Blazing Saddles",
+    "FilmId": "tt0071230",
+    "Name": "Madeline Kahn",
+    "Nominees": "Madeline Kahn",
+    "NomineeIds": "nm0001404",
+    "Winner": "",
+    "Detail": "Lili Von Shtupp",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Alice Doesn't Live Here Anymore",
+    "FilmId": "tt0071115",
+    "Name": "Diane Ladd",
+    "Nominees": "Diane Ladd",
+    "NomineeIds": "nm0002663",
+    "Winner": "",
+    "Detail": "Flo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Talia Shire",
+    "Nominees": "Talia Shire",
+    "NomineeIds": "nm0001735",
+    "Winner": "",
+    "Detail": "Connie Corleone",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Art Direction: Richard Sylbert, W. Stewart Campbell; Set Decoration: Ruby Levitt",
+    "Nominees": "Richard Sylbert|W. Stewart Campbell|Ruby Levitt",
+    "NomineeIds": "nm0843129|nm0132922|nm0506239",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Earthquake",
+    "FilmId": "tt0071455",
+    "Name": "Art Direction: Alexander Golitzen, E. Preston Ames; Set Decoration: Frank McKelvy",
+    "Nominees": "Alexander Golitzen|E. Preston Ames|Frank McKelvy",
+    "NomineeIds": "nm0326529|nm0024694|nm0571305",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Art Direction: Dean Tavoularis, Angelo Graham; Set Decoration: George R. Nelson",
+    "Nominees": "Dean Tavoularis|Angelo Graham|George R. Nelson",
+    "NomineeIds": "nm0851790|nm0333908|nm0625388",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Island at the Top of the World",
+    "FilmId": "tt0071671",
+    "Name": "Art Direction: Peter Ellenshaw, John B. Mansbridge, Walter Tyler, Al Roelofs; Set Decoration: Hal Gausman",
+    "Nominees": "Peter Ellenshaw|John B. Mansbridge|Walter Tyler|Al Roelofs|Hal Gausman",
+    "NomineeIds": "nm0254002|nm0543727|nm0878934|nm0736369|nm0310198",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Towering Inferno",
+    "FilmId": "tt0072308",
+    "Name": "Art Direction: William Creber, Ward Preston; Set Decoration: Raphael Bretton",
+    "Nominees": "William Creber|Ward Preston|Raphael Bretton",
+    "NomineeIds": "nm0187169|nm0696509|nm0107987",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "John A. Alonzo",
+    "Nominees": "John A. Alonzo",
+    "NomineeIds": "nm0002166",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Earthquake",
+    "FilmId": "tt0071455",
+    "Name": "Philip Lathrop",
+    "Nominees": "Philip Lathrop",
+    "NomineeIds": "nm0005769",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Lenny",
+    "FilmId": "tt0071746",
+    "Name": "Bruce Surtees",
+    "Nominees": "Bruce Surtees",
+    "NomineeIds": "nm0839732",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Murder on the Orient Express",
+    "FilmId": "tt0071877",
+    "Name": "Geoffrey Unsworth",
+    "Nominees": "Geoffrey Unsworth",
+    "NomineeIds": "nm0005910",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Towering Inferno",
+    "FilmId": "tt0072308",
+    "Name": "Fred Koenekamp, Joseph Biroc",
+    "Nominees": "Fred Koenekamp|Joseph Biroc",
+    "NomineeIds": "nm0005758|nm0005657",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Anthea Sylbert",
+    "Nominees": "Anthea Sylbert",
+    "NomineeIds": "nm0843123",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Daisy Miller",
+    "FilmId": "tt0071385",
+    "Name": "John Furness",
+    "Nominees": "John Furness",
+    "NomineeIds": "nm0299054",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Theadora Van Runkle",
+    "Nominees": "Theadora Van Runkle",
+    "NomineeIds": "nm0887916",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Great Gatsby",
+    "FilmId": "tt0071577",
+    "Name": "Theoni V. Aldredge",
+    "Nominees": "Theoni V. Aldredge",
+    "NomineeIds": "nm0017649",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Murder on the Orient Express",
+    "FilmId": "tt0071877",
+    "Name": "Tony Walton",
+    "Nominees": "Tony Walton",
+    "NomineeIds": "nm0910589",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Roman Polanski",
+    "Nominees": "Roman Polanski",
+    "NomineeIds": "nm0000591",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Day for Night",
+    "FilmId": "tt0070460",
+    "Name": "Francois Truffaut",
+    "Nominees": "Francois Truffaut",
+    "NomineeIds": "nm0000076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Francis Ford Coppola",
+    "Nominees": "Francis Ford Coppola",
+    "NomineeIds": "nm0000338",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Lenny",
+    "FilmId": "tt0071746",
+    "Name": "Bob Fosse",
+    "Nominees": "Bob Fosse",
+    "NomineeIds": "nm0002080",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "A Woman under the Influence",
+    "FilmId": "tt0072417",
+    "Name": "John Cassavetes",
+    "Nominees": "John Cassavetes",
+    "NomineeIds": "nm0001023",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Antonia: A Portrait of the Woman",
+    "FilmId": "tt0071151",
+    "Name": "Judy Collins and Jill Godmilow, Producers",
+    "Nominees": "Judy Collins|Jill Godmilow",
+    "NomineeIds": "nm0172423|nm0324142",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Challenge...A Tribute to Modern Art",
+    "FilmId": "tt0071299",
+    "Name": "Herbert Kline, Producer",
+    "Nominees": "Herbert Kline",
+    "NomineeIds": "nm0459627",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The 81st Blow",
+    "FilmId": "tt0071088",
+    "Name": "Jacquot Ehrlich, David Bergman and Haim Gouri, Producers",
+    "Nominees": "Jacquot Ehrlich|David Bergman|Haim Gouri",
+    "NomineeIds": "nm0251353|nm0074759|nm0332679",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Hearts and Minds",
+    "FilmId": "tt0071604",
+    "Name": "Peter Davis and Bert Schneider, Producers",
+    "Nominees": "Peter Davis|Bert Schneider",
+    "NomineeIds": "nm0205282|nm0773721",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Wild and the Brave",
+    "FilmId": "tt0072333",
+    "Name": "Natalie R. Jones and Eugene S. Jones, Producers",
+    "Nominees": "Natalie R. Jones|Eugene S. Jones",
+    "NomineeIds": "nm0428921|nm0428054",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "City Out of Wilderness",
+    "FilmId": "tt0071332",
+    "Name": "Francis Thompson, Producer",
+    "Nominees": "Francis Thompson",
+    "NomineeIds": "nm0860136",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Don't",
+    "FilmId": "tt0071430",
+    "Name": "Robin Lehman, Producer",
+    "Nominees": "Robin Lehman",
+    "NomineeIds": "nm0499651",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Exploratorium",
+    "FilmId": "tt0071480",
+    "Name": "Jon Boorstin, Producer",
+    "Nominees": "Jon Boorstin",
+    "NomineeIds": "nm0095589",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "John Muir's High Sierra",
+    "FilmId": "tt0071699",
+    "Name": "Dewitt Jones and Lesley Foster, Producers",
+    "Nominees": "Dewitt Jones|Lesley Foster",
+    "NomineeIds": "nm0427925|nm13235592",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Naked Yoga",
+    "FilmId": "tt0071893",
+    "Name": "Ronald S. Kass and Mervyn Lloyd, Producers",
+    "Nominees": "Ronald S. Kass|Mervyn Lloyd",
+    "NomineeIds": "nm0440798|nm0516082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Blazing Saddles",
+    "FilmId": "tt0071230",
+    "Name": "John C. Howard, Danford Greene",
+    "Nominees": "John C. Howard|Danford Greene",
+    "NomineeIds": "nm0397405|nm0338714",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Sam O'Steen",
+    "Nominees": "Sam O'Steen",
+    "NomineeIds": "nm0642714",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Earthquake",
+    "FilmId": "tt0071455",
+    "Name": "Dorothy Spencer",
+    "Nominees": "Dorothy Spencer",
+    "NomineeIds": "nm0817929",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Longest Yard",
+    "FilmId": "tt0071771",
+    "Name": "Michael Luciano",
+    "Nominees": "Michael Luciano",
+    "NomineeIds": "nm0524597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Towering Inferno",
+    "FilmId": "tt0072308",
+    "Name": "Harold F. Kress, Carl Kress",
+    "Nominees": "Harold F. Kress|Carl Kress",
+    "NomineeIds": "nm0470932|nm0470927",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Amarcord",
+    "FilmId": "tt0071129",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Cats' Play",
+    "FilmId": "tt0068891",
+    "Name": "Hungary",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Deluge",
+    "FilmId": "tt0072021",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Lacombe, Lucien",
+    "FilmId": "tt0071733",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Truce",
+    "FilmId": "tt0072315",
+    "Name": "Argentina",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Nino Rota, Carmine Coppola",
+    "Nominees": "Nino Rota|Carmine Coppola",
+    "NomineeIds": "nm0000065|nm0178874",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Murder on the Orient Express",
+    "FilmId": "tt0071877",
+    "Name": "Richard Rodney Bennett",
+    "Nominees": "Richard Rodney Bennett",
+    "NomineeIds": "nm0005961",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "Shanks",
+    "FilmId": "tt0072149",
+    "Name": "Alex North",
+    "Nominees": "Alex North",
+    "NomineeIds": "nm0006218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Dramatic Score)",
+    "Film": "The Towering Inferno",
+    "FilmId": "tt0072308",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+    "Film": "The Great Gatsby",
+    "FilmId": "tt0071577",
+    "Name": "Adaptation Score by Nelson Riddle",
+    "Nominees": "Nelson Riddle",
+    "NomineeIds": "nm0725765",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+    "Film": "The Little Prince",
+    "FilmId": "tt0071762",
+    "Name": "Song Score by Alan Jay Lerner and Frederick Loewe; Adaptation Score by Angela Morley and Douglas Gamley",
+    "Nominees": "Alan Jay Lerner|Frederick Loewe|Angela Morley|Douglas Gamley",
+    "NomineeIds": "nm0503585|nm0517350|nm0605859|nm0006093",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+    "Film": "Phantom of the Paradise",
+    "FilmId": "tt0071994",
+    "Name": "Song Score by Paul Williams; Adaptation Score by Paul Williams and George Aliceson Tipton",
+    "Nominees": "Paul Williams|George Aliceson Tipton",
+    "NomineeIds": "nm0931437|nm0864169",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Benji",
+    "FilmId": "tt0071206",
+    "Name": "Music by Euel Box; Lyrics by Betty Box",
+    "Nominees": "Euel Box|Betty Box",
+    "NomineeIds": "nm0101494|nm0101489",
+    "Winner": "",
+    "Detail": "Benji's Theme (I Feel Love)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Blazing Saddles",
+    "FilmId": "tt0071230",
+    "Name": "Music by John Morris; Lyrics by Mel Brooks",
+    "Nominees": "John Morris|Mel Brooks",
+    "NomineeIds": "nm0606657|nm0000316",
+    "Winner": "",
+    "Detail": "Blazing Saddles",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Little Prince",
+    "FilmId": "tt0071762",
+    "Name": "Music by Frederick Loewe; Lyrics by Alan Jay Lerner",
+    "Nominees": "Frederick Loewe|Alan Jay Lerner",
+    "NomineeIds": "nm0517350|nm0503585",
+    "Winner": "",
+    "Detail": "Little Prince",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Towering Inferno",
+    "FilmId": "tt0072308",
+    "Name": "Music and Lyrics by Al Kasha and Joel Hirschhorn",
+    "Nominees": "Al Kasha|Joel Hirschhorn",
+    "NomineeIds": "nm0440517|nm0386610",
+    "Winner": "True",
+    "Detail": "We May Never Love Like This Again",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Gold",
+    "FilmId": "tt0071566",
+    "Name": "Music by Elmer Bernstein; Lyrics by Don Black",
+    "Nominees": "Elmer Bernstein|Don Black",
+    "NomineeIds": "nm0000930|nm0085246",
+    "Winner": "",
+    "Detail": "Wherever Love Takes Me",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Robert Evans, Producer",
+    "Nominees": "Robert Evans",
+    "NomineeIds": "nm0263172",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Conversation",
+    "FilmId": "tt0071360",
+    "Name": "Francis Ford Coppola, Producer; Fred Roos, Co-Producer",
+    "Nominees": "Francis Ford Coppola|Fred Roos",
+    "NomineeIds": "nm0000338|nm0740407",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Francis Ford Coppola, Producer; Gray Frederickson and Fred Roos, Co-Producers",
+    "Nominees": "Francis Ford Coppola|Gray Frederickson|Fred Roos",
+    "NomineeIds": "nm0000338|nm0292875|nm0740407",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Lenny",
+    "FilmId": "tt0071746",
+    "Name": "Marvin Worth, Producer",
+    "Nominees": "Marvin Worth",
+    "NomineeIds": "nm0941703",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Towering Inferno",
+    "FilmId": "tt0072308",
+    "Name": "Irwin Allen, Producer",
+    "Nominees": "Irwin Allen",
+    "NomineeIds": "nm0000740",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Closed Mondays",
+    "FilmId": "tt0071337",
+    "Name": "Will Vinton and Bob Gardiner, Producers",
+    "Nominees": "Will Vinton|Bob Gardiner",
+    "NomineeIds": "nm0899139|nm0306735",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Family That Dwelt Apart",
+    "FilmId": "tt0071484",
+    "Name": "Yvon Mallette and Robert Verrall, Producers",
+    "Nominees": "Yvon Mallette|Robert Verrall",
+    "NomineeIds": "nm0539416|nm0894826",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Hunger",
+    "FilmId": "tt0071636",
+    "Name": "Peter Foldes and René Jodoin, Producers",
+    "Nominees": "Peter Foldes|René Jodoin",
+    "NomineeIds": "nm0284077|nm0423520",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Voyage to Next",
+    "FilmId": "tt0072380",
+    "Name": "Faith Hubley and John Hubley, Producers",
+    "Nominees": "Faith Hubley|John Hubley",
+    "NomineeIds": "nm0254454|nm0399524",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Winnie the Pooh and Tigger Too",
+    "FilmId": "tt0072410",
+    "Name": "Wolfgang Reitherman, Producer",
+    "Nominees": "Wolfgang Reitherman",
+    "NomineeIds": "nm0718627",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Climb",
+    "FilmId": "tt0071335",
+    "Name": "Dewitt Jones, Producer",
+    "Nominees": "Dewitt Jones",
+    "NomineeIds": "nm0427925",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Concert",
+    "FilmId": "tt0071355",
+    "Name": "Julian Chagrin and Claude Chagrin, Producers",
+    "Nominees": "Julian Chagrin|Claude Chagrin",
+    "NomineeIds": "nm0149615|nm0149613",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "One-Eyed Men Are Kings",
+    "FilmId": "tt0071943",
+    "Name": "Paul Claudon and Edmond Sechan, Producers",
+    "Nominees": "Paul Claudon|Edmond Sechan",
+    "NomineeIds": "nm0165263|nm0005895",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Planet Ocean",
+    "FilmId": "tt0072001",
+    "Name": "George V. Casey, Producer",
+    "Nominees": "George V. Casey",
+    "NomineeIds": "nm0143426",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Violin",
+    "FilmId": "tt0072370",
+    "Name": "Andrew Welsh and George Pastic, Producers",
+    "Nominees": "Andrew Welsh|George Pastic",
+    "NomineeIds": "nm0920518|nm0665005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Bud Grenzbach, Larry Jost",
+    "Nominees": "Bud Grenzbach|Larry Jost",
+    "NomineeIds": "nm0340311|nm0430928",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Conversation",
+    "FilmId": "tt0071360",
+    "Name": "Walter Murch, Arthur Rochester",
+    "Nominees": "Walter Murch|Arthur Rochester",
+    "NomineeIds": "nm0004555|nm0734053",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Earthquake",
+    "FilmId": "tt0071455",
+    "Name": "Ronald Pierce, Melvin Metcalfe, Sr.",
+    "Nominees": "Ronald Pierce|Melvin Metcalfe Sr.",
+    "NomineeIds": "nm0682463|nm0582436",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Towering Inferno",
+    "FilmId": "tt0072308",
+    "Name": "Theodore Soderberg, Herman Lewis",
+    "Nominees": "Theodore Soderberg|Herman Lewis",
+    "NomineeIds": "nm0812029|nm0507266",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Young Frankenstein",
+    "FilmId": "tt0072431",
+    "Name": "Richard Portman, Gene Cantamessa",
+    "Nominees": "Richard Portman|Gene Cantamessa",
+    "NomineeIds": "nm0692446|nm0134481",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Alice Doesn't Live Here Anymore",
+    "FilmId": "tt0071115",
+    "Name": "Robert Getchell",
+    "Nominees": "Robert Getchell",
+    "NomineeIds": "nm0315205",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Chinatown",
+    "FilmId": "tt0071315",
+    "Name": "Robert Towne",
+    "Nominees": "Robert Towne",
+    "NomineeIds": "nm0001801",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Conversation",
+    "FilmId": "tt0071360",
+    "Name": "Francis Ford Coppola",
+    "Nominees": "Francis Ford Coppola",
+    "NomineeIds": "nm0000338",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Day for Night",
+    "FilmId": "tt0070460",
+    "Name": "Francois Truffaut, Jean-Louis Richard, Suzanne Schiffman",
+    "Nominees": "Francois Truffaut|Jean-Louis Richard|Suzanne Schiffman",
+    "NomineeIds": "nm0000076|nm0723827|nm0771535",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Harry and Tonto",
+    "FilmId": "tt0071598",
+    "Name": "Paul Mazursky, Josh Greenfeld",
+    "Nominees": "Paul Mazursky|Josh Greenfeld",
+    "NomineeIds": "nm0005196|nm0338968",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Adapted from Other Material)",
+    "Film": "The Apprenticeship of Duddy Kravitz",
+    "FilmId": "tt0071155",
+    "Name": "Screenplay by Mordecai Richler; Adaptation by Lionel Chetwynd",
+    "Nominees": "Mordecai Richler|Lionel Chetwynd",
+    "NomineeIds": "nm0725006|nm0156417",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Adapted from Other Material)",
+    "Film": "The Godfather Part II",
+    "FilmId": "tt0071562",
+    "Name": "Francis Ford Coppola, Mario Puzo",
+    "Nominees": "Francis Ford Coppola|Mario Puzo",
+    "NomineeIds": "nm0000338|nm0701374",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Adapted from Other Material)",
+    "Film": "Lenny",
+    "FilmId": "tt0071746",
+    "Name": "Julian Barry",
+    "Nominees": "Julian Barry",
+    "NomineeIds": "nm0058057",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Adapted from Other Material)",
+    "Film": "Murder on the Orient Express",
+    "FilmId": "tt0071877",
+    "Name": "Paul Dehn",
+    "Nominees": "Paul Dehn",
+    "NomineeIds": "nm0214989",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay Adapted from Other Material)",
+    "Film": "Young Frankenstein",
+    "FilmId": "tt0072431",
+    "Name": "Gene Wilder, Mel Brooks",
+    "Nominees": "Gene Wilder|Mel Brooks",
+    "NomineeIds": "nm0000698|nm0000316",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Visual Effects)",
+    "Film": "Earthquake",
+    "FilmId": "tt0071455",
+    "Name": "Frank Brendel, Glen Robinson, Albert Whitlock",
+    "Nominees": "Frank Brendel|Glen Robinson|Albert Whitlock",
+    "NomineeIds": "nm0107152|nm0732656|nm0926087",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Arthur B. Krim",
+    "Nominees": "Arthur B. Krim",
+    "NomineeIds": "nm1705363",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Howard Hawks",
+    "NomineeIds": "nm0001328",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Howard Hawks - A master American filmmaker whose creative efforts hold a distinguished place in world cinema."
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jean Renoir",
+    "NomineeIds": "nm0719756",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Jean Renoir - a genius who, with grace, responsibility and enviable devotion through silent film, sound film, feature, documentary and television, has won the world's admiration."
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JOSEPH D. KELLY",
+    "NomineeIds": "nm1369113",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JOSEPH D. KELLY of Glen Glenn Sound for the design of new audio control consoles which have advanced the state of the art of sound recording and rerecording for motion picture production."
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Burbank Studios",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To THE BURBANK STUDIOS SOUND DEPARTMENT for the design of new audio control consoles engineered and constructed by the Quad-Eight Sound Corporation."
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Samuel Goldwyn Studios",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To SAMUEL GOLDWYN STUDIOS SOUND DEPARTMENT for the design of a new audio control console engineered and constructed by the Quad-Eight Sound Corporation."
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Quad-Eight Sound Corporation",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To QUAD-EIGHT SOUND CORPORATION for the engineering and construction of new audio control consoles designed by The Burbank Studios Sound Department and by the Samuel Goldwyn Studios Sound Department."
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Waldon O. Watson|Richard J. Stumpf|Robert J. Leonard|Universal City Studios",
+    "NomineeIds": "nm0910592|nm0836231|?|co0005073",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To WALDON O. WATSON, RICHARD J. STUMPF, ROBERT J. LEONARD and the UNIVERSAL CITY STUDIOS SOUND DEPARTMENT for the development and engineering of the Sensurround System for motion picture presentation."
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "The Elemack Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To THE ELEMACK COMPANY, ROME, ITALY, for the design and development of their Spyder camera dolly."
+  },
+  {
+    "Ceremony": 47,
+    "Year": 1974,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "LOUIS AMI",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To LOUIS AMI of Universal City Studios for the design and construction of a reciprocating camera platform used when photographing special visual effects for motion pictures."
   }
 ]

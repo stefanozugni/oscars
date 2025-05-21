@@ -1,635 +1,754 @@
 [
-  {
-    "category": "Best Picture",
-    "year": "1931/32",
-    "nominees": [
-      "Grand Hotel"
-    ],
-    "movies": [
-      {
-        "title": "Grand Hotel",
-        "tmdb_id": 33680,
-        "imdb_id": "tt0022958"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1931/32",
-    "nominees": [
-      "Arrowsmith"
-    ],
-    "movies": [
-      {
-        "title": "Arrowsmith",
-        "tmdb_id": 84298,
-        "imdb_id": "tt0021622"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1931/32",
-    "nominees": [
-      "Bad Girl"
-    ],
-    "movies": [
-      {
-        "title": "Bad Girl",
-        "tmdb_id": 84299,
-        "imdb_id": "tt0021635"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1931/32",
-    "nominees": [
-      "The Champ"
-    ],
-    "movies": [
-      {
-        "title": "The Champ",
-        "tmdb_id": 42816,
-        "imdb_id": "tt0021730"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1931/32",
-    "nominees": [
-      "Five Star Final"
-    ],
-    "movies": [
-      {
-        "title": "Five Star Final",
-        "tmdb_id": 42669,
-        "imdb_id": "tt0021873"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1931/32",
-    "nominees": [
-      "One Hour with You"
-    ],
-    "movies": [
-      {
-        "title": "One Hour with You",
-        "tmdb_id": 43145,
-        "imdb_id": "tt0023303"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1931/32",
-    "nominees": [
-      "Shanghai Express"
-    ],
-    "movies": [
-      {
-        "title": "Shanghai Express",
-        "tmdb_id": 875,
-        "imdb_id": "tt0023458"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1931/32",
-    "nominees": [
-      "The Smiling Lieutenant"
-    ],
-    "movies": [
-      {
-        "title": "The Smiling Lieutenant",
-        "tmdb_id": 31409,
-        "imdb_id": "tt0022074"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1931/32",
-    "nominees": [
-      "Wallace Beery"
-    ],
-    "movies": [
-      {
-        "title": "The Champ",
-        "tmdb_id": 42816,
-        "imdb_id": "tt0021730"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1931/32",
-    "nominees": [
-      "Fredric March"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Jekyll and Mr. Hyde",
-        "tmdb_id": 3019,
-        "imdb_id": "tt0022835"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1931/32",
-    "nominees": [
-      "Alfred Lunt"
-    ],
-    "movies": [
-      {
-        "title": "The Guardsman",
-        "tmdb_id": 95004,
-        "imdb_id": "tt0021931"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1931/32",
-    "nominees": [
-      "Helen Hayes"
-    ],
-    "movies": [
-      {
-        "title": "The Sin of Madelon Claudet",
-        "tmdb_id": 85504,
-        "imdb_id": "tt0022386"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1931/32",
-    "nominees": [
-      "Marie Dressler"
-    ],
-    "movies": [
-      {
-        "title": "Emma",
-        "tmdb_id": 104221,
-        "imdb_id": "tt0022854"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1931/32",
-    "nominees": [
-      "Lynn Fontanne"
-    ],
-    "movies": [
-      {
-        "title": "The Guardsman",
-        "tmdb_id": 95004,
-        "imdb_id": "tt0021931"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1931/32",
-    "nominees": [
-      "Frank Borzage"
-    ],
-    "movies": [
-      {
-        "title": "Bad Girl",
-        "tmdb_id": 84299,
-        "imdb_id": "tt0021635"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1931/32",
-    "nominees": [
-      "King Vidor"
-    ],
-    "movies": [
-      {
-        "title": "The Champ",
-        "tmdb_id": 42816,
-        "imdb_id": "tt0021730"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1931/32",
-    "nominees": [
-      "Josef von Sternberg"
-    ],
-    "movies": [
-      {
-        "title": "Shanghai Express",
-        "tmdb_id": 875,
-        "imdb_id": "tt0023458"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1931/32",
-    "nominees": [
-      "Edwin J. Burke"
-    ],
-    "movies": [
-      {
-        "title": "Bad Girl",
-        "tmdb_id": 84299,
-        "imdb_id": "tt0021635"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1931/32",
-    "nominees": [
-      "Sidney Howard"
-    ],
-    "movies": [
-      {
-        "title": "Arrowsmith",
-        "tmdb_id": 84298,
-        "imdb_id": "tt0021622"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1931/32",
-    "nominees": [
-      "Percy Heath",
-      "Samuel Hoffenstein"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Jekyll and Mr. Hyde",
-        "tmdb_id": 3019,
-        "imdb_id": "tt0022835"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1931/32",
-    "nominees": [
-      "Frances Marion"
-    ],
-    "movies": [
-      {
-        "title": "The Champ",
-        "tmdb_id": 42816,
-        "imdb_id": "tt0021730"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1931/32",
-    "nominees": [
-      "Grover Jones",
-      "William Slavens McNutt"
-    ],
-    "movies": [
-      {
-        "title": "Lady and Gent",
-        "tmdb_id": 173749,
-        "imdb_id": "tt0023109"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1931/32",
-    "nominees": [
-      "Lucien Hubbard"
-    ],
-    "movies": [
-      {
-        "title": "The Star Witness",
-        "tmdb_id": 91961,
-        "imdb_id": "tt0022430"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1931/32",
-    "nominees": [
-      "Adela Rogers St. Johns",
-      "Jane Murfin"
-    ],
-    "movies": [
-      {
-        "title": "What Price Hollywood?",
-        "tmdb_id": 56724,
-        "imdb_id": "tt0023686"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1931/32",
-    "nominees": [
-      "Flowers and Trees"
-    ],
-    "movies": [
-      {
-        "title": "Flowers and Trees",
-        "tmdb_id": 106112,
-        "imdb_id": "tt0022899"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1931/32",
-    "nominees": [
-      "It's Got Me Again!"
-    ],
-    "movies": [
-      {
-        "title": "It's Got Me Again!",
-        "tmdb_id": 100315,
-        "imdb_id": "tt0023067"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1931/32",
-    "nominees": [
-      "Mickey's Orphans"
-    ],
-    "movies": [
-      {
-        "title": "Mickey's Orphans",
-        "tmdb_id": 134360,
-        "imdb_id": "tt0022147"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1931/32",
-    "nominees": [
-      "The Music Box"
-    ],
-    "movies": [
-      {
-        "title": "The Music Box",
-        "tmdb_id": 44892,
-        "imdb_id": "tt0023251"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1931/32",
-    "nominees": [
-      "The Loud Mouth"
-    ],
-    "movies": [
-      {
-        "title": "The Loud Mouth",
-        "tmdb_id": 173864,
-        "imdb_id": "tt0023152"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1931/32",
-    "nominees": [
-      "Scratch-As-Catch-Can"
-    ],
-    "movies": [
-      {
-        "title": "Scratch-As-Catch-Can",
-        "tmdb_id": 173861,
-        "imdb_id": "tt0276472"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1931/32",
-    "nominees": [
-      "Wrestling Swordfish"
-    ],
-    "movies": [
-      {
-        "title": "Wrestling Swordfish",
-        "tmdb_id": 173750,
-        "imdb_id": "tt0023711"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1931/32",
-    "nominees": [
-      "Screen Souvenirs"
-    ],
-    "movies": [
-      {
-        "title": "Screen Souvenirs",
-        "tmdb_id": 173751,
-        "imdb_id": "tt0023441"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1931/32",
-    "nominees": [
-      "Swing High"
-    ],
-    "movies": [
-      {
-        "title": "Swing High",
-        "tmdb_id": 173753,
-        "imdb_id": "tt0152771"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1931/32",
-    "nominees": [
-      "Gordon Wiles"
-    ],
-    "movies": [
-      {
-        "title": "Transatlantic",
-        "tmdb_id": 87306,
-        "imdb_id": "tt0022500"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1931/32",
-    "nominees": [
-      "Lazare Meerson"
-    ],
-    "movies": [
-      {
-        "title": "À Nous la Liberté",
-        "tmdb_id": 31514,
-        "imdb_id": "tt0022599"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1931/32",
-    "nominees": [
-      "Richard Day"
-    ],
-    "movies": [
-      {
-        "title": "Arrowsmith",
-        "tmdb_id": 84298,
-        "imdb_id": "tt0021622"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1931/32",
-    "nominees": [
-      "Lee Garmes"
-    ],
-    "movies": [
-      {
-        "title": "Shanghai Express",
-        "tmdb_id": 875,
-        "imdb_id": "tt0023458"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1931/32",
-    "nominees": [
-      "Ray June"
-    ],
-    "movies": [
-      {
-        "title": "Arrowsmith",
-        "tmdb_id": 84298,
-        "imdb_id": "tt0021622"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1931/32",
-    "nominees": [
-      "Karl Struss"
-    ],
-    "movies": [
-      {
-        "title": "Dr. Jekyll and Mr. Hyde",
-        "tmdb_id": 3019,
-        "imdb_id": "tt0022835"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1931/32",
-    "nominees": [
-      "Paramount Publix Studio Sound Department"
-    ],
-    "movies": [],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1931/32",
-    "nominees": [
-      "MGM Studio Sound Department"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1931/32",
-    "nominees": [
-      "RKO Radio Studio Sound Department"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1931/32",
-    "nominees": [
-      "Walt Disney Productions"
-    ],
-    "movies": [],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1931/32",
-    "nominees": [
-      "Warner Bros. First National Studio Sound Department"
-    ],
-    "movies": [],
-    "won": false
-  }
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "The Champ",
+        "FilmId": "tt0021730",
+        "Name": "Wallace Beery",
+        "Nominees": "Wallace Beery",
+        "NomineeIds": "nm0000891",
+        "Winner": "True",
+        "Detail": "Champ",
+        "Note": "NOTE: A tie. Mr. Beery had one vote less than Fredric March (Dr. Jekyll and Mr. Hyde), and rules at the time stated that if any achievement came within three votes of the First Award, it would be considered a tie.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "The Guardsman",
+        "FilmId": "tt0021931",
+        "Name": "Alfred Lunt",
+        "Nominees": "Alfred Lunt",
+        "NomineeIds": "nm0526795",
+        "Winner": "",
+        "Detail": "The Actor",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+        "Category": "ACTOR",
+        "Film": "Dr. Jekyll and Mr. Hyde",
+        "FilmId": "tt0022835",
+        "Name": "Fredric March",
+        "Nominees": "Fredric March",
+        "NomineeIds": "nm0545298",
+        "Winner": "True",
+        "Detail": "Dr. Henry Jekyll/Mr. Hyde",
+        "Note": "NOTE: A tie. Wallace Beery (The Champ) had one vote less than Mr. March, and rules at the time stated that if any achievement came within three votes of the First Award, it would be considered a tie.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "Emma",
+        "FilmId": "tt0022854",
+        "Name": "Marie Dressler",
+        "Nominees": "Marie Dressler",
+        "NomineeIds": "nm0237597",
+        "Winner": "",
+        "Detail": "Emma",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "The Guardsman",
+        "FilmId": "tt0021931",
+        "Name": "Lynn Fontanne",
+        "Nominees": "Lynn Fontanne",
+        "NomineeIds": "nm0285007",
+        "Winner": "",
+        "Detail": "The Actress",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Acting",
+        "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+        "Category": "ACTRESS",
+        "Film": "The Sin of Madelon Claudet",
+        "FilmId": "tt0022386",
+        "Name": "Helen Hayes",
+        "Nominees": "Helen Hayes",
+        "NomineeIds": "nm0371040",
+        "Winner": "True",
+        "Detail": "Madelon",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "À Nous la Liberté",
+        "FilmId": "tt0022599",
+        "Name": "Lazare Meerson",
+        "Nominees": "Lazare Meerson",
+        "NomineeIds": "nm0576226",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "Arrowsmith",
+        "FilmId": "tt0021622",
+        "Name": "Richard Day",
+        "Nominees": "Richard Day",
+        "NomineeIds": "nm0206554",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "ART DIRECTION",
+        "Category": "ART DIRECTION",
+        "Film": "Transatlantic",
+        "FilmId": "tt0022500",
+        "Name": "Gordon Wiles",
+        "Nominees": "Gordon Wiles",
+        "NomineeIds": "nm0928781",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Arrowsmith",
+        "FilmId": "tt0021622",
+        "Name": "Ray June",
+        "Nominees": "Ray June",
+        "NomineeIds": "nm0432482",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Dr. Jekyll and Mr. Hyde",
+        "FilmId": "tt0022835",
+        "Name": "Karl Struss",
+        "Nominees": "Karl Struss",
+        "NomineeIds": "nm0835365",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "CINEMATOGRAPHY",
+        "Category": "CINEMATOGRAPHY",
+        "Film": "Shanghai Express",
+        "FilmId": "tt0023458",
+        "Name": "Lee Garmes",
+        "Nominees": "Lee Garmes",
+        "NomineeIds": "nm0005716",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "Bad Girl",
+        "FilmId": "tt0021635",
+        "Name": "Frank Borzage",
+        "Nominees": "Frank Borzage",
+        "NomineeIds": "nm0097648",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "The Champ",
+        "FilmId": "tt0021730",
+        "Name": "King Vidor",
+        "Nominees": "King Vidor",
+        "NomineeIds": "nm0896542",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Directing",
+        "CanonicalCategory": "DIRECTING",
+        "Category": "DIRECTING",
+        "Film": "Shanghai Express",
+        "FilmId": "tt0023458",
+        "Name": "Josef Von Sternberg",
+        "Nominees": "Josef Von Sternberg",
+        "NomineeIds": "nm0903049",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Arrowsmith",
+        "FilmId": "tt0021622",
+        "Name": "Samuel Goldwyn Productions",
+        "Nominees": "Samuel Goldwyn Productions",
+        "NomineeIds": "co0058013",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Bad Girl",
+        "FilmId": "tt0021635",
+        "Name": "Fox",
+        "Nominees": "Fox",
+        "NomineeIds": "co0028775",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "The Champ",
+        "FilmId": "tt0021730",
+        "Name": "Metro-Goldwyn-Mayer",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Five Star Final",
+        "FilmId": "tt0021873",
+        "Name": "First National",
+        "Nominees": "First National",
+        "NomineeIds": "co0041460",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Grand Hotel",
+        "FilmId": "tt0022958",
+        "Name": "Metro-Goldwyn-Mayer",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "One Hour with You",
+        "FilmId": "tt0023303",
+        "Name": "Paramount Publix",
+        "Nominees": "Paramount Publix",
+        "NomineeIds": "co0023400",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "Shanghai Express",
+        "FilmId": "tt0023458",
+        "Name": "Paramount Publix",
+        "Nominees": "Paramount Publix",
+        "NomineeIds": "co0023400",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "BEST PICTURE",
+        "Category": "OUTSTANDING PRODUCTION",
+        "Film": "The Smiling Lieutenant",
+        "FilmId": "tt0022074",
+        "Name": "Paramount Publix",
+        "Nominees": "Paramount Publix",
+        "NomineeIds": "co0023400",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT FILM (Animated)",
+        "Category": "SHORT SUBJECT (Cartoon)",
+        "Film": "Flowers and Trees",
+        "FilmId": "tt0022899",
+        "Name": "Walt Disney, Producer",
+        "Nominees": "Walt Disney",
+        "NomineeIds": "nm0000370",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT FILM (Animated)",
+        "Category": "SHORT SUBJECT (Cartoon)",
+        "Film": "It's Got Me Again",
+        "FilmId": "tt0023067",
+        "Name": "Leon Schlesinger, Producer",
+        "Nominees": "Leon Schlesinger",
+        "NomineeIds": "nm0772266",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT FILM (Animated)",
+        "Category": "SHORT SUBJECT (Cartoon)",
+        "Film": "Mickey's Orphans",
+        "FilmId": "tt0022147",
+        "Name": "Walt Disney, Producer",
+        "Nominees": "Walt Disney",
+        "NomineeIds": "nm0000370",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "The Loud Mouth",
+        "FilmId": "tt0023152",
+        "Name": "Mack Sennett, Producer",
+        "Nominees": "Mack Sennett",
+        "NomineeIds": "nm0784407",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "The Music Box",
+        "FilmId": "tt0023251",
+        "Name": "Hal Roach, Producer",
+        "Nominees": "Hal Roach",
+        "NomineeIds": "co0075561",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "Scratch-As-Catch-Can",
+        "FilmId": "tt0276472",
+        "Name": "RKO Radio",
+        "Nominees": "RKO Radio",
+        "NomineeIds": "co0041421",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Comedy)",
+        "Category": "SHORT SUBJECT (Comedy)",
+        "Film": "Stout Hearts and Willing Hands",
+        "FilmId": "tt0023517",
+        "Name": "RKO Radio",
+        "Nominees": "RKO Radio",
+        "NomineeIds": "co0041421",
+        "Winner": "",
+        "Detail": "",
+        "Note": "NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Originally announced as one of the nominees in this category, but before the final voting was done, this film was disqualified and was replaced by another RKO Radio short, Scratch-As-Catch-Can. No documentation has been found as to why this film was disqualified.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+        "Category": "SHORT SUBJECT (Novelty)",
+        "Film": "Screen Souvenirs",
+        "FilmId": "tt0023441",
+        "Name": "Paramount Publix",
+        "Nominees": "Paramount Publix",
+        "NomineeIds": "co0023400",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+        "Category": "SHORT SUBJECT (Novelty)",
+        "Film": "Swing High",
+        "FilmId": "tt0152771",
+        "Name": "Metro-Goldwyn-Mayer",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Title",
+        "CanonicalCategory": "SHORT SUBJECT (Novelty)",
+        "Category": "SHORT SUBJECT (Novelty)",
+        "Film": "Wrestling Swordfish",
+        "FilmId": "tt0023711",
+        "Name": "Mack Sennett, Producer",
+        "Nominees": "Mack Sennett",
+        "NomineeIds": "nm0784407",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Metro-Goldwyn-Mayer Studio Sound Department",
+        "Nominees": "Metro-Goldwyn-Mayer",
+        "NomineeIds": "co0007143",
+        "Winner": "",
+        "Detail": "",
+        "Note": "NOTE: This nomination was not associated with any specific film title.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Paramount Publix Studio Sound Department",
+        "Nominees": "Paramount Publix",
+        "NomineeIds": "co0023400",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "NOTE: This award was not associated with any specific film title.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "",
+        "FilmId": "",
+        "Name": "RKO Radio Studio Sound Department",
+        "Nominees": "RKO Radio",
+        "NomineeIds": "co0041421",
+        "Winner": "",
+        "Detail": "",
+        "Note": "NOTE: This nomination was not associated with any specific film title.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Production",
+        "CanonicalCategory": "SOUND RECORDING",
+        "Category": "SOUND RECORDING",
+        "Film": "",
+        "FilmId": "",
+        "Name": "Warner Bros.-First National Studio Sound Department",
+        "Nominees": "Warner Bros.|First National",
+        "NomineeIds": "co0080422|co0041460",
+        "Winner": "",
+        "Detail": "",
+        "Note": "NOTE: This nomination was not associated with any specific film title.",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Arrowsmith",
+        "FilmId": "tt0021622",
+        "Name": "Sidney Howard",
+        "Nominees": "Sidney Howard",
+        "NomineeIds": "nm0397608",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Bad Girl",
+        "FilmId": "tt0021635",
+        "Name": "Edwin Burke",
+        "Nominees": "Edwin Burke",
+        "NomineeIds": "nm0121667",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Adapted Screenplay)",
+        "Category": "WRITING (Adaptation)",
+        "Film": "Dr. Jekyll and Mr. Hyde",
+        "FilmId": "tt0022835",
+        "Name": "Percy Heath, Samuel Hoffenstein",
+        "Nominees": "Percy Heath|Samuel Hoffenstein",
+        "NomineeIds": "nm0372698|nm0388755",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "The Champ",
+        "FilmId": "tt0021730",
+        "Name": "Frances Marion",
+        "Nominees": "Frances Marion",
+        "NomineeIds": "nm0547966",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "Lady and Gent",
+        "FilmId": "tt0023109",
+        "Name": "Grover Jones, William Slavens McNutt",
+        "Nominees": "Grover Jones|William Slavens McNutt",
+        "NomineeIds": "nm0428177|nm0574112",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "The Star Witness",
+        "FilmId": "tt0022430",
+        "Name": "Lucien Hubbard",
+        "Nominees": "Lucien Hubbard",
+        "NomineeIds": "nm0399203",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Writing",
+        "CanonicalCategory": "WRITING (Original Story)",
+        "Category": "WRITING (Original Story)",
+        "Film": "What Price Hollywood?",
+        "FilmId": "tt0023686",
+        "Name": "Adela Rogers St. Johns, Jane Murfin",
+        "Nominees": "Adela Rogers St. Johns|Jane Murfin",
+        "NomineeIds": "nm0820700|nm0613848",
+        "Winner": "",
+        "Detail": "",
+        "Note": "",
+        "Citation": ""
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "Special",
+        "CanonicalCategory": "SPECIAL AWARD",
+        "Category": "SPECIAL AWARD",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Walt Disney",
+        "NomineeIds": "nm0000370",
+        "Winner": "True",
+        "Detail": "",
+        "Note": "",
+        "Citation": "To Walt Disney for the creation of \\\"Mickey Mouse.\\"
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Technicolor Motion Picture Corp.",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Cartoon Process",
+        "Note": "",
+        "Citation": "To TECHNICOLOR MOTION PICTURE CORP. for its color cartoon process."
+    },
+    {
+        "Ceremony": 5,
+        "Year": "1931/32",
+        "Class": "SciTech",
+        "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+        "Film": "",
+        "FilmId": "",
+        "Name": "",
+        "Nominees": "Eastman Kodak Company",
+        "NomineeIds": "",
+        "Winner": "True",
+        "Detail": "Laboratory",
+        "Note": "",
+        "Citation": "To EASTMAN KODAK COMPANY for its Type II-B Sensitometer."
+    }
 ]

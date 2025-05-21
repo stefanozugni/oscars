@@ -1,1876 +1,2098 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1955",
-    "nominees": [
-      "Marty"
-    ],
-    "movies": [
-      {
-        "title": "Marty",
-        "tmdb_id": 15919,
-        "imdb_id": "tt0048356"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1955",
-    "nominees": [
-      "Love is a Many-Splendored Thing"
-    ],
-    "movies": [
-      {
-        "title": "Love Is a Many-Splendored Thing",
-        "tmdb_id": 53879,
-        "imdb_id": "tt0048316"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1955",
-    "nominees": [
-      "Mister Roberts"
-    ],
-    "movies": [
-      {
-        "title": "Mister Roberts",
-        "tmdb_id": 37853,
-        "imdb_id": "tt0048380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1955",
-    "nominees": [
-      "Picnic"
-    ],
-    "movies": [
-      {
-        "title": "Picnic",
-        "tmdb_id": 39940,
-        "imdb_id": "tt0048491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1955",
-    "nominees": [
-      "The Rose Tattoo"
-    ],
-    "movies": [
-      {
-        "title": "The Rose Tattoo",
-        "tmdb_id": 65550,
-        "imdb_id": "tt0048563"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1955",
-    "nominees": [
-      "Ernest Borgnine"
-    ],
-    "movies": [
-      {
-        "title": "Marty",
-        "tmdb_id": 15919,
-        "imdb_id": "tt0048356"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1955",
-    "nominees": [
-      "James Cagney"
-    ],
-    "movies": [
-      {
-        "title": "Love Me or Leave Me",
-        "tmdb_id": 40633,
-        "imdb_id": "tt0048317"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1955",
-    "nominees": [
-      "James Dean"
-    ],
-    "movies": [
-      {
-        "title": "East of Eden",
-        "tmdb_id": 220,
-        "imdb_id": "tt0048028"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1955",
-    "nominees": [
-      "Frank Sinatra"
-    ],
-    "movies": [
-      {
-        "title": "The Man with the Golden Arm",
-        "tmdb_id": 541,
-        "imdb_id": "tt0048347"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1955",
-    "nominees": [
-      "Spencer Tracy"
-    ],
-    "movies": [
-      {
-        "title": "Bad Day at Black Rock",
-        "tmdb_id": 14554,
-        "imdb_id": "tt0047849"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1955",
-    "nominees": [
-      "Anna Magnani"
-    ],
-    "movies": [
-      {
-        "title": "The Rose Tattoo",
-        "tmdb_id": 65550,
-        "imdb_id": "tt0048563"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1955",
-    "nominees": [
-      "Susan Hayward"
-    ],
-    "movies": [
-      {
-        "title": "I'll Cry Tomorrow",
-        "tmdb_id": 28575,
-        "imdb_id": "tt0048191"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1955",
-    "nominees": [
-      "Katharine Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "Summertime",
-        "tmdb_id": 50363,
-        "imdb_id": "tt0048673"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1955",
-    "nominees": [
-      "Jennifer Jones"
-    ],
-    "movies": [
-      {
-        "title": "Love Is a Many-Splendored Thing",
-        "tmdb_id": 53879,
-        "imdb_id": "tt0048316"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1955",
-    "nominees": [
-      "Eleanor Parker"
-    ],
-    "movies": [
-      {
-        "title": "Interrupted Melody",
-        "tmdb_id": 43318,
-        "imdb_id": "tt0048210"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1955",
-    "nominees": [
-      "Jack Lemmon"
-    ],
-    "movies": [
-      {
-        "title": "Mister Roberts",
-        "tmdb_id": 37853,
-        "imdb_id": "tt0048380"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1955",
-    "nominees": [
-      "Arthur Kennedy"
-    ],
-    "movies": [
-      {
-        "title": "Trial",
-        "tmdb_id": 114083,
-        "imdb_id": "tt0048748"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1955",
-    "nominees": [
-      "Joe Mantell"
-    ],
-    "movies": [
-      {
-        "title": "Marty",
-        "tmdb_id": 15919,
-        "imdb_id": "tt0048356"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1955",
-    "nominees": [
-      "Sal Mineo"
-    ],
-    "movies": [
-      {
-        "title": "Rebel Without a Cause",
-        "tmdb_id": 221,
-        "imdb_id": "tt0048545"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1955",
-    "nominees": [
-      "Arthur O'Connell"
-    ],
-    "movies": [
-      {
-        "title": "Picnic",
-        "tmdb_id": 39940,
-        "imdb_id": "tt0048491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1955",
-    "nominees": [
-      "Jo Van Fleet"
-    ],
-    "movies": [
-      {
-        "title": "East of Eden",
-        "tmdb_id": 220,
-        "imdb_id": "tt0048028"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1955",
-    "nominees": [
-      "Betsy Blair"
-    ],
-    "movies": [
-      {
-        "title": "Marty",
-        "tmdb_id": 15919,
-        "imdb_id": "tt0048356"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1955",
-    "nominees": [
-      "Peggy Lee"
-    ],
-    "movies": [
-      {
-        "title": "Pete Kelly's Blues",
-        "tmdb_id": 43321,
-        "imdb_id": "tt0048484"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1955",
-    "nominees": [
-      "Marisa Pavan"
-    ],
-    "movies": [
-      {
-        "title": "The Rose Tattoo",
-        "tmdb_id": 65550,
-        "imdb_id": "tt0048563"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1955",
-    "nominees": [
-      "Natalie Wood"
-    ],
-    "movies": [
-      {
-        "title": "Rebel Without a Cause",
-        "tmdb_id": 221,
-        "imdb_id": "tt0048545"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1955",
-    "nominees": [
-      "Delbert Mann"
-    ],
-    "movies": [
-      {
-        "title": "Marty",
-        "tmdb_id": 15919,
-        "imdb_id": "tt0048356"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1955",
-    "nominees": [
-      "Elia Kazan"
-    ],
-    "movies": [
-      {
-        "title": "East of Eden",
-        "tmdb_id": 220,
-        "imdb_id": "tt0048028"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1955",
-    "nominees": [
-      "David Lean"
-    ],
-    "movies": [
-      {
-        "title": "Summertime",
-        "tmdb_id": 50363,
-        "imdb_id": "tt0048673"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1955",
-    "nominees": [
-      "Joshua Logan"
-    ],
-    "movies": [
-      {
-        "title": "Picnic",
-        "tmdb_id": 39940,
-        "imdb_id": "tt0048491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1955",
-    "nominees": [
-      "John Sturges"
-    ],
-    "movies": [
-      {
-        "title": "Bad Day at Black Rock",
-        "tmdb_id": 14554,
-        "imdb_id": "tt0047849"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Paddy Chayefsky"
-    ],
-    "movies": [
-      {
-        "title": "Marty",
-        "tmdb_id": 15919,
-        "imdb_id": "tt0048356"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Millard Kaufman"
-    ],
-    "movies": [
-      {
-        "title": "Bad Day at Black Rock",
-        "tmdb_id": 14554,
-        "imdb_id": "tt0047849"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Richard Brooks"
-    ],
-    "movies": [
-      {
-        "title": "Blackboard Jungle",
-        "tmdb_id": 26516,
-        "imdb_id": "tt0047885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Paul Osborn"
-    ],
-    "movies": [
-      {
-        "title": "East of Eden",
-        "tmdb_id": 220,
-        "imdb_id": "tt0048028"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Daniel Fuchs",
-      "Isobel Lennart"
-    ],
-    "movies": [
-      {
-        "title": "Love Me or Leave Me",
-        "tmdb_id": 40633,
-        "imdb_id": "tt0048317"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Sonya Levien",
-      "William Ludwig"
-    ],
-    "movies": [
-      {
-        "title": "Interrupted Melody",
-        "tmdb_id": 43318,
-        "imdb_id": "tt0048210"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Milton Sperling",
-      "Emmet Lavery"
-    ],
-    "movies": [
-      {
-        "title": "The Court-Martial of Billy Mitchell",
-        "tmdb_id": 118910,
-        "imdb_id": "tt0047956"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Betty Comden",
-      "Adolph Green"
-    ],
-    "movies": [
-      {
-        "title": "It's Always Fair Weather",
-        "tmdb_id": 17640,
-        "imdb_id": "tt0048216"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Jacques Tati",
-      "Henri Marquet"
-    ],
-    "movies": [
-      {
-        "title": "Monsieur Hulot's Holiday",
-        "tmdb_id": 778,
-        "imdb_id": "tt0046487"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1955",
-    "nominees": [
-      "Melville Shavelson",
-      "Jack Rose"
-    ],
-    "movies": [
-      {
-        "title": "The Seven Little Foys",
-        "tmdb_id": 25893,
-        "imdb_id": "tt0048604"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1955",
-    "nominees": [
-      "Daniel Fuchs"
-    ],
-    "movies": [
-      {
-        "title": "Love Me or Leave Me",
-        "tmdb_id": 40633,
-        "imdb_id": "tt0048317"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1955",
-    "nominees": [
-      "Joe Connelly",
-      "Bob Mosher"
-    ],
-    "movies": [
-      {
-        "title": "The Private War of Major Benson",
-        "tmdb_id": 110502,
-        "imdb_id": "tt0048513"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1955",
-    "nominees": [
-      "Nicholas Ray"
-    ],
-    "movies": [
-      {
-        "title": "Rebel Without a Cause",
-        "tmdb_id": 221,
-        "imdb_id": "tt0048545"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1955",
-    "nominees": [
-      "Beirne Lay Jr."
-    ],
-    "movies": [
-      {
-        "title": "Strategic Air Command",
-        "tmdb_id": 61880,
-        "imdb_id": "tt0048667"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Story",
-    "year": "1955",
-    "nominees": [
-      "Jean Marsan",
-      "Henri Troyat",
-      "Jacques Perret",
-      "Henri Verneuil",
-      "Raoul Ploquin"
-    ],
-    "movies": [
-      {
-        "title": "The Sheep Has Five Legs",
-        "tmdb_id": 74810,
-        "imdb_id": "tt0047250"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1955",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "Love Is a Many-Splendored Thing",
-        "tmdb_id": 53879,
-        "imdb_id": "tt0048316"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1955",
-    "nominees": [
-      "Max Steiner"
-    ],
-    "movies": [
-      {
-        "title": "Battle Cry",
-        "tmdb_id": 51426,
-        "imdb_id": "tt0047860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1955",
-    "nominees": [
-      "Elmer Bernstein"
-    ],
-    "movies": [
-      {
-        "title": "The Man with the Golden Arm",
-        "tmdb_id": 541,
-        "imdb_id": "tt0048347"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1955",
-    "nominees": [
-      "George Duning"
-    ],
-    "movies": [
-      {
-        "title": "Picnic",
-        "tmdb_id": 39940,
-        "imdb_id": "tt0048491"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1955",
-    "nominees": [
-      "Alex North"
-    ],
-    "movies": [
-      {
-        "title": "The Rose Tattoo",
-        "tmdb_id": 65550,
-        "imdb_id": "tt0048563"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1955",
-    "nominees": [
-      "Robert Russell Bennett",
-      "Jay Blackton",
-      "Adolph Deutsch"
-    ],
-    "movies": [
-      {
-        "title": "Oklahoma!",
-        "tmdb_id": 13936,
-        "imdb_id": "tt0048445"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1955",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "Daddy Long Legs",
-        "tmdb_id": 33218,
-        "imdb_id": "tt0047969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1955",
-    "nominees": [
-      "Jay Blackton",
-      "Cyril J. Mockridge"
-    ],
-    "movies": [
-      {
-        "title": "Guys and Dolls",
-        "tmdb_id": 4825,
-        "imdb_id": "tt0048140"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1955",
-    "nominees": [
-      "Andre Previn"
-    ],
-    "movies": [
-      {
-        "title": "It's Always Fair Weather",
-        "tmdb_id": 17640,
-        "imdb_id": "tt0048216"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1955",
-    "nominees": [
-      "Percy Faith",
-      "George Stoll"
-    ],
-    "movies": [
-      {
-        "title": "Love Me or Leave Me",
-        "tmdb_id": 40633,
-        "imdb_id": "tt0048317"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1955",
-    "nominees": [
-      "Love Is a Many-Splendored Thing"
-    ],
-    "movies": [
-      {
-        "title": "Love Is a Many-Splendored Thing",
-        "tmdb_id": 53879,
-        "imdb_id": "tt0048316"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1955",
-    "nominees": [
-      "I'll Never Stop Loving You"
-    ],
-    "movies": [
-      {
-        "title": "Love Me or Leave Me",
-        "tmdb_id": 40633,
-        "imdb_id": "tt0048317"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1955",
-    "nominees": [
-      "Something's Gotta Give"
-    ],
-    "movies": [
-      {
-        "title": "Daddy Long Legs",
-        "tmdb_id": 33218,
-        "imdb_id": "tt0047969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1955",
-    "nominees": [
-      "The Tender Trap"
-    ],
-    "movies": [
-      {
-        "title": "The Tender Trap",
-        "tmdb_id": 43326,
-        "imdb_id": "tt0048705"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1955",
-    "nominees": [
-      "Unchained Melody"
-    ],
-    "movies": [
-      {
-        "title": "Unchained",
-        "tmdb_id": 216876,
-        "imdb_id": "tt0048762"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1955",
-    "nominees": [
-      "Samurai I: Musashi Miyamoto"
-    ],
-    "movies": [
-      {
-        "title": "Samurai I: Musashi Miyamoto",
-        "tmdb_id": 31372,
-        "imdb_id": "tt0047444"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1955",
-    "nominees": [
-      "The Unconquered"
-    ],
-    "movies": [
-      {
-        "title": "The Unconquered",
-        "tmdb_id": 114500,
-        "imdb_id": "tt0048157"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1955",
-    "nominees": [
-      "Heartbreak Ridge"
-    ],
-    "movies": [
-      {
-        "title": "Heartbreak Ridge",
-        "tmdb_id": 149264,
-        "imdb_id": "tt0048151"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1955",
-    "nominees": [
-      "Men Against the Arctic"
-    ],
-    "movies": [
-      {
-        "title": "Men Against the Arctic",
-        "tmdb_id": 167097,
-        "imdb_id": "tt0048369"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1955",
-    "nominees": [
-      "The Battle of Gettysburg"
-    ],
-    "movies": [
-      {
-        "title": "The Battle of Gettysburg",
-        "tmdb_id": 243026,
-        "imdb_id": "tt0047862"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1955",
-    "nominees": [
-      "The Face of Lincoln"
-    ],
-    "movies": [
-      {
-        "title": "The Face of Lincoln",
-        "tmdb_id": 243025,
-        "imdb_id": "tt0048049"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1955",
-    "nominees": [
-      "Speedy Gonzales"
-    ],
-    "movies": [
-      {
-        "title": "Speedy Gonzales",
-        "tmdb_id": 33444,
-        "imdb_id": "tt0048649"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1955",
-    "nominees": [
-      "Good Will To Men"
-    ],
-    "movies": [
-      {
-        "title": "Good Will To Men",
-        "tmdb_id": 46244,
-        "imdb_id": "tt0048131"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1955",
-    "nominees": [
-      "The Legend of Rockabye Point"
-    ],
-    "movies": [
-      {
-        "title": "The Legend of Rockabye Point",
-        "tmdb_id": 163050,
-        "imdb_id": "tt0048292"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1955",
-    "nominees": [
-      "No Hunting"
-    ],
-    "movies": [
-      {
-        "title": "No Hunting",
-        "tmdb_id": 67138,
-        "imdb_id": "tt0048425"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1955",
-    "nominees": [
-      "Survival City"
-    ],
-    "movies": [
-      {
-        "title": "Survival City",
-        "tmdb_id": 243030,
-        "imdb_id": "tt0048677"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1955",
-    "nominees": [
-      "3rd Ave. El"
-    ],
-    "movies": [
-      {
-        "title": "3rd Ave. El",
-        "tmdb_id": 243032,
-        "imdb_id": "tt0047792"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1955",
-    "nominees": [
-      "Gadgets Galore"
-    ],
-    "movies": [
-      {
-        "title": "Gadgets Galore",
-        "tmdb_id": 243031,
-        "imdb_id": "tt0048106"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1955",
-    "nominees": [
-      "Three Kisses"
-    ],
-    "movies": [
-      {
-        "title": "Three Kisses",
-        "tmdb_id": 243033,
-        "imdb_id": "tt0048718"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1955",
-    "nominees": [
-      "The Face of Lincoln"
-    ],
-    "movies": [
-      {
-        "title": "The Face of Lincoln",
-        "tmdb_id": 243025,
-        "imdb_id": "tt0048049"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1955",
-    "nominees": [
-      "The Battle of Gettysburg"
-    ],
-    "movies": [
-      {
-        "title": "The Battle of Gettysburg",
-        "tmdb_id": 243026,
-        "imdb_id": "tt0047862"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1955",
-    "nominees": [
-      "On the Twelfth Day..."
-    ],
-    "movies": [
-      {
-        "title": "On the Twelfth Day...",
-        "tmdb_id": 243027,
-        "imdb_id": "tt0048447"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1955",
-    "nominees": [
-      "Switzerland"
-    ],
-    "movies": [
-      {
-        "title": "Switzerland",
-        "tmdb_id": 243029,
-        "imdb_id": "tt0048683"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Two-Reel or Novelty)",
-    "year": "1955",
-    "nominees": [
-      "24 Hour Alert"
-    ],
-    "movies": [
-      {
-        "title": "24 Hour Alert",
-        "tmdb_id": 234946,
-        "imdb_id": "tt0047791"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Hal Pereira",
-      "Tambi Larsen",
-      "Samuel M. Comer",
-      "Arthur Krams"
-    ],
-    "movies": [
-      {
-        "title": "The Rose Tattoo",
-        "tmdb_id": 65550,
-        "imdb_id": "tt0048563"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Cedric Gibbons",
-      "Randall Duell",
-      "Edwin B. Willis",
-      "Henry Grace"
-    ],
-    "movies": [
-      {
-        "title": "Blackboard Jungle",
-        "tmdb_id": 26516,
-        "imdb_id": "tt0047885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Cedric Gibbons",
-      "Malcolm Brown",
-      "Edwin B. Willis",
-      "Hugh B. Hunt"
-    ],
-    "movies": [
-      {
-        "title": "I'll Cry Tomorrow",
-        "tmdb_id": 28575,
-        "imdb_id": "tt0048191"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Joseph C. Wright",
-      "Darrell Silvera"
-    ],
-    "movies": [
-      {
-        "title": "The Man with the Golden Arm",
-        "tmdb_id": 541,
-        "imdb_id": "tt0048347"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Edward S. Haworth",
-      "Walter Simonds",
-      "Robert Priestley"
-    ],
-    "movies": [
-      {
-        "title": "Marty",
-        "tmdb_id": 15919,
-        "imdb_id": "tt0048356"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "William Flannery",
-      "Jo Mielziner",
-      "Robert Priestley"
-    ],
-    "movies": [
-      {
-        "title": "Picnic",
-        "tmdb_id": 39940,
-        "imdb_id": "tt0048491"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "Lyle Wheeler",
-      "John DeCuir",
-      "Walter M. Scott",
-      "Paul S. Fox"
-    ],
-    "movies": [
-      {
-        "title": "Daddy Long Legs",
-        "tmdb_id": 33218,
-        "imdb_id": "tt0047969"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "Oliver Smith",
-      "Joseph C. Wright",
-      "Howard Bristol"
-    ],
-    "movies": [
-      {
-        "title": "Guys and Dolls",
-        "tmdb_id": 4825,
-        "imdb_id": "tt0048140"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "Lyle Wheeler",
-      "George Davis",
-      "Walter M. Scott",
-      "Jack Stubbs"
-    ],
-    "movies": [
-      {
-        "title": "Love Is a Many-Splendored Thing",
-        "tmdb_id": 53879,
-        "imdb_id": "tt0048316"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "Hal Pereira",
-      "Joseph McMillan Johnson",
-      "Samuel M. Comer",
-      "Arthur Krams"
-    ],
-    "movies": [
-      {
-        "title": "To Catch a Thief",
-        "tmdb_id": 381,
-        "imdb_id": "tt0048728"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "James Wong Howe"
-    ],
-    "movies": [
-      {
-        "title": "The Rose Tattoo",
-        "tmdb_id": 65550,
-        "imdb_id": "tt0048563"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Russell Harlan"
-    ],
-    "movies": [
-      {
-        "title": "Blackboard Jungle",
-        "tmdb_id": 26516,
-        "imdb_id": "tt0047885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Arthur E. Arling"
-    ],
-    "movies": [
-      {
-        "title": "I'll Cry Tomorrow",
-        "tmdb_id": 28575,
-        "imdb_id": "tt0048191"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Joseph LaShelle"
-    ],
-    "movies": [
-      {
-        "title": "Marty",
-        "tmdb_id": 15919,
-        "imdb_id": "tt0048356"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Charles Lang"
-    ],
-    "movies": [
-      {
-        "title": "Queen Bee",
-        "tmdb_id": 28296,
-        "imdb_id": "tt0048527"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1955",
-    "nominees": [
-      "Robert Burks"
-    ],
-    "movies": [
-      {
-        "title": "To Catch a Thief",
-        "tmdb_id": 381,
-        "imdb_id": "tt0048728"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1955",
-    "nominees": [
-      "Leon Shamroy"
-    ],
-    "movies": [
-      {
-        "title": "Love Is a Many-Splendored Thing",
-        "tmdb_id": 53879,
-        "imdb_id": "tt0048316"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1955",
-    "nominees": [
-      "Harry Stradling"
-    ],
-    "movies": [
-      {
-        "title": "Guys and Dolls",
-        "tmdb_id": 4825,
-        "imdb_id": "tt0048140"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1955",
-    "nominees": [
-      "Harold Lipstein"
-    ],
-    "movies": [
-      {
-        "title": "A Man Called Peter",
-        "tmdb_id": 45136,
-        "imdb_id": "tt0048337"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1955",
-    "nominees": [
-      "Robert Surtees"
-    ],
-    "movies": [
-      {
-        "title": "Oklahoma!",
-        "tmdb_id": 13936,
-        "imdb_id": "tt0048445"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1955",
-    "nominees": [
-      "Charles Nelson",
-      "William A. Lyon"
-    ],
-    "movies": [
-      {
-        "title": "Picnic",
-        "tmdb_id": 39940,
-        "imdb_id": "tt0048491"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1955",
-    "nominees": [
-      "Ferris Webster"
-    ],
-    "movies": [
-      {
-        "title": "Blackboard Jungle",
-        "tmdb_id": 26516,
-        "imdb_id": "tt0047885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1955",
-    "nominees": [
-      "Alma Macrorie"
-    ],
-    "movies": [
-      {
-        "title": "The Bridges at Toko-Ri",
-        "tmdb_id": 35580,
-        "imdb_id": "tt0046806"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1955",
-    "nominees": [
-      "Gene Ruggiero",
-      "George Boemler"
-    ],
-    "movies": [
-      {
-        "title": "Oklahoma!",
-        "tmdb_id": 13936,
-        "imdb_id": "tt0048445"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1955",
-    "nominees": [
-      "Warren Low"
-    ],
-    "movies": [
-      {
-        "title": "The Rose Tattoo",
-        "tmdb_id": 65550,
-        "imdb_id": "tt0048563"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1955",
-    "nominees": [
-      "Paramount Studio"
-    ],
-    "movies": [
-      {
-        "title": "The Bridges at Toko-Ri",
-        "tmdb_id": 35580,
-        "imdb_id": "tt0046806"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1955",
-    "nominees": [
-      "Associated British Picture Corporation",
-      "Ltd."
-    ],
-    "movies": [
-      {
-        "title": "The Dam Busters",
-        "tmdb_id": 13210,
-        "imdb_id": "tt0046889"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1955",
-    "nominees": [
-      "20th Century-Fox Studio"
-    ],
-    "movies": [
-      {
-        "title": "The Rains of Ranchipur",
-        "tmdb_id": 39695,
-        "imdb_id": "tt0048538"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1955",
-    "nominees": [
-      "Fred Hynes"
-    ],
-    "movies": [
-      {
-        "title": "Oklahoma!",
-        "tmdb_id": 13936,
-        "imdb_id": "tt0048445"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1955",
-    "nominees": [
-      "Carlton W. Faulkner"
-    ],
-    "movies": [
-      {
-        "title": "Love Is a Many-Splendored Thing",
-        "tmdb_id": 53879,
-        "imdb_id": "tt0048316"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1955",
-    "nominees": [
-      "Wesley C. Miller"
-    ],
-    "movies": [
-      {
-        "title": "Love Me or Leave Me",
-        "tmdb_id": 40633,
-        "imdb_id": "tt0048317"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1955",
-    "nominees": [
-      "William A. Mueller"
-    ],
-    "movies": [
-      {
-        "title": "Mister Roberts",
-        "tmdb_id": 37853,
-        "imdb_id": "tt0048380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1955",
-    "nominees": [
-      "Watson Jones"
-    ],
-    "movies": [
-      {
-        "title": "Not as a Stranger",
-        "tmdb_id": 76117,
-        "imdb_id": "tt0048432"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Helen Rose"
-    ],
-    "movies": [
-      {
-        "title": "I'll Cry Tomorrow",
-        "tmdb_id": 28575,
-        "imdb_id": "tt0048191"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Beatrice Dawson"
-    ],
-    "movies": [
-      {
-        "title": "The Pickwick Papers",
-        "tmdb_id": 139204,
-        "imdb_id": "tt0045030"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Jean Louis"
-    ],
-    "movies": [
-      {
-        "title": "Queen Bee",
-        "tmdb_id": 28296,
-        "imdb_id": "tt0048527"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Edith Head"
-    ],
-    "movies": [
-      {
-        "title": "The Rose Tattoo",
-        "tmdb_id": 65550,
-        "imdb_id": "tt0048563"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1955",
-    "nominees": [
-      "Tadaoto Kainosho"
-    ],
-    "movies": [
-      {
-        "title": "Ugetsu",
-        "tmdb_id": 14696,
-        "imdb_id": "tt0046478"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "Charles LeMaire"
-    ],
-    "movies": [
-      {
-        "title": "Love Is a Many-Splendored Thing",
-        "tmdb_id": 53879,
-        "imdb_id": "tt0048316"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "Helen Rose"
-    ],
-    "movies": [
-      {
-        "title": "Interrupted Melody",
-        "tmdb_id": 43318,
-        "imdb_id": "tt0048210"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "Irene Sharaff"
-    ],
-    "movies": [
-      {
-        "title": "Guys and Dolls",
-        "tmdb_id": 4825,
-        "imdb_id": "tt0048140"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "Edith Head"
-    ],
-    "movies": [
-      {
-        "title": "To Catch a Thief",
-        "tmdb_id": 381,
-        "imdb_id": "tt0048728"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1955",
-    "nominees": [
-      "Charles LeMaire",
-      "Mary Wills"
-    ],
-    "movies": [
-      {
-        "title": "The Virgin Queen",
-        "tmdb_id": 43327,
-        "imdb_id": "tt0048791"
-      }
-    ],
-    "won": false
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Marty",
+    "FilmId": "tt0048356",
+    "Name": "Ernest Borgnine",
+    "Nominees": "Ernest Borgnine",
+    "NomineeIds": "nm0000308",
+    "Winner": "True",
+    "Detail": "Marty Pilletti",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Love Me or Leave Me",
+    "FilmId": "tt0048317",
+    "Name": "James Cagney",
+    "Nominees": "James Cagney",
+    "NomineeIds": "nm0000010",
+    "Winner": "",
+    "Detail": "Martin Snyder",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "East of Eden",
+    "FilmId": "tt0048028",
+    "Name": "James Dean",
+    "Nominees": "James Dean",
+    "NomineeIds": "nm0000015",
+    "Winner": "",
+    "Detail": "Cal Trask",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Man with the Golden Arm",
+    "FilmId": "tt0048347",
+    "Name": "Frank Sinatra",
+    "Nominees": "Frank Sinatra",
+    "NomineeIds": "nm0000069",
+    "Winner": "",
+    "Detail": "Frankie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Bad Day at Black Rock",
+    "FilmId": "tt0047849",
+    "Name": "Spencer Tracy",
+    "Nominees": "Spencer Tracy",
+    "NomineeIds": "nm0000075",
+    "Winner": "",
+    "Detail": "John J. Macreedy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Trial",
+    "FilmId": "tt0048748",
+    "Name": "Arthur Kennedy",
+    "Nominees": "Arthur Kennedy",
+    "NomineeIds": "nm0447913",
+    "Winner": "",
+    "Detail": "Barney Castle",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Mister Roberts",
+    "FilmId": "tt0048380",
+    "Name": "Jack Lemmon",
+    "Nominees": "Jack Lemmon",
+    "NomineeIds": "nm0000493",
+    "Winner": "True",
+    "Detail": "Ensign Pulver",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Marty",
+    "FilmId": "tt0048356",
+    "Name": "Joe Mantell",
+    "Nominees": "Joe Mantell",
+    "NomineeIds": "nm0544064",
+    "Winner": "",
+    "Detail": "Angie",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Rebel without a Cause",
+    "FilmId": "tt0048545",
+    "Name": "Sal Mineo",
+    "Nominees": "Sal Mineo",
+    "NomineeIds": "nm0000543",
+    "Winner": "",
+    "Detail": "Plato",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Picnic",
+    "FilmId": "tt0048491",
+    "Name": "Arthur O'Connell",
+    "Nominees": "Arthur O'Connell",
+    "NomineeIds": "nm0640023",
+    "Winner": "",
+    "Detail": "Howard Bevans",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "I'll Cry Tomorrow",
+    "FilmId": "tt0048191",
+    "Name": "Susan Hayward",
+    "Nominees": "Susan Hayward",
+    "NomineeIds": "nm0001333",
+    "Winner": "",
+    "Detail": "Lillian Roth",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Summertime",
+    "FilmId": "tt0048673",
+    "Name": "Katharine Hepburn",
+    "Nominees": "Katharine Hepburn",
+    "NomineeIds": "nm0000031",
+    "Winner": "",
+    "Detail": "Jane Hudson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Love Is a Many-Splendored Thing",
+    "FilmId": "tt0048316",
+    "Name": "Jennifer Jones",
+    "Nominees": "Jennifer Jones",
+    "NomineeIds": "nm0428354",
+    "Winner": "",
+    "Detail": "Han Suyin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Rose Tattoo",
+    "FilmId": "tt0048563",
+    "Name": "Anna Magnani",
+    "Nominees": "Anna Magnani",
+    "NomineeIds": "nm0536167",
+    "Winner": "True",
+    "Detail": "Serafina Della Rose",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Interrupted Melody",
+    "FilmId": "tt0048210",
+    "Name": "Eleanor Parker",
+    "Nominees": "Eleanor Parker",
+    "NomineeIds": "nm0662223",
+    "Winner": "",
+    "Detail": "Marjorie Lawrence",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Marty",
+    "FilmId": "tt0048356",
+    "Name": "Betsy Blair",
+    "Nominees": "Betsy Blair",
+    "NomineeIds": "nm0086198",
+    "Winner": "",
+    "Detail": "Clara Snyder",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Pete Kelly's Blues",
+    "FilmId": "tt0048484",
+    "Name": "Peggy Lee",
+    "Nominees": "Peggy Lee",
+    "NomineeIds": "nm0498007",
+    "Winner": "",
+    "Detail": "Rose Hopkins",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Rose Tattoo",
+    "FilmId": "tt0048563",
+    "Name": "Marisa Pavan",
+    "Nominees": "Marisa Pavan",
+    "NomineeIds": "nm0667542",
+    "Winner": "",
+    "Detail": "Rosa Della Rose",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "East of Eden",
+    "FilmId": "tt0048028",
+    "Name": "Jo Van Fleet",
+    "Nominees": "Jo Van Fleet",
+    "NomineeIds": "nm0886888",
+    "Winner": "True",
+    "Detail": "Kate",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Rebel without a Cause",
+    "FilmId": "tt0048545",
+    "Name": "Natalie Wood",
+    "Nominees": "Natalie Wood",
+    "NomineeIds": "nm0000081",
+    "Winner": "",
+    "Detail": "Judy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Blackboard Jungle",
+    "FilmId": "tt0047885",
+    "Name": "Art Direction: Cedric Gibbons, Randall Duell; Set Decoration: Edwin B. Willis, Henry Grace",
+    "Nominees": "Cedric Gibbons|Randall Duell|Edwin B. Willis|Henry Grace",
+    "NomineeIds": "nm0316539|nm0240237|nm0932320|nm0333352",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "I'll Cry Tomorrow",
+    "FilmId": "tt0048191",
+    "Name": "Art Direction: Cedric Gibbons, Malcolm Brown; Set Decoration: Edwin B. Willis, Hugh B. Hunt",
+    "Nominees": "Cedric Gibbons|Malcolm Brown|Edwin B. Willis|Hugh B. Hunt",
+    "NomineeIds": "nm0316539|nm0114164|nm0932320|nm0402474",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Man with the Golden Arm",
+    "FilmId": "tt0048347",
+    "Name": "Art Direction: Joseph C. Wright; Set Decoration: Darrell Silvera",
+    "Nominees": "Joseph C. Wright|Darrell Silvera",
+    "NomineeIds": "nm0942532|nm0798822",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Marty",
+    "FilmId": "tt0048356",
+    "Name": "Art Direction: Edward S. Haworth, Walter Simonds; Set Decoration: Robert Priestley",
+    "Nominees": "Edward S. Haworth|Walter Simonds|Robert Priestley",
+    "NomineeIds": "nm0370385|nm0800467|nm0697369",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Rose Tattoo",
+    "FilmId": "tt0048563",
+    "Name": "Art Direction: Hal Pereira, Tambi Larsen; Set Decoration: Sam Comer, Arthur Krams",
+    "Nominees": "Hal Pereira|Tambi Larsen|Sam Comer|Arthur Krams",
+    "NomineeIds": "nm0673134|nm0488910|nm0173754|nm0469735",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Daddy Long Legs",
+    "FilmId": "tt0047969",
+    "Name": "Art Direction: Lyle Wheeler, John DeCuir; Set Decoration: Walter M. Scott, Paul S. Fox",
+    "Nominees": "Lyle Wheeler|John DeCuir|Walter M. Scott|Paul S. Fox",
+    "NomineeIds": "nm0923907|nm0214043|nm0779898|nm0289189",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Guys and Dolls",
+    "FilmId": "tt0048140",
+    "Name": "Art Direction: Oliver Smith, Joseph C. Wright; Set Decoration: Howard Bristol",
+    "Nominees": "Oliver Smith|Joseph C. Wright|Howard Bristol",
+    "NomineeIds": "nm0809484|nm0942532|nm0109924",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Love Is a Many-Splendored Thing",
+    "FilmId": "tt0048316",
+    "Name": "Art Direction: Lyle Wheeler, George W. Davis; Set Decoration: Walter M. Scott, Jack Stubbs",
+    "Nominees": "Lyle Wheeler|George W. Davis|Walter M. Scott|Jack Stubbs",
+    "NomineeIds": "nm0923907|nm0204649|nm0779898|nm0835918",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Picnic",
+    "FilmId": "tt0048491",
+    "Name": "Art Direction: William Flannery, Jo Mielziner; Set Decoration: Robert Priestley",
+    "Nominees": "William Flannery|Jo Mielziner|Robert Priestley",
+    "NomineeIds": "nm0281228|nm0585758|nm0697369",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "To Catch a Thief",
+    "FilmId": "tt0048728",
+    "Name": "Art Direction: Hal Pereira, Joseph McMillan Johnson; Set Decoration: Sam Comer, Arthur Krams",
+    "Nominees": "Hal Pereira|Joseph McMillan Johnson|Sam Comer|Arthur Krams",
+    "NomineeIds": "nm0673134|nm0425262|nm0173754|nm0469735",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Blackboard Jungle",
+    "FilmId": "tt0047885",
+    "Name": "Russell Harlan",
+    "Nominees": "Russell Harlan",
+    "NomineeIds": "nm0005737",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "I'll Cry Tomorrow",
+    "FilmId": "tt0048191",
+    "Name": "Arthur E. Arling",
+    "Nominees": "Arthur E. Arling",
+    "NomineeIds": "nm0035186",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Marty",
+    "FilmId": "tt0048356",
+    "Name": "Joseph LaShelle",
+    "Nominees": "Joseph LaShelle",
+    "NomineeIds": "nm0005766",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Queen Bee",
+    "FilmId": "tt0048527",
+    "Name": "Charles Lang",
+    "Nominees": "Charles Lang",
+    "NomineeIds": "nm0485702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Rose Tattoo",
+    "FilmId": "tt0048563",
+    "Name": "James Wong Howe",
+    "Nominees": "James Wong Howe",
+    "NomineeIds": "nm0002146",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Guys and Dolls",
+    "FilmId": "tt0048140",
+    "Name": "Harry Stradling",
+    "Nominees": "Harry Stradling",
+    "NomineeIds": "nm0005889",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Love Is a Many-Splendored Thing",
+    "FilmId": "tt0048316",
+    "Name": "Leon Shamroy",
+    "Nominees": "Leon Shamroy",
+    "NomineeIds": "nm0005872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "A Man Called Peter",
+    "FilmId": "tt0048337",
+    "Name": "Harold Lipstein",
+    "Nominees": "Harold Lipstein",
+    "NomineeIds": "nm0513823",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Oklahoma!",
+    "FilmId": "tt0048445",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "To Catch a Thief",
+    "FilmId": "tt0048728",
+    "Name": "Robert Burks",
+    "Nominees": "Robert Burks",
+    "NomineeIds": "nm0122079",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "I'll Cry Tomorrow",
+    "FilmId": "tt0048191",
+    "Name": "Helen Rose",
+    "Nominees": "Helen Rose",
+    "NomineeIds": "nm0741423",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Pickwick Papers",
+    "FilmId": "tt0045030",
+    "Name": "Beatrice Dawson",
+    "Nominees": "Beatrice Dawson",
+    "NomineeIds": "nm0206067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Queen Bee",
+    "FilmId": "tt0048527",
+    "Name": "Jean Louis",
+    "Nominees": "Jean Louis",
+    "NomineeIds": "nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Rose Tattoo",
+    "FilmId": "tt0048563",
+    "Name": "Edith Head",
+    "Nominees": "Edith Head",
+    "NomineeIds": "nm0372128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Ugetsu",
+    "FilmId": "tt0046478",
+    "Name": "Tadaoto Kainoscho",
+    "Nominees": "Tadaoto Kainoscho",
+    "NomineeIds": "nm0435082",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Guys and Dolls",
+    "FilmId": "tt0048140",
+    "Name": "Irene Sharaff",
+    "Nominees": "Irene Sharaff",
+    "NomineeIds": "nm0788695",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Interrupted Melody",
+    "FilmId": "tt0048210",
+    "Name": "Helen Rose",
+    "Nominees": "Helen Rose",
+    "NomineeIds": "nm0741423",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Love Is a Many-Splendored Thing",
+    "FilmId": "tt0048316",
+    "Name": "Charles LeMaire",
+    "Nominees": "Charles LeMaire",
+    "NomineeIds": "nm0494406",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "To Catch a Thief",
+    "FilmId": "tt0048728",
+    "Name": "Edith Head",
+    "Nominees": "Edith Head",
+    "NomineeIds": "nm0372128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Virgin Queen",
+    "FilmId": "tt0048791",
+    "Name": "Charles LeMaire, Mary Wills",
+    "Nominees": "Charles LeMaire|Mary Wills",
+    "NomineeIds": "nm0494406|nm0932683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Bad Day at Black Rock",
+    "FilmId": "tt0047849",
+    "Name": "John Sturges",
+    "Nominees": "John Sturges",
+    "NomineeIds": "nm0836328",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "East of Eden",
+    "FilmId": "tt0048028",
+    "Name": "Elia Kazan",
+    "Nominees": "Elia Kazan",
+    "NomineeIds": "nm0001415",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Marty",
+    "FilmId": "tt0048356",
+    "Name": "Delbert Mann",
+    "Nominees": "Delbert Mann",
+    "NomineeIds": "nm0542720",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Picnic",
+    "FilmId": "tt0048491",
+    "Name": "Joshua Logan",
+    "Nominees": "Joshua Logan",
+    "NomineeIds": "nm0517597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Summertime",
+    "FilmId": "tt0048673",
+    "Name": "David Lean",
+    "Nominees": "David Lean",
+    "NomineeIds": "nm0000180",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Heartbreak Ridge",
+    "FilmId": "tt0048151",
+    "Name": "Rene Risacher, Producer",
+    "Nominees": "Rene Risacher",
+    "NomineeIds": "nm0728184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Helen Keller in Her Story",
+    "FilmId": "tt0048157",
+    "Name": "Nancy Hamilton, Producer",
+    "Nominees": "Nancy Hamilton",
+    "NomineeIds": "nm0358071",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Battle of Gettysburg",
+    "FilmId": "tt0047862",
+    "Name": "Dore Schary, Producer",
+    "Nominees": "Dore Schary",
+    "NomineeIds": "nm0770196",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Face of Lincoln",
+    "FilmId": "tt0048049",
+    "Name": "Wilbur T. Blume, Producer",
+    "Nominees": "Wilbur T. Blume",
+    "NomineeIds": "nm0089768",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Men against the Arctic",
+    "FilmId": "tt0048369",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Blackboard Jungle",
+    "FilmId": "tt0047885",
+    "Name": "Ferris Webster",
+    "Nominees": "Ferris Webster",
+    "NomineeIds": "nm0916883",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Bridges at Toko-Ri",
+    "FilmId": "tt0046806",
+    "Name": "Alma Macrorie",
+    "Nominees": "Alma Macrorie",
+    "NomineeIds": "nm0534347",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Oklahoma!",
+    "FilmId": "tt0048445",
+    "Name": "Gene Ruggiero, George Boemler",
+    "Nominees": "Gene Ruggiero|George Boemler",
+    "NomineeIds": "nm0737314|nm0091283",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Picnic",
+    "FilmId": "tt0048491",
+    "Name": "Charles Nelson, William A. Lyon",
+    "Nominees": "Charles Nelson|William A. Lyon",
+    "NomineeIds": "nm0625224|nm0528995",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Rose Tattoo",
+    "FilmId": "tt0048563",
+    "Name": "Warren Low",
+    "Nominees": "Warren Low",
+    "NomineeIds": "nm0522848",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Battle Cry",
+    "FilmId": "tt0047860",
+    "Name": "Max Steiner",
+    "Nominees": "Max Steiner",
+    "NomineeIds": "nm0000070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Love Is a Many-Splendored Thing",
+    "FilmId": "tt0048316",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Man with the Golden Arm",
+    "FilmId": "tt0048347",
+    "Name": "Elmer Bernstein",
+    "Nominees": "Elmer Bernstein",
+    "NomineeIds": "nm0000930",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Picnic",
+    "FilmId": "tt0048491",
+    "Name": "George Duning",
+    "Nominees": "George Duning",
+    "NomineeIds": "nm0006052",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Rose Tattoo",
+    "FilmId": "tt0048563",
+    "Name": "Alex North",
+    "Nominees": "Alex North",
+    "NomineeIds": "nm0006218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Daddy Long Legs",
+    "FilmId": "tt0047969",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Guys and Dolls",
+    "FilmId": "tt0048140",
+    "Name": "Jay Blackton, Cyril J. Mockridge",
+    "Nominees": "Jay Blackton|Cyril J. Mockridge",
+    "NomineeIds": "nm0085866|nm0006203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "It's Always Fair Weather",
+    "FilmId": "tt0048216",
+    "Name": "Andre Previn",
+    "Nominees": "Andre Previn",
+    "NomineeIds": "nm0006238",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Love Me or Leave Me",
+    "FilmId": "tt0048317",
+    "Name": "Percy Faith, George Stoll",
+    "Nominees": "Percy Faith|George Stoll",
+    "NomineeIds": "nm0265703|nm0006303",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Oklahoma!",
+    "FilmId": "tt0048445",
+    "Name": "Robert Russell Bennett, Jay Blackton, Adolph Deutsch",
+    "Nominees": "Robert Russell Bennett|Jay Blackton|Adolph Deutsch",
+    "NomineeIds": "nm0072021|nm0085866|nm0006037",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Love Me or Leave Me",
+    "FilmId": "tt0048317",
+    "Name": "Music by Nicholas Brodszky; Lyrics by Sammy Cahn",
+    "Nominees": "Nicholas Brodszky|Sammy Cahn",
+    "NomineeIds": "nm0111004|nm0005991",
+    "Winner": "",
+    "Detail": "I'll Never Stop Loving You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Love Is a Many-Splendored Thing",
+    "FilmId": "tt0048316",
+    "Name": "Music by Sammy Fain; Lyrics by Paul Francis Webster",
+    "Nominees": "Sammy Fain|Paul Francis Webster",
+    "NomineeIds": "nm0006066|nm0916990",
+    "Winner": "True",
+    "Detail": "Love Is A Many-Splendored Thing",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Daddy Long Legs",
+    "FilmId": "tt0047969",
+    "Name": "Music and Lyrics by Johnny Mercer",
+    "Nominees": "Johnny Mercer",
+    "NomineeIds": "nm0006197",
+    "Winner": "",
+    "Detail": "Something's Gotta Give",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Tender Trap",
+    "FilmId": "tt0048705",
+    "Name": "Music by James Van Heusen; Lyrics by Sammy Cahn",
+    "Nominees": "James Van Heusen|Sammy Cahn",
+    "NomineeIds": "nm0006329|nm0005991",
+    "Winner": "",
+    "Detail": "(Love Is) The Tender Trap",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Unchained",
+    "FilmId": "tt0048762",
+    "Name": "Music by Alex North; Lyrics by Hy Zaret",
+    "Nominees": "Alex North|Hy Zaret",
+    "NomineeIds": "nm0006218|nm0953448",
+    "Winner": "",
+    "Detail": "Unchained Melody",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Love Is a Many-Splendored Thing",
+    "FilmId": "tt0048316",
+    "Name": "Buddy Adler, Producer",
+    "Nominees": "Buddy Adler",
+    "NomineeIds": "nm0012117",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Marty",
+    "FilmId": "tt0048356",
+    "Name": "Harold Hecht, Producer",
+    "Nominees": "Harold Hecht",
+    "NomineeIds": "nm0372959",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Mister Roberts",
+    "FilmId": "tt0048380",
+    "Name": "Leland Hayward, Producer",
+    "Nominees": "Leland Hayward",
+    "NomineeIds": "nm0371770",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Picnic",
+    "FilmId": "tt0048491",
+    "Name": "Fred Kohlmar, Producer",
+    "Nominees": "Fred Kohlmar",
+    "NomineeIds": "nm0463334",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Rose Tattoo",
+    "FilmId": "tt0048563",
+    "Name": "Hal B. Wallis, Producer",
+    "Nominees": "Hal B. Wallis",
+    "NomineeIds": "nm0909259",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Good Will to Men",
+    "FilmId": "tt0048131",
+    "Name": "Fred Quimby, William Hanna and Joseph Barbera, Producers",
+    "Nominees": "Fred Quimby|William Hanna|Joseph Barbera",
+    "NomineeIds": "nm0703642|nm0360253|nm0053484",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Legend of Rock-a-bye Point",
+    "FilmId": "tt0048292",
+    "Name": "Walter Lantz, Producer",
+    "Nominees": "Walter Lantz",
+    "NomineeIds": "nm0487237",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "No Hunting",
+    "FilmId": "tt0048425",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Speedy Gonzales",
+    "FilmId": "tt0048649",
+    "Name": "Edward Selzer, Producer",
+    "Nominees": "Edward Selzer",
+    "NomineeIds": "nm0783666",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Gadgets Galore",
+    "FilmId": "tt0048106",
+    "Name": "Robert Youngson, Producer",
+    "Nominees": "Robert Youngson",
+    "NomineeIds": "nm0950288",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Survival City",
+    "FilmId": "tt0048677",
+    "Name": "Edmund Reek, Producer",
+    "Nominees": "Edmund Reek",
+    "NomineeIds": "nm0715833",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "3rd Ave. El",
+    "FilmId": "tt0047792",
+    "Name": "Carson Davidson, Producer",
+    "Nominees": "Carson Davidson",
+    "NomineeIds": "nm0203262",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (One-reel)",
+    "Category": "SHORT SUBJECT (One-reel)",
+    "Film": "Three Kisses",
+    "FilmId": "tt0048718",
+    "Name": "Justin Herman, Producer",
+    "Nominees": "Justin Herman",
+    "NomineeIds": "nm0379163",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "The Battle of Gettysburg",
+    "FilmId": "tt0047862",
+    "Name": "Dore Schary, Producer",
+    "Nominees": "Dore Schary",
+    "NomineeIds": "nm0770196",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "The Face of Lincoln",
+    "FilmId": "tt0048049",
+    "Name": "Wilbur T. Blume, Producer",
+    "Nominees": "Wilbur T. Blume",
+    "NomineeIds": "nm0089768",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "On the Twelfth Day...",
+    "FilmId": "tt0048447",
+    "Name": "George K. Arthur, Producer",
+    "Nominees": "George K. Arthur",
+    "NomineeIds": "nm0037761",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "Switzerland",
+    "FilmId": "tt0048683",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT SUBJECT (Two-reel)",
+    "Category": "SHORT SUBJECT (Two-reel)",
+    "Film": "24-Hour Alert",
+    "FilmId": "tt0047791",
+    "Name": "Cedric Francis, Producer",
+    "Nominees": "Cedric Francis",
+    "NomineeIds": "nm0290103",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Love Is a Many-Splendored Thing",
+    "FilmId": "tt0048316",
+    "Name": "20th Century-Fox Studio Sound Department, Carl W. Faulkner, Sound Director",
+    "Nominees": "20th Century-Fox|Carl W. Faulkner",
+    "NomineeIds": "co0028775|nm0269055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Love Me or Leave Me",
+    "FilmId": "tt0048317",
+    "Name": "Metro-Goldwyn-Mayer Studio Sound Department, Wesley C. Miller, Sound Director",
+    "Nominees": "Metro-Goldwyn-Mayer|Wesley C. Miller",
+    "NomineeIds": "co0007143|nm0589506",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Mister Roberts",
+    "FilmId": "tt0048380",
+    "Name": "Warner Bros. Studio Sound Department, William A. Mueller, Sound Director",
+    "Nominees": "Warner Bros.|William A. Mueller",
+    "NomineeIds": "co0080422|nm0611121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Not as a Stranger",
+    "FilmId": "tt0048432",
+    "Name": "Radio Corporation of America Sound Department, Watson Jones, Sound Director",
+    "Nominees": "Radio Corporation of America|Watson Jones",
+    "NomineeIds": "?|nm0429444",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND RECORDING",
+    "Category": "SOUND RECORDING",
+    "Film": "Oklahoma!",
+    "FilmId": "tt0048445",
+    "Name": "Todd-AO Sound Department, Fred Hynes, Sound Director",
+    "Nominees": "Todd-AO|Fred Hynes",
+    "NomineeIds": "co0016792|nm0405261",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Bridges at Toko-Ri",
+    "FilmId": "tt0046806",
+    "Name": "Paramount Studio",
+    "Nominees": "Paramount Studio",
+    "NomineeIds": "co0023400",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Dam Busters",
+    "FilmId": "tt0046889",
+    "Name": "Associated British Picture Corporation, Ltd.",
+    "Nominees": "Associated British Picture Corporation|Ltd.",
+    "NomineeIds": "?|?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Rains of Ranchipur",
+    "FilmId": "tt0048538",
+    "Name": "20th Century-Fox Studio",
+    "Nominees": "20th Century-Fox Studio",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Love Me or Leave Me",
+    "FilmId": "tt0048317",
+    "Name": "Daniel Fuchs",
+    "Nominees": "Daniel Fuchs",
+    "NomineeIds": "nm0297190",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "The Private War of Major Benson",
+    "FilmId": "tt0048513",
+    "Name": "Joe Connelly, Bob Mosher",
+    "Nominees": "Joe Connelly|Bob Mosher",
+    "NomineeIds": "nm0175080|nm0608658",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Rebel without a Cause",
+    "FilmId": "tt0048545",
+    "Name": "Nicholas Ray",
+    "Nominees": "Nicholas Ray",
+    "NomineeIds": "nm0712947",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "The Sheep Has Five Legs",
+    "FilmId": "tt0047250",
+    "Name": "Jean Marsan, Henry Troyat, Jacques Perret, Henri Verneuil, Raoul Ploquin",
+    "Nominees": "Jean Marsan|Henry Troyat|Jacques Perret|Henri Verneuil|Raoul Ploquin",
+    "NomineeIds": "nm0550375|nm0873935|nm0674598|nm0894577|nm0687402",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Story)",
+    "Category": "WRITING (Motion Picture Story)",
+    "Film": "Strategic Air Command",
+    "FilmId": "tt0048667",
+    "Name": "Beirne Lay, Jr.",
+    "Nominees": "Beirne Lay Jr.",
+    "NomineeIds": "nm0493446",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Bad Day at Black Rock",
+    "FilmId": "tt0047849",
+    "Name": "Millard Kaufman",
+    "Nominees": "Millard Kaufman",
+    "NomineeIds": "nm0442228",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Blackboard Jungle",
+    "FilmId": "tt0047885",
+    "Name": "Richard Brooks",
+    "Nominees": "Richard Brooks",
+    "NomineeIds": "nm0112218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "East of Eden",
+    "FilmId": "tt0048028",
+    "Name": "Paul Osborn",
+    "Nominees": "Paul Osborn",
+    "NomineeIds": "nm0651585",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Love Me or Leave Me",
+    "FilmId": "tt0048317",
+    "Name": "Daniel Fuchs, Isobel Lennart",
+    "Nominees": "Daniel Fuchs|Isobel Lennart",
+    "NomineeIds": "nm0297190|nm0501973",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay)",
+    "Film": "Marty",
+    "FilmId": "tt0048356",
+    "Name": "Paddy Chayefsky",
+    "Nominees": "Paddy Chayefsky",
+    "NomineeIds": "nm0154665",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "The Court-Martial of Billy Mitchell",
+    "FilmId": "tt0047956",
+    "Name": "Milton Sperling, Emmet Lavery",
+    "Nominees": "Milton Sperling|Emmet Lavery",
+    "NomineeIds": "nm0818328|nm0491964",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Interrupted Melody",
+    "FilmId": "tt0048210",
+    "Name": "William Ludwig, Sonya Levien",
+    "Nominees": "William Ludwig|Sonya Levien",
+    "NomineeIds": "nm0525067|nm0397022",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "It's Always Fair Weather",
+    "FilmId": "tt0048216",
+    "Name": "Betty Comden, Adolph Green",
+    "Nominees": "Betty Comden|Adolph Green",
+    "NomineeIds": "nm0173679|nm0337582",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "Mr. Hulot's Holiday",
+    "FilmId": "tt0046487",
+    "Name": "Jacques Tati, Henri Marquet",
+    "Nominees": "Jacques Tati|Henri Marquet",
+    "NomineeIds": "nm0004244|nm0549804",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay)",
+    "Film": "The Seven Little Foys",
+    "FilmId": "tt0048604",
+    "Name": "Melville Shavelson, Jack Rose",
+    "Nominees": "Melville Shavelson|Jack Rose",
+    "NomineeIds": "nm0789520|nm0741439",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "HONORARY FOREIGN LANGUAGE FILM AWARD",
+    "Film": "Samurai, The Legend of Musashi",
+    "FilmId": "tt0047444",
+    "Name": "",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Samurai, The Legend of Musashi - Best Foreign Language Film first released in the United States during 1955."
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "the NATIONAL CARBON CO.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To the NATIONAL CARBON CO. for the development and production of a high efficiency yellow flame carbon for motion picture color photography."
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "the EASTMAN KODAK CO.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To the EASTMAN KODAK CO. for Eastman Tri-X Panchromatic Negative Film."
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Farciot Edouart|Hal Corl|Paramount Studio Transparency Department",
+    "NomineeIds": "nm0249643|?|?",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To FARCIOT EDOUART, HAL CORL and the PARAMOUNT STUDIO TRANSPARENCY DEPARTMENT for the engineering and development of a double-frame, triple-head background projector."
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "20TH CENTURY-FOX STUDIO|the BAUSCH & LOMB CO.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lenses and Filters",
+    "Note": "",
+    "Citation": "To 20TH CENTURY-FOX STUDIO and the BAUSCH & LOMB CO. for the new combination lenses for CinemaScope Photography."
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Walter Jolley",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Props",
+    "Note": "",
+    "Citation": "To WALTER JOLLEY, MAURICE LARSON and R.H. SPIES of 20th Century-Fox Studio for a spraying process which creates simulated metallic surfaces."
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steve Krilanovich",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To STEVE KRILANOVICH for an improved camera dolly incorporating multi-directional steering."
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DAVE ANDERSON",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To DAVE ANDERSON of 20th Century-Fox Studio for an improved spotlight capable of maintaining a fixed circle of light at constant intensity over varied distances."
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Loren L. Ryder|Charles West|Henry Fracker|Paramount Studios",
+    "NomineeIds": "nm0753122|?|?|?",
+    "Winner": "True",
+    "Detail": "Projection",
+    "Note": "",
+    "Citation": "To LOREN L. RYDER, CHARLES WEST, HENRY FRACKER and the PARAMOUNT STUDIOS for a projection film index to establish proper framing for various aspect ratios."
+  },
+  {
+    "Ceremony": 28,
+    "Year": 1955,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Farciot Edouart|Hal Corl|Paramount",
+    "NomineeIds": "nm0249643|?|co0023400",
+    "Winner": "True",
+    "Detail": "Special Photographic",
+    "Note": "",
+    "Citation": "To FARCIOT EDOUART, HAL CORL and the PARAMOUNT STUDIO TRANSPARENCY DEPARTMENT for an improved dual stereopticon background projector."
   }
 ]

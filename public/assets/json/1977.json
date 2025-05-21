@@ -1,1636 +1,1986 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1977",
-    "nominees": [
-      "Annie Hall"
-    ],
-    "movies": [
-      {
-        "title": "Annie Hall",
-        "tmdb_id": 703,
-        "imdb_id": "tt0075686"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1977",
-    "nominees": [
-      "The Goodbye Girl"
-    ],
-    "movies": [
-      {
-        "title": "The Goodbye Girl",
-        "tmdb_id": 14741,
-        "imdb_id": "tt0076095"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1977",
-    "nominees": [
-      "Julia"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1977",
-    "nominees": [
-      "Star Wars"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1977",
-    "nominees": [
-      "The Turning Point"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1977",
-    "nominees": [
-      "Richard Dreyfuss"
-    ],
-    "movies": [
-      {
-        "title": "The Goodbye Girl",
-        "tmdb_id": 14741,
-        "imdb_id": "tt0076095"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1977",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Annie Hall",
-        "tmdb_id": 703,
-        "imdb_id": "tt0075686"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1977",
-    "nominees": [
-      "Richard Burton"
-    ],
-    "movies": [
-      {
-        "title": "Equus",
-        "tmdb_id": 37258,
-        "imdb_id": "tt0075995"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1977",
-    "nominees": [
-      "Marcello Mastroianni"
-    ],
-    "movies": [
-      {
-        "title": "A Special Day",
-        "tmdb_id": 42229,
-        "imdb_id": "tt0076085"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1977",
-    "nominees": [
-      "John Travolta"
-    ],
-    "movies": [
-      {
-        "title": "Saturday Night Fever",
-        "tmdb_id": 11009,
-        "imdb_id": "tt0076666"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1977",
-    "nominees": [
-      "Diane Keaton"
-    ],
-    "movies": [
-      {
-        "title": "Annie Hall",
-        "tmdb_id": 703,
-        "imdb_id": "tt0075686"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1977",
-    "nominees": [
-      "Anne Bancroft"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1977",
-    "nominees": [
-      "Jane Fonda"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1977",
-    "nominees": [
-      "Shirley MacLaine"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1977",
-    "nominees": [
-      "Marsha Mason"
-    ],
-    "movies": [
-      {
-        "title": "The Goodbye Girl",
-        "tmdb_id": 14741,
-        "imdb_id": "tt0076095"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1977",
-    "nominees": [
-      "Jason Robards"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1977",
-    "nominees": [
-      "Mikhail Baryshnikov"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1977",
-    "nominees": [
-      "Peter Firth"
-    ],
-    "movies": [
-      {
-        "title": "Equus",
-        "tmdb_id": 37258,
-        "imdb_id": "tt0075995"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1977",
-    "nominees": [
-      "Alec Guinness"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1977",
-    "nominees": [
-      "Maximilian Schell"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1977",
-    "nominees": [
-      "Vanessa Redgrave"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1977",
-    "nominees": [
-      "Leslie Browne"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1977",
-    "nominees": [
-      "Quinn Cummings"
-    ],
-    "movies": [
-      {
-        "title": "The Goodbye Girl",
-        "tmdb_id": 14741,
-        "imdb_id": "tt0076095"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1977",
-    "nominees": [
-      "Melinda Dillon"
-    ],
-    "movies": [
-      {
-        "title": "Close Encounters of the Third Kind",
-        "tmdb_id": 840,
-        "imdb_id": "tt0075860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1977",
-    "nominees": [
-      "Tuesday Weld"
-    ],
-    "movies": [
-      {
-        "title": "Looking for Mr. Goodbar",
-        "tmdb_id": 37749,
-        "imdb_id": "tt0076327"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1977",
-    "nominees": [
-      "Woody Allen"
-    ],
-    "movies": [
-      {
-        "title": "Annie Hall",
-        "tmdb_id": 703,
-        "imdb_id": "tt0075686"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1977",
-    "nominees": [
-      "Steven Spielberg"
-    ],
-    "movies": [
-      {
-        "title": "Close Encounters of the Third Kind",
-        "tmdb_id": 840,
-        "imdb_id": "tt0075860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1977",
-    "nominees": [
-      "Fred Zinnemann"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1977",
-    "nominees": [
-      "George Lucas"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1977",
-    "nominees": [
-      "Herbert Ross"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1977",
-    "nominees": [
-      "Alvin Sargent"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1977",
-    "nominees": [
-      "Peter Shaffer"
-    ],
-    "movies": [
-      {
-        "title": "Equus",
-        "tmdb_id": 37258,
-        "imdb_id": "tt0075995"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1977",
-    "nominees": [
-      "Gavin Lambert",
-      "Lewis John Carlino"
-    ],
-    "movies": [
-      {
-        "title": "I Never Promised You a Rose Garden",
-        "tmdb_id": 66092,
-        "imdb_id": "tt0076172"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1977",
-    "nominees": [
-      "Larry Gelbart"
-    ],
-    "movies": [
-      {
-        "title": "Oh, God!",
-        "tmdb_id": 24032,
-        "imdb_id": "tt0076489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1977",
-    "nominees": [
-      "Luis Bunuel",
-      "Jean-Claude Carriere"
-    ],
-    "movies": [
-      {
-        "title": "That Obscure Object of Desire",
-        "tmdb_id": 5781,
-        "imdb_id": "tt0075824"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1977",
-    "nominees": [
-      "Woody Allen",
-      "Marshall Brickman"
-    ],
-    "movies": [
-      {
-        "title": "Annie Hall",
-        "tmdb_id": 703,
-        "imdb_id": "tt0075686"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1977",
-    "nominees": [
-      "Neil Simon"
-    ],
-    "movies": [
-      {
-        "title": "The Goodbye Girl",
-        "tmdb_id": 14741,
-        "imdb_id": "tt0076095"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1977",
-    "nominees": [
-      "Robert Benton"
-    ],
-    "movies": [
-      {
-        "title": "The Late Show",
-        "tmdb_id": 42228,
-        "imdb_id": "tt0076301"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1977",
-    "nominees": [
-      "George Lucas"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1977",
-    "nominees": [
-      "Arthur Laurents"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1977",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1977",
-    "nominees": [
-      "Georges Delerue"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1977",
-    "nominees": [
-      "Marvin Hamlisch"
-    ],
-    "movies": [
-      {
-        "title": "The Spy Who Loved Me",
-        "tmdb_id": 691,
-        "imdb_id": "tt0076752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1977",
-    "nominees": [
-      "Maurice Jarre"
-    ],
-    "movies": [
-      {
-        "title": "The Message",
-        "tmdb_id": 26842,
-        "imdb_id": "tt0074896"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1977",
-    "nominees": [
-      "John Williams"
-    ],
-    "movies": [
-      {
-        "title": "Close Encounters of the Third Kind",
-        "tmdb_id": 840,
-        "imdb_id": "tt0075860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1977",
-    "nominees": [
-      "Jonathan Tunick"
-    ],
-    "movies": [
-      {
-        "title": "A Little Night Music",
-        "tmdb_id": 77078,
-        "imdb_id": "tt0076319"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1977",
-    "nominees": [
-      "Al Kasha",
-      "Joel Hirschhorn",
-      "Irwin Kostal"
-    ],
-    "movies": [
-      {
-        "title": "Pete's Dragon",
-        "tmdb_id": 11114,
-        "imdb_id": "tt0076538"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1977",
-    "nominees": [
-      "Richard Sherman",
-      "Robert Sherman",
-      "Angela Morley"
-    ],
-    "movies": [
-      {
-        "title": "The Slipper and the Rose",
-        "tmdb_id": 16176,
-        "imdb_id": "tt0075232"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1977",
-    "nominees": [
-      "You Light Up My Life"
-    ],
-    "movies": [
-      {
-        "title": "You Light Up My Life",
-        "tmdb_id": 42231,
-        "imdb_id": "tt0076941"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1977",
-    "nominees": [
-      "Candle on the Water"
-    ],
-    "movies": [
-      {
-        "title": "Pete's Dragon",
-        "tmdb_id": 11114,
-        "imdb_id": "tt0076538"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1977",
-    "nominees": [
-      "Someone's Waiting for You"
-    ],
-    "movies": [
-      {
-        "title": "The Rescuers",
-        "tmdb_id": 11319,
-        "imdb_id": "tt0076618"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1977",
-    "nominees": [
-      "The Slipper",
-      "the Rose Waltz (He Danced With Me/She Danced with Me)"
-    ],
-    "movies": [
-      {
-        "title": "The Slipper and the Rose",
-        "tmdb_id": 16176,
-        "imdb_id": "tt0075232"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1977",
-    "nominees": [
-      "Nobody Does It Better"
-    ],
-    "movies": [
-      {
-        "title": "The Spy Who Loved Me",
-        "tmdb_id": 691,
-        "imdb_id": "tt0076752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1977",
-    "nominees": [
-      "Madame Rosa"
-    ],
-    "movies": [
-      {
-        "title": "Madame Rosa",
-        "tmdb_id": 42223,
-        "imdb_id": "tt0076348"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1977",
-    "nominees": [
-      "Iphigenia"
-    ],
-    "movies": [
-      {
-        "title": "Iphigenia",
-        "tmdb_id": 46278,
-        "imdb_id": "tt0076208"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1977",
-    "nominees": [
-      "Operation Thunderbolt"
-    ],
-    "movies": [
-      {
-        "title": "Operation Thunderbolt",
-        "tmdb_id": 26113,
-        "imdb_id": "tt0076398"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1977",
-    "nominees": [
-      "A Special Day"
-    ],
-    "movies": [
-      {
-        "title": "A Special Day",
-        "tmdb_id": 42229,
-        "imdb_id": "tt0076085"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1977",
-    "nominees": [
-      "That Obscure Object of Desire"
-    ],
-    "movies": [
-      {
-        "title": "That Obscure Object of Desire",
-        "tmdb_id": 5781,
-        "imdb_id": "tt0075824"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1977",
-    "nominees": [
-      "Who Are the DeBolts? And Where Did They Get Nineteen Kids?"
-    ],
-    "movies": [
-      {
-        "title": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
-        "tmdb_id": 114514,
-        "imdb_id": "tt0076918"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1977",
-    "nominees": [
-      "The Children of Theatre Street"
-    ],
-    "movies": [
-      {
-        "title": "The Children of Theatre Street",
-        "tmdb_id": 149349,
-        "imdb_id": "tt0075839"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1977",
-    "nominees": [
-      "High Grass Circus"
-    ],
-    "movies": [
-      {
-        "title": "High Grass Circus",
-        "tmdb_id": 149351,
-        "imdb_id": "tt0076142"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1977",
-    "nominees": [
-      "Homage to Chagall: The Colours of Love"
-    ],
-    "movies": [
-      {
-        "title": "Homage to Chagall: The Colours of Love",
-        "tmdb_id": 136653,
-        "imdb_id": "tt0076151"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1977",
-    "nominees": [
-      "Union Maids"
-    ],
-    "movies": [
-      {
-        "title": "Union Maids",
-        "tmdb_id": 136530,
-        "imdb_id": "tt0075372"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1977",
-    "nominees": [
-      "Gravity Is My Enemy"
-    ],
-    "movies": [
-      {
-        "title": "Gravity Is My Enemy",
-        "tmdb_id": 243605,
-        "imdb_id": "tt0076105"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1977",
-    "nominees": [
-      "Agueda Martinez: Our People, Our Country"
-    ],
-    "movies": [
-      {
-        "title": "Agueda Martinez: Our People, Our Country",
-        "tmdb_id": 243608,
-        "imdb_id": "tt0075645"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1977",
-    "nominees": [
-      "First Edition"
-    ],
-    "movies": [
-      {
-        "title": "First Edition",
-        "tmdb_id": 243609,
-        "imdb_id": "tt0076032"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1977",
-    "nominees": [
-      "Of Time, Tombs and Treasures"
-    ],
-    "movies": [
-      {
-        "title": "Of Time, Tombs and Treasures",
-        "tmdb_id": 243614,
-        "imdb_id": "tt0076488"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1977",
-    "nominees": [
-      "The Shetland Experience"
-    ],
-    "movies": [
-      {
-        "title": "The Shetland Experience",
-        "tmdb_id": 243615,
-        "imdb_id": "tt0076700"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1977",
-    "nominees": [
-      "The Sand Castle"
-    ],
-    "movies": [
-      {
-        "title": "The Sand Castle",
-        "tmdb_id": 148514,
-        "imdb_id": "tt0075847"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1977",
-    "nominees": [
-      "The Bead Game"
-    ],
-    "movies": [
-      {
-        "title": "The Bead Game",
-        "tmdb_id": 115036,
-        "imdb_id": "tt0075732"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1977",
-    "nominees": [
-      "A Doonesbury Special"
-    ],
-    "movies": [
-      {
-        "title": "A Doonesbury Special",
-        "tmdb_id": 243600,
-        "imdb_id": "tt0075953"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1977",
-    "nominees": [
-      "Jimmy the C"
-    ],
-    "movies": [
-      {
-        "title": "Jimmy the C",
-        "tmdb_id": 210968,
-        "imdb_id": "tt0076230"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1977",
-    "nominees": [
-      "I'll Find a Way"
-    ],
-    "movies": [
-      {
-        "title": "I'll Find a Way",
-        "tmdb_id": 127390,
-        "imdb_id": "tt0076173"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1977",
-    "nominees": [
-      "The Absent-Minded Waiter"
-    ],
-    "movies": [
-      {
-        "title": "The Absent-Minded Waiter",
-        "tmdb_id": 21102,
-        "imdb_id": "tt0075626"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1977",
-    "nominees": [
-      "Floating Free"
-    ],
-    "movies": [
-      {
-        "title": "Floating Free",
-        "tmdb_id": 243602,
-        "imdb_id": "tt0076036"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1977",
-    "nominees": [
-      "Notes on the Popular Arts"
-    ],
-    "movies": [
-      {
-        "title": "Notes on the Popular Arts",
-        "tmdb_id": 243603,
-        "imdb_id": "tt0076467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1977",
-    "nominees": [
-      "Spaceborne"
-    ],
-    "movies": [
-      {
-        "title": "Spaceborne",
-        "tmdb_id": 243604,
-        "imdb_id": "tt0076742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "John Barry",
-      "Norman Reynolds",
-      "Leslie Dilley",
-      "Roger Christian"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "Ken Adam",
-      "Peter Lamont",
-      "Hugh Scaife"
-    ],
-    "movies": [
-      {
-        "title": "The Spy Who Loved Me",
-        "tmdb_id": 691,
-        "imdb_id": "tt0076752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "Joe Alves",
-      "Dan Lomino",
-      "Phil Abramson"
-    ],
-    "movies": [
-      {
-        "title": "Close Encounters of the Third Kind",
-        "tmdb_id": 840,
-        "imdb_id": "tt0075860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "Albert Brenner",
-      "Marvin March"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "George C. Webb",
-      "Mickey S. Michaels"
-    ],
-    "movies": [
-      {
-        "title": "Airport '77",
-        "tmdb_id": 7227,
-        "imdb_id": "tt0075648"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1977",
-    "nominees": [
-      "Vilmos Zsigmond"
-    ],
-    "movies": [
-      {
-        "title": "Close Encounters of the Third Kind",
-        "tmdb_id": 840,
-        "imdb_id": "tt0075860"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1977",
-    "nominees": [
-      "William A. Fraker"
-    ],
-    "movies": [
-      {
-        "title": "Looking for Mr. Goodbar",
-        "tmdb_id": 37749,
-        "imdb_id": "tt0076327"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1977",
-    "nominees": [
-      "Fred. J. Koenekamp"
-    ],
-    "movies": [
-      {
-        "title": "Islands in the Stream",
-        "tmdb_id": 70926,
-        "imdb_id": "tt0076211"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1977",
-    "nominees": [
-      "Douglas Slocombe"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1977",
-    "nominees": [
-      "Robert Surtees"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1977",
-    "nominees": [
-      "Paul Hirsch",
-      "Marcia Lucas",
-      "Richard Chew"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1977",
-    "nominees": [
-      "Walter Hannemann",
-      "Angelo Ross"
-    ],
-    "movies": [
-      {
-        "title": "Smokey and the Bandit",
-        "tmdb_id": 11006,
-        "imdb_id": "tt0076729"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1977",
-    "nominees": [
-      "Michael Kahn"
-    ],
-    "movies": [
-      {
-        "title": "Close Encounters of the Third Kind",
-        "tmdb_id": 840,
-        "imdb_id": "tt0075860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1977",
-    "nominees": [
-      "Walter Murch"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1977",
-    "nominees": [
-      "William Reynolds"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1977",
-    "nominees": [
-      "John Stears",
-      "John Dykstra",
-      "Richard Edlund",
-      "Grant McCune",
-      "Robert Blalack"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1977",
-    "nominees": [
-      "Roy Arbogast",
-      "Douglas Trumbull",
-      "Matthew Yuricich",
-      "Gregory Jein",
-      "Richard Yuricich"
-    ],
-    "movies": [
-      {
-        "title": "Close Encounters of the Third Kind",
-        "tmdb_id": 840,
-        "imdb_id": "tt0075860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1977",
-    "nominees": [
-      "Don MacDougall",
-      "Ray West",
-      "Bob Minkler",
-      "Derek Ball"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1977",
-    "nominees": [
-      "Robert Knudson",
-      "Robert Glass",
-      "Don MacDougall",
-      "Gene Cantamessa"
-    ],
-    "movies": [
-      {
-        "title": "Close Encounters of the Third Kind",
-        "tmdb_id": 840,
-        "imdb_id": "tt0075860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1977",
-    "nominees": [
-      "Walter Goss",
-      "Dick Alexander",
-      "Tom Beckert",
-      "Robin Gregory"
-    ],
-    "movies": [
-      {
-        "title": "The Deep",
-        "tmdb_id": 20416,
-        "imdb_id": "tt0075925"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1977",
-    "nominees": [
-      "Robert Knudson",
-      "Robert Glass",
-      "Richard Tyler",
-      "Jean-Louis Ducarme"
-    ],
-    "movies": [
-      {
-        "title": "Sorcerer",
-        "tmdb_id": 38985,
-        "imdb_id": "tt0076740"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1977",
-    "nominees": [
-      "Theodore Soderberg",
-      "Paul Wells",
-      "Douglas O. Williams",
-      "Jerry Jost"
-    ],
-    "movies": [
-      {
-        "title": "The Turning Point",
-        "tmdb_id": 61280,
-        "imdb_id": "tt0076843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1977",
-    "nominees": [
-      "Frank E. Warner"
-    ],
-    "movies": [
-      {
-        "title": "Close Encounters of the Third Kind",
-        "tmdb_id": 840,
-        "imdb_id": "tt0075860"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1977",
-    "nominees": [
-      "Benjamin Burtt Jr."
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "John Mollo"
-    ],
-    "movies": [
-      {
-        "title": "Star Wars",
-        "tmdb_id": 11,
-        "imdb_id": "tt0076759"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "Edith Head",
-      "Burton Miller"
-    ],
-    "movies": [
-      {
-        "title": "Airport '77",
-        "tmdb_id": 7227,
-        "imdb_id": "tt0075648"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "Florence Klotz"
-    ],
-    "movies": [
-      {
-        "title": "A Little Night Music",
-        "tmdb_id": 77078,
-        "imdb_id": "tt0076319"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "Irene Sharaff"
-    ],
-    "movies": [
-      {
-        "title": "The Other Side of Midnight",
-        "tmdb_id": 80844,
-        "imdb_id": "tt0076507"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1977",
-    "nominees": [
-      "Anthea Sylbert"
-    ],
-    "movies": [
-      {
-        "title": "Julia",
-        "tmdb_id": 42222,
-        "imdb_id": "tt0076245"
-      }
-    ],
-    "won": false
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Annie Hall",
+    "FilmId": "tt0075686",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "",
+    "Detail": "Alvy Singer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Equus",
+    "FilmId": "tt0075995",
+    "Name": "Richard Burton",
+    "Nominees": "Richard Burton",
+    "NomineeIds": "nm0000009",
+    "Winner": "",
+    "Detail": "Dr. Martin Dysart",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Goodbye Girl",
+    "FilmId": "tt0076095",
+    "Name": "Richard Dreyfuss",
+    "Nominees": "Richard Dreyfuss",
+    "NomineeIds": "nm0000377",
+    "Winner": "True",
+    "Detail": "Elliot Garfield",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "A Special Day",
+    "FilmId": "tt0076085",
+    "Name": "Marcello Mastroianni",
+    "Nominees": "Marcello Mastroianni",
+    "NomineeIds": "nm0000052",
+    "Winner": "",
+    "Detail": "Gabriele",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Saturday Night Fever",
+    "FilmId": "tt0076666",
+    "Name": "John Travolta",
+    "Nominees": "John Travolta",
+    "NomineeIds": "nm0000237",
+    "Winner": "",
+    "Detail": "Tony Manero",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Mikhail Baryshnikov",
+    "Nominees": "Mikhail Baryshnikov",
+    "NomineeIds": "nm0000864",
+    "Winner": "",
+    "Detail": "Yuri Kopeikine",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Equus",
+    "FilmId": "tt0075995",
+    "Name": "Peter Firth",
+    "Nominees": "Peter Firth",
+    "NomineeIds": "nm0278752",
+    "Winner": "",
+    "Detail": "Alan Strang",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "Alec Guinness",
+    "Nominees": "Alec Guinness",
+    "NomineeIds": "nm0000027",
+    "Winner": "",
+    "Detail": "Ben 'Obi-Wan' Kenobi",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Jason Robards",
+    "Nominees": "Jason Robards",
+    "NomineeIds": "nm0001673",
+    "Winner": "True",
+    "Detail": "Dashiell Hammett",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Maximilian Schell",
+    "Nominees": "Maximilian Schell",
+    "NomineeIds": "nm0001703",
+    "Winner": "",
+    "Detail": "Johann",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Anne Bancroft",
+    "Nominees": "Anne Bancroft",
+    "NomineeIds": "nm0000843",
+    "Winner": "",
+    "Detail": "Emma Jacklin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Jane Fonda",
+    "Nominees": "Jane Fonda",
+    "NomineeIds": "nm0000404",
+    "Winner": "",
+    "Detail": "Lillian Hellman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Annie Hall",
+    "FilmId": "tt0075686",
+    "Name": "Diane Keaton",
+    "Nominees": "Diane Keaton",
+    "NomineeIds": "nm0000473",
+    "Winner": "True",
+    "Detail": "Annie Hall",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Shirley MacLaine",
+    "Nominees": "Shirley MacLaine",
+    "NomineeIds": "nm0000511",
+    "Winner": "",
+    "Detail": "Deedee Rodgers",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Goodbye Girl",
+    "FilmId": "tt0076095",
+    "Name": "Marsha Mason",
+    "Nominees": "Marsha Mason",
+    "NomineeIds": "nm0556850",
+    "Winner": "",
+    "Detail": "Paula McFadden",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Leslie Browne",
+    "Nominees": "Leslie Browne",
+    "NomineeIds": "nm0115038",
+    "Winner": "",
+    "Detail": "Emilia Rodgers",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Goodbye Girl",
+    "FilmId": "tt0076095",
+    "Name": "Quinn Cummings",
+    "Nominees": "Quinn Cummings",
+    "NomineeIds": "nm0191944",
+    "Winner": "",
+    "Detail": "Lucy McFadden",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Close Encounters of the Third Kind",
+    "FilmId": "tt0075860",
+    "Name": "Melinda Dillon",
+    "Nominees": "Melinda Dillon",
+    "NomineeIds": "nm0227039",
+    "Winner": "",
+    "Detail": "Jillian Guiler",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Vanessa Redgrave",
+    "Nominees": "Vanessa Redgrave",
+    "NomineeIds": "nm0000603",
+    "Winner": "True",
+    "Detail": "Julia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Looking for Mr. Goodbar",
+    "FilmId": "tt0076327",
+    "Name": "Tuesday Weld",
+    "Nominees": "Tuesday Weld",
+    "NomineeIds": "nm0001839",
+    "Winner": "",
+    "Detail": "Katherine Dunn",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Airport '77",
+    "FilmId": "tt0075648",
+    "Name": "Art Direction: George C. Webb; Set Decoration: Mickey S. Michaels",
+    "Nominees": "George C. Webb|Mickey S. Michaels",
+    "NomineeIds": "nm0916112|nm0584446",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Close Encounters of the Third Kind",
+    "FilmId": "tt0075860",
+    "Name": "Art Direction: Joe Alves, Dan Lomino; Set Decoration: Phil Abramson",
+    "Nominees": "Joe Alves|Dan Lomino|Phil Abramson",
+    "NomineeIds": "nm0023469|nm0518561|nm0009055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Spy Who Loved Me",
+    "FilmId": "tt0076752",
+    "Name": "Art Direction: Ken Adam, Peter Lamont; Set Decoration: Hugh Scaife",
+    "Nominees": "Ken Adam|Peter Lamont|Hugh Scaife",
+    "NomineeIds": "nm0010553|nm0483682|nm0768728",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "Art Direction: John Barry, Norman Reynolds, Leslie Dilley; Set Decoration: Roger Christian",
+    "Nominees": "John Barry|Norman Reynolds|Leslie Dilley|Roger Christian",
+    "NomineeIds": "nm0058045|nm0721888|nm0226896|nm0002337",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Art Direction: Albert Brenner; Set Decoration: Marvin March",
+    "Nominees": "Albert Brenner|Marvin March",
+    "NomineeIds": "nm0107447|nm0545322",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Close Encounters of the Third Kind",
+    "FilmId": "tt0075860",
+    "Name": "Vilmos Zsigmond",
+    "Nominees": "Vilmos Zsigmond",
+    "NomineeIds": "nm0005936",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Islands in the Stream",
+    "FilmId": "tt0076211",
+    "Name": "Fred J. Koenekamp",
+    "Nominees": "Fred J. Koenekamp",
+    "NomineeIds": "nm0005758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Douglas Slocombe",
+    "Nominees": "Douglas Slocombe",
+    "NomineeIds": "nm0005878",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Looking for Mr. Goodbar",
+    "FilmId": "tt0076327",
+    "Name": "William A. Fraker",
+    "Nominees": "William A. Fraker",
+    "NomineeIds": "nm0005710",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Robert Surtees",
+    "Nominees": "Robert Surtees",
+    "NomineeIds": "nm0005892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Airport '77",
+    "FilmId": "tt0075648",
+    "Name": "Edith Head, Burton Miller",
+    "Nominees": "Edith Head|Burton Miller",
+    "NomineeIds": "nm0372128|nm0588018",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Anthea Sylbert",
+    "Nominees": "Anthea Sylbert",
+    "NomineeIds": "nm0843123",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "A Little Night Music",
+    "FilmId": "tt0076319",
+    "Name": "Florence Klotz",
+    "Nominees": "Florence Klotz",
+    "NomineeIds": "nm0460108",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Other Side of Midnight",
+    "FilmId": "tt0076507",
+    "Name": "Irene Sharaff",
+    "Nominees": "Irene Sharaff",
+    "NomineeIds": "nm0788695",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "John Mollo",
+    "Nominees": "John Mollo",
+    "NomineeIds": "nm0597087",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Annie Hall",
+    "FilmId": "tt0075686",
+    "Name": "Woody Allen",
+    "Nominees": "Woody Allen",
+    "NomineeIds": "nm0000095",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Close Encounters of the Third Kind",
+    "FilmId": "tt0075860",
+    "Name": "Steven Spielberg",
+    "Nominees": "Steven Spielberg",
+    "NomineeIds": "nm0000229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Fred Zinnemann",
+    "Nominees": "Fred Zinnemann",
+    "NomineeIds": "nm0003593",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "George Lucas",
+    "Nominees": "George Lucas",
+    "NomineeIds": "nm0000184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Herbert Ross",
+    "Nominees": "Herbert Ross",
+    "NomineeIds": "nm0006889",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Children of Theatre Street",
+    "FilmId": "tt0075839",
+    "Name": "Robert Dornhelm and Earle Mack, Producers",
+    "Nominees": "Robert Dornhelm|Earle Mack",
+    "NomineeIds": "nm0233920|nm0532973",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "High Grass Circus",
+    "FilmId": "tt0076142",
+    "Name": "Bill Brind, Torben Schioler and Tony Ianzelo, Producers",
+    "Nominees": "Bill Brind|Torben Schioler|Tony Ianzelo",
+    "NomineeIds": "nm0109464|nm0771899|nm0406349",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Homage to Chagall--The Colours of Love",
+    "FilmId": "tt0076151",
+    "Name": "Harry Rasky, Producer",
+    "Nominees": "Harry Rasky",
+    "NomineeIds": "nm0711268",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Union Maids",
+    "FilmId": "tt0075372",
+    "Name": "James Klein, Julia Reichert and Miles Mogulescu, Producers",
+    "Nominees": "James Klein|Julia Reichert|Miles Mogulescu",
+    "NomineeIds": "nm0458822|nm0717064|nm0595801",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
+    "FilmId": "tt0076918",
+    "Name": "John Korty, Dan McCann and Warren L. Lockhart, Producers",
+    "Nominees": "John Korty|Dan McCann|Warren L. Lockhart",
+    "NomineeIds": "nm0466793|nm0564848|nm0516901",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Agueda Martinez: Our People, Our Country",
+    "FilmId": "tt0075645",
+    "Name": "Moctesuma Esparza, Producer",
+    "Nominees": "Moctesuma Esparza",
+    "NomineeIds": "nm0260800",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "First Edition",
+    "FilmId": "tt0076032",
+    "Name": "Helen Whitney and DeWitt L. Sage, Jr., Producers",
+    "Nominees": "Helen Whitney|DeWitt L. Sage Jr.",
+    "NomineeIds": "nm0926299|nm0756040",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Gravity Is My Enemy",
+    "FilmId": "tt0076105",
+    "Name": "John Joseph and Jan Stussy, Producers",
+    "Nominees": "John Joseph|Jan Stussy",
+    "NomineeIds": "nm0003385|nm0836465",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Of Time, Tombs and Treasure",
+    "FilmId": "tt0076488",
+    "Name": "James R. Messenger and Paul N. Raimondi, Producers",
+    "Nominees": "James R. Messenger|Paul N. Raimondi",
+    "NomineeIds": "nm0582032|nm0004048",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Shetland Experience",
+    "FilmId": "tt0076700",
+    "Name": "Douglas Gordon, Producer",
+    "Nominees": "Douglas Gordon",
+    "NomineeIds": "nm0330159",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Close Encounters of the Third Kind",
+    "FilmId": "tt0075860",
+    "Name": "Michael Kahn",
+    "Nominees": "Michael Kahn",
+    "NomineeIds": "nm0434883",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Walter Murch",
+    "Nominees": "Walter Murch",
+    "NomineeIds": "nm0004555",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Smokey and the Bandit",
+    "FilmId": "tt0076729",
+    "Name": "Walter Hannemann, Angelo Ross",
+    "Nominees": "Walter Hannemann|Angelo Ross",
+    "NomineeIds": "nm0360385|nm0743207",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "Paul Hirsch, Marcia Lucas, Richard Chew",
+    "Nominees": "Paul Hirsch|Marcia Lucas|Richard Chew",
+    "NomineeIds": "nm0386532|nm0524235|nm0156816",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "William Reynolds",
+    "Nominees": "William Reynolds",
+    "NomineeIds": "nm0722000",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Iphigenia",
+    "FilmId": "tt0076208",
+    "Name": "Greece",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Madame Rosa",
+    "FilmId": "tt0076348",
+    "Name": "France",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Operation Thunderbolt",
+    "FilmId": "tt0076398",
+    "Name": "Israel",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "A Special Day",
+    "FilmId": "tt0076085",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "That Obscure Object of Desire",
+    "FilmId": "tt0075824",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Close Encounters of the Third Kind",
+    "FilmId": "tt0075860",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Georges Delerue",
+    "Nominees": "Georges Delerue",
+    "NomineeIds": "nm0000016",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Mohammad - Messenger of God",
+    "FilmId": "tt0074896",
+    "Name": "Maurice Jarre",
+    "Nominees": "Maurice Jarre",
+    "NomineeIds": "nm0003574",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Spy Who Loved Me",
+    "FilmId": "tt0076752",
+    "Name": "Marvin Hamlisch",
+    "Nominees": "Marvin Hamlisch",
+    "NomineeIds": "nm0006121",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "John Williams",
+    "Nominees": "John Williams",
+    "NomineeIds": "nm0002354",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation or Adaptation Score)",
+    "Film": "A Little Night Music",
+    "FilmId": "tt0076319",
+    "Name": "Adaptation Score by Jonathan Tunick",
+    "Nominees": "Jonathan Tunick",
+    "NomineeIds": "nm0876642",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation or Adaptation Score)",
+    "Film": "Pete's Dragon",
+    "FilmId": "tt0076538",
+    "Name": "Song Score by Al Kasha and Joel Hirschhorn; Adaptation Score by Irwin Kostal",
+    "Nominees": "Al Kasha|Joel Hirschhorn|Irwin Kostal",
+    "NomineeIds": "nm0440517|nm0386610|nm0467348",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Original Song Score and Its Adaptation or Adaptation Score)",
+    "Film": "The Slipper and the Rose--The Story of Cinderella",
+    "FilmId": "tt0075232",
+    "Name": "Song Score by Richard M. Sherman and Robert B. Sherman; Adaptation Score by Angela Morley",
+    "Nominees": "Richard M. Sherman|Robert B. Sherman|Angela Morley",
+    "NomineeIds": "nm0792556|nm0792567|nm0605859",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Pete's Dragon",
+    "FilmId": "tt0076538",
+    "Name": "Music and Lyrics by Al Kasha and Joel Hirschhorn",
+    "Nominees": "Al Kasha|Joel Hirschhorn",
+    "NomineeIds": "nm0440517|nm0386610",
+    "Winner": "",
+    "Detail": "Candle On The Water",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Spy Who Loved Me",
+    "FilmId": "tt0076752",
+    "Name": "Music by Marvin Hamlisch; Lyrics by Carole Bayer Sager",
+    "Nominees": "Marvin Hamlisch|Carole Bayer Sager",
+    "NomineeIds": "nm0006121|nm0004728",
+    "Winner": "",
+    "Detail": "Nobody Does It Better",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Slipper and the Rose--The Story of Cinderella",
+    "FilmId": "tt0075232",
+    "Name": "Music and Lyrics by Richard M. Sherman and Robert B. Sherman",
+    "Nominees": "Richard M. Sherman|Robert B. Sherman",
+    "NomineeIds": "nm0792556|nm0792567",
+    "Winner": "",
+    "Detail": "The Slipper And The Rose Waltz (He Danced With Me/She Danced With Me)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "The Rescuers",
+    "FilmId": "tt0076618",
+    "Name": "Music by Sammy Fain; Lyrics by Carol Connors and Ayn Robbins",
+    "Nominees": "Sammy Fain|Carol Connors|Ayn Robbins",
+    "NomineeIds": "nm0006066|nm0175486|nm0730291",
+    "Winner": "",
+    "Detail": "Someone's Waiting For You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "You Light Up My Life",
+    "FilmId": "tt0076941",
+    "Name": "Music and Lyrics by Joseph Brooks",
+    "Nominees": "Joseph Brooks",
+    "NomineeIds": "nm0112072",
+    "Winner": "True",
+    "Detail": "You Light Up My Life",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Annie Hall",
+    "FilmId": "tt0075686",
+    "Name": "Charles H. Joffe, Producer",
+    "Nominees": "Charles H. Joffe",
+    "NomineeIds": "nm0423618",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Goodbye Girl",
+    "FilmId": "tt0076095",
+    "Name": "Ray Stark, Producer",
+    "Nominees": "Ray Stark",
+    "NomineeIds": "nm0823256",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Richard Roth, Producer",
+    "Nominees": "Richard Roth",
+    "NomineeIds": "nm10607011",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "Gary Kurtz, Producer",
+    "Nominees": "Gary Kurtz",
+    "NomineeIds": "nm0476030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Herbert Ross and Arthur Laurents, Producers",
+    "Nominees": "Herbert Ross|Arthur Laurents",
+    "NomineeIds": "nm0006889|nm0491306",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Bead Game",
+    "FilmId": "tt0075732",
+    "Name": "Ishu Patel, Producer",
+    "Nominees": "Ishu Patel",
+    "NomineeIds": "nm0665373",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Doonesbury Special",
+    "FilmId": "tt0075953",
+    "Name": "John Hubley, Faith Hubley and Garry Trudeau, Producers",
+    "Nominees": "John Hubley|Faith Hubley|Garry Trudeau",
+    "NomineeIds": "nm0399524|nm0254454|nm0874034",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Jimmy the C",
+    "FilmId": "tt0076230",
+    "Name": "James Picker, Robert Grossman and Craig Whitaker, Producers",
+    "Nominees": "James Picker|Robert Grossman|Craig Whitaker",
+    "NomineeIds": "nm0681804|nm0343705|nm0924253",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Sand Castle",
+    "FilmId": "tt0075847",
+    "Name": "Co Hoedeman, Producer",
+    "Nominees": "Co Hoedeman",
+    "NomineeIds": "nm0388394",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Absent-Minded Waiter",
+    "FilmId": "tt0075626",
+    "Name": "William E. McEuen, Producer",
+    "Nominees": "William E. McEuen",
+    "NomineeIds": "nm0568530",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Floating Free",
+    "FilmId": "tt0076036",
+    "Name": "Jerry Butts, Producer",
+    "Nominees": "Jerry Butts",
+    "NomineeIds": "nm0125442",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "I'll Find a Way",
+    "FilmId": "tt0076173",
+    "Name": "Beverly Shaffer and Yuki Yoshida, Producers",
+    "Nominees": "Beverly Shaffer|Yuki Yoshida",
+    "NomineeIds": "nm0787291|nm0948952",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Notes on the Popular Arts",
+    "FilmId": "tt0076467",
+    "Name": "Saul Bass, Producer",
+    "Nominees": "Saul Bass",
+    "NomineeIds": "nm0000866",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Spaceborne",
+    "FilmId": "tt0076742",
+    "Name": "Philip Dauber, Producer",
+    "Nominees": "Philip Dauber",
+    "NomineeIds": "nm0202229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Close Encounters of the Third Kind",
+    "FilmId": "tt0075860",
+    "Name": "Robert Knudson, Robert J. Glass, Don MacDougall, Gene S. Cantamessa",
+    "Nominees": "Robert Knudson|Robert J. Glass|Don MacDougall|Gene S. Cantamessa",
+    "NomineeIds": "nm0461702|nm0321915|nm0532013|nm0134481",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Deep",
+    "FilmId": "tt0075925",
+    "Name": "Walter Goss, Dick Alexander, Tom Beckert, Robin Gregory",
+    "Nominees": "Walter Goss|Dick Alexander|Tom Beckert|Robin Gregory",
+    "NomineeIds": "nm0331586|nm1219804|nm0065657|nm0339932",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Sorcerer",
+    "FilmId": "tt0076740",
+    "Name": "Robert Knudson, Robert J. Glass, Richard Tyler, Jean-Louis Ducarme",
+    "Nominees": "Robert Knudson|Robert J. Glass|Richard Tyler|Jean-Louis Ducarme",
+    "NomineeIds": "nm0461702|nm0321915|nm0878889|nm0239707",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "Don MacDougall, Ray West, Bob Minkler, Derek Ball",
+    "Nominees": "Don MacDougall|Ray West|Bob Minkler|Derek Ball",
+    "NomineeIds": "nm0532013|nm0922079|nm0591440|nm0050362",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Theodore Soderberg, Paul Wells, Douglas O. Williams, Jerry Jost",
+    "Nominees": "Theodore Soderberg|Paul Wells|Douglas O. Williams|Jerry Jost",
+    "NomineeIds": "nm0812029|nm0920372|nm0930491|nm0422281",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Close Encounters of the Third Kind",
+    "FilmId": "tt0075860",
+    "Name": "Roy Arbogast, Douglas Trumbull, Matthew Yuricich, Gregory Jein, Richard Yuricich",
+    "Nominees": "Roy Arbogast|Douglas Trumbull|Matthew Yuricich|Gregory Jein|Richard Yuricich",
+    "NomineeIds": "nm0033405|nm0874320|nm0951046|nm0420474|nm0951047",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "John Stears, John Dykstra, Richard Edlund, Grant McCune, Robert Blalack",
+    "Nominees": "John Stears|John Dykstra|Richard Edlund|Grant McCune|Robert Blalack",
+    "NomineeIds": "nm0824210|nm0004375|nm0249430|nm0567263|nm0086879",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Equus",
+    "FilmId": "tt0075995",
+    "Name": "Peter Shaffer",
+    "Nominees": "Peter Shaffer",
+    "NomineeIds": "nm0787323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "I Never Promised You a Rose Garden",
+    "FilmId": "tt0076172",
+    "Name": "Gavin Lambert, Lewis John Carlino",
+    "Nominees": "Gavin Lambert|Lewis John Carlino",
+    "NomineeIds": "nm0483149|nm0137573",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Julia",
+    "FilmId": "tt0076245",
+    "Name": "Alvin Sargent",
+    "Nominees": "Alvin Sargent",
+    "NomineeIds": "nm0765091",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Oh, God!",
+    "FilmId": "tt0076489",
+    "Name": "Larry Gelbart",
+    "Nominees": "Larry Gelbart",
+    "NomineeIds": "nm0312205",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "That Obscure Object of Desire",
+    "FilmId": "tt0075824",
+    "Name": "Luis Buñuel, Jean-Claude Carrière",
+    "Nominees": "Luis Buñuel|Jean-Claude Carrière",
+    "NomineeIds": "nm0000320|nm0140643",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "Annie Hall",
+    "FilmId": "tt0075686",
+    "Name": "Woody Allen, Marshall Brickman",
+    "Nominees": "Woody Allen|Marshall Brickman",
+    "NomineeIds": "nm0000095|nm0108613",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "The Goodbye Girl",
+    "FilmId": "tt0076095",
+    "Name": "Neil Simon",
+    "Nominees": "Neil Simon",
+    "NomineeIds": "nm0800319",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "The Late Show",
+    "FilmId": "tt0076301",
+    "Name": "Robert Benton",
+    "Nominees": "Robert Benton",
+    "NomineeIds": "nm0000914",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "George Lucas",
+    "Nominees": "George Lucas",
+    "NomineeIds": "nm0000184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+    "Film": "The Turning Point",
+    "FilmId": "tt0076843",
+    "Name": "Arthur Laurents",
+    "Nominees": "Arthur Laurents",
+    "NomineeIds": "nm0491306",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD",
+    "Category": "SPECIAL ACHIEVEMENT AWARD",
+    "Film": "Star Wars",
+    "FilmId": "tt0076759",
+    "Name": "",
+    "Nominees": "Benjamin Burtt Jr.",
+    "NomineeIds": "nm0123785",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Benjamin Burtt, Jr. for the creation of the alien, creature and robot voices featured in Star Wars."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Special",
+    "CanonicalCategory": "SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing)",
+    "Category": "SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing)",
+    "Film": "Close Encounters of the Third Kind",
+    "FilmId": "tt0075860",
+    "Name": "Frank E. Warner",
+    "Nominees": "Frank E. Warner",
+    "NomineeIds": "nm0912466",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Charlton Heston",
+    "Nominees": "Charlton Heston",
+    "NomineeIds": "nm0000032",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Margaret Booth",
+    "NomineeIds": "nm0004290",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Margaret Booth for her exceptional contribution to the art of film editing in the motion picture industry."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Walter Mirisch",
+    "Nominees": "Walter Mirisch",
+    "NomineeIds": "nm0592387",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class I)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "GARRETT BROWN|the CINEMA PRODUCTS CORPORATION|John Jurgens",
+    "NomineeIds": "nm0113593|?|?",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "",
+    "Citation": "To GARRETT BROWN and the CINEMA PRODUCTS CORPORATION ENGINEERING STAFF under the supervision of John Jurgens, for the invention and development of Steadicam."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Joseph D. Kelly|EMORY M. COHEN|BARRY K. HENLEY|HAMMOND H. HOLT|JOHN AGALSOFF",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To JOSEPH D. KELLY, EMORY M. COHEN, BARRY K. HENLEY, HAMMOND H. HOLT and JOHN AGALSOFF of Glen Glenn Sound for the concept and development of a Post-production Audio Processing System for Motion Picture Films."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Panavision Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To PANAVISION, INCORPORATED, for the concept and engineering of the improvements incorporated in the Panaflex Motion Picture Camera."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "N. Paul Kenworthy Jr.|William R. Latady",
+    "NomineeIds": "nm0448949|nm0489991",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To N. PAUL KENWORTHY, JR. and WILLIAM R. LATADY for the invention and development of the Kenworthy Snorkel Camera System for motion picture photography."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "John C. Dykstra|Alvah J. Miller|Jerry Jeffress",
+    "NomineeIds": "nm0004375|nm0587868|nm0420275",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To JOHN C. DYKSTRA for the development of a facility uniquely oriented toward visual effects photography, and to ALVAH J. MILLER and JERRY JEFFRESS for the engineering of the Electronic Motion Control System used in concert for multiple exposure visual effects motion picture photography."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eastman Kodak Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Film",
+    "Note": "",
+    "Citation": "To EASTMAN KODAK COMPANY for the development and introduction of a new duplicating film for motion pictures."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "STEFAN KUDELSKI",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To STEFAN KUDELSKI of Nagra Magnetic Recorders, Incorporated, for the engineering of the improvements incorporated in the Nagra 4.2L sound recorder for motion picture production."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ERNST NETTMANN",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "",
+    "Citation": "To ERNST NETTMANN of the Astrovision Division of Continental Camera Systems, Incorporated, for the engineering of its Periscope Aerial Camera System."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "EECO (Electronic Engineering Company of California)",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "",
+    "Citation": "To EECO (Electronic Engineering Company of California) for developing a method for interlocking non-sprocketed film and tape media used in motion picture production."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "DR. BERNHARD KÜHL|WERNER BLOCK",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To DR. BERNHARD KÜHL and WERNER BLOCK of OSRAM, GmbH, for the development of the HMI high-efficiency discharge lamp for motion picture lighting."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Panavision Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To PANAVISION, INCORPORATED, for the design of Panalite, a camera-mounted controllable light for motion picture photography."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Panavision Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "",
+    "Citation": "To PANAVISION, INCORPORATED, for the engineering of the Panahead gearhead for motion picture cameras."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Piclear Incorporated",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To PICLEAR, INCORPORATED, for originating and developing an attachment to motion picture projectors to improve screen image quality."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Gordon E. Sawyer",
+    "NomineeIds": "nm0768167",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Gordon E. Sawyer in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 50,
+    "Year": 1977,
+    "Class": "Special",
+    "CanonicalCategory": "MEDAL OF COMMENDATION",
+    "Category": "MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Sidney Paul Solow",
+    "NomineeIds": "nm0813558",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Sidney Paul Solow in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

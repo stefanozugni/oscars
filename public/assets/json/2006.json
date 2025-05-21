@@ -1,1744 +1,2082 @@
 [
   {
-    "category": "Best Picture",
-    "year": "2006",
-    "nominees": [
-      "The Departed"
-    ],
-    "movies": [
-      {
-        "title": "The Departed",
-        "tmdb_id": 1422,
-        "imdb_id": "tt0407887"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "2006",
-    "nominees": [
-      "Babel"
-    ],
-    "movies": [
-      {
-        "title": "Babel",
-        "tmdb_id": 1164,
-        "imdb_id": "tt0449467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2006",
-    "nominees": [
-      "Letters from Iwo Jima"
-    ],
-    "movies": [
-      {
-        "title": "Letters from Iwo Jima",
-        "tmdb_id": 1251,
-        "imdb_id": "tt0498380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2006",
-    "nominees": [
-      "Little Miss Sunshine"
-    ],
-    "movies": [
-      {
-        "title": "Little Miss Sunshine",
-        "tmdb_id": 773,
-        "imdb_id": "tt0449059"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2006",
-    "nominees": [
-      "The Queen"
-    ],
-    "movies": [
-      {
-        "title": "The Queen",
-        "tmdb_id": 1165,
-        "imdb_id": "tt0436697"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2006",
-    "nominees": [
-      "Forest Whitaker"
-    ],
-    "movies": [
-      {
-        "title": "The Last King of Scotland",
-        "tmdb_id": 1523,
-        "imdb_id": "tt0455590"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "2006",
-    "nominees": [
-      "Leonardo DiCaprio"
-    ],
-    "movies": [
-      {
-        "title": "Blood Diamond",
-        "tmdb_id": 1372,
-        "imdb_id": "tt0450259"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2006",
-    "nominees": [
-      "Ryan Gosling"
-    ],
-    "movies": [
-      {
-        "title": "Half Nelson",
-        "tmdb_id": 7859,
-        "imdb_id": "tt0468489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2006",
-    "nominees": [
-      "Peter O'Toole"
-    ],
-    "movies": [
-      {
-        "title": "Venus",
-        "tmdb_id": 13771,
-        "imdb_id": "tt0489327"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2006",
-    "nominees": [
-      "Will Smith"
-    ],
-    "movies": [
-      {
-        "title": "The Pursuit of Happyness",
-        "tmdb_id": 1402,
-        "imdb_id": "tt0454921"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2006",
-    "nominees": [
-      "Helen Mirren"
-    ],
-    "movies": [
-      {
-        "title": "The Queen",
-        "tmdb_id": 1165,
-        "imdb_id": "tt0436697"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "2006",
-    "nominees": [
-      "Penelope Cruz"
-    ],
-    "movies": [
-      {
-        "title": "Volver",
-        "tmdb_id": 219,
-        "imdb_id": "tt0441909"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2006",
-    "nominees": [
-      "Judi Dench"
-    ],
-    "movies": [
-      {
-        "title": "Notes on a Scandal",
-        "tmdb_id": 1259,
-        "imdb_id": "tt0465551"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2006",
-    "nominees": [
-      "Meryl Streep"
-    ],
-    "movies": [
-      {
-        "title": "The Devil Wears Prada",
-        "tmdb_id": 350,
-        "imdb_id": "tt0458352"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2006",
-    "nominees": [
-      "Kate Winslet"
-    ],
-    "movies": [
-      {
-        "title": "Little Children",
-        "tmdb_id": 1440,
-        "imdb_id": "tt0404203"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2006",
-    "nominees": [
-      "Alan Arkin"
-    ],
-    "movies": [
-      {
-        "title": "Little Miss Sunshine",
-        "tmdb_id": 773,
-        "imdb_id": "tt0449059"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2006",
-    "nominees": [
-      "Jackie Earle Haley"
-    ],
-    "movies": [
-      {
-        "title": "Little Children",
-        "tmdb_id": 1440,
-        "imdb_id": "tt0404203"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2006",
-    "nominees": [
-      "Djimon Hounsou"
-    ],
-    "movies": [
-      {
-        "title": "Blood Diamond",
-        "tmdb_id": 1372,
-        "imdb_id": "tt0450259"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2006",
-    "nominees": [
-      "Eddie Murphy"
-    ],
-    "movies": [
-      {
-        "title": "Dreamgirls",
-        "tmdb_id": 1125,
-        "imdb_id": "tt0443489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2006",
-    "nominees": [
-      "Mark Wahlberg"
-    ],
-    "movies": [
-      {
-        "title": "The Departed",
-        "tmdb_id": 1422,
-        "imdb_id": "tt0407887"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2006",
-    "nominees": [
-      "Jennifer Hudson"
-    ],
-    "movies": [
-      {
-        "title": "Dreamgirls",
-        "tmdb_id": 1125,
-        "imdb_id": "tt0443489"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2006",
-    "nominees": [
-      "Adriana Barraza"
-    ],
-    "movies": [
-      {
-        "title": "Babel",
-        "tmdb_id": 1164,
-        "imdb_id": "tt0449467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2006",
-    "nominees": [
-      "Cate Blanchett"
-    ],
-    "movies": [
-      {
-        "title": "Notes on a Scandal",
-        "tmdb_id": 1259,
-        "imdb_id": "tt0465551"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2006",
-    "nominees": [
-      "Abigail Breslin"
-    ],
-    "movies": [
-      {
-        "title": "Little Miss Sunshine",
-        "tmdb_id": 773,
-        "imdb_id": "tt0449059"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2006",
-    "nominees": [
-      "Rinko Kikuchi"
-    ],
-    "movies": [
-      {
-        "title": "Babel",
-        "tmdb_id": 1164,
-        "imdb_id": "tt0449467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2006",
-    "nominees": [
-      "Martin Scorsese"
-    ],
-    "movies": [
-      {
-        "title": "The Departed",
-        "tmdb_id": 1422,
-        "imdb_id": "tt0407887"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "2006",
-    "nominees": [
-      "Clint Eastwood"
-    ],
-    "movies": [
-      {
-        "title": "Letters from Iwo Jima",
-        "tmdb_id": 1251,
-        "imdb_id": "tt0498380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2006",
-    "nominees": [
-      "Stephen Frears"
-    ],
-    "movies": [
-      {
-        "title": "The Queen",
-        "tmdb_id": 1165,
-        "imdb_id": "tt0436697"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2006",
-    "nominees": [
-      "Alejandro Gonzalez Inarritu"
-    ],
-    "movies": [
-      {
-        "title": "Babel",
-        "tmdb_id": 1164,
-        "imdb_id": "tt0449467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2006",
-    "nominees": [
-      "Paul Greengrass"
-    ],
-    "movies": [
-      {
-        "title": "United 93",
-        "tmdb_id": 9829,
-        "imdb_id": "tt0475276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2006",
-    "nominees": [
-      "William Monahan"
-    ],
-    "movies": [
-      {
-        "title": "The Departed",
-        "tmdb_id": 1422,
-        "imdb_id": "tt0407887"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2006",
-    "nominees": [
-      "Sacha Baron Cohen",
-      "Peter Baynham",
-      "Anthony Hines",
-      "Dan Mazer",
-      "Todd Phillips"
-    ],
-    "movies": [
-      {
-        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
-        "tmdb_id": 496,
-        "imdb_id": "tt0443453"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2006",
-    "nominees": [
-      "Alfonso Cuaron",
-      "Timothy J. Sexton",
-      "David Arata",
-      "Mark Fergus",
-      "Hawk Ostby"
-    ],
-    "movies": [
-      {
-        "title": "Children of Men",
-        "tmdb_id": 9693,
-        "imdb_id": "tt0206634"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2006",
-    "nominees": [
-      "Todd Field",
-      "Tom Perrotta"
-    ],
-    "movies": [
-      {
-        "title": "Little Children",
-        "tmdb_id": 1440,
-        "imdb_id": "tt0404203"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2006",
-    "nominees": [
-      "Patrick Marber"
-    ],
-    "movies": [
-      {
-        "title": "Notes on a Scandal",
-        "tmdb_id": 1259,
-        "imdb_id": "tt0465551"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2006",
-    "nominees": [
-      "Michael Arndt"
-    ],
-    "movies": [
-      {
-        "title": "Little Miss Sunshine",
-        "tmdb_id": 773,
-        "imdb_id": "tt0449059"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2006",
-    "nominees": [
-      "Guillermo Arriaga"
-    ],
-    "movies": [
-      {
-        "title": "Babel",
-        "tmdb_id": 1164,
-        "imdb_id": "tt0449467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2006",
-    "nominees": [
-      "Iris Yamashita",
-      "Paul Haggis"
-    ],
-    "movies": [
-      {
-        "title": "Letters from Iwo Jima",
-        "tmdb_id": 1251,
-        "imdb_id": "tt0498380"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2006",
-    "nominees": [
-      "Guillermo del Toro"
-    ],
-    "movies": [
-      {
-        "title": "Pan's Labyrinth",
-        "tmdb_id": 1417,
-        "imdb_id": "tt0457430"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2006",
-    "nominees": [
-      "Peter Morgan"
-    ],
-    "movies": [
-      {
-        "title": "The Queen",
-        "tmdb_id": 1165,
-        "imdb_id": "tt0436697"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2006",
-    "nominees": [
-      "Gustavo Santaolalla"
-    ],
-    "movies": [
-      {
-        "title": "Babel",
-        "tmdb_id": 1164,
-        "imdb_id": "tt0449467"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "2006",
-    "nominees": [
-      "Thomas Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Good German",
-        "tmdb_id": 182,
-        "imdb_id": "tt0452624"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2006",
-    "nominees": [
-      "Philip Glass"
-    ],
-    "movies": [
-      {
-        "title": "Notes on a Scandal",
-        "tmdb_id": 1259,
-        "imdb_id": "tt0465551"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2006",
-    "nominees": [
-      "Javier Navarrete"
-    ],
-    "movies": [
-      {
-        "title": "Pan's Labyrinth",
-        "tmdb_id": 1417,
-        "imdb_id": "tt0457430"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2006",
-    "nominees": [
-      "Alexandre Desplat"
-    ],
-    "movies": [
-      {
-        "title": "The Queen",
-        "tmdb_id": 1165,
-        "imdb_id": "tt0436697"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2006",
-    "nominees": [
-      "I Need to Wake Up"
-    ],
-    "movies": [
-      {
-        "title": "An Inconvenient Truth",
-        "tmdb_id": 1781,
-        "imdb_id": "tt0497116"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2006",
-    "nominees": [
-      "Listen"
-    ],
-    "movies": [
-      {
-        "title": "Dreamgirls",
-        "tmdb_id": 1125,
-        "imdb_id": "tt0443489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2006",
-    "nominees": [
-      "Love You I Do"
-    ],
-    "movies": [
-      {
-        "title": "Dreamgirls",
-        "tmdb_id": 1125,
-        "imdb_id": "tt0443489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2006",
-    "nominees": [
-      "Patience"
-    ],
-    "movies": [
-      {
-        "title": "Dreamgirls",
-        "tmdb_id": 1125,
-        "imdb_id": "tt0443489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2006",
-    "nominees": [
-      "Our Town"
-    ],
-    "movies": [
-      {
-        "title": "Cars",
-        "tmdb_id": 920,
-        "imdb_id": "tt0317219"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2006",
-    "nominees": [
-      "The Lives of Others"
-    ],
-    "movies": [
-      {
-        "title": "The Lives of Others",
-        "tmdb_id": 582,
-        "imdb_id": "tt0405094"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2006",
-    "nominees": [
-      "After the Wedding"
-    ],
-    "movies": [
-      {
-        "title": "After the Wedding",
-        "tmdb_id": 3549,
-        "imdb_id": "tt0457655"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2006",
-    "nominees": [
-      "Days of Glory"
-    ],
-    "movies": [
-      {
-        "title": "Days of Glory",
-        "tmdb_id": 2016,
-        "imdb_id": "tt0444182"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2006",
-    "nominees": [
-      "Pan's Labyrinth"
-    ],
-    "movies": [
-      {
-        "title": "Pan's Labyrinth",
-        "tmdb_id": 1417,
-        "imdb_id": "tt0457430"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2006",
-    "nominees": [
-      "Water"
-    ],
-    "movies": [
-      {
-        "title": "Water",
-        "tmdb_id": 7509,
-        "imdb_id": "tt0240200"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2006",
-    "nominees": [
-      "An Inconvenient Truth"
-    ],
-    "movies": [
-      {
-        "title": "An Inconvenient Truth",
-        "tmdb_id": 1781,
-        "imdb_id": "tt0497116"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2006",
-    "nominees": [
-      "Deliver Us from Evil"
-    ],
-    "movies": [
-      {
-        "title": "Deliver Us from Evil",
-        "tmdb_id": 13364,
-        "imdb_id": "tt0814075"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2006",
-    "nominees": [
-      "Iraq in Fragments"
-    ],
-    "movies": [
-      {
-        "title": "Iraq in Fragments",
-        "tmdb_id": 34389,
-        "imdb_id": "tt0492466"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2006",
-    "nominees": [
-      "Jesus Camp"
-    ],
-    "movies": [
-      {
-        "title": "Jesus Camp",
-        "tmdb_id": 1776,
-        "imdb_id": "tt0486358"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2006",
-    "nominees": [
-      "My Country, My Country"
-    ],
-    "movies": [
-      {
-        "title": "My Country, My Country",
-        "tmdb_id": 50100,
-        "imdb_id": "tt4425258"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2006",
-    "nominees": [
-      "The Blood of Yingzhou District"
-    ],
-    "movies": [
-      {
-        "title": "The Blood of Yingzhou District",
-        "tmdb_id": 170057,
-        "imdb_id": "tt0859595"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2006",
-    "nominees": [
-      "Recycled Life"
-    ],
-    "movies": [
-      {
-        "title": "Recycled Life",
-        "tmdb_id": 58919,
-        "imdb_id": "tt0859631"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2006",
-    "nominees": [
-      "Rehearsing a Dream"
-    ],
-    "movies": [
-      {
-        "title": "Rehearsing a Dream",
-        "tmdb_id": 245020,
-        "imdb_id": "tt0982919"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2006",
-    "nominees": [
-      "Two Hands: The Leon Fleisher Story"
-    ],
-    "movies": [
-      {
-        "title": "Two Hands: The Leon Fleisher Story",
-        "tmdb_id": 245021,
-        "imdb_id": "tt0951151"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2006",
-    "nominees": [
-      "Happy Feet"
-    ],
-    "movies": [
-      {
-        "title": "Happy Feet",
-        "tmdb_id": 9836,
-        "imdb_id": "tt0366548"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2006",
-    "nominees": [
-      "Cars"
-    ],
-    "movies": [
-      {
-        "title": "Cars",
-        "tmdb_id": 920,
-        "imdb_id": "tt0317219"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2006",
-    "nominees": [
-      "Monster House"
-    ],
-    "movies": [
-      {
-        "title": "Monster House",
-        "tmdb_id": 9297,
-        "imdb_id": "tt0385880"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2006",
-    "nominees": [
-      "The Danish Poet"
-    ],
-    "movies": [
-      {
-        "title": "The Danish Poet",
-        "tmdb_id": 38635,
-        "imdb_id": "tt0933357"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2006",
-    "nominees": [
-      "Lifted"
-    ],
-    "movies": [
-      {
-        "title": "Lifted",
-        "tmdb_id": 13060,
-        "imdb_id": "tt0945571"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2006",
-    "nominees": [
-      "The Little Matchgirl"
-    ],
-    "movies": [
-      {
-        "title": "The Little Matchgirl",
-        "tmdb_id": 38580,
-        "imdb_id": "tt0816562"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2006",
-    "nominees": [
-      "Maestro"
-    ],
-    "movies": [
-      {
-        "title": "Maestro",
-        "tmdb_id": 50550,
-        "imdb_id": "tt0951144"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2006",
-    "nominees": [
-      "No Time for Nuts"
-    ],
-    "movies": [
-      {
-        "title": "No Time for Nuts",
-        "tmdb_id": 46247,
-        "imdb_id": "tt0902999"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2006",
-    "nominees": [
-      "West Bank Story"
-    ],
-    "movies": [
-      {
-        "title": "West Bank Story",
-        "tmdb_id": 31073,
-        "imdb_id": "tt0438575"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2006",
-    "nominees": [
-      "Binta and the Great Idea"
-    ],
-    "movies": [
-      {
-        "title": "Binta and the Great Idea",
-        "tmdb_id": 245017,
-        "imdb_id": "tt0442001"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2006",
-    "nominees": [
-      "One Too Many"
-    ],
-    "movies": [
-      {
-        "title": "One Too Many",
-        "tmdb_id": 189433,
-        "imdb_id": "tt0460616"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2006",
-    "nominees": [
-      "Helmer and Son"
-    ],
-    "movies": [
-      {
-        "title": "Helmer and Son",
-        "tmdb_id": 118796,
-        "imdb_id": "tt0955271"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2006",
-    "nominees": [
-      "The Saviour"
-    ],
-    "movies": [
-      {
-        "title": "The Saviour",
-        "tmdb_id": 245019,
-        "imdb_id": "tt0467485"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "Eugenio Caballero",
-      "Pilar Revuelta"
-    ],
-    "movies": [
-      {
-        "title": "Pan's Labyrinth",
-        "tmdb_id": 1417,
-        "imdb_id": "tt0457430"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "John Myhre",
-      "Nancy Haigh"
-    ],
-    "movies": [
-      {
-        "title": "Dreamgirls",
-        "tmdb_id": 1125,
-        "imdb_id": "tt0443489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "Jeannine Oppewall",
-      "Gretchen Rau",
-      "Leslie E. Rollins"
-    ],
-    "movies": [
-      {
-        "title": "The Good Shepherd",
-        "tmdb_id": 1247,
-        "imdb_id": "tt0343737"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "Rick Heinrichs",
-      "Cheryl A. Carasik"
-    ],
-    "movies": [
-      {
-        "title": "Pirates of the Caribbean: Dead Man's Chest",
-        "tmdb_id": 58,
-        "imdb_id": "tt0383574"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "Nathan Crowley",
-      "Julie Ochipinti"
-    ],
-    "movies": [
-      {
-        "title": "The Prestige",
-        "tmdb_id": 1124,
-        "imdb_id": "tt0482571"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2006",
-    "nominees": [
-      "Guillermo Navarro"
-    ],
-    "movies": [
-      {
-        "title": "Pan's Labyrinth",
-        "tmdb_id": 1417,
-        "imdb_id": "tt0457430"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2006",
-    "nominees": [
-      "Vilmos Zsigmond"
-    ],
-    "movies": [
-      {
-        "title": "The Black Dahlia",
-        "tmdb_id": 9676,
-        "imdb_id": "tt0387877"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2006",
-    "nominees": [
-      "Emmanuel Lubezki"
-    ],
-    "movies": [
-      {
-        "title": "Children of Men",
-        "tmdb_id": 9693,
-        "imdb_id": "tt0206634"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2006",
-    "nominees": [
-      "Dick Pope"
-    ],
-    "movies": [
-      {
-        "title": "The Illusionist",
-        "tmdb_id": 1491,
-        "imdb_id": "tt0443543"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2006",
-    "nominees": [
-      "Wally Pfister"
-    ],
-    "movies": [
-      {
-        "title": "The Prestige",
-        "tmdb_id": 1124,
-        "imdb_id": "tt0482571"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2006",
-    "nominees": [
-      "Thelma Schoonmaker"
-    ],
-    "movies": [
-      {
-        "title": "The Departed",
-        "tmdb_id": 1422,
-        "imdb_id": "tt0407887"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2006",
-    "nominees": [
-      "Douglas Crise",
-      "Stephen Mirrione"
-    ],
-    "movies": [
-      {
-        "title": "Babel",
-        "tmdb_id": 1164,
-        "imdb_id": "tt0449467"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2006",
-    "nominees": [
-      "Steven Rosenblum"
-    ],
-    "movies": [
-      {
-        "title": "Blood Diamond",
-        "tmdb_id": 1372,
-        "imdb_id": "tt0450259"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2006",
-    "nominees": [
-      "Alfonso Cuaron",
-      "Alex Rodriguez"
-    ],
-    "movies": [
-      {
-        "title": "Children of Men",
-        "tmdb_id": 9693,
-        "imdb_id": "tt0206634"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2006",
-    "nominees": [
-      "Clare Douglas",
-      "Richard Pearson",
-      "Christopher Rouse"
-    ],
-    "movies": [
-      {
-        "title": "United 93",
-        "tmdb_id": 9829,
-        "imdb_id": "tt0475276"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2006",
-    "nominees": [
-      "John Knoll",
-      "Hal Hickel",
-      "Charles Gibson",
-      "Allen Hall"
-    ],
-    "movies": [
-      {
-        "title": "Pirates of the Caribbean: Dead Man's Chest",
-        "tmdb_id": 58,
-        "imdb_id": "tt0383574"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2006",
-    "nominees": [
-      "Boyd Shermis",
-      "Kim Libreri",
-      "Chas Jarrett",
-      "John Frazier"
-    ],
-    "movies": [
-      {
-        "title": "Poseidon",
-        "tmdb_id": 503,
-        "imdb_id": "tt0409182"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2006",
-    "nominees": [
-      "Mark Stetson",
-      "Neil Corbould",
-      "Richard R. Hoover",
-      "Jon Thum"
-    ],
-    "movies": [
-      {
-        "title": "Superman Returns",
-        "tmdb_id": 1452,
-        "imdb_id": "tt0348150"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2006",
-    "nominees": [
-      "Michael Minkler",
-      "Bob Beemer",
-      "Willie D. Burton"
-    ],
-    "movies": [
-      {
-        "title": "Dreamgirls",
-        "tmdb_id": 1125,
-        "imdb_id": "tt0443489"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2006",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Fernando Camara"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypto",
-        "tmdb_id": 1579,
-        "imdb_id": "tt0472043"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2006",
-    "nominees": [
-      "Andy Nelson",
-      "Anna Behlmer",
-      "Ivan Sharrock"
-    ],
-    "movies": [
-      {
-        "title": "Blood Diamond",
-        "tmdb_id": 1372,
-        "imdb_id": "tt0450259"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2006",
-    "nominees": [
-      "John T. Reitz",
-      "David E. Campbell",
-      "Gregg Rudloff",
-      "Walt Martin"
-    ],
-    "movies": [
-      {
-        "title": "Flags of Our Fathers",
-        "tmdb_id": 3683,
-        "imdb_id": "tt0418689"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2006",
-    "nominees": [
-      "Paul Massey",
-      "Christopher Boyes",
-      "Lee Orloff"
-    ],
-    "movies": [
-      {
-        "title": "Pirates of the Caribbean: Dead Man's Chest",
-        "tmdb_id": 58,
-        "imdb_id": "tt0383574"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2006",
-    "nominees": [
-      "Bub Asman",
-      "Alan Robert Murray"
-    ],
-    "movies": [
-      {
-        "title": "Letters from Iwo Jima",
-        "tmdb_id": 1251,
-        "imdb_id": "tt0498380"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2006",
-    "nominees": [
-      "Kami Asgar",
-      "Sean McCormack"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypto",
-        "tmdb_id": 1579,
-        "imdb_id": "tt0472043"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2006",
-    "nominees": [
-      "Lon Bender"
-    ],
-    "movies": [
-      {
-        "title": "Blood Diamond",
-        "tmdb_id": 1372,
-        "imdb_id": "tt0450259"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2006",
-    "nominees": [
-      "Alan Robert Murray",
-      "Bub Asman"
-    ],
-    "movies": [
-      {
-        "title": "Flags of Our Fathers",
-        "tmdb_id": 3683,
-        "imdb_id": "tt0418689"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2006",
-    "nominees": [
-      "Christopher Boyes",
-      "George Watters"
-    ],
-    "movies": [
-      {
-        "title": "Pirates of the Caribbean: Dead Man's Chest",
-        "tmdb_id": 58,
-        "imdb_id": "tt0383574"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2006",
-    "nominees": [
-      "David Marti",
-      "Montse Ribe"
-    ],
-    "movies": [
-      {
-        "title": "Pan's Labyrinth",
-        "tmdb_id": 1417,
-        "imdb_id": "tt0457430"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2006",
-    "nominees": [
-      "Aldo Signoretti",
-      "Vittorio Sodano"
-    ],
-    "movies": [
-      {
-        "title": "Apocalypto",
-        "tmdb_id": 1579,
-        "imdb_id": "tt0472043"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2006",
-    "nominees": [
-      "Kazuhiro Tsuji",
-      "Bill Corso"
-    ],
-    "movies": [
-      {
-        "title": "Click",
-        "tmdb_id": 9339,
-        "imdb_id": "tt0389860"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "Milena Canonero"
-    ],
-    "movies": [
-      {
-        "title": "Marie Antoinette",
-        "tmdb_id": 1887,
-        "imdb_id": "tt0422720"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "Chung Man Yee"
-    ],
-    "movies": [
-      {
-        "title": "Curse of the Golden Flower",
-        "tmdb_id": 1494,
-        "imdb_id": "tt0473444"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "Patricia Field"
-    ],
-    "movies": [
-      {
-        "title": "The Devil Wears Prada",
-        "tmdb_id": 350,
-        "imdb_id": "tt0458352"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "Sharen Davis"
-    ],
-    "movies": [
-      {
-        "title": "Dreamgirls",
-        "tmdb_id": 1125,
-        "imdb_id": "tt0443489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2006",
-    "nominees": [
-      "Consolata Boyle"
-    ],
-    "movies": [
-      {
-        "title": "The Queen",
-        "tmdb_id": 1165,
-        "imdb_id": "tt0436697"
-      }
-    ],
-    "won": false
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Blood Diamond",
+    "FilmId": "tt0450259",
+    "Name": "Leonardo DiCaprio",
+    "Nominees": "Leonardo DiCaprio",
+    "NomineeIds": "nm0000138",
+    "Winner": "",
+    "Detail": "Danny Archer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Half Nelson",
+    "FilmId": "tt0468489",
+    "Name": "Ryan Gosling",
+    "Nominees": "Ryan Gosling",
+    "NomineeIds": "nm0331516",
+    "Winner": "",
+    "Detail": "Dan Dunne",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Venus",
+    "FilmId": "tt0489327",
+    "Name": "Peter O'Toole",
+    "Nominees": "Peter O'Toole",
+    "NomineeIds": "nm0000564",
+    "Winner": "",
+    "Detail": "Maurice",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Pursuit of Happyness",
+    "FilmId": "tt0454921",
+    "Name": "Will Smith",
+    "Nominees": "Will Smith",
+    "NomineeIds": "nm0000226",
+    "Winner": "",
+    "Detail": "Chris Gardner",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Last King of Scotland",
+    "FilmId": "tt0455590",
+    "Name": "Forest Whitaker",
+    "Nominees": "Forest Whitaker",
+    "NomineeIds": "nm0001845",
+    "Winner": "True",
+    "Detail": "Idi Amin",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Little Miss Sunshine",
+    "FilmId": "tt0449059",
+    "Name": "Alan Arkin",
+    "Nominees": "Alan Arkin",
+    "NomineeIds": "nm0000273",
+    "Winner": "True",
+    "Detail": "Grandpa",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Little Children",
+    "FilmId": "tt0404203",
+    "Name": "Jackie Earle Haley",
+    "Nominees": "Jackie Earle Haley",
+    "NomineeIds": "nm0355097",
+    "Winner": "",
+    "Detail": "Ronnie J. McGorvey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Blood Diamond",
+    "FilmId": "tt0450259",
+    "Name": "Djimon Hounsou",
+    "Nominees": "Djimon Hounsou",
+    "NomineeIds": "nm0005023",
+    "Winner": "",
+    "Detail": "Solomon Vandy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Dreamgirls",
+    "FilmId": "tt0443489",
+    "Name": "Eddie Murphy",
+    "Nominees": "Eddie Murphy",
+    "NomineeIds": "nm0000552",
+    "Winner": "",
+    "Detail": "James 'Thunder' Early",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Departed",
+    "FilmId": "tt0407887",
+    "Name": "Mark Wahlberg",
+    "Nominees": "Mark Wahlberg",
+    "NomineeIds": "nm0000242",
+    "Winner": "",
+    "Detail": "Dignam",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Volver",
+    "FilmId": "tt0441909",
+    "Name": "Penélope Cruz",
+    "Nominees": "Penélope Cruz",
+    "NomineeIds": "nm0004851",
+    "Winner": "",
+    "Detail": "Raimunda",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Notes on a Scandal",
+    "FilmId": "tt0465551",
+    "Name": "Judi Dench",
+    "Nominees": "Judi Dench",
+    "NomineeIds": "nm0001132",
+    "Winner": "",
+    "Detail": "Barbara Covett",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Queen",
+    "FilmId": "tt0436697",
+    "Name": "Helen Mirren",
+    "Nominees": "Helen Mirren",
+    "NomineeIds": "nm0000545",
+    "Winner": "True",
+    "Detail": "The Queen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Devil Wears Prada",
+    "FilmId": "tt0458352",
+    "Name": "Meryl Streep",
+    "Nominees": "Meryl Streep",
+    "NomineeIds": "nm0000658",
+    "Winner": "",
+    "Detail": "Miranda Priestly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Little Children",
+    "FilmId": "tt0404203",
+    "Name": "Kate Winslet",
+    "Nominees": "Kate Winslet",
+    "NomineeIds": "nm0000701",
+    "Winner": "",
+    "Detail": "Sarah Pierce",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Babel",
+    "FilmId": "tt0449467",
+    "Name": "Adriana Barraza",
+    "Nominees": "Adriana Barraza",
+    "NomineeIds": "nm0056770",
+    "Winner": "",
+    "Detail": "Amelia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Notes on a Scandal",
+    "FilmId": "tt0465551",
+    "Name": "Cate Blanchett",
+    "Nominees": "Cate Blanchett",
+    "NomineeIds": "nm0000949",
+    "Winner": "",
+    "Detail": "Sheba Hart",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Little Miss Sunshine",
+    "FilmId": "tt0449059",
+    "Name": "Abigail Breslin",
+    "Nominees": "Abigail Breslin",
+    "NomineeIds": "nm1113550",
+    "Winner": "",
+    "Detail": "Olive",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Dreamgirls",
+    "FilmId": "tt0443489",
+    "Name": "Jennifer Hudson",
+    "Nominees": "Jennifer Hudson",
+    "NomineeIds": "nm1617685",
+    "Winner": "True",
+    "Detail": "Effie White",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Babel",
+    "FilmId": "tt0449467",
+    "Name": "Rinko Kikuchi",
+    "Nominees": "Rinko Kikuchi",
+    "NomineeIds": "nm0452860",
+    "Winner": "",
+    "Detail": "Chieko",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Cars",
+    "FilmId": "tt0317219",
+    "Name": "John Lasseter",
+    "Nominees": "John Lasseter",
+    "NomineeIds": "nm0005124",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Happy Feet",
+    "FilmId": "tt0366548",
+    "Name": "George Miller",
+    "Nominees": "George Miller",
+    "NomineeIds": "nm0004306",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Monster House",
+    "FilmId": "tt0385880",
+    "Name": "Gil Kenan",
+    "Nominees": "Gil Kenan",
+    "NomineeIds": "nm1481493",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Dreamgirls",
+    "FilmId": "tt0443489",
+    "Name": "Art Direction: John Myhre; Set Decoration: Nancy Haigh",
+    "Nominees": "John Myhre|Nancy Haigh",
+    "NomineeIds": "nm0616924|nm0354101",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Good Shepherd",
+    "FilmId": "tt0343737",
+    "Name": "Art Direction: Jeannine Oppewall; Set Decoration: Gretchen Rau and Leslie E. Rollins",
+    "Nominees": "Jeannine Oppewall|Gretchen Rau|Leslie E. Rollins",
+    "NomineeIds": "nm0649223|nm0711956|nm0738443",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Pan's Labyrinth",
+    "FilmId": "tt0457430",
+    "Name": "Art Direction: Eugenio Caballero; Set Decoration: Pilar Revuelta",
+    "Nominees": "Eugenio Caballero|Pilar Revuelta",
+    "NomineeIds": "nm0127429|nm0720931",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Pirates of the Caribbean: Dead Man's Chest",
+    "FilmId": "tt0383574",
+    "Name": "Art Direction: Rick Heinrichs; Set Decoration: Cheryl Carasik",
+    "Nominees": "Rick Heinrichs|Cheryl Carasik",
+    "NomineeIds": "nm0374511|nm0135974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Prestige",
+    "FilmId": "tt0482571",
+    "Name": "Art Direction: Nathan Crowley; Set Decoration: Julie Ochipinti",
+    "Nominees": "Nathan Crowley|Julie Ochipinti",
+    "NomineeIds": "nm0189769|nm1540623",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Black Dahlia",
+    "FilmId": "tt0387877",
+    "Name": "Vilmos Zsigmond",
+    "Nominees": "Vilmos Zsigmond",
+    "NomineeIds": "nm0005936",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Children of Men",
+    "FilmId": "tt0206634",
+    "Name": "Emmanuel Lubezki",
+    "Nominees": "Emmanuel Lubezki",
+    "NomineeIds": "nm0523881",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Illusionist",
+    "FilmId": "tt0443543",
+    "Name": "Dick Pope",
+    "Nominees": "Dick Pope",
+    "NomineeIds": "nm0005836",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Pan's Labyrinth",
+    "FilmId": "tt0457430",
+    "Name": "Guillermo Navarro",
+    "Nominees": "Guillermo Navarro",
+    "NomineeIds": "nm0622897",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Prestige",
+    "FilmId": "tt0482571",
+    "Name": "Wally Pfister",
+    "Nominees": "Wally Pfister",
+    "NomineeIds": "nm0002892",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Curse of the Golden Flower",
+    "FilmId": "tt0473444",
+    "Name": "Yee Chung Man",
+    "Nominees": "Yee Chung Man",
+    "NomineeIds": "nm0354008",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Devil Wears Prada",
+    "FilmId": "tt0458352",
+    "Name": "Patricia Field",
+    "Nominees": "Patricia Field",
+    "NomineeIds": "nm0276010",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Dreamgirls",
+    "FilmId": "tt0443489",
+    "Name": "Sharen Davis",
+    "Nominees": "Sharen Davis",
+    "NomineeIds": "nm0205446",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Marie Antoinette",
+    "FilmId": "tt0422720",
+    "Name": "Milena Canonero",
+    "Nominees": "Milena Canonero",
+    "NomineeIds": "nm0134382",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "The Queen",
+    "FilmId": "tt0436697",
+    "Name": "Consolata Boyle",
+    "Nominees": "Consolata Boyle",
+    "NomineeIds": "nm0102219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Babel",
+    "FilmId": "tt0449467",
+    "Name": "Alejandro González Iñárritu",
+    "Nominees": "Alejandro González Iñárritu",
+    "NomineeIds": "nm0327944",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Departed",
+    "FilmId": "tt0407887",
+    "Name": "Martin Scorsese",
+    "Nominees": "Martin Scorsese",
+    "NomineeIds": "nm0000217",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Letters from Iwo Jima",
+    "FilmId": "tt0498380",
+    "Name": "Clint Eastwood",
+    "Nominees": "Clint Eastwood",
+    "NomineeIds": "nm0000142",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Queen",
+    "FilmId": "tt0436697",
+    "Name": "Stephen Frears",
+    "Nominees": "Stephen Frears",
+    "NomineeIds": "nm0001241",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "United 93",
+    "FilmId": "tt0475276",
+    "Name": "Paul Greengrass",
+    "Nominees": "Paul Greengrass",
+    "NomineeIds": "nm0339030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Deliver Us from Evil",
+    "FilmId": "tt0814075",
+    "Name": "Amy Berg and Frank Donner",
+    "Nominees": "Amy Berg|Frank Donner",
+    "NomineeIds": "nm1332844|nm1189160",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "An Inconvenient Truth",
+    "FilmId": "tt0497116",
+    "Name": "Davis Guggenheim",
+    "Nominees": "Davis Guggenheim",
+    "NomineeIds": "nm0346550",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Iraq in Fragments",
+    "FilmId": "tt0492466",
+    "Name": "James Longley and John Sinno",
+    "Nominees": "James Longley|John Sinno",
+    "NomineeIds": "nm1228118|nm2021953",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Jesus Camp",
+    "FilmId": "tt0486358",
+    "Name": "Heidi Ewing and Rachel Grady",
+    "Nominees": "Heidi Ewing|Rachel Grady",
+    "NomineeIds": "nm1823216|nm1823227",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "My Country, My Country",
+    "FilmId": "tt4425258",
+    "Name": "Laura Poitras and Jocelyn Glatzer",
+    "Nominees": "Laura Poitras|Jocelyn Glatzer",
+    "NomineeIds": "nm0688636|nm2283605",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Blood of Yingzhou District",
+    "FilmId": "tt0859595",
+    "Name": "Ruby Yang and Thomas Lennon",
+    "Nominees": "Ruby Yang|Thomas Lennon",
+    "NomineeIds": "nm0002548|nm0502072",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Recycled Life",
+    "FilmId": "tt0859631",
+    "Name": "Leslie Iwerks and Mike Glad",
+    "Nominees": "Leslie Iwerks|Mike Glad",
+    "NomineeIds": "nm0412649|nm2384942",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Rehearsing a Dream",
+    "FilmId": "tt0982919",
+    "Name": "Karen Goodman and Kirk Simon",
+    "Nominees": "Karen Goodman|Kirk Simon",
+    "NomineeIds": "nm0329139|nm0800232",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Two Hands",
+    "FilmId": "tt0951151",
+    "Name": "Nathaniel Kahn and Susan Rose Behr",
+    "Nominees": "Nathaniel Kahn|Susan Rose Behr",
+    "NomineeIds": "nm0434896|nm1405980",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Babel",
+    "FilmId": "tt0449467",
+    "Name": "Stephen Mirrione and Douglas Crise",
+    "Nominees": "Stephen Mirrione|Douglas Crise",
+    "NomineeIds": "nm0592537|nm0187954",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Blood Diamond",
+    "FilmId": "tt0450259",
+    "Name": "Steven Rosenblum",
+    "Nominees": "Steven Rosenblum",
+    "NomineeIds": "nm0742475",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Children of Men",
+    "FilmId": "tt0206634",
+    "Name": "Alex Rodríguez and Alfonso Cuarón",
+    "Nominees": "Alex Rodríguez|Alfonso Cuarón",
+    "NomineeIds": "nm1008771|nm0190859",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Departed",
+    "FilmId": "tt0407887",
+    "Name": "Thelma Schoonmaker",
+    "Nominees": "Thelma Schoonmaker",
+    "NomineeIds": "nm0774817",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "United 93",
+    "FilmId": "tt0475276",
+    "Name": "Clare Douglas, Christopher Rouse and Richard Pearson",
+    "Nominees": "Clare Douglas|Christopher Rouse|Richard Pearson",
+    "NomineeIds": "nm0234995|nm0002582|nm0669362",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "After the Wedding",
+    "FilmId": "tt0457655",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Days of Glory (Indigènes)",
+    "FilmId": "tt0444182",
+    "Name": "Algeria",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Lives of Others",
+    "FilmId": "tt0405094",
+    "Name": "Germany",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Pan's Labyrinth",
+    "FilmId": "tt0457430",
+    "Name": "Mexico",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Water",
+    "FilmId": "tt0240200",
+    "Name": "Canada",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Apocalypto",
+    "FilmId": "tt0472043",
+    "Name": "Aldo Signoretti and Vittorio Sodano",
+    "Nominees": "Aldo Signoretti|Vittorio Sodano",
+    "NomineeIds": "nm0797532|nm0812006",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Click",
+    "FilmId": "tt0389860",
+    "Name": "Kazuhiro Tsuji and Bill Corso",
+    "Nominees": "Kazuhiro Tsuji|Bill Corso",
+    "NomineeIds": "nm0875308|nm0181134",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Pan's Labyrinth",
+    "FilmId": "tt0457430",
+    "Name": "David Martí and Montse Ribé",
+    "Nominees": "David Martí|Montse Ribé",
+    "NomineeIds": "nm0554480|nm1556767",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Babel",
+    "FilmId": "tt0449467",
+    "Name": "Gustavo Santaolalla",
+    "Nominees": "Gustavo Santaolalla",
+    "NomineeIds": "nm0763395",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Good German",
+    "FilmId": "tt0452624",
+    "Name": "Thomas Newman",
+    "Nominees": "Thomas Newman",
+    "NomineeIds": "nm0002353",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Notes on a Scandal",
+    "FilmId": "tt0465551",
+    "Name": "Philip Glass",
+    "Nominees": "Philip Glass",
+    "NomineeIds": "nm0001275",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Pan's Labyrinth",
+    "FilmId": "tt0457430",
+    "Name": "Javier Navarrete",
+    "Nominees": "Javier Navarrete",
+    "NomineeIds": "nm0622782",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Queen",
+    "FilmId": "tt0436697",
+    "Name": "Alexandre Desplat",
+    "Nominees": "Alexandre Desplat",
+    "NomineeIds": "nm0006035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "An Inconvenient Truth",
+    "FilmId": "tt0497116",
+    "Name": "Music and Lyric by Melissa Etheridge",
+    "Nominees": "Melissa Etheridge",
+    "NomineeIds": "nm0004902",
+    "Winner": "True",
+    "Detail": "I Need To Wake Up",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Dreamgirls",
+    "FilmId": "tt0443489",
+    "Name": "Music by Henry Krieger and Scott Cutler; Lyric by Anne Preven",
+    "Nominees": "Henry Krieger|Scott Cutler|Anne Preven",
+    "NomineeIds": "nm1561090|nm2176557|nm3022142",
+    "Winner": "",
+    "Detail": "Listen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Dreamgirls",
+    "FilmId": "tt0443489",
+    "Name": "Music by Henry Krieger; Lyric by Siedah Garrett",
+    "Nominees": "Henry Krieger|Siedah Garrett",
+    "NomineeIds": "nm1561090|nm0308206",
+    "Winner": "",
+    "Detail": "Love You I Do",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Cars",
+    "FilmId": "tt0317219",
+    "Name": "Music and Lyric by Randy Newman",
+    "Nominees": "Randy Newman",
+    "NomineeIds": "nm0005271",
+    "Winner": "",
+    "Detail": "Our Town",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Dreamgirls",
+    "FilmId": "tt0443489",
+    "Name": "Music by Henry Krieger; Lyric by Willie Reale",
+    "Nominees": "Henry Krieger|Willie Reale",
+    "NomineeIds": "nm1561090|nm0714050",
+    "Winner": "",
+    "Detail": "Patience",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Babel",
+    "FilmId": "tt0449467",
+    "Name": "Alejandro González Iñárritu, Jon Kilik and Steve Golin, Producers",
+    "Nominees": "Alejandro González Iñárritu|Jon Kilik|Steve Golin",
+    "NomineeIds": "nm0327944|nm0453091|nm0326512",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Departed",
+    "FilmId": "tt0407887",
+    "Name": "Graham King, Producer",
+    "Nominees": "Graham King",
+    "NomineeIds": "nm0454752",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Letters from Iwo Jima",
+    "FilmId": "tt0498380",
+    "Name": "Clint Eastwood, Steven Spielberg and Robert Lorenz, Producers",
+    "Nominees": "Clint Eastwood|Steven Spielberg|Robert Lorenz",
+    "NomineeIds": "nm0000142|nm0000229|nm0520749",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Little Miss Sunshine",
+    "FilmId": "tt0449059",
+    "Name": "David T. Friendly, Peter Saraf and Marc Turtletaub, Producers",
+    "Nominees": "David T. Friendly|Peter Saraf|Marc Turtletaub",
+    "NomineeIds": "nm0295560|nm0764771|nm1196755",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Queen",
+    "FilmId": "tt0436697",
+    "Name": "Andy Harries, Christine Langan and Tracey Seaward, Producers",
+    "Nominees": "Andy Harries|Christine Langan|Tracey Seaward",
+    "NomineeIds": "nm0364170|nm0485972|nm0780870",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Danish Poet",
+    "FilmId": "tt0933357",
+    "Name": "Torill Kove",
+    "Nominees": "Torill Kove",
+    "NomineeIds": "nm0468380",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Lifted",
+    "FilmId": "tt0945571",
+    "Name": "Gary Rydstrom",
+    "Nominees": "Gary Rydstrom",
+    "NomineeIds": "nm0003977",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Little Matchgirl",
+    "FilmId": "tt0816562",
+    "Name": "Roger Allers and Don Hahn",
+    "Nominees": "Roger Allers|Don Hahn",
+    "NomineeIds": "nm0021249|nm0353893",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Maestro",
+    "FilmId": "tt0951144",
+    "Name": "Géza M. Tóth",
+    "Nominees": "Géza M. Tóth",
+    "NomineeIds": "nm1494496",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "No Time for Nuts",
+    "FilmId": "tt0902999",
+    "Name": "Chris Renaud and Michael Thurmeier",
+    "Nominees": "Chris Renaud|Michael Thurmeier",
+    "NomineeIds": "nm0719208|nm0862211",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Binta and the Great Idea (Binta Y La Gran Idea)",
+    "FilmId": "tt0442001",
+    "Name": "Javier Fesser and Luis Manso",
+    "Nominees": "Javier Fesser|Luis Manso",
+    "NomineeIds": "nm0275250|nm0543896",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Éramos Pocos (One Too Many)",
+    "FilmId": "tt0460616",
+    "Name": "Borja Cobeaga",
+    "Nominees": "Borja Cobeaga",
+    "NomineeIds": "nm1141070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Helmer & Son",
+    "FilmId": "tt0955271",
+    "Name": "Søren Pilmark and Kim Magnusson",
+    "Nominees": "Søren Pilmark|Kim Magnusson",
+    "NomineeIds": "nm0683587|nm0536385",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Saviour",
+    "FilmId": "tt0467485",
+    "Name": "Peter Templeman and Stuart Parkyn",
+    "Nominees": "Peter Templeman|Stuart Parkyn",
+    "NomineeIds": "nm1840943|nm1900710",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "West Bank Story",
+    "FilmId": "tt0438575",
+    "Name": "Ari Sandel",
+    "Nominees": "Ari Sandel",
+    "NomineeIds": "nm1847738",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Apocalypto",
+    "FilmId": "tt0472043",
+    "Name": "Sean McCormack and Kami Asgar",
+    "Nominees": "Sean McCormack|Kami Asgar",
+    "NomineeIds": "nm1010303|nm0038598",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Blood Diamond",
+    "FilmId": "tt0450259",
+    "Name": "Lon Bender",
+    "Nominees": "Lon Bender",
+    "NomineeIds": "nm0070489",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Flags of Our Fathers",
+    "FilmId": "tt0418689",
+    "Name": "Alan Robert Murray and Bub Asman",
+    "Nominees": "Alan Robert Murray|Bub Asman",
+    "NomineeIds": "nm0614812|nm0039544",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Letters from Iwo Jima",
+    "FilmId": "tt0498380",
+    "Name": "Alan Robert Murray and Bub Asman",
+    "Nominees": "Alan Robert Murray|Bub Asman",
+    "NomineeIds": "nm0614812|nm0039544",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Pirates of the Caribbean: Dead Man's Chest",
+    "FilmId": "tt0383574",
+    "Name": "Christopher Boyes and George Watters II",
+    "Nominees": "Christopher Boyes|George Watters II",
+    "NomineeIds": "nm0102110|nm0915036",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Apocalypto",
+    "FilmId": "tt0472043",
+    "Name": "Kevin O'Connell, Greg P. Russell and Fernando Cámara",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Fernando Cámara",
+    "NomineeIds": "nm0640114|nm0751169|nm0194569",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Blood Diamond",
+    "FilmId": "tt0450259",
+    "Name": "Andy Nelson, Anna Behlmer and Ivan Sharrock",
+    "Nominees": "Andy Nelson|Anna Behlmer|Ivan Sharrock",
+    "NomineeIds": "nm0625144|nm0066933|nm0789331",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Dreamgirls",
+    "FilmId": "tt0443489",
+    "Name": "Michael Minkler, Bob Beemer and Willie Burton",
+    "Nominees": "Michael Minkler|Bob Beemer|Willie Burton",
+    "NomineeIds": "nm0591444|nm0066446|nm0123770",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Flags of Our Fathers",
+    "FilmId": "tt0418689",
+    "Name": "John Reitz, Dave Campbell, Gregg Rudloff and Walt Martin",
+    "Nominees": "John Reitz|Dave Campbell|Gregg Rudloff|Walt Martin",
+    "NomineeIds": "nm0718676|nm0132372|nm0748832|nm0553190",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Pirates of the Caribbean: Dead Man's Chest",
+    "FilmId": "tt0383574",
+    "Name": "Paul Massey, Christopher Boyes and Lee Orloff",
+    "Nominees": "Paul Massey|Christopher Boyes|Lee Orloff",
+    "NomineeIds": "nm0557338|nm0102110|nm0650090",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Pirates of the Caribbean: Dead Man's Chest",
+    "FilmId": "tt0383574",
+    "Name": "John Knoll, Hal Hickel, Charles Gibson and Allen Hall",
+    "Nominees": "John Knoll|Hal Hickel|Charles Gibson|Allen Hall",
+    "NomineeIds": "nm0461306|nm0382579|nm0002716|nm0355292",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Poseidon",
+    "FilmId": "tt0409182",
+    "Name": "Boyd Shermis, Kim Libreri, Chas Jarrett and John Frazier",
+    "Nominees": "Boyd Shermis|Kim Libreri|Chas Jarrett|John Frazier",
+    "NomineeIds": "nm0792621|nm0508912|nm1040382|nm0292594",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Superman Returns",
+    "FilmId": "tt0348150",
+    "Name": "Mark Stetson, Neil Corbould, Richard R. Hoover and Jon Thum",
+    "Nominees": "Mark Stetson|Neil Corbould|Richard R. Hoover|Jon Thum",
+    "NomineeIds": "nm0828078|nm0179273|nm0393923|nm0862039",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "FilmId": "tt0443453",
+    "Name": "Screenplay by Sacha Baron Cohen & Anthony Hines & Peter Baynham & Dan Mazer; Story by Sacha Baron Cohen & Peter Baynham & Anthony Hines & Todd Phillips",
+    "Nominees": "Sacha Baron Cohen|Anthony Hines|Peter Baynham|Dan Mazer|Todd Phillips",
+    "NomineeIds": "nm0056187|nm0385630|nm0063165|nm0563243|nm0680846",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Children of Men",
+    "FilmId": "tt0206634",
+    "Name": "Screenplay by Alfonso Cuarón & Timothy J. Sexton and David Arata and Mark Fergus & Hawk Ostby",
+    "Nominees": "Alfonso Cuarón|Timothy J. Sexton|David Arata|Mark Fergus|Hawk Ostby",
+    "NomineeIds": "nm0190859|nm0786694|nm0033153|nm1318843|nm1319757",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Departed",
+    "FilmId": "tt0407887",
+    "Name": "Screenplay by William Monahan",
+    "Nominees": "William Monahan",
+    "NomineeIds": "nm1184258",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Little Children",
+    "FilmId": "tt0404203",
+    "Name": "Screenplay by Todd Field & Tom Perrotta",
+    "Nominees": "Todd Field|Tom Perrotta",
+    "NomineeIds": "nm0276062|nm0674909",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Notes on a Scandal",
+    "FilmId": "tt0465551",
+    "Name": "Screenplay by Patrick Marber",
+    "Nominees": "Patrick Marber",
+    "NomineeIds": "nm0544999",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Babel",
+    "FilmId": "tt0449467",
+    "Name": "Written by Guillermo Arriaga",
+    "Nominees": "Guillermo Arriaga",
+    "NomineeIds": "nm0037247",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Letters from Iwo Jima",
+    "FilmId": "tt0498380",
+    "Name": "Screenplay by Iris Yamashita; Story by Iris Yamashita & Paul Haggis",
+    "Nominees": "Iris Yamashita|Paul Haggis",
+    "NomineeIds": "nm2111875|nm0353673",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Little Miss Sunshine",
+    "FilmId": "tt0449059",
+    "Name": "Written by Michael Arndt",
+    "Nominees": "Michael Arndt",
+    "NomineeIds": "nm1578335",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Pan's Labyrinth",
+    "FilmId": "tt0457430",
+    "Name": "Written by Guillermo del Toro",
+    "Nominees": "Guillermo del Toro",
+    "NomineeIds": "nm0868219",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Queen",
+    "FilmId": "tt0436697",
+    "Name": "Written by Peter Morgan",
+    "Nominees": "Peter Morgan",
+    "NomineeIds": "nm0604948",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Sherry Lansing",
+    "Nominees": "Sherry Lansing",
+    "NomineeIds": "nm0005121",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ennio Morricone",
+    "NomineeIds": "nm0001553",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Ennio Morricone in recognition of his magnificent and multifaceted contributions to the art of film music."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ray Feeney",
+    "NomineeIds": "nm2990419",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "Ray Feeney"
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Phillip J. Feiner|JIM HOUSTON|DENIS LECONTE|CHRIS BUSHMAN",
+    "NomineeIds": "nm0270711|nm0396845|nm1850269|nm0124276",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "With elements that may be recombined either digitally or optically, the Rosetta Separations process offers a uniquely great versatility in achieving high-quality results for digital YCM archiving.",
+    "Citation": "To PHILLIP J. FEINER, JIM HOUSTON, DENIS LECONTE and CHRIS BUSHMAN of Pacific Title and Art Studio for the design and development of the Rosetta process for creating digital YCM archival masters for digital film restoration."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Steve Sullivan|Colin Davidson|Max Chen|Francesco Callari",
+    "NomineeIds": "nm0838354|nm2042866|nm1852623|nm2192162",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This highly integrated system facilitates interactive construction and editing of 3D models from digital photographs and addresses the three-dimensional scanning needs of motion pictures in unique and innovative ways.",
+    "Citation": "To STEVE SULLIVAN, COLIN DAVIDSON, MAX CHEN and FRANCESCO CALLARI for the design and development of the ILM Image-based Modeling System."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Bill Collis|Simon Robinson|Ben Kent|Dr. Anil Kokaram",
+    "NomineeIds": "nm0172787|?|nm3281514|?",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "The Furnace toolset's modularity, flexibility and robustness has set a high standard of quality for optical flow-based image manipulation.",
+    "Citation": "To DR. BILL COLLIS, SIMON ROBINSON, BEN KENT and DR. ANIL KOKARAM for the design and development of the Furnace integrated suite of software tools that robustly utilizes temporal coherence for enhancing visual effects in motion picture sequences."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Howard Preston|Mirko Kovacevic",
+    "NomineeIds": "nm0696426|nm3648463",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "Pioneering unprecedented reliability and flexibility in wireless lens and camera operation, the FI+Z has continued to be a leader in innovation since its introduction in 1994.",
+    "Citation": "To HOWARD PRESTON and MIRKO KOVACEVIC for the design and engineering of the Preston Cinema Systems FI+Z wireless remote system."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JOSHUA PINES|CHRIS KUTCKA",
+    "NomineeIds": "nm0003256|nm0476478",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The TDI process is based on the production of digital separation negatives creating archival elements that can be scanned and digitally recombined in the future.",
+    "Citation": "To JOSHUA PINES and CHRIS KUTCKA of Technicolor Digital Intermediates for the design and development of the TDI process for creating archival separations from digital image data."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "WILLIAM FEIGHTNER|CHRIS EDWARDS",
+    "NomineeIds": "nm0270579|nm3289358",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "The E-Film process is based on the production of digital separation negatives creating archival elements that can be scanned and digitally recombined in the future.",
+    "Citation": "To WILLIAM FEIGHTNER and CHRIS EDWARDS of E-Film for the design and development of the E-Film process for creating archival separations from digital image data."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Albert Ridilla|Papken Shahbazian|Ronald Belknap|JAY McGARRIGLE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "The Brumagic MPST was designed specifically to measure density in the motion picture soundtrack and has become the densitometer of choice for reading soundtrack negative and positive densities worldwide.",
+    "Citation": "To ALBERT RIDILLA, PAPKEN SHAHBAZIAN, RONALD BELKNAP and JAY McGARRIGLE for the design and development of the Hollywood Film Company Brumagic MPST Densitometer."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Klemens Kehrer|Josef Handler|Thomas Smidek|Marc Shipman Mueller",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera",
+    "Note": "Designed for handheld photography, the features of this small, lightweight MOS camera also allow it to be used as a secondary production camera.",
+    "Citation": "To KLEMENS KEHRER, JOSEF HANDLER, THOMAS SMIDEK and MARC SHIPMAN MUELLER for the design and development of the Arriflex 235 Camera System."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Florian Kainz",
+    "NomineeIds": "nm0435090",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Widely adopted, OpenEXR is engineered to meet the requirements of the visual effects industry by providing for lossless and lossy compression of tiered and tiled images.",
+    "Citation": "To FLORIAN KAINZ for the design and engineering of OpenEXR, a software package implementing 16-bit, floating point, high dynamic range image files."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Walter Trauninger|Ernst Tschida",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "This highly modular system permits accurate and reliable wireless control with multiple hand controls of all lens functions.",
+    "Citation": "To WALTER TRAUNINGER and ERNST TSCHIDA for the design and engineering of the Arri WRC wireless remote lens control system."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "CHRISTIAN TSCHIDA|MARTIN WAITZ",
+    "NomineeIds": "nm3492769|?",
+    "Winner": "True",
+    "Detail": "Photography",
+    "Note": "The graphical user interface of the cmotion System eases the difficult task of following focus, and the unique lens tag system recalls the calibration for each lens.",
+    "Citation": "To CHRISTIAN TSCHIDA and MARTIN WAITZ of cmotion for the design and engineering of the cmotion Wireless Remote System."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Peter Litwinowicz|Pierre Jasmin",
+    "NomineeIds": "?|nm3919626",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "A unique user interface and relatively low cost have made these tools ubiquitous in the visual effects community.",
+    "Citation": "To PETER LITWINOWICZ and PIERRE JASMIN for the design and development of the RE:Vision Effects family of software tools for optical flow-based image manipulation."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Ioan Allen|J. Wayne Anderson|Mary Ann Anderson|Ted Costas|Paul R. Goldberg|Shawn Jones|Thomas Kuhn|Dr. Alan Masson|Colin Mossman|Martin Richards|Frank Ricotta|Richard C. Sehlin",
+    "NomineeIds": "nm2344873|?|nm2961030|nm2002243|nm3149010|?|nm0474166|?|?|?|?|?",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Ioan Allen, J. Wayne Anderson, Mary Ann Anderson, Ted Costas, Paul R. Goldberg, Shawn Jones, Thomas Kuhn, Dr. Alan Masson, Colin Mossman, Martin Richards, Frank Ricotta and Richard C. Sehlin for their contributions to the environmentally responsible industry conversion from silver-based to cyan dye analog soundtracks."
+  },
+  {
+    "Ceremony": 79,
+    "Year": 2006,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Richard Edlund",
+    "NomineeIds": "nm0249430",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Richard Edlund in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

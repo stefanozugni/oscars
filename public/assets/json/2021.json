@@ -1,1856 +1,1986 @@
 [
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "CODA"
-        ],
-        "movies": [
-            {
-                "title": "CODA",
-                "tmdb_id": 776503,
-                "imdb_id": "tt10366460"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "Belfast"
-        ],
-        "movies": [
-            {
-                "title": "Belfast",
-                "tmdb_id": 777270,
-                "imdb_id": "tt12789558"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "Don't Look Up"
-        ],
-        "movies": [
-            {
-                "title": "Don't Look Up",
-                "tmdb_id": 646380,
-                "imdb_id": "tt11286314"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "Drive My Car"
-        ],
-        "movies": [
-            {
-                "title": "Drive My Car",
-                "tmdb_id": 758866,
-                "imdb_id": "tt14039582"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "Dune"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "King Richard"
-        ],
-        "movies": [
-            {
-                "title": "King Richard",
-                "tmdb_id": 614917,
-                "imdb_id": "tt9620288"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "Licorice Pizza"
-        ],
-        "movies": [
-            {
-                "title": "Licorice Pizza",
-                "tmdb_id": 718032,
-                "imdb_id": "tt11271038"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "Nightmare Alley"
-        ],
-        "movies": [
-            {
-                "title": "Nightmare Alley",
-                "tmdb_id": 597208,
-                "imdb_id": "tt7740496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "The Power of the Dog"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Picture",
-        "year": "2021",
-        "nominees": [
-            "West Side Story"
-        ],
-        "movies": [
-            {
-                "title": "West Side Story",
-                "tmdb_id": 511809,
-                "imdb_id": "tt3581652"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2021",
-        "nominees": [
-            "Will Smith"
-        ],
-        "movies": [
-            {
-                "title": "King Richard",
-                "tmdb_id": 614917,
-                "imdb_id": "tt9620288"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actor",
-        "year": "2021",
-        "nominees": [
-            "Javier Bardem"
-        ],
-        "movies": [
-            {
-                "title": "Being the Ricardos",
-                "tmdb_id": 517088,
-                "imdb_id": "tt4995540"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2021",
-        "nominees": [
-            "Benedict Cumberbatch"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2021",
-        "nominees": [
-            "Andrew Garfield"
-        ],
-        "movies": [
-            {
-                "title": "tick, tick... BOOM!",
-                "tmdb_id": 537116,
-                "imdb_id": "tt8721424"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actor",
-        "year": "2021",
-        "nominees": [
-            "Denzel Washington"
-        ],
-        "movies": [
-            {
-                "title": "The Tragedy of Macbeth",
-                "tmdb_id": 591538,
-                "imdb_id": "tt10095582"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2021",
-        "nominees": [
-            "Jessica Chastain"
-        ],
-        "movies": [
-            {
-                "title": "The Eyes of Tammy Faye",
-                "tmdb_id": 601470,
-                "imdb_id": "tt9115530"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Actress",
-        "year": "2021",
-        "nominees": [
-            "Olivia Colman"
-        ],
-        "movies": [
-            {
-                "title": "The Lost Daughter",
-                "tmdb_id": 554230,
-                "imdb_id": "tt9100054"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2021",
-        "nominees": [
-            "Penelope Cruz"
-        ],
-        "movies": [
-            {
-                "title": "Parallel Mothers",
-                "tmdb_id": 766798,
-                "imdb_id": "tt12618926"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2021",
-        "nominees": [
-            "Nicole Kidman"
-        ],
-        "movies": [
-            {
-                "title": "Being the Ricardos",
-                "tmdb_id": 517088,
-                "imdb_id": "tt4995540"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Actress",
-        "year": "2021",
-        "nominees": [
-            "Kristen Stewart"
-        ],
-        "movies": [
-            {
-                "title": "Spencer",
-                "tmdb_id": 716612,
-                "imdb_id": "tt12536294"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2021",
-        "nominees": [
-            "Troy Kotsur"
-        ],
-        "movies": [
-            {
-                "title": "CODA",
-                "tmdb_id": 776503,
-                "imdb_id": "tt10366460"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2021",
-        "nominees": [
-            "Ciaran Hinds"
-        ],
-        "movies": [
-            {
-                "title": "Belfast",
-                "tmdb_id": 777270,
-                "imdb_id": "tt12789558"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2021",
-        "nominees": [
-            "Jesse Plemons"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2021",
-        "nominees": [
-            "J.K. Simmons"
-        ],
-        "movies": [
-            {
-                "title": "Being the Ricardos",
-                "tmdb_id": 517088,
-                "imdb_id": "tt4995540"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actor",
-        "year": "2021",
-        "nominees": [
-            "Kodi Smit-McPhee"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2021",
-        "nominees": [
-            "Ariana DeBose"
-        ],
-        "movies": [
-            {
-                "title": "West Side Story",
-                "tmdb_id": 511809,
-                "imdb_id": "tt3581652"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2021",
-        "nominees": [
-            "Jessie Buckley"
-        ],
-        "movies": [
-            {
-                "title": "The Lost Daughter",
-                "tmdb_id": 554230,
-                "imdb_id": "tt9100054"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2021",
-        "nominees": [
-            "Judi Dench"
-        ],
-        "movies": [
-            {
-                "title": "Belfast",
-                "tmdb_id": 777270,
-                "imdb_id": "tt12789558"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2021",
-        "nominees": [
-            "Kirsten Dunst"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Supporting Actress",
-        "year": "2021",
-        "nominees": [
-            "Aunjanue Ellis"
-        ],
-        "movies": [
-            {
-                "title": "King Richard",
-                "tmdb_id": 614917,
-                "imdb_id": "tt9620288"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2021",
-        "nominees": [
-            "Jane Campion"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Director",
-        "year": "2021",
-        "nominees": [
-            "Kenneth Branagh"
-        ],
-        "movies": [
-            {
-                "title": "Belfast",
-                "tmdb_id": 777270,
-                "imdb_id": "tt12789558"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2021",
-        "nominees": [
-            "Ryusuke Hamaguchi"
-        ],
-        "movies": [
-            {
-                "title": "Drive My Car",
-                "tmdb_id": 758866,
-                "imdb_id": "tt14039582"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2021",
-        "nominees": [
-            "Paul Thomas Anderson"
-        ],
-        "movies": [
-            {
-                "title": "Licorice Pizza",
-                "tmdb_id": 718032,
-                "imdb_id": "tt11271038"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Director",
-        "year": "2021",
-        "nominees": [
-            "Steven Spielberg"
-        ],
-        "movies": [
-            {
-                "title": "West Side Story",
-                "tmdb_id": 511809,
-                "imdb_id": "tt3581652"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Sian Heder"
-        ],
-        "movies": [
-            {
-                "title": "CODA",
-                "tmdb_id": 776503,
-                "imdb_id": "tt10366460"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Ryusuke Hamaguchi",
-            "Takamasa Oe"
-        ],
-        "movies": [
-            {
-                "title": "Drive My Car",
-                "tmdb_id": 758866,
-                "imdb_id": "tt14039582"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Jon Spaihts",
-            "Denis Villeneuve",
-            "Eric Roth"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Maggie Gyllenhaal"
-        ],
-        "movies": [
-            {
-                "title": "The Lost Daughter",
-                "tmdb_id": 554230,
-                "imdb_id": "tt9100054"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Adapted Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Jane Campion"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Kenneth Branagh"
-        ],
-        "movies": [
-            {
-                "title": "Belfast",
-                "tmdb_id": 777270,
-                "imdb_id": "tt12789558"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Adam McKay",
-            "David Sirota"
-        ],
-        "movies": [
-            {
-                "title": "Don't Look Up",
-                "tmdb_id": 646380,
-                "imdb_id": "tt11286314"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Zach Baylin"
-        ],
-        "movies": [
-            {
-                "title": "King Richard",
-                "tmdb_id": 614917,
-                "imdb_id": "tt9620288"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Paul Thomas Anderson"
-        ],
-        "movies": [
-            {
-                "title": "Licorice Pizza",
-                "tmdb_id": 718032,
-                "imdb_id": "tt11271038"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Screenplay",
-        "year": "2021",
-        "nominees": [
-            "Eskil Vogt",
-            "Joachim Trier"
-        ],
-        "movies": [
-            {
-                "title": "The Worst Person in the World",
-                "tmdb_id": 660120,
-                "imdb_id": "tt10370710"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2021",
-        "nominees": [
-            "Hans Zimmer"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Score",
-        "year": "2021",
-        "nominees": [
-            "Nicholas Britell"
-        ],
-        "movies": [
-            {
-                "title": "Don't Look Up",
-                "tmdb_id": 646380,
-                "imdb_id": "tt11286314"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2021",
-        "nominees": [
-            "Germaine Franco"
-        ],
-        "movies": [
-            {
-                "title": "Encanto",
-                "tmdb_id": 568124,
-                "imdb_id": "tt2953050"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2021",
-        "nominees": [
-            "Alberto Iglesias"
-        ],
-        "movies": [
-            {
-                "title": "Parallel Mothers",
-                "tmdb_id": 766798,
-                "imdb_id": "tt12618926"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Score",
-        "year": "2021",
-        "nominees": [
-            "Jonny Greenwood"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2021",
-        "nominees": [
-            "No Time to Die"
-        ],
-        "movies": [
-            {
-                "title": "No Time to Die",
-                "tmdb_id": 370172,
-                "imdb_id": "tt2382320"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2021",
-        "nominees": [
-            "Be Alive"
-        ],
-        "movies": [
-            {
-                "title": "King Richard",
-                "tmdb_id": 614917,
-                "imdb_id": "tt9620288"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2021",
-        "nominees": [
-            "Dos Oruguitas"
-        ],
-        "movies": [
-            {
-                "title": "Encanto",
-                "tmdb_id": 568124,
-                "imdb_id": "tt2953050"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2021",
-        "nominees": [
-            "Down to Joy"
-        ],
-        "movies": [
-            {
-                "title": "Belfast",
-                "tmdb_id": 777270,
-                "imdb_id": "tt12789558"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Original Song",
-        "year": "2021",
-        "nominees": [
-            "Somehow You Do"
-        ],
-        "movies": [
-            {
-                "title": "Four Good Days",
-                "tmdb_id": 641960,
-                "imdb_id": "tt10344522"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2021",
-        "nominees": [
-            "Drive My Car"
-        ],
-        "movies": [
-            {
-                "title": "Drive My Car",
-                "tmdb_id": 758866,
-                "imdb_id": "tt14039582"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2021",
-        "nominees": [
-            "Flee"
-        ],
-        "movies": [
-            {
-                "title": "Flee",
-                "tmdb_id": 680813,
-                "imdb_id": "tt8430054"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2021",
-        "nominees": [
-            "The Hand of God"
-        ],
-        "movies": [
-            {
-                "title": "The Hand of God",
-                "tmdb_id": 722778,
-                "imdb_id": "tt12680684"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2021",
-        "nominees": [
-            "Lunana: A Yak in the Classroom"
-        ],
-        "movies": [
-            {
-                "title": "Lunana: A Yak in the Classroom",
-                "tmdb_id": 627087,
-                "imdb_id": "tt10189300"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best International Feature Film",
-        "year": "2021",
-        "nominees": [
-            "The Worst Person in the World"
-        ],
-        "movies": [
-            {
-                "title": "The Worst Person in the World",
-                "tmdb_id": 660120,
-                "imdb_id": "tt10370710"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2021",
-        "nominees": [
-            "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
-        ],
-        "movies": [
-            {
-                "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-                "tmdb_id": 776527,
-                "imdb_id": "tt11422728"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2021",
-        "nominees": [
-            "Ascension"
-        ],
-        "movies": [
-            {
-                "title": "Ascension",
-                "tmdb_id": 822138,
-                "imdb_id": "tt14505430"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2021",
-        "nominees": [
-            "Attica"
-        ],
-        "movies": [
-            {
-                "title": "Attica",
-                "tmdb_id": 858059,
-                "imdb_id": "tt12482898"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2021",
-        "nominees": [
-            "Flee"
-        ],
-        "movies": [
-            {
-                "title": "Flee",
-                "tmdb_id": 680813,
-                "imdb_id": "tt8430054"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Feature",
-        "year": "2021",
-        "nominees": [
-            "Writing with Fire"
-        ],
-        "movies": [
-            {
-                "title": "Writing with Fire",
-                "tmdb_id": 776557,
-                "imdb_id": "tt13630174"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2021",
-        "nominees": [
-            "The Queen of Basketball"
-        ],
-        "movies": [
-            {
-                "title": "The Queen of Basketball",
-                "tmdb_id": 822582,
-                "imdb_id": "tt14513236"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2021",
-        "nominees": [
-            "Audible"
-        ],
-        "movies": [
-            {
-                "title": "Audible",
-                "tmdb_id": 820492,
-                "imdb_id": "tt12771540"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2021",
-        "nominees": [
-            "Lead Me Home"
-        ],
-        "movies": [
-            {
-                "title": "Lead Me Home",
-                "tmdb_id": 869602,
-                "imdb_id": "tt15339848"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2021",
-        "nominees": [
-            "Three Songs for Benazir"
-        ],
-        "movies": [
-            {
-                "title": "Three Songs for Benazir",
-                "tmdb_id": 826740,
-                "imdb_id": "tt14608922"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Documentary Short",
-        "year": "2021",
-        "nominees": [
-            "When We Were Bullies"
-        ],
-        "movies": [
-            {
-                "title": "When We Were Bullies",
-                "tmdb_id": 776769,
-                "imdb_id": "tt13796488"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2021",
-        "nominees": [
-            "Encanto"
-        ],
-        "movies": [
-            {
-                "title": "Encanto",
-                "tmdb_id": 568124,
-                "imdb_id": "tt2953050"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2021",
-        "nominees": [
-            "Flee"
-        ],
-        "movies": [
-            {
-                "title": "Flee",
-                "tmdb_id": 680813,
-                "imdb_id": "tt8430054"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2021",
-        "nominees": [
-            "Luca"
-        ],
-        "movies": [
-            {
-                "title": "Luca",
-                "tmdb_id": 508943,
-                "imdb_id": "tt12801262"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2021",
-        "nominees": [
-            "The Mitchells vs. the Machines"
-        ],
-        "movies": [
-            {
-                "title": "The Mitchells vs. the Machines",
-                "tmdb_id": 501929,
-                "imdb_id": "tt7979580"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Feature",
-        "year": "2021",
-        "nominees": [
-            "Raya and the Last Dragon"
-        ],
-        "movies": [
-            {
-                "title": "Raya and the Last Dragon",
-                "tmdb_id": 527774,
-                "imdb_id": "tt5109280"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2021",
-        "nominees": [
-            "The Windshield Wiper"
-        ],
-        "movies": [
-            {
-                "title": "The Windshield Wiper",
-                "tmdb_id": 601329,
-                "imdb_id": "tt9464038"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2021",
-        "nominees": [
-            "Affairs of the Art"
-        ],
-        "movies": [
-            {
-                "title": "Affairs of the Art",
-                "tmdb_id": 742843,
-                "imdb_id": "tt14293560"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2021",
-        "nominees": [
-            "Bestia"
-        ],
-        "movies": [
-            {
-                "title": "Bestia",
-                "tmdb_id": 828751,
-                "imdb_id": "tt14825950"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2021",
-        "nominees": [
-            "BoxBallet"
-        ],
-        "movies": [
-            {
-                "title": "BoxBallet",
-                "tmdb_id": 746080,
-                "imdb_id": "tt14825972"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Animated Short",
-        "year": "2021",
-        "nominees": [
-            "Robin Robin"
-        ],
-        "movies": [
-            {
-                "title": "Robin Robin",
-                "tmdb_id": 649928,
-                "imdb_id": "tt11332850"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2021",
-        "nominees": [
-            "The Long Goodbye"
-        ],
-        "movies": [
-            {
-                "title": "The Long Goodbye",
-                "tmdb_id": 681015,
-                "imdb_id": "tt11924384"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2021",
-        "nominees": [
-            "Take and Run"
-        ],
-        "movies": [
-            {
-                "title": "Take and Run",
-                "tmdb_id": 853760,
-                "imdb_id": "tt7914938"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2021",
-        "nominees": [
-            "The Dress"
-        ],
-        "movies": [
-            {
-                "title": "The Dress",
-                "tmdb_id": 737496,
-                "imdb_id": "tt12299764"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2021",
-        "nominees": [
-            "On My Mind"
-        ],
-        "movies": [
-            {
-                "title": "On My Mind",
-                "tmdb_id": 918627,
-                "imdb_id": "tt15289736"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-        "year": "2021",
-        "nominees": [
-            "Please Hold"
-        ],
-        "movies": [
-            {
-                "title": "Please Hold",
-                "tmdb_id": 741607,
-                "imdb_id": "tt11383280"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Patrice Vermette",
-            "Zsuzsanna Sipos"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Tamara Deverell",
-            "Shane Vieau"
-        ],
-        "movies": [
-            {
-                "title": "Nightmare Alley",
-                "tmdb_id": 597208,
-                "imdb_id": "tt7740496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Grant Major",
-            "Amber Richards"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Stefan Dechant",
-            "Nancy Haigh"
-        ],
-        "movies": [
-            {
-                "title": "The Tragedy of Macbeth",
-                "tmdb_id": 591538,
-                "imdb_id": "tt10095582"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Production Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Adam Stockhausen",
-            "Rena DeAngelo"
-        ],
-        "movies": [
-            {
-                "title": "West Side Story",
-                "tmdb_id": 511809,
-                "imdb_id": "tt3581652"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2021",
-        "nominees": [
-            "Greig Fraser"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2021",
-        "nominees": [
-            "Dan Laustsen"
-        ],
-        "movies": [
-            {
-                "title": "Nightmare Alley",
-                "tmdb_id": 597208,
-                "imdb_id": "tt7740496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2021",
-        "nominees": [
-            "Ari Wegner"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2021",
-        "nominees": [
-            "Bruno Delbonnel"
-        ],
-        "movies": [
-            {
-                "title": "The Tragedy of Macbeth",
-                "tmdb_id": 591538,
-                "imdb_id": "tt10095582"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Cinematography (Color)",
-        "year": "2021",
-        "nominees": [
-            "Janusz Kaminski"
-        ],
-        "movies": [
-            {
-                "title": "West Side Story",
-                "tmdb_id": 511809,
-                "imdb_id": "tt3581652"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2021",
-        "nominees": [
-            "Joe Walker"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2021",
-        "nominees": [
-            "Hank Corwin"
-        ],
-        "movies": [
-            {
-                "title": "Don't Look Up",
-                "tmdb_id": 646380,
-                "imdb_id": "tt11286314"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2021",
-        "nominees": [
-            "Pamela Martin"
-        ],
-        "movies": [
-            {
-                "title": "King Richard",
-                "tmdb_id": 614917,
-                "imdb_id": "tt9620288"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2021",
-        "nominees": [
-            "Peter Sciberras"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Film Editing",
-        "year": "2021",
-        "nominees": [
-            "Myron Kerstein",
-            "Andrew Weisblum"
-        ],
-        "movies": [
-            {
-                "title": "tick, tick... BOOM!",
-                "tmdb_id": 537116,
-                "imdb_id": "tt8721424"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2021",
-        "nominees": [
-            "Paul Lambert",
-            "Tristen Myles",
-            "Brian Connor",
-            "Gerd Nefzer"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2021",
-        "nominees": [
-            "Swen Gillberg",
-            "Bryan Grill",
-            "Nikos Kalaitzidis",
-            "Dan Sudick"
-        ],
-        "movies": [
-            {
-                "title": "Free Guy",
-                "tmdb_id": 550988,
-                "imdb_id": "tt6264654"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2021",
-        "nominees": [
-            "Charlie Noble",
-            "Joel Green",
-            "Jonathan Fawkner",
-            "Chris Corbould"
-        ],
-        "movies": [
-            {
-                "title": "No Time to Die",
-                "tmdb_id": 370172,
-                "imdb_id": "tt2382320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2021",
-        "nominees": [
-            "Christopher Townsend",
-            "Joe Farrell",
-            "Sean Noel Walker",
-            "Dan Oliver"
-        ],
-        "movies": [
-            {
-                "title": "Shang-Chi and the Legend of the Ten Rings",
-                "tmdb_id": 566525,
-                "imdb_id": "tt9376612"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Visual/Special Effects",
-        "year": "2021",
-        "nominees": [
-            "Kelly Port",
-            "Chris Waegner",
-            "Scott Edelstein",
-            "Dan Sudick"
-        ],
-        "movies": [
-            {
-                "title": "Spider-Man: No Way Home",
-                "tmdb_id": 634649,
-                "imdb_id": "tt10872600"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2021",
-        "nominees": [
-            "Mac Ruth",
-            "Mark Mangini",
-            "Theo Green",
-            "Doug Hemphill",
-            "Ron Bartlett"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2021",
-        "nominees": [
-            "Denise Yarde",
-            "Simon Chase",
-            "James Mather",
-            "Niv Adiri"
-        ],
-        "movies": [
-            {
-                "title": "Belfast",
-                "tmdb_id": 777270,
-                "imdb_id": "tt12789558"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2021",
-        "nominees": [
-            "Simon Hayes",
-            "Oliver Tarney",
-            "James Harrison",
-            "Paul Massey",
-            "Mark Taylor"
-        ],
-        "movies": [
-            {
-                "title": "No Time to Die",
-                "tmdb_id": 370172,
-                "imdb_id": "tt2382320"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2021",
-        "nominees": [
-            "Richard Flynn",
-            "Robert Mackenzie",
-            "Tara Webb"
-        ],
-        "movies": [
-            {
-                "title": "The Power of the Dog",
-                "tmdb_id": 600583,
-                "imdb_id": "tt10293406"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Sound Mixing",
-        "year": "2021",
-        "nominees": [
-            "Tod A. Maitland",
-            "Gary Rydstrom",
-            "Brian Chumney",
-            "Andy Nelson",
-            "Shawn Murphy"
-        ],
-        "movies": [
-            {
-                "title": "West Side Story",
-                "tmdb_id": 511809,
-                "imdb_id": "tt3581652"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2021",
-        "nominees": [
-            "Linda Dowds",
-            "Stephanie Ingram",
-            "Justin Raleigh"
-        ],
-        "movies": [
-            {
-                "title": "The Eyes of Tammy Faye",
-                "tmdb_id": 601470,
-                "imdb_id": "tt9115530"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2021",
-        "nominees": [
-            "Mike Marino",
-            "Stacey Morris",
-            "Carla Farmer"
-        ],
-        "movies": [
-            {
-                "title": "Coming 2 America",
-                "tmdb_id": 484718,
-                "imdb_id": "tt6802400"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2021",
-        "nominees": [
-            "Nadia Stacey",
-            "Naomi Donne",
-            "Julia Vernon"
-        ],
-        "movies": [
-            {
-                "title": "Cruella",
-                "tmdb_id": 337404,
-                "imdb_id": "tt3228774"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2021",
-        "nominees": [
-            "Donald Mowat",
-            "Love Larson",
-            "Eva von Bahr"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Makeup and Hairstyling",
-        "year": "2021",
-        "nominees": [
-            "Goran Lundstrom",
-            "Anna Carin Lock",
-            "Frederic Aspiras"
-        ],
-        "movies": [
-            {
-                "title": "House of Gucci",
-                "tmdb_id": 644495,
-                "imdb_id": "tt11214590"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Jenny Beavan"
-        ],
-        "movies": [
-            {
-                "title": "Cruella",
-                "tmdb_id": 337404,
-                "imdb_id": "tt3228774"
-            }
-        ],
-        "won": true
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Massimo Cantini Parrini"
-        ],
-        "movies": [
-            {
-                "title": "Cyrano",
-                "tmdb_id": 730047,
-                "imdb_id": "tt12889404"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Jacqueline West",
-            "Bob Morgan"
-        ],
-        "movies": [
-            {
-                "title": "Dune",
-                "tmdb_id": 438631,
-                "imdb_id": "tt1160419"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Luis Sequeira"
-        ],
-        "movies": [
-            {
-                "title": "Nightmare Alley",
-                "tmdb_id": 597208,
-                "imdb_id": "tt7740496"
-            }
-        ],
-        "won": false
-    },
-    {
-        "category": "Best Costume Design (Color)",
-        "year": "2021",
-        "nominees": [
-            "Paul Tazewell"
-        ],
-        "movies": [
-            {
-                "title": "West Side Story",
-                "tmdb_id": 511809,
-                "imdb_id": "tt3581652"
-            }
-        ],
-        "won": false
-    }
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Being the Ricardos",
+    "FilmId": "tt4995540",
+    "Name": "Javier Bardem",
+    "Nominees": "Javier Bardem",
+    "NomineeIds": "nm0000849",
+    "Winner": "",
+    "Detail": "Desi Arnaz",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Benedict Cumberbatch",
+    "Nominees": "Benedict Cumberbatch",
+    "NomineeIds": "nm1212722",
+    "Winner": "",
+    "Detail": "Phil Burbank",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "tick, tick...BOOM!",
+    "FilmId": "tt8721424",
+    "Name": "Andrew Garfield",
+    "Nominees": "Andrew Garfield",
+    "NomineeIds": "nm1940449",
+    "Winner": "",
+    "Detail": "Jon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "King Richard",
+    "FilmId": "tt9620288",
+    "Name": "Will Smith",
+    "Nominees": "Will Smith",
+    "NomineeIds": "nm0000226",
+    "Winner": "True",
+    "Detail": "Richard Williams",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "The Tragedy of Macbeth",
+    "FilmId": "tt10095582",
+    "Name": "Denzel Washington",
+    "Nominees": "Denzel Washington",
+    "NomineeIds": "nm0000243",
+    "Winner": "",
+    "Detail": "Macbeth",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Belfast",
+    "FilmId": "tt12789558",
+    "Name": "Ciarán Hinds",
+    "Nominees": "Ciarán Hinds",
+    "NomineeIds": "nm0001354",
+    "Winner": "",
+    "Detail": "Pop",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "CODA",
+    "FilmId": "tt10366460",
+    "Name": "Troy Kotsur",
+    "Nominees": "Troy Kotsur",
+    "NomineeIds": "nm1319274",
+    "Winner": "True",
+    "Detail": "Frank Rossi",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Jesse Plemons",
+    "Nominees": "Jesse Plemons",
+    "NomineeIds": "nm0687146",
+    "Winner": "",
+    "Detail": "George Burbank",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Being the Ricardos",
+    "FilmId": "tt4995540",
+    "Name": "J.K. Simmons",
+    "Nominees": "J.K. Simmons",
+    "NomineeIds": "nm0799777",
+    "Winner": "",
+    "Detail": "William Frawley",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Kodi Smit-McPhee",
+    "Nominees": "Kodi Smit-McPhee",
+    "NomineeIds": "nm2240346",
+    "Winner": "",
+    "Detail": "Peter Gordon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Eyes of Tammy Faye",
+    "FilmId": "tt9115530",
+    "Name": "Jessica Chastain",
+    "Nominees": "Jessica Chastain",
+    "NomineeIds": "nm1567113",
+    "Winner": "True",
+    "Detail": "Tammy Faye Bakker",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Lost Daughter",
+    "FilmId": "tt9100054",
+    "Name": "Olivia Colman",
+    "Nominees": "Olivia Colman",
+    "NomineeIds": "nm1469236",
+    "Winner": "",
+    "Detail": "Leda",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Parallel Mothers",
+    "FilmId": "tt12618926",
+    "Name": "Penélope Cruz",
+    "Nominees": "Penélope Cruz",
+    "NomineeIds": "nm0004851",
+    "Winner": "",
+    "Detail": "Janis",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Being the Ricardos",
+    "FilmId": "tt4995540",
+    "Name": "Nicole Kidman",
+    "Nominees": "Nicole Kidman",
+    "NomineeIds": "nm0000173",
+    "Winner": "",
+    "Detail": "Lucille Ball",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Spencer",
+    "FilmId": "tt12536294",
+    "Name": "Kristen Stewart",
+    "Nominees": "Kristen Stewart",
+    "NomineeIds": "nm0829576",
+    "Winner": "",
+    "Detail": "Diana",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Lost Daughter",
+    "FilmId": "tt9100054",
+    "Name": "Jessie Buckley",
+    "Nominees": "Jessie Buckley",
+    "NomineeIds": "nm2976580",
+    "Winner": "",
+    "Detail": "Young Leda",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "West Side Story",
+    "FilmId": "tt3581652",
+    "Name": "Ariana DeBose",
+    "Nominees": "Ariana DeBose",
+    "NomineeIds": "nm3663196",
+    "Winner": "True",
+    "Detail": "Anita",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Belfast",
+    "FilmId": "tt12789558",
+    "Name": "Judi Dench",
+    "Nominees": "Judi Dench",
+    "NomineeIds": "nm0001132",
+    "Winner": "",
+    "Detail": "Granny",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Kirsten Dunst",
+    "Nominees": "Kirsten Dunst",
+    "NomineeIds": "nm0000379",
+    "Winner": "",
+    "Detail": "Rose Gordon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "King Richard",
+    "FilmId": "tt9620288",
+    "Name": "Aunjanue Ellis",
+    "Nominees": "Aunjanue Ellis",
+    "NomineeIds": "nm0254712",
+    "Winner": "",
+    "Detail": "Oracene 'Brandy' Williams",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Encanto",
+    "FilmId": "tt2953050",
+    "Name": "Jared Bush, Byron Howard, Yvett Merino and Clark Spencer",
+    "Nominees": "Jared Bush|Byron Howard|Yvett Merino|Clark Spencer",
+    "NomineeIds": "nm1158544|nm0397174|nm2486917|nm1192875",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Flee",
+    "FilmId": "tt8430054",
+    "Name": "Jonas Poher Rasmussen, Monica Hellström, Signe Byrge Sørensen and Charlotte De La Gournerie",
+    "Nominees": "Jonas Poher Rasmussen|Monica Hellström|Signe Byrge Sørensen|Charlotte De La Gournerie",
+    "NomineeIds": "nm1853542|nm1445547|nm1718147|nm7753662",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Luca",
+    "FilmId": "tt12801262",
+    "Name": "Enrico Casarosa and Andrea Warren",
+    "Nominees": "Enrico Casarosa|Andrea Warren",
+    "NomineeIds": "nm1154836|nm0912717",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "The Mitchells vs. the Machines",
+    "FilmId": "tt7979580",
+    "Name": "Mike Rianda, Phil Lord, Christopher Miller and Kurt Albrecht",
+    "Nominees": "Mike Rianda|Phil Lord|Christopher Miller|Kurt Albrecht",
+    "NomineeIds": "nm5106831|nm0520488|nm0588087|nm0016957",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Raya and the Last Dragon",
+    "FilmId": "tt5109280",
+    "Name": "Don Hall, Carlos López Estrada, Osnat Shurer and Peter Del Vecho",
+    "Nominees": "Don Hall|Carlos López Estrada|Osnat Shurer|Peter Del Vecho",
+    "NomineeIds": "nm2320658|nm2788015|nm1575873|nm1275326",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Greig Fraser",
+    "Nominees": "Greig Fraser",
+    "NomineeIds": "nm0292132",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Nightmare Alley",
+    "FilmId": "tt7740496",
+    "Name": "Dan Laustsen",
+    "Nominees": "Dan Laustsen",
+    "NomineeIds": "nm0491565",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Ari Wegner",
+    "Nominees": "Ari Wegner",
+    "NomineeIds": "nm1645832",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Tragedy of Macbeth",
+    "FilmId": "tt10095582",
+    "Name": "Bruno Delbonnel",
+    "Nominees": "Bruno Delbonnel",
+    "NomineeIds": "nm0216632",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "West Side Story",
+    "FilmId": "tt3581652",
+    "Name": "Janusz Kaminski",
+    "Nominees": "Janusz Kaminski",
+    "NomineeIds": "nm0001405",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Cruella",
+    "FilmId": "tt3228774",
+    "Name": "Jenny Beavan",
+    "Nominees": "Jenny Beavan",
+    "NomineeIds": "nm0064746",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Cyrano",
+    "FilmId": "tt12889404",
+    "Name": "Massimo Cantini Parrini and Jacqueline Durran",
+    "Nominees": "Massimo Cantini Parrini|Jacqueline Durran",
+    "NomineeIds": "nm1964768|nm0244330",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Jacqueline West and Robert Morgan",
+    "Nominees": "Jacqueline West|Robert Morgan",
+    "NomineeIds": "nm0922113|nm0604503",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Nightmare Alley",
+    "FilmId": "tt7740496",
+    "Name": "Luis Sequeira",
+    "Nominees": "Luis Sequeira",
+    "NomineeIds": "nm0784751",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "West Side Story",
+    "FilmId": "tt3581652",
+    "Name": "Paul Tazewell",
+    "Nominees": "Paul Tazewell",
+    "NomineeIds": "nm3477899",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Belfast",
+    "FilmId": "tt12789558",
+    "Name": "Kenneth Branagh",
+    "Nominees": "Kenneth Branagh",
+    "NomineeIds": "nm0000110",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Drive My Car",
+    "FilmId": "tt14039582",
+    "Name": "Ryusuke Hamaguchi",
+    "Nominees": "Ryusuke Hamaguchi",
+    "NomineeIds": "nm3152327",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Licorice Pizza",
+    "FilmId": "tt11271038",
+    "Name": "Paul Thomas Anderson",
+    "Nominees": "Paul Thomas Anderson",
+    "NomineeIds": "nm0000759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Jane Campion",
+    "Nominees": "Jane Campion",
+    "NomineeIds": "nm0001005",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "West Side Story",
+    "FilmId": "tt3581652",
+    "Name": "Steven Spielberg",
+    "Nominees": "Steven Spielberg",
+    "NomineeIds": "nm0000229",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Ascension",
+    "FilmId": "tt14505430",
+    "Name": "Jessica Kingdon, Kira Simon-Kennedy and Nathan Truesdell",
+    "Nominees": "Jessica Kingdon|Kira Simon-Kennedy|Nathan Truesdell",
+    "NomineeIds": "nm4398489|nm5325825|nm1909515",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Attica",
+    "FilmId": "tt12482898",
+    "Name": "Stanley Nelson and Traci A. Curry",
+    "Nominees": "Stanley Nelson|Traci A. Curry",
+    "NomineeIds": "nm0625747|nm3055381",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Flee",
+    "FilmId": "tt8430054",
+    "Name": "Jonas Poher Rasmussen, Monica Hellström, Signe Byrge Sørensen and Charlotte De La Gournerie",
+    "Nominees": "Jonas Poher Rasmussen|Monica Hellström|Signe Byrge Sørensen|Charlotte De La Gournerie",
+    "NomineeIds": "nm1853542|nm1445547|nm1718147|nm7753662",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+    "FilmId": "tt11422728",
+    "Name": "Ahmir \\\"Questlove\\\" Thompson, Joseph Patel, Robert Fyvolent and David Dinerstein",
+    "Nominees": "Ahmir \\\"Questlove\\\" Thompson|Joseph Patel|Robert Fyvolent|David Dinerstein",
+    "NomineeIds": "nm0859821|nm1764919|nm1435457|nm2517209",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Writing with Fire",
+    "FilmId": "tt13630174",
+    "Name": "Rintu Thomas and Sushmit Ghosh",
+    "Nominees": "Rintu Thomas|Sushmit Ghosh",
+    "NomineeIds": "nm4045125|nm4424010",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Audible",
+    "FilmId": "tt12771540",
+    "Name": "Matt Ogens and Geoff McLean",
+    "Nominees": "Matt Ogens|Geoff McLean",
+    "NomineeIds": "nm0644654|nm2458844",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Lead Me Home",
+    "FilmId": "tt15339848",
+    "Name": "Pedro Kos and Jon Shenk",
+    "Nominees": "Pedro Kos|Jon Shenk",
+    "NomineeIds": "nm1310430|nm0791556",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "The Queen of Basketball",
+    "FilmId": "tt14513236",
+    "Name": "Ben Proudfoot",
+    "Nominees": "Ben Proudfoot",
+    "NomineeIds": "nm3988897",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Three Songs for Benazir",
+    "FilmId": "tt14608922",
+    "Name": "Elizabeth Mirzaei and Gulistan Mirzaei",
+    "Nominees": "Elizabeth Mirzaei|Gulistan Mirzaei",
+    "NomineeIds": "nm4641608|nm7902132",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "When We Were Bullies",
+    "FilmId": "tt13796488",
+    "Name": "Jay Rosenblatt",
+    "Nominees": "Jay Rosenblatt",
+    "NomineeIds": "nm0742401",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Don't Look Up",
+    "FilmId": "tt11286314",
+    "Name": "Hank Corwin",
+    "Nominees": "Hank Corwin",
+    "NomineeIds": "nm0181650",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Joe Walker",
+    "Nominees": "Joe Walker",
+    "NomineeIds": "nm0907863",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "King Richard",
+    "FilmId": "tt9620288",
+    "Name": "Pamela Martin",
+    "Nominees": "Pamela Martin",
+    "NomineeIds": "nm0552862",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Peter Sciberras",
+    "Nominees": "Peter Sciberras",
+    "NomineeIds": "nm3038680",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "tick, tick...BOOM!",
+    "FilmId": "tt8721424",
+    "Name": "Myron Kerstein and Andrew Weisblum",
+    "Nominees": "Myron Kerstein|Andrew Weisblum",
+    "NomineeIds": "nm0450005|nm0918733",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Drive My Car",
+    "FilmId": "tt14039582",
+    "Name": "Japan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Flee",
+    "FilmId": "tt8430054",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "The Hand of God",
+    "FilmId": "tt12680684",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "Lunana: A Yak in the Classroom",
+    "FilmId": "tt10189300",
+    "Name": "Bhutan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Film": "The Worst Person in the World",
+    "FilmId": "tt10370710",
+    "Name": "Norway",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Coming 2 America",
+    "FilmId": "tt6802400",
+    "Name": "Mike Marino, Stacey Morris and Carla Farmer",
+    "Nominees": "Mike Marino|Stacey Morris|Carla Farmer",
+    "NomineeIds": "nm0002514|nm0606943|nm0267732",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Cruella",
+    "FilmId": "tt3228774",
+    "Name": "Nadia Stacey, Naomi Donne and Julia Vernon",
+    "Nominees": "Nadia Stacey|Naomi Donne|Julia Vernon",
+    "NomineeIds": "nm2854751|nm0232644|nm1861004",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Donald Mowat, Love Larson and Eva von Bahr",
+    "Nominees": "Donald Mowat|Love Larson|Eva von Bahr",
+    "NomineeIds": "nm0610244|nm1037627|nm0901913",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "The Eyes of Tammy Faye",
+    "FilmId": "tt9115530",
+    "Name": "Linda Dowds, Stephanie Ingram and Justin Raleigh",
+    "Nominees": "Linda Dowds|Stephanie Ingram|Justin Raleigh",
+    "NomineeIds": "nm0235722|nm0409031|nm0707679",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Film": "House of Gucci",
+    "FilmId": "tt11214590",
+    "Name": "Göran Lundström, Anna Carin Lock and Frederic Aspiras",
+    "Nominees": "Göran Lundström|Anna Carin Lock|Frederic Aspiras",
+    "NomineeIds": "nm0526615|nm2049258|nm3139710",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Don't Look Up",
+    "FilmId": "tt11286314",
+    "Name": "Nicholas Britell",
+    "Nominees": "Nicholas Britell",
+    "NomineeIds": "nm1615109",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Hans Zimmer",
+    "Nominees": "Hans Zimmer",
+    "NomineeIds": "nm0001877",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Encanto",
+    "FilmId": "tt2953050",
+    "Name": "Germaine Franco",
+    "Nominees": "Germaine Franco",
+    "NomineeIds": "nm1184901",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Parallel Mothers",
+    "FilmId": "tt12618926",
+    "Name": "Alberto Iglesias",
+    "Nominees": "Alberto Iglesias",
+    "NomineeIds": "nm0407076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Jonny Greenwood",
+    "Nominees": "Jonny Greenwood",
+    "NomineeIds": "nm0339351",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "King Richard",
+    "FilmId": "tt9620288",
+    "Name": "Music and Lyric by DIXSON and Beyoncé Knowles-Carter",
+    "Nominees": "DIXSON|Beyoncé Knowles-Carter",
+    "NomineeIds": "nm13152182|nm0461498",
+    "Winner": "",
+    "Detail": "Be Alive",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Encanto",
+    "FilmId": "tt2953050",
+    "Name": "Music and Lyric by Lin-Manuel Miranda",
+    "Nominees": "Lin-Manuel Miranda",
+    "NomineeIds": "nm0592135",
+    "Winner": "",
+    "Detail": "Dos Oruguitas",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Belfast",
+    "FilmId": "tt12789558",
+    "Name": "Music and Lyric by Van Morrison",
+    "Nominees": "Van Morrison",
+    "NomineeIds": "nm0607341",
+    "Winner": "",
+    "Detail": "Down To Joy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "No Time to Die",
+    "FilmId": "tt2382320",
+    "Name": "Music and Lyric by Billie Eilish and Finneas O'Connell",
+    "Nominees": "Billie Eilish|Finneas O'Connell",
+    "NomineeIds": "nm8483808|nm3906552",
+    "Winner": "True",
+    "Detail": "No Time To Die",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Four Good Days",
+    "FilmId": "tt10344522",
+    "Name": "Music and Lyric by Diane Warren",
+    "Nominees": "Diane Warren",
+    "NomineeIds": "nm0005534",
+    "Winner": "",
+    "Detail": "Somehow You Do",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Belfast",
+    "FilmId": "tt12789558",
+    "Name": "Laura Berwick, Kenneth Branagh, Becca Kovacik and Tamar Thomas, Producers",
+    "Nominees": "Laura Berwick|Kenneth Branagh|Becca Kovacik|Tamar Thomas",
+    "NomineeIds": "nm2233031|nm0000110|nm2228812|nm0859561",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "CODA",
+    "FilmId": "tt10366460",
+    "Name": "Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers",
+    "Nominees": "Philippe Rousselet|Fabrice Gianfermi|Patrick Wachsberger",
+    "NomineeIds": "nm0746041|nm1818350|nm0905163",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Don't Look Up",
+    "FilmId": "tt11286314",
+    "Name": "Adam McKay and Kevin Messick, Producers",
+    "Nominees": "Adam McKay|Kevin Messick",
+    "NomineeIds": "nm0570912|nm0582111",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Drive My Car",
+    "FilmId": "tt14039582",
+    "Name": "Teruhisa Yamamoto, Producer",
+    "Nominees": "Teruhisa Yamamoto",
+    "NomineeIds": "nm6167249",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Mary Parent, Denis Villeneuve and Cale Boyter, Producers",
+    "Nominees": "Mary Parent|Denis Villeneuve|Cale Boyter",
+    "NomineeIds": "nm0661289|nm0898288|nm1212547",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "King Richard",
+    "FilmId": "tt9620288",
+    "Name": "Tim White, Trevor White and Will Smith, Producers",
+    "Nominees": "Tim White|Trevor White|Will Smith",
+    "NomineeIds": "nm2807321|nm2809465|nm0000226",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Licorice Pizza",
+    "FilmId": "tt11271038",
+    "Name": "Sara Murphy, Adam Somner and Paul Thomas Anderson, Producers",
+    "Nominees": "Sara Murphy|Adam Somner|Paul Thomas Anderson",
+    "NomineeIds": "nm2072976|nm0814114|nm0000759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Nightmare Alley",
+    "FilmId": "tt7740496",
+    "Name": "Guillermo del Toro, J. Miles Dale and Bradley Cooper, Producers",
+    "Nominees": "Guillermo del Toro|J. Miles Dale|Bradley Cooper",
+    "NomineeIds": "nm0868219|nm0197703|nm0177896",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Jane Campion, Tanya Seghatchian, Emile Sherman, Iain Canning and Roger Frappier, Producers",
+    "Nominees": "Jane Campion|Tanya Seghatchian|Emile Sherman|Iain Canning|Roger Frappier",
+    "NomineeIds": "nm0001005|nm0782036|nm0792431|nm2096617|nm0292024",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "West Side Story",
+    "FilmId": "tt3581652",
+    "Name": "Steven Spielberg and Kristie Macosko Krieger, Producers",
+    "Nominees": "Steven Spielberg|Kristie Macosko Krieger",
+    "NomineeIds": "nm0000229|nm1069736",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Production Design: Patrice Vermette; Set Decoration: Zsuzsanna Sipos",
+    "Nominees": "Patrice Vermette|Zsuzsanna Sipos",
+    "NomineeIds": "nm0894411|nm4722060",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "Nightmare Alley",
+    "FilmId": "tt7740496",
+    "Name": "Production Design: Tamara Deverell; Set Decoration: Shane Vieau",
+    "Nominees": "Tamara Deverell|Shane Vieau",
+    "NomineeIds": "nm0222383|nm0896580",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Production Design: Grant Major; Set Decoration: Amber Richards",
+    "Nominees": "Grant Major|Amber Richards",
+    "NomineeIds": "nm0538194|nm1400384",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "The Tragedy of Macbeth",
+    "FilmId": "tt10095582",
+    "Name": "Production Design: Stefan Dechant; Set Decoration: Nancy Haigh",
+    "Nominees": "Stefan Dechant|Nancy Haigh",
+    "NomineeIds": "nm0213754|nm0354101",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "PRODUCTION DESIGN",
+    "Film": "West Side Story",
+    "FilmId": "tt3581652",
+    "Name": "Production Design: Adam Stockhausen; Set Decoration: Rena DeAngelo",
+    "Nominees": "Adam Stockhausen|Rena DeAngelo",
+    "NomineeIds": "nm1360914|nm0213076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Affairs of the Art",
+    "FilmId": "tt14293560",
+    "Name": "Joanna Quinn and Les Mills",
+    "Nominees": "Joanna Quinn|Les Mills",
+    "NomineeIds": "nm0703885|nm0995104",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Bestia",
+    "FilmId": "tt14825950",
+    "Name": "Hugo Covarrubias and Tevo Díaz",
+    "Nominees": "Hugo Covarrubias|Tevo Díaz",
+    "NomineeIds": "nm4587241|nm0246746",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Boxballet",
+    "FilmId": "tt14825972",
+    "Name": "Anton Dyakov",
+    "Nominees": "Anton Dyakov",
+    "NomineeIds": "nm6436434",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Robin Robin",
+    "FilmId": "tt11332850",
+    "Name": "Dan Ojari and Mikey Please",
+    "Nominees": "Dan Ojari|Mikey Please",
+    "NomineeIds": "nm4570900|nm3170529",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "The Windshield Wiper",
+    "FilmId": "tt9464038",
+    "Name": "Alberto Mielgo and Leo Sanchez",
+    "Nominees": "Alberto Mielgo|Leo Sanchez",
+    "NomineeIds": "nm2856960|nm1912965",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Ala Kachuu - Take and Run",
+    "FilmId": "tt7914938",
+    "Name": "Maria Brendle and Nadine Lüchinger",
+    "Nominees": "Maria Brendle|Nadine Lüchinger",
+    "NomineeIds": "nm6248692|nm6603553",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Dress",
+    "FilmId": "tt12299764",
+    "Name": "Tadeusz Lysiak and Maciej Slesicki",
+    "Nominees": "Tadeusz Lysiak|Maciej Slesicki",
+    "NomineeIds": "nm9472233|nm0805751",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Long Goodbye",
+    "FilmId": "tt11924384",
+    "Name": "Aneil Karia and Riz Ahmed",
+    "Nominees": "Aneil Karia|Riz Ahmed",
+    "NomineeIds": "nm4090848|nm1981893",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "On My Mind",
+    "FilmId": "tt15289736",
+    "Name": "Martin Strange-Hansen and Kim Magnusson",
+    "Nominees": "Martin Strange-Hansen|Kim Magnusson",
+    "NomineeIds": "nm1015687|nm0536385",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Please Hold",
+    "FilmId": "tt11383280",
+    "Name": "K.D. Dávila and Levin Menekse",
+    "Nominees": "K.D. Dávila|Levin Menekse",
+    "NomineeIds": "nm4944814|nm11049074",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Belfast",
+    "FilmId": "tt12789558",
+    "Name": "Denise Yarde, Simon Chase, James Mather and Niv Adiri",
+    "Nominees": "Denise Yarde|Simon Chase|James Mather|Niv Adiri",
+    "NomineeIds": "nm1383719|nm1121283|nm0558450|nm1866364",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Mac Ruth, Mark Mangini, Theo Green, Doug Hemphill and Ron Bartlett",
+    "Nominees": "Mac Ruth|Mark Mangini|Theo Green|Doug Hemphill|Ron Bartlett",
+    "NomineeIds": "nm0002314|nm0005625|nm1640468|nm0376153|nm0058897",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "No Time to Die",
+    "FilmId": "tt2382320",
+    "Name": "Simon Hayes, Oliver Tarney, James Harrison, Paul Massey and Mark Taylor",
+    "Nominees": "Simon Hayes|Oliver Tarney|James Harrison|Paul Massey|Mark Taylor",
+    "NomineeIds": "nm1536532|nm0850549|nm0365639|nm0557338|nm0852837",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Richard Flynn, Robert Mackenzie and Tara Webb",
+    "Nominees": "Richard Flynn|Robert Mackenzie|Tara Webb",
+    "NomineeIds": "nm0283601|nm1464727|nm4155608",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "West Side Story",
+    "FilmId": "tt3581652",
+    "Name": "Tod A. Maitland, Gary Rydstrom, Brian Chumney, Andy Nelson and Shawn Murphy",
+    "Nominees": "Tod A. Maitland|Gary Rydstrom|Brian Chumney|Andy Nelson|Shawn Murphy",
+    "NomineeIds": "nm0537972|nm0003977|nm1014073|nm0625144|nm0004156",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Paul Lambert, Tristan Myles, Brian Connor and Gerd Nefzer",
+    "Nominees": "Paul Lambert|Tristan Myles|Brian Connor|Gerd Nefzer",
+    "NomineeIds": "nm0995902|nm1629597|nm0175391|nm0275382",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Free Guy",
+    "FilmId": "tt6264654",
+    "Name": "Swen Gillberg, Bryan Grill, Nikos Kalaitzidis and Dan Sudick",
+    "Nominees": "Swen Gillberg|Bryan Grill|Nikos Kalaitzidis|Dan Sudick",
+    "NomineeIds": "nm1089828|nm0341985|nm0435479|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "No Time to Die",
+    "FilmId": "tt2382320",
+    "Name": "Charlie Noble, Joel Green, Jonathan Fawkner and Chris Corbould",
+    "Nominees": "Charlie Noble|Joel Green|Jonathan Fawkner|Chris Corbould",
+    "NomineeIds": "nm0633563|nm2539473|nm1000834|nm0179269",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Shang-Chi and the Legend of the Ten Rings",
+    "FilmId": "tt9376612",
+    "Name": "Christopher Townsend, Joe Farrell, Sean Noel Walker and Dan Oliver",
+    "Nominees": "Christopher Townsend|Joe Farrell|Sean Noel Walker|Dan Oliver",
+    "NomineeIds": "nm0870102|nm1062239|nm2395514|nm0646807",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Spider-Man: No Way Home",
+    "FilmId": "tt10872600",
+    "Name": "Kelly Port, Chris Waegner, Scott Edelstein and Dan Sudick",
+    "Nominees": "Kelly Port|Chris Waegner|Scott Edelstein|Dan Sudick",
+    "NomineeIds": "nm0691883|nm0905637|nm1131786|nm0837203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "CODA",
+    "FilmId": "tt10366460",
+    "Name": "Screenplay by Siân Heder",
+    "Nominees": "Siân Heder",
+    "NomineeIds": "nm1571761",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Drive My Car",
+    "FilmId": "tt14039582",
+    "Name": "Screenplay by Ryusuke Hamaguchi, Takamasa Oe",
+    "Nominees": "Ryusuke Hamaguchi|Takamasa Oe",
+    "NomineeIds": "nm3152327|nm5087531",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Dune",
+    "FilmId": "tt1160419",
+    "Name": "Screenplay by Jon Spaihts and Denis Villeneuve and Eric Roth",
+    "Nominees": "Jon Spaihts|Denis Villeneuve|Eric Roth",
+    "NomineeIds": "nm3123612|nm0898288|nm0744839",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Lost Daughter",
+    "FilmId": "tt9100054",
+    "Name": "Written by Maggie Gyllenhaal",
+    "Nominees": "Maggie Gyllenhaal",
+    "NomineeIds": "nm0350454",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Power of the Dog",
+    "FilmId": "tt10293406",
+    "Name": "Written by Jane Campion",
+    "Nominees": "Jane Campion",
+    "NomineeIds": "nm0001005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Belfast",
+    "FilmId": "tt12789558",
+    "Name": "Written by Kenneth Branagh",
+    "Nominees": "Kenneth Branagh",
+    "NomineeIds": "nm0000110",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Don't Look Up",
+    "FilmId": "tt11286314",
+    "Name": "Screenplay by Adam McKay; Story by Adam McKay & David Sirota",
+    "Nominees": "Adam McKay|David Sirota",
+    "NomineeIds": "nm0570912|nm1998503",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "King Richard",
+    "FilmId": "tt9620288",
+    "Name": "Written by Zach Baylin",
+    "Nominees": "Zach Baylin",
+    "NomineeIds": "nm1598140",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Licorice Pizza",
+    "FilmId": "tt11271038",
+    "Name": "Written by Paul Thomas Anderson",
+    "Nominees": "Paul Thomas Anderson",
+    "NomineeIds": "nm0000759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Worst Person in the World",
+    "FilmId": "tt10370710",
+    "Name": "Written by Eskil Vogt, Joachim Trier",
+    "Nominees": "Eskil Vogt|Joachim Trier",
+    "NomineeIds": "nm1258777|nm1258686",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Danny Glover",
+    "Nominees": "Danny Glover",
+    "NomineeIds": "nm0000418",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Samuel L. Jackson",
+    "NomineeIds": "nm0000168",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Samuel L. Jackson, whose dynamic performances resonate across genres and generations of audiences worldwide."
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Elaine May",
+    "NomineeIds": "nm0561938",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Elaine May, writer, director, performer, pioneer whose bracing comedic spark illuminates us all."
+  },
+  {
+    "Ceremony": 94,
+    "Year": 2021,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Liv Ullmann",
+    "NomineeIds": "nm0880521",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Liv Ullmann, for her deeply affecting screen portrayals and lifelong commitment to exploring the human condition."
+  }
 ]

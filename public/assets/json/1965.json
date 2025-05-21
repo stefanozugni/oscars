@@ -1,1872 +1,2034 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1965",
-    "nominees": [
-      "The Sound of Music"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1965",
-    "nominees": [
-      "Darling"
-    ],
-    "movies": [
-      {
-        "title": "Darling",
-        "tmdb_id": 24134,
-        "imdb_id": "tt0059084"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1965",
-    "nominees": [
-      "Doctor Zhivago"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1965",
-    "nominees": [
-      "Ship of Fools"
-    ],
-    "movies": [
-      {
-        "title": "Ship of Fools",
-        "tmdb_id": 30080,
-        "imdb_id": "tt0059712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1965",
-    "nominees": [
-      "A Thousand Clowns"
-    ],
-    "movies": [
-      {
-        "title": "A Thousand Clowns",
-        "tmdb_id": 42731,
-        "imdb_id": "tt0059798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1965",
-    "nominees": [
-      "Lee Marvin"
-    ],
-    "movies": [
-      {
-        "title": "Cat Ballou",
-        "tmdb_id": 11694,
-        "imdb_id": "tt0059017"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1965",
-    "nominees": [
-      "Richard Burton"
-    ],
-    "movies": [
-      {
-        "title": "The Spy Who Came in from the Cold",
-        "tmdb_id": 13580,
-        "imdb_id": "tt0059749"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1965",
-    "nominees": [
-      "Laurence Olivier"
-    ],
-    "movies": [
-      {
-        "title": "Othello",
-        "tmdb_id": 44006,
-        "imdb_id": "tt0059555"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1965",
-    "nominees": [
-      "Rod Steiger"
-    ],
-    "movies": [
-      {
-        "title": "The Pawnbroker",
-        "tmdb_id": 20540,
-        "imdb_id": "tt0059575"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1965",
-    "nominees": [
-      "Oskar Werner"
-    ],
-    "movies": [
-      {
-        "title": "Ship of Fools",
-        "tmdb_id": 30080,
-        "imdb_id": "tt0059712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1965",
-    "nominees": [
-      "Julie Christie"
-    ],
-    "movies": [
-      {
-        "title": "Darling",
-        "tmdb_id": 24134,
-        "imdb_id": "tt0059084"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1965",
-    "nominees": [
-      "Julie Andrews"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1965",
-    "nominees": [
-      "Samantha Eggar"
-    ],
-    "movies": [
-      {
-        "title": "The Collector",
-        "tmdb_id": 42740,
-        "imdb_id": "tt0059043"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1965",
-    "nominees": [
-      "Elizabeth Hartman"
-    ],
-    "movies": [
-      {
-        "title": "A Patch of Blue",
-        "tmdb_id": 33364,
-        "imdb_id": "tt0059573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1965",
-    "nominees": [
-      "Simone Signoret"
-    ],
-    "movies": [
-      {
-        "title": "Ship of Fools",
-        "tmdb_id": 30080,
-        "imdb_id": "tt0059712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1965",
-    "nominees": [
-      "Martin Balsam"
-    ],
-    "movies": [
-      {
-        "title": "A Thousand Clowns",
-        "tmdb_id": 42731,
-        "imdb_id": "tt0059798"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1965",
-    "nominees": [
-      "Ian Bannen"
-    ],
-    "movies": [
-      {
-        "title": "The Flight of the Phoenix",
-        "tmdb_id": 10243,
-        "imdb_id": "tt0059183"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1965",
-    "nominees": [
-      "Tom Courtenay"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1965",
-    "nominees": [
-      "Michael Dunn"
-    ],
-    "movies": [
-      {
-        "title": "Ship of Fools",
-        "tmdb_id": 30080,
-        "imdb_id": "tt0059712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1965",
-    "nominees": [
-      "Frank Finlay"
-    ],
-    "movies": [
-      {
-        "title": "Othello",
-        "tmdb_id": 44006,
-        "imdb_id": "tt0059555"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1965",
-    "nominees": [
-      "Shelley Winters"
-    ],
-    "movies": [
-      {
-        "title": "A Patch of Blue",
-        "tmdb_id": 33364,
-        "imdb_id": "tt0059573"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1965",
-    "nominees": [
-      "Ruth Gordon"
-    ],
-    "movies": [
-      {
-        "title": "Inside Daisy Clover",
-        "tmdb_id": 49683,
-        "imdb_id": "tt0059314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1965",
-    "nominees": [
-      "Joyce Redman"
-    ],
-    "movies": [
-      {
-        "title": "Othello",
-        "tmdb_id": 44006,
-        "imdb_id": "tt0059555"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1965",
-    "nominees": [
-      "Maggie Smith"
-    ],
-    "movies": [
-      {
-        "title": "Othello",
-        "tmdb_id": 44006,
-        "imdb_id": "tt0059555"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1965",
-    "nominees": [
-      "Peggy Wood"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1965",
-    "nominees": [
-      "Robert Wise"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1965",
-    "nominees": [
-      "David Lean"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1965",
-    "nominees": [
-      "John Schlesinger"
-    ],
-    "movies": [
-      {
-        "title": "Darling",
-        "tmdb_id": 24134,
-        "imdb_id": "tt0059084"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1965",
-    "nominees": [
-      "William Wyler"
-    ],
-    "movies": [
-      {
-        "title": "The Collector",
-        "tmdb_id": 42740,
-        "imdb_id": "tt0059043"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1965",
-    "nominees": [
-      "Hiroshi Teshigahara"
-    ],
-    "movies": [
-      {
-        "title": "Woman in the Dunes",
-        "tmdb_id": 16672,
-        "imdb_id": "tt0058625"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Robert Bolt"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Herb Gardner"
-    ],
-    "movies": [
-      {
-        "title": "A Thousand Clowns",
-        "tmdb_id": 42731,
-        "imdb_id": "tt0059798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Walter Newman",
-      "Frank Pierson"
-    ],
-    "movies": [
-      {
-        "title": "Cat Ballou",
-        "tmdb_id": 11694,
-        "imdb_id": "tt0059017"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Abby Mann"
-    ],
-    "movies": [
-      {
-        "title": "Ship of Fools",
-        "tmdb_id": 30080,
-        "imdb_id": "tt0059712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Stanley Mann",
-      "John Kohn"
-    ],
-    "movies": [
-      {
-        "title": "The Collector",
-        "tmdb_id": 42740,
-        "imdb_id": "tt0059043"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Frederic Raphael"
-    ],
-    "movies": [
-      {
-        "title": "Darling",
-        "tmdb_id": 24134,
-        "imdb_id": "tt0059084"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Agenore Incrocci",
-      "Furio Scarpelli",
-      "Mario Monicelli",
-      "Tonino Guerra",
-      "Giorgio Salvioni",
-      "Suso Cecchi d'Amico"
-    ],
-    "movies": [
-      {
-        "title": "Casanova 70",
-        "tmdb_id": 3520,
-        "imdb_id": "tt0059015"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Jacques Demy"
-    ],
-    "movies": [
-      {
-        "title": "The Umbrellas of Cherbourg",
-        "tmdb_id": 5967,
-        "imdb_id": "tt0058450"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Franklin Coen",
-      "Frank Davis"
-    ],
-    "movies": [
-      {
-        "title": "The Train",
-        "tmdb_id": 3482,
-        "imdb_id": "tt0059825"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1965",
-    "nominees": [
-      "Jack Davies",
-      "Ken Annakin"
-    ],
-    "movies": [
-      {
-        "title": "Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes",
-        "tmdb_id": 10338,
-        "imdb_id": "tt0059797"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1965",
-    "nominees": [
-      "Maurice Jarre"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1965",
-    "nominees": [
-      "Jerry Goldsmith"
-    ],
-    "movies": [
-      {
-        "title": "A Patch of Blue",
-        "tmdb_id": 33364,
-        "imdb_id": "tt0059573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1965",
-    "nominees": [
-      "Michel Legrand",
-      "Jacques Demy"
-    ],
-    "movies": [
-      {
-        "title": "The Umbrellas of Cherbourg",
-        "tmdb_id": 5967,
-        "imdb_id": "tt0058450"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1965",
-    "nominees": [
-      "Alex North"
-    ],
-    "movies": [
-      {
-        "title": "The Agony and the Ecstasy",
-        "tmdb_id": 36815,
-        "imdb_id": "tt0058886"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1965",
-    "nominees": [
-      "Alfred Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Story Ever Told",
-        "tmdb_id": 2428,
-        "imdb_id": "tt0059245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1965",
-    "nominees": [
-      "Irwin Kostal"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1965",
-    "nominees": [
-      "Michel Legrand"
-    ],
-    "movies": [
-      {
-        "title": "The Umbrellas of Cherbourg",
-        "tmdb_id": 5967,
-        "imdb_id": "tt0058450"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1965",
-    "nominees": [
-      "Frank De Vol"
-    ],
-    "movies": [
-      {
-        "title": "Cat Ballou",
-        "tmdb_id": 11694,
-        "imdb_id": "tt0059017"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1965",
-    "nominees": [
-      "Don Walker"
-    ],
-    "movies": [
-      {
-        "title": "A Thousand Clowns",
-        "tmdb_id": 42731,
-        "imdb_id": "tt0059798"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1965",
-    "nominees": [
-      "Lionel Newman",
-      "Alexander Courage"
-    ],
-    "movies": [
-      {
-        "title": "The Pleasure Seekers",
-        "tmdb_id": 95358,
-        "imdb_id": "tt0058479"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1965",
-    "nominees": [
-      "The Shadow of Your Smile"
-    ],
-    "movies": [
-      {
-        "title": "The Sandpiper",
-        "tmdb_id": 77915,
-        "imdb_id": "tt0059674"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1965",
-    "nominees": [
-      "The Ballad of Cat Ballou"
-    ],
-    "movies": [
-      {
-        "title": "Cat Ballou",
-        "tmdb_id": 11694,
-        "imdb_id": "tt0059017"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1965",
-    "nominees": [
-      "I Will Wait for You"
-    ],
-    "movies": [
-      {
-        "title": "The Umbrellas of Cherbourg",
-        "tmdb_id": 5967,
-        "imdb_id": "tt0058450"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1965",
-    "nominees": [
-      "The Sweetheart Tree"
-    ],
-    "movies": [
-      {
-        "title": "The Great Race",
-        "tmdb_id": 11575,
-        "imdb_id": "tt0059243"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1965",
-    "nominees": [
-      "What's New Pussycat?"
-    ],
-    "movies": [
-      {
-        "title": "What's New Pussycat?",
-        "tmdb_id": 3681,
-        "imdb_id": "tt0059903"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1965",
-    "nominees": [
-      "The Shop on Main Street"
-    ],
-    "movies": [
-      {
-        "title": "The Shop on Main Street",
-        "tmdb_id": 25905,
-        "imdb_id": "tt0059527"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1965",
-    "nominees": [
-      "Blood on the Land"
-    ],
-    "movies": [
-      {
-        "title": "Blood on the Land",
-        "tmdb_id": 202764,
-        "imdb_id": "tt0057892"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1965",
-    "nominees": [
-      "Dear John"
-    ],
-    "movies": [
-      {
-        "title": "Dear John",
-        "tmdb_id": 75653,
-        "imdb_id": "tt0058281"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1965",
-    "nominees": [
-      "Kwaidan"
-    ],
-    "movies": [
-      {
-        "title": "Kwaidan",
-        "tmdb_id": 30959,
-        "imdb_id": "tt0058279"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1965",
-    "nominees": [
-      "Marriage Italian Style"
-    ],
-    "movies": [
-      {
-        "title": "Marriage Italian Style",
-        "tmdb_id": 49687,
-        "imdb_id": "tt0058335"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1965",
-    "nominees": [
-      "The Eleanor Roosevelt Story"
-    ],
-    "movies": [
-      {
-        "title": "The Eleanor Roosevelt Story",
-        "tmdb_id": 114510,
-        "imdb_id": "tt0059145"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1965",
-    "nominees": [
-      "The Battle of the Bulge... The Brave Rifles"
-    ],
-    "movies": [
-      {
-        "title": "The Battle of the Bulge... The Brave Rifles",
-        "tmdb_id": 149293,
-        "imdb_id": "tt0058948"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1965",
-    "nominees": [
-      "The Forth Road Bridge"
-    ],
-    "movies": [
-      {
-        "title": "The Forth Road Bridge",
-        "tmdb_id": 149294,
-        "imdb_id": "tt0059193"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1965",
-    "nominees": [
-      "Let My People Go: The Story of Israel"
-    ],
-    "movies": [
-      {
-        "title": "Let My People Go: The Story of Israel",
-        "tmdb_id": 149295,
-        "imdb_id": "tt0857321"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1965",
-    "nominees": [
-      "To Die in Madrid"
-    ],
-    "movies": [
-      {
-        "title": "To Die in Madrid",
-        "tmdb_id": 116684,
-        "imdb_id": "tt0057327"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1965",
-    "nominees": [
-      "To Be Alive!"
-    ],
-    "movies": [
-      {
-        "title": "To Be Alive!",
-        "tmdb_id": 243283,
-        "imdb_id": "tt0059814"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1965",
-    "nominees": [
-      "Mural on Our Street"
-    ],
-    "movies": [
-      {
-        "title": "Mural on Our Street",
-        "tmdb_id": 243284,
-        "imdb_id": "tt0059483"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1965",
-    "nominees": [
-      "Ouverture"
-    ],
-    "movies": [
-      {
-        "title": "Ouverture",
-        "tmdb_id": 220573,
-        "imdb_id": "tt0059559"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1965",
-    "nominees": [
-      "Point of View"
-    ],
-    "movies": [
-      {
-        "title": "Point of View",
-        "tmdb_id": 243286,
-        "imdb_id": "tt0059609"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1965",
-    "nominees": [
-      "Yeats Country"
-    ],
-    "movies": [
-      {
-        "title": "Yeats Country",
-        "tmdb_id": 243287,
-        "imdb_id": "tt0059926"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1965",
-    "nominees": [
-      "The Dot and the Line: A Romance in Lower Mathematics"
-    ],
-    "movies": [
-      {
-        "title": "The Dot and the Line: A Romance in Lower Mathematics",
-        "tmdb_id": 84617,
-        "imdb_id": "tt0059122"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1965",
-    "nominees": [
-      "Clay or The Origin of Species"
-    ],
-    "movies": [
-      {
-        "title": "Clay or The Origin of Species",
-        "tmdb_id": 243281,
-        "imdb_id": "tt0059041"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1965",
-    "nominees": [
-      "The Thieving Magpie"
-    ],
-    "movies": [
-      {
-        "title": "The Thieving Magpie",
-        "tmdb_id": 129979,
-        "imdb_id": "tt0059214"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1965",
-    "nominees": [
-      "The Chicken"
-    ],
-    "movies": [
-      {
-        "title": "The Chicken",
-        "tmdb_id": 34063,
-        "imdb_id": "tt0059613"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1965",
-    "nominees": [
-      "Wehrhafte Schweiz"
-    ],
-    "movies": [
-      {
-        "title": "Wehrhafte Schweiz",
-        "tmdb_id": 243272,
-        "imdb_id": "tt0059194"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1965",
-    "nominees": [
-      "Skaterdater"
-    ],
-    "movies": [
-      {
-        "title": "Skaterdater",
-        "tmdb_id": 190358,
-        "imdb_id": "tt0059725"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1965",
-    "nominees": [
-      "Snow"
-    ],
-    "movies": [
-      {
-        "title": "Snow",
-        "tmdb_id": 995290,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1965",
-    "nominees": [
-      "Timepiece"
-    ],
-    "movies": [
-      {
-        "title": "Timepiece",
-        "tmdb_id": 655925,
-        "imdb_id": null
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Robert Clatworthy",
-      "Joseph Kish"
-    ],
-    "movies": [
-      {
-        "title": "Ship of Fools",
-        "tmdb_id": 30080,
-        "imdb_id": "tt0059712"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Robert Emmet Smith",
-      "Frank Tuttle"
-    ],
-    "movies": [
-      {
-        "title": "King Rat",
-        "tmdb_id": 29586,
-        "imdb_id": "tt0059358"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "George Davis",
-      "Urie McCleary",
-      "Henry Grace",
-      "Charles S. Thompson"
-    ],
-    "movies": [
-      {
-        "title": "A Patch of Blue",
-        "tmdb_id": 33364,
-        "imdb_id": "tt0059573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Hal Pereira",
-      "Jack Poplin",
-      "Robert R. Benton",
-      "Joseph Kish"
-    ],
-    "movies": [
-      {
-        "title": "The Slender Thread",
-        "tmdb_id": 51054,
-        "imdb_id": "tt0059729"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Hal Pereira",
-      "Tambi Larsen",
-      "Ted Marshall",
-      "Josie MacAvin"
-    ],
-    "movies": [
-      {
-        "title": "The Spy Who Came in from the Cold",
-        "tmdb_id": 13580,
-        "imdb_id": "tt0059749"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "John Box",
-      "Terence Marsh",
-      "Dario Simoni"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "John DeCuir",
-      "Jack Martin Smith",
-      "Dario Simoni"
-    ],
-    "movies": [
-      {
-        "title": "The Agony and the Ecstasy",
-        "tmdb_id": 36815,
-        "imdb_id": "tt0058886"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "Richard Day",
-      "William Creber",
-      "David S. Hall",
-      "Ray Moyer",
-      "Fred M. MacLean",
-      "Norman Rockett"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Story Ever Told",
-        "tmdb_id": 2428,
-        "imdb_id": "tt0059245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "Robert Clatworthy",
-      "George James Hopkins"
-    ],
-    "movies": [
-      {
-        "title": "Inside Daisy Clover",
-        "tmdb_id": 49683,
-        "imdb_id": "tt0059314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "Boris Leven",
-      "Walter M. Scott",
-      "Ruby Levitt"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Ernest Laszlo"
-    ],
-    "movies": [
-      {
-        "title": "Ship of Fools",
-        "tmdb_id": 30080,
-        "imdb_id": "tt0059712"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Loyal Griggs"
-    ],
-    "movies": [
-      {
-        "title": "In Harm's Way",
-        "tmdb_id": 37921,
-        "imdb_id": "tt0059309"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Burnett Guffey"
-    ],
-    "movies": [
-      {
-        "title": "King Rat",
-        "tmdb_id": 29586,
-        "imdb_id": "tt0059358"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Conrad Hall"
-    ],
-    "movies": [
-      {
-        "title": "Morituri",
-        "tmdb_id": 42737,
-        "imdb_id": "tt0059470"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Robert Burks"
-    ],
-    "movies": [
-      {
-        "title": "A Patch of Blue",
-        "tmdb_id": 33364,
-        "imdb_id": "tt0059573"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1965",
-    "nominees": [
-      "Freddie Young"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1965",
-    "nominees": [
-      "Leon Shamroy"
-    ],
-    "movies": [
-      {
-        "title": "The Agony and the Ecstasy",
-        "tmdb_id": 36815,
-        "imdb_id": "tt0058886"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1965",
-    "nominees": [
-      "Russell Harlan"
-    ],
-    "movies": [
-      {
-        "title": "The Great Race",
-        "tmdb_id": 11575,
-        "imdb_id": "tt0059243"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1965",
-    "nominees": [
-      "William C. Mellor",
-      "Loyal Griggs"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Story Ever Told",
-        "tmdb_id": 2428,
-        "imdb_id": "tt0059245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1965",
-    "nominees": [
-      "Ted D. McCord"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1965",
-    "nominees": [
-      "William H. Reynolds"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1965",
-    "nominees": [
-      "Charles Nelson"
-    ],
-    "movies": [
-      {
-        "title": "Cat Ballou",
-        "tmdb_id": 11694,
-        "imdb_id": "tt0059017"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1965",
-    "nominees": [
-      "Norman Savage"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1965",
-    "nominees": [
-      "Michael Luciano"
-    ],
-    "movies": [
-      {
-        "title": "The Flight of the Phoenix",
-        "tmdb_id": 10243,
-        "imdb_id": "tt0059183"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1965",
-    "nominees": [
-      "Ralph E. Winters"
-    ],
-    "movies": [
-      {
-        "title": "The Great Race",
-        "tmdb_id": 11575,
-        "imdb_id": "tt0059243"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1965",
-    "nominees": [
-      "John Stears"
-    ],
-    "movies": [
-      {
-        "title": "Thunderball",
-        "tmdb_id": 660,
-        "imdb_id": "tt0059800"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1965",
-    "nominees": [
-      "J. McMillan Johnson"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Story Ever Told",
-        "tmdb_id": 2428,
-        "imdb_id": "tt0059245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1965",
-    "nominees": [
-      "James Corcoran",
-      "Fred Hynes"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1965",
-    "nominees": [
-      "James Corcoran"
-    ],
-    "movies": [
-      {
-        "title": "The Agony and the Ecstasy",
-        "tmdb_id": 36815,
-        "imdb_id": "tt0058886"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1965",
-    "nominees": [
-      "A.W. Watkins",
-      "Franklin Milton"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1965",
-    "nominees": [
-      "George Groves"
-    ],
-    "movies": [
-      {
-        "title": "The Great Race",
-        "tmdb_id": 11575,
-        "imdb_id": "tt0059243"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1965",
-    "nominees": [
-      "Waldon O. Watson"
-    ],
-    "movies": [
-      {
-        "title": "Shenandoah",
-        "tmdb_id": 21027,
-        "imdb_id": "tt0059711"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1965",
-    "nominees": [
-      "Treg Brown"
-    ],
-    "movies": [
-      {
-        "title": "The Great Race",
-        "tmdb_id": 11575,
-        "imdb_id": "tt0059243"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "1965",
-    "nominees": [
-      "Walter Rossi"
-    ],
-    "movies": [
-      {
-        "title": "Von Ryan's Express",
-        "tmdb_id": 21876,
-        "imdb_id": "tt0059885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Julie Harris"
-    ],
-    "movies": [
-      {
-        "title": "Darling",
-        "tmdb_id": 24134,
-        "imdb_id": "tt0059084"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Moss Mabry"
-    ],
-    "movies": [
-      {
-        "title": "Morituri",
-        "tmdb_id": 42737,
-        "imdb_id": "tt0059470"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Howard Shoup"
-    ],
-    "movies": [
-      {
-        "title": "A Rage to Live",
-        "tmdb_id": 104759,
-        "imdb_id": "tt0059630"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Jean Louis",
-      "Bill Thomas"
-    ],
-    "movies": [
-      {
-        "title": "Ship of Fools",
-        "tmdb_id": 30080,
-        "imdb_id": "tt0059712"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1965",
-    "nominees": [
-      "Edith Head"
-    ],
-    "movies": [
-      {
-        "title": "The Slender Thread",
-        "tmdb_id": 51054,
-        "imdb_id": "tt0059729"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "Phyllis Dalton"
-    ],
-    "movies": [
-      {
-        "title": "Doctor Zhivago",
-        "tmdb_id": 907,
-        "imdb_id": "tt0059113"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "Vittorio Nino Novarese"
-    ],
-    "movies": [
-      {
-        "title": "The Agony and the Ecstasy",
-        "tmdb_id": 36815,
-        "imdb_id": "tt0058886"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "Marjorie Best",
-      "Vittorio Nino Novarese"
-    ],
-    "movies": [
-      {
-        "title": "The Greatest Story Ever Told",
-        "tmdb_id": 2428,
-        "imdb_id": "tt0059245"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "Edith Head",
-      "Bill Thomas"
-    ],
-    "movies": [
-      {
-        "title": "Inside Daisy Clover",
-        "tmdb_id": 49683,
-        "imdb_id": "tt0059314"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1965",
-    "nominees": [
-      "Dorothy Jeakins"
-    ],
-    "movies": [
-      {
-        "title": "The Sound of Music",
-        "tmdb_id": 15121,
-        "imdb_id": "tt0059742"
-      }
-    ],
-    "won": false
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Spy Who Came In from the Cold",
+    "FilmId": "tt0059749",
+    "Name": "Richard Burton",
+    "Nominees": "Richard Burton",
+    "NomineeIds": "nm0000009",
+    "Winner": "",
+    "Detail": "Alec Leamas",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Cat Ballou",
+    "FilmId": "tt0059017",
+    "Name": "Lee Marvin",
+    "Nominees": "Lee Marvin",
+    "NomineeIds": "nm0001511",
+    "Winner": "True",
+    "Detail": "Kid Shelleen/Tim Strawn",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Othello",
+    "FilmId": "tt0059555",
+    "Name": "Laurence Olivier",
+    "Nominees": "Laurence Olivier",
+    "NomineeIds": "nm0000059",
+    "Winner": "",
+    "Detail": "Othello",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Pawnbroker",
+    "FilmId": "tt0059575",
+    "Name": "Rod Steiger",
+    "Nominees": "Rod Steiger",
+    "NomineeIds": "nm0001768",
+    "Winner": "",
+    "Detail": "Sol Nazerman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Ship of Fools",
+    "FilmId": "tt0059712",
+    "Name": "Oskar Werner",
+    "Nominees": "Oskar Werner",
+    "NomineeIds": "nm0921459",
+    "Winner": "",
+    "Detail": "Dr. Schumann",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "A Thousand Clowns",
+    "FilmId": "tt0059798",
+    "Name": "Martin Balsam",
+    "Nominees": "Martin Balsam",
+    "NomineeIds": "nm0000842",
+    "Winner": "True",
+    "Detail": "Arnold Burns",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Flight of the Phoenix",
+    "FilmId": "tt0059183",
+    "Name": "Ian Bannen",
+    "Nominees": "Ian Bannen",
+    "NomineeIds": "nm0000846",
+    "Winner": "",
+    "Detail": "Crow",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "Tom Courtenay",
+    "Nominees": "Tom Courtenay",
+    "NomineeIds": "nm0183822",
+    "Winner": "",
+    "Detail": "Pasha Antipov/Strelnikoff",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Ship of Fools",
+    "FilmId": "tt0059712",
+    "Name": "Michael Dunn",
+    "Nominees": "Michael Dunn",
+    "NomineeIds": "nm0242692",
+    "Winner": "",
+    "Detail": "Glocken",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Othello",
+    "FilmId": "tt0059555",
+    "Name": "Frank Finlay",
+    "Nominees": "Frank Finlay",
+    "NomineeIds": "nm0277975",
+    "Winner": "",
+    "Detail": "Iago",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "Julie Andrews",
+    "Nominees": "Julie Andrews",
+    "NomineeIds": "nm0000267",
+    "Winner": "",
+    "Detail": "Maria",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Darling",
+    "FilmId": "tt0059084",
+    "Name": "Julie Christie",
+    "Nominees": "Julie Christie",
+    "NomineeIds": "nm0001046",
+    "Winner": "True",
+    "Detail": "Diana Scott",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Collector",
+    "FilmId": "tt0059043",
+    "Name": "Samantha Eggar",
+    "Nominees": "Samantha Eggar",
+    "NomineeIds": "nm0002058",
+    "Winner": "",
+    "Detail": "Miranda Grey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "A Patch of Blue",
+    "FilmId": "tt0059573",
+    "Name": "Elizabeth Hartman",
+    "Nominees": "Elizabeth Hartman",
+    "NomineeIds": "nm0366946",
+    "Winner": "",
+    "Detail": "Selina D'Arcey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Ship of Fools",
+    "FilmId": "tt0059712",
+    "Name": "Simone Signoret",
+    "Nominees": "Simone Signoret",
+    "NomineeIds": "nm0797531",
+    "Winner": "",
+    "Detail": "La Condessa",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Inside Daisy Clover",
+    "FilmId": "tt0059314",
+    "Name": "Ruth Gordon",
+    "Nominees": "Ruth Gordon",
+    "NomineeIds": "nm0002106",
+    "Winner": "",
+    "Detail": "The Dealer",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Othello",
+    "FilmId": "tt0059555",
+    "Name": "Joyce Redman",
+    "Nominees": "Joyce Redman",
+    "NomineeIds": "nm0715010",
+    "Winner": "",
+    "Detail": "Emilia",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Othello",
+    "FilmId": "tt0059555",
+    "Name": "Maggie Smith",
+    "Nominees": "Maggie Smith",
+    "NomineeIds": "nm0001749",
+    "Winner": "",
+    "Detail": "Desdemona",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "A Patch of Blue",
+    "FilmId": "tt0059573",
+    "Name": "Shelley Winters",
+    "Nominees": "Shelley Winters",
+    "NomineeIds": "nm0001859",
+    "Winner": "True",
+    "Detail": "Rose-Ann D'Arcey",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "Peggy Wood",
+    "Nominees": "Peggy Wood",
+    "NomineeIds": "nm0939931",
+    "Winner": "",
+    "Detail": "Mother Abbess",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "King Rat",
+    "FilmId": "tt0059358",
+    "Name": "Art Direction: Robert Emmet Smith; Set Decoration: Frank Tuttle",
+    "Nominees": "Robert Emmet Smith|Frank Tuttle",
+    "NomineeIds": "nm0809757|nm0878339",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "A Patch of Blue",
+    "FilmId": "tt0059573",
+    "Name": "Art Direction: George W. Davis, Urie McCleary; Set Decoration: Henry Grace, Charles S. Thompson",
+    "Nominees": "George W. Davis|Urie McCleary|Henry Grace|Charles S. Thompson",
+    "NomineeIds": "nm0204649|nm0565720|nm0333352|nm0859962",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Ship of Fools",
+    "FilmId": "tt0059712",
+    "Name": "Art Direction: Robert Clatworthy; Set Decoration: Joseph Kish",
+    "Nominees": "Robert Clatworthy|Joseph Kish",
+    "NomineeIds": "nm0165197|nm0457184",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Slender Thread",
+    "FilmId": "tt0059729",
+    "Name": "Art Direction: Hal Pereira, Jack Poplin; Set Decoration: Robert Benton, Joseph Kish",
+    "Nominees": "Hal Pereira|Jack Poplin|Robert Benton|Joseph Kish",
+    "NomineeIds": "nm0673134|nm0691305|nm0072960|nm0457184",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Spy Who Came In from the Cold",
+    "FilmId": "tt0059749",
+    "Name": "Art Direction: Hal Pereira, Tambi Larsen, Edward Marshall; Set Decoration: Josie MacAvin",
+    "Nominees": "Hal Pereira|Tambi Larsen|Edward Marshall|Josie MacAvin",
+    "NomineeIds": "nm0673134|nm0488910|nm0550864|nm0531357",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Agony and the Ecstasy",
+    "FilmId": "tt0058886",
+    "Name": "Art Direction: John DeCuir, Jack Martin Smith; Set Decoration: Dario Simoni",
+    "Nominees": "John DeCuir|Jack Martin Smith|Dario Simoni",
+    "NomineeIds": "nm0214043|nm0005584|nm0800618",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "Art Direction: John Box, Terry Marsh; Set Decoration: Dario Simoni",
+    "Nominees": "John Box|Terry Marsh|Dario Simoni",
+    "NomineeIds": "nm0101501|nm0550671|nm0800618",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Greatest Story Ever Told",
+    "FilmId": "tt0059245",
+    "Name": "Art Direction: Richard Day, William Creber, David Hall; Set Decoration: Ray Moyer, Fred MacLean, Norman Rockett",
+    "Nominees": "Richard Day|William Creber|David Hall|Ray Moyer|Fred MacLean|Norman Rockett",
+    "NomineeIds": "nm0206554|nm0187169|nm0355465|nm0610455|nm0533771|nm0734070",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Inside Daisy Clover",
+    "FilmId": "tt0059314",
+    "Name": "Art Direction: Robert Clatworthy; Set Decoration: George James Hopkins",
+    "Nominees": "Robert Clatworthy|George James Hopkins",
+    "NomineeIds": "nm0165197|nm0394166",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "Art Direction: Boris Leven; Set Decoration: Walter M. Scott, Ruby Levitt",
+    "Nominees": "Boris Leven|Walter M. Scott|Ruby Levitt",
+    "NomineeIds": "nm0505227|nm0779898|nm0506239",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "In Harm's Way",
+    "FilmId": "tt0059309",
+    "Name": "Loyal Griggs",
+    "Nominees": "Loyal Griggs",
+    "NomineeIds": "nm0005729",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "King Rat",
+    "FilmId": "tt0059358",
+    "Name": "Burnett Guffey",
+    "Nominees": "Burnett Guffey",
+    "NomineeIds": "nm0346532",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Morituri",
+    "FilmId": "tt0059470",
+    "Name": "Conrad Hall",
+    "Nominees": "Conrad Hall",
+    "NomineeIds": "nm0005734",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "A Patch of Blue",
+    "FilmId": "tt0059573",
+    "Name": "Robert Burks",
+    "Nominees": "Robert Burks",
+    "NomineeIds": "nm0122079",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Ship of Fools",
+    "FilmId": "tt0059712",
+    "Name": "Ernest Laszlo",
+    "Nominees": "Ernest Laszlo",
+    "NomineeIds": "nm0005768",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Agony and the Ecstasy",
+    "FilmId": "tt0058886",
+    "Name": "Leon Shamroy",
+    "Nominees": "Leon Shamroy",
+    "NomineeIds": "nm0005872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "Freddie Young",
+    "Nominees": "Freddie Young",
+    "NomineeIds": "nm0002875",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Great Race",
+    "FilmId": "tt0059243",
+    "Name": "Russell Harlan",
+    "Nominees": "Russell Harlan",
+    "NomineeIds": "nm0005737",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Greatest Story Ever Told",
+    "FilmId": "tt0059245",
+    "Name": "William C. Mellor, Loyal Griggs",
+    "Nominees": "William C. Mellor|Loyal Griggs",
+    "NomineeIds": "nm0005794|nm0005729",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "Ted McCord",
+    "Nominees": "Ted McCord",
+    "NomineeIds": "nm0005792",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Darling",
+    "FilmId": "tt0059084",
+    "Name": "Julie Harris",
+    "Nominees": "Julie Harris",
+    "NomineeIds": "nm0364916",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Morituri",
+    "FilmId": "tt0059470",
+    "Name": "Moss Mabry",
+    "Nominees": "Moss Mabry",
+    "NomineeIds": "nm0531117",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "A Rage to Live",
+    "FilmId": "tt0059630",
+    "Name": "Howard Shoup",
+    "Nominees": "Howard Shoup",
+    "NomineeIds": "nm0795251",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Ship of Fools",
+    "FilmId": "tt0059712",
+    "Name": "Bill Thomas, Jean Louis",
+    "Nominees": "Bill Thomas|Jean Louis",
+    "NomineeIds": "nm0858528|nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Slender Thread",
+    "FilmId": "tt0059729",
+    "Name": "Edith Head",
+    "Nominees": "Edith Head",
+    "NomineeIds": "nm0372128",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Agony and the Ecstasy",
+    "FilmId": "tt0058886",
+    "Name": "Vittorio Nino Novarese",
+    "Nominees": "Vittorio Nino Novarese",
+    "NomineeIds": "nm0636973",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "Phyllis Dalton",
+    "Nominees": "Phyllis Dalton",
+    "NomineeIds": "nm0198335",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Greatest Story Ever Told",
+    "FilmId": "tt0059245",
+    "Name": "Vittorio Nino Novarese, Marjorie Best",
+    "Nominees": "Vittorio Nino Novarese|Marjorie Best",
+    "NomineeIds": "nm0636973|nm0078968",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Inside Daisy Clover",
+    "FilmId": "tt0059314",
+    "Name": "Edith Head, Bill Thomas",
+    "Nominees": "Edith Head|Bill Thomas",
+    "NomineeIds": "nm0372128|nm0858528",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "Dorothy Jeakins",
+    "Nominees": "Dorothy Jeakins",
+    "NomineeIds": "nm0419820",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Collector",
+    "FilmId": "tt0059043",
+    "Name": "William Wyler",
+    "Nominees": "William Wyler",
+    "NomineeIds": "nm0943758",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Darling",
+    "FilmId": "tt0059084",
+    "Name": "John Schlesinger",
+    "Nominees": "John Schlesinger",
+    "NomineeIds": "nm0772259",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "David Lean",
+    "Nominees": "David Lean",
+    "NomineeIds": "nm0000180",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "Robert Wise",
+    "Nominees": "Robert Wise",
+    "NomineeIds": "nm0936404",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Woman in the Dunes",
+    "FilmId": "tt0058625",
+    "Name": "Hiroshi Teshigahara",
+    "Nominees": "Hiroshi Teshigahara",
+    "NomineeIds": "nm0856267",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Battle of the Bulge...The Brave Rifles",
+    "FilmId": "tt0058948",
+    "Name": "Laurence E. Mascott, Producer",
+    "Nominees": "Laurence E. Mascott",
+    "NomineeIds": "nm0556226",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Eleanor Roosevelt Story",
+    "FilmId": "tt0059145",
+    "Name": "Sidney Glazier, Producer",
+    "Nominees": "Sidney Glazier",
+    "NomineeIds": "nm0322263",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "The Forth Road Bridge",
+    "FilmId": "tt0059193",
+    "Name": "Peter Mills, Producer",
+    "Nominees": "Peter Mills",
+    "NomineeIds": "nm0590149",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Let My People Go",
+    "FilmId": "tt0857321",
+    "Name": "Marshall Flaum, Producer",
+    "Nominees": "Marshall Flaum",
+    "NomineeIds": "nm0281310",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "To Die in Madrid",
+    "FilmId": "tt0057327",
+    "Name": "Frédéric Rossif, Producer",
+    "Nominees": "Frédéric Rossif",
+    "NomineeIds": "nm0744364",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Mural on Our Street",
+    "FilmId": "tt0059483",
+    "Name": "Kirk Smallman, Producer",
+    "Nominees": "Kirk Smallman",
+    "NomineeIds": "nm0806577",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Ouverture",
+    "FilmId": "tt0059559",
+    "Name": "Mafilm Productions",
+    "Nominees": "Mafilm Productions",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Point of View",
+    "FilmId": "tt0059609",
+    "Name": "Vision Associates Productions",
+    "Nominees": "Vision Associates Productions",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "To Be Alive!",
+    "FilmId": "tt0059814",
+    "Name": "Francis Thompson, Producer",
+    "Nominees": "Francis Thompson",
+    "NomineeIds": "nm0860136",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Yeats Country",
+    "FilmId": "tt0059926",
+    "Name": "Patrick Carey and Joe Mendoza, Producers",
+    "Nominees": "Patrick Carey|Joe Mendoza",
+    "NomineeIds": "nm0137011|nm0579297",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Cat Ballou",
+    "FilmId": "tt0059017",
+    "Name": "Charles Nelson",
+    "Nominees": "Charles Nelson",
+    "NomineeIds": "nm0625224",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "Norman Savage",
+    "Nominees": "Norman Savage",
+    "NomineeIds": "nm0767355",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Flight of the Phoenix",
+    "FilmId": "tt0059183",
+    "Name": "Michael Luciano",
+    "Nominees": "Michael Luciano",
+    "NomineeIds": "nm0524597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Great Race",
+    "FilmId": "tt0059243",
+    "Name": "Ralph E. Winters",
+    "Nominees": "Ralph E. Winters",
+    "NomineeIds": "nm0935988",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "William Reynolds",
+    "Nominees": "William Reynolds",
+    "NomineeIds": "nm0722000",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Blood on the Land",
+    "FilmId": "tt0057892",
+    "Name": "Greece",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Dear John",
+    "FilmId": "tt0058281",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Kwaidan",
+    "FilmId": "tt0058279",
+    "Name": "Japan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Marriage Italian Style",
+    "FilmId": "tt0058335",
+    "Name": "Italy",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Shop on Main Street",
+    "FilmId": "tt0059527",
+    "Name": "Czechoslovakia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "The Agony and the Ecstasy",
+    "FilmId": "tt0058886",
+    "Name": "Alex North",
+    "Nominees": "Alex North",
+    "NomineeIds": "nm0006218",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "Maurice Jarre",
+    "Nominees": "Maurice Jarre",
+    "NomineeIds": "nm0003574",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "The Greatest Story Ever Told",
+    "FilmId": "tt0059245",
+    "Name": "Alfred Newman",
+    "Nominees": "Alfred Newman",
+    "NomineeIds": "nm0000055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "A Patch of Blue",
+    "FilmId": "tt0059573",
+    "Name": "Jerry Goldsmith",
+    "Nominees": "Jerry Goldsmith",
+    "NomineeIds": "nm0000025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score--substantially original)",
+    "Film": "The Umbrellas of Cherbourg",
+    "FilmId": "tt0058450",
+    "Name": "Michel Legrand, Jacques Demy",
+    "Nominees": "Michel Legrand|Jacques Demy",
+    "NomineeIds": "nm0006166|nm0218840",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "Cat Ballou",
+    "FilmId": "tt0059017",
+    "Name": "DeVol",
+    "Nominees": "DeVol",
+    "NomineeIds": "nm0006030",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "The Pleasure Seekers",
+    "FilmId": "tt0058479",
+    "Name": "Lionel Newman, Alexander Courage",
+    "Nominees": "Lionel Newman|Alexander Courage",
+    "NomineeIds": "nm0006213|nm0006021",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "Irwin Kostal",
+    "Nominees": "Irwin Kostal",
+    "NomineeIds": "nm0467348",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "A Thousand Clowns",
+    "FilmId": "tt0059798",
+    "Name": "Don Walker",
+    "Nominees": "Don Walker",
+    "NomineeIds": "nm0907692",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of Music--adaptation or treatment)",
+    "Film": "The Umbrellas of Cherbourg",
+    "FilmId": "tt0058450",
+    "Name": "Michel Legrand",
+    "Nominees": "Michel Legrand",
+    "NomineeIds": "nm0006166",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Cat Ballou",
+    "FilmId": "tt0059017",
+    "Name": "Music by Jerry Livingston; Lyrics by Mack David",
+    "Nominees": "Jerry Livingston|Mack David",
+    "NomineeIds": "nm0515256|nm0202988",
+    "Winner": "",
+    "Detail": "The Ballad Of Cat Ballou",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Umbrellas of Cherbourg",
+    "FilmId": "tt0058450",
+    "Name": "Music by Michel Legrand; Lyrics by Jacques Demy; English Lyrics by Norman Gimbel",
+    "Nominees": "Michel Legrand|Jacques Demy|Norman Gimbel",
+    "NomineeIds": "nm0006166|nm0218840|nm0319757",
+    "Winner": "",
+    "Detail": "I Will Wait For You",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Sandpiper",
+    "FilmId": "tt0059674",
+    "Name": "Music by Johnny Mandel; Lyrics by Paul Francis Webster",
+    "Nominees": "Johnny Mandel|Paul Francis Webster",
+    "NomineeIds": "nm0006184|nm0916990",
+    "Winner": "True",
+    "Detail": "The Shadow Of Your Smile",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "The Great Race",
+    "FilmId": "tt0059243",
+    "Name": "Music by Henry Mancini; Lyrics by Johnny Mercer",
+    "Nominees": "Henry Mancini|Johnny Mercer",
+    "NomineeIds": "nm0000049|nm0006197",
+    "Winner": "",
+    "Detail": "The Sweetheart Tree",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "What's New Pussycat?",
+    "FilmId": "tt0059903",
+    "Name": "Music by Burt Bacharach; Lyrics by Hal David",
+    "Nominees": "Burt Bacharach|Hal David",
+    "NomineeIds": "nm0000820|nm0202910",
+    "Winner": "",
+    "Detail": "What's New Pussycat?",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Darling",
+    "FilmId": "tt0059084",
+    "Name": "Joseph Janni, Producer",
+    "Nominees": "Joseph Janni",
+    "NomineeIds": "nm0417830",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "Carlo Ponti, Producer",
+    "Nominees": "Carlo Ponti",
+    "NomineeIds": "nm0690638",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Ship of Fools",
+    "FilmId": "tt0059712",
+    "Name": "Stanley Kramer, Producer",
+    "Nominees": "Stanley Kramer",
+    "NomineeIds": "nm0006452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "Robert Wise, Producer",
+    "Nominees": "Robert Wise",
+    "NomineeIds": "nm0936404",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "A Thousand Clowns",
+    "FilmId": "tt0059798",
+    "Name": "Fred Coe, Producer",
+    "Nominees": "Fred Coe",
+    "NomineeIds": "nm0168641",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Clay or The Origin of Species",
+    "FilmId": "tt0059041",
+    "Name": "Eliot Noyes, Jr., Producer",
+    "Nominees": "Eliot Noyes Jr.",
+    "NomineeIds": "nm0637524",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Dot and the Line",
+    "FilmId": "tt0059122",
+    "Name": "Chuck Jones and Les Goldman, Producers",
+    "Nominees": "Chuck Jones|Les Goldman",
+    "NomineeIds": "nm0005062|nm0325828",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Thieving Magpie (La Gazza Ladra)",
+    "FilmId": "tt0059214",
+    "Name": "Emanuele Luzzati, Producer",
+    "Nominees": "Emanuele Luzzati",
+    "NomineeIds": "nm0527810",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "The Chicken (Le Poulet)",
+    "FilmId": "tt0059613",
+    "Name": "Claude Berri, Producer",
+    "Nominees": "Claude Berri",
+    "NomineeIds": "nm0001945",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Fortress of Peace",
+    "FilmId": "tt0059194",
+    "Name": "Lothar Wolff, Producer",
+    "Nominees": "Lothar Wolff",
+    "NomineeIds": "nm0937852",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Skaterdater",
+    "FilmId": "tt0059725",
+    "Name": "Marshal Backlar and Noel Black, Producers",
+    "Nominees": "Marshal Backlar|Noel Black",
+    "NomineeIds": "nm0045677|nm0085457",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Snow",
+    "FilmId": "tt0059731",
+    "Name": "Edgar Anstey, Producer",
+    "Nominees": "Edgar Anstey",
+    "NomineeIds": "nm0030693",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Time Piece",
+    "FilmId": "tt0059807",
+    "Name": "Jim Henson, Producer",
+    "Nominees": "Jim Henson",
+    "NomineeIds": "nm0001345",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Agony and the Ecstasy",
+    "FilmId": "tt0058886",
+    "Name": "20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director",
+    "Nominees": "20th Century-Fox|James P. Corcoran",
+    "NomineeIds": "co0028775|nm0179331",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "Metro- Goldwyn-Mayer British Studio Sound Department, A. W. Watkins, Sound Director; and Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",
+    "Nominees": "Metro- Goldwyn-Mayer British|A. W. Watkins|Metro-Goldwyn-Mayer|Franklin E. Milton",
+    "NomineeIds": "co0007143|nm0914249|co0007143|nm0590665",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Great Race",
+    "FilmId": "tt0059243",
+    "Name": "Warner Bros. Studio Sound Department, George R. Groves, Sound Director",
+    "Nominees": "Warner Bros.|George R. Groves",
+    "NomineeIds": "co0080422|nm0344060",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Shenandoah",
+    "FilmId": "tt0059711",
+    "Name": "Universal City Studio Sound Department, Waldon O. Watson, Sound Director",
+    "Nominees": "Universal City|Waldon O. Watson",
+    "NomineeIds": "co0005073|nm0910592",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Sound of Music",
+    "FilmId": "tt0059742",
+    "Name": "20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",
+    "Nominees": "20th Century-Fox|James P. Corcoran|Todd-AO|Fred Hynes",
+    "NomineeIds": "co0028775|nm0179331|co0016792|nm0405261",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS",
+    "Film": "The Great Race",
+    "FilmId": "tt0059243",
+    "Name": "Tregoweth Brown",
+    "Nominees": "Tregoweth Brown",
+    "NomineeIds": "nm0114830",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EFFECTS",
+    "Film": "Von Ryan's Express",
+    "FilmId": "tt0059885",
+    "Name": "Walter A. Rossi",
+    "Nominees": "Walter A. Rossi",
+    "NomineeIds": "nm0744346",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "The Greatest Story Ever Told",
+    "FilmId": "tt0059245",
+    "Name": "J. McMillan Johnson",
+    "Nominees": "J. McMillan Johnson",
+    "NomineeIds": "nm0425262",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL VISUAL EFFECTS",
+    "Film": "Thunderball",
+    "FilmId": "tt0059800",
+    "Name": "John Stears",
+    "Nominees": "John Stears",
+    "NomineeIds": "nm0824210",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Cat Ballou",
+    "FilmId": "tt0059017",
+    "Name": "Walter Newman, Frank R. Pierson",
+    "Nominees": "Walter Newman|Frank R. Pierson",
+    "NomineeIds": "nm0628305|nm0682757",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Collector",
+    "FilmId": "tt0059043",
+    "Name": "Stanley Mann, John Kohn",
+    "Nominees": "Stanley Mann|John Kohn",
+    "NomineeIds": "nm0542970|nm0463385",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Doctor Zhivago",
+    "FilmId": "tt0059113",
+    "Name": "Robert Bolt",
+    "Nominees": "Robert Bolt",
+    "NomineeIds": "nm0004122",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Ship of Fools",
+    "FilmId": "tt0059712",
+    "Name": "Abby Mann",
+    "Nominees": "Abby Mann",
+    "NomineeIds": "nm0542631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "A Thousand Clowns",
+    "FilmId": "tt0059798",
+    "Name": "Herb Gardner",
+    "Nominees": "Herb Gardner",
+    "NomineeIds": "nm0306949",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Casanova '70",
+    "FilmId": "tt0059015",
+    "Name": "Age, Scarpelli, Mario Monicelli, Tonino Guerra, Giorgio Salvioni, Suso Cecchi D'Amico",
+    "Nominees": "Age|Scarpelli|Mario Monicelli|Tonino Guerra|Giorgio Salvioni|Suso Cecchi D'Amico",
+    "NomineeIds": "nm0408488|nm0769249|nm0598102|nm0346096|nm0759480|nm0147599",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Darling",
+    "FilmId": "tt0059084",
+    "Name": "Frederic Raphael",
+    "Nominees": "Frederic Raphael",
+    "NomineeIds": "nm0710698",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Those Magnificent Men in Their Flying Machines",
+    "FilmId": "tt0059797",
+    "Name": "Jack Davies, Ken Annakin",
+    "Nominees": "Jack Davies|Ken Annakin",
+    "NomineeIds": "nm0203766|nm0002175",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "The Train",
+    "FilmId": "tt0059825",
+    "Name": "Franklin Coen, Frank Davis",
+    "Nominees": "Franklin Coen|Frank Davis",
+    "NomineeIds": "nm0168759|nm0204608",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "The Umbrellas of Cherbourg",
+    "FilmId": "tt0058450",
+    "Name": "Jacques Demy",
+    "Nominees": "Jacques Demy",
+    "NomineeIds": "nm0218840",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Edmond L. DePatie",
+    "Nominees": "Edmond L. DePatie",
+    "NomineeIds": "nm11788669",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Bob Hope",
+    "NomineeIds": "nm0001362",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Bob Hope for unique and distinguished service to our industry and the Academy."
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "William Wyler",
+    "Nominees": "William Wyler",
+    "NomineeIds": "nm0943758",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "ARTHUR J. HATCH",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To ARTHUR J. HATCH of the Strong Electric Corporation subsidiary of General Precision Equipment Corporation, for the design and development of an Air Blown Carbon Arc Projection Lamp."
+  },
+  {
+    "Ceremony": 38,
+    "Year": 1965,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Stefan Kudelski",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Sound",
+    "Note": "",
+    "Citation": "To STEFAN KUDELSKI for the design and development of the Nagra portable 1/4 inch tape recording system for motion picture sound recording."
   }
 ]

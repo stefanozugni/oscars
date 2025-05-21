@@ -1,1734 +1,2034 @@
 [
   {
-    "category": "Best Picture",
-    "year": "2007",
-    "nominees": [
-      "No Country for Old Men"
-    ],
-    "movies": [
-      {
-        "title": "No Country for Old Men",
-        "tmdb_id": 6977,
-        "imdb_id": "tt0477348"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "2007",
-    "nominees": [
-      "Atonement"
-    ],
-    "movies": [
-      {
-        "title": "Atonement",
-        "tmdb_id": 4347,
-        "imdb_id": "tt0783233"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2007",
-    "nominees": [
-      "Juno"
-    ],
-    "movies": [
-      {
-        "title": "Juno",
-        "tmdb_id": 7326,
-        "imdb_id": "tt0467406"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2007",
-    "nominees": [
-      "Michael Clayton"
-    ],
-    "movies": [
-      {
-        "title": "Michael Clayton",
-        "tmdb_id": 4566,
-        "imdb_id": "tt0465538"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "2007",
-    "nominees": [
-      "There Will Be Blood"
-    ],
-    "movies": [
-      {
-        "title": "There Will Be Blood",
-        "tmdb_id": 7345,
-        "imdb_id": "tt0469494"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2007",
-    "nominees": [
-      "Daniel Day-Lewis"
-    ],
-    "movies": [
-      {
-        "title": "There Will Be Blood",
-        "tmdb_id": 7345,
-        "imdb_id": "tt0469494"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "2007",
-    "nominees": [
-      "George Clooney"
-    ],
-    "movies": [
-      {
-        "title": "Michael Clayton",
-        "tmdb_id": 4566,
-        "imdb_id": "tt0465538"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2007",
-    "nominees": [
-      "Johnny Depp"
-    ],
-    "movies": [
-      {
-        "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-        "tmdb_id": 13885,
-        "imdb_id": "tt0408236"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2007",
-    "nominees": [
-      "Tommy Lee Jones"
-    ],
-    "movies": [
-      {
-        "title": "In the Valley of Elah",
-        "tmdb_id": 6973,
-        "imdb_id": "tt0478134"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "2007",
-    "nominees": [
-      "Viggo Mortensen"
-    ],
-    "movies": [
-      {
-        "title": "Eastern Promises",
-        "tmdb_id": 2252,
-        "imdb_id": "tt0765443"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2007",
-    "nominees": [
-      "Marion Cotillard"
-    ],
-    "movies": [
-      {
-        "title": "La Vie en Rose",
-        "tmdb_id": 1407,
-        "imdb_id": "tt0450188"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "2007",
-    "nominees": [
-      "Cate Blanchett"
-    ],
-    "movies": [
-      {
-        "title": "Elizabeth: The Golden Age",
-        "tmdb_id": 4517,
-        "imdb_id": "tt0414055"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2007",
-    "nominees": [
-      "Julie Christie"
-    ],
-    "movies": [
-      {
-        "title": "Away from Her",
-        "tmdb_id": 1919,
-        "imdb_id": "tt0491747"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2007",
-    "nominees": [
-      "Laura Linney"
-    ],
-    "movies": [
-      {
-        "title": "The Savages",
-        "tmdb_id": 8272,
-        "imdb_id": "tt0775529"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "2007",
-    "nominees": [
-      "Elliot Page"
-    ],
-    "movies": [
-      {
-        "title": "Juno",
-        "tmdb_id": 7326,
-        "imdb_id": "tt0467406"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2007",
-    "nominees": [
-      "Javier Bardem"
-    ],
-    "movies": [
-      {
-        "title": "No Country for Old Men",
-        "tmdb_id": 6977,
-        "imdb_id": "tt0477348"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2007",
-    "nominees": [
-      "Casey Affleck"
-    ],
-    "movies": [
-      {
-        "title": "The Assassination of Jesse James by the Coward Robert Ford",
-        "tmdb_id": 4512,
-        "imdb_id": "tt0443680"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2007",
-    "nominees": [
-      "Philip Seymour Hoffman"
-    ],
-    "movies": [
-      {
-        "title": "Charlie Wilson's War",
-        "tmdb_id": 6538,
-        "imdb_id": "tt0472062"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2007",
-    "nominees": [
-      "Hal Holbrook"
-    ],
-    "movies": [
-      {
-        "title": "Into the Wild",
-        "tmdb_id": 5915,
-        "imdb_id": "tt0758758"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "2007",
-    "nominees": [
-      "Tom Wilkinson"
-    ],
-    "movies": [
-      {
-        "title": "Michael Clayton",
-        "tmdb_id": 4566,
-        "imdb_id": "tt0465538"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2007",
-    "nominees": [
-      "Tilda Swinton"
-    ],
-    "movies": [
-      {
-        "title": "Michael Clayton",
-        "tmdb_id": 4566,
-        "imdb_id": "tt0465538"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2007",
-    "nominees": [
-      "Cate Blanchett"
-    ],
-    "movies": [
-      {
-        "title": "I'm Not There",
-        "tmdb_id": 3902,
-        "imdb_id": "tt0368794"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2007",
-    "nominees": [
-      "Ruby Dee"
-    ],
-    "movies": [
-      {
-        "title": "American Gangster",
-        "tmdb_id": 4982,
-        "imdb_id": "tt0765429"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2007",
-    "nominees": [
-      "Saoirse Ronan"
-    ],
-    "movies": [
-      {
-        "title": "Atonement",
-        "tmdb_id": 4347,
-        "imdb_id": "tt0783233"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "2007",
-    "nominees": [
-      "Amy Ryan"
-    ],
-    "movies": [
-      {
-        "title": "Gone Baby Gone",
-        "tmdb_id": 4771,
-        "imdb_id": "tt0452623"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2007",
-    "nominees": [
-      "Joel",
-      "Ethan Coen"
-    ],
-    "movies": [
-      {
-        "title": "No Country for Old Men",
-        "tmdb_id": 6977,
-        "imdb_id": "tt0477348"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "2007",
-    "nominees": [
-      "Paul Thomas Anderson"
-    ],
-    "movies": [
-      {
-        "title": "There Will Be Blood",
-        "tmdb_id": 7345,
-        "imdb_id": "tt0469494"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2007",
-    "nominees": [
-      "Tony Gilroy"
-    ],
-    "movies": [
-      {
-        "title": "Michael Clayton",
-        "tmdb_id": 4566,
-        "imdb_id": "tt0465538"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2007",
-    "nominees": [
-      "Jason Reitman"
-    ],
-    "movies": [
-      {
-        "title": "Juno",
-        "tmdb_id": 7326,
-        "imdb_id": "tt0467406"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "2007",
-    "nominees": [
-      "Julian Schnabel"
-    ],
-    "movies": [
-      {
-        "title": "The Diving Bell and the Butterfly",
-        "tmdb_id": 2013,
-        "imdb_id": "tt0401383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Joel",
-      "Ethan Coen"
-    ],
-    "movies": [
-      {
-        "title": "No Country for Old Men",
-        "tmdb_id": 6977,
-        "imdb_id": "tt0477348"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Christopher Hampton"
-    ],
-    "movies": [
-      {
-        "title": "Atonement",
-        "tmdb_id": 4347,
-        "imdb_id": "tt0783233"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Sarah Polley"
-    ],
-    "movies": [
-      {
-        "title": "Away from Her",
-        "tmdb_id": 1919,
-        "imdb_id": "tt0491747"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Ronald Harwood"
-    ],
-    "movies": [
-      {
-        "title": "The Diving Bell and the Butterfly",
-        "tmdb_id": 2013,
-        "imdb_id": "tt0401383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Paul Thomas Anderson"
-    ],
-    "movies": [
-      {
-        "title": "There Will Be Blood",
-        "tmdb_id": 7345,
-        "imdb_id": "tt0469494"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Diablo Cody"
-    ],
-    "movies": [
-      {
-        "title": "Juno",
-        "tmdb_id": 7326,
-        "imdb_id": "tt0467406"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Nancy Oliver"
-    ],
-    "movies": [
-      {
-        "title": "Lars and the Real Girl",
-        "tmdb_id": 6615,
-        "imdb_id": "tt0805564"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Tony Gilroy"
-    ],
-    "movies": [
-      {
-        "title": "Michael Clayton",
-        "tmdb_id": 4566,
-        "imdb_id": "tt0465538"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Brad Bird",
-      "Jan Pinkava",
-      "Jim Capobianco"
-    ],
-    "movies": [
-      {
-        "title": "Ratatouille",
-        "tmdb_id": 2062,
-        "imdb_id": "tt0382932"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "2007",
-    "nominees": [
-      "Tamara Jenkins"
-    ],
-    "movies": [
-      {
-        "title": "The Savages",
-        "tmdb_id": 8272,
-        "imdb_id": "tt0775529"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2007",
-    "nominees": [
-      "Dario Marianelli"
-    ],
-    "movies": [
-      {
-        "title": "Atonement",
-        "tmdb_id": 4347,
-        "imdb_id": "tt0783233"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "2007",
-    "nominees": [
-      "Alberto Iglesias"
-    ],
-    "movies": [
-      {
-        "title": "The Kite Runner",
-        "tmdb_id": 7979,
-        "imdb_id": "tt0419887"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2007",
-    "nominees": [
-      "James Newton Howard"
-    ],
-    "movies": [
-      {
-        "title": "Michael Clayton",
-        "tmdb_id": 4566,
-        "imdb_id": "tt0465538"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2007",
-    "nominees": [
-      "Michael Giacchino"
-    ],
-    "movies": [
-      {
-        "title": "Ratatouille",
-        "tmdb_id": 2062,
-        "imdb_id": "tt0382932"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "2007",
-    "nominees": [
-      "Marco Beltrami"
-    ],
-    "movies": [
-      {
-        "title": "3:10 to Yuma",
-        "tmdb_id": 5176,
-        "imdb_id": "tt0381849"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2007",
-    "nominees": [
-      "Falling Slowly"
-    ],
-    "movies": [
-      {
-        "title": "Once",
-        "tmdb_id": 5723,
-        "imdb_id": "tt0907657"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2007",
-    "nominees": [
-      "Happy Working Song"
-    ],
-    "movies": [
-      {
-        "title": "Enchanted",
-        "tmdb_id": 4523,
-        "imdb_id": "tt0461770"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2007",
-    "nominees": [
-      "So Close"
-    ],
-    "movies": [
-      {
-        "title": "Enchanted",
-        "tmdb_id": 4523,
-        "imdb_id": "tt0461770"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2007",
-    "nominees": [
-      "That's How You Know"
-    ],
-    "movies": [
-      {
-        "title": "Enchanted",
-        "tmdb_id": 4523,
-        "imdb_id": "tt0461770"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "2007",
-    "nominees": [
-      "Raise It Up"
-    ],
-    "movies": [
-      {
-        "title": "August Rush",
-        "tmdb_id": 5123,
-        "imdb_id": "tt0426931"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2007",
-    "nominees": [
-      "The Counterfeiters"
-    ],
-    "movies": [
-      {
-        "title": "The Counterfeiters",
-        "tmdb_id": 7862,
-        "imdb_id": "tt0813547"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2007",
-    "nominees": [
-      "12"
-    ],
-    "movies": [
-      {
-        "title": "12",
-        "tmdb_id": 20714,
-        "imdb_id": "tt0488478"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2007",
-    "nominees": [
-      "Beaufort"
-    ],
-    "movies": [
-      {
-        "title": "Beaufort",
-        "tmdb_id": 15048,
-        "imdb_id": "tt0758732"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2007",
-    "nominees": [
-      "Katyn"
-    ],
-    "movies": [
-      {
-        "title": "Katyn",
-        "tmdb_id": 13614,
-        "imdb_id": "tt0879843"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "2007",
-    "nominees": [
-      "Mongol: The Rise of Genghis Khan"
-    ],
-    "movies": [
-      {
-        "title": "Mongol: The Rise of Genghis Khan",
-        "tmdb_id": 12246,
-        "imdb_id": "tt0416044"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2007",
-    "nominees": [
-      "Taxi to the Dark Side"
-    ],
-    "movies": [
-      {
-        "title": "Taxi to the Dark Side",
-        "tmdb_id": 13362,
-        "imdb_id": "tt0854678"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2007",
-    "nominees": [
-      "No End in Sight"
-    ],
-    "movies": [
-      {
-        "title": "No End in Sight",
-        "tmdb_id": 12901,
-        "imdb_id": "tt0912593"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2007",
-    "nominees": [
-      "Operation Homecoming: Writing the Wartime Experience"
-    ],
-    "movies": [
-      {
-        "title": "Operation Homecoming: Writing the Wartime Experience",
-        "tmdb_id": 34981,
-        "imdb_id": "tt0970184"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2007",
-    "nominees": [
-      "Sicko"
-    ],
-    "movies": [
-      {
-        "title": "Sicko",
-        "tmdb_id": 2359,
-        "imdb_id": "tt0386032"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "2007",
-    "nominees": [
-      "War Dance"
-    ],
-    "movies": [
-      {
-        "title": "War Dance",
-        "tmdb_id": 16666,
-        "imdb_id": "tt0912599"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2007",
-    "nominees": [
-      "Freeheld"
-    ],
-    "movies": [
-      {
-        "title": "Freeheld",
-        "tmdb_id": 245025,
-        "imdb_id": "tt0914369"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2007",
-    "nominees": [
-      "The Crown"
-    ],
-    "movies": [
-      {
-        "title": "The Crown",
-        "tmdb_id": 40535,
-        "imdb_id": "tt1157626"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2007",
-    "nominees": [
-      "Salim Baba"
-    ],
-    "movies": [
-      {
-        "title": "Salim Baba",
-        "tmdb_id": 245026,
-        "imdb_id": "tt1157707"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "2007",
-    "nominees": [
-      "Sari's Mother"
-    ],
-    "movies": [
-      {
-        "title": "Sari's Mother",
-        "tmdb_id": 245031,
-        "imdb_id": "tt0841160"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2007",
-    "nominees": [
-      "Ratatouille"
-    ],
-    "movies": [
-      {
-        "title": "Ratatouille",
-        "tmdb_id": 2062,
-        "imdb_id": "tt0382932"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2007",
-    "nominees": [
-      "Persepolis"
-    ],
-    "movies": [
-      {
-        "title": "Persepolis",
-        "tmdb_id": 2011,
-        "imdb_id": "tt0808417"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Feature",
-    "year": "2007",
-    "nominees": [
-      "Surf's Up"
-    ],
-    "movies": [
-      {
-        "title": "Surf's Up",
-        "tmdb_id": 9408,
-        "imdb_id": "tt0423294"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2007",
-    "nominees": [
-      "Peter & the Wolf"
-    ],
-    "movies": [
-      {
-        "title": "Peter & the Wolf",
-        "tmdb_id": 14518,
-        "imdb_id": "tt0863136"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2007",
-    "nominees": [
-      "I Met the Walrus"
-    ],
-    "movies": [
-      {
-        "title": "I Met the Walrus",
-        "tmdb_id": 159145,
-        "imdb_id": "tt1156511"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2007",
-    "nominees": [
-      "Madame Tutli-Putli"
-    ],
-    "movies": [
-      {
-        "title": "Madame Tutli-Putli",
-        "tmdb_id": 35253,
-        "imdb_id": "tt1029440"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2007",
-    "nominees": [
-      "Even Pigeons Go to Heaven"
-    ],
-    "movies": [
-      {
-        "title": "Even Pigeons Go to Heaven",
-        "tmdb_id": 50769,
-        "imdb_id": "tt1066329"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "2007",
-    "nominees": [
-      "My Love"
-    ],
-    "movies": [
-      {
-        "title": "My Love",
-        "tmdb_id": 104522,
-        "imdb_id": "tt0874952"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2007",
-    "nominees": [
-      "The Mozart of Pickpockets"
-    ],
-    "movies": [
-      {
-        "title": "The Mozart of Pickpockets",
-        "tmdb_id": 116604,
-        "imdb_id": "tt0820971"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2007",
-    "nominees": [
-      "At Night"
-    ],
-    "movies": [
-      {
-        "title": "At Night",
-        "tmdb_id": 201770,
-        "imdb_id": "tt1117985"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2007",
-    "nominees": [
-      "The Substitute"
-    ],
-    "movies": [
-      {
-        "title": "The Substitute",
-        "tmdb_id": 245023,
-        "imdb_id": "tt0922627"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2007",
-    "nominees": [
-      "Tanghi Argentini"
-    ],
-    "movies": [
-      {
-        "title": "Tanghi Argentini",
-        "tmdb_id": 162656,
-        "imdb_id": "tt0812387"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "2007",
-    "nominees": [
-      "The Tonto Woman"
-    ],
-    "movies": [
-      {
-        "title": "The Tonto Woman",
-        "tmdb_id": 245024,
-        "imdb_id": "tt1176466"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Dante Ferretti",
-      "Francesca Lo Schiavo"
-    ],
-    "movies": [
-      {
-        "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-        "tmdb_id": 13885,
-        "imdb_id": "tt0408236"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Arthur Max",
-      "Beth Rubino"
-    ],
-    "movies": [
-      {
-        "title": "American Gangster",
-        "tmdb_id": 4982,
-        "imdb_id": "tt0765429"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Sarah Greenwood",
-      "Katie Spencer"
-    ],
-    "movies": [
-      {
-        "title": "Atonement",
-        "tmdb_id": 4347,
-        "imdb_id": "tt0783233"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Dennis Gassner",
-      "Anna Pinnock"
-    ],
-    "movies": [
-      {
-        "title": "The Golden Compass",
-        "tmdb_id": 2268,
-        "imdb_id": "tt0385752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Jack Fisk",
-      "Jim Erickson"
-    ],
-    "movies": [
-      {
-        "title": "There Will Be Blood",
-        "tmdb_id": 7345,
-        "imdb_id": "tt0469494"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2007",
-    "nominees": [
-      "Robert Elswit"
-    ],
-    "movies": [
-      {
-        "title": "There Will Be Blood",
-        "tmdb_id": 7345,
-        "imdb_id": "tt0469494"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2007",
-    "nominees": [
-      "Roger Deakins"
-    ],
-    "movies": [
-      {
-        "title": "The Assassination of Jesse James by the Coward Robert Ford",
-        "tmdb_id": 4512,
-        "imdb_id": "tt0443680"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2007",
-    "nominees": [
-      "Seamus McGarvey"
-    ],
-    "movies": [
-      {
-        "title": "Atonement",
-        "tmdb_id": 4347,
-        "imdb_id": "tt0783233"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2007",
-    "nominees": [
-      "Janusz Kaminski"
-    ],
-    "movies": [
-      {
-        "title": "The Diving Bell and the Butterfly",
-        "tmdb_id": 2013,
-        "imdb_id": "tt0401383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "2007",
-    "nominees": [
-      "Roger Deakins"
-    ],
-    "movies": [
-      {
-        "title": "No Country for Old Men",
-        "tmdb_id": 6977,
-        "imdb_id": "tt0477348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2007",
-    "nominees": [
-      "Christopher Rouse"
-    ],
-    "movies": [
-      {
-        "title": "The Bourne Ultimatum",
-        "tmdb_id": 2503,
-        "imdb_id": "tt0440963"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2007",
-    "nominees": [
-      "Juliette Welfling"
-    ],
-    "movies": [
-      {
-        "title": "The Diving Bell and the Butterfly",
-        "tmdb_id": 2013,
-        "imdb_id": "tt0401383"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2007",
-    "nominees": [
-      "Jay Cassidy"
-    ],
-    "movies": [
-      {
-        "title": "Into the Wild",
-        "tmdb_id": 5915,
-        "imdb_id": "tt0758758"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2007",
-    "nominees": [
-      "Roderick Jaynes (Joel Coen",
-      "Ethan Coen)"
-    ],
-    "movies": [
-      {
-        "title": "No Country for Old Men",
-        "tmdb_id": 6977,
-        "imdb_id": "tt0477348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "2007",
-    "nominees": [
-      "Dylan Tichenor"
-    ],
-    "movies": [
-      {
-        "title": "There Will Be Blood",
-        "tmdb_id": 7345,
-        "imdb_id": "tt0469494"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2007",
-    "nominees": [
-      "Michael Fink",
-      "Bill Westenhofer",
-      "Ben Morris",
-      "Trevor Wood"
-    ],
-    "movies": [
-      {
-        "title": "The Golden Compass",
-        "tmdb_id": 2268,
-        "imdb_id": "tt0385752"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2007",
-    "nominees": [
-      "John Knoll",
-      "Hal Hickel",
-      "Charles Gibson",
-      "John Frazier"
-    ],
-    "movies": [
-      {
-        "title": "Pirates of the Caribbean: At World's End",
-        "tmdb_id": 285,
-        "imdb_id": "tt0449088"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "2007",
-    "nominees": [
-      "Scott Farrar",
-      "Scott Benza",
-      "Russell Earl",
-      "John Frazier"
-    ],
-    "movies": [
-      {
-        "title": "Transformers",
-        "tmdb_id": 1858,
-        "imdb_id": "tt0418279"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2007",
-    "nominees": [
-      "Scott Millan",
-      "David Parker",
-      "Kirk Francis"
-    ],
-    "movies": [
-      {
-        "title": "The Bourne Ultimatum",
-        "tmdb_id": 2503,
-        "imdb_id": "tt0440963"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2007",
-    "nominees": [
-      "Paul Massey",
-      "David Giammarco",
-      "Jim Stuebe"
-    ],
-    "movies": [
-      {
-        "title": "3:10 to Yuma",
-        "tmdb_id": 5176,
-        "imdb_id": "tt0381849"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2007",
-    "nominees": [
-      "Skip Lievsay",
-      "Craig Berkey",
-      "Greg Orloff",
-      "Peter Kurland"
-    ],
-    "movies": [
-      {
-        "title": "No Country for Old Men",
-        "tmdb_id": 6977,
-        "imdb_id": "tt0477348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2007",
-    "nominees": [
-      "Randy Thom",
-      "Michael Semanick",
-      "Doc Kane"
-    ],
-    "movies": [
-      {
-        "title": "Ratatouille",
-        "tmdb_id": 2062,
-        "imdb_id": "tt0382932"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "2007",
-    "nominees": [
-      "Kevin O'Connell",
-      "Greg P. Russell",
-      "Peter J. Devlin"
-    ],
-    "movies": [
-      {
-        "title": "Transformers",
-        "tmdb_id": 1858,
-        "imdb_id": "tt0418279"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2007",
-    "nominees": [
-      "Karen Baker Landers",
-      "Per Hallberg"
-    ],
-    "movies": [
-      {
-        "title": "The Bourne Ultimatum",
-        "tmdb_id": 2503,
-        "imdb_id": "tt0440963"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2007",
-    "nominees": [
-      "Skip Lievsay"
-    ],
-    "movies": [
-      {
-        "title": "No Country for Old Men",
-        "tmdb_id": 6977,
-        "imdb_id": "tt0477348"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2007",
-    "nominees": [
-      "Randy Thom",
-      "Michael Silvers"
-    ],
-    "movies": [
-      {
-        "title": "Ratatouille",
-        "tmdb_id": 2062,
-        "imdb_id": "tt0382932"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2007",
-    "nominees": [
-      "Christopher Scarabosio",
-      "Matthew Wood"
-    ],
-    "movies": [
-      {
-        "title": "There Will Be Blood",
-        "tmdb_id": 7345,
-        "imdb_id": "tt0469494"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Editing",
-    "year": "2007",
-    "nominees": [
-      "Mike Hopkins",
-      "Ethan Van der Ryn"
-    ],
-    "movies": [
-      {
-        "title": "Transformers",
-        "tmdb_id": 1858,
-        "imdb_id": "tt0418279"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2007",
-    "nominees": [
-      "Didier Lavergne",
-      "Jan Archibald"
-    ],
-    "movies": [
-      {
-        "title": "La Vie en Rose",
-        "tmdb_id": 1407,
-        "imdb_id": "tt0450188"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2007",
-    "nominees": [
-      "Rick Baker",
-      "Kazuhiro Tsuji"
-    ],
-    "movies": [
-      {
-        "title": "Norbit",
-        "tmdb_id": 9757,
-        "imdb_id": "tt0477051"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Makeup and Hairstyling",
-    "year": "2007",
-    "nominees": [
-      "Ve Neill",
-      "Martin Samuel"
-    ],
-    "movies": [
-      {
-        "title": "Pirates of the Caribbean: At World's End",
-        "tmdb_id": 285,
-        "imdb_id": "tt0449088"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Alexandra Byrne"
-    ],
-    "movies": [
-      {
-        "title": "Elizabeth: The Golden Age",
-        "tmdb_id": 4517,
-        "imdb_id": "tt0414055"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Albert Wolsky"
-    ],
-    "movies": [
-      {
-        "title": "Across the Universe",
-        "tmdb_id": 4688,
-        "imdb_id": "tt0445922"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Jacqueline Durran"
-    ],
-    "movies": [
-      {
-        "title": "Atonement",
-        "tmdb_id": 4347,
-        "imdb_id": "tt0783233"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Marit Allen"
-    ],
-    "movies": [
-      {
-        "title": "La Vie en Rose",
-        "tmdb_id": 1407,
-        "imdb_id": "tt0450188"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "2007",
-    "nominees": [
-      "Colleen Atwood"
-    ],
-    "movies": [
-      {
-        "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-        "tmdb_id": 13885,
-        "imdb_id": "tt0408236"
-      }
-    ],
-    "won": false
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Michael Clayton",
+    "FilmId": "tt0465538",
+    "Name": "George Clooney",
+    "Nominees": "George Clooney",
+    "NomineeIds": "nm0000123",
+    "Winner": "",
+    "Detail": "Michael Clayton",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "There Will Be Blood",
+    "FilmId": "tt0469494",
+    "Name": "Daniel Day-Lewis",
+    "Nominees": "Daniel Day-Lewis",
+    "NomineeIds": "nm0000358",
+    "Winner": "True",
+    "Detail": "Daniel Plainview",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Sweeney Todd The Demon Barber of Fleet Street",
+    "FilmId": "tt0408236",
+    "Name": "Johnny Depp",
+    "Nominees": "Johnny Depp",
+    "NomineeIds": "nm0000136",
+    "Winner": "",
+    "Detail": "Sweeney Todd",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "In the Valley of Elah",
+    "FilmId": "tt0478134",
+    "Name": "Tommy Lee Jones",
+    "Nominees": "Tommy Lee Jones",
+    "NomineeIds": "nm0000169",
+    "Winner": "",
+    "Detail": "Hank Deerfield",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Film": "Eastern Promises",
+    "FilmId": "tt0765443",
+    "Name": "Viggo Mortensen",
+    "Nominees": "Viggo Mortensen",
+    "NomineeIds": "nm0001557",
+    "Winner": "",
+    "Detail": "Nikolai",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Assassination of Jesse James by the Coward Robert Ford",
+    "FilmId": "tt0443680",
+    "Name": "Casey Affleck",
+    "Nominees": "Casey Affleck",
+    "NomineeIds": "nm0000729",
+    "Winner": "",
+    "Detail": "Robert Ford",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "No Country for Old Men",
+    "FilmId": "tt0477348",
+    "Name": "Javier Bardem",
+    "Nominees": "Javier Bardem",
+    "NomineeIds": "nm0000849",
+    "Winner": "True",
+    "Detail": "Anton Chigurh",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Charlie Wilson's War",
+    "FilmId": "tt0472062",
+    "Name": "Philip Seymour Hoffman",
+    "Nominees": "Philip Seymour Hoffman",
+    "NomineeIds": "nm0000450",
+    "Winner": "",
+    "Detail": "Gust Avrakotos",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Into the Wild",
+    "FilmId": "tt0758758",
+    "Name": "Hal Holbrook",
+    "Nominees": "Hal Holbrook",
+    "NomineeIds": "nm0001358",
+    "Winner": "",
+    "Detail": "Ron Franz",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Michael Clayton",
+    "FilmId": "tt0465538",
+    "Name": "Tom Wilkinson",
+    "Nominees": "Tom Wilkinson",
+    "NomineeIds": "nm0929489",
+    "Winner": "",
+    "Detail": "Arthur Edens",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Elizabeth: The Golden Age",
+    "FilmId": "tt0414055",
+    "Name": "Cate Blanchett",
+    "Nominees": "Cate Blanchett",
+    "NomineeIds": "nm0000949",
+    "Winner": "",
+    "Detail": "Queen Elizabeth I",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Away from Her",
+    "FilmId": "tt0491747",
+    "Name": "Julie Christie",
+    "Nominees": "Julie Christie",
+    "NomineeIds": "nm0001046",
+    "Winner": "",
+    "Detail": "Fiona",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "La Vie en Rose",
+    "FilmId": "tt0450188",
+    "Name": "Marion Cotillard",
+    "Nominees": "Marion Cotillard",
+    "NomineeIds": "nm0182839",
+    "Winner": "True",
+    "Detail": "Edith Piaf",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "The Savages",
+    "FilmId": "tt0775529",
+    "Name": "Laura Linney",
+    "Nominees": "Laura Linney",
+    "NomineeIds": "nm0001473",
+    "Winner": "",
+    "Detail": "Wendy Savage",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Film": "Juno",
+    "FilmId": "tt0467406",
+    "Name": "Elliot Page",
+    "Nominees": "Elliot Page",
+    "NomineeIds": "nm0680983",
+    "Winner": "",
+    "Detail": "Juno MacGuff",
+    "Note": "NOTE: Nomination originally submitted under Elliot Page’s prior name. At the request of the nominee, following his December 1, 2020 announcement that he is transgender, his name has been changed accordingly with support of the Academy’s Awards and Events Committee.",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "I'm Not There",
+    "FilmId": "tt0368794",
+    "Name": "Cate Blanchett",
+    "Nominees": "Cate Blanchett",
+    "NomineeIds": "nm0000949",
+    "Winner": "",
+    "Detail": "Jude",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "American Gangster",
+    "FilmId": "tt0765429",
+    "Name": "Ruby Dee",
+    "Nominees": "Ruby Dee",
+    "NomineeIds": "nm0002039",
+    "Winner": "",
+    "Detail": "Mama Lucas",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Atonement",
+    "FilmId": "tt0783233",
+    "Name": "Saoirse Ronan",
+    "Nominees": "Saoirse Ronan",
+    "NomineeIds": "nm1519680",
+    "Winner": "",
+    "Detail": "Briony Tallis, aged 13",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Gone Baby Gone",
+    "FilmId": "tt0452623",
+    "Name": "Amy Ryan",
+    "Nominees": "Amy Ryan",
+    "NomineeIds": "nm0752407",
+    "Winner": "",
+    "Detail": "Helene McCready",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Michael Clayton",
+    "FilmId": "tt0465538",
+    "Name": "Tilda Swinton",
+    "Nominees": "Tilda Swinton",
+    "NomineeIds": "nm0842770",
+    "Winner": "True",
+    "Detail": "Karen Crowder",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Persepolis",
+    "FilmId": "tt0808417",
+    "Name": "Marjane Satrapi and Vincent Paronnaud",
+    "Nominees": "Marjane Satrapi|Vincent Paronnaud",
+    "NomineeIds": "nm2277869|nm1749112",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Ratatouille",
+    "FilmId": "tt0382932",
+    "Name": "Brad Bird",
+    "Nominees": "Brad Bird",
+    "NomineeIds": "nm0083348",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "ANIMATED FEATURE FILM",
+    "Category": "ANIMATED FEATURE FILM",
+    "Film": "Surf's Up",
+    "FilmId": "tt0423294",
+    "Name": "Ash Brannon and Chris Buck",
+    "Nominees": "Ash Brannon|Chris Buck",
+    "NomineeIds": "nm0105169|nm0118333",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "American Gangster",
+    "FilmId": "tt0765429",
+    "Name": "Art Direction: Arthur Max; Set Decoration: Beth A. Rubino",
+    "Nominees": "Arthur Max|Beth A. Rubino",
+    "NomineeIds": "nm0561480|nm0748211",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Atonement",
+    "FilmId": "tt0783233",
+    "Name": "Art Direction: Sarah Greenwood; Set Decoration: Katie Spencer",
+    "Nominees": "Sarah Greenwood|Katie Spencer",
+    "NomineeIds": "nm0339391|nm0818005",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "The Golden Compass",
+    "FilmId": "tt0385752",
+    "Name": "Art Direction: Dennis Gassner; Set Decoration: Anna Pinnock",
+    "Nominees": "Dennis Gassner|Anna Pinnock",
+    "NomineeIds": "nm0309357|nm0003519",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "Sweeney Todd The Demon Barber of Fleet Street",
+    "FilmId": "tt0408236",
+    "Name": "Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+    "Nominees": "Dante Ferretti|Francesca Lo Schiavo",
+    "NomineeIds": "nm0274721|nm0521302",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION",
+    "Category": "ART DIRECTION",
+    "Film": "There Will Be Blood",
+    "FilmId": "tt0469494",
+    "Name": "Art Direction: Jack Fisk; Set Decoration: Jim Erickson",
+    "Nominees": "Jack Fisk|Jim Erickson",
+    "NomineeIds": "nm0279926|nm1075312",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Assassination of Jesse James by the Coward Robert Ford",
+    "FilmId": "tt0443680",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "Atonement",
+    "FilmId": "tt0783233",
+    "Name": "Seamus McGarvey",
+    "Nominees": "Seamus McGarvey",
+    "NomineeIds": "nm0568974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "The Diving Bell and the Butterfly",
+    "FilmId": "tt0401383",
+    "Name": "Janusz Kaminski",
+    "Nominees": "Janusz Kaminski",
+    "NomineeIds": "nm0001405",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "No Country for Old Men",
+    "FilmId": "tt0477348",
+    "Name": "Roger Deakins",
+    "Nominees": "Roger Deakins",
+    "NomineeIds": "nm0005683",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY",
+    "Category": "CINEMATOGRAPHY",
+    "Film": "There Will Be Blood",
+    "FilmId": "tt0469494",
+    "Name": "Robert Elswit",
+    "Nominees": "Robert Elswit",
+    "NomineeIds": "nm0005696",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Across the Universe",
+    "FilmId": "tt0445922",
+    "Name": "Albert Wolsky",
+    "Nominees": "Albert Wolsky",
+    "NomineeIds": "nm0938717",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Atonement",
+    "FilmId": "tt0783233",
+    "Name": "Jacqueline Durran",
+    "Nominees": "Jacqueline Durran",
+    "NomineeIds": "nm0244330",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Elizabeth: The Golden Age",
+    "FilmId": "tt0414055",
+    "Name": "Alexandra Byrne",
+    "Nominees": "Alexandra Byrne",
+    "NomineeIds": "nm0126107",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "La Vie en Rose",
+    "FilmId": "tt0450188",
+    "Name": "Marit Allen",
+    "Nominees": "Marit Allen",
+    "NomineeIds": "nm0020801",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN",
+    "Category": "COSTUME DESIGN",
+    "Film": "Sweeney Todd The Demon Barber of Fleet Street",
+    "FilmId": "tt0408236",
+    "Name": "Colleen Atwood",
+    "Nominees": "Colleen Atwood",
+    "NomineeIds": "nm0041181",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Diving Bell and the Butterfly",
+    "FilmId": "tt0401383",
+    "Name": "Julian Schnabel",
+    "Nominees": "Julian Schnabel",
+    "NomineeIds": "nm0773603",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Juno",
+    "FilmId": "tt0467406",
+    "Name": "Jason Reitman",
+    "Nominees": "Jason Reitman",
+    "NomineeIds": "nm0718646",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Michael Clayton",
+    "FilmId": "tt0465538",
+    "Name": "Tony Gilroy",
+    "Nominees": "Tony Gilroy",
+    "NomineeIds": "nm0006904",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "No Country for Old Men",
+    "FilmId": "tt0477348",
+    "Name": "Joel Coen and Ethan Coen",
+    "Nominees": "Joel Coen|Ethan Coen",
+    "NomineeIds": "nm0001054|nm0001053",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "There Will Be Blood",
+    "FilmId": "tt0469494",
+    "Name": "Paul Thomas Anderson",
+    "Nominees": "Paul Thomas Anderson",
+    "NomineeIds": "nm0000759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "No End in Sight",
+    "FilmId": "tt0912593",
+    "Name": "Charles Ferguson and Audrey Marrs",
+    "Nominees": "Charles Ferguson|Audrey Marrs",
+    "NomineeIds": "nm2480587|nm2513737",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Operation Homecoming: Writing the Wartime Experience",
+    "FilmId": "tt0970184",
+    "Name": "Richard E. Robbins",
+    "Nominees": "Richard E. Robbins",
+    "NomineeIds": "nm0730446",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Sicko",
+    "FilmId": "tt0386032",
+    "Name": "Michael Moore and Meghan O'Hara",
+    "Nominees": "Michael Moore|Meghan O'Hara",
+    "NomineeIds": "nm0601619|nm1713258",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Taxi to the Dark Side",
+    "FilmId": "tt0854678",
+    "Name": "Alex Gibney and Eva Orner",
+    "Nominees": "Alex Gibney|Eva Orner",
+    "NomineeIds": "nm0316795|nm0650321",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "War/Dance",
+    "FilmId": "tt0912599",
+    "Name": "Andrea Nix Fine and Sean Fine",
+    "Nominees": "Andrea Nix Fine|Sean Fine",
+    "NomineeIds": "nm2107225|nm0277658",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Freeheld",
+    "FilmId": "tt0914369",
+    "Name": "Cynthia Wade and Vanessa Roth",
+    "Nominees": "Cynthia Wade|Vanessa Roth",
+    "NomineeIds": "nm1106629|nm0745043",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "La Corona (The Crown)",
+    "FilmId": "tt1157626",
+    "Name": "Amanda Micheli and Isabel Vega",
+    "Nominees": "Amanda Micheli|Isabel Vega",
+    "NomineeIds": "nm0584974|nm2155565",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Salim Baba",
+    "FilmId": "tt1157707",
+    "Name": "Tim Sternberg and Francisco Bello",
+    "Nominees": "Tim Sternberg|Francisco Bello",
+    "NomineeIds": "nm0827922|nm2034116",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Sari's Mother",
+    "FilmId": "tt0841160",
+    "Name": "James Longley",
+    "Nominees": "James Longley",
+    "NomineeIds": "nm1228118",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Bourne Ultimatum",
+    "FilmId": "tt0440963",
+    "Name": "Christopher Rouse",
+    "Nominees": "Christopher Rouse",
+    "NomineeIds": "nm0002582",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Diving Bell and the Butterfly",
+    "FilmId": "tt0401383",
+    "Name": "Juliette Welfling",
+    "Nominees": "Juliette Welfling",
+    "NomineeIds": "nm0919761",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Into the Wild",
+    "FilmId": "tt0758758",
+    "Name": "Jay Cassidy",
+    "Nominees": "Jay Cassidy",
+    "NomineeIds": "nm0144203",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "No Country for Old Men",
+    "FilmId": "tt0477348",
+    "Name": "Roderick Jaynes",
+    "Nominees": "Roderick Jaynes",
+    "NomineeIds": "nm0001053,nm0001054",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "There Will Be Blood",
+    "FilmId": "tt0469494",
+    "Name": "Dylan Tichenor",
+    "Nominees": "Dylan Tichenor",
+    "NomineeIds": "nm0862664",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Beaufort",
+    "FilmId": "tt0758732",
+    "Name": "Israel",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Counterfeiters",
+    "FilmId": "tt0813547",
+    "Name": "Austria",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Katyn",
+    "FilmId": "tt0879843",
+    "Name": "Poland",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Mongol",
+    "FilmId": "tt0416044",
+    "Name": "Kazakhstan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": 12,
+    "FilmId": "tt0488478",
+    "Name": "Russia",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "La Vie en Rose",
+    "FilmId": "tt0450188",
+    "Name": "Didier Lavergne and Jan Archibald",
+    "Nominees": "Didier Lavergne|Jan Archibald",
+    "NomineeIds": "nm0491918|nm0033767",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Norbit",
+    "FilmId": "tt0477051",
+    "Name": "Rick Baker and Kazuhiro Tsuji",
+    "Nominees": "Rick Baker|Kazuhiro Tsuji",
+    "NomineeIds": "nm0000711|nm0875308",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "MAKEUP AND HAIRSTYLING",
+    "Category": "MAKEUP",
+    "Film": "Pirates of the Caribbean: At World's End",
+    "FilmId": "tt0449088",
+    "Name": "Ve Neill and Martin Samuel",
+    "Nominees": "Ve Neill|Martin Samuel",
+    "NomineeIds": "nm0624763|nm0760407",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Atonement",
+    "FilmId": "tt0783233",
+    "Name": "Dario Marianelli",
+    "Nominees": "Dario Marianelli",
+    "NomineeIds": "nm0547050",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "The Kite Runner",
+    "FilmId": "tt0419887",
+    "Name": "Alberto Iglesias",
+    "Nominees": "Alberto Iglesias",
+    "NomineeIds": "nm0407076",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Michael Clayton",
+    "FilmId": "tt0465538",
+    "Name": "James Newton Howard",
+    "Nominees": "James Newton Howard",
+    "NomineeIds": "nm0006133",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "Ratatouille",
+    "FilmId": "tt0382932",
+    "Name": "Michael Giacchino",
+    "Nominees": "Michael Giacchino",
+    "NomineeIds": "nm0315974",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Original Score)",
+    "Film": "3:10 to Yuma",
+    "FilmId": "tt0381849",
+    "Name": "Marco Beltrami",
+    "Nominees": "Marco Beltrami",
+    "NomineeIds": "nm0001937",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Once",
+    "FilmId": "tt0907657",
+    "Name": "Music and Lyric by Glen Hansard and Marketa Irglova",
+    "Nominees": "Glen Hansard|Marketa Irglova",
+    "NomineeIds": "nm0360598|nm2461627",
+    "Winner": "True",
+    "Detail": "Falling Slowly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Enchanted",
+    "FilmId": "tt0461770",
+    "Name": "Music by Alan Menken; Lyric by Stephen Schwartz",
+    "Nominees": "Alan Menken|Stephen Schwartz",
+    "NomineeIds": "nm0579678|nm0777451",
+    "Winner": "",
+    "Detail": "Happy Working Song",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "August Rush",
+    "FilmId": "tt0426931",
+    "Name": "Music and Lyric by Jamal Joseph, Charles Mack and Tevin Thomas",
+    "Nominees": "Jamal Joseph|Charles Mack|Tevin Thomas",
+    "NomineeIds": "nm0430606|nm1358629|nm11004643",
+    "Winner": "",
+    "Detail": "Raise It Up",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Enchanted",
+    "FilmId": "tt0461770",
+    "Name": "Music by Alan Menken; Lyric by Stephen Schwartz",
+    "Nominees": "Alan Menken|Stephen Schwartz",
+    "NomineeIds": "nm0579678|nm0777451",
+    "Winner": "",
+    "Detail": "So Close",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Original Song)",
+    "Film": "Enchanted",
+    "FilmId": "tt0461770",
+    "Name": "Music by Alan Menken; Lyric by Stephen Schwartz",
+    "Nominees": "Alan Menken|Stephen Schwartz",
+    "NomineeIds": "nm0579678|nm0777451",
+    "Winner": "",
+    "Detail": "That's How You Know",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Atonement",
+    "FilmId": "tt0783233",
+    "Name": "Tim Bevan, Eric Fellner and Paul Webster, Producers",
+    "Nominees": "Tim Bevan|Eric Fellner|Paul Webster",
+    "NomineeIds": "nm0079677|nm0271479|nm0916986",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Juno",
+    "FilmId": "tt0467406",
+    "Name": "Lianne Halfon, Mason Novick and Russell Smith, Producers",
+    "Nominees": "Lianne Halfon|Mason Novick|Russell Smith",
+    "NomineeIds": "nm0355147|nm1259504|nm0809833",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "Michael Clayton",
+    "FilmId": "tt0465538",
+    "Name": "Sydney Pollack, Jennifer Fox and Kerry Orent, Producers",
+    "Nominees": "Sydney Pollack|Jennifer Fox|Kerry Orent",
+    "NomineeIds": "nm0001628|nm0289048|nm0649715",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "No Country for Old Men",
+    "FilmId": "tt0477348",
+    "Name": "Scott Rudin, Ethan Coen and Joel Coen, Producers",
+    "Nominees": "Scott Rudin|Ethan Coen|Joel Coen",
+    "NomineeIds": "nm0748784|nm0001053|nm0001054",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST PICTURE",
+    "Film": "There Will Be Blood",
+    "FilmId": "tt0469494",
+    "Name": "JoAnne Sellar, Paul Thomas Anderson and Daniel Lupi, Producers",
+    "Nominees": "JoAnne Sellar|Paul Thomas Anderson|Daniel Lupi",
+    "NomineeIds": "nm0783280|nm0000759|nm0526917",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "I Met the Walrus",
+    "FilmId": "tt1156511",
+    "Name": "Josh Raskin",
+    "Nominees": "Josh Raskin",
+    "NomineeIds": "nm2865315",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Madame Tutli-Putli",
+    "FilmId": "tt1029440",
+    "Name": "Chris Lavis and Maciek Szczerbowski",
+    "Nominees": "Chris Lavis|Maciek Szczerbowski",
+    "NomineeIds": "nm2650321|nm2649299",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Même les Pigeons Vont au Paradis (Even Pigeons Go to Heaven)",
+    "FilmId": "tt1066329",
+    "Name": "Samuel Tourneux and Simon Vanesse",
+    "Nominees": "Samuel Tourneux|Simon Vanesse",
+    "NomineeIds": "nm1361017|nm2331343",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "My Love (Moya Lyubov)",
+    "FilmId": "tt0874952",
+    "Name": "Alexander Petrov",
+    "Nominees": "Alexander Petrov",
+    "NomineeIds": "nm0678154",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT FILM (Animated)",
+    "Film": "Peter & the Wolf",
+    "FilmId": "tt0863136",
+    "Name": "Suzie Templeton and Hugh Welchman",
+    "Nominees": "Suzie Templeton|Hugh Welchman",
+    "NomineeIds": "nm0994585|nm1364790",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "At Night",
+    "FilmId": "tt1117985",
+    "Name": "Christian E. Christiansen and Louise Vesth",
+    "Nominees": "Christian E. Christiansen|Louise Vesth",
+    "NomineeIds": "nm0160157|nm0895366",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Il Supplente (The Substitute)",
+    "FilmId": "tt0922627",
+    "Name": "Andrea Jublin",
+    "Nominees": "Andrea Jublin",
+    "NomineeIds": "nm2501703",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Le Mozart des Pickpockets (The Mozart of Pickpockets)",
+    "FilmId": "tt0820971",
+    "Name": "Philippe Pollet-Villard",
+    "Nominees": "Philippe Pollet-Villard",
+    "NomineeIds": "nm0689562",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "Tanghi Argentini",
+    "FilmId": "tt0812387",
+    "Name": "Guido Thys and Anja Daelemans",
+    "Nominees": "Guido Thys|Anja Daelemans",
+    "NomineeIds": "nm1157495|nm0196664",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT FILM (Live Action)",
+    "Film": "The Tonto Woman",
+    "FilmId": "tt1176466",
+    "Name": "Daniel Barber and Matthew Brown",
+    "Nominees": "Daniel Barber|Matthew Brown",
+    "NomineeIds": "nm2905562|nm2920142",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "The Bourne Ultimatum",
+    "FilmId": "tt0440963",
+    "Name": "Karen Baker Landers and Per Hallberg",
+    "Nominees": "Karen Baker Landers|Per Hallberg",
+    "NomineeIds": "nm0048623|nm0356319",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "No Country for Old Men",
+    "FilmId": "tt0477348",
+    "Name": "Skip Lievsay",
+    "Nominees": "Skip Lievsay",
+    "NomineeIds": "nm0509792",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Ratatouille",
+    "FilmId": "tt0382932",
+    "Name": "Randy Thom and Michael Silvers",
+    "Nominees": "Randy Thom|Michael Silvers",
+    "NomineeIds": "nm0858378|nm0799011",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "There Will Be Blood",
+    "FilmId": "tt0469494",
+    "Name": "Christopher Scarabosio and Matthew Wood",
+    "Nominees": "Christopher Scarabosio|Matthew Wood",
+    "NomineeIds": "nm0769042|nm0003214",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND EDITING",
+    "Category": "SOUND EDITING",
+    "Film": "Transformers",
+    "FilmId": "tt0418279",
+    "Name": "Ethan Van der Ryn and Mike Hopkins",
+    "Nominees": "Ethan Van der Ryn|Mike Hopkins",
+    "NomineeIds": "nm0886399|nm0394243",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "The Bourne Ultimatum",
+    "FilmId": "tt0440963",
+    "Name": "Scott Millan, David Parker and Kirk Francis",
+    "Nominees": "Scott Millan|David Parker|Kirk Francis",
+    "NomineeIds": "nm0586793|nm0662188|nm0290220",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "No Country for Old Men",
+    "FilmId": "tt0477348",
+    "Name": "Skip Lievsay, Craig Berkey, Greg Orloff and Peter Kurland",
+    "Nominees": "Skip Lievsay|Craig Berkey|Greg Orloff|Peter Kurland",
+    "NomineeIds": "nm0509792|nm0075389|nm0650088|nm0004212",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Ratatouille",
+    "FilmId": "tt0382932",
+    "Name": "Randy Thom, Michael Semanick and Doc Kane",
+    "Nominees": "Randy Thom|Michael Semanick|Doc Kane",
+    "NomineeIds": "nm0858378|nm0783713|nm0437301",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "3:10 to Yuma",
+    "FilmId": "tt0381849",
+    "Name": "Paul Massey, David Giammarco and Jim Stuebe",
+    "Nominees": "Paul Massey|David Giammarco|Jim Stuebe",
+    "NomineeIds": "nm0557338|nm0316102|nm0836096",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND MIXING",
+    "Film": "Transformers",
+    "FilmId": "tt0418279",
+    "Name": "Kevin O'Connell, Greg P. Russell and Peter J. Devlin",
+    "Nominees": "Kevin O'Connell|Greg P. Russell|Peter J. Devlin",
+    "NomineeIds": "nm0640114|nm0751169|nm0222818",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "The Golden Compass",
+    "FilmId": "tt0385752",
+    "Name": "Michael Fink, Bill Westenhofer, Ben Morris and Trevor Wood",
+    "Nominees": "Michael Fink|Bill Westenhofer|Ben Morris|Trevor Wood",
+    "NomineeIds": "nm0277842|nm0922543|nm0606377|nm0940058",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Pirates of the Caribbean: At World's End",
+    "FilmId": "tt0449088",
+    "Name": "John Knoll, Hal Hickel, Charles Gibson and John Frazier",
+    "Nominees": "John Knoll|Hal Hickel|Charles Gibson|John Frazier",
+    "NomineeIds": "nm0461306|nm0382579|nm0002716|nm0292594",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "VISUAL EFFECTS",
+    "Film": "Transformers",
+    "FilmId": "tt0418279",
+    "Name": "Scott Farrar, Scott Benza, Russell Earl and John Frazier",
+    "Nominees": "Scott Farrar|Scott Benza|Russell Earl|John Frazier",
+    "NomineeIds": "nm0268141|nm1388484|nm0247270|nm0292594",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Atonement",
+    "FilmId": "tt0783233",
+    "Name": "Screenplay by Christopher Hampton",
+    "Nominees": "Christopher Hampton",
+    "NomineeIds": "nm0358960",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "Away from Her",
+    "FilmId": "tt0491747",
+    "Name": "Written by Sarah Polley",
+    "Nominees": "Sarah Polley",
+    "NomineeIds": "nm0001631",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "The Diving Bell and the Butterfly",
+    "FilmId": "tt0401383",
+    "Name": "Screenplay by Ronald Harwood",
+    "Nominees": "Ronald Harwood",
+    "NomineeIds": "nm0367838",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "No Country for Old Men",
+    "FilmId": "tt0477348",
+    "Name": "Written for the screen by Joel Coen & Ethan Coen",
+    "Nominees": "Joel Coen|Ethan Coen",
+    "NomineeIds": "nm0001054|nm0001053",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Adapted Screenplay)",
+    "Film": "There Will Be Blood",
+    "FilmId": "tt0469494",
+    "Name": "Written for the Screen by Paul Thomas Anderson",
+    "Nominees": "Paul Thomas Anderson",
+    "NomineeIds": "nm0000759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Juno",
+    "FilmId": "tt0467406",
+    "Name": "Written by Diablo Cody",
+    "Nominees": "Diablo Cody",
+    "NomineeIds": "nm1959505",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Lars and the Real Girl",
+    "FilmId": "tt0805564",
+    "Name": "Written by Nancy Oliver",
+    "Nominees": "Nancy Oliver",
+    "NomineeIds": "nm1280672",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Michael Clayton",
+    "FilmId": "tt0465538",
+    "Name": "Written by Tony Gilroy",
+    "Nominees": "Tony Gilroy",
+    "NomineeIds": "nm0006904",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "Ratatouille",
+    "FilmId": "tt0382932",
+    "Name": "Screenplay by Brad Bird; Story by Jan Pinkava, Jim Capobianco, Brad Bird",
+    "Nominees": "Brad Bird|Jan Pinkava|Jim Capobianco",
+    "NomineeIds": "nm0083348|nm0684342|nm0135296",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Original Screenplay)",
+    "Film": "The Savages",
+    "FilmId": "tt0775529",
+    "Name": "Written by Tamara Jenkins",
+    "Nominees": "Tamara Jenkins",
+    "NomineeIds": "nm0420982",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Robert Boyle",
+    "NomineeIds": "nm0102327",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Robert Boyle in recognition of one of cinema's great careers in art direction."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Special",
+    "CanonicalCategory": "GORDON E. SAWYER AWARD",
+    "Category": "GORDON E. SAWYER AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David A. Grafton",
+    "NomineeIds": "nm0333849",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "David A. Grafton"
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Eastman Kodak Company",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "These new technologies are breakthroughs in film speed, grain and sharpness that have made a significant impact on the motion picture industry. The Vision2 family allows wider use of high-speed color negative film, lower light levels on set and faster set-ups. Most importantly, Vision2 improves the overall picture quality in theatrical presentation.",
+    "Citation": "To the EASTMAN KODAK COMPANY for the development of photographic emulsion technologies incorporated into the Kodak Vision2 family of color negative films."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Dr. Doug Roble|Nafees Bin Zafar|Ryo Sakaguchi",
+    "NomineeIds": "nm1647973|nm2534738|nm1234200",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This influential and flexible production-proven system incorporates innovative algorithms and refined adaptations of published methods to achieve large-scale water effects.",
+    "Citation": "To DR. DOUG ROBLE, NAFEES BIN ZAFAR and RYO SAKAGUCHI for the development of the fluid simulation system at Digital Domain."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Nick Rasmussen|Ron Fedkiw|Frank Losasso Petterson",
+    "NomineeIds": "nm1852638|nm1730590|nm2265913",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This production-proven simulation system achieves large-scale water effects within ILM's Zeno framework. It includes integrating particle level sets, parallel computation, and tools that enable the artistic direction of the results.",
+    "Citation": "To NICK RASMUSSEN, RON FEDKIW and FRANK LOSASSO PETTERSON for the development of the Industrial Light & Magic fluid simulation system."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Christien Tinsley",
+    "NomineeIds": "nm0864051",
+    "Winner": "True",
+    "Detail": "Systems",
+    "Note": "These techniques allow quick and precisely repeatable application of 2D makeup such as tattoos, bruises and birthmarks, as well as 3D prosthetic appliances ranging in size from small wounds to entire torsos. They utilize self-adhesive material that features an unprecedented combination of tissue-thin edges, resilience, flexibility and water resistance, while requiring no dangerous solvents.",
+    "Citation": "To CHRISTIEN TINSLEY for the creation of the transfer techniques for creating and applying 2D and 3D makeup known as \\\"Tinsley Transfers.\\"
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "JÖRG PÖHLER|RÜDIGER KLEINKE",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Stage Operations",
+    "Note": "The operating characteristics of this compact, well-engineered and remote-controllable package make possible a range of safe special effects that would be totally impractical with larger, more conventional fog units.",
+    "Citation": "To JÖRG PÖHLER and RÜDIGER KLEINKE of OTTEC Technology GmbH for the design and development of the battery-operated series of fog machines known as \\\"Tiny Foggers.\\"
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Sebastian Cramer|ANDREAS DASSER",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Camera Cranes",
+    "Note": "This small, portable, camera-only dolly allows low lens positions, movement in restricted places and tight offset circular maneuvers with rapid set-up.",
+    "Citation": "To SEBASTIAN CRAMER for the invention and general design, and ANDREAS DASSER, head of development at P&S Technik GmbH, for the mechanical design, of the Skater Dolly and its family of products."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Victor Gonzalez|Ignacio Vargas|Angel Tena",
+    "NomineeIds": "nm2938409|nm2938322|nm2938515",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "RealFlow was the first widely adopted, commercially available, easy-to-use system for the simulation of realistic liquids in motion picture visual effects.",
+    "Citation": "To VICTOR GONZALEZ, IGNACIO VARGAS and ANGEL TENA for the creation of the RealFlow software application."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jonathan M. Cohen|Dr. Jerry Tessendorf|Dr. Jeroen Molemaker|Michael Kowalski",
+    "NomineeIds": "nm1654208|nm0856339|?|nm2873165",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This system allows artists to create realistic animation of liquids and gases using novel simulation techniques for accuracy and speed, as well as a unique scripting language for working with volumetric data.",
+    "Citation": "To JONATHAN M. COHEN, DR. JERRY TESSENDORF, DR. JEROEN MOLEMAKER and MICHAEL KOWALSKI for the development of the system of fluid dynamics tools at Rhythm & Hues."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Duncan Brinsmead|Jos Stam|Julia Pakalns|Martin Werner",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "This system is used to create simulations of gaseous phenomena integrated into the widely available Maya tool suite, using an unconditionally stable semi-Lagrangian solver.",
+    "Citation": "To DUNCAN BRINSMEAD, JOS STAM, JULIA PAKALNS and MARTIN WERNER for the design and implementation of the Maya Fluid Effects system."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Stephan Trojansky|Thomas Ganshorn|Oliver Pilarski",
+    "NomineeIds": "nm1176756|nm1673446|nm2174779",
+    "Winner": "True",
+    "Detail": "Digital Imaging Technology",
+    "Note": "Flowline is a flexible system that incorporates highly parallel computation, allowing rapid iteration and resulting in detailed, realistic fluid effects.",
+    "Citation": "To STEPHAN TROJANSKY, THOMAS GANSHORN and OLIVER PILARSKI for the development of the Flowline fluid effects system."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Special",
+    "CanonicalCategory": "AWARD OF COMMENDATION",
+    "Category": "AWARD OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jonathan Erland",
+    "NomineeIds": "nm0259510",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "By coordinating and conducting tests for and with the industry, and by sharing results openly, Mr. Erland clearly demonstrated the value and effectiveness of independent research and industry-wide cooperation.",
+    "Citation": "To Jonathan Erland in recognition of his leadership and efforts toward identifying and solving the problem of High-Speed Emulsion Stress Syndrome in motion picture film stock."
+  },
+  {
+    "Ceremony": 80,
+    "Year": 2007,
+    "Class": "Special",
+    "CanonicalCategory": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "David Inglish",
+    "NomineeIds": "nm0408890",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To David Inglish in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
   }
 ]

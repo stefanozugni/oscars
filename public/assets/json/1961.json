@@ -1,1819 +1,2066 @@
 [
   {
-    "category": "Best Picture",
-    "year": "1961",
-    "nominees": [
-      "West Side Story"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Picture",
-    "year": "1961",
-    "nominees": [
-      "Fanny"
-    ],
-    "movies": [
-      {
-        "title": "Fanny",
-        "tmdb_id": 84050,
-        "imdb_id": "tt0054866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1961",
-    "nominees": [
-      "The Guns of Navarone"
-    ],
-    "movies": [
-      {
-        "title": "The Guns of Navarone",
-        "tmdb_id": 10911,
-        "imdb_id": "tt0054953"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1961",
-    "nominees": [
-      "The Hustler"
-    ],
-    "movies": [
-      {
-        "title": "The Hustler",
-        "tmdb_id": 990,
-        "imdb_id": "tt0054997"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Picture",
-    "year": "1961",
-    "nominees": [
-      "Judgment at Nuremberg"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1961",
-    "nominees": [
-      "Maximilian Schell"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actor",
-    "year": "1961",
-    "nominees": [
-      "Charles Boyer"
-    ],
-    "movies": [
-      {
-        "title": "Fanny",
-        "tmdb_id": 84050,
-        "imdb_id": "tt0054866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1961",
-    "nominees": [
-      "Paul Newman"
-    ],
-    "movies": [
-      {
-        "title": "The Hustler",
-        "tmdb_id": 990,
-        "imdb_id": "tt0054997"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1961",
-    "nominees": [
-      "Spencer Tracy"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actor",
-    "year": "1961",
-    "nominees": [
-      "Stuart Whitman"
-    ],
-    "movies": [
-      {
-        "title": "The Mark",
-        "tmdb_id": 153652,
-        "imdb_id": "tt0055146"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1961",
-    "nominees": [
-      "Sophia Loren"
-    ],
-    "movies": [
-      {
-        "title": "Two Women",
-        "tmdb_id": 24167,
-        "imdb_id": "tt0054749"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Actress",
-    "year": "1961",
-    "nominees": [
-      "Audrey Hepburn"
-    ],
-    "movies": [
-      {
-        "title": "Breakfast at Tiffany's",
-        "tmdb_id": 164,
-        "imdb_id": "tt0054698"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1961",
-    "nominees": [
-      "Piper Laurie"
-    ],
-    "movies": [
-      {
-        "title": "The Hustler",
-        "tmdb_id": 990,
-        "imdb_id": "tt0054997"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1961",
-    "nominees": [
-      "Geraldine Page"
-    ],
-    "movies": [
-      {
-        "title": "Summer and Smoke",
-        "tmdb_id": 94917,
-        "imdb_id": "tt0055489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Actress",
-    "year": "1961",
-    "nominees": [
-      "Natalie Wood"
-    ],
-    "movies": [
-      {
-        "title": "Splendor in the Grass",
-        "tmdb_id": 28569,
-        "imdb_id": "tt0055471"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1961",
-    "nominees": [
-      "George Chakiris"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1961",
-    "nominees": [
-      "Montgomery Clift"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1961",
-    "nominees": [
-      "Peter Falk"
-    ],
-    "movies": [
-      {
-        "title": "Pocketful of Miracles",
-        "tmdb_id": 248,
-        "imdb_id": "tt0055312"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1961",
-    "nominees": [
-      "Jackie Gleason"
-    ],
-    "movies": [
-      {
-        "title": "The Hustler",
-        "tmdb_id": 990,
-        "imdb_id": "tt0054997"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actor",
-    "year": "1961",
-    "nominees": [
-      "George C. Scott"
-    ],
-    "movies": [
-      {
-        "title": "The Hustler",
-        "tmdb_id": 990,
-        "imdb_id": "tt0054997"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1961",
-    "nominees": [
-      "Rita Moreno"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1961",
-    "nominees": [
-      "Fay Bainter"
-    ],
-    "movies": [
-      {
-        "title": "The Children's Hour",
-        "tmdb_id": 20139,
-        "imdb_id": "tt0054743"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1961",
-    "nominees": [
-      "Judy Garland"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1961",
-    "nominees": [
-      "Lotte Lenya"
-    ],
-    "movies": [
-      {
-        "title": "The Roman Spring of Mrs. Stone",
-        "tmdb_id": 36731,
-        "imdb_id": "tt0055382"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Supporting Actress",
-    "year": "1961",
-    "nominees": [
-      "Una Merkel"
-    ],
-    "movies": [
-      {
-        "title": "Summer and Smoke",
-        "tmdb_id": 94917,
-        "imdb_id": "tt0055489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1961",
-    "nominees": [
-      "Robert Wise",
-      "Jerome Robbins"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Director",
-    "year": "1961",
-    "nominees": [
-      "Stanley Kramer"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1961",
-    "nominees": [
-      "Federico Fellini"
-    ],
-    "movies": [
-      {
-        "title": "La Dolce Vita",
-        "tmdb_id": 439,
-        "imdb_id": "tt0053779"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1961",
-    "nominees": [
-      "J. Lee Thompson"
-    ],
-    "movies": [
-      {
-        "title": "The Guns of Navarone",
-        "tmdb_id": 10911,
-        "imdb_id": "tt0054953"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Director",
-    "year": "1961",
-    "nominees": [
-      "Robert Rossen"
-    ],
-    "movies": [
-      {
-        "title": "The Hustler",
-        "tmdb_id": 990,
-        "imdb_id": "tt0054997"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1961",
-    "nominees": [
-      "Abby Mann"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1961",
-    "nominees": [
-      "Ernest Lehman"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1961",
-    "nominees": [
-      "George Axelrod"
-    ],
-    "movies": [
-      {
-        "title": "Breakfast at Tiffany's",
-        "tmdb_id": 164,
-        "imdb_id": "tt0054698"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1961",
-    "nominees": [
-      "Carl Foreman"
-    ],
-    "movies": [
-      {
-        "title": "The Guns of Navarone",
-        "tmdb_id": 10911,
-        "imdb_id": "tt0054953"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Adapted Screenplay",
-    "year": "1961",
-    "nominees": [
-      "Robert Rossen",
-      "Sidney Carroll"
-    ],
-    "movies": [
-      {
-        "title": "The Hustler",
-        "tmdb_id": 990,
-        "imdb_id": "tt0054997"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1961",
-    "nominees": [
-      "William Inge"
-    ],
-    "movies": [
-      {
-        "title": "Splendor in the Grass",
-        "tmdb_id": 28569,
-        "imdb_id": "tt0055471"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1961",
-    "nominees": [
-      "Federico Fellini",
-      "Tullio Pinelli. Ennio Flaiano",
-      "Brunello Rondi"
-    ],
-    "movies": [
-      {
-        "title": "La Dolce Vita",
-        "tmdb_id": 439,
-        "imdb_id": "tt0053779"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1961",
-    "nominees": [
-      "Valentin Ezhov",
-      "Grigori Chukhrai"
-    ],
-    "movies": [
-      {
-        "title": "Ballad of a Soldier",
-        "tmdb_id": 46592,
-        "imdb_id": "tt0052600"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1961",
-    "nominees": [
-      "Sergio Amidei",
-      "Diego Fabbri",
-      "Indro Montanelli"
-    ],
-    "movies": [
-      {
-        "title": "General Della Rovere",
-        "tmdb_id": 43100,
-        "imdb_id": "tt0053856"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Screenplay",
-    "year": "1961",
-    "nominees": [
-      "Stanley Shapiro",
-      "Paul Henning"
-    ],
-    "movies": [
-      {
-        "title": "Lover Come Back",
-        "tmdb_id": 40894,
-        "imdb_id": "tt0055100"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1961",
-    "nominees": [
-      "Henry Mancini"
-    ],
-    "movies": [
-      {
-        "title": "Breakfast at Tiffany's",
-        "tmdb_id": 164,
-        "imdb_id": "tt0054698"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Score",
-    "year": "1961",
-    "nominees": [
-      "Miklos Rozsa"
-    ],
-    "movies": [
-      {
-        "title": "El Cid",
-        "tmdb_id": 16638,
-        "imdb_id": "tt0054847"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1961",
-    "nominees": [
-      "Morris Stoloff",
-      "Harry Sukman"
-    ],
-    "movies": [
-      {
-        "title": "Fanny",
-        "tmdb_id": 84050,
-        "imdb_id": "tt0054866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1961",
-    "nominees": [
-      "Elmer Bernstein"
-    ],
-    "movies": [
-      {
-        "title": "Summer and Smoke",
-        "tmdb_id": 94917,
-        "imdb_id": "tt0055489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Score",
-    "year": "1961",
-    "nominees": [
-      "Dimitri Tiomkin"
-    ],
-    "movies": [
-      {
-        "title": "The Guns of Navarone",
-        "tmdb_id": 10911,
-        "imdb_id": "tt0054953"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1961",
-    "nominees": [
-      "Saul Chaplin",
-      "Johnny Green",
-      "Sid Ramin",
-      "Irwin Kostal"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1961",
-    "nominees": [
-      "George Bruns"
-    ],
-    "movies": [
-      {
-        "title": "Babes in Toyland",
-        "tmdb_id": 32611,
-        "imdb_id": "tt0054649"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1961",
-    "nominees": [
-      "Alfred Newman",
-      "Ken Darby"
-    ],
-    "movies": [
-      {
-        "title": "Flower Drum Song",
-        "tmdb_id": 25105,
-        "imdb_id": "tt0054885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1961",
-    "nominees": [
-      "Dmitri Shostakovich"
-    ],
-    "movies": [
-      {
-        "title": "Khovanshchina",
-        "tmdb_id": 35070,
-        "imdb_id": "tt0055046"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Musical/Secondary Score Category",
-    "year": "1961",
-    "nominees": [
-      "Duke Ellington"
-    ],
-    "movies": [
-      {
-        "title": "Paris Blues",
-        "tmdb_id": 33710,
-        "imdb_id": "tt0055278"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1961",
-    "nominees": [
-      "Moon River"
-    ],
-    "movies": [
-      {
-        "title": "Breakfast at Tiffany's",
-        "tmdb_id": 164,
-        "imdb_id": "tt0054698"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1961",
-    "nominees": [
-      "Bachelor in Paradise"
-    ],
-    "movies": [
-      {
-        "title": "Bachelor in Paradise",
-        "tmdb_id": 52841,
-        "imdb_id": "tt0054652"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1961",
-    "nominees": [
-      "The Falcon and the Dove"
-    ],
-    "movies": [
-      {
-        "title": "El Cid",
-        "tmdb_id": 16638,
-        "imdb_id": "tt0054847"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1961",
-    "nominees": [
-      "Pocketful of Miracles"
-    ],
-    "movies": [
-      {
-        "title": "Pocketful of Miracles",
-        "tmdb_id": 248,
-        "imdb_id": "tt0055312"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Original Song",
-    "year": "1961",
-    "nominees": [
-      "Town Without Pity"
-    ],
-    "movies": [
-      {
-        "title": "Town Without Pity",
-        "tmdb_id": 93427,
-        "imdb_id": "tt0055539"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1961",
-    "nominees": [
-      "Through a Glass Darkly"
-    ],
-    "movies": [
-      {
-        "title": "Through a Glass Darkly",
-        "tmdb_id": 11602,
-        "imdb_id": "tt0055499"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1961",
-    "nominees": [
-      "Harry and the Butler"
-    ],
-    "movies": [
-      {
-        "title": "Harry and the Butler",
-        "tmdb_id": 57911,
-        "imdb_id": "tt0054965"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1961",
-    "nominees": [
-      "Immortal Love"
-    ],
-    "movies": [
-      {
-        "title": "Immortal Love",
-        "tmdb_id": 105470,
-        "imdb_id": "tt0054845"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1961",
-    "nominees": [
-      "The Important Man"
-    ],
-    "movies": [
-      {
-        "title": "The Important Man",
-        "tmdb_id": 111853,
-        "imdb_id": "tt0055646"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best International Feature Film",
-    "year": "1961",
-    "nominees": [
-      "Placido"
-    ],
-    "movies": [
-      {
-        "title": "Placido",
-        "tmdb_id": 51317,
-        "imdb_id": "tt0055310"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1961",
-    "nominees": [
-      "Sky Above and Mud Beneath"
-    ],
-    "movies": [
-      {
-        "title": "Sky Above and Mud Beneath",
-        "tmdb_id": 114507,
-        "imdb_id": "tt0053714"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Feature",
-    "year": "1961",
-    "nominees": [
-      "The Grand Olympics"
-    ],
-    "movies": [
-      {
-        "title": "The Grand Olympics",
-        "tmdb_id": 149281,
-        "imdb_id": "tt0054940"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1961",
-    "nominees": [
-      "Project Hope"
-    ],
-    "movies": [
-      {
-        "title": "Project Hope",
-        "tmdb_id": 243209,
-        "imdb_id": "tt0055333"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1961",
-    "nominees": [
-      "Breaking the Language Barrier"
-    ],
-    "movies": [
-      {
-        "title": "Breaking the Language Barrier",
-        "tmdb_id": 243210,
-        "imdb_id": "tt0054699"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1961",
-    "nominees": [
-      "Cradle of Genius"
-    ],
-    "movies": [
-      {
-        "title": "Cradle of Genius",
-        "tmdb_id": 243211,
-        "imdb_id": "tt0054767"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1961",
-    "nominees": [
-      "Kahl"
-    ],
-    "movies": [
-      {
-        "title": "Kahl",
-        "tmdb_id": 243212,
-        "imdb_id": "tt0055040"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Documentary Short",
-    "year": "1961",
-    "nominees": [
-      "The Man in Gray"
-    ],
-    "movies": [
-      {
-        "title": "The Man in Gray",
-        "tmdb_id": 243216,
-        "imdb_id": "tt0055576"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1961",
-    "nominees": [
-      "The Substitute"
-    ],
-    "movies": [
-      {
-        "title": "The Substitute",
-        "tmdb_id": 128960,
-        "imdb_id": "tt0054854"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1961",
-    "nominees": [
-      "Aquamania"
-    ],
-    "movies": [
-      {
-        "title": "Aquamania",
-        "tmdb_id": 66820,
-        "imdb_id": "tt0054634"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1961",
-    "nominees": [
-      "Beep Prepared"
-    ],
-    "movies": [
-      {
-        "title": "Beep Prepared",
-        "tmdb_id": 234704,
-        "imdb_id": "tt0054674"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1961",
-    "nominees": [
-      "Nelly's Folly"
-    ],
-    "movies": [
-      {
-        "title": "Nelly's Folly",
-        "tmdb_id": 168187,
-        "imdb_id": "tt0055223"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Animated Short",
-    "year": "1961",
-    "nominees": [
-      "The Pied Piper of Guadalupe"
-    ],
-    "movies": [
-      {
-        "title": "The Pied Piper of Guadalupe",
-        "tmdb_id": 234707,
-        "imdb_id": "tt0055298"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1961",
-    "nominees": [
-      "Seawards the Great Ships"
-    ],
-    "movies": [
-      {
-        "title": "Seawards the Great Ships",
-        "tmdb_id": 243202,
-        "imdb_id": "tt0055420"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1961",
-    "nominees": [
-      "Play Ball!"
-    ],
-    "movies": [
-      {
-        "title": "Play Ball!",
-        "tmdb_id": 243204,
-        "imdb_id": "tt0054658"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1961",
-    "nominees": [
-      "The Face of Jesus"
-    ],
-    "movies": [
-      {
-        "title": "The Face of Jesus",
-        "tmdb_id": 243206,
-        "imdb_id": "tt0054863"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1961",
-    "nominees": [
-      "Rooftops of New York"
-    ],
-    "movies": [
-      {
-        "title": "Rooftops of New York",
-        "tmdb_id": 243207,
-        "imdb_id": "tt0055384"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
-    "year": "1961",
-    "nominees": [
-      "Very Nice, Very Nice"
-    ],
-    "movies": [
-      {
-        "title": "Very Nice, Very Nice",
-        "tmdb_id": 127835,
-        "imdb_id": "tt0055594"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Harry Horner",
-      "Gene Callahan"
-    ],
-    "movies": [
-      {
-        "title": "The Hustler",
-        "tmdb_id": 990,
-        "imdb_id": "tt0054997"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Rudolph Sternad",
-      "George Milo"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Carroll Clark",
-      "Emile Kuri",
-      "Hal Gausman"
-    ],
-    "movies": [
-      {
-        "title": "The Absent-Minded Professor",
-        "tmdb_id": 17984,
-        "imdb_id": "tt0054594"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Piero Gherardi"
-    ],
-    "movies": [
-      {
-        "title": "La Dolce Vita",
-        "tmdb_id": 439,
-        "imdb_id": "tt0053779"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Fernando Carrere",
-      "Edward G. Boyle"
-    ],
-    "movies": [
-      {
-        "title": "The Children's Hour",
-        "tmdb_id": 20139,
-        "imdb_id": "tt0054743"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Boris Leven",
-      "Victor A. Gangelin"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Hal Pereira",
-      "Roland Anderson",
-      "Samuel M. Comer",
-      "Ray Moyer"
-    ],
-    "movies": [
-      {
-        "title": "Breakfast at Tiffany's",
-        "tmdb_id": 164,
-        "imdb_id": "tt0054698"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Alexander Golitzen",
-      "Joseph Wright",
-      "Howard Bristol"
-    ],
-    "movies": [
-      {
-        "title": "Flower Drum Song",
-        "tmdb_id": 25105,
-        "imdb_id": "tt0054885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Veniero Colasanti",
-      "John Moore"
-    ],
-    "movies": [
-      {
-        "title": "El Cid",
-        "tmdb_id": 16638,
-        "imdb_id": "tt0054847"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Production Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Hal Pereira",
-      "Walter Tyler",
-      "Samuel M. Comer",
-      "Arthur Krams"
-    ],
-    "movies": [
-      {
-        "title": "Summer and Smoke",
-        "tmdb_id": 94917,
-        "imdb_id": "tt0055489"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Eugen Schufftan"
-    ],
-    "movies": [
-      {
-        "title": "The Hustler",
-        "tmdb_id": 990,
-        "imdb_id": "tt0054997"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Ernest Laszlo"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Daniel L. Fapp"
-    ],
-    "movies": [
-      {
-        "title": "One, Two, Three",
-        "tmdb_id": 430,
-        "imdb_id": "tt0055256"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Edward Colman"
-    ],
-    "movies": [
-      {
-        "title": "The Absent-Minded Professor",
-        "tmdb_id": 17984,
-        "imdb_id": "tt0054594"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Franz Planer"
-    ],
-    "movies": [
-      {
-        "title": "The Children's Hour",
-        "tmdb_id": 20139,
-        "imdb_id": "tt0054743"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1961",
-    "nominees": [
-      "Daniel L. Fapp"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1961",
-    "nominees": [
-      "Harry Stradling Sr."
-    ],
-    "movies": [
-      {
-        "title": "A Majority of One",
-        "tmdb_id": 158800,
-        "imdb_id": "tt0055124"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1961",
-    "nominees": [
-      "Jack Cardiff"
-    ],
-    "movies": [
-      {
-        "title": "Fanny",
-        "tmdb_id": 84050,
-        "imdb_id": "tt0054866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1961",
-    "nominees": [
-      "Russell Metty"
-    ],
-    "movies": [
-      {
-        "title": "Flower Drum Song",
-        "tmdb_id": 25105,
-        "imdb_id": "tt0054885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Cinematography (Color)",
-    "year": "1961",
-    "nominees": [
-      "Charles Lang Jr."
-    ],
-    "movies": [
-      {
-        "title": "One-Eyed Jacks",
-        "tmdb_id": 18647,
-        "imdb_id": "tt0055257"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1961",
-    "nominees": [
-      "Thomas Stanford"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1961",
-    "nominees": [
-      "Philip W. Anderson"
-    ],
-    "movies": [
-      {
-        "title": "The Parent Trap",
-        "tmdb_id": 19186,
-        "imdb_id": "tt0055277"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1961",
-    "nominees": [
-      "William H. Reynolds"
-    ],
-    "movies": [
-      {
-        "title": "Fanny",
-        "tmdb_id": 84050,
-        "imdb_id": "tt0054866"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1961",
-    "nominees": [
-      "Frederic Knudtson"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Film Editing",
-    "year": "1961",
-    "nominees": [
-      "Alan Osbiston"
-    ],
-    "movies": [
-      {
-        "title": "The Guns of Navarone",
-        "tmdb_id": 10911,
-        "imdb_id": "tt0054953"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1961",
-    "nominees": [
-      "Bill Warrington",
-      "Vivian C. Greenham"
-    ],
-    "movies": [
-      {
-        "title": "The Guns of Navarone",
-        "tmdb_id": 10911,
-        "imdb_id": "tt0054953"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Visual/Special Effects",
-    "year": "1961",
-    "nominees": [
-      "Robert A. Mattey",
-      "Eustace Lycett"
-    ],
-    "movies": [
-      {
-        "title": "The Absent-Minded Professor",
-        "tmdb_id": 17984,
-        "imdb_id": "tt0054594"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1961",
-    "nominees": [
-      "Gordon Sawyer",
-      "Fred Hynes"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1961",
-    "nominees": [
-      "Gordon E. Sawyer"
-    ],
-    "movies": [
-      {
-        "title": "The Children's Hour",
-        "tmdb_id": 20139,
-        "imdb_id": "tt0054743"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1961",
-    "nominees": [
-      "Waldon O. Watson"
-    ],
-    "movies": [
-      {
-        "title": "Flower Drum Song",
-        "tmdb_id": 25105,
-        "imdb_id": "tt0054885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1961",
-    "nominees": [
-      "John Cox"
-    ],
-    "movies": [
-      {
-        "title": "The Guns of Navarone",
-        "tmdb_id": 10911,
-        "imdb_id": "tt0054953"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Sound Mixing",
-    "year": "1961",
-    "nominees": [
-      "Robert O. Cook"
-    ],
-    "movies": [
-      {
-        "title": "The Parent Trap",
-        "tmdb_id": 19186,
-        "imdb_id": "tt0055277"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Piero Gherardi"
-    ],
-    "movies": [
-      {
-        "title": "La Dolce Vita",
-        "tmdb_id": 439,
-        "imdb_id": "tt0053779"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Howard Shoup"
-    ],
-    "movies": [
-      {
-        "title": "Claudelle Inglish",
-        "tmdb_id": 129165,
-        "imdb_id": "tt0054752"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Jean Louis"
-    ],
-    "movies": [
-      {
-        "title": "Judgment at Nuremberg",
-        "tmdb_id": 821,
-        "imdb_id": "tt0055031"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Dorothy Jeakins"
-    ],
-    "movies": [
-      {
-        "title": "The Children's Hour",
-        "tmdb_id": 20139,
-        "imdb_id": "tt0054743"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Black and White)",
-    "year": "1961",
-    "nominees": [
-      "Yoshiro Muraki"
-    ],
-    "movies": [
-      {
-        "title": "Yojimbo",
-        "tmdb_id": 11878,
-        "imdb_id": "tt0055630"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Irene Sharaff"
-    ],
-    "movies": [
-      {
-        "title": "West Side Story",
-        "tmdb_id": 1725,
-        "imdb_id": "tt0055614"
-      }
-    ],
-    "won": true
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Jean Louis"
-    ],
-    "movies": [
-      {
-        "title": "Back Street",
-        "tmdb_id": 43017,
-        "imdb_id": "tt0054653"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Bill Thomas"
-    ],
-    "movies": [
-      {
-        "title": "Babes in Toyland",
-        "tmdb_id": 32611,
-        "imdb_id": "tt0054649"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Irene Sharaff"
-    ],
-    "movies": [
-      {
-        "title": "Flower Drum Song",
-        "tmdb_id": 25105,
-        "imdb_id": "tt0054885"
-      }
-    ],
-    "won": false
-  },
-  {
-    "category": "Best Costume Design (Color)",
-    "year": "1961",
-    "nominees": [
-      "Edith Head",
-      "Walter Plunkett"
-    ],
-    "movies": [
-      {
-        "title": "Pocketful of Miracles",
-        "tmdb_id": 248,
-        "imdb_id": "tt0055312"
-      }
-    ],
-    "won": false
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Fanny",
+    "FilmId": "tt0054866",
+    "Name": "Charles Boyer",
+    "Nominees": "Charles Boyer",
+    "NomineeIds": "nm0000964",
+    "Winner": "",
+    "Detail": "César",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Hustler",
+    "FilmId": "tt0054997",
+    "Name": "Paul Newman",
+    "Nominees": "Paul Newman",
+    "NomineeIds": "nm0000056",
+    "Winner": "",
+    "Detail": "Eddie Felson",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Maximilian Schell",
+    "Nominees": "Maximilian Schell",
+    "NomineeIds": "nm0001703",
+    "Winner": "True",
+    "Detail": "Hans Rolfe",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Spencer Tracy",
+    "Nominees": "Spencer Tracy",
+    "NomineeIds": "nm0000075",
+    "Winner": "",
+    "Detail": "Judge Dan Haywood",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A LEADING ROLE",
+    "Category": "ACTOR",
+    "Film": "The Mark",
+    "FilmId": "tt0055146",
+    "Name": "Stuart Whitman",
+    "Nominees": "Stuart Whitman",
+    "NomineeIds": "nm0926183",
+    "Winner": "",
+    "Detail": "Jim Fuller",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "George Chakiris",
+    "Nominees": "George Chakiris",
+    "NomineeIds": "nm0001995",
+    "Winner": "True",
+    "Detail": "Bernardo",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Montgomery Clift",
+    "Nominees": "Montgomery Clift",
+    "NomineeIds": "nm0001050",
+    "Winner": "",
+    "Detail": "Rudolph Petersen",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "Pocketful of Miracles",
+    "FilmId": "tt0055312",
+    "Name": "Peter Falk",
+    "Nominees": "Peter Falk",
+    "NomineeIds": "nm0000393",
+    "Winner": "",
+    "Detail": "Joy Boy",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Hustler",
+    "FilmId": "tt0054997",
+    "Name": "Jackie Gleason",
+    "Nominees": "Jackie Gleason",
+    "NomineeIds": "nm0001276",
+    "Winner": "",
+    "Detail": "Minnesota Fats",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTOR IN A SUPPORTING ROLE",
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Film": "The Hustler",
+    "FilmId": "tt0054997",
+    "Name": "George C. Scott",
+    "Nominees": "George C. Scott",
+    "NomineeIds": "nm0001715",
+    "Winner": "",
+    "Detail": "Bert Gordon",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Breakfast at Tiffany's",
+    "FilmId": "tt0054698",
+    "Name": "Audrey Hepburn",
+    "Nominees": "Audrey Hepburn",
+    "NomineeIds": "nm0000030",
+    "Winner": "",
+    "Detail": "Holly Golightly",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "The Hustler",
+    "FilmId": "tt0054997",
+    "Name": "Piper Laurie",
+    "Nominees": "Piper Laurie",
+    "NomineeIds": "nm0001453",
+    "Winner": "",
+    "Detail": "Sarah Packard",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Two Women",
+    "FilmId": "tt0054749",
+    "Name": "Sophia Loren",
+    "Nominees": "Sophia Loren",
+    "NomineeIds": "nm0000047",
+    "Winner": "True",
+    "Detail": "Cesira",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Summer and Smoke",
+    "FilmId": "tt0055489",
+    "Name": "Geraldine Page",
+    "Nominees": "Geraldine Page",
+    "NomineeIds": "nm0656183",
+    "Winner": "",
+    "Detail": "Alma Winemiller",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A LEADING ROLE",
+    "Category": "ACTRESS",
+    "Film": "Splendor in the Grass",
+    "FilmId": "tt0055471",
+    "Name": "Natalie Wood",
+    "Nominees": "Natalie Wood",
+    "NomineeIds": "nm0000081",
+    "Winner": "",
+    "Detail": "Wilma Dean Loomis",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Children's Hour",
+    "FilmId": "tt0054743",
+    "Name": "Fay Bainter",
+    "Nominees": "Fay Bainter",
+    "NomineeIds": "nm0047810",
+    "Winner": "",
+    "Detail": "Mrs. Amelia Tilford",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Judy Garland",
+    "Nominees": "Judy Garland",
+    "NomineeIds": "nm0000023",
+    "Winner": "",
+    "Detail": "Irene Hoffman",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "The Roman Spring of Mrs. Stone",
+    "FilmId": "tt0055382",
+    "Name": "Lotte Lenya",
+    "Nominees": "Lotte Lenya",
+    "NomineeIds": "nm0502322",
+    "Winner": "",
+    "Detail": "Countess Magda Terribili-Gonzales",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "Summer and Smoke",
+    "FilmId": "tt0055489",
+    "Name": "Una Merkel",
+    "Nominees": "Una Merkel",
+    "NomineeIds": "nm0580916",
+    "Winner": "",
+    "Detail": "Mrs. Winemiller",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Acting",
+    "CanonicalCategory": "ACTRESS IN A SUPPORTING ROLE",
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Rita Moreno",
+    "Nominees": "Rita Moreno",
+    "NomineeIds": "nm0001549",
+    "Winner": "True",
+    "Detail": "Anita",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Absent Minded Professor",
+    "FilmId": "tt0054594",
+    "Name": "Art Direction: Carroll Clark; Set Decoration: Emile Kuri, Hal Gausman",
+    "Nominees": "Carroll Clark|Emile Kuri|Hal Gausman",
+    "NomineeIds": "nm0163754|nm0475689|nm0310198",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Children's Hour",
+    "FilmId": "tt0054743",
+    "Name": "Art Direction: Fernando Carrere; Set Decoration: Edward G. Boyle",
+    "Nominees": "Fernando Carrere|Edward G. Boyle",
+    "NomineeIds": "nm0140267|nm0102231",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "The Hustler",
+    "FilmId": "tt0054997",
+    "Name": "Art Direction: Harry Horner; Set Decoration: Gene Callahan",
+    "Nominees": "Harry Horner|Gene Callahan",
+    "NomineeIds": "nm0395105|nm0130194",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Art Direction: Rudolph Sternad; Set Decoration: George Milo",
+    "Nominees": "Rudolph Sternad|George Milo",
+    "NomineeIds": "nm0827889|nm0590434",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Black-and-White)",
+    "Category": "ART DIRECTION (Black-and-White)",
+    "Film": "La Dolce Vita",
+    "FilmId": "tt0053779",
+    "Name": "Piero Gherardi",
+    "Nominees": "Piero Gherardi",
+    "NomineeIds": "nm0315662",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Breakfast at Tiffany's",
+    "FilmId": "tt0054698",
+    "Name": "Art Direction: Hal Pereira, Roland Anderson; Set Decoration: Sam Comer, Ray Moyer",
+    "Nominees": "Hal Pereira|Roland Anderson|Sam Comer|Ray Moyer",
+    "NomineeIds": "nm0673134|nm0027380|nm0173754|nm0610455",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "El Cid",
+    "FilmId": "tt0054847",
+    "Name": "Art Direction: Veniero Colasanti, John Moore",
+    "Nominees": "Veniero Colasanti|John Moore",
+    "NomineeIds": "nm0170223|nm0601378",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Flower Drum Song",
+    "FilmId": "tt0054885",
+    "Name": "Art Direction: Alexander Golitzen, Joseph Wright; Set Decoration: Howard Bristol",
+    "Nominees": "Alexander Golitzen|Joseph Wright|Howard Bristol",
+    "NomineeIds": "nm0326529|nm0942532|nm0109924",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "Summer and Smoke",
+    "FilmId": "tt0055489",
+    "Name": "Art Direction: Hal Pereira, Walter Tyler; Set Decoration: Sam Comer, Arthur Krams",
+    "Nominees": "Hal Pereira|Walter Tyler|Sam Comer|Arthur Krams",
+    "NomineeIds": "nm0673134|nm0878934|nm0173754|nm0469735",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "ART DIRECTION (Color)",
+    "Category": "ART DIRECTION (Color)",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Art Direction: Boris Leven; Set Decoration: Victor A. Gangelin",
+    "Nominees": "Boris Leven|Victor A. Gangelin",
+    "NomineeIds": "nm0505227|nm0304322",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Absent Minded Professor",
+    "FilmId": "tt0054594",
+    "Name": "Edward Colman",
+    "Nominees": "Edward Colman",
+    "NomineeIds": "nm0169344",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Children's Hour",
+    "FilmId": "tt0054743",
+    "Name": "Franz F. Planer",
+    "Nominees": "Franz F. Planer",
+    "NomineeIds": "nm0005832",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "The Hustler",
+    "FilmId": "tt0054997",
+    "Name": "Eugen Shuftan",
+    "Nominees": "Eugen Shuftan",
+    "NomineeIds": "nm0005867",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Ernest Laszlo",
+    "Nominees": "Ernest Laszlo",
+    "NomineeIds": "nm0005768",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Black-and-White)",
+    "Category": "CINEMATOGRAPHY (Black-and-White)",
+    "Film": "One, Two, Three",
+    "FilmId": "tt0055256",
+    "Name": "Daniel L. Fapp",
+    "Nominees": "Daniel L. Fapp",
+    "NomineeIds": "nm0005701",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Fanny",
+    "FilmId": "tt0054866",
+    "Name": "Jack Cardiff",
+    "Nominees": "Jack Cardiff",
+    "NomineeIds": "nm0002153",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "Flower Drum Song",
+    "FilmId": "tt0054885",
+    "Name": "Russell Metty",
+    "Nominees": "Russell Metty",
+    "NomineeIds": "nm0005797",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "A Majority of One",
+    "FilmId": "tt0055124",
+    "Name": "Harry Stradling, Sr.",
+    "Nominees": "Harry Stradling Sr.",
+    "NomineeIds": "nm0005889",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "One-Eyed Jacks",
+    "FilmId": "tt0055257",
+    "Name": "Charles Lang, Jr.",
+    "Nominees": "Charles Lang Jr.",
+    "NomineeIds": "nm0485702",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "CINEMATOGRAPHY (Color)",
+    "Category": "CINEMATOGRAPHY (Color)",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Daniel L. Fapp",
+    "Nominees": "Daniel L. Fapp",
+    "NomineeIds": "nm0005701",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "The Children's Hour",
+    "FilmId": "tt0054743",
+    "Name": "Dorothy Jeakins",
+    "Nominees": "Dorothy Jeakins",
+    "NomineeIds": "nm0419820",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Claudelle Inglish",
+    "FilmId": "tt0054752",
+    "Name": "Howard Shoup",
+    "Nominees": "Howard Shoup",
+    "NomineeIds": "nm0795251",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Jean Louis",
+    "Nominees": "Jean Louis",
+    "NomineeIds": "nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "La Dolce Vita",
+    "FilmId": "tt0053779",
+    "Name": "Piero Gherardi",
+    "Nominees": "Piero Gherardi",
+    "NomineeIds": "nm0315662",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Black-and-White)",
+    "Category": "COSTUME DESIGN (Black-and-White)",
+    "Film": "Yojimbo",
+    "FilmId": "tt0055630",
+    "Name": "Yoshiro Muraki",
+    "Nominees": "Yoshiro Muraki",
+    "NomineeIds": "nm0613499",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Babes in Toyland",
+    "FilmId": "tt0054649",
+    "Name": "Bill Thomas",
+    "Nominees": "Bill Thomas",
+    "NomineeIds": "nm0858528",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Back Street",
+    "FilmId": "tt0054653",
+    "Name": "Jean Louis",
+    "Nominees": "Jean Louis",
+    "NomineeIds": "nm0521872",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Flower Drum Song",
+    "FilmId": "tt0054885",
+    "Name": "Irene Sharaff",
+    "Nominees": "Irene Sharaff",
+    "NomineeIds": "nm0788695",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "Pocketful of Miracles",
+    "FilmId": "tt0055312",
+    "Name": "Edith Head, Walter Plunkett",
+    "Nominees": "Edith Head|Walter Plunkett",
+    "NomineeIds": "nm0372128|nm0687703",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "COSTUME DESIGN (Color)",
+    "Category": "COSTUME DESIGN (Color)",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Irene Sharaff",
+    "Nominees": "Irene Sharaff",
+    "NomineeIds": "nm0788695",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Guns of Navarone",
+    "FilmId": "tt0054953",
+    "Name": "J. Lee Thompson",
+    "Nominees": "J. Lee Thompson",
+    "NomineeIds": "nm0496746",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "The Hustler",
+    "FilmId": "tt0054997",
+    "Name": "Robert Rossen",
+    "Nominees": "Robert Rossen",
+    "NomineeIds": "nm0744035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Stanley Kramer",
+    "Nominees": "Stanley Kramer",
+    "NomineeIds": "nm0006452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "La Dolce Vita",
+    "FilmId": "tt0053779",
+    "Name": "Federico Fellini",
+    "Nominees": "Federico Fellini",
+    "NomineeIds": "nm0000019",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Directing",
+    "CanonicalCategory": "DIRECTING",
+    "Category": "DIRECTING",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Robert Wise, Jerome Robbins",
+    "Nominees": "Robert Wise|Jerome Robbins",
+    "NomineeIds": "nm0936404|nm0730385",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "La Grande Olimpiade (Olympic Games 1960)",
+    "FilmId": "tt0054940",
+    "Name": "dell Istituto Nazionale Luce, Comitato Organizzatore Del Giochi Della XVII Olimpiade",
+    "Nominees": "dell Istituto Nazionale Luce|Comitato Organizzatore Del Giochi Della XVII Olimpiade",
+    "NomineeIds": "?|?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Feature)",
+    "Category": "DOCUMENTARY (Feature)",
+    "Film": "Le Ciel et la Boue (Sky Above and Mud Beneath)",
+    "FilmId": "tt0053714",
+    "Name": "Arthur Cohn and Rene Lafuite, Producers",
+    "Nominees": "Arthur Cohn|Rene Lafuite",
+    "NomineeIds": "nm0004453|nm0481090",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Breaking the Language Barrier",
+    "FilmId": "tt0054699",
+    "Name": "United States Air Force",
+    "Nominees": "United States Air Force",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Cradle of Genius",
+    "FilmId": "tt0054767",
+    "Name": "Jim O'Connor and Tom Hayes, Producers",
+    "Nominees": "Jim O'Connor|Tom Hayes",
+    "NomineeIds": "nm0640376|nm0371259",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Kahl",
+    "FilmId": "tt0055040",
+    "Name": "Dido-Film-GmbH",
+    "Nominees": "Dido-Film-GmbH",
+    "NomineeIds": "?",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "L'Uomo in Grigio (The Man in Gray)",
+    "FilmId": "tt0055576",
+    "Name": "Benedetto Benedetti, Producer",
+    "Nominees": "Benedetto Benedetti",
+    "NomineeIds": "nm0070688",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "DOCUMENTARY (Short Subject)",
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Film": "Project Hope",
+    "FilmId": "tt0055333",
+    "Name": "Frank P. Bibas, Producer",
+    "Nominees": "Frank P. Bibas",
+    "NomineeIds": "nm0080825",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Fanny",
+    "FilmId": "tt0054866",
+    "Name": "William H. Reynolds",
+    "Nominees": "William H. Reynolds",
+    "NomineeIds": "nm0722000",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Guns of Navarone",
+    "FilmId": "tt0054953",
+    "Name": "Alan Osbiston",
+    "Nominees": "Alan Osbiston",
+    "NomineeIds": "nm0651544",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Frederic Knudtson",
+    "Nominees": "Frederic Knudtson",
+    "NomineeIds": "nm0461772",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "The Parent Trap",
+    "FilmId": "tt0055277",
+    "Name": "Philip W. Anderson",
+    "Nominees": "Philip W. Anderson",
+    "NomineeIds": "nm0027294",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "FILM EDITING",
+    "Category": "FILM EDITING",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Thomas Stanford",
+    "Nominees": "Thomas Stanford",
+    "NomineeIds": "nm0822201",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Harry and the Butler",
+    "FilmId": "tt0054965",
+    "Name": "Denmark",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Immortal Love",
+    "FilmId": "tt0054845",
+    "Name": "Japan",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "The Important Man",
+    "FilmId": "tt0055646",
+    "Name": "Mexico",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Placido",
+    "FilmId": "tt0055310",
+    "Name": "Spain",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "INTERNATIONAL FEATURE FILM",
+    "Category": "FOREIGN LANGUAGE FILM",
+    "Film": "Through a Glass Darkly",
+    "FilmId": "tt0055499",
+    "Name": "Sweden",
+    "Nominees": "",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Breakfast at Tiffany's",
+    "FilmId": "tt0054698",
+    "Name": "Henry Mancini",
+    "Nominees": "Henry Mancini",
+    "NomineeIds": "nm0000049",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "El Cid",
+    "FilmId": "tt0054847",
+    "Name": "Miklos Rozsa",
+    "Nominees": "Miklos Rozsa",
+    "NomineeIds": "nm0000067",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Fanny",
+    "FilmId": "tt0054866",
+    "Name": "Morris Stoloff, Harry Sukman",
+    "Nominees": "Morris Stoloff|Harry Sukman",
+    "NomineeIds": "nm0006304|nm0006313",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "The Guns of Navarone",
+    "FilmId": "tt0054953",
+    "Name": "Dimitri Tiomkin",
+    "Nominees": "Dimitri Tiomkin",
+    "NomineeIds": "nm0006323",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Score)",
+    "Category": "MUSIC (Music Score of a Dramatic or Comedy Picture)",
+    "Film": "Summer and Smoke",
+    "FilmId": "tt0055489",
+    "Name": "Elmer Bernstein",
+    "Nominees": "Elmer Bernstein",
+    "NomineeIds": "nm0000930",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Babes in Toyland",
+    "FilmId": "tt0054649",
+    "Name": "George Bruns",
+    "Nominees": "George Bruns",
+    "NomineeIds": "nm0005980",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Flower Drum Song",
+    "FilmId": "tt0054885",
+    "Name": "Alfred Newman, Ken Darby",
+    "Nominees": "Alfred Newman|Ken Darby",
+    "NomineeIds": "nm0000055|nm0006024",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Khovanshchina",
+    "FilmId": "tt0055046",
+    "Name": "Dimitri Shostakovich",
+    "Nominees": "Dimitri Shostakovich",
+    "NomineeIds": "nm0006291",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "Paris Blues",
+    "FilmId": "tt0055278",
+    "Name": "Duke Ellington",
+    "Nominees": "Duke Ellington",
+    "NomineeIds": "nm0254153",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song Score or Adaptation Score)",
+    "Category": "MUSIC (Scoring of a Musical Picture)",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Saul Chaplin, Johnny Green, Sid Ramin, Irwin Kostal",
+    "Nominees": "Saul Chaplin|Johnny Green|Sid Ramin|Irwin Kostal",
+    "NomineeIds": "nm0006000|nm0338004|nm0708240|nm0467348",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Bachelor in Paradise",
+    "FilmId": "tt0054652",
+    "Name": "Music by Henry Mancini; Lyrics by Mack David",
+    "Nominees": "Henry Mancini|Mack David",
+    "NomineeIds": "nm0000049|nm0202988",
+    "Winner": "",
+    "Detail": "Bachelor In Paradise",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "El Cid",
+    "FilmId": "tt0054847",
+    "Name": "Music by Miklos Rozsa; Lyrics by Paul Francis Webster",
+    "Nominees": "Miklos Rozsa|Paul Francis Webster",
+    "NomineeIds": "nm0000067|nm0916990",
+    "Winner": "",
+    "Detail": "Love Theme From El Cid (The Falcon And The Dove)",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Breakfast at Tiffany's",
+    "FilmId": "tt0054698",
+    "Name": "Music by Henry Mancini; Lyrics by Johnny Mercer",
+    "Nominees": "Henry Mancini|Johnny Mercer",
+    "NomineeIds": "nm0000049|nm0006197",
+    "Winner": "True",
+    "Detail": "Moon River",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Pocketful of Miracles",
+    "FilmId": "tt0055312",
+    "Name": "Music by James Van Heusen; Lyrics by Sammy Cahn",
+    "Nominees": "James Van Heusen|Sammy Cahn",
+    "NomineeIds": "nm0006329|nm0005991",
+    "Winner": "",
+    "Detail": "Pocketful Of Miracles",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Music",
+    "CanonicalCategory": "MUSIC (Original Song)",
+    "Category": "MUSIC (Song)",
+    "Film": "Town without Pity",
+    "FilmId": "tt0055539",
+    "Name": "Music by Dimitri Tiomkin; Lyrics by Ned Washington",
+    "Nominees": "Dimitri Tiomkin|Ned Washington",
+    "NomineeIds": "nm0006323|nm0913513",
+    "Winner": "",
+    "Detail": "Town Without Pity",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Fanny",
+    "FilmId": "tt0054866",
+    "Name": "Joshua Logan, Producer",
+    "Nominees": "Joshua Logan",
+    "NomineeIds": "nm0517597",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Guns of Navarone",
+    "FilmId": "tt0054953",
+    "Name": "Carl Foreman, Producer",
+    "Nominees": "Carl Foreman",
+    "NomineeIds": "nm0286025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "The Hustler",
+    "FilmId": "tt0054997",
+    "Name": "Robert Rossen, Producer",
+    "Nominees": "Robert Rossen",
+    "NomineeIds": "nm0744035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Stanley Kramer, Producer",
+    "Nominees": "Stanley Kramer",
+    "NomineeIds": "nm0006452",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "BEST PICTURE",
+    "Category": "BEST MOTION PICTURE",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Robert Wise, Producer",
+    "Nominees": "Robert Wise",
+    "NomineeIds": "nm0936404",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Aquamania",
+    "FilmId": "tt0054634",
+    "Name": "Walt Disney, Producer",
+    "Nominees": "Walt Disney",
+    "NomineeIds": "nm0000370",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Beep Prepared",
+    "FilmId": "tt0054674",
+    "Name": "Chuck Jones, Producer",
+    "Nominees": "Chuck Jones",
+    "NomineeIds": "nm0005062",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Ersatz (The Substitute)",
+    "FilmId": "tt0054854",
+    "Name": "Zagreb Film",
+    "Nominees": "Zagreb Film",
+    "NomineeIds": "?",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "Nelly's Folly",
+    "FilmId": "tt0055223",
+    "Name": "Chuck Jones, Producer",
+    "Nominees": "Chuck Jones",
+    "NomineeIds": "nm0005062",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Animated)",
+    "Category": "SHORT SUBJECT (Cartoon)",
+    "Film": "The Pied Piper of Guadalupe",
+    "FilmId": "tt0055298",
+    "Name": "Friz Freleng, Producer",
+    "Nominees": "Friz Freleng",
+    "NomineeIds": "nm0293989",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Ballon Vole (Play Ball!)",
+    "FilmId": "tt0054658",
+    "Name": "Ciné-Documents",
+    "Nominees": "Ciné-Documents",
+    "NomineeIds": "co0027834",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "The Face of Jesus",
+    "FilmId": "tt0054863",
+    "Name": "Dr. John D. Jennings, Producer",
+    "Nominees": "Dr. John D. Jennings",
+    "NomineeIds": "nm0421183",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Rooftops of New York",
+    "FilmId": "tt0055384",
+    "Name": "Robert Gaffney, Producer",
+    "Nominees": "Robert Gaffney",
+    "NomineeIds": "nm0300759",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Seawards the Great Ships",
+    "FilmId": "tt0055420",
+    "Name": "Templar Film Studios",
+    "Nominees": "Templar Film Studios",
+    "NomineeIds": "?",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Title",
+    "CanonicalCategory": "SHORT FILM (Live Action)",
+    "Category": "SHORT SUBJECT (Live Action)",
+    "Film": "Very Nice, Very Nice",
+    "FilmId": "tt0055594",
+    "Name": "National Film Board of Canada",
+    "Nominees": "National Film Board of Canada",
+    "NomineeIds": "co0006414",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Children's Hour",
+    "FilmId": "tt0054743",
+    "Name": "Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",
+    "Nominees": "Samuel Goldwyn|Gordon E. Sawyer",
+    "NomineeIds": "co0058013|nm0768167",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "Flower Drum Song",
+    "FilmId": "tt0054885",
+    "Name": "Revue Studio Sound Department, Waldon O. Watson, Sound Director",
+    "Nominees": "Revue|Waldon O. Watson",
+    "NomineeIds": "?|nm0910592",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Guns of Navarone",
+    "FilmId": "tt0054953",
+    "Name": "Shepperton Studio Sound Department, John Cox, Sound Director",
+    "Nominees": "Shepperton|John Cox",
+    "NomineeIds": "co0103344|nm0185090",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "The Parent Trap",
+    "FilmId": "tt0055277",
+    "Name": "Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",
+    "Nominees": "Walt Disney Studios|Robert O. Cook",
+    "NomineeIds": "co0008970|nm0177256",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "SOUND MIXING",
+    "Category": "SOUND",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Todd- AO Sound Department, Fred Hynes, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",
+    "Nominees": "Todd- AO|Fred Hynes|Samuel Goldwyn|Gordon E. Sawyer",
+    "NomineeIds": "?|nm0405261|co0058013|nm0768167",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Absent Minded Professor",
+    "FilmId": "tt0054594",
+    "Name": "Visual Effects by Robert A. Mattey, Eustace Lycett",
+    "Nominees": "Robert A. Mattey|Eustace Lycett",
+    "NomineeIds": "nm0559871|nm0527941",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Production",
+    "CanonicalCategory": "VISUAL EFFECTS",
+    "Category": "SPECIAL EFFECTS",
+    "Film": "The Guns of Navarone",
+    "FilmId": "tt0054953",
+    "Name": "Visual Effects by Bill Warrington; Audible Effects by Vivian C. Greenham",
+    "Nominees": "Bill Warrington|Vivian C. Greenham",
+    "NomineeIds": "nm0913113|nm0339051",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Breakfast at Tiffany's",
+    "FilmId": "tt0054698",
+    "Name": "George Axelrod",
+    "Nominees": "George Axelrod",
+    "NomineeIds": "nm0043480",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Guns of Navarone",
+    "FilmId": "tt0054953",
+    "Name": "Carl Foreman",
+    "Nominees": "Carl Foreman",
+    "NomineeIds": "nm0286025",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "The Hustler",
+    "FilmId": "tt0054997",
+    "Name": "Sidney Carroll, Robert Rossen",
+    "Nominees": "Sidney Carroll|Robert Rossen",
+    "NomineeIds": "nm0140987|nm0744035",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "Judgment at Nuremberg",
+    "FilmId": "tt0055031",
+    "Name": "Abby Mann",
+    "Nominees": "Abby Mann",
+    "NomineeIds": "nm0542631",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Adapted Screenplay)",
+    "Category": "WRITING (Screenplay--based on material from another medium)",
+    "Film": "West Side Story",
+    "FilmId": "tt0055614",
+    "Name": "Ernest Lehman",
+    "Nominees": "Ernest Lehman",
+    "NomineeIds": "nm0499626",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Ballad of a Soldier",
+    "FilmId": "tt0052600",
+    "Name": "Valentin Yoshov, Grigori Chukhrai",
+    "Nominees": "Valentin Yoshov|Grigori Chukhrai",
+    "NomineeIds": "nm0947899|nm0161055",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "General Della Rovere",
+    "FilmId": "tt0053856",
+    "Name": "Sergio Amidei, Diego Fabbri, Indro Montanelli",
+    "Nominees": "Sergio Amidei|Diego Fabbri|Indro Montanelli",
+    "NomineeIds": "nm0024847|nm0264420|nm0598975",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "La Dolce Vita",
+    "FilmId": "tt0053779",
+    "Name": "Federico Fellini, Tullio Pinelli, Ennio Flaiano, Brunello Rondi",
+    "Nominees": "Federico Fellini|Tullio Pinelli|Ennio Flaiano|Brunello Rondi",
+    "NomineeIds": "nm0000019|nm0684083|nm0280919|nm0740021",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Lover Come Back",
+    "FilmId": "tt0055100",
+    "Name": "Stanley Shapiro, Paul Henning",
+    "Nominees": "Stanley Shapiro|Paul Henning",
+    "NomineeIds": "nm0788630|nm0377417",
+    "Winner": "",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Writing",
+    "CanonicalCategory": "WRITING (Original Screenplay)",
+    "Category": "WRITING (Story and Screenplay--written directly for the screen)",
+    "Film": "Splendor in the Grass",
+    "FilmId": "tt0055471",
+    "Name": "William Inge",
+    "Nominees": "William Inge",
+    "NomineeIds": "nm0408718",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Special",
+    "CanonicalCategory": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "George Seaton",
+    "Nominees": "George Seaton",
+    "NomineeIds": "nm0780833",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "A Force in Readiness",
+    "FilmId": "tt0121293",
+    "Name": "",
+    "Nominees": "William L. Hendricks",
+    "NomineeIds": "nm0376757",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To William L. Hendricks for his outstanding patriotic service in the conception, writing and production of the Marine Corps film, A Force in Readiness, which has brought honor to the Academy and the motion picture industry."
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Fred L. Metzler",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Fred L. Metzler for his dedication and outstanding service to the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Special",
+    "CanonicalCategory": "HONORARY AWARD",
+    "Category": "HONORARY AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Jerome Robbins",
+    "NomineeIds": "nm0730385",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": "To Jerome Robbins for his brilliant achievements in the art of choreography on film."
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "Special",
+    "CanonicalCategory": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Category": "IRVING G. THALBERG MEMORIAL AWARD",
+    "Film": "",
+    "FilmId": "",
+    "Name": "Stanley Kramer",
+    "Nominees": "Stanley Kramer",
+    "NomineeIds": "nm0006452",
+    "Winner": "True",
+    "Detail": "",
+    "Note": "",
+    "Citation": ""
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Sylvania Electric Products Inc.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Lighting",
+    "Note": "",
+    "Citation": "To SYLVANIA ELECTRIC PRODUCTS, INC., for the development of a hand held high-power photographic lighting unit known as the Sun Gun Professional."
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "James Dale|S. WILSON|H.E. RICE|JOHN RUDE|LAURIE ATKIN|WADSWORTH E. POHL|H. PEASGOOD|TECHNICOLOR CORP.",
+    "NomineeIds": "?|?|?|?|nm1348594|?|?|?",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To JAMES DALE, S. WILSON, H.E. RICE, JOHN RUDE, LAURIE ATKIN, WADSWORTH E. POHL, H. PEASGOOD and TECHNICOLOR CORP. for a process of automatic selective printing."
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "20Th Century-Fox|E.I. Sponable|Herbert E. Bragg|Deluxe Laboratories Inc.|F.D. Leslie|R.D. Whitmore|A.A. Alden|Endel Pool|James B. Gordon",
+    "NomineeIds": "co0028775|?|?|?|?|?|?|?|nm0330286",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To 20TH CENTURY-FOX RESEARCH DEPARTMENT, under the direction of E.I. SPONABLE and HERBERT E. BRAGG, and DELUXE LABORATORIES, INC., with the assistance of F.D. LESLIE, R.D. WHITMORE, A.A. ALDEN, ENDEL POOL and JAMES B. GORDON for a system of decompressing and recomposing CinemaScope pictures for conventional aspect ratios."
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "Hurletron Inc.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To HURLETRON, INC., ELECTRIC EYE EQUIPMENT DIVISION, for an automatic light changing system for motion picture printers."
+  },
+  {
+    "Ceremony": 34,
+    "Year": 1961,
+    "Class": "SciTech",
+    "CanonicalCategory": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Category": "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "Film": "",
+    "FilmId": "",
+    "Name": "",
+    "Nominees": "WADSWORTH E. POHL|TECHNICOLOR CORP.",
+    "NomineeIds": "",
+    "Winner": "True",
+    "Detail": "Laboratory",
+    "Note": "",
+    "Citation": "To WADSWORTH E. POHL and TECHNICOLOR CORP. for an integrated sound and picture transfer process."
   }
 ]
