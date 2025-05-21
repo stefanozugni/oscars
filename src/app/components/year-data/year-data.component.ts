@@ -35,31 +35,21 @@ export class YearDataComponent implements OnChanges {
       this.groupedNominations = this.groupByCategory(data);
     },
     error: err => {
-      console.error(`Errore nel caricamento dei dati per l'anno ${this.year}:`, err);
+      console.error(Errore nel caricamento dei dati per l'anno ${this.year}:, err);
       this.groupedNominations = {};
     }
   });
 }
 
   private groupByCategory(nominations: Nomination[]): GroupedNominations {
-  const grouped: GroupedNominations = {};
-
-  for (const n of nominations) {
-    const category = n.CanonicalCategory;
-    if (!grouped[category]) grouped[category] = [];
-
-    grouped[category].push({
-      category: n.CanonicalCategory,
-      year: n.Year,
-      nominees: n.Nominees ? n.Nominees.split(',').map(s => s.trim()) : [],
-      movies: n.Film ? [{ title: n.Film, imdb_id: n.FilmId }] : [],
-      won: !!n.Winner || n.Winner === '1' || n.Winner === '*'
-    });
+    return nominations.reduce((acc: GroupedNominations, nomination) => {
+      if (!acc[nomination.category]) {
+        acc[nomination.category] = [];
+      }
+      acc[nomination.category].push(nomination);
+      return acc;
+    }, {});
   }
-
-  return grouped;
-}
-
 
   getCategories(): string[] {
     return Object.keys(this.groupedNominations);
