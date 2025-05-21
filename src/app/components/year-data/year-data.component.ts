@@ -35,7 +35,7 @@ export class YearDataComponent implements OnChanges {
       this.groupedNominations = this.groupByCategory(data);
     },
     error: err => {
-      console.error("Errore nel caricamento dei dati per l'anno ${this.year}:", err);
+      console.error(Errore nel caricamento dei dati per l'anno ${this.year}:, err);
       this.groupedNominations = {};
     }
   });
