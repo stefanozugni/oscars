@@ -36,7 +36,8 @@ Looking it up on Wikipedia usually means going through several links to find the
 ## Data Source
 
 This project uses data from:  
-📁 [json-nominations](https://github.com/delventhalz/json-nominations) by [@delventhalz](https://github.com/delventhalz)
+📁 [oscar_data](https:github.com/DLu/oscar_data) by [@DLu](https://github.com/DLu/oscar_data)
+https://github.com/DLu/oscar_data
 
 ---
 
