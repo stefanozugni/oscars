@@ -10,8 +10,8 @@ import { Nomination } from '../models/nomination.model';
 export class DataService {
     constructor(private http: HttpClient) { }
 
-    getDataByYear(year: string | number) : Observable<Nomination[]> {
-        const url = assets/json/${year}.json;
-        return this.http.get<Nomination[]>(url);
+    getDataByYear(year: string | number): Observable<Nomination[]> {
+      const url = `assets/json/${year}.json`;
+      return this.http.get<Nomination[]>(url);
     }
 }
