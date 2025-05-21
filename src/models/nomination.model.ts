@@ -1,5 +1,4 @@
-export interface Nomination {
-  Ceremony: number;
+ Ceremony: number;
   Year: string;
   Class: string;
   CanonicalCategory: string;
@@ -13,4 +12,3 @@ export interface Nomination {
   Detail?: string;
   Note?: string;
   Citation?: string;
-}
