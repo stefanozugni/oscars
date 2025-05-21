@@ -14,15 +14,19 @@ export class HomeComponent implements OnInit {
   @ViewChild('yearsContainer') yearsContainer!: ElementRef;
   years: (number | string)[] = [];
   selectedYear!: string | number;
-  startYear = 1934;
-  endYear = new Date().getFullYear();
+  startYearCeremony = 1929;
+  endYearCeremony = new Date().getFullYear();
+
   isImdb: boolean = false;
 
   ngOnInit() {
-    for (let y = this.endYear - 2; y >= this.startYear; y--) {
-      this.years.push(y);
+    for (let y = this.endYearCeremony; y >= this.startYearCeremony; y--) {
+      if (y >= 1934) {
+        this.years.push(y);
+      }
     }
-    const specialYears = [
+
+    const specialCeremonyYears = [
       "1932-33",
       "1931-32",
       "1930-31",
@@ -31,8 +35,16 @@ export class HomeComponent implements OnInit {
       "1927-28"
     ];
 
-    this.years = [...this.years, ...specialYears];
-    this.selectedYear = this.endYear - 2;
+    this.years = [...this.years.filter(y => typeof y === 'number'), ...specialCeremonyYears];
+
+    this.years.sort((a, b) => {
+      if (typeof a === 'string' && typeof b === 'number') return 1;
+      if (typeof a === 'number' && typeof b === 'string') return -1;
+      if (typeof a === 'string' && typeof b === 'string') return 0;
+      return (b as number) - (a as number);
+    });
+
+    this.selectedYear = this.endYearCeremony;
   }
 
   selectYear(year: string | number) {

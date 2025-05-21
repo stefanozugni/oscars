@@ -30,13 +30,43 @@ export class YearDataComponent implements OnChanges {
   }
 
   loadDataForYear(): void {
-    this.dataService.getDataByYear(this.year).subscribe({
+    let yearToFetch: number | string;
+    if (typeof this.year === 'number') {
+
+      yearToFetch = this.year - 1;
+    } else {
+
+      switch (this.year) {
+        case "1927-28":
+          yearToFetch = 1927;
+          break;
+        case "1928-29":
+          yearToFetch = 1928;
+          break;
+        case "1929-30":
+          yearToFetch = 1929;
+          break;
+        case "1930-31":
+          yearToFetch = 1930;
+          break;
+        case "1931-32":
+          yearToFetch = 1931;
+          break;
+        case "1932-33":
+          yearToFetch = 1932;
+          break;
+        default:
+          console.warn(`Anno cerimonia speciale non riconosciuto: ${this.year}. Proverò a passarlo direttamente.`);
+          yearToFetch = this.year; // Fallback, potrebbe non funzionare
+      }
+    }
+
+    this.dataService.getDataByYear(yearToFetch).subscribe({ // Passa l'anno corretto al servizio
       next: (data: Nomination[]) => {
-        //console.log('Nominations ricevute:', data);
         this.groupedNominations = this.groupByCategory(data);
       },
       error: err => {
-        console.error(`Errore nel caricamento dei dati per l'anno ${this.year}:`, err);
+        console.error(`Errore nel caricamento dei dati per l'anno di eleggibilità ${yearToFetch}:`, err);
         this.groupedNominations = {};
       }
     });
@@ -53,7 +83,6 @@ export class YearDataComponent implements OnChanges {
     }, {});
   }
 
-
   getCategories(): string[] {
     return Object.keys(this.groupedNominations);
   }
@@ -67,6 +96,4 @@ export class YearDataComponent implements OnChanges {
       imdbId: ids[index] || undefined
     }));
   }
-
-
 }
