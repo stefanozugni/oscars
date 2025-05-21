@@ -27,7 +27,17 @@ export class YearDataComponent implements OnChanges {
     "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
     "IRVING G. THALBERG MEMORIAL AWARD",
     "HONORARY AWARD",
-    "JEAN HERSHOLT HUMANITARIAN AWARD"
+    "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "GORDON E. SAWYER AWARD",
+    "AWARD OF COMMENDATION",
+    "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "SPECIAL AWARD",
+    "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "SCIENTIFIC AND TECHNICAL AWARD (Special Award)",
+    "MEDAL OF COMMENDATION",
+    "SCIENTIFIC OR TECHNICAL AWARD (Class III)",
+    "SCIENTIFIC OR TECHNICAL AWARD (Class II)",
+    "SCIENTIFIC OR TECHNICAL AWARD (Class I)"
   ];
 
   constructor(private dataService: DataService) { }
