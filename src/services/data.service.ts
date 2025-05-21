@@ -5,14 +5,17 @@ import { Observable } from 'rxjs';
 import { Nomination } from '../models/nomination.model';
 
 @Injectable({
-    providedIn: 'root'
+  providedIn: 'root'
 })
 export class DataService {
-    constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient) { }
 
-    getDataByYear(year: string | number): Observable<Nomination[]> {
-      //url
-      const url = `assets/json/${year}.json`;
-      return this.http.get<Nomination[]>(url);
-    }
+  private jsonPath = 'assets/json';
+
+
+  getDataByYear(year: number | string): Observable<Nomination[]> {
+    const fileName = `${year}.json`;
+    const url = `${this.jsonPath}/${fileName}`;
+    return this.http.get<Nomination[]>(url);
+  }
 }

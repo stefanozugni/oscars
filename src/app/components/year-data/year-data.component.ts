@@ -21,6 +21,15 @@ export class YearDataComponent implements OnChanges {
 
   groupedNominations: GroupedNominations = {};
 
+  // Definisci le categorie speciali qui
+  private specialCategories: string[] = [
+    "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "IRVING G. THALBERG MEMORIAL AWARD",
+    "HONORARY AWARD",
+    "JEAN HERSHOLT HUMANITARIAN AWARD"
+  ];
+
   constructor(private dataService: DataService) { }
 
   ngOnChanges(changes: SimpleChanges): void {
@@ -31,37 +40,14 @@ export class YearDataComponent implements OnChanges {
 
   loadDataForYear(): void {
     let yearToFetch: number | string;
-    if (typeof this.year === 'number') {
 
+    if (typeof this.year === 'number') {
       yearToFetch = this.year - 1;
     } else {
-
-      switch (this.year) {
-        case "1927-28":
-          yearToFetch = 1927;
-          break;
-        case "1928-29":
-          yearToFetch = 1928;
-          break;
-        case "1929-30":
-          yearToFetch = 1929;
-          break;
-        case "1930-31":
-          yearToFetch = 1930;
-          break;
-        case "1931-32":
-          yearToFetch = 1931;
-          break;
-        case "1932-33":
-          yearToFetch = 1932;
-          break;
-        default:
-          console.warn(`Anno cerimonia speciale non riconosciuto: ${this.year}. Proverò a passarlo direttamente.`);
-          yearToFetch = this.year; // Fallback, potrebbe non funzionare
-      }
+      yearToFetch = this.year;
     }
 
-    this.dataService.getDataByYear(yearToFetch).subscribe({ // Passa l'anno corretto al servizio
+    this.dataService.getDataByYear(yearToFetch).subscribe({
       next: (data: Nomination[]) => {
         this.groupedNominations = this.groupByCategory(data);
       },
@@ -74,7 +60,9 @@ export class YearDataComponent implements OnChanges {
 
   private groupByCategory(nominations: Nomination[]): GroupedNominations {
     return nominations.reduce((acc: GroupedNominations, nomination) => {
-      const category = nomination.CanonicalCategory || 'Uncategorized';
+      // Usa CanonicalCategory o Category, a seconda di quale contiene i nomi esatti
+      // delle categorie speciali. Dal tuo JSON, sembra essere CanonicalCategory.
+      const category = nomination.CanonicalCategory || nomination.Category || 'Uncategorized';
       if (!acc[category]) {
         acc[category] = [];
       }
@@ -85,6 +73,11 @@ export class YearDataComponent implements OnChanges {
 
   getCategories(): string[] {
     return Object.keys(this.groupedNominations);
+  }
+
+  // Nuova funzione per controllare se una categoria è speciale
+  isSpecialCategory(categoryName: string): boolean {
+    return this.specialCategories.includes(categoryName);
   }
 
   getNomineesWithLinks(nomination: any): { name: string, imdbId?: string }[] {

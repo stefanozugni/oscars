@@ -6,7 +6,7 @@
       <div class="category-movies">
         <ng-container *ngFor="let nomination of groupedNominations[category]">
 
-          <hr *ngIf="nomination.Winner?.trim()" class="winner-divider-top">
+          <hr *ngIf="nomination.Winner?.trim() && !isSpecialCategory(category)" class="winner-divider-top">
 
           <div *ngIf="category === 'Best Picture'; else otherCategories">
             <span *ngIf="nomination.FilmId">
@@ -34,7 +34,8 @@
                     {{ nominee.name }}
                   </a>
                 </ng-container>
-                <ng-template #noLink>{{ nominee.name }}</ng-template>
+                <ng-template #noLink><a style="text-decoration: none; color: var(--body);">{{ nominee.name
+                    }}</a></ng-template>
                 <span *ngIf="!last">, </span>
               </ng-container>
             </span>
@@ -54,9 +55,9 @@
             </span>
           </ng-template>
 
-          <span *ngIf="nomination.Winner?.trim()" class="winner">🏆</span>
+          <span *ngIf="nomination.Winner?.trim() && !isSpecialCategory(category)" class="winner">🏆</span>
 
-          <hr *ngIf="nomination.Winner?.trim()" class="winner-divider-bottom">
+          <hr *ngIf="nomination.Winner?.trim() && !isSpecialCategory(category)" class="winner-divider-bottom">
         </ng-container>
       </div>
     </div>
