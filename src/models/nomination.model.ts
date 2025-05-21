@@ -1,4 +1,5 @@
-category: string;
+export interface Nomination {
+    category: string;
     year: string;
     nominees: string[];
     movies: {
