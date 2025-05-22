@@ -14,19 +14,19 @@
                           ? 'https://letterboxd.com/imdb/' + nomination.FilmId + '/'
                           : 'https://www.imdb.com/title/' + nomination.FilmId" target="_blank"
                 rel="noopener noreferrer" style="text-decoration: none; color: var(--body);">
-                <span class="nomination" [ngClass]="{'winner-text': nomination.Winner?.trim()}">
+                <span class="nomination" [ngClass]="{'winner-text': nomination.Winner.trim()}">
                   <i>{{ nomination.Film }}</i>
                 </span>
               </a>
             </span>
             <span *ngIf="!nomination.FilmId && nomination.Film" class="nomination"
-              [ngClass]="{'winner-text': nomination.Winner?.trim()}">
+              [ngClass]="{'winner-text': nomination.Winner.trim()}">
               <i>{{ nomination.Film }}</i>
             </span>
           </div>
 
           <ng-template #otherCategories>
-            <span class="nomination" [ngClass]="{'winner-text': nomination.Winner?.trim()}">
+            <span class="nomination" [ngClass]="{'winner-text': nomination.Winner.trim()}">
               <ng-container *ngIf="category === 'INTERNATIONAL FEATURE FILM'; else standardNominees">
                 <ng-container *ngIf="nomination.NomineeIds?.trim(); else noLinkIntl">
                   <a [href]="'https://www.imdb.com/name/' + nomination.NomineeIds.trim()" target="_blank"
@@ -69,9 +69,9 @@
             </span>
           </ng-template>
 
-          <span *ngIf="nomination.Winner?.trim() && !isSpecialCategory(category)" class="winner">🏆</span>
+          <span *ngIf="nomination.Winner.trim() && !isSpecialCategory(category)" class="winner">🏆</span>
 
-          <hr *ngIf="nomination.Winner?.trim() && !isSpecialCategory(category)" class="winner-divider-bottom">
+          <hr *ngIf="nomination.Winner.trim() && !isSpecialCategory(category)" class="winner-divider-bottom">
         </ng-container>
       </div>
     </div>
