@@ -187,6 +187,16 @@
     color: #121212;
 }
 
+.platform-explanation {
+    font-family: FuturaPT;
+    font-size: 0.85rem;
+    color: var(--subtitle);
+    margin-top: -0.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    max-width: 90%;
+}
+
 @media screen and (max-width: 500px) {
     .theme-toggle {
         bottom: 15px;

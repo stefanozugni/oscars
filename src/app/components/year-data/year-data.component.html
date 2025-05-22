@@ -27,17 +27,31 @@
 
           <ng-template #otherCategories>
             <span class="nomination" [ngClass]="{'winner-text': nomination.Winner?.trim()}">
-              <ng-container *ngFor="let nominee of getNomineesWithLinks(nomination); let last = last">
-                <ng-container *ngIf="nominee.imdbId; else noLink">
-                  <a [href]="'https://www.imdb.com/name/' + nominee.imdbId" target="_blank" rel="noopener noreferrer"
-                    style="text-decoration: none; color: var(--body);">
-                    {{ nominee.name }}
+              <ng-container *ngIf="category === 'INTERNATIONAL FEATURE FILM'; else standardNominees">
+                <ng-container *ngIf="nomination.NomineeIds?.trim(); else noLinkIntl">
+                  <a [href]="'https://www.imdb.com/name/' + nomination.NomineeIds.trim()" target="_blank"
+                    rel="noopener noreferrer" style="text-decoration: none; color: var(--body);">
+                    {{ nomination.Name }}
                   </a>
                 </ng-container>
-                <ng-template #noLink><a style="text-decoration: none; color: var(--body);">{{ nominee.name
-                    }}</a></ng-template>
-                <span *ngIf="!last">, </span>
+                <ng-template #noLinkIntl>
+                  <a style="text-decoration: none; color: var(--body);">{{ nomination.Name }}</a>
+                </ng-template>
               </ng-container>
+              <ng-template #standardNominees>
+                <ng-container *ngFor="let nominee of getNomineesWithLinks(nomination); let last = last">
+                  <ng-container *ngIf="nominee.imdbId; else noLink">
+                    <a [href]="'https://www.imdb.com/name/' + nominee.imdbId" target="_blank" rel="noopener noreferrer"
+                      style="text-decoration: none; color: var(--body);">
+                      {{ nominee.name }}
+                    </a>
+                  </ng-container>
+                  <ng-template #noLink>
+                    <a style="text-decoration: none; color: var(--body);">{{ nominee.name }}</a>
+                  </ng-template>
+                  <span *ngIf="!last">, </span>
+                </ng-container>
+              </ng-template>
             </span>
 
             <span *ngIf="nomination.Film">
