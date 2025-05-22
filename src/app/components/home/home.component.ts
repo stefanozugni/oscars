@@ -2,13 +2,14 @@ import { CommonModule } from '@angular/common';
 import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { YearDataComponent } from "../year-data/year-data.component";
+import { ScrollToTopComponent } from '../scroll-to-top/scroll-to-top.component';
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CommonModule, FormsModule, YearDataComponent],
+  imports: [CommonModule, FormsModule, YearDataComponent, ScrollToTopComponent],
   templateUrl: './home.component.html',
-  styleUrl: './home.component.scss'
+  styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
   @ViewChild('yearsContainer') yearsContainer!: ElementRef;
