@@ -3,6 +3,7 @@ import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { YearDataComponent } from "../year-data/year-data.component";
 import { ScrollToTopComponent } from '../scroll-to-top/scroll-to-top.component';
+import { AnalyticsService } from '../../../services/analytics.service';
 
 @Component({
   selector: 'app-home',
@@ -22,7 +23,7 @@ export class HomeComponent implements OnInit {
 
   isDarkMode: boolean = false;
 
-  constructor() {
+  constructor(private analytics: AnalyticsService) {
     this.isDarkMode = localStorage.getItem('darkMode') === 'true';
     if (this.isDarkMode) {
       document.body.classList.add('dark-theme');
@@ -65,6 +66,7 @@ export class HomeComponent implements OnInit {
 
   selectYear(year: string | number) {
     this.selectedYear = year;
+    this.analytics.logEvent('selected_year', { year });
   }
 
   scrollLeft() {
