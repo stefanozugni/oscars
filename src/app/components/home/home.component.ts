@@ -1,6 +1,5 @@
-// src/app/home/home.component.ts
 import { CommonModule } from '@angular/common';
-import { Component, ElementRef, OnInit, ViewChild, HostBinding } from '@angular/core'; // Aggiungi HostBinding
+import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { YearDataComponent } from "../year-data/year-data.component";
 import { ScrollToTopComponent } from '../scroll-to-top/scroll-to-top.component';
@@ -10,7 +9,7 @@ import { ScrollToTopComponent } from '../scroll-to-top/scroll-to-top.component';
   standalone: true,
   imports: [CommonModule, FormsModule, YearDataComponent, ScrollToTopComponent],
   templateUrl: './home.component.html',
-  styleUrls: ['./home.component.scss'] // Assicurati che sia styleUrls e non styleUrl
+  styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
   @ViewChild('yearsContainer') yearsContainer!: ElementRef;
@@ -19,9 +18,9 @@ export class HomeComponent implements OnInit {
   startYearCeremony = 1929;
   endYearCeremony = new Date().getFullYear();
 
-  isImdb: boolean = false;
+  isLetterboxd: boolean = false;
 
-  @HostBinding('class.dark-theme') isDarkMode: boolean = false; // Applica la classe 'dark-theme' all'host element
+  isDarkMode: boolean = false;
 
   constructor() {
     this.isDarkMode = localStorage.getItem('darkMode') === 'true';

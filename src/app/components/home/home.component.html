@@ -20,7 +20,7 @@
     <div class="link-switch">
         <img src="assets/logos/imdb.png" alt="IMDb" class="platform-icon" />
         <label class="switch">
-            <input type="checkbox" [(ngModel)]="isImdb" />
+            <input type="checkbox" [(ngModel)]="isLetterboxd" />
             <span class="slider round"></span>
         </label>
         <img src="assets/logos/letterboxd.png" alt="Letterboxd" class="platform-icon" />
@@ -51,6 +51,6 @@
         </button>
     </div>
 
-    <app-year-data [year]="selectedYear" [isImdb]="isImdb"></app-year-data>
+    <app-year-data [year]="selectedYear" [isLetterboxd]="isLetterboxd"></app-year-data>
     <app-scroll-to-top></app-scroll-to-top>
 </div>

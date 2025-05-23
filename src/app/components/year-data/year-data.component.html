@@ -10,7 +10,7 @@
 
           <div *ngIf="category === 'Best Picture'; else otherCategories">
             <span *ngIf="nomination.FilmId">
-              <a [href]="isImdb
+              <a [href]="isLetterboxd
                           ? 'https://letterboxd.com/imdb/' + nomination.FilmId + '/'
                           : 'https://www.imdb.com/title/' + nomination.FilmId" target="_blank"
                 rel="noopener noreferrer" style="text-decoration: none; color: var(--body);">
@@ -56,7 +56,7 @@
 
             <span *ngIf="nomination.Film">
               <ng-container *ngIf="nomination.FilmId; else filmNoLink">
-                <a [href]="isImdb
+                <a [href]="isLetterboxd
                             ? 'https://letterboxd.com/imdb/' + nomination.FilmId + '/'
                             : 'https://www.imdb.com/title/' + nomination.FilmId" target="_blank"
                   rel="noopener noreferrer" style="text-decoration:none;" class="nomination-movie">

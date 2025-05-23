@@ -1,5 +1,3 @@
-/* src/app/home/home.component.scss */
-
 .main-container {
     width: 100%;
     height: auto;
@@ -14,30 +12,22 @@
 .header-section {
     width: 100%;
     display: flex;
-    align-items: center; // Centra verticalmente gli elementi
-    justify-content: space-between; // Distribuisce gli elementi con spazio tra loro
-    padding: 1rem 1rem 0 1rem; // Padding per "aria" sui bordi (top, right, bottom, left)
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1rem 0 1rem;
     box-sizing: border-box;
 }
 
 .header-spacer {
-    /* Questo spacer deve avere la stessa larghezza del .theme-toggle
-       più un po' di margine, per bilanciare lo spazio.
-       theme-toggle width (32px) + padding del bottone (0.5rem * 2) = 32px + 16px = 48px circa
-       Aggiungiamo un margine per il padding del .header-section
-    */
     width: 50px;
-    /* Larghezza del bottone (28px/32px) + un po' di margine extra */
     height: 1px;
-    /* Minima altezza, serve solo per il layout flex */
     flex-shrink: 0;
-    /* Impedisce che si rimpicciolisca */
 }
 
 
 .main-title {
-    flex-grow: 1; // Permette al titolo di occupare lo spazio centrale
-    text-align: center; // Centra il testo del titolo
+    flex-grow: 1;
+    text-align: center;
     margin: 0;
 }
 
@@ -206,7 +196,7 @@ $imdb-yellow: #00e054;
     width: 32px;
     height: 32px;
     background-color: #B0B0B0;
-    color: var(--background);
+    color: var(--body);
     border: none;
     border-radius: 50%;
     cursor: pointer;
@@ -218,7 +208,11 @@ $imdb-yellow: #00e054;
     transition: background-color 0.3s ease, transform 0.2s ease;
     z-index: 10;
     flex-shrink: 0;
-    /* Impedisce che si rimpicciolisca */
+
+    &:hover {
+        background-color: var(--title);
+        transform: scale(1.1);
+    }
 }
 
 body.dark-theme .theme-toggle {
@@ -226,7 +220,6 @@ body.dark-theme .theme-toggle {
     color: #121212;
 }
 
-/* Media query per schermi più piccoli */
 @media screen and (max-width: 500px) {
     .header-section {
         padding: 0.8rem 0.8rem 0 0.8rem;
@@ -234,7 +227,6 @@ body.dark-theme .theme-toggle {
 
     .header-spacer {
         width: 40px;
-        /* Riduci la larghezza dello spacer per mobile */
     }
 
     .main-title .title {
@@ -278,7 +270,6 @@ body.dark-theme .theme-toggle {
 @media screen and (max-width: 380px) {
     .header-spacer {
         width: 35px;
-        /* Ancora più piccolo per display molto stretti */
     }
 
     .main-title .title {
