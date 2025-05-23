@@ -1,7 +1,19 @@
 <div class="main-container">
-    <div class="main-title">
-        <span class="title">OSCARS Archive</span>
+    <div class="header-section">
+        <div class="header-spacer"></div>
+
+        <div class="main-title">
+            <span class="title">OSCARS Archive</span>
+        </div>
+
+        <button (click)="toggleTheme()" class="theme-toggle">
+            <i class="fa-solid fa-lightbulb" *ngIf="isDarkMode; else darkMode"></i>
+            <ng-template #darkMode>
+                <i class="fa-solid fa-lightbulb"></i>
+            </ng-template>
+        </button>
     </div>
+
     <div class="sub-title">
         <p class="title">The complete list of all the Oscar winners and nominees</p>
     </div>

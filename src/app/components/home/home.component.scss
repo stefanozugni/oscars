@@ -1,191 +1,125 @@
+/* src/app/home/home.component.scss */
+
 .main-container {
     width: 100%;
     height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
+    padding: 0;
+    margin: 0;
+}
 
-    .main-title {
-        width: 100%;
-        text-align: center;
-        margin-top: 0.2rem;
+.header-section {
+    width: 100%;
+    display: flex;
+    align-items: center; // Centra verticalmente gli elementi
+    justify-content: space-between; // Distribuisce gli elementi con spazio tra loro
+    padding: 1rem 1rem 0 1rem; // Padding per "aria" sui bordi (top, right, bottom, left)
+    box-sizing: border-box;
+}
 
-        .title {
-            font-family: FuturaPT;
-            font-size: 3rem;
-            color: var(--title);
-            margin-top: 0.3rem;
-        }
-    }
+.header-spacer {
+    /* Questo spacer deve avere la stessa larghezza del .theme-toggle
+       più un po' di margine, per bilanciare lo spazio.
+       theme-toggle width (32px) + padding del bottone (0.5rem * 2) = 32px + 16px = 48px circa
+       Aggiungiamo un margine per il padding del .header-section
+    */
+    width: 50px;
+    /* Larghezza del bottone (28px/32px) + un po' di margine extra */
+    height: 1px;
+    /* Minima altezza, serve solo per il layout flex */
+    flex-shrink: 0;
+    /* Impedisce che si rimpicciolisca */
+}
 
-    .sub-title {
-        .title {
-            font-family: FuturaPT;
-            font-size: 1rem;
-            color: var(--subtitle);
-            text-align: center;
-        }
-    }
 
-    $linkboxd-green: #e6b91e;
-    $imdb-yellow: #00e054;
+.main-title {
+    flex-grow: 1; // Permette al titolo di occupare lo spazio centrale
+    text-align: center; // Centra il testo del titolo
+    margin: 0;
+}
 
-    .link-switch {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 12px;
-        margin: 1rem 0;
+.main-title .title {
+    font-family: FuturaPT;
+    font-size: 3rem;
+    color: var(--title);
+    margin: 0;
+}
 
-        .platform-icon {
-            width: 28px;
-            height: 28px;
-        }
+.sub-title {
+    width: 100%;
+    text-align: center;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
 
-        .switch {
-            position: relative;
-            display: inline-block;
-            width: 50px;
-            height: 26px;
-
-            input {
-                opacity: 0;
-                width: 0;
-                height: 0;
-            }
-
-            .slider {
-                position: absolute;
-                cursor: pointer;
-                top: 0;
-                left: 0;
-                right: 0;
-                bottom: 0;
-                background-color: $linkboxd-green;
-                transition: 0.4s;
-                border-radius: 34px;
-
-                &:before {
-                    position: absolute;
-                    content: "";
-                    height: 20px;
-                    width: 20px;
-                    left: 3px;
-                    bottom: 3px;
-                    background-color: white;
-                    transition: 0.4s;
-                    border-radius: 50%;
-                }
-            }
-
-            input:checked+.slider {
-                background-color: $imdb-yellow;
-            }
-
-            input:checked+.slider:before {
-                transform: translateX(24px);
-            }
-        }
-    }
-
-    .years-selector {
-        display: flex;
-        align-items: center;
-        width: 97%;
-        overflow: hidden;
-        justify-content: center;
-        gap: 0.5rem;
-
-        .arrow {
-            background: none;
-            border: none;
-            cursor: pointer;
-            padding: 0.5rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: opacity 0.3s ease;
-            color: var(--title);
-
-            .arrow-icon {
-                width: 28px;
-                height: 28px;
-
-                path {
-                    fill: var(--body);
-                }
-            }
-
-            &:hover {
-                opacity: 0.7;
-            }
-        }
-
-        .years-container {
-            display: flex;
-            overflow-x: auto;
-            white-space: nowrap;
-            flex: 1;
-            scroll-behavior: smooth;
-            scrollbar-width: none;
-            -ms-overflow-style: none;
-
-            &::-webkit-scrollbar {
-                display: none;
-            }
-
-            .year-btn {
-                display: inline-block;
-                margin: 0 5px;
-                padding: 10px;
-                cursor: pointer;
-                border: none;
-                background-color: transparent;
-                color: var(--text-color);
-                transition: color 0.3s ease, transform 0.2s ease;
-
-                &:hover {
-                    color: var(--title);
-                    transform: scale(1.05);
-                }
-            }
-
-            .year-btn.active {
-                color: var(--title);
-                font-weight: bold;
-            }
-        }
+    .title {
+        font-family: FuturaPT;
+        font-size: 1rem;
+        color: var(--subtitle);
     }
 }
 
-.theme-toggle {
-    position: fixed;
-    top: 15px;
-    right: 15px;
-    width: 50px;
-    height: 50px;
-    background-color: #B0B0B0;
-    color: var(--background);
-    border: none;
-    border-radius: 50%;
-    cursor: pointer;
-    font-size: 24px;
+$linkboxd-green: #e6b91e;
+$imdb-yellow: #00e054;
+
+.link-switch {
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-    transition: background-color 0.3s ease, transform 0.2s ease;
+    gap: 12px;
+    margin: 1rem 0;
 
-    &:hover {
-        background-color: var(--title);
-        transform: scale(1.1);
+    .platform-icon {
+        width: 28px;
+        height: 28px;
     }
-}
 
-.dark-theme .theme-toggle {
-    background-color: #ffffff;
-    color: #121212;
+    .switch {
+        position: relative;
+        display: inline-block;
+        width: 50px;
+        height: 26px;
+
+        input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: $linkboxd-green;
+            transition: 0.4s;
+            border-radius: 34px;
+
+            &:before {
+                position: absolute;
+                content: "";
+                height: 20px;
+                width: 20px;
+                left: 3px;
+                bottom: 3px;
+                background-color: white;
+                transition: 0.4s;
+                border-radius: 50%;
+            }
+        }
+
+        input:checked+.slider {
+            background-color: $imdb-yellow;
+        }
+
+        input:checked+.slider:before {
+            transform: translateX(24px);
+        }
+    }
 }
 
 .platform-explanation {
@@ -198,83 +132,181 @@
     max-width: 90%;
 }
 
-@media screen and (max-width: 500px) {
-    .theme-toggle {
-        bottom: 15px;
-        right: 15px;
-        top: auto;
+.years-selector {
+    display: flex;
+    align-items: center;
+    width: 97%;
+    overflow: hidden;
+    justify-content: center;
+    gap: 0.5rem;
+    margin: 1.5rem auto;
+    max-width: 800px;
+
+    .arrow {
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 0.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: opacity 0.3s ease;
+
+        .arrow-icon {
+            width: 28px;
+            height: 28px;
+
+            path {
+                fill: var(--subtitle);
+            }
+        }
+
+        &:hover {
+            opacity: 0.7;
+        }
     }
 
-    .main-container {
-        .main-title {
-            .title {
-                font-size: 2.2rem; // Ridotto per schermi più piccoli
+    .years-container {
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        flex: 1;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+
+        &::-webkit-scrollbar {
+            display: none;
+        }
+
+        .year-btn {
+            display: inline-block;
+            margin: 0 5px;
+            padding: 10px;
+            cursor: pointer;
+            border: none;
+            background-color: transparent;
+            color: var(--text-color);
+            transition: color 0.3s ease, transform 0.2s ease;
+
+            &:hover {
+                color: var(--title);
+                transform: scale(1.05);
             }
         }
 
-        .sub-title {
-            .title {
+        .year-btn.active {
+            color: var(--title);
+            font-weight: bold;
+        }
+    }
+}
+
+.theme-toggle {
+    width: 32px;
+    height: 32px;
+    background-color: #B0B0B0;
+    color: var(--background);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    z-index: 10;
+    flex-shrink: 0;
+    /* Impedisce che si rimpicciolisca */
+}
+
+body.dark-theme .theme-toggle {
+    background-color: #ffffff;
+    color: #121212;
+}
+
+/* Media query per schermi più piccoli */
+@media screen and (max-width: 500px) {
+    .header-section {
+        padding: 0.8rem 0.8rem 0 0.8rem;
+    }
+
+    .header-spacer {
+        width: 40px;
+        /* Riduci la larghezza dello spacer per mobile */
+    }
+
+    .main-title .title {
+        font-size: 2.2rem;
+    }
+
+    .theme-toggle {
+        width: 28px;
+        height: 28px;
+        font-size: 16px;
+    }
+
+    .sub-title .title {
+        font-size: 0.9rem;
+    }
+
+    .years-selector {
+        .arrow {
+            padding: 0.3rem;
+
+            .arrow-icon {
+                width: 22px;
+                height: 22px;
+
+                path {
+                    fill: var(--subtitle);
+                }
+            }
+        }
+
+        .years-container {
+            .year-btn {
+                margin: 0 3px;
+                padding: 8px;
                 font-size: 0.9rem;
-            }
-        }
-
-        .years-selector {
-            .arrow {
-                padding: 0.3rem;
-
-                .arrow-icon {
-                    width: 22px;
-                    height: 22px;
-
-                    path {
-                        fill: var(--body);
-                    }
-
-                }
-            }
-
-            .years-container {
-                .year-btn {
-                    margin: 0 3px;
-                    padding: 8px;
-                    font-size: 0.9rem;
-                }
             }
         }
     }
 }
 
 @media screen and (max-width: 380px) {
-    .main-container {
-        .main-title {
-            .title {
-                font-size: 1.8rem; // Ancora più piccolo
+    .header-spacer {
+        width: 35px;
+        /* Ancora più piccolo per display molto stretti */
+    }
+
+    .main-title .title {
+        font-size: 1.8rem;
+    }
+
+    .theme-toggle {
+        width: 25px;
+        height: 25px;
+        font-size: 14px;
+    }
+
+    .sub-title .title {
+        font-size: 0.8rem;
+    }
+
+    .years-selector {
+        .arrow .arrow-icon {
+            width: 20px;
+            height: 20px;
+
+            path {
+                fill: var(--subtitle);
             }
         }
 
-        .sub-title {
-            .title {
-                font-size: 0.8rem;
-            }
-        }
-
-        .years-selector {
-            .arrow {
-                .arrow-icon {
-                    width: 20px;
-                    height: 20px;
-
-                    path {
-                        fill: var(--body);
-                    }
-                }
-            }
-
-            .years-container {
-                .year-btn {
-                    font-size: 0.85rem;
-                }
-            }
+        .years-container .year-btn {
+            font-size: 0.85rem;
         }
     }
 }
