@@ -1,48 +1,50 @@
 .scroll-to-top {
     position: fixed;
     bottom: 30px;
-    right: 30px;
-    width: 60px;
-    height: 60px;
+    right: 15px;
+    width: 40px;
+    height: 40px;
     cursor: pointer;
     z-index: 1000;
     opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.3s ease, visibility 0.3s ease;
+    transform: scale(0.9) translateY(20px);
+    pointer-events: none;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
 
-    &.show {
-        opacity: 1;
-        visibility: visible;
-    }
+.scroll-to-top.show {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+    pointer-events: auto;
+}
 
-    .progress-ring {
-        transform: rotate(-90deg);
-    }
+.scroll-to-top .progress-ring {
+    transform: rotate(-90deg);
+    width: 40px;
+    height: 40px;
+}
 
-    .progress-ring__background {
-        stroke-linecap: round;
-    }
+.scroll-to-top .progress-ring__background {
+    stroke-linecap: round;
+}
 
-    .progress-ring__circle {
-        stroke-linecap: round;
-        stroke-dasharray: 163.36;
-        stroke-dashoffset: 163.36;
-        transition: stroke-dashoffset 0.1s linear;
-    }
+.scroll-to-top .progress-ring__circle {
+    stroke-linecap: round;
+    stroke-dasharray: 113.1;
+    stroke-dashoffset: 113.1;
+    transition: stroke-dashoffset 0.1s linear;
+}
 
-    .arrow {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        font-weight: bold;
-        color: #333;
-        pointer-events: none;
+.scroll-to-top .arrow {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+}
 
-        svg {
-            height: 2.5rem;
-            width: 2.5rem;
-            stroke: var(--body);
-        }
-    }
+.scroll-to-top .arrow svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    stroke: var(--body);
 }

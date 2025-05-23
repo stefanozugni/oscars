@@ -1,15 +1,15 @@
 .theme-toggle {
-    position: fixed;
-    top: 15px;
+    position: absolute;
+    top: 1.4rem;
     right: 15px;
-    width: 50px;
-    height: 50px;
+    width: 28px;
+    height: 28px;
     background-color: #B0B0B0;
-    color: var(--background);
+    color: var(--body);
     border: none;
     border-radius: 50%;
     cursor: pointer;
-    font-size: 24px;
+    font-size: 18px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,16 +22,15 @@
     }
 }
 
-.dark-theme .theme-toggle {
-    background-color: #ffffff;
+#B0B0B0 .dark-theme .theme-toggle {
+    background-color: #B0B0B0;
     color: #121212;
 }
 
 @media screen and (max-width: 500px) {
     .theme-toggle {
-        bottom: 30px;
+        top: 1.4rem;
         right: 15px;
-        top: auto;
     }
 
 }
