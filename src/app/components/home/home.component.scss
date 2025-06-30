@@ -204,6 +204,37 @@ $imdb-yellow: #00e054;
     }
 }
 
+.decades-selector {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 1.5rem;
+
+    .decade-btn {
+        padding: 8px 12px;
+        font-family: FuturaPT;
+        font-size: 0.9rem;
+        background-color: transparent;
+        color: var(--text-color);
+        border: 1px solid var(--subtitle);
+        border-radius: 20px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+
+        &:hover {
+            background-color: var(--subtitle);
+            color: var(--background);
+        }
+
+        &.active {
+            background-color: var(--title);
+            color: var(--background);
+            border-color: var(--title);
+        }
+    }
+}
+
 .theme-toggle {
     width: 32px;
     height: 32px;

@@ -19,6 +19,9 @@ export class HomeComponent implements OnInit {
   startYearCeremony = 1929;
   endYearCeremony = new Date().getFullYear();
 
+  decades: string[] = [];
+  selectedDecade: string = '';
+
   isLetterboxd: boolean = false;
 
   isDarkMode: boolean = false;
@@ -51,8 +54,41 @@ export class HomeComponent implements OnInit {
       return (b as number) - (a as number);
     });
 
+    const decadesSet = new Set<number>();
+    this.years.forEach(y => {
+      if (typeof y === 'number') {
+        const decadeStart = Math.floor(y / 10) * 10;
+        decadesSet.add(decadeStart);
+      }
+    });
+    this.decades = Array.from(decadesSet).sort((a, b) => b - a).map(d => `${d}s`);
+
     this.selectedYear = this.endYearCeremony;
+    this.selectedDecade = `${Math.floor(this.selectedYear as number / 10) * 10}s`;
   }
+
+  selectDecade(decade: string) {
+    this.selectedDecade = decade;
+    const decadeStart = parseInt(decade.slice(0, 4));
+    const decadeEnd = decadeStart + 9;
+
+    const targetIndex = this.years.findIndex(y => {
+      if (typeof y === 'number') {
+        return y >= decadeStart && y <= decadeEnd;
+      }
+      if (typeof y === 'string') {
+        const startYear = parseInt(y.split('-')[0]);
+        return startYear >= decadeStart && startYear <= decadeEnd;
+      }
+      return false;
+    });
+
+    if (targetIndex !== -1) {
+      const targetYear = this.years[targetIndex];
+      this.selectYear(targetYear);
+    }
+  }
+
 
   toggleTheme(): void {
     this.isDarkMode = !this.isDarkMode;
@@ -66,7 +102,21 @@ export class HomeComponent implements OnInit {
 
   selectYear(year: string | number) {
     this.selectedYear = year;
+    if (typeof year === 'number') {
+      this.selectedDecade = `${Math.floor(year / 10) * 10}s`;
+    }
     this.analytics.logEvent('selected_year', { year });
+    this.scrollYearsToSelected(year);
+  }
+
+  scrollYearsToSelected(year: string | number) {
+    const index = this.years.findIndex(y => y === year);
+    if (index !== -1) {
+      const button = this.yearsContainer.nativeElement.querySelectorAll('.year-btn')[index] as HTMLElement;
+      if (button) {
+        button.scrollIntoView({ behavior: 'smooth', inline: 'center' });
+      }
+    }
   }
 
   scrollLeft() {
