@@ -90,6 +90,10 @@ export class YearDataComponent implements OnChanges {
     return this.specialCategories.includes(categoryName);
   }
 
+  isWinner(nomination: Nomination): boolean {
+    return !!nomination.Winner && String(nomination.Winner).trim().length > 0;
+  }
+
   getNomineesWithLinks(nomination: any): { name: string, imdbId?: string }[] {
     const names: string[] = nomination.Nominees?.split(',').map((n: string) => n.trim()) || [];
     const ids: string[] = nomination.NomineeIds?.split(',').map((id: string) => id.trim()) || [];

@@ -50,6 +50,19 @@
                 font-size: 1.2rem;
                 text-align: center;
 
+                .nomination-entry {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    gap: 0.15rem;
+                    margin-bottom: 0.75rem;
+                    width: 100%;
+                }
+
+                .nomination-entry:last-child {
+                    margin-bottom: 0;
+                }
+
                 .winner-divider-top {
                     border: none;
                     border-top: 1px solid var(--title);
@@ -93,12 +106,12 @@
                 .nomination {
                     display: block;
                     width: 100%;
-                    margin-bottom: 0.3rem;
+                    margin-bottom: 0;
                 }
 
                 .nomination-movie {
                     color: var(--subtitle);
-                    margin-top: 0.2rem;
+                    margin-top: 0;
                     display: block;
                 }
 
@@ -237,6 +250,10 @@
 
                 .category-movies {
                     font-size: 0.9rem;
+
+                    .nomination-entry {
+                        margin-bottom: 0.6rem;
+                    }
 
                     .winner-divider-top {
                         margin: 0.4rem auto 0.2rem auto;

@@ -1,7 +1,7 @@
 // src/app/data.service.ts
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
+import { map, Observable } from 'rxjs';
 import { Nomination } from '../models/nomination.model';
 
 @Injectable({
@@ -16,6 +16,13 @@ export class DataService {
   getDataByYear(year: number | string): Observable<Nomination[]> {
     const fileName = `${year}.json`;
     const url = `${this.jsonPath}/${fileName}`;
-    return this.http.get<Nomination[]>(url);
+    return this.http.get<Nomination[]>(url).pipe(
+      map(nominations =>
+        nominations.map(nomination => ({
+          ...nomination,
+          Winner: nomination.Winner === true ? 'True' : String(nomination.Winner ?? '')
+        }))
+      )
+    );
   }
 }

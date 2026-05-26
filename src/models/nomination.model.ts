@@ -22,7 +22,7 @@ export interface Nomination {
     Name: string;
     Nominees: string;
     NomineeIds: string;
-    Winner: string;
+    Winner: string | boolean;
     Detail: string;
     Note: string;
     Citation: string;
