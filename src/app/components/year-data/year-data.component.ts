@@ -21,6 +21,40 @@ export class YearDataComponent implements OnChanges {
 
   groupedNominations: GroupedNominations = {};
 
+  private categoryOrder: string[] = [
+    "BEST PICTURE",
+    "ACTOR IN A LEADING ROLE",
+    "ACTRESS IN A LEADING ROLE",
+    "ACTOR IN A SUPPORTING ROLE",
+    "ACTRESS IN A SUPPORTING ROLE",
+    "DIRECTING",
+    "WRITING (ORIGINAL SCREENPLAY)",
+    "WRITING / ORIGINAL SCREENPLAY",
+    "ORIGINAL SCREENPLAY",
+    "WRITING (ADAPTED SCREENPLAY)",
+    "WRITING / ADAPTED SCREENPLAY",
+    "ADAPTED SCREENPLAY",
+    "INTERNATIONAL FEATURE FILM",
+    "ANIMATED FEATURE FILM",
+    "DOCUMENTARY FEATURE FILM",
+    "CINEMATOGRAPHY",
+    "FILM EDITING",
+    "MUSIC (ORIGINAL SCORE)",
+    "MUSIC / ORIGINAL SCORE",
+    "ORIGINAL SCORE",
+    "MUSIC (ORIGINAL SONG)",
+    "MUSIC / ORIGINAL SONG",
+    "ORIGINAL SONG",
+    "PRODUCTION DESIGN",
+    "COSTUME DESIGN",
+    "MAKEUP AND HAIRSTYLING",
+    "SOUND",
+    "VISUAL EFFECTS",
+    "SHORT FILM (ANIMATED)",
+    "SHORT FILM (LIVE ACTION)",
+    "DOCUMENTARY SHORT FILM"
+  ];
+
   // Definisci le categorie speciali qui
   private specialCategories: string[] = [
     "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
@@ -82,7 +116,19 @@ export class YearDataComponent implements OnChanges {
   }
 
   getCategories(): string[] {
-    return Object.keys(this.groupedNominations);
+    return Object.keys(this.groupedNominations).sort((a, b) => {
+      const indexA = this.categoryOrder.indexOf(a.toUpperCase());
+      const indexB = this.categoryOrder.indexOf(b.toUpperCase());
+
+      if (indexA === -1 && indexB === -1) {
+        return a.localeCompare(b);
+      }
+
+      if (indexA === -1) return 1;
+      if (indexB === -1) return -1;
+
+      return indexA - indexB;
+    });
   }
 
   // Nuova funzione per controllare se una categoria è speciale
