@@ -134,6 +134,96 @@ $imdb-yellow: #00e054;
     max-width: 90%;
 }
 
+.search-section {
+    position: relative;
+    width: min(90%, 520px);
+    margin: 0 auto 0.5rem;
+    font-family: FuturaPT;
+}
+
+.archive-search {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.7rem 1rem;
+    border: 1px solid var(--subtitle);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--body);
+    font-family: FuturaPT;
+    font-size: 0.95rem;
+    text-align: center;
+    outline: none;
+    transition: border-color 0.2s ease, color 0.2s ease;
+
+    &::placeholder {
+        color: var(--subtitle);
+    }
+
+    &:focus {
+        border-color: var(--title);
+        color: var(--title);
+    }
+}
+
+.search-loading {
+    margin-top: 0.45rem;
+    text-align: center;
+    color: var(--subtitle);
+    font-size: 0.85rem;
+}
+
+.search-results {
+    position: absolute;
+    top: calc(100% + 0.4rem);
+    left: 0;
+    right: 0;
+    z-index: 20;
+    overflow: hidden;
+    border: 1px solid var(--subtitle);
+    border-radius: 8px;
+    background: var(--background);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.search-result {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.2rem;
+    padding: 0.65rem 0.85rem;
+    border: none;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.18);
+    background: transparent;
+    color: var(--body);
+    font-family: FuturaPT;
+    text-align: left;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease;
+
+    &:last-child {
+        border-bottom: none;
+    }
+
+    &:hover {
+        color: var(--title);
+        background-color: rgba(128, 128, 128, 0.08);
+    }
+}
+
+.search-result-title {
+    color: var(--title);
+    font-size: 0.95rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.search-result-meta {
+    color: var(--subtitle);
+    font-size: 0.8rem;
+    line-height: 1.2;
+}
+
 .years-selector {
     display: flex;
     align-items: center;
@@ -235,6 +325,24 @@ $imdb-yellow: #00e054;
     }
 }
 
+.stats-toggle {
+    margin: -0.5rem 0 1.5rem;
+    padding: 0.35rem 0.2rem;
+    border: none;
+    border-bottom: 1px solid var(--subtitle);
+    background: transparent;
+    color: var(--subtitle);
+    font-family: FuturaPT;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: color 0.2s ease, border-color 0.2s ease;
+
+    &:hover {
+        color: var(--title);
+        border-color: var(--title);
+    }
+}
+
 .theme-toggle {
     width: 32px;
     height: 32px;
@@ -284,6 +392,19 @@ body.dark-theme .theme-toggle {
 
     .sub-title .title {
         font-size: 0.9rem;
+    }
+
+    .search-section {
+        width: min(92%, 520px);
+    }
+
+    .archive-search {
+        padding: 0.6rem 0.85rem;
+        font-size: 0.9rem;
+    }
+
+    .search-result {
+        padding: 0.6rem 0.75rem;
     }
 
     .years-selector {

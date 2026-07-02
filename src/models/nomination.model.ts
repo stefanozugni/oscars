@@ -13,7 +13,7 @@
 // src/models/nomination.model.ts
 export interface Nomination {
     Ceremony: number;
-    Year: string;
+    Year: string | number;
     Class: string;
     CanonicalCategory: string;
     Category: string;

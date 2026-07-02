@@ -30,6 +30,22 @@
         Choose where to open movie links — crew members are always linked to IMDb.
     </p>
 
+    <!-- <div class="search-section">
+        <input class="archive-search" type="text" [(ngModel)]="searchQuery" (focus)="onSearchFocus()"
+            (input)="onSearchInput()" placeholder="Search films, people, categories..." />
+
+        <div class="search-loading" *ngIf="isLoadingSearchData">
+            Loading archive...
+        </div>
+
+        <div class="search-results" *ngIf="searchResults.length > 0">
+            <button class="search-result" *ngFor="let result of searchResults" (click)="selectSearchResult(result)">
+                <span class="search-result-title">{{ getResultTitle(result) }}</span>
+                <span class="search-result-meta">{{ getResultMeta(result) }}</span>
+            </button>
+        </div>
+    </div> -->
+
     <div class="years-selector">
         <button class="arrow" (click)="scrollLeft()">
             <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -56,6 +72,12 @@
             {{ decade }}
         </button>
     </div>
+
+    <!-- <button class="stats-toggle" (click)="toggleStats()">
+        {{ showStats ? 'Hide statistics' : 'View statistics' }}
+    </button>
+
+    <app-stats *ngIf="showStats" [nominations]="allNominations"></app-stats> -->
 
     <app-year-data [year]="selectedYear" [isLetterboxd]="isLetterboxd"></app-year-data>
     <app-scroll-to-top></app-scroll-to-top>

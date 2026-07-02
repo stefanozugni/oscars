@@ -1,0 +1,45 @@
+<section class="stats-section">
+  <p class="stats-empty" *ngIf="!hasStats">Loading statistics...</p>
+
+  <div class="stats-grid" *ngIf="hasStats">
+    <article class="stats-card">
+      <h2>Most nominated films</h2>
+      <ol>
+        <li *ngFor="let item of filmNominations">
+          <span>{{ item.name }}</span>
+          <strong>{{ item.count }}</strong>
+        </li>
+      </ol>
+    </article>
+
+    <article class="stats-card">
+      <h2>Most awarded films</h2>
+      <ol>
+        <li *ngFor="let item of filmWins">
+          <span>{{ item.name }}</span>
+          <strong>{{ item.count }}</strong>
+        </li>
+      </ol>
+    </article>
+
+    <article class="stats-card">
+      <h2>Most nominated people</h2>
+      <ol>
+        <li *ngFor="let item of peopleNominations">
+          <span>{{ item.name }}</span>
+          <strong>{{ item.count }}</strong>
+        </li>
+      </ol>
+    </article>
+
+    <article class="stats-card">
+      <h2>Most awarded people</h2>
+      <ol>
+        <li *ngFor="let item of peopleWins">
+          <span>{{ item.name }}</span>
+          <strong>{{ item.count }}</strong>
+        </li>
+      </ol>
+    </article>
+  </div>
+</section>

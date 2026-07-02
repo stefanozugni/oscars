@@ -4,11 +4,14 @@ import { FormsModule } from '@angular/forms';
 import { YearDataComponent } from "../year-data/year-data.component";
 import { ScrollToTopComponent } from '../scroll-to-top/scroll-to-top.component';
 import { AnalyticsService } from '../../../services/analytics.service';
+import { DataService } from '../../../services/data.service';
+import { Nomination } from '../../../models/nomination.model';
+import { StatsComponent } from '../stats/stats.component';
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CommonModule, FormsModule, YearDataComponent, ScrollToTopComponent],
+  imports: [CommonModule, FormsModule, YearDataComponent, ScrollToTopComponent, StatsComponent],
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss']
 })
@@ -22,11 +25,23 @@ export class HomeComponent implements OnInit {
   decades: string[] = [];
   selectedDecade: string = '';
 
-  isLetterboxd: boolean = false;
+  isLetterboxd: boolean = true; //a false per imdb di default
 
   isDarkMode: boolean = false;
 
-  constructor(private analytics: AnalyticsService) {
+  searchQuery: string = '';
+  searchResults: Nomination[] = [];
+  allNominations: Nomination[] = [];
+  isSearchDataLoaded: boolean = false;
+  isLoadingSearchData: boolean = false;
+  showStats: boolean = false;
+  private searchDebounce?: ReturnType<typeof setTimeout>;
+  private lastLoggedSearchQuery: string = '';
+
+  constructor(
+    private analytics: AnalyticsService,
+    private dataService: DataService
+  ) {
     this.isDarkMode = localStorage.getItem('darkMode') === 'true';
     if (this.isDarkMode) {
       document.body.classList.add('dark-theme');
@@ -102,9 +117,7 @@ export class HomeComponent implements OnInit {
 
   selectYear(year: string | number) {
     this.selectedYear = year;
-    if (typeof year === 'number') {
-      this.selectedDecade = `${Math.floor(year / 10) * 10}s`;
-    }
+    this.updateSelectedDecadeFromYear(year);
     this.analytics.logEvent('selected_year', { year });
     this.scrollYearsToSelected(year);
   }
@@ -130,6 +143,189 @@ export class HomeComponent implements OnInit {
     this.yearsContainer.nativeElement.scrollBy({
       left: 200,
       behavior: 'smooth'
+    });
+  }
+
+  loadSearchDataIfNeeded(): void {
+    if (this.isSearchDataLoaded || this.isLoadingSearchData) {
+      return;
+    }
+
+    this.isLoadingSearchData = true;
+    this.dataService.getAllDataByYears(this.years).subscribe({
+      next: nominations => {
+        this.allNominations = nominations;
+        this.isSearchDataLoaded = true;
+        this.isLoadingSearchData = false;
+        this.performSearch();
+      },
+      error: () => {
+        this.allNominations = [];
+        this.isSearchDataLoaded = true;
+        this.isLoadingSearchData = false;
+      }
+    });
+  }
+
+  onSearchFocus(): void {
+    this.loadSearchDataIfNeeded();
+  }
+
+  onSearchInput(): void {
+    this.loadSearchDataIfNeeded();
+
+    if (this.searchDebounce) {
+      clearTimeout(this.searchDebounce);
+    }
+
+    this.searchDebounce = setTimeout(() => {
+      this.performSearch();
+    }, 275);
+  }
+
+  performSearch(): void {
+    const query = this.normalizeSearchValue(this.searchQuery).toLowerCase();
+
+    if (query.length < 2 || !this.isSearchDataLoaded) {
+      this.searchResults = [];
+      return;
+    }
+
+    const seen = new Set<string>();
+    const results: Nomination[] = [];
+
+    for (const nomination of this.allNominations) {
+      if (!this.nominationMatchesQuery(nomination, query)) {
+        continue;
+      }
+
+      const duplicateKey = [
+        nomination.Year,
+        nomination.CanonicalCategory,
+        nomination.Category,
+        nomination.Film,
+        nomination.Name,
+        nomination.Nominees,
+        nomination.Winner
+      ].map(value => this.normalizeSearchValue(value)).join('|').toLowerCase();
+
+      if (seen.has(duplicateKey)) {
+        continue;
+      }
+
+      seen.add(duplicateKey);
+      results.push(nomination);
+
+      if (results.length === 8) {
+        break;
+      }
+    }
+
+    this.searchResults = results;
+    this.logSearchUsed(query);
+  }
+
+  selectSearchResult(result: Nomination): void {
+    const resultYear = this.getSelectableYear(result.Year);
+    this.analytics.logEvent('search_result_click', {
+      query: this.searchQuery,
+      year: result.Year,
+      category: result.CanonicalCategory,
+      film: result.Film,
+      name: result.Name || result.Nominees
+    });
+
+    this.selectYear(resultYear);
+    this.searchQuery = '';
+    this.searchResults = [];
+
+    setTimeout(() => {
+      const dataSection = document.querySelector('app-year-data');
+      dataSection?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 0);
+  }
+
+  toggleStats(): void {
+    this.showStats = !this.showStats;
+
+    if (this.showStats) {
+      this.analytics.logEvent('stats_opened');
+      this.loadSearchDataIfNeeded();
+    }
+  }
+
+  getResultTitle(result: Nomination): string {
+    const query = this.normalizeSearchValue(this.searchQuery).toLowerCase();
+
+    if (query && this.normalizeSearchValue(result.Film).toLowerCase().includes(query)) {
+      return this.normalizeSearchValue(result.Film);
+    }
+
+    if (query && this.normalizeSearchValue(result.Nominees).toLowerCase().includes(query)) {
+      return this.normalizeSearchValue(result.Nominees);
+    }
+
+    if (query && this.normalizeSearchValue(result.Name).toLowerCase().includes(query)) {
+      return this.normalizeSearchValue(result.Name);
+    }
+
+    return this.normalizeSearchValue(result.Film) ||
+      this.normalizeSearchValue(result.Nominees) ||
+      this.normalizeSearchValue(result.Name) ||
+      'N/A';
+  }
+
+  getResultMeta(result: Nomination): string {
+    const status = String(result.Winner ?? '').trim() ? 'Winner' : 'Nomination';
+    return `${result.Year} · ${result.CanonicalCategory || result.Category} · ${status}`;
+  }
+
+  updateSelectedDecadeFromYear(year: string | number): void {
+    const parsedYear = typeof year === 'number'
+      ? year
+      : parseInt(year.toString().split('-')[0], 10);
+
+    if (!isNaN(parsedYear)) {
+      this.selectedDecade = `${Math.floor(parsedYear / 10) * 10}s`;
+    }
+  }
+
+  private nominationMatchesQuery(nomination: Nomination, query: string): boolean {
+    return [
+      nomination.Film,
+      nomination.Nominees,
+      nomination.Name,
+      nomination.CanonicalCategory,
+      nomination.Category,
+      nomination.Year
+    ].some(value => this.normalizeSearchValue(value).toLowerCase().includes(query));
+  }
+
+  private getSelectableYear(year: string | number): string | number {
+    if (this.years.includes(year)) {
+      return year;
+    }
+
+    const numericYear = typeof year === 'number' ? year : Number(year);
+    if (!isNaN(numericYear) && this.years.includes(numericYear)) {
+      return numericYear;
+    }
+
+    return year;
+  }
+
+  private normalizeSearchValue(value: string | number | boolean): string {
+    return String(value ?? '').replace(/\s+/g, ' ').trim();
+  }
+
+  private logSearchUsed(query: string): void {
+    if (query.length < 3 || query === this.lastLoggedSearchQuery) {
+      return;
+    }
+
+    this.lastLoggedSearchQuery = query;
+    this.analytics.logEvent('search_used', {
+      query: this.searchQuery.slice(0, 80)
     });
   }
 }
