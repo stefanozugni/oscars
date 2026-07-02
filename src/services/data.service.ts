@@ -10,7 +10,7 @@ import { Nomination } from '../models/nomination.model';
 export class DataService {
   constructor(private http: HttpClient) { }
 
-  private jsonPath = 'assets/json';
+  private jsonPath = 'assets/json/oscars';
   private allDataCache: Nomination[] | null = null;
 
 

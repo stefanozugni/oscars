@@ -6,6 +6,7 @@ import { ScrollToTopComponent } from '../scroll-to-top/scroll-to-top.component';
 import { AnalyticsService } from '../../../services/analytics.service';
 import { DataService } from '../../../services/data.service';
 import { Nomination } from '../../../models/nomination.model';
+import { ArchiveMode } from '../../../models/archive-mode.model';
 import { StatsComponent } from '../stats/stats.component';
 
 @Component({
@@ -17,6 +18,7 @@ import { StatsComponent } from '../stats/stats.component';
 })
 export class HomeComponent implements OnInit {
   @ViewChild('yearsContainer') yearsContainer!: ElementRef;
+  archiveMode: ArchiveMode = 'oscars';
   years: (number | string)[] = [];
   selectedYear!: string | number;
   startYearCeremony = 1929;
