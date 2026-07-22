@@ -6,17 +6,13 @@
         {{ showYearStats ? 'Hide year stats' : 'Show year stats' }}
       </button>
 
-      <div class="year-stats-animation" [class.is-open]="showYearStats" [attr.aria-hidden]="!showYearStats">
-        <div class="year-stats-animation-inner">
-          <div class="year-stats-panel">
-            <h3>Top awarded films this year</h3>
+      <div class="year-stats-panel" *ngIf="showYearStats">
+        <h3>Top awarded films this year</h3>
 
-            <div class="year-stat-row" *ngFor="let stat of getTopAwardedFilmsForYear(); let i = index">
-              <span class="year-stat-rank">{{ i + 1 }}</span>
-              <span class="year-stat-film">{{ stat.film }}</span>
-              <span class="year-stat-count">{{ stat.wins }} {{ stat.wins === 1 ? 'win' : 'wins' }}</span>
-            </div>
-          </div>
+        <div class="year-stat-row" *ngFor="let stat of getTopAwardedFilmsForYear(); let i = index">
+          <span class="year-stat-rank">{{ i + 1 }}</span>
+          <span class="year-stat-film">{{ stat.film }}</span>
+          <span class="year-stat-count">{{ stat.wins }} {{ stat.wins === 1 ? 'win' : 'wins' }}</span>
         </div>
       </div>
     </div>

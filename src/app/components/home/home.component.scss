@@ -465,3 +465,54 @@ body.dark-theme .theme-toggle {
         }
     }
 }
+
+/*
+ * Fix mobile per il pannello delle statistiche.
+ * Durante il pinch zoom evitiamo grid-template-rows e transform,
+ * che possono causare flickering e sparizioni su Chrome/Safari mobile.
+ */
+@media screen and (max-width: 768px),
+(hover: none) and (pointer: coarse) {
+    .year-stats-animation {
+        display: block;
+        grid-template-rows: none;
+        max-height: 0;
+        opacity: 0;
+        visibility: hidden;
+        overflow: hidden;
+        transform: none;
+
+        transition:
+            max-height 180ms ease,
+            opacity 140ms ease,
+            visibility 0s linear 180ms;
+    }
+
+    .year-stats-animation.is-open {
+        grid-template-rows: none;
+        max-height: 1200px;
+        opacity: 1;
+        visibility: visible;
+        overflow: visible;
+        transform: none;
+
+        transition:
+            max-height 180ms ease,
+            opacity 140ms ease,
+            visibility 0s;
+    }
+
+    .year-stats-animation-inner {
+        min-height: 0;
+        overflow: visible;
+    }
+
+    /*
+     * Disattiva l'animazione separata delle righe su mobile:
+     * durante lo zoom i transform dei singoli elementi possono lampeggiare.
+     */
+    .year-stats-animation.is-open .year-stat-row {
+        animation: none;
+        transform: none;
+    }
+}
