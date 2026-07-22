@@ -17,7 +17,7 @@ import { StatsComponent } from '../stats/stats.component';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
-  @ViewChild('yearsContainer') yearsContainer!: ElementRef;
+  @ViewChild('yearsContainer') yearsContainer!: ElementRef<HTMLElement>;
   archiveMode: ArchiveMode = 'oscars';
   years: (number | string)[] = [];
   selectedYear!: string | number;
@@ -124,14 +124,52 @@ export class HomeComponent implements OnInit {
     this.scrollYearsToSelected(year);
   }
 
-  scrollYearsToSelected(year: string | number) {
-    const index = this.years.findIndex(y => y === year);
-    if (index !== -1) {
-      const button = this.yearsContainer.nativeElement.querySelectorAll('.year-btn')[index] as HTMLElement;
-      // if (button) {
-      //   button.scrollIntoView({ behavior: 'smooth', inline: 'center' });
-      // }
+  scrollYearsToSelected(year: string | number): void {
+    const index = this.years.findIndex(item => item === year);
+
+    if (index === -1 || !this.yearsContainer) {
+      return;
     }
+
+    // Due frame permettono ad Angular di aggiornare prima
+    // la classe active e le dimensioni del pulsante.
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        const container = this.yearsContainer.nativeElement;
+        const buttons =
+          container.querySelectorAll<HTMLElement>('.year-btn');
+
+        const selectedButton = buttons[index];
+
+        if (!selectedButton) {
+          return;
+        }
+
+        const containerRect = container.getBoundingClientRect();
+        const buttonRect = selectedButton.getBoundingClientRect();
+
+        // Posizione centrale del pulsante rispetto all'intero contenuto scrollabile.
+        const buttonCenter =
+          container.scrollLeft +
+          (buttonRect.left - containerRect.left) +
+          buttonRect.width / 2;
+
+        // Porta il centro del pulsante al centro dell'area visibile.
+        const targetScrollLeft =
+          buttonCenter - container.clientWidth / 2;
+
+        const maxScrollLeft =
+          container.scrollWidth - container.clientWidth;
+
+        container.scrollTo({
+          left: Math.min(
+            Math.max(targetScrollLeft, 0),
+            maxScrollLeft
+          ),
+          behavior: 'smooth'
+        });
+      });
+    });
   }
 
   scrollLeft() {
