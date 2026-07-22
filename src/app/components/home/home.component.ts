@@ -128,9 +128,9 @@ export class HomeComponent implements OnInit {
     const index = this.years.findIndex(y => y === year);
     if (index !== -1) {
       const button = this.yearsContainer.nativeElement.querySelectorAll('.year-btn')[index] as HTMLElement;
-      if (button) {
-        button.scrollIntoView({ behavior: 'smooth', inline: 'center' });
-      }
+      // if (button) {
+      //   button.scrollIntoView({ behavior: 'smooth', inline: 'center' });
+      // }
     }
   }
 

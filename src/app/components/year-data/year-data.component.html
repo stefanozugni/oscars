@@ -1,5 +1,22 @@
 <div class="nominations-container">
   <div *ngIf="getCategories().length > 0; else noData" class="nominations">
+    <div class="year-stats-wrapper" *ngIf="getTopAwardedFilmsForYear().length > 0">
+      <button class="year-stats-toggle" type="button" (click)="toggleYearStats()"
+        [attr.aria-expanded]="showYearStats">
+        {{ showYearStats ? 'Hide year stats' : 'Show year stats' }}
+      </button>
+
+      <div class="year-stats-panel" *ngIf="showYearStats">
+        <h3>Top awarded films this year</h3>
+
+        <div class="year-stat-row" *ngFor="let stat of getTopAwardedFilmsForYear(); let i = index">
+          <span class="year-stat-rank">{{ i + 1 }}</span>
+          <span class="year-stat-film">{{ stat.film }}</span>
+          <span class="year-stat-count">{{ stat.wins }} {{ stat.wins === 1 ? 'win' : 'wins' }}</span>
+        </div>
+      </div>
+    </div>
+
     <div *ngFor="let category of getCategories()" class="category"
       [ngClass]="{'best-picture': category === 'Best Picture'}">
       <h2>{{ category }}</h2>

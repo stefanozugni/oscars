@@ -8,6 +8,13 @@ interface GroupedNominations {
   [category: string]: Nomination[];
 }
 
+interface YearFilmStat {
+  filmId: string;
+  film: string;
+  wins: number;
+  categories: string[];
+}
+
 @Component({
   selector: 'app-year-data',
   standalone: true,
@@ -19,7 +26,9 @@ export class YearDataComponent implements OnChanges {
   @Input() year!: number | string;
   @Input() isLetterboxd: boolean = false;
 
+  nominations: Nomination[] = [];
   groupedNominations: GroupedNominations = {};
+  showYearStats = false;
 
   private categoryOrder: string[] = [
     "BEST PICTURE",
@@ -39,6 +48,8 @@ export class YearDataComponent implements OnChanges {
     "DOCUMENTARY FEATURE FILM",
     "CINEMATOGRAPHY",
     "FILM EDITING",
+    "SOUND",
+    "VISUAL EFFECTS",
     "MUSIC (ORIGINAL SCORE)",
     "MUSIC / ORIGINAL SCORE",
     "ORIGINAL SCORE",
@@ -48,8 +59,6 @@ export class YearDataComponent implements OnChanges {
     "PRODUCTION DESIGN",
     "COSTUME DESIGN",
     "MAKEUP AND HAIRSTYLING",
-    "SOUND",
-    "VISUAL EFFECTS",
     "SHORT FILM (ANIMATED)",
     "SHORT FILM (LIVE ACTION)",
     "DOCUMENTARY SHORT FILM"
@@ -93,13 +102,62 @@ export class YearDataComponent implements OnChanges {
 
     this.dataService.getDataByYear(yearToFetch).subscribe({
       next: (data: Nomination[]) => {
+        this.nominations = data;
         this.groupedNominations = this.groupByCategory(data);
       },
       error: err => {
         console.error(`Errore nel caricamento dei dati per l'anno di eleggibilità ${yearToFetch}:`, err);
+        this.nominations = [];
         this.groupedNominations = {};
       }
     });
+  }
+
+  toggleYearStats(): void {
+    this.showYearStats = !this.showYearStats;
+  }
+
+  getTopAwardedFilmsForYear(): YearFilmStat[] {
+    const filmsById = new Map<string, YearFilmStat>();
+
+    for (const nomination of this.nominations) {
+      const filmId = nomination.FilmId?.trim();
+      const film = nomination.Film?.trim();
+
+      if (!filmId || !film || !nomination.Winner || !String(nomination.Winner).trim()) {
+        continue;
+      }
+
+      const existingStat = filmsById.get(filmId);
+
+      if (existingStat) {
+        existingStat.wins += 1;
+
+        const category = nomination.CanonicalCategory?.trim();
+        if (category && !existingStat.categories.includes(category)) {
+          existingStat.categories.push(category);
+        }
+      } else {
+        const category = nomination.CanonicalCategory?.trim();
+        filmsById.set(filmId, {
+          filmId,
+          film,
+          wins: 1,
+          categories: category ? [category] : []
+        });
+      }
+    }
+
+    const awardedFilms = Array.from(filmsById.values())
+      .filter(stat => stat.wins >= 2)
+      .sort((a, b) => b.wins - a.wins || a.film.localeCompare(b.film));
+
+    if (awardedFilms.length <= 5) {
+      return awardedFilms;
+    }
+
+    const cutoffWins = awardedFilms[4].wins;
+    return awardedFilms.filter(stat => stat.wins >= cutoffWins);
   }
 
   private groupByCategory(nominations: Nomination[]): GroupedNominations {

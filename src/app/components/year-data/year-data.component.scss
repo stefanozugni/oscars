@@ -22,6 +22,77 @@
         align-items: center;
         width: 100%;
 
+        .year-stats-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            max-width: 640px;
+            margin: 0 auto 1rem;
+            font-family: 'FuturaPT', sans-serif;
+            color: var(--body);
+        }
+
+        .year-stats-toggle {
+            padding: 0.35rem 0.75rem;
+            border: 1px solid var(--subtitle);
+            border-radius: 4px;
+            background: var(--background);
+            color: var(--subtitle);
+            font: inherit;
+            font-size: 0.95rem;
+            cursor: pointer;
+        }
+
+        .year-stats-toggle:hover,
+        .year-stats-toggle:focus-visible {
+            color: var(--title);
+            border-color: var(--title);
+        }
+
+        .year-stats-panel {
+            box-sizing: border-box;
+            width: 100%;
+            margin-top: 0.75rem;
+            padding: 0.85rem 1rem;
+            border-top: 1px solid var(--subtitle);
+            border-bottom: 1px solid var(--subtitle);
+            background: var(--background);
+
+            h3 {
+                margin: 0 0 0.65rem;
+                color: var(--title);
+                font-size: 1.15rem;
+                font-weight: 500;
+                text-align: center;
+            }
+        }
+
+        .year-stat-row {
+            display: grid;
+            grid-template-columns: 1.5rem minmax(0, 1fr) auto;
+            gap: 0.6rem;
+            align-items: baseline;
+            padding: 0.25rem 0;
+        }
+
+        .year-stat-rank,
+        .year-stat-count {
+            color: var(--subtitle);
+        }
+
+        .year-stat-rank {
+            text-align: center;
+        }
+
+        .year-stat-film {
+            min-width: 0;
+        }
+
+        .year-stat-count {
+            white-space: nowrap;
+        }
+
         .category {
             display: flex;
             flex-direction: column;
@@ -177,6 +248,19 @@
 @media screen and (max-width: 768px) {
     .nominations-container {
         .nominations {
+            .year-stats-wrapper {
+                width: calc(100% - 1rem);
+            }
+
+            .year-stats-panel {
+                padding: 0.75rem;
+            }
+
+            .year-stat-row {
+                gap: 0.4rem;
+                font-size: 0.9rem;
+            }
+
             .category {
                 h2 {
                     font-size: 1.8rem;
